@@ -2,6 +2,12 @@
 
 A Python script for locating cross-referenced pieces of information in related documents (e.g. articles from different outlets of the same news story). The original news dataset from [Kaggle](https://www.kaggle.com/snapcrack/all-the-news).
 
+Installation
+```
+pip install -r requirements.txt
+python -m nltk.downloader wordnet stopwords
+```
+
 Run a demo
 ```
 python demo.py
