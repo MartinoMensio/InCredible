@@ -22,6 +22,7 @@ import graphDoc
 import sys
 import getopt
 import glob
+from multiprocessing.pool import Pool
 from tqdm import tqdm
 from collections import defaultdict
 
@@ -30,7 +31,7 @@ import plot
 
 __author__ = 'Dimitrios Bountouridis'
 
-def clique_processing(clique_data, clique_id):
+def clique_processing(clique_id, clique_data):
     contents = clique_data["contents"]
     publications = clique_data["publications"]
     titles = clique_data["sentences"]
@@ -39,7 +40,7 @@ def clique_processing(clique_data, clique_id):
     gDoc=graphDoc.graphDocuments(contents,publications,titles)   # initialize object with documents and publication classes e.g. cnn, fox
     
     print("Extracting sentence structure...")
-    gDoc.sentenceProcess(withGA=False, output="temp/sentences.pkl")
+    gDoc.sentenceProcess(withGA=True, output=f"temp/sentences_{clique_id}.pkl")
     
     print("Computing sentence similarities...")
     gDoc.computeSentenceDistances(similarityFunction = "cosine")
@@ -51,15 +52,27 @@ def clique_processing(clique_data, clique_id):
     gDoc.computeNetwork(plot=False,cliqueEdges=[])
 
     print("Clique finder in the graph...")
-    gDoc.cliqueFinder(output=f"temp/cliques_{clique_id}.json",orderby="median tf-idf score")
+    gDoc.cliqueFinder(output=f"temp/cliques_GA/cliques_{clique_id}.json",orderby="median tf-idf score")
 
+def fn_wrap(arg):
+    # print(type(arg[0]), type(arg[1]))
+    try:
+        clique_processing(arg[0], arg[1])
+        return arg[0]
+    except Exception as e:
+        print(e)
+        raise ValueError(arg[0])
 
 def all_clique_processing(jsonFile):
     # Find cross-referenced pieces if information 
     print("Reading the documents")
     cliqueOfArticles = functions.readJsonFile(jsonFile)
-    for k, v in tqdm(cliqueOfArticles.items(), desc='outer loop'):
-        clique_processing(v, k)
+    items = cliqueOfArticles.items()
+    
+    pool = Pool(processes=8)
+    for clique_id in tqdm(pool.imap_unordered(fn_wrap, items), desc='outer loop'):
+        print(clique_id, 'done')
+
 
 def stats(jsonFile):
     # Computes some stats about initial cliques
@@ -115,7 +128,7 @@ def results_from_cliques(cliques_results_data, threshold = 0.25):
             # apply threshold of POI similarity
             if poi_average_similarity > threshold:
                 for o in all_outlets_publishing_about_this:
-                    if o in publications:
+                    if o in publications and len(publications) > 1:
                         # this is corroborated POI
                         label = 'corroborated'
                     else:
@@ -143,7 +156,7 @@ def main(recompute=False):
     stats(jsonFile)
     if recompute:
         all_clique_processing(jsonFile)
-    cliques_results_data = load_clique_results('temp/cliques_*')
+    cliques_results_data = load_clique_results('temp/cliques_GA/cliques_*')
     results_from_cliques(cliques_results_data)
     
     

@@ -31,7 +31,8 @@ def seriesSentence(sentences,individual):
 
 # evaluation function
 def evalOneMax(individual):
-	s=np.loadtxt('temp/vector.in')
+	pid = os.getpid()
+	s=np.loadtxt(f'temp/vector_p{pid}.in')
 	v=individual[:]
 	ns=[]
 	t=[s[0]]
@@ -53,34 +54,37 @@ def evalOneMax(individual):
 
 # the main ga function
 def GAonSequences(vector,population=50,generations=50):
-    np.savetxt('temp/vector.in', np.array(vector), delimiter=',',fmt='%f',) 
-    random.seed(2)
-    creator.create("FitnessMax", base.Fitness, weights=(1.0,))
-    creator.create("Individual", list, fitness=creator.FitnessMax)
-    toolbox = base.Toolbox()
-    toolbox.register("attr_bool", random.randint, 0, 1)
-    toolbox.register("individual", tools.initRepeat, creator.Individual, toolbox.attr_bool, n=len(vector)-1)
-    toolbox.register("population", tools.initRepeat, list, toolbox.individual)
-    toolbox.register("evaluate", evalOneMax)
-    toolbox.register("mate", tools.cxTwoPoint)
-    toolbox.register("mutate", tools.mutFlipBit, indpb=0.05)
-    toolbox.register("select", tools.selTournament, tournsize=3)
-    population = toolbox.population(n=population)
-    #print(population)
-    NGEN=generations
-    for gen in range(NGEN):
-    	#print(" generation ",gen)
-    	offspring = algorithms.varAnd(population, toolbox, cxpb=0.5, mutpb=0.1)
-    	fits = toolbox.map(toolbox.evaluate, offspring)
-    	for fit, ind in zip(fits, offspring):
-    		#print fit,ind
-    		ind.fitness.values = fit
-    	population = toolbox.select(offspring, k=len(population))
-    top10 = tools.selBest(population, k=10)
-    #print("Top 10 shifts...")
-    # for top in top10:
-    # 	print(top,evalOneMax(top))
-    return top10[0]
+	pid = os.getpid()
+	np.savetxt(f'temp/vector_p{pid}.in', np.array(vector), delimiter=',',fmt='%f',) 
+	random.seed(2)
+	creator.create("FitnessMax", base.Fitness, weights=(1.0,))
+	creator.create("Individual", list, fitness=creator.FitnessMax)
+	toolbox = base.Toolbox()
+	toolbox.register("attr_bool", random.randint, 0, 1)
+	toolbox.register("individual", tools.initRepeat, creator.Individual, toolbox.attr_bool, n=len(vector)-1)
+	toolbox.register("population", tools.initRepeat, list, toolbox.individual)
+	toolbox.register("evaluate", evalOneMax)
+	toolbox.register("mate", tools.cxTwoPoint)
+	toolbox.register("mutate", tools.mutFlipBit, indpb=0.05)
+	toolbox.register("select", tools.selTournament, tournsize=3)
+	population = toolbox.population(n=population)
+	#print(population)
+	NGEN=generations
+	for gen in range(NGEN):
+		# print(" generation ",gen)
+		offspring = algorithms.varAnd(population, toolbox, cxpb=0.5, mutpb=0.1)
+		fits = toolbox.map(toolbox.evaluate, offspring)
+		for fit, ind in zip(fits, offspring):
+			#print fit,ind
+			ind.fitness.values = fit
+		population = toolbox.select(offspring, k=len(population))
+		population = [el for el in population if len(el) > 1]
+	top10 = tools.selBest(population, k=10)
+	os.remove(f'temp/vector_p{pid}.in')
+	#print("Top 10 shifts...")
+	# for top in top10:
+	# 	print(top,evalOneMax(top))
+	return top10[0]
 
 
 
@@ -88,7 +92,7 @@ def GAonSequences(vector,population=50,generations=50):
 
 
 
-    
+	
 
-    
+	
 
