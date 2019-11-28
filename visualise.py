@@ -36,8 +36,10 @@ main_text = unidecode(main_text)
 
 
 main_text_fragments = [{'text': main_text, 'start': 0, 'end': len(main_text) + 1, 'colour': 'white'}]
+# print(main_text)
 for clique_key, clique in clique_outputs.items():
     if selected_outlet in clique['publications']:
+        # print(sorted([(el['start'], el['end']) for el in main_text_fragments]))
         # this clique is corroborated
         selected_idx = clique['publications'].index(selected_outlet)
         # iterate on all of them, because the publications field is not sorted in the same order
@@ -49,7 +51,7 @@ for clique_key, clique in clique_outputs.items():
                 break
         #print('main_text', main_text)
         if start_idx == -1:
-            print('not_found piece_to_find:', piece_to_find)
+            print('not found any sentences:', clique['sentences'])
             #raise ValueError(piece_to_find)
             continue
         # print(selected_outlet_idx, selected_outlet, available_outlets)
@@ -57,6 +59,11 @@ for clique_key, clique in clique_outputs.items():
 
         parent_fragment_matches = [el for el in main_text_fragments if (el['start']<=start_idx and el['end']>=end_idx)]
         # print(start_idx, end_idx, len(parent_fragment_matches))
+        if len(parent_fragment_matches) != 1:
+            # this is a fragment that is wider than other fragments already identified, ignore it
+            # print('len(parent_fragment_matches):', len(parent_fragment_matches), f'in {start_idx}:{end_idx}', sorted([(el['start'], el['end']) for el in main_text_fragments]))
+            # print(piece_to_find, parent_fragment_matches)
+            continue
         parent_fragment = parent_fragment_matches.pop()
 
         main_text_fragments.remove(parent_fragment)
@@ -82,10 +89,10 @@ show_other_sentences = st.checkbox('Show sentences from others', False)
 def give_colour(el):
     result = f'<span style="background-color:{el["colour"]}">{el["text"]}</span>'
     if 'clique' in el:
-        print(el['clique'])
+        # print(el['clique'])
         others = [el for el in zip(el["clique"]["publications"], el['clique']['sentences'])]
         others = ''.join([f'<li>{p}: <div style="background-color:yellow">{s}</div></li>' for p,s in others])
-        print(others)
+        # print(others)
         if show_other_sentences:
             result = result + f'<ul style="background-color:grey;">{others}</ul>'
     return result
