@@ -1,0 +1,350 @@
+{
+    "0.17943573479526753-3-89": {
+        "average clique similarity": 0.17943573479526753,
+        "clique": [
+            "2- We are outraged at ",
+            "4-In a statement  Thom",
+            "3-After the hearing  D"
+        ],
+        "median tf-idf score": 0.8943860164593109,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"We are outraged at District Attorney Thompson's inadequate sentencing recommendation,\" the family said in a statement responding to the office's decision.",
+            "In a statement, Thompson said Liang would have to \"always live with the fact that he recklessly caused Mr Gurley's death\".",
+            "After the hearing, District Attorney Ken Thompson released a statement saying he planned to appeal Justice Chun's decision to reduce the jury's verdict  --   an unusual move from a man who all along has taken a Solomonic approach to the complicated case. From the start, Mr Thompson faced enormous pressure to pursue an indictment against Mr Liang, who killed Mr Gurley the same year that Eric Garner died during a police arrest on Staten Island."
+        ],
+        "tf-idf score": [
+            0.5144158085805876,
+            0.8943860164593109,
+            1.4158126306391245
+        ]
+    },
+    "0.19879834393581378-3-27": {
+        "average clique similarity": 0.19879834393581378,
+        "clique": [
+            "1- There is no justice",
+            "3- But this is a good ",
+            "2-This sentencing reco"
+        ],
+        "median tf-idf score": 1.2361002594407968,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"There is no justice,\" Gurley's aunt, Hertencia Petersen, said as she exited the courtroom after the hearing. \"This is ridiculous. \" Inside the courtroom, family and others told the court how Gurley's death had affected them.",
+            "\"But this is a good day for Peter Liang in a year and a half when there haven't been many good days. \" As word of the sentence made its way onto the street, dueling groups of protesters erupted into chants and debate. About 60 people, waving signs and shouting, gathered around Ms Petersen, Mr Gurley's aunt. \"Another black man has been murdered by the hands of the Police Department and the officer is not being held accountable,\" she said. \"This right here is not the end.",
+            "This sentencing recommendation sends the message that police officers who kill people should not face serious consequences. \" After the judge read Liang's sentence Tuesday, Gurley's aunt, Hertencia Petersen, reportedly said, \"Akai's life does not matter."
+        ],
+        "tf-idf score": [
+            0.7701644326102703,
+            1.4941359295780705,
+            1.2361002594407968
+        ]
+    },
+    "0.20883772873619988-3-105": {
+        "average clique similarity": 0.20883772873619988,
+        "clique": [
+            "0-More than 200 extra ",
+            "2-Outside  protesters ",
+            "4-Outside the courthou"
+        ],
+        "median tf-idf score": 0.6733196129734431,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "More than 200 extra cops  --   including those from the NYPD's counterterrorism unit  --   were stationed outside the courthouse as throngs of supporters and protesters screamed and waved signs during and after the proceeding. Thompson, who was attacked from both sides over the case, shocked court observers and didn't show up.",
+            "Outside, protesters held signs calling him a \"killer cop\" and demanded the judge sentence him to prison time. Police tried to separate Liang supporters from a group of protesters who shouted that his conviction was unfair.",
+            "Outside the courthouse, dueling groups of protesters   one supporting Liang, the other Gurley's family   stood on opposite sides of the street, holding signs and chanting."
+        ],
+        "tf-idf score": [
+            0.648530614153457,
+            0.9522981831389924,
+            0.6733196129734431
+        ]
+    },
+    "0.21978145165304833-3-151": {
+        "average clique similarity": 0.21978145165304833,
+        "clique": [
+            "0- We are happy that t",
+            "2-The other charges in",
+            "1-Not ours    Other pr"
+        ],
+        "median tf-idf score": 0.8699911424667497,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"We are happy that the judge reduced the charge from reckless manslaughter to criminally negligent homicide, and that he decided to sentence Peter to probation,\" Liang's trial attorney Robert E Brown told the Post.",
+            "The other charges included   manslaughter, criminally negligent homicide,   assault, and reckless endangerment. Liang faced 15 years in prison for the manslaughter charge, but there was little chance he'd receive such a sentence.",
+            "Not ours. \" Other protested in solidarity with Gurley's family. \"I'm going to keep going out in public spaces and demand our voices be heard,\" a protester who refused to give her full name said. \"I'm standing with the people who lost loved ones from reckless violence. \" Thompson, meanwhile, vowed to appeal the modification from manslaughter to the lesser criminally negligent homicide."
+        ],
+        "tf-idf score": [
+            0.7399861894656564,
+            0.8699911424667497,
+            0.9886622253403564
+        ]
+    },
+    "0.22755418559279905-3-125": {
+        "average clique similarity": 0.22755418559279905,
+        "clique": [
+            "4-Before he was senten",
+            "2-Before the judge rea",
+            "3-Before the sentence "
+        ],
+        "median tf-idf score": 1.0409646724139934,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Before he was sentenced, Liang apologized to Gurley's family in court and said he never intended to fire the fatal bullet.",
+            "Before the judge read the sentence, the court listened to Gurley's girlfriend, Melissa Butler.",
+            "Before the sentence was issued, Mr Gurley's girlfriend, Melissa Butler, who was with him when he died, told Mr Liang that even today, she was still in pain and needed the solace of justice."
+        ],
+        "tf-idf score": [
+            1.056378506109583,
+            0.4342309722136929,
+            1.0409646724139934
+        ]
+    },
+    "0.22850038200145215-3-2": {
+        "average clique similarity": 0.22850038200145215,
+        "clique": [
+            "3- My life has forever",
+            "1- It was a dream come",
+            "4- My life is forever "
+        ],
+        "median tf-idf score": 1.026472943582367,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"My life has forever changed. \" It was at that point that Justice Chun announced that he was going to reduce the manslaughter verdict, saying there was no evidence that Mr Liang was even aware of Mr Gurley's presence in the stairwell.",
+            "\"It was a dream come true when I graduated the police academy. The shooting was an accident  ...    My life has forever changed. \"",
+            "\"My life is forever changed,\" he said. Liang testified at trial that he did not realize the bullet had hit anyone until he saw Gurley's girlfriend desperately trying to revive him. The officer claimed a noise startled him, causing his finger to pull the trigger."
+        ],
+        "tf-idf score": [
+            1.2385387761653714,
+            0.5835258369498061,
+            1.026472943582367
+        ]
+    },
+    "0.2317265724404515-3-80": {
+        "average clique similarity": 0.2317265724404515,
+        "clique": [
+            "4-Before imposing the ",
+            "3-The sentence       i",
+            "2- The shot was an acc"
+        ],
+        "median tf-idf score": 0.9675052044566844,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "Before imposing the sentence, Chun reduced Liang's manslaughter count to the lesser felony of criminally negligent homicide, finding prosecutors failed to prove Liang \"consciously disregarded\" the risk of causing another person's death.",
+            "The sentence  --   in one of the most divisive police misconduct cases in recent New York City history  --   came just moments after the judge took the unusual steps of ruling that the shooting was essentially an accident and reducing the jury's verdict on manslaughter charges to the less severe criminally negligent homicide.",
+            "\"The shot was an accident. \" Chun, the judge, said he reduced the manslaughter charge to negligent homicide because \"as I watched the video of the defendant entering the lobby of the Pink Houses, I couldn't help but feel he was entering with the serious mind of protecting the people. \""
+        ],
+        "tf-idf score": [
+            0.7227369562385133,
+            0.9675052044566844,
+            1.0727712121064188
+        ]
+    },
+    "0.23321223698620197-3-173": {
+        "average clique similarity": 0.23321223698620197,
+        "clique": [
+            "1-  I apologize to Mel",
+            "2-When it was his turn",
+            "3-It is rare for polic"
+        ],
+        "median tf-idf score": 0.9718637913859425,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            " \"I apologize to Melissa Butler and Akai Gurley's family,\" Liang said in court as he turned and faced the gallery. \"I love my wife and family for supporting me I want them to be proud of me. \"",
+            "When it was his turn to speak, Liang apologized to Butler, to Gurley's family, and said he loved his family.",
+            "It is rare for police officers even to be charged and brought to court in shooting cases while this one resulted in a guilty verdict at a   trial this winter, the sentencing was deeply disappointing to the family of the victim, Akai Gurley."
+        ],
+        "tf-idf score": [
+            0.9718637913859425,
+            0.9913464222645632,
+            0.9621901397465777
+        ]
+    },
+    "0.2376817638203984-3-94": {
+        "average clique similarity": 0.2376817638203984,
+        "clique": [
+            "4-Members of Gurley s ",
+            "3-As Brooklyn s first ",
+            "2- Officer Liang was c"
+        ],
+        "median tf-idf score": 0.7486525292306423,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "Members of Gurley's family have criticized Brooklyn District Attorney Kenneth Thompson for recommending no prison time.",
+            "As Brooklyn's first black district attorney, Mr Thompson had vowed to bring a heightened sense of social justice to the borough's communities of color. But after the conviction, Mr Thompson issued a letter recommending that Mr Liang should not serve time in prison.",
+            "\"Officer Liang was convicted of manslaughter and should serve time in prison for his crime."
+        ],
+        "tf-idf score": [
+            0.5478499746856578,
+            0.8928286595999856,
+            0.7486525292306423
+        ]
+    },
+    "0.27074690460355355-4-109": {
+        "average clique similarity": 0.27074690460355355,
+        "clique": [
+            "1-Liang fired his serv",
+            "3-Akai Gurley s life d",
+            "2-On the day of Gurley",
+            "4-The officer was patr"
+        ],
+        "median tf-idf score": 0.8232386048707152,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Liang fired his service weapon while he was on the eighth floor stair landing of the Pink Houses in Brooklyn.",
+            "Akai Gurley's life didn't matter!\" Mr Gurley died on Nov. 20, 2014, when his heart was pierced by a ricocheting bullet that Mr Liang had fired while on a night patrol in a dark stairwell in the Louis H Pink Houses in the East New York neighborhood.",
+            "On the day of Gurley's death in November 2014, Liang and his partner were patrolling the Louis H Pink Houses in Brooklyn.",
+            "The officer was patrolling the darkened stairs inside a public housing building in Brooklyn on Nov. 20, 2014, when he fired a single shot that he testified was accidental. The bullet ricocheted off a wall and struck Gurley in the chest as he walked one floor below."
+        ],
+        "tf-idf score": [
+            0.7510840293456804,
+            1.2057345998665685,
+            0.6776119565040954,
+            0.89539318039575
+        ]
+    },
+    "0.3425348323443616-3-173": {
+        "average clique similarity": 0.3425348323443616,
+        "clique": [
+            "0-He had his     9mm G",
+            "1-The bullet hit a wal",
+            "2-A New York jury had "
+        ],
+        "median tf-idf score": 0.6225220844970937,
+        "publications": [
+            "New York Post",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "He had his   . 9mm Glock out, and it went off. The bullet ricocheted off the wall and struck Gurley, who was on the landing below, in the chest.",
+            "The bullet hit a wall, ricocheted, and fatally struck Gurley, who was standing on the seventh floor landing.",
+            "A New York jury had convicted Liang of manslaughter in February for killing Akai Gurley in a housing complex stairwell after Liang's gun fired, ricocheted off a wall, and struck Gurley in the chest."
+        ],
+        "tf-idf score": [
+            0.5726225787775386,
+            0.6225220844970937,
+            0.8551154350452495
+        ]
+    },
+    "0.37415326454568315-4-19": {
+        "average clique similarity": 0.37415326454568315,
+        "clique": [
+            "2-Liang  who was convi",
+            "3-Former Officer Peter",
+            "1-Brooklyn Supreme Cou",
+            "0-Brooklyn Supreme Cou"
+        ],
+        "median tf-idf score": 1.104716368281998,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Liang, who was convicted in February of manslaughter and official misconduct in the shooting death of an unarmed black man in 2014, was sentenced Tuesday to five years of probation and community service after the judge in the case reduced his conviction from manslaughter to criminally negligent homicide moments before sentencing.",
+            "Former Officer Peter Liang will not serve any time in prison for fatally shooting an unarmed man in a Brooklyn housing project stairwell two years ago, but was instead sentenced on Tuesday to probation and community service.",
+            "Brooklyn Supreme Court Judge Danny Chun sentenced Liang to five years probation and 800 hours of community service.",
+            "Brooklyn Supreme Court Justice Danny Chun largely followed   in sentencing   Peter Liang to five years probation and 800 hours of community service for the death of Akai Gurley."
+        ],
+        "tf-idf score": [
+            1.2962871404193719,
+            1.1604796797192622,
+            0.7179843981528283,
+            1.0489530568447336
+        ]
+    },
+    "0.39073707746558445-4-50": {
+        "average clique similarity": 0.39073707746558445,
+        "clique": [
+            "3- You took a piece of",
+            "0-But the girlfriend  ",
+            "1- When you stole Akai",
+            "2- You took a piece of"
+        ],
+        "median tf-idf score": 0.7907629816739491,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"You took a piece of me,\" she said. \"You took a piece of my heart. \" Moments later, Mr Liang himself stood and turned toward Ms Butler and the others, apologizing for having killed a man they loved. \"The shot was accidental,\" he said.",
+            "But the girlfriend, Melissa Butler, who desperately tried to perform CPR on the dying Gurley, told Liang in an emotional   statement, \"Akai took his last breath and died in my hands. I'm suffering while you still have your life. ''",
+            "\"When you stole Akai's life, you stole mine as well,\" Gurley's girlfriend, Melissa Butler, said as she addressed the former officer. \"You took a piece of me.",
+            "\"You took a piece of me,\" she said to Liang, \"you took a piece of my heart. Akai took his last breath and died in my hands. I'm suffering while you still have your life. \""
+        ],
+        "tf-idf score": [
+            1.1106692616023954,
+            0.8444822922262116,
+            0.7370436711216866,
+            0.6812751185974851
+        ]
+    },
+    "0.4752776841944797-3-10": {
+        "average clique similarity": 0.4752776841944797,
+        "clique": [
+            "2- Shooting somebody n",
+            "1- Shooting that gun a",
+            "0- Shooting somebody n"
+        ],
+        "median tf-idf score": 0.6506070375028552,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"Shooting somebody never entered his mind,\" Chun said. \"This was not an intentional act. This was an act of criminal negligence. \"",
+            "\"Shooting that gun and killing somebody was probably the last thing on his mind. This was not an intentional act. This was an act of criminal negligence. \" But the judge's decision didn't go over well with family members.",
+            "\"Shooting somebody never entered his mind,'' Chun said."
+        ],
+        "tf-idf score": [
+            0.6811924689068602,
+            0.6506070375028552,
+            0.3798720732740991
+        ]
+    }
+}

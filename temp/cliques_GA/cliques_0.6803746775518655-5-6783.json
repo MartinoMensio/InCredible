@@ -1,0 +1,554 @@
+{
+    "0.13472709885385872-3-104": {
+        "average clique similarity": 0.13472709885385872,
+        "clique": [
+            "0-5 11 p  m  There are",
+            "1-In one instance  a m",
+            "2-Turkey Blocks  a gro"
+        ],
+        "median tf-idf score": 0.49059623947949677,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "5:11 p. m. There are conflicting reports about Erdogan. It was reported that he was flying back to Ankara.",
+            "In one instance, a military helicopter began shooting in Ankara. Reuters reported that a military jet shot down a military helicopter over the city, and that a bomb that exploded at the Parliament building.",
+            "Turkey Blocks, a group that tracks censorship in Turkey, tweets that all three services are blocked in the country. Dyn, another service that tracks Internet performance globally, reports that Facebook and Twitter are blocked for \"about an hour\"."
+        ],
+        "tf-idf score": [
+            0.38887320890247684,
+            0.5173561778912109,
+            0.49059623947949677
+        ]
+    },
+    "0.14909865666582725-3-14": {
+        "average clique similarity": 0.14909865666582725,
+        "clique": [
+            "2-6 30 a  m   As dawn ",
+            "4-At around 4 30 pm  a",
+            "3-Fighter jets under t"
+        ],
+        "median tf-idf score": 0.7592195568132158,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "6:30 a. m.: As dawn breaks,  Erdogan is hailed by a throng of cheering supporters. He declares the coup over and says it was treason. \"The government is in control,\" he says.",
+            "At around 4:30 pm, a statement sourced to the \"Turkish Armed Forces\" claimed that the military had seized control of the government.",
+            "Fighter jets under the control of loyalist forces flew over the capital to strike at helicopters flown by coup supporters, the   Anadolu news agency said. Private NTV television reported that one helicopter was shot down."
+        ],
+        "tf-idf score": [
+            0.7592195568132158,
+            0.6537799869417572,
+            0.7763356072252442
+        ]
+    },
+    "0.15350700626883687-3-89": {
+        "average clique similarity": 0.15350700626883687,
+        "clique": [
+            "4-The latter phrase  a",
+            "3-A military coup has ",
+            "1-The president  who h"
+        ],
+        "median tf-idf score": 0.8508362584420858,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "The latter phrase, according to Akyol,  is a reference to the Gulenist movement  --   an influential religious and political movement that used to be aligned with Erdogan but has since turned against him. Erdogan encouraged Turks to take to the streets in protest, specifically occupying airports and public squares. In Ankara, demonstrators followed Erdogan's lead, taking to the streets to support his government.",
+            "A military coup has been attempted in Turkey, pitching one of the Middle East's key hubs of power into sudden turmoil and prompting supporters of the country's elected president to take to the streets.",
+            "The president, who has dominated Turkey for more than a decade, apparently escaped an attempt to detain or kill him and made his way to the Istanbul's Ataturk Airport in the early hours of Saturday, where a huge crowd of supporters greeted him."
+        ],
+        "tf-idf score": [
+            0.8123929946450286,
+            1.1027153169943853,
+            0.8508362584420858
+        ]
+    },
+    "0.15598026878205065-3-58": {
+        "average clique similarity": 0.15598026878205065,
+        "clique": [
+            "3-Early on Saturday mo",
+            "1-Word that Akar had b",
+            "4-The casualty count i"
+        ],
+        "median tf-idf score": 0.7489908400314006,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "Early on Saturday morning there were reports of explosions and tankfire at the Turkish parliament in Ankara but the exact situation was unclear. Fighter jets and helicopters flew overhead.",
+            "Word that Akar had been taken hostage by the coup plotters was one of the early signs that not all the senior military officers were on board with the revolt.",
+            "The casualty count is   unknown, but it appears to be part of broader combat between   and   factions. There's also gunfire in Istanbul. Around 7:45 pm, Turkey's national intelligence spokesperson announced that the coup had been \"repelled\". It is radically unclear whether that's true, but the fact that a Turkish spokesperson even feels comfortable saying that is significant."
+        ],
+        "tf-idf score": [
+            0.6630948087129483,
+            0.7489908400314006,
+            0.9282944136871268
+        ]
+    },
+    "0.16122319095630433-3-91": {
+        "average clique similarity": 0.16122319095630433,
+        "clique": [
+            "0-5 11 p  m  The Turki",
+            "2-Crowds also gather a",
+            "4-A statement claiming"
+        ],
+        "median tf-idf score": 0.7014953340418806,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "5:11 p. m. The Turkish military has seized the Turkish Radio and Television officers, the national public broadcaster of Turkey.",
+            "Crowds also gather at Istanbul's    the site of a terror attack just two weeks ago. Saturday, 2:51 a. m.:  The Turkish National Intelligence unit claims the coup is over.",
+            "A statement claiming to represent the Turkish armed forces claims to have seized control of the government."
+        ],
+        "tf-idf score": [
+            0.7330436249982778,
+            0.7014953340418806,
+            0.41029797871788676
+        ]
+    },
+    "0.16298843134910426-3-157": {
+        "average clique similarity": 0.16298843134910426,
+        "clique": [
+            "3-The government elect",
+            "4-The leader of Turkey",
+            "1- The people have tak"
+        ],
+        "median tf-idf score": 0.6737660603456257,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "The government elected by the people remains in charge. This government will only go when the people say so. \" The presidency claimed it had the support of opposition leaders and the army high command.",
+            "The leader of Turkey's main opposition party has condemned the coup, suggesting limited support for the coup leaders in the political establishment. An explosion rocket Turkey's parliament in Ankara.",
+            "\"The people have taken to the streets and voiced their support for democracy,\" the acting head of the military, Gen. Umit Dundar, said at a news conference Saturday."
+        ],
+        "tf-idf score": [
+            0.4323036832776114,
+            0.8131580302312763,
+            0.6737660603456257
+        ]
+    },
+    "0.1699396935220708-3-217": {
+        "average clique similarity": 0.1699396935220708,
+        "clique": [
+            "1-The rebels did seize",
+            "3-Earlier  military ve",
+            "0-Gunfire heard on bri"
+        ],
+        "median tf-idf score": 0.7644199149906064,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The rebels did seize a number of key locations in Ankara, the capital, and Istanbul, the largest city, in the early hours of the uprising. But as the revolt started to fall apart, they quickly lost control of spots like the Bosporus bridge in Istanbul.",
+            "Earlier, military vehicles had shut off parts of major cities and imposed a de facto curfew, with gunfire heard in the capital, Ankara, and in Istanbul, Turkey's second city.",
+            "Gunfire heard on bridge over Bosphorus, Istanbul as military coup unfolds in Turkey https:  ."
+        ],
+        "tf-idf score": [
+            0.5401927764345607,
+            0.7644199149906064,
+            0.795799956646109
+        ]
+    },
+    "0.17381739371102078-3-414": {
+        "average clique similarity": 0.17381739371102078,
+        "clique": [
+            "3-He finally speaking ",
+            "0-He was supposed to m",
+            "2-CNN Turk reports tha"
+        ],
+        "median tf-idf score": 0.497879002330762,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "He finally speaking with CNN via FaceTime two hours into the drama. Erdogan, whose party won 49. 5% of the vote last November, called on Turks to rally in public.",
+            "He was supposed to make a statement on state TV, also now controlled by the armed forces, and had to make a comment via FaceTime: Erdogan making a statement on facetime right now. pic.",
+            "CNN Turk reports that soldiers have entered its building as well, and have forced the network off the air. Watch CNN Turk's final moments on air before soldier shut it down  FaceTime with the President, Saturday, 12:26 a. m. : Hours after the attempted coup against him began, President Recep Tayyip Erdogan addresses the nation via FaceTime."
+        ],
+        "tf-idf score": [
+            0.3318021932623594,
+            0.497879002330762,
+            1.0242292925870662
+        ]
+    },
+    "0.18002776305328147-3-237": {
+        "average clique similarity": 0.18002776305328147,
+        "clique": [
+            "1-But the Turkish pres",
+            "2-Video and photos on ",
+            "4-What we know  Around"
+        ],
+        "median tf-idf score": 0.6720689901070162,
+        "publications": [
+            "NPR",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "But the Turkish president  --   who has often censored and criticized social media  --   turned to FaceTime video and called on the Turkish people to resist the military action in an interview on CNN Turk.",
+            "Video and photos on social media show large crowds marching through the streets, some taunting soldiers as Turkish military fire guns in the air.",
+            "What we know  Around 3:30 pm EST, reports began streaming in on social media of major military operations in Ankara and Istanbul."
+        ],
+        "tf-idf score": [
+            0.8371340680791646,
+            0.6720689901070162,
+            0.6290230283129056
+        ]
+    },
+    "0.18128287478503782-3-28": {
+        "average clique similarity": 0.18128287478503782,
+        "clique": [
+            "2-At least 290 died an",
+            "4-Erdogan  the country",
+            "1-Erdogan was on vacat"
+        ],
+        "median tf-idf score": 0.9402857998169044,
+        "publications": [
+            "Vox",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "At least 290 died and more than 1, 400 were wounded, according to Turkey's Foreign Ministry. Around 6, 000 people have been detained so far. Here's what happened, and when (all times Turkish local time): Suddenly, chaos, confusion, Turkey, Friday night: Tanks roll onto the streets of the capital, Ankara, and Istanbul.",
+            "Erdogan, the country's   leader and the real power in Turkey's government, was on vacation and away from both Ankara and Istanbul when the coup began.",
+            "Erdogan was on vacation in Marmaris when the coup plotters launched the revolt late Friday, igniting chaos in the streets and generating rapidly changing accounts of who was in charge."
+        ],
+        "tf-idf score": [
+            0.9402857998169044,
+            1.1121345918785013,
+            0.7437308122334911
+        ]
+    },
+    "0.1822730217284931-3-73": {
+        "average clique similarity": 0.1822730217284931,
+        "clique": [
+            "0-4 16 p  m  In a stat",
+            "4- A group in the mili",
+            "3-According to the tra"
+        ],
+        "median tf-idf score": 0.7373268983787555,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "4:16 p. m. In a statement on national television, Prime Minister Binali Yildirim said his government would not allow this coup attempt to win and that he would uphold democracy.",
+            "\"A group in the military got engaged in a revolt,\" Yildirim said, according to New York Times columnist Mustafa Akyol. Yildirim vowed not to let the coup succeed.",
+            "According to the translation, the president said he would not hand Turkey over to occupiers and that the cabinet was functioning in Ankara."
+        ],
+        "tf-idf score": [
+            0.7373268983787555,
+            0.7468042909706702,
+            0.5778605210360265
+        ]
+    },
+    "0.18277807961688378-3-272": {
+        "average clique similarity": 0.18277807961688378,
+        "clique": [
+            "1-But from the beginni",
+            "0-But what is not clea",
+            "4-What we don t know  "
+        ],
+        "median tf-idf score": 0.7594965919411752,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "But from the beginning, it was not clear who within the military was behind the coup attempt, or how widespread support was in the military. There were frequent reports of gunfire.",
+            "But what is not clear yet in the latest coup is whether it fits the same pattern of secular Kemalists clamping down on Islamism.",
+            "What we don't know  Who the coup leaders are, exactly, inside the military Whether the coup has any links to the Gulenist movement, as Erdogan claims How much of the military is on their side versus the government's What faction is currently winning the struggle for control over Turkish institutions Who's been targeted by the gunfire and explosions  --   whether they're targeting demonstrators or are exchanges of fire between armed factions."
+        ],
+        "tf-idf score": [
+            0.7594965919411752,
+            0.2971208933506039,
+            1.253322672349157
+        ]
+    },
+    "0.18401248294706454-3-7": {
+        "average clique similarity": 0.18401248294706454,
+        "clique": [
+            "0-Erdogan served as ma",
+            "4-A coup attempt in Tu",
+            "2-Turkish state broadc"
+        ],
+        "median tf-idf score": 0.9147419840749184,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "Erdogan served as mayor of Istanbul in the 1990s as part of an Islamist party, but was barred from politics and imprisoned in 1998, a victim of the periodic crackdowns on religious parties that have characterized the Turkish state since its founding.",
+            "A coup attempt in Turkey has precedent: Since the creation of the modern Turkish state, there have been four successful military coups.",
+            "Turkish state broadcaster TRT says it has been taken over by members of the military who were part of the coup attempt."
+        ],
+        "tf-idf score": [
+            0.6266596796937387,
+            1.002152259229697,
+            0.9147419840749184
+        ]
+    },
+    "0.18882491720182074-3-1": {
+        "average clique similarity": 0.18882491720182074,
+        "clique": [
+            "2- Those who are respo",
+            "3-On Friday night gunf",
+            "4-In Ankara  tanks rol"
+        ],
+        "median tf-idf score": 0.8180862010087735,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "\"Those who are responsible, we will give them the necessary punishment,\" he adds. Confronting a coup, Saturday, 1:50 a. m.: Gunshots crack the night at the presidential complex in Ankara and there are reports of helicopters opening fire at the national intelligence headquarters. Videos and photos posted on social media show crowds marching through the streets    some marchers facing off against tanks and armored vehicles.",
+            "On Friday night gunfire erupted outside military headquarters and vehicles blocked two major bridges in Istanbul.",
+            "In Ankara, tanks rolled through city streets, planes flew overhead, and military vehicles surrounded army HQ Istanbul's two main bridges, the Bosphorus and the Fatih Sultan Mehmet, were blocked off by soldiers."
+        ],
+        "tf-idf score": [
+            0.9225963602045903,
+            0.5253469565458924,
+            0.8180862010087735
+        ]
+    },
+    "0.20261466864019606-3-11": {
+        "average clique similarity": 0.20261466864019606,
+        "clique": [
+            "0-The statement added ",
+            "1- Our president and g",
+            "3- We will not tolerat"
+        ],
+        "median tf-idf score": 0.9713128823376523,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The statement added: \"Turkish armed forces, in order to   constitutional order, democracy, rights and freedoms, rule of law, safety and security of the Turkish nation and the state, has taken over all governmental responsibilities of the Republic of Turkey. \" 4:39 p. m. There are reports of gunfire, as well as of an explosion in Ankara: BREAKING   AA: Explosion in police special forces training centre in #Ankara's #Golbasi district.",
+            "\"Our president and government are in charge,\" the Turkish Embassy in Washington said in a statement, adding that the coup attempt \"was conducted by a clique within the armed forces and received a   response from our nation\".",
+            "\"We will not tolerate attempts to undermine our democracy. \" He added: \"A group within the armed forces has made an attempt to overthrow the democratically elected government outside the chain of command."
+        ],
+        "tf-idf score": [
+            0.9713128823376523,
+            1.0233877569497274,
+            0.5015029785864381
+        ]
+    },
+    "0.20978090386605616-3-414": {
+        "average clique similarity": 0.20978090386605616,
+        "clique": [
+            "0-4 07 p  m  There app",
+            "1-Prime Minister Binal",
+            "3-The Turkish prime mi"
+        ],
+        "median tf-idf score": 0.7426541340704351,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "4:07 p. m. There appears to be a coup attempt in Turkey, the country's prime minister said Friday.",
+            "Prime Minister Binali Yildirim said 2, 839 military personnel had been detained so far.",
+            "The Turkish prime minister, Binali Yildirim, said in the early hours of Saturday morning that those involved in the coup were being rounded up and more than 120 arrests had been made."
+        ],
+        "tf-idf score": [
+            0.7636467409702704,
+            0.43821122039563204,
+            0.7426541340704351
+        ]
+    },
+    "0.21626651734360638-3-175": {
+        "average clique similarity": 0.21626651734360638,
+        "clique": [
+            "1-Roughly half of Syri",
+            "0-Europe  especially G",
+            "3-The Syrian civil war"
+        ],
+        "median tf-idf score": 0.474918635690193,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Roughly half of Syria's nearly 5 million refugees are in Turkey, straining the country's resources. Turkey has also been the launching point for many Syrian refugees heading to Europe.",
+            "Europe, especially Germany, has buckled under the strain of the more than 1 million refugees who entered Europe last year and the tens of thousands who have done so this year. But the overwhelming majority of the more than 4 million refugees created by the Syrian civil war live in camps in Turkey, where the security condition has deteriorated in recent months due to a combination of   attacks attributed to the Islamic State as well as Kurdish separatist groups, which Ankara regards as terrorists.",
+            "The Syrian civil war has also spilt over into Turkey, with Isis mounting a series of terror attacks across Turkey in the past year, killing hundreds."
+        ],
+        "tf-idf score": [
+            0.474918635690193,
+            0.7465888321208594,
+            0.42244588313072334
+        ]
+    },
+    "0.217918323611171-3-414": {
+        "average clique similarity": 0.217918323611171,
+        "clique": [
+            "0-He tried to make a s",
+            "1-Shortly after coup r",
+            "4-The statement sugges"
+        ],
+        "median tf-idf score": 0.6346144569901915,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "He tried to make a statement on state TV, but that has been taken over by the military, so he was apparently forced to resort to FaceTime.",
+            "Shortly after coup rumors began, a Turkish state television broadcaster read a statement saying members of the military had taken over the country.",
+            "The statement suggested the motivation was protecting Turkish democracy: \"Turkish Armed Forces have completely taken over the administration of the country to reinstate constitutional order, human rights and freedom\"."
+        ],
+        "tf-idf score": [
+            0.6346144569901915,
+            0.8879697241558451,
+            0.5957038977159971
+        ]
+    },
+    "0.2230363829427289-3-304": {
+        "average clique similarity": 0.2230363829427289,
+        "clique": [
+            "2-Who ordered them the",
+            "0-Hurriyet  the Turkis",
+            "3-Army vehicles fanned"
+        ],
+        "median tf-idf score": 0.6498342826194359,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Who ordered them there is unclear. Uniformed soldiers block the famous Bosphorus Bridge connecting the European and Asian sides of Istanbul. Cars flow from the European side to the Asian side, but soldiers and military vehicles block the path to the European side.",
+            "Hurriyet, the Turkish newspaper, reported the military has blocked the entrances of bridges going into the European section of Istanbul.",
+            "Army vehicles fanned out through Istanbul with tanks seen outside the country's main airport and military trucks filmed blocking the bridges connecting the city's Asian and European sides."
+        ],
+        "tf-idf score": [
+            0.5849179638457258,
+            0.6498342826194359,
+            0.7136392018414487
+        ]
+    },
+    "0.2310491031576556-3-414": {
+        "average clique similarity": 0.2310491031576556,
+        "clique": [
+            "0-Already  some analys",
+            "1-Updated at 10 00 am ",
+            "2-  CNN  Forces loyal "
+        ],
+        "median tf-idf score": 1.128245481462658,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Already, some analysts are shruggingly embracing the latest coup as a way to rid the country of the increasingly autocratic President Recep Tayyip Erdogan.",
+            "Updated at 10:00 am: A coup attempt by factions in the Turkish military crumbled Saturday as President Recep Tayyip Erdogan made his way to Istanbul and his government began reestablishing control after a long night of widespread violence.",
+            " (CNN) Forces loyal to Turkish President Recep Tayyip Erdogan quashed a coup attempt by some members of the military that began Friday evening and devolved into turmoil and violence."
+        ],
+        "tf-idf score": [
+            0.6031999030922937,
+            1.3504655046647682,
+            1.128245481462658
+        ]
+    },
+    "0.2322833080999354-3-221": {
+        "average clique similarity": 0.2322833080999354,
+        "clique": [
+            "1- They have pointed t",
+            "3-In a statement relea",
+            "4-The country s prime "
+        ],
+        "median tf-idf score": 1.1983632476569064,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\"They have pointed the people's guns against the people,\" Erdogan said of the coup plotters. \"The president, whom 52 percent of the people brought to power, is in charge\".",
+            "In a statement released through Turkish television channels on Friday night, people claiming to speak for the military said the army was in charge of the country, accusing the government of the president, Recep Tayyip Erdogan, of eroding Turkey's secular traditions.",
+            "The country's prime minister, Binali Yildirim, has gone on television to announce that this is a coup attempt by at least some portion of the military against the current government of President Recep Tayyip Erdogan."
+        ],
+        "tf-idf score": [
+            0.7383532345919497,
+            1.4466420823299375,
+            1.1983632476569064
+        ]
+    },
+    "0.25880020212049093-3-319": {
+        "average clique similarity": 0.25880020212049093,
+        "clique": [
+            "4-Fethullah Gulen  lea",
+            "2-He says the plotters",
+            "3-He claimed some in t"
+        ],
+        "median tf-idf score": 0.8701225018468035,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Fethullah Gulen, leader of the Gulen movement, has denied links to the coup. Late in the evening, Erdogan returned to Istanbul. This, per the New York Times, \"is a strong sign the coup is failing\".",
+            "He says the plotters will \"be punished in every way they deserve\". 7:30 p. m.: Erdogan speaks to another cheering,   crowd, blaming the coup attempt on rival Fethullah Gulen,  a cleric and former ally who lives in exile in Pennsylvania. Erdogan demands the United States arrest or extradite Gulen.",
+            "He claimed some in the military had been taking orders from the   cleric Fethullah Gulen, and that the attempted coup showed the Gulen was heading an armed terrorist organisation. Gulen has denied involvement."
+        ],
+        "tf-idf score": [
+            0.8423466083859815,
+            0.8701225018468035,
+            0.9006457274693975
+        ]
+    },
+    "0.29288029521803677-3-414": {
+        "average clique similarity": 0.29288029521803677,
+        "clique": [
+            "0-President Erdogan  I",
+            "3- I urge the Turkish ",
+            "1- I urge the Turkish "
+        ],
+        "median tf-idf score": 0.46479688895289,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "President Erdogan: I call on our people to gather in squares, airports.",
+            "\"I urge the Turkish people to convene at public squares and airports,\" he said. \"There is no power higher than the power of the people,\" he continued, adding that the judiciary \"will swiftly respond to this attack\".",
+            "\"I urge the Turkish people to convene at public squares and airports,\" he said. \"I never believed in a power higher than the power of the people\"."
+        ],
+        "tf-idf score": [
+            0.36903242210825066,
+            0.5113478757334426,
+            0.46479688895289
+        ]
+    }
+}

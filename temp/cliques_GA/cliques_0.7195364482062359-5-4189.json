@@ -1,0 +1,278 @@
+{
+    "0.19870328158680114-3-62": {
+        "average clique similarity": 0.19870328158680114,
+        "clique": [
+            "4-NBC reporter Katy Tu",
+            "3-Tyler  who hasn t co",
+            "2-An 11 30 a  m  news "
+        ],
+        "median tf-idf score": 1.0989194206788078,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "NBC reporter Katy Tur said on Twitter that Tyler had been scheduled for a live hit on MSNBC but \"abruptly left\": Cruz spox Rick Tyler was about to go live on MSNBC when he abruptly left.",
+            "Tyler, who hasn't commented yet, was tweeting on behalf of his campaign as of an hour before the announcement and was reportedly about to go on MSNBC just before Cruz told reporters of his sacking.",
+            "An 11:30 a. m. news conference was pushed back 40 minutes, as Cruz huddled with aides in the parking lot of a YMCA Tyler did not respond to a question from The Washington Post, but NBC reporter Katy Tur tweeted that he walked off the set before an interview, scheduled right when Cruz was talking to reporters."
+        ],
+        "tf-idf score": [
+            1.0989194206788078,
+            1.0445165398435101,
+            1.119508692802718
+        ]
+    },
+    "0.22267731845937833-3-2": {
+        "average clique similarity": 0.22267731845937833,
+        "clique": [
+            "3-Rubio s campaign pro",
+            "1-Donald Trump  meanwh",
+            "0- In the  Tyler wrote"
+        ],
+        "median tf-idf score": 1.1941846055515892,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Rubio's campaign promptly accused Tyler and Cruz of playing dirty tricks.",
+            "Donald Trump, meanwhile, delighted in the news, taking to Twitter to slam the \"dirty tricks\" \"Ted Cruz has now apologized to Marco Rubio and Ben Carson for fraud and dirty tricks. No wonder he has lost Evangelical support!\"",
+            "'In the  Tyler wrote:' 'The Rubio campaign released a statement defending Tyler and blasting Cruz:' 'Republican presidential frontrunner Donald Trump, who has often called Cruz a \"liar\" and accused him of dirty campaigning, quickly jumped into the fray.'"
+        ],
+        "tf-idf score": [
+            1.0890259724122673,
+            1.1941846055515892,
+            1.4381133443761693
+        ]
+    },
+    "0.2561603737164108-4-41": {
+        "average clique similarity": 0.2561603737164108,
+        "clique": [
+            "3-On Saturday  the day",
+            "1-Tyler originally had",
+            "0- The latest firestor",
+            "4-Tyler had shared on "
+        ],
+        "median tf-idf score": 1.2868329414628845,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "On Saturday, the day of the South Carolina primary, Tyler had posted on social media a link to a story with a video of Marco Rubio making a comment to a Cruz staffer who was reading the Bible.",
+            "Tyler originally had linked to a story showing a video of Rubio walking by a Cruz staffer and Cruz's father Rafael, who were reading the Bible in a hotel lobby.",
+            "'The latest firestorm started over the weekend when Tyler, Cruz''s top spokesman, posted a video on his Facebook page that purported to show Rubio pointing to a Bible a Cruz staffer was holding in a hotel lobby and saying \"not many answers\" are in it.'",
+            "Tyler had shared on social media a report that purported falsely that Rubio had made a negative comment about the Bible to a Cruz staffer."
+        ],
+        "tf-idf score": [
+            1.4520613247359864,
+            1.1480968756757934,
+            1.4255690072499756,
+            1.044239327647847
+        ]
+    },
+    "0.27457271195781274-3-83": {
+        "average clique similarity": 0.27457271195781274,
+        "clique": [
+            "1-Cruz on Monday said ",
+            "3-This was a grave err",
+            "0-  We are not a campa"
+        ],
+        "median tf-idf score": 0.900195597870236,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Fox News"
+        ],
+        "sentences": [
+            "Cruz on Monday said it was a \"grave error in judgment\"  --   but at the same time accused Rubio of exploiting the controversy for political advantage and to distract from his own record. \"We are going to stay focused on issues and substance and record,\" he said.",
+            "This was a grave error of judgment. It turned out the news story he sent around was false, but I'll tell you, even if it was true, we are not a campaign that is going to question the faith of another candidate.",
+            "'\"We are not a campaign that is going to question the faith of another candidate,\" Cruz said. \"The standards of conduct in this campaign have been made absolutely clear for every member of the campaign. \"'"
+        ],
+        "tf-idf score": [
+            1.1765543020360558,
+            0.8457006263125544,
+            0.900195597870236
+        ]
+    },
+    "0.2756483199805768-3-72": {
+        "average clique similarity": 0.2756483199805768,
+        "clique": [
+            "1-In them  Rubio actua",
+            "3-Rubio said he was in",
+            "2-According to the pap"
+        ],
+        "median tf-idf score": 0.9787354496416429,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In them, Rubio actually says of the Bible, \"All the answers are in there. \" Conant called the move \"another dirty trick\" by the Cruz campaign.",
+            "Rubio said he was in fact praising the Bible --  that he'd said, \"All the answers are in there\" --  and on Monday, the newspaper that made the original transcription updated its story to say that the audio was unclear.",
+            "According to the paper, the muffled audio found Rubio joking that there were \"not many answers\" in the book the staffer was reading    the Bible. The video went viral. Tyler tweeted it."
+        ],
+        "tf-idf score": [
+            1.0463481365504173,
+            0.8696940154314593,
+            0.9787354496416429
+        ]
+    },
+    "0.30611275427842793-3-103": {
+        "average clique similarity": 0.30611275427842793,
+        "clique": [
+            "4- LAS VEGAS       Ted",
+            "2-     LAS VEGAS    Se",
+            "1- Republican presiden"
+        ],
+        "median tf-idf score": 1.4495980675069742,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            " LAS VEGAS  --   Ted Cruz has asked for the resignation of his communications director, Rick Tyler, after Tyler shared a false report about Marco Rubio, Cruz told reporters on Monday.",
+            "     LAS VEGAS    Sen. Ted Cruz ( .)",
+            " Republican presidential candidate Ted Cruz said Monday he's fired campaign communications director Rick Tyler, after his top spokesman promoted a video that wrongly depicted Florida Sen. Marco Rubio as   the Bible."
+        ],
+        "tf-idf score": [
+            1.4495980675069742,
+            0.4512000205896269,
+            1.752356097433544
+        ]
+    },
+    "0.33184381214951425-4-29": {
+        "average clique similarity": 0.33184381214951425,
+        "clique": [
+            "3-He then seized on an",
+            "2-Those attacks looked",
+            "4-Cruz has apologized ",
+            "1-This  after the Cruz"
+        ],
+        "median tf-idf score": 1.0692488641818403,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "He then seized on an erroneous report that Ben Carson was dropping out of the race, angering Carson and his campaign.",
+            "Those attacks looked to be sticking thanks to a pincer attack from Rubio and Donald Trump. Both have accused Cruz of spreading the rumor that Ben Carson was quitting the race on the night of the Iowa caucuses    something that a few overzealous Cruz precinct captains actually did, after a CNN story about Carson taking some downtime was misinterpreted.",
+            "Cruz has apologized directly to Ben Carson for his campaign's suggesting to Iowa voters that Carson was dropping out ahead of the caucuses.",
+            "This, after the Cruz campaign also faced accusations of spreading false rumors on Iowa caucus night that Ben Carson was dropping out    when in fact Carson had only announced he was going to Florida to pick up some fresh clothes."
+        ],
+        "tf-idf score": [
+            0.538700514645037,
+            1.2626088059076954,
+            1.0227853829282727,
+            1.1157123454354079
+        ]
+    },
+    "0.3325346618782276-3-7": {
+        "average clique similarity": 0.3325346618782276,
+        "clique": [
+            "3-The audio on the vid",
+            "4-He later apologized ",
+            "1-Tyler also apologize"
+        ],
+        "median tf-idf score": 1.0778583109337985,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "The audio on the video was unclear, but the transcript that accompanied it showed Rubio making a disparaging remark to the staffer about the Bible, saying there were \"not many answers in it. \"",
+            "He later apologized to Rubio on Facebook, saying, \"I assumed wrongly that the story was correct. According to the Cruz staffer, the senator made a friendly and appropriate remark. \"",
+            "Tyler also apologized Sunday on Facebook, noting the Cruz staffer in the video said Rubio made a \"friendly and appropriate remark. \""
+        ],
+        "tf-idf score": [
+            0.7728047265559672,
+            1.0778583109337985,
+            1.1005872424852932
+        ]
+    },
+    "0.37664353132720835-3-52": {
+        "average clique similarity": 0.37664353132720835,
+        "clique": [
+            "1-The Texas senator an",
+            "4-Even if it was true ",
+            "0- Cruz said that even"
+        ],
+        "median tf-idf score": 0.7633184488196354,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The Texas senator announced that he's asked for the resignation at a press conference Monday afternoon. \"We are not a campaign that is going to question the faith of another candidate. Even if it was true, our campaign should not have sent it.",
+            "Even if it was true our campaign shouldn't have sent it  --   that's why I've asked for Rick Tyler's resignation. \"",
+            "\"Cruz said that even if the video were accurate, Tyler shouldn't have shared it\"."
+        ],
+        "tf-idf score": [
+            0.8133536370411859,
+            0.7633184488196354,
+            0.7354777812614143
+        ]
+    },
+    "0.3828028211073815-3-36": {
+        "average clique similarity": 0.3828028211073815,
+        "clique": [
+            "3-Citing  a grave erro",
+            "4- Rick Tyler s a good",
+            "0- Tyler  but Cruz sti"
+        ],
+        "median tf-idf score": 0.9992442351387129,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Citing \"a grave error in judgment,\" the Republican presidential candidate told reporters Monday afternoon that he had asked for the resignation of his campaign's communications director, Rick Tyler.",
+            "\"Rick Tyler's a good man this was a grave error of judgment,\" Cruz told reporters on Monday.",
+            "'Tyler  but Cruz still cut him loose.' 'He defended Tyler as a \"good man\" who made \"a grave error in judgment. \"'"
+        ],
+        "tf-idf score": [
+            0.9992442351387129,
+            1.0354880881902364,
+            0.6928107147820795
+        ]
+    },
+    "0.3973009105624048-4-24": {
+        "average clique similarity": 0.3973009105624048,
+        "clique": [
+            "4- And this morning I ",
+            "2- The news story was ",
+            "0-  I asked for Rick T",
+            "1-That s why I ve aske"
+        ],
+        "median tf-idf score": 1.0239896270344593,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"And this morning I asked for Rick Tyler's resignation. I have made clear in this campaign that we will conduct this campaign with the very highest standards of integrity. That has been how we've conducted it from day one. \"",
+            "\"The news story was false. That staffer deleted the tweet, apologized, and pulled it down, although I've spent this morning investigating what happened. And this morning, I asked for Rick Tyler's resignation\".",
+            "'\"I asked for Rick Tyler''s resignation,\" Cruz told reporters Monday. \"I had made clear in this campaign that we will conduct this campaign with the very highest standards of integrity. \"'",
+            "That's why I've asked for Rick Tyler's resignation,\" Cruz said in Nevada, ahead of the state's GOP caucuses on Tuesday. \"The standards of conduct in this campaign have been made absolutely clear. \""
+        ],
+        "tf-idf score": [
+            0.852131252937737,
+            0.8916145518603327,
+            1.1563647022085861,
+            1.1822507498686046
+        ]
+    }
+}

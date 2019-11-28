@@ -1,0 +1,230 @@
+{
+    "0.5581820509710536-3-56": {
+        "average clique similarity": 0.5581820509710536,
+        "clique": [
+            "4-The San Francisco 49",
+            "3-Kaepernick sat on th",
+            "2-Kaepernick sat on th"
+        ],
+        "median tf-idf score": 1.1458433718697971,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "The San Francisco 49ers quarterback refused to stand for \"The   Banner\" before a preseason game against the Green Bay Packers on Friday because, he said, \"There are bodies in the street. \"",
+            "Kaepernick sat on the team's bench Friday night during the anthem before the Niners played host to the Green Bay Packers in an exhibition game. He later explained his reasoning in an interview with NFL Media .",
+            "Kaepernick sat on the team's bench Friday night during the anthem before the Niners played host to the Green Bay Packers in an exhibition game. He later explained his reasoning in an interview with NFL Media."
+        ],
+        "tf-idf score": [
+            0.846983426683633,
+            1.1458433718697971,
+            1.1458433718697971
+        ]
+    },
+    "0.5845587145624948-3-59": {
+        "average clique similarity": 0.5845587145624948,
+        "clique": [
+            "2-San Francisco 49ers ",
+            "3-  San Francisco 49er",
+            "1-His gesture was to p"
+        ],
+        "median tf-idf score": 1.299870425498973,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "San Francisco 49ers quarterback Colin Kaepernick is refusing to stand for the national anthem before games because he believes the United States oppresses African Americans and other minorities.",
+            "  San Francisco 49ers quarterback Colin Kaepernick is refusing to stand for the national anthem before games because he believes the United States oppresses African Americans and other minorities.",
+            "His gesture was to protest the treatment of African Americans and minorities in the United States, as he told NFL com after the game."
+        ],
+        "tf-idf score": [
+            1.299870425498973,
+            1.299870425498973,
+            0.7172123514774984
+        ]
+    },
+    "0.6076483114549994-5-27": {
+        "average clique similarity": 0.6076483114549994,
+        "clique": [
+            "1-There are bodies in ",
+            "2- To me  this is bigg",
+            "4- To me  this is bigg",
+            "0-There are bodies in ",
+            "3-  To me  this is big"
+        ],
+        "median tf-idf score": 0.6971117235136555,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Guardian",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "There are bodies in the street and people getting paid leave and getting away with murder\". He told NFL com that he did not notify the team in advance.",
+            "\"To me, this is bigger than football and it would be selfish on my part to look the other way. There are bodies in the street and people getting paid leave and getting away with murder. \"",
+            "\"To me, this is bigger than football and it would be selfish on my part to look the other way. There are bodies in the street and people getting paid leave and getting away with murder. \" ['Hashtags aren't enough': Athletes respond with outrage to Alton Sterling shooting]   This is not the first time the    has spoken out against police violence.",
+            "There are bodies in the street and people getting paid leave and getting away with murder,\" he said. An image if the    sitting    he is wearing number 7    was posted on Twitter.",
+            "''To me, this is bigger than football and it would be selfish on my part to look the other way. There are bodies in the street and people getting paid leave and getting away with murder. ''"
+        ],
+        "tf-idf score": [
+            0.6971117235136555,
+            0.6194878527351416,
+            0.8762662749408618,
+            0.7528970863428078,
+            0.6194878527351416
+        ]
+    },
+    "0.6202938201803472-5-29": {
+        "average clique similarity": 0.6202938201803472,
+        "clique": [
+            "1-In a statement carri",
+            "4-The team released a ",
+            "3-  The national anthe",
+            "2- The national anthem",
+            "0-His team released a "
+        ],
+        "median tf-idf score": 0.878714951559224,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Guardian",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "In a statement carried by NFL com, the 49ers said they recognize his right to remain seated: \"The national anthem is and always will be a special part of the   ceremony. It is an opportunity to honor our country and reflect on the great liberties we are afforded as its citizens.",
+            "The team released a statement neither condemning nor celebrating Kaepernick's actions. [NBA superstars issue 'call to action' for fellow athletes in appearance at ESPYs]   \"The national anthem is and always will be a special part of the   ceremony.",
+            "''The national anthem is and always will be a special part of the pregame ceremony,'' the team said. ''It is an opportunity to honor our country and reflect on the great liberties we are afforded as its citizens.",
+            "\"The national anthem is and always will be a special part of the pregame ceremony,\" the team said. \"It is an opportunity to honor our country and reflect on the great liberties we are afforded as its citizens.",
+            "His team released a statement saying it respected his decision. \"The national anthem is and always will be a special part of the   ceremony. It is an opportunity to honor our country and reflect on the great liberties we are afforded as its citizens."
+        ],
+        "tf-idf score": [
+            1.1685399534211496,
+            0.8858618810243541,
+            0.7954886510483566,
+            0.7954886510483566,
+            0.878714951559224
+        ]
+    },
+    "0.6211078246809137-4-64": {
+        "average clique similarity": 0.6211078246809137,
+        "clique": [
+            "0-How did we get here ",
+            "4- This is not somethi",
+            "3-  This is not someth",
+            "2- This is not somethi"
+        ],
+        "median tf-idf score": 0.675167058468479,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "How did we get here from Ferguson? Willing protest, The player said he was fully aware of the controversy he was courting with his decision. \"This is not something that I am going to run by anybody,\" he said. \"I am not looking for approval.",
+            "\"This is not something that I am going to run by anybody,\" he said. \"I am not looking for approval. I have to stand up for people that are oppressed. ...",
+            "''This is not something that I am going to run by anybody,'' he told NFL Media. ''I am not looking for approval. I have to stand up for people that are oppressed.",
+            "\"This is not something that I am going to run by anybody,\" he told NFL Media. \"I am not looking for approval. I have to stand up for people that are oppressed."
+        ],
+        "tf-idf score": [
+            0.6535703328614347,
+            0.6090938482216114,
+            0.6967637840755232,
+            0.6967637840755232
+        ]
+    },
+    "0.6398162001046787-5-21": {
+        "average clique similarity": 0.6398162001046787,
+        "clique": [
+            "4- I am not going to s",
+            "1- I am not going to s",
+            "3-  I am not going to ",
+            "0-  CNN  San Francisco",
+            "2- I am not going to s"
+        ],
+        "median tf-idf score": 1.2637699449626283,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Fox News",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\"I am not going to stand up to show pride in a flag for a country that oppresses black people and people of color,\" Kaepernick told NFL Media in an exclusive interview after the game that the 49ers lost,  .",
+            "\"I am not going to stand up to show pride in a flag for a country that oppresses black people and people of color,\" Kaepernick said, according to NFL com. \"To me, this is bigger than football and it would be selfish on my part to look the other way.",
+            "''I am not going to stand up to show pride in a flag for a country that oppresses black people and people of color,'' Kaepernick said.",
+            " (CNN) San Francisco 49ers quarterback Colin Kaepernick sat in protest during the national anthem for a   game, saying he would not honor a song nor \"show pride in a flag for a country that oppresses black people and people of color\".",
+            "\"I am not going to stand up to show pride in a flag for a country that oppresses black people and people of color,\" Kaepernick said."
+        ],
+        "tf-idf score": [
+            1.2637699449626283,
+            1.3602945271169222,
+            0.9701057353367958,
+            1.5037962888947138,
+            0.9701057353367958
+        ]
+    },
+    "0.7669267437838758-5-44": {
+        "average clique similarity": 0.7669267437838758,
+        "clique": [
+            "3-   If they take foot",
+            "2-   If they take foot",
+            "4-If they take footbal",
+            "0-I have to stand up f",
+            "1- I am not looking fo"
+        ],
+        "median tf-idf score": 0.794862435115695,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            ".. If they take football away, my endorsements from me, I know that I stood up for what is right. '' The NFL and Kaepernick's agent did not immediately return a request for comment.",
+            ".. If they take football away, my endorsements from me, I know that I stood up for what is right. \" The NFL and Kaepernick's agent did not immediately return a request for comment.",
+            "If they take football away, my endorsements from me, I know that I stood up for what is right. \"",
+            "I have to stand up for people that are oppressed. .. If they take football away, my endorsements from me, I know that I stood up for what is right\".",
+            "\"I am not looking for approval. I have to stand up for people that are oppressed. .. If they take football away, my endorsements from me, I know that I stood up for what is right,\" Kaepernick said."
+        ],
+        "tf-idf score": [
+            0.794862435115695,
+            0.794862435115695,
+            0.33210565307388046,
+            0.6541655349332802,
+            1.0565173879078695
+        ]
+    },
+    "0.995576717501082-3-10": {
+        "average clique similarity": 0.995576717501082,
+        "clique": [
+            "3-In respecting such A",
+            "2-In respecting such A",
+            "0-In respecting such A"
+        ],
+        "median tf-idf score": 0.7812266045426125,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "In respecting such American principles as freedom of religion and freedom of expression, we recognize the right of an individual to choose to participate, or not, in our celebration of the national anthem. ''",
+            "In respecting such American principles as freedom of religion and freedom of expression, we recognize the right of an individual to choose to participate, or not, in our celebration of the national anthem. \"",
+            "In respecting such American principles as freedom of religion and freedom of expression, we recognize the right of an individual to choose and participate, or not, in our celebration of the national anthem\"."
+        ],
+        "tf-idf score": [
+            0.7812266045426125,
+            0.7812266045426125,
+            0.7812266045426125
+        ]
+    }
+}

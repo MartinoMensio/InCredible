@@ -1,0 +1,658 @@
+{
+    "0.15218913123134045-3-281": {
+        "average clique similarity": 0.15218913123134045,
+        "clique": [
+            "0-Some in the Israeli ",
+            "3-      The prime mini",
+            "4-There was applause i"
+        ],
+        "median tf-idf score": 0.8360231666202921,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Some in the Israeli government view Trump\u2019s victory as an opportunity to expand settlements in the West Bank, Palestinian land occupied by Israel for nearly 50 years.",
+            "\u2026     The prime minister of Israel relied on them in undertaking a wrenching political reorientation  \u2014   the dissolution of his government, the removal of every single Israeli citizen, settlement and military position in Gaza, and the removal of four small settlements in the West Bank.",
+            "There was applause in the chamber following the vote, which represented perhaps the final bitter chapter in the years of antagonism between President Barack Obama\u2019s administration and Netanyahu\u2019s government."
+        ],
+        "tf-idf score": [
+            1.0722137390899615,
+            0.8360231666202921,
+            0.6372065114883202
+        ]
+    },
+    "0.16971419801615292-3-40": {
+        "average clique similarity": 0.16971419801615292,
+        "clique": [
+            "0- The resolution bein",
+            "2- That is why we cann",
+            "1- It was to be expect"
+        ],
+        "median tf-idf score": 0.7986516020920202,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cThe resolution being considered at the United Nations security council regarding Israel should be vetoed,\u201d the Republican said in a statement.",
+            "\u201cThat is why we cannot in good conscience stand in the way of a resolution at the United Nations that makes clear that both sides must act now to preserve the possibility of peace.",
+            "\u201dIt was to be expected that Israel\u2019s greatest ally would act in accordance with the values that we share and that they would have vetoed this disgraceful resolution,\u201d said Israel\u2019s Ambassador Danny Danon."
+        ],
+        "tf-idf score": [
+            0.8992900357559425,
+            0.5496197851707563,
+            0.7986516020920202
+        ]
+    },
+    "0.17963421523022247-3-225": {
+        "average clique similarity": 0.17963421523022247,
+        "clique": [
+            "3-  As the Committee f",
+            "1-  It repeated the lo",
+            "2-Most nations conside"
+        ],
+        "median tf-idf score": 0.5256483965448472,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d As the Committee for Accuracy for Middle East Reporting in America (CAMERA) pointed out in an email blast, international law does not make Israeli settlements illegal.",
+            "\u201d It repeated the longstanding UN position that all settlements on land Israel conquered in 1967 are illegal under international law.",
+            "Most nations consider the settlements illegal."
+        ],
+        "tf-idf score": [
+            0.5265626231337033,
+            0.5256483965448472,
+            0.23331110165500668
+        ]
+    },
+    "0.1859803977224986-3-190": {
+        "average clique similarity": 0.1859803977224986,
+        "clique": [
+            "3-If the resolution is",
+            "1-The Obama White Hous",
+            "0-The announcement of "
+        ],
+        "median tf-idf score": 0.9349415214143457,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "If the resolution is brought to a vote in its current form and Obama fails to veto, the resolution would contradict a Bush administration commitment to allowing some existing Jewish settlements to remain under a future   deal.",
+            "The Obama White House, under heavy pressure from the Israeli government and its supporters to veto the resolution, kept everyone guessing until the vote whether it would stop shielding Israel from council resolutions and permit it to pass by abstaining.",
+            "The announcement of the vote, however, had prompted immediate calls from Netanyahu for the US to use its veto power at the security council to block the resolution in a   tweet."
+        ],
+        "tf-idf score": [
+            0.9349415214143457,
+            1.0898114302261592,
+            0.6378928911219756
+        ]
+    },
+    "0.19494776312646986-3-14": {
+        "average clique similarity": 0.19494776312646986,
+        "clique": [
+            "3-TEL AVIV      In a d",
+            "4-Washington  CNN  The",
+            "1-It is the first reso"
+        ],
+        "median tf-idf score": 1.1976699642663318,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "TEL AVIV  \u2014   In a dramatic departure from the longstanding U S policy of vetoing   resolutions, the Obama administration on Friday abstained from voting on a United Nations Security Council resolution calling for a halt to Israeli construction in the West Bank and eastern Jerusalem, thereby allowing the measure to pass.",
+            "Washington (CNN) The United States on Friday allowed a UN Security Council resolution condemning Israeli settlement construction to be adopted, defying extraordinary pressure from Prime Minister Benjamin Netanyahu\u2019s government in alliance with   Donald Trump.",
+            "It is the first resolution the Security Council has adopted on Israel and the Palestinians in nearly eight years."
+        ],
+        "tf-idf score": [
+            1.270901717994548,
+            1.1976699642663318,
+            0.8546887588587543
+        ]
+    },
+    "0.1977081668149978-3-150": {
+        "average clique similarity": 0.1977081668149978,
+        "clique": [
+            "2-According to an Isra",
+            "4-The official said th",
+            "3- Contrary to some cl"
+        ],
+        "median tf-idf score": 0.6467818621664777,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "According to an Israeli official who spoke on the condition on anonymity because the conversations were private, a White House official told an Israeli official Thursday that the United States is Israel\u2019s best friend.",
+            "The official said that Israel \u201dimplored the White House not to go ahead and told them that if they did, we would have no choice but to reach out to   Trump\u201d.",
+            "\u201cContrary to some claims, the administration was not involved in formulating the resolution nor have we promoted it,\u201d an unnamed U S official told Reuters."
+        ],
+        "tf-idf score": [
+            0.8235453487535865,
+            0.6467818621664777,
+            0.6086814486632397
+        ]
+    },
+    "0.20075311697809842-3-368": {
+        "average clique similarity": 0.20075311697809842,
+        "clique": [
+            "0- As the United State",
+            "2-Kerry said he would ",
+            "4- Today  the United S"
+        ],
+        "median tf-idf score": 0.9685368081126671,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cAs the United States has long maintained, peace between the Israelis and the Palestinians will only come through direct negotiations between the parties, and not through the imposition of terms by the United Nations,\u201d he said.",
+            "Kerry said he would speak more in the coming days about the U N vote and \u201cthe way ahead\u201d for Israel and the Palestinians.",
+            "\u201dToday, the United States acted with one primary objective in mind: to preserve the possibility of the two state solution, which every US administration for decades has agreed is the only way to achieve a just and lasting peace between Israelis and Palestinians,\u201d Secretary of State John Kerry said in a statement, adding that the US does not \u201dagree with every aspect\u201d of the resolution."
+        ],
+        "tf-idf score": [
+            0.9685368081126671,
+            0.6762936549835784,
+            1.4112211569575797
+        ]
+    },
+    "0.20303707602523402-3-84": {
+        "average clique similarity": 0.20303707602523402,
+        "clique": [
+            "3-The text of the reso",
+            "0-The UN security coun",
+            "4- This is a bias towa"
+        ],
+        "median tf-idf score": 0.9159536809734012,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The text of the resolution declares that the Israeli settlement enterprise has \u201cno legal validity and constitutes a flagrant violation under international law and a major obstacle to the achievement of the   solution and a just, lasting and comprehensive peace.",
+            "The UN security council has postponed a contentious vote on a resolution that would have demanded Israel halt all settlement activities as a \u201cflagrant violation\u201d of international law.",
+            "\u201dThis is a bias towards justice and international law\u201d."
+        ],
+        "tf-idf score": [
+            0.9159536809734012,
+            1.055290818309321,
+            0.04781191332859912
+        ]
+    },
+    "0.20547040833500677-3-75": {
+        "average clique similarity": 0.20547040833500677,
+        "clique": [
+            "4-US and Palestinian o",
+            "1-After the vote  Whit",
+            "0-Several diplomats an"
+        ],
+        "median tf-idf score": 0.5210949782374997,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "US and Palestinian officials denied the Israeli accusation of colluding on the UN vote.",
+            "After the vote, White House officials acknowledged on a conference that Obama made the decision himself after several rounds of discussions with top administration officials.",
+            "Several diplomats and western officials said the Egyptians had been pressured to postpone the vote by the Israelis."
+        ],
+        "tf-idf score": [
+            0.4771194040089946,
+            0.5210949782374997,
+            0.5525151659299112
+        ]
+    },
+    "0.21638329233004328-3-368": {
+        "average clique similarity": 0.21638329233004328,
+        "clique": [
+            "3-Abrams wrote  There ",
+            "4-Too bad  but we will",
+            "2-The United States  a"
+        ],
+        "median tf-idf score": 0.9580609993107931,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Abrams wrote: There were indeed agreements between Israel and the United States regarding the growth of Israeli settlements on the West Bank   \u2026     principles that would permit some continuing growth.",
+            "Too bad, but we will get it done anyway!\u201d The United States and most other nations consider Israeli settlements in the West Bank and east Jerusalem as an obstacle to the hopes of a   solution between Israelis and Palestinians.",
+            "The United States\u2019 abstention Friday was a rare rebuke to Israel, and it reflected mounting frustration in the Obama administration over settlement growth that the United States considers an obstacle to peace."
+        ],
+        "tf-idf score": [
+            0.9022510687132845,
+            0.9580609993107931,
+            1.0777775075311338
+        ]
+    },
+    "0.22497541708844393-3-195": {
+        "average clique similarity": 0.22497541708844393,
+        "clique": [
+            "2-The administration s",
+            "4-Two senior US offici",
+            "0-The move also prompt"
+        ],
+        "median tf-idf score": 0.7714914653635221,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "The administration\u2019s move also defied Donald Trump\u2019s call on Thursday for the United States to veto the resolution.",
+            "Two senior US officials involved in this process vehemently also denied the Israel accusation and also said that the US itself didn\u2019t really know how it was going to vote until Thursday morning.",
+            "The move also prompted the intervention of US   Donald Trump, who campaigned on a promise to recognise Jerusalem as Israel\u2019s capital and said in a statement that Washington should use its veto to block the resolution."
+        ],
+        "tf-idf score": [
+            0.7239188881098718,
+            0.7714914653635221,
+            0.9569127357409657
+        ]
+    },
+    "0.22753563773841032-3-336": {
+        "average clique similarity": 0.22753563773841032,
+        "clique": [
+            "1-But the Obama admini",
+            "4-A senior Palestinian",
+            "3-  The office of Prim"
+        ],
+        "median tf-idf score": 1.6033019635179662,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "But the Obama administration has long made clear its opposition to Israeli   in occupied territory and there had been speculation that in its final month it might allow a resolution against settlements to pass at the U N A senior Israeli official told The Associated Press: \u201dPresident Obama and Secretary [of State John] Kerry are behind this shameful move against Israel at the U N \u201dThe U S administration secretly cooked up with the Palestinians an extreme   resolution behind Israel\u2019s back which would be a   for terror and boycotts and effectively make the Western Wall [the Jewish holy site in the Old City of Jerusalem] occupied Palestinian territory.",
+            "A senior Palestinian official told CNN they were not informed how the US would handle the Security Council vote when a delegation was in town earlier this month to urge the administration to support it.",
+            "\u201d The office of Prime Minister Benjamin Netanyahu sent Breitbart Jerusalem the following response to the passage of the resolution: Earlier today, an Israeli official told reporters, including this reporter at Breitbart Jerusalem, the Obama administration secretly worked with the Palestinian Authority to craft a \u201cshameful\u201d United Nations resolution behind Israel\u2019s back, an Israeli official told reporters on Friday."
+        ],
+        "tf-idf score": [
+            2.083403037646409,
+            0.787703716934294,
+            1.6033019635179662
+        ]
+    },
+    "0.23542712290002912-3-34": {
+        "average clique similarity": 0.23542712290002912,
+        "clique": [
+            "4-Trump had also inser",
+            "1-As for Trump  deputy",
+            "2-With President Obama"
+        ],
+        "median tf-idf score": 0.9494525328455063,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "Trump had also inserted himself in the diplomatic drama, in defiance of the convention that the United States has only one president at a time, by calling on the Obama administration to wield its Security Council veto.",
+            "As for Trump, deputy National Security Adviser Ben Rhodes pointedly said there\u2019s only one president at a time  \u2014   and that the Obama administration was concerned the Israelis\u2019 pace of settlement activity could put the viability of a   solution at risk.",
+            "With President Obama\u2019s time in office due to end in barely a month, his decision not to veto was a   symbolic statement of that displeasure and a sense of exasperation that the time has come for two states to be carved out of the contested land."
+        ],
+        "tf-idf score": [
+            0.9494525328455063,
+            1.1962349145672841,
+            0.7387315966316175
+        ]
+    },
+    "0.24349107581088722-3-216": {
+        "average clique similarity": 0.24349107581088722,
+        "clique": [
+            "1-A senior Israeli off",
+            "2-That argument did no",
+            "4-In an intense flurry"
+        ],
+        "median tf-idf score": 0.8361675591366164,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "A senior Israeli official accused the U S of a \u201dshameful move\u201d after learning that it did not intend to veto the text, the BBC reported.",
+            "That argument did not assuage Israeli anger at the U S decision not to veto the resolution, a decision the Obama administration still had not shared with the Israeli government a few hours before the vote.",
+            "In an intense flurry of diplomacy that unfolded in the two days before the vote, a senior Israeli official had accused the United States of abandoning the Jewish state with its refusal to block the resolution with a veto."
+        ],
+        "tf-idf score": [
+            0.42960199352897377,
+            0.8361675591366164,
+            0.9317025273884786
+        ]
+    },
+    "0.24940790160205104-3-65": {
+        "average clique similarity": 0.24940790160205104,
+        "clique": [
+            "0-Israeli settlements ",
+            "2-An additional 200  0",
+            "4-The Palestinians acc"
+        ],
+        "median tf-idf score": 0.5573895103030789,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Israeli settlements have long been seen as major stumbling block to peace efforts as they are built on land the Palestinians see as part of their future state.",
+            "An additional 200, 000 Israelis live in East Jerusalem, which Palestinians want to become the capital of their future state.",
+            "The Palestinians accuse Israel of trying to establish facts on the ground by building on land they view as part of their future state."
+        ],
+        "tf-idf score": [
+            0.7791026963851251,
+            0.5450782148622573,
+            0.5573895103030789
+        ]
+    },
+    "0.26289420013414144-4-0": {
+        "average clique similarity": 0.26289420013414144,
+        "clique": [
+            "2-Samantha Power  the ",
+            "3-US Ambassador Samant",
+            "4-The US ambassador to",
+            "1-The measure was adop"
+        ],
+        "median tf-idf score": 0.4011645511982351,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Samantha Power, the U S ambassador to the United Nations, said the United States would not have allowed its passage without that proviso.",
+            "US Ambassador Samantha Power justified the U S decision to abstain by claiming \u201cthe settlements have no legality.",
+            "The US ambassador to the UN, Samantha Power, raised her hand to abstain in the chamber when the resolution was put to a vote.",
+            "The measure was adopted with 14 votes in favor, to a round of applause, after U S Ambassador Samantha Power abstained."
+        ],
+        "tf-idf score": [
+            0.45884523885811423,
+            0.2782146666498978,
+            0.4886416161591064,
+            0.3434838635383559
+        ]
+    },
+    "0.2731717908342958-3-94": {
+        "average clique similarity": 0.2731717908342958,
+        "clique": [
+            "0-The plan to call a v",
+            "1-The UN Security Coun",
+            "4-The resolution was o"
+        ],
+        "median tf-idf score": 0.7504177378603017,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "The plan to call a vote  \u2014   announced abruptly on Wednesday evening by Egypt, which had been drafting the resolution  \u2014   was postponed indefinitely a few hours ahead of the planned security council meeting on Thursday afternoon.",
+            "The UN Security Council resolution was put forward by four nations a day after Egypt withdrew it Thursday under pressure from Israel and U S   Donald Trump.",
+            "The resolution was originally put forward by Egypt but it was withdrawn under pressure from the Israelis."
+        ],
+        "tf-idf score": [
+            0.7504177378603017,
+            0.9146687500702074,
+            0.5086759290250629
+        ]
+    },
+    "0.29282200924111107-3-157": {
+        "average clique similarity": 0.29282200924111107,
+        "clique": [
+            "2-The incoming Trump a",
+            "4- As to the U N thing",
+            "1-Minutes after the vo"
+        ],
+        "median tf-idf score": 0.25660454128583876,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The incoming Trump administration has signaled that there will be a shift in U S policy toward Israel, a point the   hammered home about an hour after Friday\u2019s vote when he tweeted, \u201cAs to the U N things will be different after Jan. 20th.",
+            "\u201dAs to the U N things will be different after Jan. 20th,\u201d Trump wrote on Twitter.",
+            "Minutes after the vote, Trump took to Twitter to express his opposition."
+        ],
+        "tf-idf score": [
+            0.8539738187884199,
+            0.18033224556117092,
+            0.25660454128583876
+        ]
+    },
+    "0.29972905333806815-3-129": {
+        "average clique similarity": 0.29972905333806815,
+        "clique": [
+            "4-No President has tro",
+            "2-    President Obama ",
+            "1-The resolution  alth"
+        ],
+        "median tf-idf score": 0.40915373060477206,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "No President has troubled Palestinians in the UN more than President Obama\u201d.",
+            "\u201d  \u201cPresident Obama has done more for Israel and its security than any previous U S president,\u201d Rhodes told reporters.",
+            "The resolution, although it reiterates   U N policy, could be more than symbolic."
+        ],
+        "tf-idf score": [
+            0.40915373060477206,
+            0.6514890436517995,
+            0.2472904329023446
+        ]
+    },
+    "0.3068428009185448-3-286": {
+        "average clique similarity": 0.3068428009185448,
+        "clique": [
+            "0-Last week Trump nomi",
+            "4-But Trump    who has",
+            "2-He has appointed Dav"
+        ],
+        "median tf-idf score": 0.7623496496628335,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Last week Trump nominated as his ambassador to Israel the hardliner David Friedman, a man who has said Washington will not pressure Israel to curtail settlement building in the occupied West Bank.",
+            "But Trump    who has vowed to move the US embassy in Israel from Tel Aviv to Jerusalem, and has nominated an ambassador in David Friedman who is supportive of settlers    pledged that the Palestinians would no longer have a platform at the UN when he is inaugurated next month.",
+            "He has appointed David Friedman, a bankruptcy lawyer who believes Israelis should annex and settle the West Bank, as the next U S ambassador to Israel."
+        ],
+        "tf-idf score": [
+            1.0360248587412026,
+            0.7623496496628335,
+            0.6791726719920563
+        ]
+    },
+    "0.3112290601123915-3-118": {
+        "average clique similarity": 0.3112290601123915,
+        "clique": [
+            "2-Friday s resolution ",
+            "4-Four countries  New ",
+            "1- Palestinians  backe"
+        ],
+        "median tf-idf score": 0.41640597172076577,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Friday\u2019s resolution was sponsored by New Zealand, Malaysia, Venezuela and Senegal.",
+            "Four countries, New Zealand, Venezuela, Malaysia and Senegal, brought it up again for a vote on Friday.",
+            "\u201dPalestinians\u2019 backers on the Council, New Zealand and Malaysia, made today\u2019s slander clear, claiming Jews living peaceful, productive lives on   land was the \u2019single biggest threat to peace\u201d and \u201dprimary threat to a   solution.\u2019 \u201dSeven decades of violent Palestinian rejection of a Jewish state prove otherwise,\u201d she added."
+        ],
+        "tf-idf score": [
+            0.41640597172076577,
+            0.2387596679870105,
+            0.8564443322838317
+        ]
+    },
+    "0.3395733613593149-3-79": {
+        "average clique similarity": 0.3395733613593149,
+        "clique": [
+            "4- Secretly cooked up ",
+            "2- The U N Security Co",
+            "3-  It calls for Israe"
+        ],
+        "median tf-idf score": 1.4620954543084839,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u2019Secretly cooked up\u2019 Hours before the UN Security Council vote, the Israelis made clear their intense disappointment with the US over the resolution, which calls on Israel to \u201dimmediately and completely cease all settlement activities in the occupied Palestinian territory, including East Jerusalem\u201d.",
+            " The U N Security Council on Friday passed a resolution demanding that Israel cease Jewish settlement activity on Palestinian territory in a unanimous vote that passed when the United States abstained rather than using its veto as it has reliably done in the past.",
+            "\u201d It calls for Israel to \u201cimmediately and completely cease all settlement activities in the occupied Palestinian territory, including East Jerusalem."
+        ],
+        "tf-idf score": [
+            1.4620954543084839,
+            1.5101054044526991,
+            0.8027700875996733
+        ]
+    },
+    "0.34369464464254745-4-49": {
+        "average clique similarity": 0.34369464464254745,
+        "clique": [
+            "0-The draft resolution",
+            "4-The UN resolution   ",
+            "1-The resolution  warn",
+            "3-The UN draft resolut"
+        ],
+        "median tf-idf score": 1.2137457498851039,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "The draft resolution  \u2014   in its latest form   demands that: \u201cIsrael immediately and completely cease all settlement activities in the occupied Palestinian territory, including East Jerusalem\u201d adding settlements have \u201cno legal validity\u201d and are \u201cdangerously imperilling the viability of the   solution\u201d that would see an independent state of Palestine   alongside Israel.",
+            "The UN resolution    which calls on Israel to \u201dimmediately and completely cease all settlement activities in the occupied Palestinian territory, including East Jerusalem\u201d    was delayed by Egypt after Israeli pressure.",
+            "The resolution, warning that Israeli settlement expansion is \u201csteadily eroding the   solution and entrenching a   reality,\u201d calls on Israel to \u201cimmediately and completely cease all settlement activity in occupied territories, including East Jerusalem.",
+            "The UN draft resolution text states that \u201ccessation of all Israeli settlement activities is essential for salvaging the   solution,\u201d and it \u201ccalls for affirmative steps to be taken immediately to reverse the negative trends on the ground that are imperiling the   solution."
+        ],
+        "tf-idf score": [
+            1.3212896690570397,
+            1.2966302039838076,
+            1.1308612957864002,
+            0.8354832460463992
+        ]
+    },
+    "0.3722315720072024-3-200": {
+        "average clique similarity": 0.3722315720072024,
+        "clique": [
+            "4- As the United State",
+            "0- Peace will come not",
+            "2-Twice  the Obama adm"
+        ],
+        "median tf-idf score": 0.7437238291797246,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dAs the United States has long maintained, peace between the Israelis and the Palestinians will only come through direct negotiations between the parties, and not through the imposition of terms by the United Nations,\u201d Trump said.",
+            "\u201cPeace will come not through UN resolutions, but only through direct negotiations between the parties,\u201d he said.",
+            "Twice, the Obama administration has made concerted attempts to broker peace negotiations between the Israelis and Palestinians."
+        ],
+        "tf-idf score": [
+            1.068210554785427,
+            0.48971422029200673,
+            0.7437238291797246
+        ]
+    },
+    "0.43643028503582904-3-90": {
+        "average clique similarity": 0.43643028503582904,
+        "clique": [
+            "4- This puts Israel in",
+            "1-While it does not ca",
+            "0- This puts Israel in"
+        ],
+        "median tf-idf score": 0.4458779661906646,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dThis puts Israel in a very poor negotiating position and is extremely unfair to all Israelis\u201d.",
+            "While it does not call for imposing sanctions on Israel, its language could hinder Israel\u2019s negotiating position in future peace talks.",
+            "\u201cThis puts Israel in a very poor negotiating position and is extremely unfair to all Israelis,\u201d Trump added."
+        ],
+        "tf-idf score": [
+            0.4458779661906646,
+            0.41536842348083297,
+            0.572254482900057
+        ]
+    },
+    "0.45142438868445867-3-71": {
+        "average clique similarity": 0.45142438868445867,
+        "clique": [
+            "2- Israel rejects this",
+            "4-I have no doubt that",
+            "1- I have no doubt tha"
+        ],
+        "median tf-idf score": 0.6125451065937332,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cIsrael rejects this shameful    resolution at the UN and will not abide by its terms,\u201d Netanyahu said in a statement released by his office.",
+            "I have no doubt that the new US administration and the incoming UN Secretary General will usher in a new era in terms of the UN\u2019s relationship with Israel,\u201d he said.",
+            "\u201dI have no doubt that the new U S administration and the incoming UN Secretary General will usher in a new era in terms of the UN\u2019s relationship with Israel\u201d."
+        ],
+        "tf-idf score": [
+            0.7244557598942701,
+            0.6125451065937332,
+            0.4768059943822506
+        ]
+    },
+    "0.5185181539131389-3-368": {
+        "average clique similarity": 0.5185181539131389,
+        "clique": [
+            "2- The Obama administr",
+            "4- President Obama and",
+            "3-The official told Br"
+        ],
+        "median tf-idf score": 1.516923915470214,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201cThe Obama administration not only failed to protect Israel against this   at the UN, it colluded with it behind the scenes.",
+            "\u201dPresident Obama and Secretary Kerry are behind this shameful move against Israel at the UN,\u201d a senior Israeli official told CNN \u201dThe US administration secretly cooked up with the Palestinians an extreme   resolution behind Israel\u2019s back which would be a tailwind for terror and boycotts and effectively make the Western Wall occupied Palestinian territory,\u201d a senior Israeli official said.",
+            "The official told Breitbart Jerusalem by email: \u201cPresident Obama and Secretary Kerry are behind this shameful move against Israel at the UN The US administration secretly cooked up with the Palestinians an extreme anti Israeli resolution behind Israel\u2019s back which would be a tailwind for terror and boycotts and effectively make the Western Wall occupied Palestinian territory."
+        ],
+        "tf-idf score": [
+            0.4945915758634379,
+            1.599993998431153,
+            1.516923915470214
+        ]
+    }
+}

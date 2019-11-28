@@ -1,0 +1,374 @@
+{
+    "0.20029036113529217-3-142": {
+        "average clique similarity": 0.20029036113529217,
+        "clique": [
+            "4-Even if it was true ",
+            "2-Tyler tweeted it ",
+            "3-Of course  it s enti"
+        ],
+        "median tf-idf score": 0.7633184488196354,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Even if it was true our campaign shouldn\u2019t have sent it  \u2014   that\u2019s why I\u2019ve asked for Rick Tyler\u2019s resignation.",
+            "Tyler tweeted it.",
+            "Of course, it\u2019s entirely possible that Cruz was simply angered by Rick Tyler\u2019s Facebook post about Rubio and considered it a fireable offense."
+        ],
+        "tf-idf score": [
+            0.7633184488196354,
+            0.22586236711446783,
+            1.0925119127287863
+        ]
+    },
+    "0.20568495529647138-3-42": {
+        "average clique similarity": 0.20568495529647138,
+        "clique": [
+            "3-Tyler  who hasn t co",
+            "4-NBC reporter Katy Tu",
+            "2-An 11 30 a  m  news "
+        ],
+        "median tf-idf score": 1.0989194206788078,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Tyler, who hasn\u2019t commented yet, was tweeting on behalf of his campaign as of an hour before the announcement and was reportedly about to go on MSNBC just before Cruz told reporters of his sacking.",
+            "NBC reporter Katy Tur said on Twitter that Tyler had been scheduled for a live hit on MSNBC but \u201cabruptly left\u201d: Cruz spox Rick Tyler was about to go live on MSNBC when he abruptly left.",
+            "An 11:30 a. m. news conference was pushed back 40 minutes, as Cruz huddled with aides in the parking lot of a YMCA Tyler did not respond to a question from The Washington Post, but NBC reporter Katy Tur tweeted that he walked off the set before an interview, scheduled right when Cruz was talking to reporters."
+        ],
+        "tf-idf score": [
+            1.0445165398435101,
+            1.0989194206788078,
+            1.119508692802718
+        ]
+    },
+    "0.20870715847362817-3-61": {
+        "average clique similarity": 0.20870715847362817,
+        "clique": [
+            "3-On Saturday  the day",
+            "2-As recently as last ",
+            "0-    Cruz added    Cr"
+        ],
+        "median tf-idf score": 1.4520613247359864,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "On Saturday, the day of the South Carolina primary, Tyler had posted on social media a link to a story with a video of Marco Rubio making a comment to a Cruz staffer who was reading the Bible.",
+            "As recently as last night, the Cruz campaign considered the Rubio campaign\u2019s outrage over the tweet to be just the latest example of a candidate with friendly media coverage using it to accuse Cruz of negative campaigning.",
+            "\u201d\u2019 \u2019Cruz added:\u2019 \u2019Cruz\u2019\u2019s campaign has been accused of \u201ddirty tricks\u201d in recent days, and this morning Rubio  for sharing the misleading video.\u2019 \u2019Cruz has also accused his rivals of shady tactics.\u2019 \u2019The latest firestorm started over the weekend when Tyler, Cruz\u2019\u2019s top spokesman, posted a video on his Facebook page that purported to show Rubio pointing to a Bible a Cruz staffer was holding in a hotel lobby and saying \u201dnot many answers\u201d are in it.\u2019 \u2019Rubio in fact said that \u201dall the answers are in there\u201d as he gestured toward the Bible.\u2019 \u2019Tyler  but Cruz still cut him loose.\u2019 \u2019He defended Tyler as a \u201dgood man\u201d who made \u201da grave error in judgment."
+        ],
+        "tf-idf score": [
+            1.4520613247359864,
+            1.0059710257953205,
+            2.3476593747715264
+        ]
+    },
+    "0.26385441392615877-3-97": {
+        "average clique similarity": 0.26385441392615877,
+        "clique": [
+            "0-    In the  Tyler wr",
+            "3-Rubio s campaign pro",
+            "1-Donald Trump  meanwh"
+        ],
+        "median tf-idf score": 1.144696628693724,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d\u2019 \u2019In the  Tyler wrote:\u2019 \u2019The Rubio campaign released a statement defending Tyler and blasting Cruz:\u2019 \u2019Republican presidential frontrunner Donald Trump, who has often called Cruz a \u201dliar\u201d and accused him of dirty campaigning, quickly jumped into the fray.\u2019 \u2019Wow, Ted Cruz falsely suggested Marco Rubio mocked the Bible and was just forced to fire his Communications Director.",
+            "Rubio\u2019s campaign promptly accused Tyler and Cruz of playing dirty tricks.",
+            "Donald Trump, meanwhile, delighted in the news, taking to Twitter to slam the \u201cdirty tricks\u201d \u201cTed Cruz has now apologized to Marco Rubio and Ben Carson for fraud and dirty tricks."
+        ],
+        "tf-idf score": [
+            1.9255905011495367,
+            1.0890259724122673,
+            1.144696628693724
+        ]
+    },
+    "0.26665357631824255-3-112": {
+        "average clique similarity": 0.26665357631824255,
+        "clique": [
+            "1-  But after Tyler li",
+            "3-It turned out the ne",
+            "2- The news story was "
+        ],
+        "median tf-idf score": 0.7637606804577962,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d But after Tyler linked to the story, Rubio communications director Alex Conant tweeted out the same video with what he says are the correct subtitles    and they tell a very different story.",
+            "It turned out the news story he sent around was false, but I\u2019ll tell you, even if it was true, we are not a campaign that is going to question the faith of another candidate.",
+            "\u201dThe news story was false."
+        ],
+        "tf-idf score": [
+            0.8065356535464038,
+            0.7637606804577962,
+            0.33114247688067067
+        ]
+    },
+    "0.32240588762962646-3-176": {
+        "average clique similarity": 0.32240588762962646,
+        "clique": [
+            "1-In them  Rubio actua",
+            "2-Then  upon learning ",
+            "3-  Rubio said he was "
+        ],
+        "median tf-idf score": 0.8696940154314593,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In them, Rubio actually says of the Bible, \u201cAll the answers are in there.",
+            "Then, upon learning that the transcript was exactly wrong    that Rubio had said \u201dall the answers\u201d were in the Bible    Tyler wrote a   Facebook post apologizing to Rubio.",
+            "\u201d Rubio said he was in fact praising the Bible \u2014  that he\u2019d said, \u201cAll the answers are in there\u201d \u2014  and on Monday, the newspaper that made the original transcription updated its story to say that the audio was unclear."
+        ],
+        "tf-idf score": [
+            0.37171154483115026,
+            0.9224442157286293,
+            0.8696940154314593
+        ]
+    },
+    "0.33833165149901195-3-55": {
+        "average clique similarity": 0.33833165149901195,
+        "clique": [
+            "4-According to the Cru",
+            "3-The audio on the vid",
+            "1-Tyler also apologize"
+        ],
+        "median tf-idf score": 0.7728047265559672,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "Fox News"
+        ],
+        "sentences": [
+            "According to the Cruz staffer, the senator made a friendly and appropriate remark.",
+            "The audio on the video was unclear, but the transcript that accompanied it showed Rubio making a disparaging remark to the staffer about the Bible, saying there were \u201cnot many answers in it.",
+            "Tyler also apologized Sunday on Facebook, noting the Cruz staffer in the video said Rubio made a \u201cfriendly and appropriate remark."
+        ],
+        "tf-idf score": [
+            0.4825667684299343,
+            0.7728047265559672,
+            1.1005872424852932
+        ]
+    },
+    "0.34045332347030405-3-176": {
+        "average clique similarity": 0.34045332347030405,
+        "clique": [
+            "4- Rick Tyler s a good",
+            "1-Cruz on Monday said ",
+            "3-This was a grave err"
+        ],
+        "median tf-idf score": 1.0354880881902364,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cRick Tyler\u2019s a good man this was a grave error of judgment,\u201d Cruz told reporters on Monday.",
+            "Cruz on Monday said it was a \u201cgrave error in judgment\u201d  \u2014   but at the same time accused Rubio of exploiting the controversy for political advantage and to distract from his own record.",
+            "This was a grave error of judgment."
+        ],
+        "tf-idf score": [
+            1.0354880881902364,
+            1.0989076770521102,
+            0.24795509373122643
+        ]
+    },
+    "0.3441228611739091-3-118": {
+        "average clique similarity": 0.3441228611739091,
+        "clique": [
+            "3-  So what is this re",
+            "4- I ve spent this mor",
+            "2-That staffer deleted"
+        ],
+        "median tf-idf score": 0.21368483678059197,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d So what is this really about?",
+            "\u201cI\u2019ve spent this morning investigating what happened,\u201d Cruz said.",
+            "That staffer deleted the tweet, apologized, and pulled it down, although I\u2019ve spent this morning investigating what happened."
+        ],
+        "tf-idf score": [
+            0.01760863591523173,
+            0.512339681413094,
+            0.21368483678059197
+        ]
+    },
+    "0.3487358797798567-3-68": {
+        "average clique similarity": 0.3487358797798567,
+        "clique": [
+            "2-Both have accused Cr",
+            "4-Cruz has apologized ",
+            "1-This  after the Cruz"
+        ],
+        "median tf-idf score": 1.0227853829282727,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "Both have accused Cruz of spreading the rumor that Ben Carson was quitting the race on the night of the Iowa caucuses    something that a few overzealous Cruz precinct captains actually did, after a CNN story about Carson taking some downtime was misinterpreted.",
+            "Cruz has apologized directly to Ben Carson for his campaign\u2019s suggesting to Iowa voters that Carson was dropping out ahead of the caucuses.",
+            "This, after the Cruz campaign also faced accusations of spreading false rumors on Iowa caucus night that Ben Carson was dropping out    when in fact Carson had only announced he was going to Florida to pick up some fresh clothes."
+        ],
+        "tf-idf score": [
+            0.926183546977432,
+            1.0227853829282727,
+            1.1157123454354079
+        ]
+    },
+    "0.3618768868862157-4-18": {
+        "average clique similarity": 0.3618768868862157,
+        "clique": [
+            "4- LAS VEGAS      Ted ",
+            "3-Ted Cruz just fired ",
+            "0-    Republican presi",
+            "1- Republican presiden"
+        ],
+        "median tf-idf score": 1.5098145108279266,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Business Insider",
+            "Fox News"
+        ],
+        "sentences": [
+            " LAS VEGAS  \u2014   Ted Cruz has asked for the resignation of his communications director, Rick Tyler, after Tyler shared a false report about Marco Rubio, Cruz told reporters on Monday.",
+            "Ted Cruz just fired his top national spokesman for spreading a false story about Marco Rubio.",
+            "\u2019\u2019 \u2019Republican presidential candidate Ted Cruz has asked his top spokesman to resign after he  that purportedly showed rival Marco Rubio dismissing the Bible.\u2019 \u2019\u201dI asked for Rick Tyler\u2019\u2019s resignation,\u201d Cruz told reporters Monday.",
+            " Republican presidential candidate Ted Cruz said Monday he\u2019s fired campaign communications director Rick Tyler, after his top spokesman promoted a video that wrongly depicted Florida Sen. Marco Rubio as   the Bible."
+        ],
+        "tf-idf score": [
+            1.4495980675069742,
+            0.8535469162993732,
+            1.5700309541488788,
+            1.752356097433544
+        ]
+    },
+    "0.38228329342057243-4-176": {
+        "average clique similarity": 0.38228329342057243,
+        "clique": [
+            "3-Citing  a grave erro",
+            "4- And this morning I ",
+            "2-And this morning  I ",
+            "1-That s why I ve aske"
+        ],
+        "median tf-idf score": 0.63018492822479,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Citing \u201ca grave error in judgment,\u201d the Republican presidential candidate told reporters Monday afternoon that he had asked for the resignation of his campaign\u2019s communications director, Rick Tyler.",
+            "\u201cAnd this morning I asked for Rick Tyler\u2019s resignation.",
+            "And this morning, I asked for Rick Tyler\u2019s resignation\u201d.",
+            "That\u2019s why I\u2019ve asked for Rick Tyler\u2019s resignation,\u201d Cruz said in Nevada, ahead of the state\u2019s GOP caucuses on Tuesday."
+        ],
+        "tf-idf score": [
+            0.9992442351387129,
+            0.3851119855476691,
+            0.3851119855476691,
+            0.8752578709019109
+        ]
+    },
+    "0.4552553203990728-3-36": {
+        "average clique similarity": 0.4552553203990728,
+        "clique": [
+            "1-  Conant called the ",
+            "3- There is a culture ",
+            "2- There is a culture "
+        ],
+        "median tf-idf score": 0.6779676888132817,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d Conant called the move \u201canother dirty trick\u201d by the Cruz campaign.",
+            "\u201cThere is a culture in the Cruz campaign, from top to bottom, that no lie is too big and no trick too dirty.",
+            "\u201dThere is a culture in the Cruz campaign, from top to bottom, that no lie is too big and no trick too dirty."
+        ],
+        "tf-idf score": [
+            0.6746365917192668,
+            0.6779676888132817,
+            0.6779676888132817
+        ]
+    },
+    "0.6177990225099853-3-25": {
+        "average clique similarity": 0.6177990225099853,
+        "clique": [
+            "4- It turned out the n",
+            "0-  We are not a campa",
+            "1- We are not a campai"
+        ],
+        "median tf-idf score": 0.7403810853301651,
+        "publications": [
+            "Buzzfeed News",
+            "Business Insider",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cIt turned out the news story he sent around was false, but I\u2019ll tell you even if it was true, we are not a campaign that\u2019s gonna question the faith of another candidate.",
+            "\u2019\u201dWe are not a campaign that is going to question the faith of another candidate,\u201d Cruz said.",
+            "\u201cWe are not a campaign that is going to question the faith of another candidate."
+        ],
+        "tf-idf score": [
+            0.7403810853301651,
+            0.77466557992785,
+            0.34434714891251356
+        ]
+    },
+    "0.6847479627551226-4-5": {
+        "average clique similarity": 0.6847479627551226,
+        "clique": [
+            "4-I have made clear in",
+            "0- I had made clear in",
+            "1- The standards of co",
+            "3- I had made clear in"
+        ],
+        "median tf-idf score": 0.33475567746752577,
+        "publications": [
+            "Business Insider",
+            "Buzzfeed News",
+            "Atlantic",
+            "Fox News"
+        ],
+        "sentences": [
+            "I have made clear in this campaign that we will conduct this campaign with the very highest standards of integrity.",
+            "\u201dI had made clear in this campaign that we will conduct this campaign with the very highest standards of integrity.",
+            "\u201cThe standards of conduct in this campaign have been made absolutely clear.",
+            "\u201cI had made clear in this campaign that we will conduct this campaign with the very highest standards of integrity,\u201d Cruz told reporters, according to The Daily Beast\u2019s Gideon Resnick."
+        ],
+        "tf-idf score": [
+            0.33475567746752577,
+            0.33475567746752577,
+            0.30699287896669364,
+            0.8084051910465745
+        ]
+    }
+}

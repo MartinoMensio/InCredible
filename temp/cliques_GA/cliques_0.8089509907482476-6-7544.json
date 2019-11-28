@@ -1,0 +1,770 @@
+{
+    "0.1555337908085836-3-320": {
+        "average clique similarity": 0.1555337908085836,
+        "clique": [
+            "5-It shows Jupiter s f",
+            "3-Now  about those Leg",
+            "0-Even though Jupiter "
+        ],
+        "median tf-idf score": 0.6006294810055886,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "It shows Jupiter's four largest moons, Calisto, Ganymede, Europa and Io, orbiting the giant planet.",
+            "Now, about those Lego crew members. Three 1.  figurines are on board Juno. One is a likeness of Galileo Galilei    the scientist who discovered Jupiter's four largest moons.",
+            "Even though Jupiter is the largest planet in the solar system, scientists know remarkably little about it."
+        ],
+        "tf-idf score": [
+            0.5851527061999643,
+            0.8528916503191802,
+            0.6006294810055886
+        ]
+    },
+    "0.1567429227993559-3-117": {
+        "average clique similarity": 0.1567429227993559,
+        "clique": [
+            "2-At 11 53 p  m  Easte",
+            "3- It s what the Earth",
+            "0-For the first part o"
+        ],
+        "median tf-idf score": 0.7590622961230551,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "At 11:53 p. m. Eastern time, a signal from the spacecraft announced the end of a   engine burn that left it in the grip of its desired orbit around Jupiter.",
+            "\"It's what the Earth is made out of. It's what life comes from\". Juno will help solve the mysteries of Jupiter by looking at its interior.",
+            "For the first part of the mission, each revolution around Jupiter will take 53. 5 days. Here's an illustration of what that looks like from Juno's perspective."
+        ],
+        "tf-idf score": [
+            0.7042244056439809,
+            0.7590622961230551,
+            0.7981268275635778
+        ]
+    },
+    "0.16389234800897381-3-25": {
+        "average clique similarity": 0.16389234800897381,
+        "clique": [
+            "1- The risks that were",
+            "3-You can see Jupiter ",
+            "0-The GIF below traces"
+        ],
+        "median tf-idf score": 0.4901690203204568,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"The risks that were overcome, it's amazing. The more you know about the mission the more you know about how tricky it was. \" \"To know we can go to bed tonight not worrying about what is going to happen tomorrow, is just amazing,\" she said.",
+            "You can see Jupiter from Earth without any special binoculars or telescopes. It's the bright star in the evening sky from January through August. If you do have a telescope, you can see its largest moons.",
+            "The GIF below traces the path Juno took on its journey. You'll see that about two years into its flight, the orbiter passed back around the Earth for a gravity assist."
+        ],
+        "tf-idf score": [
+            0.3890542914410302,
+            0.4901690203204568,
+            0.5091365656711299
+        ]
+    },
+    "0.1639167158142888-3-62": {
+        "average clique similarity": 0.1639167158142888,
+        "clique": [
+            "0-Juno is equipped wit",
+            "4-The spacecraft s orb",
+            "2-Sunlight at Jupiter "
+        ],
+        "median tf-idf score": 1.0538303169173338,
+        "publications": [
+            "Vox",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Juno is equipped with nine scientific instruments, including sensors that can measure gravity, probe deep into Jupiter's atmosphere, and test the planet's magnetic fields, as well as various cameras to capture the planet across a range of the electromagnetic spectrum.",
+            "The spacecraft's orbital path is designed to protect it from Jupiter's incredibly strong radiation. Jupiter has a magnetic field some 20, 000 times as powerful as the one surrounding Earth, and at its strongest points it hosts electrons that bounce back and forth at nearly the speed of light.",
+            "Sunlight at Jupiter is one   as bright as at Earth, and Juno's three    panels with 18, 698 solar cells generate a mere 500 watts to power the spacecraft and its instruments. \"Now the fun begins, with science,\" Dr Bolton said."
+        ],
+        "tf-idf score": [
+            1.0538303169173338,
+            0.9674686456968657,
+            1.2723590673080345
+        ]
+    },
+    "0.16552731741291427-3-77": {
+        "average clique similarity": 0.16552731741291427,
+        "clique": [
+            "5-Updated 1 40 a  m  E",
+            "1-8bn km  Nasa s Juno ",
+            "2-Juno is just the sec"
+        ],
+        "median tf-idf score": 1.0841494780386614,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "Updated 1:40 a. m. ET with Juno orbit maneuver, After a nearly   journey, NASA's   Juno spacecraft achieved orbit around Jupiter on Monday night.",
+            "8bn km) Nasa's Juno spacecraft has reached Jupiter and successfully entered its orbit.",
+            "Juno is just the second spacecraft to enter orbit around Jupiter."
+        ],
+        "tf-idf score": [
+            1.1225664953764776,
+            1.0841494780386614,
+            0.8685314776068562
+        ]
+    },
+    "0.17227809876734487-3-88": {
+        "average clique similarity": 0.17227809876734487,
+        "clique": [
+            "1-Juno s mission is to",
+            "2-How much water it co",
+            "0-But Jupiter s is muc"
+        ],
+        "median tf-idf score": 0.6922552341721102,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Juno's mission is to peer through Jupiter's   atmosphere and map the interior from a unique vantage point above the poles. Among the lingering questions: How much water exists? Is there a solid core?",
+            "How much water it contains and the possible presence of a rocky core could reveal where in the solar system Jupiter was created and provide clues to the early days of other planets.",
+            "But Jupiter's is much, much more massive and more powerful."
+        ],
+        "tf-idf score": [
+            0.8887870998846533,
+            0.6922552341721102,
+            0.33267280147526185
+        ]
+    },
+    "0.17795348241477574-3-103": {
+        "average clique similarity": 0.17795348241477574,
+        "clique": [
+            "4- More signs that lif",
+            "1- There s a mixture o",
+            "5-That s because Juno "
+        ],
+        "median tf-idf score": 0.9743590619591767,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "[More signs that life could thrive on Jupiter's moon Europa]   \"This is the beast we're after,\" Bolton said after putting a new image of Jupiter  --   one taken just before Juno turned its science instruments off several days ago  --   up on the screen.",
+            "\"There's a mixture of tension and anxiety because this is such a critical manoeuvre and everything is riding on it. We have to get into orbit,\" Bolton said in the days before Juno neared Jupiter.",
+            "That's because Juno is in a large,   orbit that takes it far from the planet, only returning to Jupiter 53. 5 days after it first arrived."
+        ],
+        "tf-idf score": [
+            1.120195344345045,
+            0.9743590619591767,
+            0.9234239418503122
+        ]
+    },
+    "0.1785486340448613-3-377": {
+        "average clique similarity": 0.1785486340448613,
+        "clique": [
+            "2-In this belt of radi",
+            "1- We ve got to go dow",
+            "5-He added   It s gett"
+        ],
+        "median tf-idf score": 0.7842241004157684,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "In this belt of radiation, electrons bouncing back and forth at nearly the speed of light could have knocked out the computer and other electronics. \"They will go right through a spacecraft and strip the atoms apart inside your electronics and fry your brain if you don't do anything about it,\" Dr Becker said.",
+            "\"We've got to go down and look at what's inside, see how it's built, how deep these features go, learn about its real secrets. \" The fifth rock from the sun and the heftiest planet in the solar system, Jupiter is what's known as a gas giant  --   a ball of hydrogen and helium  --   unlike rocky Earth and Mars.",
+            "He added, \"It's getting very real\". Bolton went on to discuss what he called \"the true hazard\" of Jupiter  --   its massively powerful radiation belts that send electrons, protons and ions whizzing around the planet at nearly the speed of light."
+        ],
+        "tf-idf score": [
+            0.5863170594123751,
+            0.9125194697186638,
+            0.7842241004157684
+        ]
+    },
+    "0.18012605263397422-3-123": {
+        "average clique similarity": 0.18012605263397422,
+        "clique": [
+            "5-NASA plans for Juno ",
+            "0-Bit by bit  we re go",
+            "3-It looks a bit like "
+        ],
+        "median tf-idf score": 1.0340785993556625,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "NASA plans for Juno to orbit Jupiter 37 times over the next 20 months as it provides new information about the gas giant's core and composition.",
+            "Bit by bit, we're going to learn the secrets of this gas giant  --   whether Jupiter likes it or not. Engine burn complete and orbit obtained.",
+            "It looks a bit like a flying windmill. If all goes as planned, Juno will circle Jupiter 37 times over 20 months, diving down to about 2, 600 miles (4, 100 kilometers) above the planet's dense clouds."
+        ],
+        "tf-idf score": [
+            1.0530971348205798,
+            0.6970876015014983,
+            1.0340785993556625
+        ]
+    },
+    "0.18205177072789655-4-56": {
+        "average clique similarity": 0.18205177072789655,
+        "clique": [
+            "2-Juno traveled within",
+            "1-Over 37 orbits lasti",
+            "4-But Juno will orbit ",
+            "0-2 seconds  after a j"
+        ],
+        "median tf-idf score": 0.8600082966202414,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Juno traveled within 2, 900 miles of Jupiter's cloud tops, passing through almost the exact spot that the navigators had aimed for after its 1.   voyage.",
+            "Over 37 orbits lasting 14 days each, Juno will come within 2, 600 miles of Jupiter's cloud tops.",
+            "But Juno will orbit closer than any of them  --   within 2, 700 miles of the planet's cloud cover  --   and allow scientists to probe for data from beneath the giant planet's roiling, gassy surface.",
+            "2 seconds, after a journey of 1. 7 billion miles. \" Juno will repeat this careful approach for 37 orbits  --   the length of its mission before it plunges into the surface of the planet."
+        ],
+        "tf-idf score": [
+            0.7755960544748149,
+            0.8675407514406764,
+            0.9080998386163694,
+            0.8524758417998063
+        ]
+    },
+    "0.1826722789962728-3-241": {
+        "average clique similarity": 0.1826722789962728,
+        "clique": [
+            "1-The planet formed fr",
+            "2-Jupiter  most likely",
+            "4-Jupiter was formed f"
+        ],
+        "median tf-idf score": 0.6216657756493789,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "The planet formed from an enormous gas cloud 4. 5bn years ago under the feeble light of the newborn sun. The material leftover became the rest of the planets, the asteroids and the comets.",
+            "Jupiter, most likely the first planet formed after the sun, is believed to hold the keys to understanding the origins of our solar system.",
+            "Jupiter was formed from the sun's leftovers, creating a   planet that almost has its own mini solar system surrounding it."
+        ],
+        "tf-idf score": [
+            0.40243995808267463,
+            0.6216657756493789,
+            0.745400035591274
+        ]
+    },
+    "0.18838408664660797-5-0": {
+        "average clique similarity": 0.18838408664660797,
+        "clique": [
+            "2-But a titanium vault",
+            "3-To protect the space",
+            "1-Juno s most sensitiv",
+            "4-To protect the space",
+            "0-To protect the orbit"
+        ],
+        "median tf-idf score": 0.6456858557805514,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "But a titanium vault built for Juno proved up to the task of shielding its crucial systems.",
+            "To protect the spacecraft from the radiation, Juno has a shielded electronics vault.",
+            "Juno's most sensitive electronics are encased in a titanium vault to shield them from lethal radiation belts that are most intense around Jupiter's equator.",
+            "To protect the spacecraft during this period  --   and during its journey through the only    quiet zones of Jupiter's magnetic field  --   its important instruments are encased in a   titanium vault. But those radioactive particles aren't the only ones of concern. Much larger particles  --   pieces of dust and rock  --   could sabotage the mission as well.",
+            "To protect the orbiter's sensitive electronics, NASA engineered a   radiation vault made of titanium (an appropriate metal considering Jupiter's mythical namesake)."
+        ],
+        "tf-idf score": [
+            0.39222389207068487,
+            0.6456858557805514,
+            0.8150973538267495,
+            0.8437349148585664,
+            0.587946565345775
+        ]
+    },
+    "0.18936241371575735-3-305": {
+        "average clique similarity": 0.18936241371575735,
+        "clique": [
+            "4-On Monday  the    sp",
+            "3- I m really just ner",
+            "0- Juno is not only go"
+        ],
+        "median tf-idf score": 0.8903504845387594,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "On Monday, the    spacecraft will zip into Jupiter's orbit, allowing us to study the secrets of our solar system's biggest, oldest planet for the first time. Other spacecraft have visited Jupiter before.",
+            "\"I'm really just nervous that the whole orbit insertion rocket burn is going to work enough to get us into orbit and then allow us to turn back to the sun before we run out of battery power,\" Bolton said at a news conference.",
+            "\"Juno is not only going to help us better understand Jupiter, it's going to help us better understand the universe around us and our place in it,\" Barry Mauk, of the Johns Hopkins University Applied Physics Laboratory, said in a press statement."
+        ],
+        "tf-idf score": [
+            0.8903504845387594,
+            0.6158572398145243,
+            0.9231534427413997
+        ]
+    },
+    "0.19021404734648126-3-59": {
+        "average clique similarity": 0.19021404734648126,
+        "clique": [
+            "4-Jupiter  a planet so",
+            "5-The craft will then ",
+            "2- Isn t that incredib"
+        ],
+        "median tf-idf score": 0.8304716091462339,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Jupiter, a planet so huge that despite its gassy composition it has a mass greater than the rest of the objects in our solar system (save the sun) put together, is thought to hold some of the secrets of our own origins.",
+            "The craft will then slide along the planet's surface, fire its main engine to brake, and alter its own rotation and placement so that its solar array is pointed toward the sun. There's a   time delay for communication with the spacecraft, which means NASA won't start to learn the effects of the   engine burn for some 13 minutes after the burn completes.",
+            "\"Isn't that incredible?\" Mr Nybakken said. Then Juno headed outward again, away from Jupiter. After the end of the engine burn, the spacecraft pivoted so that its solar panels were again facing the sun."
+        ],
+        "tf-idf score": [
+            0.7903482112286824,
+            0.8304716091462339,
+            1.1221645503316782
+        ]
+    },
+    "0.19033857184372519-3-377": {
+        "average clique similarity": 0.19033857184372519,
+        "clique": [
+            "2-On the 37th orbit  s",
+            "3-The Galileo probe wa",
+            "0-The Galileo mission "
+        ],
+        "median tf-idf score": 0.9930133272735848,
+        "publications": [
+            "Vox",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "On the 37th orbit, scheduled for Feb. 20, 2018, Juno is to make a suicidal dive into Jupiter, ending the mission, the same way that the Galileo spacecraft was disposed of in 2003.",
+            "The Galileo probe was the first to study Jupiter  from orbit.",
+            "The Galileo mission in the 1990s made some observations of the rings of dust and debris that surround Jupiter, but NASA scientists still don't know how close to the surface these get to the planet, nor do they know the distribution of material within them (some of the debris may be from meteorites captured in orbit around the planet)."
+        ],
+        "tf-idf score": [
+            1.0514600210141705,
+            0.5554660781009308,
+            0.9930133272735848
+        ]
+    },
+    "0.192336061780237-4-137": {
+        "average clique similarity": 0.192336061780237,
+        "clique": [
+            "2-At 11 18 p  m  Juno ",
+            "1-18 GMT The manoeuvre",
+            "3-It will fire its mai",
+            "0-In order for this ne"
+        ],
+        "median tf-idf score": 0.5434559908614591,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "At 11:18 p. m. Juno's main engine began firing to slow the spacecraft enough to be captured by the planet's gravity.",
+            "18 GMT The manoeuvre was extremely complex, with the craft first having to slow down and then turn off its engines to enter Jupiter's orbit at exactly the right moment.",
+            "It will fire its main engine for 35 minutes starting at 8:18 p. m. PDT (11:18 p. m. ET).",
+            "In order for this needle threading to work, Juno's thrusters had to fire for more than 35 minutes to slow it down."
+        ],
+        "tf-idf score": [
+            0.7089440196708057,
+            0.6820609786929988,
+            0.14906953910775278,
+            0.40485100302991944
+        ]
+    },
+    "0.1929696644389689-3-174": {
+        "average clique similarity": 0.1929696644389689,
+        "clique": [
+            "1-Launched in 2011 whe",
+            "0-Juno s 1    journey ",
+            "3-Jupiter was 445 mill"
+        ],
+        "median tf-idf score": 0.7909113928802465,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "Launched in 2011 when Nasa faced a shortage of its favoured power source,   Juno relies on the sun's rays for energy and is already the most distant solar powered spacecraft from Earth.",
+            "Juno's 1.   journey to Jupiter began in August 2011.",
+            "Jupiter was 445 million miles (716 million kilometers) from Earth when Juno was launched from Cape Canaveral on August 5, 2011."
+        ],
+        "tf-idf score": [
+            0.7909113928802465,
+            0.6803702980281715,
+            0.845437520130121
+        ]
+    },
+    "0.19491399504466908-3-94": {
+        "average clique similarity": 0.19491399504466908,
+        "clique": [
+            "2-Juno also passed thr",
+            "4-Juno is plowing thro",
+            "5-As he described the "
+        ],
+        "median tf-idf score": 1.0294140962310938,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Juno also passed through the plane of Jupiter's diaphanous rings. Although the mission planners had chosen a place that they thought would be clear, they could not be certain, and even a piece of dust colliding with a spacecraft moving at 130, 000 m. p. h. could have caused considerable damage.",
+            "Juno is plowing through this ring of debris with its engine nozzle cap off in preparation for Monday's burn. It would be unlikely for the spacecraft to hit debris, the mission team says, but because of how little we know about the ring's inner density, an unlucky encounter with a pesky piece of dust can't be ruled out.",
+            "As he described the difficulty of getting a spacecraft through that radiation, Bolton also noted Jupiter's ring of debris that could present real problems to Juno's engine  --   which will need to have its nozzle open and pointed toward the planet to take speed off of the craft."
+        ],
+        "tf-idf score": [
+            1.0294140962310938,
+            0.9175015771874464,
+            1.2426150723345624
+        ]
+    },
+    "0.19501696540295377-3-49": {
+        "average clique similarity": 0.19501696540295377,
+        "clique": [
+            "0-To continually sneak",
+            "3-The spacecraft will ",
+            "1-To avoid the worst o"
+        ],
+        "median tf-idf score": 0.7733751181092553,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "To continually sneak in at the radiation opening at the poles, Juno has been put on a highly eccentric, elliptical orbit around the planet.",
+            "The spacecraft will orbit the poles and try to dodge the planet's most hazardous radiation belts.",
+            "To avoid the worst of the   environment, Juno will perform highly elliptical orbits that pass over the north and south poles before retreating to a distance of nearly 2m miles. Even so, some equipment onboard will be cooked by radiation long before the mission is over."
+        ],
+        "tf-idf score": [
+            0.7733751181092553,
+            0.4597566304295491,
+            0.7863778198129894
+        ]
+    },
+    "0.1975590177267725-3-219": {
+        "average clique similarity": 0.1975590177267725,
+        "clique": [
+            "4- And we re going to ",
+            "0-Around October 19  J",
+            "2-Juno will fire its e"
+        ],
+        "median tf-idf score": 0.8622982523529336,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"And we're going to conquer it tonight\". (    )  Around midnight Eastern time, the spacecraft's engine will fire, slowing it down by over 1, 700 feet per second. By slowing down at just the right spot  --   a target just a few miles wide  --   Juno will be set up to receive a gravitational hug that will tug it into the proper orbit.",
+            "Around October 19, Juno will fire up its thrusters again, and will accelerate its   orbit into a   orbit to gather data more quickly. It takes around 48 minutes to transmit data from Jupiter to Earth.",
+            "Juno will fire its engine again on Oct. 19 to move to a   orbit, when the science measurements begin in earnest."
+        ],
+        "tf-idf score": [
+            0.9741416416159492,
+            0.8622982523529336,
+            0.5702997376122332
+        ]
+    },
+    "0.1980860760463361-3-153": {
+        "average clique similarity": 0.1980860760463361,
+        "clique": [
+            "0-According to Science",
+            "2-The spacecraft will ",
+            "5-The instruments won "
+        ],
+        "median tf-idf score": 0.5780641144307782,
+        "publications": [
+            "Vox",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "According to Science Juno should be able to start making scientific observations after its first   orbit, which will be around the end of August.",
+            "The spacecraft will have to make multiple flybys, Dr Bolton said, before the scientists will be able to start answering questions like whether there is a rocky core at the center of Jupiter. \"We'll be hesitant to guessing the wrong answer until we see more information,\" Dr Bolton said.",
+            "The instruments won't make their first   measurements of Jupiter until the end of August."
+        ],
+        "tf-idf score": [
+            0.5780641144307782,
+            0.835736917835131,
+            0.4082206797207368
+        ]
+    },
+    "0.20147155409798198-3-6": {
+        "average clique similarity": 0.20147155409798198,
+        "clique": [
+            "3-The planet is the mo",
+            "0-Jupiter is made up o",
+            "5-Although it s   that"
+        ],
+        "median tf-idf score": 0.6833219968851869,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "The planet is the most massive in our solar system    Jupiter is a huge ball of gas 11 times wider than Earth.",
+            "Jupiter is made up of the same basic ingredients as the sun  --   mainly hydrogen and helium. Scientists are hoping a   investigation of its surface can reveal some history of the origin of our solar system.",
+            "Although it's   that the gas giant is made up primarily of hydrogen and helium gas, the planet's core remains mysterious\". Juno has a hexagonal body  --   measuring 11."
+        ],
+        "tf-idf score": [
+            0.6833219968851869,
+            0.5897202467986148,
+            0.7057348386386382
+        ]
+    },
+    "0.20345589728250382-3-26": {
+        "average clique similarity": 0.20345589728250382,
+        "clique": [
+            "2-But except for a pro",
+            "3-But scientists still",
+            "1-Bristling with instr"
+        ],
+        "median tf-idf score": 0.8235455853614514,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "But except for a probe that parachuted into Jupiter's atmosphere, Galileo did not have the tools that Juno does to delve into what lies beneath Jupiter's clouds.",
+            "But scientists still are puzzled by the gas giant. What's going on under Jupiter's dense clouds? Does it have a solid core? How much water is in its atmosphere? And how deep are those colorful bands and that mysterious giant red spot?",
+            "Bristling with instruments, Juno will peer deep beneath Jupiter's clouds to learn how the planet formed what drives its brilliant aurorae and how its complex weather systems produce the giant red spot and the swirling, enigmatic stripes that decorate its outer layers."
+        ],
+        "tf-idf score": [
+            0.8235455853614514,
+            0.6795410943394131,
+            1.099868540502529
+        ]
+    },
+    "0.2116703694104081-3-223": {
+        "average clique similarity": 0.2116703694104081,
+        "clique": [
+            "2-Status messages for ",
+            "0-It had to be incredi",
+            "1-Speaking at a press "
+        ],
+        "median tf-idf score": 0.7639185888689314,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "Status messages for each maneuver of the spacecraft came in as expected. The length of the engine firing turned out to be within one second of what had been predicted. Diane Brown, the program executive for Juno at NASA headquarters, described the performance as flawless. \"To know we can all go to bed tonight, not worrying about what's going to happen tomorrow, it's pretty awesome,\" she said at a news conference.",
+            "It had to be incredibly precise, as Juno was aiming for an opening \"that's tens of kilometers wide,\" Rick Nybakken, Juno's project manager said at the July 4 press conference. \"We're going to hit that within 1.",
+            "Speaking at a press conference shortly later, Diane Brown, Juno's project manager, said \"It's overwhelming. \""
+        ],
+        "tf-idf score": [
+            1.0653229713590444,
+            0.7639185888689314,
+            0.572723106864778
+        ]
+    },
+    "0.21451092739036395-3-85": {
+        "average clique similarity": 0.21451092739036395,
+        "clique": [
+            "2-Ducking through inte",
+            "3-That should slow the",
+            "4-At a maximum speed o"
+        ],
+        "median tf-idf score": 1.0681020412476767,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "Ducking through intense belts of violent radiation as it skimmed over the clouds of Jupiter at 130, 000 miles per hour, NASA's Juno spacecraft on Monday clinched its spot around the solar system's largest planet.",
+            "That should slow the spacecraft by about 1, 212 miles per hour (542 meters per second) and allow it to be pulled into orbit around Jupiter.",
+            "At a maximum speed of 165, 000 miles per hour, Juno could theoretically be torn up by even a tiny speck of space dust if it were to hit the temporary breach in the spacecraft's defenses. Caption   New photos of Jupiter and Mars, the transit of Mercury and more images of space."
+        ],
+        "tf-idf score": [
+            1.3631641824352423,
+            0.6641876892205076,
+            1.0681020412476767
+        ]
+    },
+    "0.21458111715354536-3-377": {
+        "average clique similarity": 0.21458111715354536,
+        "clique": [
+            "1-Juno s success promp",
+            "5-In a maneuver that w",
+            "2-Cheers and clapping "
+        ],
+        "median tf-idf score": 0.6409848255952235,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "Juno's success prompted joy at Nasa's jet propulsion laboratory, where team members had been watching the probe's progress with bated breath.",
+            "In a maneuver that will begin tonight, Juno will approach Jupiter from high over the planet's north pole, said Rick Nybakken, Juno's project manager from NASA's Jet Propulsion Laboratory in Pasadena, Calif.",
+            "Cheers and clapping erupted at the mission operations center at NASA's Jet Propulsion Laboratory, in Pasadena, Calif. which is managing Juno."
+        ],
+        "tf-idf score": [
+            0.6409848255952235,
+            1.2582946524073633,
+            0.6229722852944624
+        ]
+    },
+    "0.2260424304889727-5-187": {
+        "average clique similarity": 0.2260424304889727,
+        "clique": [
+            "0-All these have been ",
+            "4- How NASA s Juno mis",
+            "5-Our original post co",
+            "3-said an admittedly n",
+            "1- You re the best tea"
+        ],
+        "median tf-idf score": 1.1126695832919156,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "All these have been herculean efforts. But this July 4, when the Juno spacecraft successfully entered orbit around Jupiter, Scott Bolton  --   Juno's principal investigator  --   proclaimed, \"We just did the hardest thing NASA has ever done. \"",
+            "[How NASA's Juno mission could help tell us where we came from]   \"We're barreling down on Jupiter really quick,\" principal investigator Scott Bolton of the Southwest Research Institute said at a news briefing held at NASA's Jet Propulsion Lab in California on Monday. \"It's been an amazing journey\".",
+            "Our original post continues: As of noon Monday, Juno was an hour away from passing Jupiter's   moon, Europa, with only Io remaining to pass, Juno Principal Investigator Scott Bolton said.",
+            "said an admittedly nervous Scott Bolton    the principal investigator for Juno with the Southwest Research Institute in San Antonio, Texas.",
+            "\"You're the best team ever! We just did the hardest thing Nasa has ever done,\" said Scott Bolton, principle investigator of the Juno mission."
+        ],
+        "tf-idf score": [
+            1.2439603339336003,
+            1.3471769439562025,
+            1.1126695832919156,
+            0.6142314269857061,
+            0.8569684148649501
+        ]
+    },
+    "0.2560119084980505-3-280": {
+        "average clique similarity": 0.2560119084980505,
+        "clique": [
+            "0-When will we begin t",
+            "5-Over the coming days",
+            "4-Its orbital path wil"
+        ],
+        "median tf-idf score": 0.6885000416751519,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "When will we begin to see some data from Juno? For the approach into orbit, NASA had to turn off most of Juno's scientific instruments. They have to be turned back on.",
+            "Over the coming days and weeks, mission managers will be instructing the spacecraft to turn its scientific instruments back on. They were all turned off for the insertion maneuver to reduce the risk of a computer glitch.",
+            "Its orbital path will keep it away from these danger zones most of the time, but it does have to pass through the most radioactive regions more than once during its insertion period. When those electrons ricochet off Juno's instruments, Becker explained, they create a spray of proton \"shrapnel\" that could easily fry its computer systems."
+        ],
+        "tf-idf score": [
+            0.6885000416751519,
+            0.4542003433699321,
+            0.7070695032124615
+        ]
+    },
+    "0.2623680119973877-3-377": {
+        "average clique similarity": 0.2623680119973877,
+        "clique": [
+            "2-Rick Nybakken  Juno ",
+            "3- Some of the challen",
+            "5-At a news conference"
+        ],
+        "median tf-idf score": 0.7265650102620436,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Rick Nybakken, Juno's project manager, held up a sheaf of papers as he celebrated the smooth execution of the maneuver. \"We prepared a contingency communications procedure, and guess what?\" he said, ripping the papers. \"We don't need that anymore. \"",
+            "\"Some of the challenges are we are going into the most treacherous place in the entire solar system, radiation fields that are really intense,\"  Juno project manager Rick Nybakken told CNN's Paul Vercammen.",
+            "At a news conference after the successful maneuver, a broadly smiling Rick Nybakken, the Juno project manager, held up a sheaf of papers. \"We prepared a contingency communications procedure,\" he said, just in case the engine didn't fire and the mission was a failure."
+        ],
+        "tf-idf score": [
+            0.6777576360245806,
+            0.7265650102620436,
+            0.8932807426047322
+        ]
+    },
+    "0.2753358991337462-3-288": {
+        "average clique similarity": 0.2753358991337462,
+        "clique": [
+            "2-Around 10 30 p  m  o",
+            "4- NASA s Juno probe h",
+            "0-At that velocity  th"
+        ],
+        "median tf-idf score": 0.9642159937421111,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "Around 10:30 p. m. on Monday, Juno passed over Jupiter's north pole and through a region that Heidi Becker, the leader of Juno's radiation monitoring team, described as \"the scariest part of the scariest place. \"",
+            "[NASA's Juno probe has entered Jupiter's violent magnetosphere]   \"Juno is going into the scariest part of the scariest place,\" Heidi Becker, who leads Juno's   investigation at the Jet Propulsion Laboratory, said during Monday's briefing.",
+            "At that velocity, they can \"go right through a spacecraft and strip the atoms apart inside of electronics,\" Heidi Becker, Juno's radiation monitoring team lead, said at a July 4 press conference."
+        ],
+        "tf-idf score": [
+            0.9642159937421111,
+            1.249595035734611,
+            0.8446699739472829
+        ]
+    },
+    "0.34309504376932437-3-196": {
+        "average clique similarity": 0.34309504376932437,
+        "clique": [
+            "5- It s a milestone fo",
+            "2- We have a chance wi",
+            "4-Around half an hour "
+        ],
+        "median tf-idf score": 0.8965425469573963,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"It's a milestone for planetary science,\" NASA Director of Planetary Science Jim Green said at a news conference before the successful maneuver, adding that the Juno mission should provide far more data than has been gleaned from   trips past the gas giant.",
+            "\"We have a chance with Juno to go back and study the planet in its own right,\" James L Green, the director of planetary science at NASA, said during a news conference earlier on Monday.",
+            "Around half an hour later, it passed Io, the innermost moon. \"In one Jupiter rotation, we'll be there,\" said Jim Green, director of planetary science for NASA \"What a wonderful day to celebrate. It's a milestone for our country, but also for planetary science\"."
+        ],
+        "tf-idf score": [
+            1.0656860347834742,
+            0.8965425469573963,
+            0.8036533990243353
+        ]
+    }
+}

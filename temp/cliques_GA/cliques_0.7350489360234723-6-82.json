@@ -1,0 +1,350 @@
+{
+    "0.20653510327292698-3-39": {
+        "average clique similarity": 0.20653510327292698,
+        "clique": [
+            "0-Elias said the campa",
+            "5-A group of election ",
+            "1-    In a post on    "
+        ],
+        "median tf-idf score": 1.1427906001753991,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Elias said the campaign had \"quietly taken a number of steps in the last two weeks to rule in our out any possibility of outside interference in the vote tally in these critical battleground states,\" including reaching out to lawyers and data scientists to examine the possibility of hacked voting results, and monitoring and staffing   canvasses and   the math.",
+            "A group of election lawyers and data experts have been asking Clinton's team to call for a recount of the vote totals in three states    to ensure that a cyberattack was not committed to manipulate the totals.",
+            "'   In a post on    Marc Elias, the Clinton campaign''s counsel, said that the while   the campaign has been actively investigating the election results   with a slew of lawyers and data scientists, it hasn''t found any   \"actionable evidence\" of hacking or \"attempts to alter the voting   technology\". '"
+        ],
+        "tf-idf score": [
+            1.1319101556923832,
+            1.1427906001753991,
+            1.3278213932526635
+        ]
+    },
+    "0.22652391032969943-3-170": {
+        "average clique similarity": 0.22652391032969943,
+        "clique": [
+            "2-As the   reported Fr",
+            "4-Marc Elias  the Clin",
+            "3-In a Medium post  Cl"
+        ],
+        "median tf-idf score": 1.4345418501314777,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "As the   reported Friday, Stein and another   candidate filed for a recount in Wisconsin, and she plans to do the same in Pennsylvania and Michigan. Donald Trump's narrow victories in those states gave him enough electoral votes to cinch the election.",
+            "Marc Elias, the Clinton campaign counsel, said the campaign would take part in the recount in Wisconsin as well as in the other battleground states of Pennsylvania and Michigan if recounts were mounted there.",
+            "In a Medium post, Clinton campaign lawyer Marc Elias said that the campaign had received \"hundreds of messages, emails, and calls urging us to do something, anything, to investigate claims that the election results were hacked and altered in a way to disadvantage Secretary Clinton,\" especially in Michigan, Wisconsin and Pennsylvania, where the \"combined margin of victory for Donald Trump was merely 107, 000 votes. \""
+        ],
+        "tf-idf score": [
+            1.4345418501314777,
+            1.36029389220674,
+            1.7937949481859143
+        ]
+    },
+    "0.23294348252423847-3-259": {
+        "average clique similarity": 0.23294348252423847,
+        "clique": [
+            "5-Stein  the Green Par",
+            "2-He said that the cam",
+            "3- I don t think there"
+        ],
+        "median tf-idf score": 1.1322772875684253,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Stein, the Green Party candidate, started the effort a couple of days ago to get recounts in Michigan, Pennsylvania and Wisconsin    states that Trump surprisingly won.",
+            "He said that the campaign would do the same in Michigan and Pennsylvania if Stein files for recounts there, too.",
+            "\"I don't think there's any realistic chance whatsoever that even if recounts are done in Michigan, Pennsylvania, and Wisconsin, that's going to change the outcome in the states, or in the presidential election generally,\" Hasen said."
+        ],
+        "tf-idf score": [
+            1.1322772875684253,
+            0.89934386665696,
+            1.144811792218597
+        ]
+    },
+    "0.2701693430808607-3-259": {
+        "average clique similarity": 0.2701693430808607,
+        "clique": [
+            "3-Hillary Clinton s ca",
+            "1-         Hillary Cli",
+            "0-Marc Elias  general "
+        ],
+        "median tf-idf score": 1.2989300696816637,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Hillary Clinton's campaign said on Nov. 26 that it will participate in the recount, exploring whether there was any \"outside interference\" in the election results.",
+            "'  ' \"   Hillary Clinton's campaign said Saturday that it will take part   in a vote recount in Wisconsin .  \"",
+            "Marc Elias, general counsel for the Clinton campaign, wrote in a post on Medium on Saturday that \"now that a recount has been initiated in Wisconsin, we intend to participate in order to ensure the process proceeds in a manner that is fair to all sides. \""
+        ],
+        "tf-idf score": [
+            1.2989300696816637,
+            1.1573001026982879,
+            1.4055464841641527
+        ]
+    },
+    "0.32081245980364365-4-36": {
+        "average clique similarity": 0.32081245980364365,
+        "clique": [
+            "5-The Green Party scam",
+            "4-The recount is a  sc",
+            "2-It also said   This ",
+            "3-Later Saturday  Trum"
+        ],
+        "median tf-idf score": 0.9567165518746324,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Green Party scam to fill up their coffers by asking for impossible recounts is now being joined by the badly defeated  demoralized Dems, While there is no evidence of election tampering in the states, Green Party spokesman George Martin insisted \"the American public needs to have it investigated to make sure our votes count\".",
+            "The recount is a \"scam by the Green Party for an election that has already been conceded,\" he said.",
+            "It also said: \"This is a scam by the Green Party for an election that has already been conceded, and the results of this election should be respected instead of being challenged and abused, which is exactly what Jill Stein is doing\".",
+            "Later Saturday, Trump tweeted that the Green Party's initiative, which he called a \"scam,\" was \"now being joined by the badly defeated & demoralized Dems. \" For her part, Stein took to Twitter to question Clinton's motives for participating in the recount effort."
+        ],
+        "tf-idf score": [
+            1.0638085579266698,
+            0.8496245458225951,
+            0.8481938140995038,
+            1.1147713919909343
+        ]
+    },
+    "0.3217718531274808-4-259": {
+        "average clique similarity": 0.3217718531274808,
+        "clique": [
+            "2-In a post on Medium ",
+            "5- Now that a recount ",
+            "1-     But regardless ",
+            "3-Now that a recount e"
+        ],
+        "median tf-idf score": 1.186237257763508,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In a post on Medium, Clinton campaign lawyer Marc Erik Elias wrote that \"regardless of the potential to change the outcome in any of the states, we feel it is important, on principle, to ensure our campaign is legally represented\" in any recount proceedings.",
+            "\"Now that a recount is underway, we believe we have an obligation to the more than 64 million Americans who cast ballots for Hillary Clinton to participate in ongoing proceedings to ensure that an accurate vote count will be reported,\" Hillary for America attorney Marc Erik Elias said on Medium.",
+            "'   \"But regardless of the potential to change the outcome in any of   the states, we feel it is important, on principle, to ensure our   campaign is legally represented in any court proceedings and   represented on the ground in order to monitor the recount process   itself,\" Elias wrote.  '",
+            "Now that a recount effort was underway, Elias said that it was \"important\" to participate in the proceedings."
+        ],
+        "tf-idf score": [
+            1.297130941747074,
+            1.2897226347656137,
+            1.0827518807614025,
+            0.7561180211106713
+        ]
+    },
+    "0.33776880463104453-3-259": {
+        "average clique similarity": 0.33776880463104453,
+        "clique": [
+            "2-If Stein also pursue",
+            "1-    Elias said the C",
+            "3-And if Stein made go"
+        ],
+        "median tf-idf score": 1.3310530066695718,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "If Stein also pursues recounts in Pennsylvania and Michigan, as she has pledged, the Clinton campaign will participate in those efforts, as well. The recount in Wisconsin could begin as early as next week.",
+            "'   Elias said the Clinton campaign will continue to cooperate if   Stein pursues recounts in Pennsylvania and Michigan with the   funds she has raised.  '",
+            "And if Stein made good on efforts to prompt similar processes in Pennsylvania and Michigan, Elias said, the Clinton campaign would do so there, as well."
+        ],
+        "tf-idf score": [
+            1.3310530066695718,
+            1.3561363557762256,
+            0.9548979300514848
+        ]
+    },
+    "0.3990552053989038-3-255": {
+        "average clique similarity": 0.3990552053989038,
+        "clique": [
+            "2-Amid the snowballing",
+            "5- As Hillary Clinton ",
+            "3- The people have spo"
+        ],
+        "median tf-idf score": 0.9240001505082838,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Amid the snowballing recount efforts, The Hill reported that President Obama called Clinton on election night and urged her to concede to Trump. Without his urging, she may have waited for the final results, according to anonymous sources from her camp.",
+            "\"As Hillary Clinton herself said on election night, in addition to her conceding by congratulating me, 'We must accept this result and then look to the future,' \" Trump also said Saturday.",
+            "\"The people have spoken and the election is over,\" the statement said, \"and as Hillary Clinton herself said on election night, in addition to her conceding by congratulating me, 'We must accept this result and then look to the future. '\""
+        ],
+        "tf-idf score": [
+            1.2425901586082495,
+            0.9240001505082838,
+            0.8425002350509525
+        ]
+    },
+    "0.40640016865218215-3-259": {
+        "average clique similarity": 0.40640016865218215,
+        "clique": [
+            "1-     We had not plan",
+            "3- While that effort h",
+            "2- We need a system th"
+        ],
+        "median tf-idf score": 1.2419928641608073,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "'   \"We had not planned to exercise this option ourselves, but   now that a recount has been initiated in Wisconsin, we intend to   participate in order to ensure the process proceeds in a manner   that is fair to all sides,\" Elias wrote. '",
+            "\"While that effort has not, in our view, resulted in evidence of manipulation of results, now that a recount is underway, we believe we have an obligation to the more than 64 million Americans who cast ballots for Hillary Clinton to participate in ongoing proceedings to ensure that an accurate vote count will be reported. \"",
+            "\"We need a system that empowers voters, and that needs to start with a voting system we can trust,\" she said. Still, Elias wrote, the Clinton campaign believes it has \"an obligation\" to the 64 million people who voted for Clinton to \"participate in ongoing proceedings to ensure that an accurate vote count will be reported\"."
+        ],
+        "tf-idf score": [
+            0.9385943239190985,
+            1.2981734829297888,
+            1.2419928641608073
+        ]
+    },
+    "0.41229394564485355-3-137": {
+        "average clique similarity": 0.41229394564485355,
+        "clique": [
+            "3-     Hillary Clinton",
+            "4-Wisconsin s election",
+            "2-Hillary Clinton s ca"
+        ],
+        "median tf-idf score": 1.4470010433322642,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "     Hillary Clinton's presidential campaign has been quietly exploring whether there was any \"outside interference\" in the election results and will participate in the election recount in Wisconsin initiated by Green Party presidential candidate Jill Stein, a Clinton campaign lawyer revealed Saturday.",
+            "Wisconsin's election board on Friday approved the recount requested by Green Party candidate Jill Stein.",
+            "Hillary Clinton's campaign said Saturday it will participate in the recount efforts in Wisconsin spearheaded by Green Party presidential candidate Jill Stein."
+        ],
+        "tf-idf score": [
+            1.742502014002457,
+            0.9374978120936276,
+            1.4470010433322642
+        ]
+    },
+    "0.4214330123200908-4-259": {
+        "average clique similarity": 0.4214330123200908,
+        "clique": [
+            "4-Elias said in a stat",
+            "3- Reuters    Elias sa",
+            "2-Elias explained in h",
+            "0-He cautioned  howeve"
+        ],
+        "median tf-idf score": 0.9243837306125555,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Elias said in a statement on the Medium website that the Clinton campaign had not planned to seek a recount since its own investigation had failed to turn up any sign of hacking of voting systems.",
+            "(Reuters)   Elias said the campaign had \"not uncovered any actionable evidence of hacking or outside attempts to alter the voting technology. \"",
+            "Elias explained in his post that Clinton campaign directors had not pursued a recount themselves because they \"had not uncovered any actionable evidence of hacking or outside attempts to alter the voting technology\".",
+            "He cautioned, however, that the Clinton camp had not previously pushed for a recount because they \"had not uncovered any actionable evidence of hacking or outside attempts to alter the voting technology. \""
+        ],
+        "tf-idf score": [
+            1.1453584857581154,
+            0.6277445634337304,
+            1.0576290171359461,
+            0.7911384440891649
+        ]
+    },
+    "0.5454739009805445-3-226": {
+        "average clique similarity": 0.5454739009805445,
+        "clique": [
+            "3- We do so fully awar",
+            "2-Elias said the Clint",
+            "1-    He also noted th"
+        ],
+        "median tf-idf score": 1.3779865915836935,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\"We do so fully aware that the number of votes separating Donald Trump and Hillary Clinton in the closest of these states   --   Michigan  --   well exceeds the largest margin ever overcome in a recount,\" Elias said.",
+            "Elias said the Clinton camp is \"fully aware\" that the outcome of the election is unlikely to change, noting that \"the number of votes separating Donald Trump and Hillary Clinton in the closest of these states  --   Michigan  --   well exceeds the largest margin ever overcome in a recount\".",
+            "'   He also noted that the combined margin of victory for     Donald Trump in Pennsylvania, Wisconsin, and   Michigan, while only 107, 000 votes, \"exceeds the largest margin   ever overcome,\" in a recount. The three states account for a   total of 46 electoral votes. '"
+        ],
+        "tf-idf score": [
+            1.3779865915836935,
+            1.6563991530736786,
+            1.1728198437331885
+        ]
+    },
+    "0.564572820814992-3-259": {
+        "average clique similarity": 0.564572820814992,
+        "clique": [
+            "4- But now that a reco",
+            "3- But regardless of t",
+            "2-But  he said   now t"
+        ],
+        "median tf-idf score": 0.9624166502669912,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\"But now that a recount has been initiated in Wisconsin, we intend to participate in order to ensure the process proceeds in a manner that is fair to all sides,\" Elias said.",
+            "\"But regardless of the potential to change the outcome in any of the states, we feel it is important, on principle, to ensure our campaign is legally represented in any court proceedings and represented on the ground in order to monitor the recount process itself. \"",
+            "But, he said, \"now that a recount has been initiated in Wisconsin, we intend to participate in order to ensure the process proceeds in a manner that is fair to all sides\"."
+        ],
+        "tf-idf score": [
+            1.0160809814560927,
+            0.9624166502669912,
+            0.9363434891960453
+        ]
+    },
+    "0.6711084786460842-3-2": {
+        "average clique similarity": 0.6711084786460842,
+        "clique": [
+            "0- This recount is jus",
+            "3-In a statement Satur",
+            "5-         This recoun"
+        ],
+        "median tf-idf score": 1.1278105728630414,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"This recount is just a way for Jill Stein, who received less than one percent of the vote overall and wasn't even on the ballot in many states, to fill her coffers with money, most of which she will never even spend on this ridiculous recount,\" Trump said.",
+            "In a statement Saturday, Trump said the recount was \"just a way for Jill Stein, who received less than one percent of the vote overall and wasn't even on the ballot in many states, to fill her coffers with money. \"",
+            "...     \"This recount is just a way for Jill Stein. ...     to fill her coffers with money, most of which she will never even spend on this ridiculous recount. \""
+        ],
+        "tf-idf score": [
+            1.1278105728630414,
+            1.2214302097150798,
+            0.5568103369509293
+        ]
+    }
+}

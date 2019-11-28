@@ -1,0 +1,870 @@
+{
+    "0.17502745686261903-3-291": {
+        "average clique similarity": 0.17502745686261903,
+        "clique": [
+            "4-Officials suspect he",
+            "1-Some theorize that h",
+            "2-Iranian intelligence"
+        ],
+        "median tf-idf score": 0.2039881156954938,
+        "publications": [
+            "CNN",
+            "Vox",
+            "New York Times"
+        ],
+        "sentences": [
+            "Officials suspect he feared for the safety of his family living in Iran.",
+            "Some theorize that he had gotten cold feet, or that his family in Iran had been threatened.",
+            "Iranian intelligence agencies pressured his family, and by one account threatened to harm his son."
+        ],
+        "tf-idf score": [
+            0.2039881156954938,
+            0.1702628038866641,
+            0.26698144912648547
+        ]
+    },
+    "0.17635111453943822-3-69": {
+        "average clique similarity": 0.17635111453943822,
+        "clique": [
+            "0-      We have to rel",
+            "3-He may have hated li",
+            "4- We re not going to "
+        ],
+        "median tf-idf score": 0.10785762581196595,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u2026     We have to rely on informants,\u201d he said.",
+            "He may have hated life on the run.",
+            "\u201dWe\u2019re not going to comment on what may have led to this event,\u201d Trudeau added, referring to Amiri\u2019s prosecution and execution."
+        ],
+        "tf-idf score": [
+            0.10785762581196595,
+            0.0248008734283479,
+            0.43415635883141196
+        ]
+    },
+    "0.17822437913251407-3-62": {
+        "average clique similarity": 0.17822437913251407,
+        "clique": [
+            "0- The biggest concern",
+            "1-The key point to und",
+            "3-The scientist outed "
+        ],
+        "median tf-idf score": 0.26623654525742135,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cThe biggest concern of any informant is they don\u2019t want to be outed.",
+            "The key point to understand here, though, is that Amiri had already outed himself publicly by the time these emails were written.",
+            "The scientist outed himself; it wasn\u2019t Clinton\u2019s fault."
+        ],
+        "tf-idf score": [
+            0.0734042253245613,
+            0.5483226266669464,
+            0.26623654525742135
+        ]
+    },
+    "0.18701910052497941-3-333": {
+        "average clique similarity": 0.18701910052497941,
+        "clique": [
+            "1-Why Amiri decided to",
+            "0-But there are report",
+            "4-US officials have sa"
+        ],
+        "median tf-idf score": 0.6103389988515348,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Why Amiri decided to go public about his connection with the CIA and why he asked to be sent back to Iran remain a mystery.",
+            "But there are reports going back years that Amiri, despite his claims to the contrary, was being paid to provide the CIA with information about Iran\u2019s nuclear program.",
+            "US officials have said that Amiri willingly defected but then changed his mind, choosing to return to Iran to be with his family."
+        ],
+        "tf-idf score": [
+            0.5241074846649243,
+            0.9647514903624985,
+            0.6103389988515348
+        ]
+    },
+    "0.1889696527258442-3-131": {
+        "average clique similarity": 0.1889696527258442,
+        "clique": [
+            "1-    DRUDGE REPORT   ",
+            "4-Trump took to Twitte",
+            "3-    Isaac Saul   Ike"
+        ],
+        "median tf-idf score": 1.0617067586721793,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u2014   DRUDGE REPORT (@DRUDGE_REPORT) August 7, 2016    Unsurprisingly, Clinton\u2019s campaign responded to Trump\u2019s insinuation that Clinton was somehow to blame for Amiri\u2019s death, censuring him for feeding conspiracy theories.",
+            "Trump took to Twitter on Monday to link Clinton to Shahram Amiri\u2019s death, writing, \u201dMany people are saying that the Iranians killed the scientist who helped the U S because of Hillary Clinton\u2019s hacked emails\u201d.",
+            "\u2014   Isaac Saul (@Ike_Saul) August 7, 2016   The Clinton campaign Monday told me that Republicans and the Trump campaign went over the line by trying to try Clinton\u2019s email server to Amiri\u2019s execution."
+        ],
+        "tf-idf score": [
+            0.9954601575866445,
+            1.1658638418004148,
+            1.0617067586721793
+        ]
+    },
+    "0.2049592138250248-4-193": {
+        "average clique similarity": 0.2049592138250248,
+        "clique": [
+            "2-  Some of her emails",
+            "1-The nuclear scientis",
+            "4-RELATED  Cryptic Cli",
+            "0-  The issue could ca"
+        ],
+        "median tf-idf score": 0.8198117416551827,
+        "publications": [
+            "New York Times",
+            "Fox News",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201d Some of her emails, made public last year during the controversy over her private email server, show that her top foreign policy aide warned her that the story was about to break, but they give little insight into what happened behind the scenes.",
+            "The nuclear scientist\u2019s mysterious story predates Clinton\u2019s email scandal Over the past two years, Clinton\u2019s team has released almost all 52, 455 emails from her private server.",
+            "RELATED: Cryptic Clinton emails may refer to Iranian scientist, But the appearance of veiled references to the Amiri case in Clinton\u2019s emails has fueled another round of recriminations over her private email account.",
+            "\u201d The issue could cause renewed problems for Clinton in the campaign, after the FBI and Justice Department cleared her and decided not to pursue charges over her private email use."
+        ],
+        "tf-idf score": [
+            0.7670562053635435,
+            0.8725672779468219,
+            1.0980948454882244,
+            0.6459466533763919
+        ]
+    },
+    "0.20535348139298903-3-98": {
+        "average clique similarity": 0.20535348139298903,
+        "clique": [
+            "3-         Despite wha",
+            "0-The Iranian scientis",
+            "4-Critics  including o"
+        ],
+        "median tf-idf score": 1.2749500923284474,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "         Despite what you might read on Donald Trump\u2019s twitter feed, the Iranian execution of a nuclear scientist who defected to the United States and then changed his mind was not caused by Hillary Clinton\u2019s use of a private email server.",
+            "The Iranian scientist executed by his own government after being convicted of spying for the U S seemingly was discussed in emails that crossed Hillary Clinton\u2019s private server, fueling Republican accusations about how \u201creckless\u201d the former secretary of state\u2019s server   truly was.",
+            "Critics, including opponent Donald Trump, are slamming former Secretary of State Hillary Clinton for having received emails mentioning him on her controversial personal email server."
+        ],
+        "tf-idf score": [
+            1.4032979634056177,
+            1.2749500923284474,
+            0.7981732900475254
+        ]
+    },
+    "0.20557022967309077-3-56": {
+        "average clique similarity": 0.20557022967309077,
+        "clique": [
+            "3-The Washington Post ",
+            "2-The agency promised ",
+            "1-8 million Twitter fo"
+        ],
+        "median tf-idf score": 0.46369759650733794,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Washington Post reported at the time the U S government had paid Amiri $5 million.",
+            "The agency promised him $5 million and a new identity.",
+            "8 million Twitter followers: The Iranian government killed him because of Hillary Clinton\u2019s \u201dhacked\u201d emails."
+        ],
+        "tf-idf score": [
+            0.46369759650733794,
+            0.0682274166521204,
+            0.6477381723535862
+        ]
+    },
+    "0.21162282488721806-3-409": {
+        "average clique similarity": 0.21162282488721806,
+        "clique": [
+            "0-U S officials  thoug",
+            "3-U S officials at the",
+            "1-At the time  Dr Muha"
+        ],
+        "median tf-idf score": 1.2513655917898687,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "U S officials, though, said he was to receive millions of dollars for his help in understanding Iran\u2019s nuclear program.",
+            "U S officials at the time told me and many other journalists that Amiri had defected to the United States of his own free will and had helped the U S for many years while he was in Iran by providing essential intelligence information about Iran\u2019s nuclear program.",
+            "At the time, Dr Muhammad Sahimi, an Iranian chemical engineering professor and columnist, also pointed out that those deeply connected to Iran\u2019s nuclear program were rarely permitted to travel outside the country: \u201dThe fact that Amiri was allowed to leave Iran and go to Saudi Arabia already indicated to me at that time that he probably doesn\u2019t know much,\u201d Sahimi told NPR Indeed, Iran\u2019s deputy foreign minister denied Amiri was a nuclear scientist altogether: \u201dAmiri is a researcher at one of Iran\u2019s universities,\u201d Hassan Qashqavi said."
+        ],
+        "tf-idf score": [
+            0.6145508220854384,
+            1.2513655917898687,
+            1.3671085622146135
+        ]
+    },
+    "0.21550510059895933-3-17": {
+        "average clique similarity": 0.21550510059895933,
+        "clique": [
+            "0-A State Department s",
+            "3-  In 2010  I covered",
+            "4-The State Department"
+        ],
+        "median tf-idf score": 0.8746192825660336,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "A State Department spokeswoman also argued Monday that the execution had nothing to do with the references in the Clinton server emails, since the scientist\u2019s case had already been discussed publicly going back years.",
+            "\u201d In 2010, I covered Amiri\u2019s strange case for Foreign Policy magazine and watched in real time as the Clinton State Department struggled to deal with Amiri\u2019s story.",
+            "The State Department Monday denied any connection between the emails mentioning the delicate case and Amiri\u2019s execution."
+        ],
+        "tf-idf score": [
+            0.9321453737424847,
+            0.8746192825660336,
+            0.7532911420568746
+        ]
+    },
+    "0.22319257630213016-3-102": {
+        "average clique similarity": 0.22319257630213016,
+        "clique": [
+            "3-According to what Am",
+            "1-He made several YouT",
+            "2-They told Mr Amiri t"
+        ],
+        "median tf-idf score": 1.074202929448234,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "According to what Amiri told Pakistani and Iranian officials, he was kidnapped in Medina, Saudi Arabia in 2009, on his way to the mosque, thrown in a van, drugged, and taken the United States.",
+            "He made several YouTube videos, first claiming the CIA had kidnapped him in Saudi Arabia and that he hadn\u2019t shared any secret Iranian information, then shifting the narrative to say he had been in the United States to study and then was captured by the CIA         The State Department denied Amiri\u2019s comments, claiming he had been a paid CIA informant.",
+            "They told Mr Amiri to make a videotape claiming he had been kidnapped."
+        ],
+        "tf-idf score": [
+            1.074202929448234,
+            1.1553622360997577,
+            0.48349071491486767
+        ]
+    },
+    "0.22570857261753427-3-339": {
+        "average clique similarity": 0.22570857261753427,
+        "clique": [
+            "1-Which means that the",
+            "3-There s no evidence ",
+            "4-We should recognize "
+        ],
+        "median tf-idf score": 0.34436956767314286,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "Which means that the emails, even if they had been hacked (which, remember, there is no evidence of) played no role in outing Amiri as a spy to the Iranians and thus did not contribute to his death.",
+            "There\u2019s no evidence her server was hacked.",
+            "We should recognize his concerns and frame it in terms of a misunderstanding with no malevolent intent and that we will make sure there is no recurrence."
+        ],
+        "tf-idf score": [
+            0.6742968703148753,
+            0.34436956767314286,
+            0.11623162314457167
+        ]
+    },
+    "0.22851727378241068-3-181": {
+        "average clique similarity": 0.22851727378241068,
+        "clique": [
+            "4- Mr Amiri has been i",
+            "3-  Another email  sen",
+            "2-Among the side playe"
+        ],
+        "median tf-idf score": 1.1992702013882321,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201dMr Amiri has been in the United States of his own free will and he is free to go,\u201d Clinton said at a July 2010 press conference.",
+            "\u201d Another email, sent by deputy chief of staff Jake Sullivan on July 12, 2010, appears to notify Clinton that Amiri has gone to the Pakistani embassy, which hosts an Iranian interests section, as part of his attempt to go back to Iran.",
+            "Among the side players was Hillary Clinton, the secretary of state, who said as Mr Amiri was returning to Iran: \u201cHe\u2019s free to go."
+        ],
+        "tf-idf score": [
+            0.9752546734544716,
+            1.2247961793572975,
+            1.1992702013882321
+        ]
+    },
+    "0.23275728681625973-3-112": {
+        "average clique similarity": 0.23275728681625973,
+        "clique": [
+            "1-There is one big pro",
+            "4-The FBI has said the",
+            "3-Add Shahram Amiri to"
+        ],
+        "median tf-idf score": 0.7746945614850664,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "There is one big problem with Trump\u2019s tweet, though  \u2014   namely that there is \u201dno reasonable connection between the discussion of Amiri\u2019s case on email by Clinton\u2019s staff to Amiri\u2019s eventual execution,\u201d writes the Washington Post\u2019s Josh Rogin, who started covering Amiri\u2019s story six years ago:     There\u2019s no evidence her server was hacked.",
+            "The FBI has said there is no direct evidence the server was hacked, noting such evidence would be hard to come by.",
+            "Add Shahram Amiri to the list of deaths Trump has carelessly speculated that Clinton is responsible for with no real evidence."
+        ],
+        "tf-idf score": [
+            1.4302866771239253,
+            0.5800046917724508,
+            0.7746945614850664
+        ]
+    },
+    "0.23532554276918852-3-205": {
+        "average clique similarity": 0.23532554276918852,
+        "clique": [
+            "3-The Iranian governme",
+            "4-RELATED  Iran  Nucle",
+            "1- Last week  the Iran"
+        ],
+        "median tf-idf score": 0.8422821058446809,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "The Iranian government announced Sunday it had executed Shahram Amiri, a nuclear scientist who spent about 14 months in the United States in 2009 and 2010.",
+            "RELATED: Iran: Nuclear scientist executed for spying for \u2019Great Satan\u2019 US, State Department spokeswoman Elizabeth Trudeau told reporters  \u201dthere was public reporting on this topic back in 2010,\u201d referencing a news conference in which Clinton mentioned the scientist.",
+            " Last week, the Iranian government executed an Iranian nuclear scientist for espionage."
+        ],
+        "tf-idf score": [
+            0.8422821058446809,
+            1.0800701411493114,
+            0.3469811030819143
+        ]
+    },
+    "0.23637376355575299-3-208": {
+        "average clique similarity": 0.23637376355575299,
+        "clique": [
+            "1-But only a few month",
+            "4-While in the US  he ",
+            "2-Weeks later  he disa"
+        ],
+        "median tf-idf score": 0.24583191547128885,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "But only a few months later, he disappeared again  \u2014   this time in Iran.",
+            "While in the US, he seemed to appear in one video saying he was kidnapped but later in another video said he was there by choice.",
+            "Weeks later, he disappeared."
+        ],
+        "tf-idf score": [
+            0.24583191547128885,
+            0.4504653204188238,
+            0.08242441747675731
+        ]
+    },
+    "0.2364085489522599-3-241": {
+        "average clique similarity": 0.2364085489522599,
+        "clique": [
+            "1-Then  last week  the",
+            "0-Iran confirmed Sunda",
+            "3-He claimed he never "
+        ],
+        "median tf-idf score": 1.1754879116988524,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Then, last week, the Iranian government confirmed years of speculation that Amiri had been arrested and secretly detained by the government, telling reporters he had been hanged for treason and returning his deceased body to his family.",
+            "Iran confirmed Sunday that Shahram Amiri was hanged last week  \u2014   years after he defected to the U S later returned home, where he was heralded as a hero and then was tried and convicted of spying for the U S While there are conflicting accounts of Amiri\u2019s odyssey from Iran to the U S and back, he did appear in a video in 2010 while living in the U S claiming to have been kidnapped by American and Saudi agents.",
+            "He claimed he never gave any information to the U S government and that he was moved around a lot, staying mostly in Arizona and Washington, DC For some unknown reason, 14 months into his capture, the U S government put Amiri in a cab and had him shipped back into Iranian hands, according to the story Amiri told just before he returned to Iran."
+        ],
+        "tf-idf score": [
+            0.6575130361770951,
+            1.1918415969162515,
+            1.1754879116988524
+        ]
+    },
+    "0.24320741612468164-4-297": {
+        "average clique similarity": 0.24320741612468164,
+        "clique": [
+            "0-Amiri first vanished",
+            "4-At the time  he had ",
+            "2-Mr Amiri was 32 year",
+            "1-In the summer of 200"
+        ],
+        "median tf-idf score": 0.6214492939186761,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "Amiri first vanished in 2009 while on a religious pilgrimage to Muslim holy sites in Saudi Arabia.",
+            "At the time, he had claimed he was kidnapped by American spies while on a pilgrimage to Saudi Arabia, saying that he had been offered millions of dollars to spy on the US\u2019s behalf but had opted to turn it down.",
+            "Mr Amiri was 32 years old in 2009 when he left a university post to go on what he declared was a pilgrimage to Mecca.",
+            "In the summer of 2009, Amiri, a nuclear scientist at Tehran\u2019s   University of Technology, which reportedly has ties to Iran\u2019s military, disappeared while on a religious pilgrimage to Saudi Arabia."
+        ],
+        "tf-idf score": [
+            0.3989142525274096,
+            0.5460233042593159,
+            0.6968752835780363,
+            0.7935320359242151
+        ]
+    },
+    "0.24726988815347903-3-228": {
+        "average clique similarity": 0.24726988815347903,
+        "clique": [
+            "4- This is not somethi",
+            "3-The emails were rele",
+            "1-Amiri s death is the"
+        ],
+        "median tf-idf score": 1.1840497861911026,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dThis is not something that became public when the State Department released those emails,\u201d she added, noting that none of the emails mentioning Amiri were classified or retroactively classified as such upon their release    as some emails sent to Clinton were    a sign the Amiri material was not considered too sensitive to be made public.",
+            "The emails were released last year.",
+            "Amiri\u2019s death is the first time the Iranian government has admitted to secretly detaining someone, according to the AP Clinton\u2019s emails did mention Amiri Parts of Amiri\u2019s storyline were captured in the emails released from Clinton\u2019s private server."
+        ],
+        "tf-idf score": [
+            1.2083127168432508,
+            0.2413427457266813,
+            1.1840497861911026
+        ]
+    },
+    "0.27011165464786274-3-22": {
+        "average clique similarity": 0.27011165464786274,
+        "clique": [
+            "1-That day  the Drudge",
+            "3-  The Drudge Report ",
+            "0-Republican president"
+        ],
+        "median tf-idf score": 0.787023338282749,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "That day, the Drudge Report stretched Cotton\u2019s remarks, sharing a story with the tag line \u201dCLINTON EMAIL LED TO EXECUTION IN IRAN?\u201d which likely led \u201dmany people\u201d to share the sentiment and Trump to tweet it.",
+            "\u201d The Drudge Report ran the story with a banner title, \u201cClinton email led to execution in Iran?\u201d which Trump promptly retweeted without comment to his 10.",
+            "Republican presidential nominee Donald Trump retweeted a story about the email references to the scientist."
+        ],
+        "tf-idf score": [
+            0.8691149626294439,
+            0.787023338282749,
+            0.4884023382381708
+        ]
+    },
+    "0.3301914158545153-3-304": {
+        "average clique similarity": 0.3301914158545153,
+        "clique": [
+            "1-Most recently he sai",
+            "3- I m not going to co",
+            "0- In the emails that "
+        ],
+        "median tf-idf score": 0.8136849461023083,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Most recently he said Hillary Clinton was unfit to be president because foreign governments likely have a \u201dblackmail file\u201d on her from \u201dhacking\u201d her emails.",
+            "\u201cI\u2019m not going to comment on what he may or may not have done for the United States government, but in the emails that were on Hillary Clinton\u2019s private server, there were conversations among her senior advisors about this gentleman,\u201d Cotton said.",
+            "\u201cIn the emails that were on Hillary Clinton\u2019s private server, there were conversations among her senior advisers about this gentleman,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.8136849461023083,
+            0.9682540194294411,
+            0.6896961903051403
+        ]
+    },
+    "0.39337216878104014-3-33": {
+        "average clique similarity": 0.39337216878104014,
+        "clique": [
+            "4-Republican Sen  Tom ",
+            "1-On CBS s Face the Na",
+            "0- The gentleman  "
+        ],
+        "median tf-idf score": 1.1282396104505044,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "Republican Sen. Tom Cotton of Arkansas drew a link between the emails and Amiri\u2019s execution Sunday, saying on CBS\u2019 \u201dFace the Nation,\u201d \u201dIn the emails that were on Hillary Clinton\u2019s private server, there were conversations among her senior advisors about this gentleman\u201d.",
+            "On CBS\u2019s Face the Nation Sunday, Republican Sen. Tom Cotton of Arkansas signaled that there was discussion about Amiri on Clinton\u2019s private server: \u201dIn the emails that were on Hillary Clinton\u2019s private server, there were conversations among her senior advisers about this gentleman.",
+            "\u201dThe gentleman ."
+        ],
+        "tf-idf score": [
+            1.1282396104505044,
+            1.2762889719018626,
+            0.025118086911316295
+        ]
+    },
+    "0.4211487218509811-3-447": {
+        "average clique similarity": 0.4211487218509811,
+        "clique": [
+            "0- He is free to go   ",
+            "1-In 2010    of State ",
+            "3- He s free to go "
+        ],
+        "median tf-idf score": 0.12303579211887343,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dHe is free to go,\u201d she had said.",
+            "In 2010,   of State Clinton publicly stated: \u201dHe\u2019s free to go.",
+            "\u201cHe\u2019s free to go."
+        ],
+        "tf-idf score": [
+            0.12303579211887343,
+            0.36737308514312655,
+            0.039404978444965086
+        ]
+    },
+    "0.43237967891031764-3-49": {
+        "average clique similarity": 0.43237967891031764,
+        "clique": [
+            "4-If he has to leave  ",
+            "0- The Trump campaign ",
+            "3- The Trump campaign "
+        ],
+        "median tf-idf score": 0.2879231969852993,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "If he has to leave, so be it\u201d.",
+            "\u201dThe Trump campaign has never met a conspiracy theory it didn\u2019t like.",
+            "\u201cThe Trump campaign has never met a conspiracy theory it didn\u2019t like."
+        ],
+        "tf-idf score": [
+            0.11147396733274767,
+            0.2879231969852993,
+            0.2879231969852993
+        ]
+    },
+    "0.43441530577542253-3-125": {
+        "average clique similarity": 0.43441530577542253,
+        "clique": [
+            "0-Iranian judiciary sp",
+            "2-  He said he had bee",
+            "1-According to the Ass"
+        ],
+        "median tf-idf score": 0.7248575801496511,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "Iranian judiciary spokesman Gholamhosein Mohseni Ejehi said Amiri \u201dhad access to the country\u2019s secret and classified information\u201d and \u201dhad been linked to our hostile and No.",
+            "\u201d He said he had been drugged and tortured.",
+            "According to the Associated Press, Iranian judiciary spokesperson Gholamhosein Mohseni Ejehi said Amiri \u201dhad access to the country\u2019s secret and classified information\u201d and \u201dhad been linked to our hostile and No."
+        ],
+        "tf-idf score": [
+            0.7248575801496511,
+            0.10086569079466892,
+            0.7822429630873369
+        ]
+    },
+    "0.4355618693936254-4-6": {
+        "average clique similarity": 0.4355618693936254,
+        "clique": [
+            "1-On July 5  2010  Ric",
+            "3- We have a diplomati",
+            "0-An email forwarded t",
+            "4-One message  written"
+        ],
+        "median tf-idf score": 1.0382047475198148,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "On July 5, 2010, Richard Morningstar, the State Department\u2019s special envoy for Eurasian energy, sent an email (obtained by WikiLeaks) to Clinton\u2019s foreign policy adviser Jacob Sullivan indicating that if Amiri wanted to leave, he should:  Per the subject we discussed, we have a diplomatic, \u201dpsychological\u201d issue, not a legal issue.",
+            "\u201cWe have a diplomatic, \u2018psychological\u2019 issue, not a legal one.",
+            "An email forwarded to Clinton by senior adviser Jake Sullivan on July 5, 2010  \u2014   just 10 days before Amiri returned to Tehran  \u2014   says: \u201dWe have a diplomatic, \u2019psychological\u2019 issue, not a legal one.",
+            "One message, written by Richard Morningstar, acting special envoy of the US secretary of state for Eurasian energy at the time, was sent to Clinton on July 5, 2010, just days after the videos purportedly of Amiri were posted online and less than two weeks before he left the US The email appears to reference Amiri\u2019s hesitation at continuing on as a defector and his wish to leave the US \u201dPer the subject we discussed, we have a diplomatic, \u2019psychological\u2019 issue, not a legal issue,\u201d Morningstar wrote."
+        ],
+        "tf-idf score": [
+            1.1757329378026429,
+            0.07975479137914357,
+            0.9006765572369868,
+            1.5332986028628972
+        ]
+    },
+    "0.4433186623780056-3-277": {
+        "average clique similarity": 0.4433186623780056,
+        "clique": [
+            "0-Trump backer David C",
+            "3- This could lead to ",
+            "1-This could lead to p"
+        ],
+        "median tf-idf score": 0.15126536507806543,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Trump backer David Clarke, Jr told Fox News on Monday that the references are \u201cextremely problematic.",
+            "\u201cThis could lead to problematic news stories in the next 24 hours.",
+            "This could lead to problematic news stories in the next 24 hours."
+        ],
+        "tf-idf score": [
+            0.2966711578317619,
+            0.15126536507806543,
+            0.15126536507806543
+        ]
+    },
+    "0.45981264859870147-3-200": {
+        "average clique similarity": 0.45981264859870147,
+        "clique": [
+            "0-He walked into the  ",
+            "3-When Amiri arrived a",
+            "1-In July 2010  Amiri "
+        ],
+        "median tf-idf score": 0.7087243960540257,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He walked into the   section at the Pakistani Embassy in Washington later that year and demanded to be sent home.",
+            "When Amiri arrived at the Pakistani embassy, he was asking to be sent back to Iran.",
+            "In July 2010, Amiri showed up at the Iranian interests section of the Pakistani Embassy in Washington, DC, asking to be sent back home to Iran."
+        ],
+        "tf-idf score": [
+            0.26774486984162343,
+            0.7087243960540257,
+            0.7256820977434525
+        ]
+    },
+    "0.4744998840055863-3-401": {
+        "average clique similarity": 0.4744998840055863,
+        "clique": [
+            "2- Shahram Amiri was h",
+            "4-On Sunday  however  ",
+            "1- Shahram Amiri was h"
+        ],
+        "median tf-idf score": 0.986449172642862,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201cShahram Amiri was hanged for revealing the country\u2019s top secrets to the enemy,\u201d Gholam Hossein Mohseni Ejei, a spokesman for Iran\u2019s Justice Ministry, told reporters in Tehran, according to international news services and the country\u2019s state news agency.",
+            "On Sunday, however, Iran\u2019s Judiciary Ministry announced Amiri had been hanged for sharing Iran\u2019s nuclear secrets with the enemy.",
+            "\u201dShahram Amiri was hanged for revealing the country\u2019s top secrets to the enemy,\u201d Iran\u2019s Justice Ministry told the country\u2019s state news agency."
+        ],
+        "tf-idf score": [
+            1.1299128553053595,
+            0.5905613421149214,
+            0.986449172642862
+        ]
+    },
+    "0.5721708430212592-4-293": {
+        "average clique similarity": 0.5721708430212592,
+        "clique": [
+            "4- Our friend has to b",
+            "2-By 2009  the C I A h",
+            "1-Our friend has to be",
+            "0-Our friend has to be"
+        ],
+        "median tf-idf score": 0.14375939179345368,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dOur friend has to be given a way out.",
+            "By 2009, the C I A had apparently decided that the chances he would be detected were rising, and offered to get him out of the country.",
+            "Our friend has to be given a way out.",
+            "Our friend has to be given a way out\u201d."
+        ],
+        "tf-idf score": [
+            0.14375939179345368,
+            0.10680383518734049,
+            0.14375939179345368,
+            0.14375939179345368
+        ]
+    },
+    "0.5808806796357633-4-78": {
+        "average clique similarity": 0.5808806796357633,
+        "clique": [
+            "2-The C I A  s resettl",
+            "3- If he has to leave ",
+            "0-If he has to leave  ",
+            "1-If he has to leave s"
+        ],
+        "median tf-idf score": 0.11147396733274767,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The C I A \u2019s resettlement program has clear rules that if a defector wants to return home, there is no legal basis for the United States to force him to stay.",
+            "\u201cIf he has to leave, so be it.",
+            "If he has to leave, so be it\u201d.",
+            "If he has to leave so be it."
+        ],
+        "tf-idf score": [
+            0.40526729961044355,
+            0.11147396733274767,
+            0.11147396733274767,
+            0.11147396733274767
+        ]
+    },
+    "0.6026261306242089-4-447": {
+        "average clique similarity": 0.6026261306242089,
+        "clique": [
+            "4-He continued   That ",
+            "3- That goes to show j",
+            "0- That goes to show j",
+            "1-That goes to show ju"
+        ],
+        "median tf-idf score": 0.5084491754860719,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "He continued, \u201dThat goes to show just how reckless and careless her decisions were to put that kind of highly classified information on a private server, but I think her judgment is not suited to keep this country safe\u201d.",
+            "\u201cThat goes to show just how reckless and careless her decision was to put that kind of highly classified information on a private server.",
+            "\u201cThat goes to show just how reckless and careless her decision was to put that kind of highly classified information a private server.",
+            "That goes to show just how reckless and careless her decision was to put that kind of highly classified information a private server."
+        ],
+        "tf-idf score": [
+            0.40530597417470454,
+            0.5084491754860719,
+            0.5084491754860719,
+            0.5084491754860719
+        ]
+    },
+    "0.6999625234204004-4-346": {
+        "average clique similarity": 0.6999625234204004,
+        "clique": [
+            "4-The Clinton campaign",
+            "3-He and his supporter",
+            "0-He and his supporter",
+            "1-He and his supporter"
+        ],
+        "median tf-idf score": 0.684454945206114,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "The Clinton campaign fired back at GOP attacks on Monday, releasing a statement even before Trump\u2019s tweet accusing the GOP presidential nominee of using \u201dincreasingly desperate rhetoric to attack Hillary Clinton and make absurd accusations because they have no ideas for the American people\u201d.",
+            "He and his supporters continue to use increasingly desperate rhetoric to attack Hillary Clinton and make absurd accusations because they have no ideas for the American people,\u201d said Clinton campaign spokesman Jesse Lehrich.",
+            "He and his supporters continue to use increasingly desperate rhetoric to attack Hillary Clinton and make absurd accusations because they have no ideas for the American people,\u201d the spokesperson said.",
+            "He and his supporters continue to use increasingly desperate rhetoric to attack Hillary Clinton and make absurd accusations because they have no ideas for the American people,\u201d Clinton campaign spokesperson Jesse Lehrich told the Washington Post."
+        ],
+        "tf-idf score": [
+            0.7147598681954901,
+            0.6782092026123507,
+            0.6146686724693111,
+            0.6907006877998774
+        ]
+    },
+    "0.7007961471945255-3-40": {
+        "average clique similarity": 0.7007961471945255,
+        "clique": [
+            "2-Those decisions are ",
+            "3-These decisions are ",
+            "1-These decisions are "
+        ],
+        "median tf-idf score": 0.05031474463780842,
+        "publications": [
+            "Vox",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Those decisions are his alone to make.",
+            "These decisions are his alone to make,\u201d she said on July 13, 2010.",
+            "These decisions are his alone to make\u201d."
+        ],
+        "tf-idf score": [
+            0.05031474463780842,
+            0.17541389339205588,
+            0.05031474463780842
+        ]
+    },
+    "0.7577353281660626-3-209": {
+        "average clique similarity": 0.7577353281660626,
+        "clique": [
+            "3- The gentleman      ",
+            "0-   has apparently go",
+            "1-The following week  "
+        ],
+        "median tf-idf score": 0.3822782985438107,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cThe gentleman   \u2026     has apparently gone to his country\u2019s interests section because he is unhappy with how much time it has taken to facilitate his departure,\u201d Sullivan wrote.",
+            ".. has apparently gone to his country\u2019s interests section because he is unhappy with how much time it has taken to facilitate his departure,\u201d Sullivan wrote.",
+            "The following week, on July 12, 2010, Sullivan sent an email to Clinton to note that Amiri had gone to the Pakistani Embassy, which hosted an Iranian interests office, to demand repatriation: \u201dThe gentleman you have talked to Bill Burns about has apparently gone to his country\u2019s interests section because he is unhappy with how much time it has taken to facilitate his departure."
+        ],
+        "tf-idf score": [
+            0.3822782985438107,
+            0.3571602116324944,
+            1.2971501878236702
+        ]
+    }
+}

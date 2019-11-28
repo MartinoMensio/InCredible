@@ -1,0 +1,534 @@
+{
+    "0.14365828502252728-3-375": {
+        "average clique similarity": 0.14365828502252728,
+        "clique": [
+            "0-      It was Septemb",
+            "3-There was no way out",
+            "1-She was with Hillary"
+        ],
+        "median tf-idf score": 0.3126493401806589,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "      It was September 2014, and Debbie Wasserman Schultz was tumbling through yet another terrible news cycle.",
+            "There was no way out and I think, obviously, the end has come and I don\u2019t think there was any other outcome that was forseeable\u201d.",
+            "She was with Hillary until it became apparent Obama was going to win."
+        ],
+        "tf-idf score": [
+            0.6518350569651752,
+            0.3126493401806589,
+            0.2665347236562138
+        ]
+    },
+    "0.14623162403404508-3-187": {
+        "average clique similarity": 0.14623162403404508,
+        "clique": [
+            "0-In 2012  GOP operati",
+            "3-She struggled to rai",
+            "1-On Sunday  she said "
+        ],
+        "median tf-idf score": 0.545214819982082,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "In 2012, GOP operative Tim Miller armed himself with copies of a devastating report by Politico\u2019s Glenn Thrush claiming that Obama advisers already regretted the decision to appoint Wasserman Schultz, and he stood outside an event where she was speaking.",
+            "She struggled to raise the kind of cash that national party leaders had hoped for, in part because of an outside group set up by President Barack Obama    Organizing for Action    that diverted resources away from the DNC fundraising machine.",
+            "On Sunday, she said she had discussed her decision with Barack Obama, who appointed her in 2011, and with Clinton, in the interests of helping the party secure the election in November."
+        ],
+        "tf-idf score": [
+            0.757008923033226,
+            0.545214819982082,
+            0.487001603420368
+        ]
+    },
+    "0.14973970600659633-3-46": {
+        "average clique similarity": 0.14973970600659633,
+        "clique": [
+            "3- She reached this po",
+            "1- She is for herself ",
+            "0-And she did "
+        ],
+        "median tf-idf score": 0.0050215885560224,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dShe reached this position and couldn\u2019t help herself,\u201d Morgan said.",
+            "\u201cShe is for herself first, second and third.",
+            "And she did."
+        ],
+        "tf-idf score": [
+            0.1949197441749175,
+            0.0050215885560224,
+            0.0
+        ]
+    },
+    "0.15643206868241685-3-448": {
+        "average clique similarity": 0.15643206868241685,
+        "clique": [
+            "4-Ed Rendell  himself ",
+            "0-  Later  he learned ",
+            "1-  Another former DNC"
+        ],
+        "median tf-idf score": 0.41592169946142005,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Ed Rendell, himself a former DNC chairman, has said he wouldn\u2019t have let her speak at the convention.",
+            "\u201d Later, he learned that she called his Republican National Committee boss, Chairman Reince Priebus, to express her displeasure.",
+            "\u201d Another former DNC staffer simply told the Guardian that he   former   when he heard the news, which he described as the \u201cbest thing to happen to the party committee in years\u201d."
+        ],
+        "tf-idf score": [
+            0.41592169946142005,
+            0.2574323794543379,
+            0.508335944447804
+        ]
+    },
+    "0.16167327405017887-3-370": {
+        "average clique similarity": 0.16167327405017887,
+        "clique": [
+            "2-But wrong to try to ",
+            "1-Nevertheless  the tu",
+            "4-The controversy led "
+        ],
+        "median tf-idf score": 0.24904067027814858,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "But wrong to try to appease them at the platform committee and convention.",
+            "Nevertheless, the turmoil risks undermining public attempts to show that Democrats have come together as a party and draw a contrast with chaotic scenes at on the floor at the Republican convention in Cleveland last week.",
+            "The controversy led to her Sunday announcement that she would resign after the convention and news that she would not have a major speaking role at the convention."
+        ],
+        "tf-idf score": [
+            0.19514284054896322,
+            0.41621839956265116,
+            0.24904067027814858
+        ]
+    },
+    "0.176416207229713-3-423": {
+        "average clique similarity": 0.176416207229713,
+        "clique": [
+            "4-Wasserman Schultz is",
+            "3-Philadelphia  CNN  A",
+            "2-Who s going to bring"
+        ],
+        "median tf-idf score": 1.004197471901107,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Wasserman Schultz is under fire after leaked emails showed Democratic National Committee officials discussing ways to help Clinton defeat Sanders in the Democratic primaries.",
+            "Philadelphia (CNN) A slew of leaked emails was the last straw for Debbie Wasserman Schultz, who announced Sunday afternoon her resignation as chairwoman of the Democratic National Committee effective later this week.",
+            "Who\u2019s going to bring this kind of passion to the Israel debate within the Democratic Party after Wasserman Schultz is gone?"
+        ],
+        "tf-idf score": [
+            1.004197471901107,
+            1.1166444080258262,
+            0.7808424458316242
+        ]
+    },
+    "0.17745649827084897-3-372": {
+        "average clique similarity": 0.17745649827084897,
+        "clique": [
+            "0- She didn t love it ",
+            "3-She doesn t get it ",
+            "2-It s hard to think o"
+        ],
+        "median tf-idf score": 0.004945516743427124,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cShe didn\u2019t love it.",
+            "She doesn\u2019t get it.",
+            "It\u2019s hard to think of many television moments quite like it."
+        ],
+        "tf-idf score": [
+            0.004945516743427124,
+            0.0,
+            0.11267431847814482
+        ]
+    },
+    "0.17788974638149682-3-130": {
+        "average clique similarity": 0.17788974638149682,
+        "clique": [
+            "0-It s hardly unusual ",
+            "2-Wasserman Schultz mi",
+            "1-The DNC chair  whose"
+        ],
+        "median tf-idf score": 0.6648330821473382,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "It\u2019s hardly unusual for the chair of the DNC to be the target of criticism.",
+            "Wasserman Schultz might be   to the left of the GOP, but she is far better than the rest of her party on Israel.",
+            "The DNC chair, whose named is emblazoned at the top of thousands of convention credentials, was originally expected to play a central role in the   meeting of delegates and party leaders."
+        ],
+        "tf-idf score": [
+            0.21361439164016727,
+            0.6648330821473382,
+            0.6855179344329921
+        ]
+    },
+    "0.17927330472912062-3-198": {
+        "average clique similarity": 0.17927330472912062,
+        "clique": [
+            "1- What s disturbing t",
+            "2-The Democrats are no",
+            "3-With the Democratic "
+        ],
+        "median tf-idf score": 1.0955758329132852,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cWhat\u2019s disturbing to us is that experts are telling us Russian state actors broke into the DNC, stole these emails, and other experts are now saying that the Russians are releasing these emails for the purpose of actually of helping Donald Trump,\u201d Mook told CNN In June, Wasserman Schultz called the breach a \u201cserious incident\u201d and said Crowdstrike, a cybersecurity firm brought in by the DNC, had \u201cmoved as quickly as possible to kick out the intruders and secure our network\u201d.",
+            "The Democrats are now trying to spin the   scandal as a Russian plot to help Donald Trump.",
+            "With the Democratic National Convention about to get underway in Philadelphia, there was widespread belief that it would be best for Wasserman Schultz to exit swiftly in order to help the party move on as fast as possible from the unflattering distraction."
+        ],
+        "tf-idf score": [
+            1.1283448647455352,
+            0.21665597063640557,
+            1.0955758329132852
+        ]
+    },
+    "0.1794102010536274-3-165": {
+        "average clique similarity": 0.1794102010536274,
+        "clique": [
+            "0-        In an April ",
+            "4-  I stepped down the",
+            "1-The Sanders campaign"
+        ],
+        "median tf-idf score": 0.6783582390691484,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "* * *   In an April interview on \u201cThe Daily Show,\u201d Wasserman Schultz claimed to be comfortable with the role that had been, lately, evolving for her  \u2014   that of a Democratic Party punching bag.",
+            "\u201d\u201dI stepped down the other day because I wanted to make sure that having brought us to this momentous day and to Philadelphia and planned the convention that is going to be the best one that we\u2019ve ever had in our party\u2019s history that this needs to be all about making sure that everyone knows that Hillary Clinton would make the best president\u201d.",
+            "The Sanders campaign has long claimed that the party establishment had its \u201cfinger on the scales\u201d during the bitter and surprisingly long primary, but the embarrassing new revelations proved to be the final straw for a figure who had been a lightning rod for tension within the party."
+        ],
+        "tf-idf score": [
+            0.7345103534233395,
+            0.6783582390691484,
+            0.5201518448790703
+        ]
+    },
+    "0.1819948876216534-3-66": {
+        "average clique similarity": 0.1819948876216534,
+        "clique": [
+            "2-It looks more and mo",
+            "1-The candidates Clint",
+            "3-The constant controv"
+        ],
+        "median tf-idf score": 0.6531025550240072,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "It looks more and more like Wasserman Schultz (and Clinton) were right to fight against the socialist\u2019s attempts to take over the party.",
+            "The candidates Clinton just vetted could all be assets  \u2014   more so than Wasserman Schultz would have been in the closing months.",
+            "The constant controversies led many in the party to believe that Wasserman Schultz had become more of a distraction than an effective leader of the party."
+        ],
+        "tf-idf score": [
+            0.7325124959916207,
+            0.5443431224278056,
+            0.6531025550240072
+        ]
+    },
+    "0.18307947654344647-3-260": {
+        "average clique similarity": 0.18307947654344647,
+        "clique": [
+            "4-On Sunday  Clinton s",
+            "1- Going forward  the ",
+            "0- I thank President O"
+        ],
+        "median tf-idf score": 0.96082402872664,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "On Sunday, Clinton said in a statement that she was appointing Wasserman Schultz as \u201dhonorary chair of my campaign\u2019s   program\u201d.",
+            "\u201cGoing forward, the best way for me to accomplish those goals is to step down as party chair at the end of this convention,\u201d Wasserman Schultz said in a statement.",
+            "\u201cI thank President Obama,\u201d she said, \u201cfor the honor of serving as the chair of the Democratic National Committee."
+        ],
+        "tf-idf score": [
+            0.96082402872664,
+            0.9698685377892837,
+            0.4552552337299919
+        ]
+    },
+    "0.18445365588327975-3-286": {
+        "average clique similarity": 0.18445365588327975,
+        "clique": [
+            "0- We have similar exp",
+            "1- We have planned a g",
+            "4- We know that the vo"
+        ],
+        "median tf-idf score": 0.16382364400400104,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cWe have similar experiences in some ways,\u201d he continued.",
+            "\u201cWe have planned a great and unified convention this week and I hope and expect that the DNC team that has worked so hard to get us to this point will have the strong support of all Democrats in making sure this is the best convention we have ever had.",
+            "\u201dWe know that the voices in this room that are standing up and being disruptive  \u2014   we know that that\u2019s not the Florida we know,\u201d she told the crowd."
+        ],
+        "tf-idf score": [
+            0.03785624899799204,
+            0.5123344380343885,
+            0.16382364400400104
+        ]
+    },
+    "0.20590817706948106-4-9": {
+        "average clique similarity": 0.20590817706948106,
+        "clique": [
+            "3-With some fellow Dem",
+            "2-In the great Bernie ",
+            "4-In videos from the b",
+            "0-More recently  she f"
+        ],
+        "median tf-idf score": 0.7207505592660117,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "With some fellow Democrats already growing frustrated with Wasserman Schultz\u2019s performance, it came under even more scrutiny during the 2016 primary season as supporters of Bernie Sanders accused the chairwoman of being partial to Hillary Clinton.",
+            "In the great Bernie Sanders battle, I\u2019m with her.",
+            "In videos from the breakfast, protesters  \u2014   some holding Bernie Sanders signs  \u2014   shouted over Wasserman Schultz as she attempted to speak in favor of Hillary Clinton.",
+            "More recently, she found herself on the wrong side of the Bernie Sanders revolution, when a series of awkward moves  \u2014   limiting the number of debates, a public feud with a Sanders surrogate and an incident in which she compared Sandernistas to Trump supporters  \u2014   prompted loud complaints from the Vermont senator and his voters that she was tipping the scales in favor of Hillary Clinton."
+        ],
+        "tf-idf score": [
+            0.8891499864076463,
+            0.12731117729708435,
+            0.7865799497683266,
+            0.6549211687636969
+        ]
+    },
+    "0.21190118691561022-3-459": {
+        "average clique similarity": 0.21190118691561022,
+        "clique": [
+            "4-And later the Democr",
+            "0-A couple of dozen De",
+            "2-But  as I ve written"
+        ],
+        "median tf-idf score": 0.4076694057193106,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "And later the Democratic National Committee chairwoman confirmed she wouldn\u2019t even gavel in the start of the convention this afternoon in Philadelphia.",
+            "A couple of dozen Democrats had just unloaded a litany of mostly anonymous complaints about her chairmanship of the Democratic National Committee in a mean, dishy Politico story; cable news pundits were salivating over her imminent demise.",
+            "But, as I\u2019ve written before, I\u2019m sorry to see Wasserman Schultz forced from the chairmanship of the Democratic National Committee."
+        ],
+        "tf-idf score": [
+            0.4076694057193106,
+            0.38033670460517655,
+            0.6501118169864013
+        ]
+    },
+    "0.2132053426538886-3-293": {
+        "average clique similarity": 0.2132053426538886,
+        "clique": [
+            "1-  Trump s first comm",
+            "0- The reality is  I h",
+            "3- I know first hand h"
+        ],
+        "median tf-idf score": 0.5480833257274884,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d Trump\u2019s first comment on the scandal came in a tweet contrasting Democratic leadership with that of the RNC chair: \u201cToday proves what I have always known, that Reince Priebus is the tough one and the smart one, not Debbie Wasserman Shultz\u201d [sic].",
+            "\u201cThe reality is, I have a job as national party chair that is one that requires a thick skin,\u201d she said.",
+            "\u201dI know first hand how hard it is being the chair of a national party,\u201d said Republican National Committee Chairman Reince Priebus."
+        ],
+        "tf-idf score": [
+            0.6061738840789053,
+            0.4144110571161032,
+            0.5480833257274884
+        ]
+    },
+    "0.21519123608291682-3-107": {
+        "average clique similarity": 0.21519123608291682,
+        "clique": [
+            "2-In the fight that s ",
+            "1- Debbie Wasserman Sc",
+            "4-Clinton campaign man"
+        ],
+        "median tf-idf score": 1.0831859849884002,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "In the fight that\u2019s ripping the Democratic Party down the middle, the \u201cher\u201d I\u2019m with is Debbie Wasserman Schultz.",
+            "\u201cDebbie Wasserman Schultz has made the right decision for the future of the Democratic party,\u201d Sanders said in a statement, adding that the party leadership must \u201calways remain impartial in the presidential nominating process, something which did not occur in the 2016 race\u201d.",
+            "Clinton campaign manager Robby Mook said Monday Wasserman Schultz still intended to gavel the convention into order Monday afternoon, but she told the South Florida Sun Sentinel that she was passing along those duties as well to Baltimore Mayor Stephanie   the secretary of the DNC \u201dI have decided that in the interest of making sure that we can start the Democratic convention on a high note that I am not going to gavel in the convention,\u201d the Florida congresswoman told her local paper."
+        ],
+        "tf-idf score": [
+            0.7250822932840636,
+            1.0831859849884002,
+            1.5700782022469209
+        ]
+    },
+    "0.21875917008464033-3-459": {
+        "average clique similarity": 0.21875917008464033,
+        "clique": [
+            "0-                The ",
+            "1-The chair of the Dem",
+            "2-No wonder aides to W"
+        ],
+        "median tf-idf score": 0.8594094458943766,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201d   * * *       The Washington Post\u2019s Abby D Phillip explains the circumstances around Rep. Debbie Wasserman Schultz\u2019s decision to resign as chair of the Democratic National Committee.",
+            "The chair of the Democratic National Committee, Debbie Wasserman Schultz, has announced her resignation on the eve of the party\u2019s convention, dealing a blow to hopes of demonstrating unity in the face of the threat from Donald Trump.",
+            "No wonder aides to Wasserman Schultz at the Democratic National Committee were trying to rig the primaries against Sanders."
+        ],
+        "tf-idf score": [
+            0.8594094458943766,
+            1.1616374775233236,
+            0.7740832223210317
+        ]
+    },
+    "0.22033037631377403-3-44": {
+        "average clique similarity": 0.22033037631377403,
+        "clique": [
+            "3- But when you rig a ",
+            "1-  He added   She is ",
+            "0-Nothing others do is"
+        ],
+        "median tf-idf score": 0.03539419620586456,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dBut when you rig a system and you spread emails around with each other and senior staff in that manner, I think this kind of outcome is inevitable.",
+            "\u201d He added: \u201cShe is not someone you would want in a foxhole with you.",
+            "Nothing others do is because of you."
+        ],
+        "tf-idf score": [
+            0.18868162049909976,
+            0.03539419620586456,
+            0.0
+        ]
+    },
+    "0.22399568062518896-3-396": {
+        "average clique similarity": 0.22399568062518896,
+        "clique": [
+            "0-    That s a silly s",
+            "4-DNC Vice Chair Donna",
+            "1-Schultz said she wou"
+        ],
+        "median tf-idf score": 0.4509291028483206,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d  \u201cThat\u2019s a silly story,\u201d she wrote to her communications director in late May, after Sanders said he would replace her as chair of the DNC after the election.",
+            "DNC Vice Chair Donna Brazile will take over as interim chair of the party after Wasserman Schultz steps down.",
+            "Schultz said she would step down after the convention."
+        ],
+        "tf-idf score": [
+            0.4509291028483206,
+            0.7765188186563483,
+            0.409561887491666
+        ]
+    },
+    "0.24542493594174516-3-338": {
+        "average clique similarity": 0.24542493594174516,
+        "clique": [
+            "1- As party chair  thi",
+            "4-Wasserman Schultz wi",
+            "3- Michelle and I are "
+        ],
+        "median tf-idf score": 0.5512191490149775,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cAs party chair, this week I will open and close the convention and I will address our delegates about the stakes involved in this election not only for Democrats, but for all Americans,\u201d she said.",
+            "Wasserman Schultz will be stepping down as DNC chair after the convention, but on Monday morning, she said she will maintain an active role as a Clinton campaign surrogate.",
+            "\u201dMichelle and I are grateful for her efforts, we know she will continue to serve our country as a member of Congress from Florida and she will always be our dear friend\u201d."
+        ],
+        "tf-idf score": [
+            0.5512191490149775,
+            1.0557880071419041,
+            0.20202736912457586
+        ]
+    },
+    "0.38179312984663527-3-224": {
+        "average clique similarity": 0.38179312984663527,
+        "clique": [
+            "0-Publicly she remaine",
+            "1- For the last eight ",
+            "3- For the last eight "
+        ],
+        "median tf-idf score": 0.7337873472845293,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Publicly she remained   about taking the hits  \u2014   and despite a clamoring for her head, held steady atop the DNC (Most chairs cycle out after two or four years; not since the  \u201960s, when Connecticut party boss John Moran Bailey hung on to the job for a   seven years, has anyone exceeded Wasserman Schultz\u2019s run.)",
+            "\u201cFor the last eight years she has had my back.",
+            "\u201dFor the last eight years, Chairwoman Debbie Wasserman Schultz has had my back,\u201d Obama said."
+        ],
+        "tf-idf score": [
+            1.044008666894405,
+            0.10781504152948077,
+            0.7337873472845293
+        ]
+    }
+}

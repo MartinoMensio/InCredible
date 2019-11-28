@@ -1,0 +1,1550 @@
+{
+    "0.13337995826405216-3-254": {
+        "average clique similarity": 0.13337995826405216,
+        "clique": [
+            "1-I join that crowd of",
+            "4-If we lose that edge",
+            "3- As we bow our heads"
+        ],
+        "median tf-idf score": 0.2922194157892885,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "I join that crowd of people and the entire nation and the world in paying homage to his service,\u201d said Aldrin from a hospital bed where he has been since he was evacuated recently from the South Pole.",
+            "If we lose that edge in research and education, we won\u2019t be a leading nation in the world.",
+            "\u201cAs we bow our heads and share our grief with his beloved wife, Annie, we must also turn to the skies, to salute his remarkable journeys and his long years of service to our state and nation."
+        ],
+        "tf-idf score": [
+            0.5974053356233741,
+            0.10847232052703956,
+            0.2922194157892885
+        ]
+    },
+    "0.13471302851364705-3-188": {
+        "average clique similarity": 0.13471302851364705,
+        "clique": [
+            "3-  In 1959  Glenn wro",
+            "1-Defense of its ideal",
+            "0- There was no doubt "
+        ],
+        "median tf-idf score": 0.6836841894936839,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d In 1959, Glenn wrote in Life magazine: \u201cSpace travel is at the frontier of my profession.",
+            "Defense of its ideals was an obligation,\u201d Glenn wrote in his memoir.",
+            "\u201cThere was no doubt whatsoever that Glenn meant every word of it,\u201d Wolfe wrote in his 1979 book, \u201cThe Right Stuff."
+        ],
+        "tf-idf score": [
+            0.5841911565756536,
+            0.6836841894936839,
+            0.7544579114252249
+        ]
+    },
+    "0.1403159554607938-3-280": {
+        "average clique similarity": 0.1403159554607938,
+        "clique": [
+            "3-Years later  he expl",
+            "1-Kennedy reportedly o",
+            "2-His failure was all "
+        ],
+        "median tf-idf score": 0.4961272813443284,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Years later, he explained he used that   phrase because he didn\u2019t feel like he had lifted off and it was the only way he knew he had launched.",
+            "Kennedy reportedly ordered NASA not to fly Glenn again because he was too valuable as a national figure.",
+            "His failure was all the more stinging because he had been touted as an early  ."
+        ],
+        "tf-idf score": [
+            0.4961272813443284,
+            0.7961645900506342,
+            0.3374052634918028
+        ]
+    },
+    "0.1409634895955663-3-671": {
+        "average clique similarity": 0.1409634895955663,
+        "clique": [
+            "1-He was also a close ",
+            "2-He  died peacefully ",
+            "4-The entire NASA Fami"
+        ],
+        "median tf-idf score": 0.20367761264161915,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "He was also a close friend of the Kennedy family.",
+            "He \u201ddied peacefully,\u201d according to a statement from his family and Ohio State University.",
+            "The entire NASA Family will be forever grateful for his outstanding service, commitment and friendship\u201d."
+        ],
+        "tf-idf score": [
+            0.3555462841714382,
+            0.20367761264161915,
+            0.14279869266711148
+        ]
+    },
+    "0.14108107382174948-3-36": {
+        "average clique similarity": 0.14108107382174948,
+        "clique": [
+            "1-For most men and wom",
+            "2- VIEW IS TREMENDOUS ",
+            "4-Any trip to space is"
+        ],
+        "median tf-idf score": 0.8055632830399202,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "For most men and women, fame is fleeting and greatness is  .",
+            "\u2019VIEW IS TREMENDOUS\u2019 \u201d  (gravity) and I feel fine,\u201d was Glenn\u2019s succinct assessment of weightlessness several minutes into his mission.",
+            "Any trip to space is risky, and Glenn\u2019s mission was no exception."
+        ],
+        "tf-idf score": [
+            0.04586896073588879,
+            0.8055632830399202,
+            0.8692209522277573
+        ]
+    },
+    "0.1474845019787738-3-624": {
+        "average clique similarity": 0.1474845019787738,
+        "clique": [
+            "4-   back years ago th",
+            "2-But a ponderous addr",
+            "1-An estimated 4 milli"
+        ],
+        "median tf-idf score": 0.14564249256408465,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            ".. back years ago than most people in the world.",
+            "But a ponderous address at the Democratic National Convention   people walked out   caused Carter to remark that Glenn was \u201dthe most boring man I ever met\u201d.",
+            "An estimated 4 million people turned out."
+        ],
+        "tf-idf score": [
+            0.14564249256408465,
+            0.8134530357374904,
+            0.0507298325757098
+        ]
+    },
+    "0.15331398414550168-3-542": {
+        "average clique similarity": 0.15331398414550168,
+        "clique": [
+            "4-President Obama said",
+            "0-With their courage a",
+            "2- Glenn s extraordina"
+        ],
+        "median tf-idf score": 0.5742897261166339,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "President Obama said that Glenn\u2019s trailblazing showed \u201dwith courage and a spirit of discovery there\u2019s no limit to the heights we can reach together\u201d.",
+            "With their courage and   the Mercury astronauts embodied the spirit of the \u201cNew Frontier\u201d espoused by Kennedy, and Mr Glenn became friends with the youthful president and his brother Robert F Kennedy, the attorney general.",
+            "\u201dGlenn\u2019s extraordinary courage, intellect, patriotism and humanity were the hallmarks of a life of greatness."
+        ],
+        "tf-idf score": [
+            0.5742897261166339,
+            0.7685409271373908,
+            0.45469854125608555
+        ]
+    },
+    "0.1539207984671922-3-306": {
+        "average clique similarity": 0.1539207984671922,
+        "clique": [
+            "0- You had to have bee",
+            "1- Who knows what migh",
+            "4-   this could have b"
+        ],
+        "median tf-idf score": 0.47464321990377545,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cYou had to have been alive at that time to comprehend the reaction of the nation, practically all of it,\u201d author Tom Wolfe, who coined the phrase \u201cthe right stuff\u201d to describe Mr Glenn and the other Mercury astronauts, wrote in a 2009 essay.",
+            "\u201dWho knows what might have happened if Bobby had been president,\u201d Glenn reflected shortly after his 90th birthday, in a 2011 interview with the Dayton Daily News.",
+            ".. this could have been a bad day all the way around if this had been the case\u201d."
+        ],
+        "tf-idf score": [
+            0.7643288847482345,
+            0.47464321990377545,
+            0.0683333273342219
+        ]
+    },
+    "0.15548566340448824-3-575": {
+        "average clique similarity": 0.15548566340448824,
+        "clique": [
+            "2-He saw it as a blow ",
+            "4-As a    he became th",
+            "1-A return to space  A"
+        ],
+        "median tf-idf score": 0.2030909601293457,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "He saw it as a blow to the stereotyping of the elderly.",
+            "As a    he became the oldest person to fly in space.",
+            "A return to space, As he grew older, Glenn never gave up his dream of flying in space again or, as he called it in the Mercury days, being \u201da willing guinea pig\u201d."
+        ],
+        "tf-idf score": [
+            0.023084577071953598,
+            0.2030909601293457,
+            0.6542825741166766
+        ]
+    },
+    "0.15659714793305446-3-35": {
+        "average clique similarity": 0.15659714793305446,
+        "clique": [
+            "3-After two suborbital",
+            "4- And even the most c",
+            "1- The opportunity to "
+        ],
+        "median tf-idf score": 0.9142978664532887,
+        "publications": [
+            "NPR",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "After two suborbital flights by Alan Shepard Jr and Gus Grissom, it was up to Glenn to be the first American to orbit the Earth.",
+            "\u201dAnd even the most cynical of history readers is going to go, \u2019This guy actually is what everybody says he was.\u2019 \u201d French says Glenn was \u201dexactly at the right place at the right time for when America needed somebody to not only become the first American to orbit the Earth but to actually project what it meant for America to put a person into space\u201d.",
+            "\u201dThe opportunity to join in its quests and explorations was a challenge not only to fulfill a sacred duty but to join a joyous adventure\u201d."
+        ],
+        "tf-idf score": [
+            0.9142978664532887,
+            1.1442228586802887,
+            0.3669993638671284
+        ]
+    },
+    "0.16061145660841455-4-154": {
+        "average clique similarity": 0.16061145660841455,
+        "clique": [
+            "1-Glenn    portrayed b",
+            "0-Without a heat shiel",
+            "2-But it is not in out",
+            "4-It s that simple  "
+        ],
+        "median tf-idf score": 0.4394693589401091,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Glenn    portrayed by Ed Harris    didn\u2019t care much for the film, saying, \u201dI thought it was dramatic enough without Hollywood doing its number on it\u201d.",
+            "Without a heat shield, it was possible that Mr Glenn could burn up inside the capsule as it raced back from space.",
+            "But it is not in outer space, it\u2019s on the slopes of Europe\u2019s most active volcano.",
+            "It\u2019s that simple\u201d."
+        ],
+        "tf-idf score": [
+            0.6997696651237413,
+            0.9866668556071397,
+            0.17916905275647688,
+            0.009639189981697358
+        ]
+    },
+    "0.16320212204983528-3-267": {
+        "average clique similarity": 0.16320212204983528,
+        "clique": [
+            "0-to a veterans hospit",
+            "2-They had two childre",
+            "1-By the time they got"
+        ],
+        "median tf-idf score": 0.0682617769759877,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "to a veterans hospital, and look those men with their mangled bodies in the eye and tell them they didn\u2019t hold a job.",
+            "They had two children, David and Lyn.",
+            "By the time they got to high school, they were sweethearts."
+        ],
+        "tf-idf score": [
+            0.09647941334660999,
+            0.03134655132244214,
+            0.0682617769759877
+        ]
+    },
+    "0.1670564226665978-3-118": {
+        "average clique similarity": 0.1670564226665978,
+        "clique": [
+            "3-In 1962  with the US",
+            "0-   In an era when fe",
+            "1-It was a psychologic"
+        ],
+        "median tf-idf score": 0.5779529178953993,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "In 1962, with the US scrambling to catch up to the Soviet Union in the race for space, he became an American hero when he successfully orbited our planet  \u2014   a feat accomplished a year earlier by Soviet cosmonaut Yuri Gagarin.",
+            "\u201d  In an era when fear of encroaching Soviet influence reached from the White House to kindergarten classrooms, Mr Glenn, in his silver astronaut suit, lifted the hopes of a nation on his shining shoulders.",
+            "It was a psychological boost to a nation worried about the Soviet Union\u2019s early lead in the space race."
+        ],
+        "tf-idf score": [
+            0.4282160395973902,
+            0.6577825332297282,
+            0.5779529178953993
+        ]
+    },
+    "0.16713253385399618-3-487": {
+        "average clique similarity": 0.16713253385399618,
+        "clique": [
+            "0-Comfortable in front",
+            "2-As the third of seve",
+            "1-Social media was flo"
+        ],
+        "median tf-idf score": 1.1109662431434812,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Comfortable in front of cameras  \u2014   which followed the astronauts everywhere after they signed a $500, 000 deal with Life magazine for a series of exclusive stories  \u2014   Mr Glenn was in many ways the public face of NASA Privately, however, there was friction among the \u201cMagnificent Seven,\u201d as the Mercury astronauts were dubbed in the news media.",
+            "As the third of seven astronauts in NASA\u2019s   Mercury program to venture into space, Glenn became more of a media fixture than the others and was known for his composure and willingness to promote the program.",
+            "Social media was flooded with remembrances and reactions immediately after news of Glenn\u2019s death."
+        ],
+        "tf-idf score": [
+            1.147482308466535,
+            1.1109662431434812,
+            0.6987357367543359
+        ]
+    },
+    "0.17049303305119737-3-776": {
+        "average clique similarity": 0.17049303305119737,
+        "clique": [
+            "4-   you made it as sa",
+            "1- We used to joke abo",
+            "2- Just because you re"
+        ],
+        "median tf-idf score": 0.2032965463694363,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            ".. you made it as safe as you possibly could, and what little bit of risk was left, we accepted that\u201d.",
+            "\u201dWe used to joke about it in the past when people would say, \u2019What do you think on the launch pad?\u2019 \u201d he said in a 1998 CNN interview.",
+            "\u201dJust because you\u2019re up in years some doesn\u2019t mean you don\u2019t have hopes and dreams and aspirations just as much as younger people do\u201d."
+        ],
+        "tf-idf score": [
+            0.3438837086091631,
+            0.2032965463694363,
+            0.12885225023258187
+        ]
+    },
+    "0.17083818788412172-3-140": {
+        "average clique similarity": 0.17083818788412172,
+        "clique": [
+            "2- And when his Friend",
+            "3-Glenn radioed to Ear",
+            "0-When he splashed dow"
+        ],
+        "median tf-idf score": 0.5998757432874091,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dAnd when his Friendship 7 spacecraft splashed down a few hours later, the first American to orbit the Earth reminded us that with courage and a spirit of discovery there\u2019s no limit to the heights we can reach together\u201d.",
+            "Glenn radioed to Earth, \u201cRoger, the clock is operating, we\u2019re under way,\u201d as he started his 4 hours, 55 minutes and 23 seconds in space.",
+            "When he splashed down in the Atlantic Ocean after 4 hours 56 minutes aloft, Mr Glenn emerged as an almost mythic figure who had scaled heights no American had reached before."
+        ],
+        "tf-idf score": [
+            0.350224037731833,
+            0.6599352257407811,
+            0.5998757432874091
+        ]
+    },
+    "0.17150716032740246-3-1": {
+        "average clique similarity": 0.17150716032740246,
+        "clique": [
+            "4-He remained in the m",
+            "0- I was through two w",
+            "1-I was riding slowly "
+        ],
+        "median tf-idf score": 0.33425075753517597,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "He remained in the military through the 1950s, testing supersonic aircraft and other military models.",
+            "\u201cI was through two wars.",
+            "I was riding slowly through them, and the sensation was like walking backwards through a pasture where someone had waved a wand and made all the fireflies stop right where they were and glow steadily\u201d."
+        ],
+        "tf-idf score": [
+            0.07613277373018837,
+            0.33425075753517597,
+            0.3946397331315449
+        ]
+    },
+    "0.17611645789166808-3-776": {
+        "average clique similarity": 0.17611645789166808,
+        "clique": [
+            "2-Glenn s historic fli",
+            "1-Because of an indica",
+            "4-Later he would learn"
+        ],
+        "median tf-idf score": 0.7447454788129594,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Glenn\u2019s historic flight made him a favorite of President John F Kennedy and his brother Robert, who encouraged him to launch a political career that finally took off after a period as a businessman made him a millionaire.",
+            "Because of an indicator light showing that the Mercury capsule\u2019s heat shield was partly detached, mission controllers decided to bring Glenn home early and told him not to jettison his aft retro rockets, which allowed him to maneuver the craft in space.",
+            "Later he would learn that at the time, NASA and Kennedy had deemed him too valuable to fly in space again."
+        ],
+        "tf-idf score": [
+            0.7447454788129594,
+            1.0929242159607375,
+            0.3292820766855775
+        ]
+    },
+    "0.1766816259410492-3-332": {
+        "average clique similarity": 0.1766816259410492,
+        "clique": [
+            "0-He sponsored bills t",
+            "2-BACK TO SPACE He too",
+            "1-He played a key role"
+        ],
+        "median tf-idf score": 0.11918113469398837,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "He sponsored bills to improve the safety of nursing homes, reduce government paperwork and limit nuclear proliferation.",
+            "BACK TO SPACE He took a leading role in seeking to prevent the spread of nuclear weapons, especially to Pakistan.",
+            "He played a key role in weapons control, authoring the Nuclear Nonproliferation Act of 1978, which prohibited the sale of nuclear equipment to nations that currently have none."
+        ],
+        "tf-idf score": [
+            0.05746635659762061,
+            0.24336913298972182,
+            0.11918113469398837
+        ]
+    },
+    "0.1799326476780793-3-113": {
+        "average clique similarity": 0.1799326476780793,
+        "clique": [
+            "3- I still can sort of",
+            "0-A defective warning ",
+            "4-Oh  that view is tre"
+        ],
+        "median tf-idf score": 0.5033916365894224,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cI still can sort of   some of those same sensations I had back in those days during launch and all.",
+            "A defective warning light caused much of the panic, but during those four tense minutes, it was feared that Mr Glenn had been lost  \u2014   along with the promise of the space program.",
+            "Oh, that view is tremendous!\u201d So much about space in those days was unknown."
+        ],
+        "tf-idf score": [
+            0.06662347585415203,
+            1.012646339191652,
+            0.5033916365894224
+        ]
+    },
+    "0.1833398213984345-3-776": {
+        "average clique similarity": 0.1833398213984345,
+        "clique": [
+            "0-Mr Glenn  who in his",
+            "4-He would later have ",
+            "1-He later served for "
+        ],
+        "median tf-idf score": 0.15190733166115716,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Mr Glenn, who in his   career served four terms as a U S senator from Ohio, was 95.",
+            "He would later have a long political career as a U S senator, but that didn\u2019t stop his pioneering ways.",
+            "He later served for nearly a quarter century as a US senator."
+        ],
+        "tf-idf score": [
+            0.8961929452907351,
+            0.15190733166115716,
+            0.08012607786658565
+        ]
+    },
+    "0.18341887313673103-3-776": {
+        "average clique similarity": 0.18341887313673103,
+        "clique": [
+            "0-When he emerged smil",
+            "3-  Glenn s ride in th",
+            "4-A few minutes after "
+        ],
+        "median tf-idf score": 0.518243663848428,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "When he emerged smiling from his Friendship 7 capsule after returning from space, cheers echoed throughout the land.",
+            "\u201d Glenn\u2019s ride in the cramped Friendship 7 capsule had its scary moments, however.",
+            "A few minutes after liftoff, Glenn\u2019s Friendship 7 capsule reached orbit."
+        ],
+        "tf-idf score": [
+            0.2831155256145947,
+            0.518243663848428,
+            0.5466603986614263
+        ]
+    },
+    "0.1842131148152142-3-123": {
+        "average clique similarity": 0.1842131148152142,
+        "clique": [
+            "2-Glenn s experiences ",
+            "4-The president said  ",
+            "1- The Right Stuff  He"
+        ],
+        "median tf-idf score": 0.5270184900258764,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "Glenn\u2019s experiences as a pioneer astronaut were chronicled in the book and movie \u201dThe Right Stuff,\u201d along with the other Mercury pilots.",
+            "The president said, \u201dJohn always had the right stuff, inspiring generations of scientists, engineers and astronauts.",
+            "\u2019The Right Stuff\u2019 He eagerly volunteered when NASA requested pilots for its suborbital and orbital programs, and in 1959 he and six others    Alan Shepard, Gus Grissom, Scott Carpenter, Wally Schirra, Gordon Cooper and Deke Slayton    were selected as the first astronauts, known as the \u201dMercury 7\u201d."
+        ],
+        "tf-idf score": [
+            0.617293027622463,
+            0.3520254234782921,
+            0.5270184900258764
+        ]
+    },
+    "0.18471872643470358-3-689": {
+        "average clique similarity": 0.18471872643470358,
+        "clique": [
+            "1-After a failed bid f",
+            "0-A senator in space O",
+            "3- Though he soared de"
+        ],
+        "median tf-idf score": 0.5583219310856496,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "After a failed bid for a US Senate seat in 1970, Glenn won in 1974, beginning a   career representing Ohio on Capitol Hill.",
+            "A senator in space On Capitol Hill, Mr Glenn was a strong supporter of the military and an authority on intelligence issues.",
+            "\u201cThough he soared deep into space and to the heights of Capitol Hill, his heart never strayed from his steadfast Ohio roots."
+        ],
+        "tf-idf score": [
+            0.5583219310856496,
+            0.9823941647042181,
+            0.29077441401384546
+        ]
+    },
+    "0.18764674911032633-3-743": {
+        "average clique similarity": 0.18764674911032633,
+        "clique": [
+            "2-Donald Trump said on",
+            "0- I served 23 years i",
+            "3-Godspeed  John Glenn"
+        ],
+        "median tf-idf score": 0.7071855163096675,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "Donald Trump said on Twitter the United States had lost \u201da great pioneer of air and space in John Glenn.",
+            "\u201cI served 23 years in the United States Marine Corps,\u201d Mr Glenn said.",
+            "Godspeed, John Glenn!\u201d Kasich said."
+        ],
+        "tf-idf score": [
+            0.8000717071976359,
+            0.7071855163096675,
+            0.547363452815772
+        ]
+    },
+    "0.1894222159689146-3-729": {
+        "average clique similarity": 0.1894222159689146,
+        "clique": [
+            "1-He joined the Marine",
+            "3-And that was before ",
+            "0-When he joined the a"
+        ],
+        "median tf-idf score": 0.28458397926702345,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "He joined the Marine Corps in early 1943 and wed his childhood sweetheart on April 6 of that year.",
+            "And that was before April 6, 1959, when his life changed by being selected as one of the Mercury 7 astronauts and he instantly started attracting more than his share of the spotlight.",
+            "When he joined the astronaut corps in 1959, no one knew whether a human being could survive the ordeals of space travel."
+        ],
+        "tf-idf score": [
+            0.19092909856979776,
+            0.5755255327615508,
+            0.28458397926702345
+        ]
+    },
+    "0.19110924351139089-3-413": {
+        "average clique similarity": 0.19110924351139089,
+        "clique": [
+            "1-But Glenn would not ",
+            "3-It is going to be ac",
+            "4- I think John Glenn "
+        ],
+        "median tf-idf score": 0.35883778238754305,
+        "publications": [
+            "CNN",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "But Glenn would not be one of them.",
+            "It is going to be accomplished, and I want to be in on it.",
+            "\u201dI think John Glenn is one of those people that\u2019s going to stay in the history books,\u201d he says."
+        ],
+        "tf-idf score": [
+            0.35883778238754305,
+            0.03330134613086644,
+            0.5778111551563886
+        ]
+    },
+    "0.19788467966328657-3-465": {
+        "average clique similarity": 0.19788467966328657,
+        "clique": [
+            "1- I know he had just ",
+            "3-Glenn and Republican",
+            "0-The Senate Ethics Co"
+        ],
+        "median tf-idf score": 0.595418495069917,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dI know he had just about more compassion for the underdog, for the poor, the downtrodden than, I think, just about anybody that I ever knew\u201d.",
+            "Glenn and Republican Sen. John McCain were the only senators exonerated by a Senate commission, which ruled that the spaceman had exercised \u201cpoor judgment.",
+            "The Senate Ethics Committee ruled that Mr Glenn \u201cexercised poor judgment,\u201d but he was cleared of any wrongdoing."
+        ],
+        "tf-idf score": [
+            0.06858067740547025,
+            0.595418495069917,
+            0.8540500067312583
+        ]
+    },
+    "0.20286376134225104-3-241": {
+        "average clique similarity": 0.20286376134225104,
+        "clique": [
+            "3-At the time of that ",
+            "1-When he was 8 years ",
+            "2-In his latter years "
+        ],
+        "median tf-idf score": 0.839277085440903,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "At the time of that Feb. 20, 1962, flight, Glenn was 40 years old.",
+            "When he was 8 years old, he and his father went for a ride in an   biplane, two years after Charles Lindbergh made his transatlantic flight.",
+            "In his latter years, he was an adjunct professor at the John Glenn College of Public Affairs."
+        ],
+        "tf-idf score": [
+            0.839277085440903,
+            0.4910309887979647,
+            0.862015511499485
+        ]
+    },
+    "0.20574242621997843-3-68": {
+        "average clique similarity": 0.20574242621997843,
+        "clique": [
+            "3-The   telegenic Mari",
+            "0-He also found time i",
+            "4-He warned that the S"
+        ],
+        "median tf-idf score": 0.07856836438686045,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The   telegenic Marine even won $25, 000 on the game show \u201cName That Tune\u201d with a    partner.",
+            "He also found time in 1957 to appear on the game show \u201cName That Tune\u201d with child actor Eddie Hodges.",
+            "He warned that the Senate\u2019s reputation for deliberation would suffer if it became, in effect, a TV show."
+        ],
+        "tf-idf score": [
+            0.07856836438686045,
+            0.07437088420753624,
+            0.08480367980506887
+        ]
+    },
+    "0.20885864154547815-3-83": {
+        "average clique similarity": 0.20885864154547815,
+        "clique": [
+            "4-And this  ",
+            "2- He left this earth ",
+            "3- To look out at this"
+        ],
+        "median tf-idf score": 0.12781075748007525,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "And this .",
+            "\u201dHe left this earth for the third time as a happy and fulfilled person,\u201d the statement said.",
+            "\u201cTo look out at this kind of creation out here and not believe in God is to me impossible,\u201d he said of the experience."
+        ],
+        "tf-idf score": [
+            0.0,
+            0.20032844866811267,
+            0.12781075748007525
+        ]
+    },
+    "0.21382179223405728-3-170": {
+        "average clique similarity": 0.21382179223405728,
+        "clique": [
+            "0-In a debate with Met",
+            "2-He retired from the ",
+            "4-He retired from poli"
+        ],
+        "median tf-idf score": 0.07336277219462475,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In a debate with Metzenbaum, the retired Marine flashed the steel beneath his benign Midwestern smile.",
+            "He retired from the Senate in 1999.   years after his maiden space voyage, Glenn became America\u2019s first geriatric astronaut on Oct. 29, 1998.",
+            "He retired from politics in 1999."
+        ],
+        "tf-idf score": [
+            0.07336277219462475,
+            0.7407512348922753,
+            0.022730682562355112
+        ]
+    },
+    "0.2153170083243634-3-90": {
+        "average clique similarity": 0.2153170083243634,
+        "clique": [
+            "1-NASA Administrator C",
+            "4-NASA Administrator C",
+            "2-His missions have he"
+        ],
+        "median tf-idf score": 0.5121439946182337,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "NASA Administrator Charles Bolden called Glenn a mentor, role model and dear friend.",
+            "NASA Administrator Charles Bolden said, \u201dSenator Glenn\u2019s legacy is one of risk and accomplishment, of history created and duty to country carried out under great pressure with the whole world watching.",
+            "His missions have helped make possible everything our space program has since achieved and the human missions to an asteroid and Mars that we are striving toward now,\u201d NASA Administrator Charles Bolden said."
+        ],
+        "tf-idf score": [
+            0.5036000527360124,
+            0.692843910686415,
+            0.5121439946182337
+        ]
+    },
+    "0.2184896554899287-3-303": {
+        "average clique similarity": 0.2184896554899287,
+        "clique": [
+            "2-Glenn s entry into h",
+            "3- Godspeed  John Glen",
+            "0-After liftoff at 9 4"
+        ],
+        "median tf-idf score": 0.7358362069856221,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Glenn\u2019s entry into history came in early 1962 when fellow astronaut Scott Carpenter bade him \u201dGodspeed, John Glenn\u201d just before the Ohio native was rocketed into space for a   trip that would last just under five hours.",
+            "\u201cGodspeed, John Glenn,\u201d fellow astronaut Scott Carpenter radioed just before Glenn thundered off a Cape Canaveral launch pad, now a National Historic Landmark, to a place America had never been.",
+            "After liftoff at 9:47 a. m. backup pilot Carpenter said on national television, \u201cGodspeed, John Glenn."
+        ],
+        "tf-idf score": [
+            1.1846426134137342,
+            0.7358362069856221,
+            0.6314245110578908
+        ]
+    },
+    "0.21920063421521588-4-44": {
+        "average clique similarity": 0.21920063421521588,
+        "clique": [
+            "4-He befriended Presid",
+            "1-Shortly after landin",
+            "2-After splashdown and",
+            "0-After an estimated 1"
+        ],
+        "median tf-idf score": 0.7404798909729334,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He befriended President John F Kennedy and received a   parade in New York City.",
+            "Shortly after landing, Glenn was honored with an enormous ticker tape parade in New York City on March 1, 1962.",
+            "After splashdown and recovery in the Atlantic, Glenn was treated as a hero, addressing a joint session of Congress and feted in a New York   parade.",
+            "After an estimated 1 million spectators crowded the streets of Washington, Mr Glenn insisted that the other six Mercury astronauts join him for a parade before 4 million people in New York."
+        ],
+        "tf-idf score": [
+            0.2451468748524159,
+            0.7606773796216308,
+            0.7998321813749788,
+            0.720282402324236
+        ]
+    },
+    "0.22306970254151315-3-186": {
+        "average clique similarity": 0.22306970254151315,
+        "clique": [
+            "2- When John Glenn bla",
+            "1-On February 20  1962",
+            "4-An early explorer  O"
+        ],
+        "median tf-idf score": 0.6883903845548804,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dWhen John Glenn blasted off from Cape Canaveral atop an Atlas rocket in 1962, he lifted the hopes of a nation,\u201d Obama said in a statement.",
+            "On February 20, 1962, Glenn rode an Atlas rocket into history as the first American to orbit the Earth.",
+            "An early explorer, On Feb. 20, 1962, when John Glenn rocketed into space, it was momentous and  ."
+        ],
+        "tf-idf score": [
+            0.6883903845548804,
+            0.5193653364370755,
+            0.9477936851860467
+        ]
+    },
+    "0.2331357335661659-3-435": {
+        "average clique similarity": 0.2331357335661659,
+        "clique": [
+            "0-He then became an ex",
+            "1-Glenn then joined Ro",
+            "3-Glenn also profited "
+        ],
+        "median tf-idf score": 0.4633061954243189,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He then became an executive with Royal Crown Cola, invested in real estate and worked with a management company that operated Holiday Inns, particularly around Orlando.",
+            "Glenn then joined Royal Crown Cola as a vice president and later as president.",
+            "Glenn also profited handsomely in business from investing in hotels near Disney World and serving as president of Royal Crown International."
+        ],
+        "tf-idf score": [
+            0.056624634659107866,
+            0.4633061954243189,
+            0.5284952276851178
+        ]
+    },
+    "0.2459700573165896-4-316": {
+        "average clique similarity": 0.2459700573165896,
+        "clique": [
+            "4-In all  he earned th",
+            "1-His military service",
+            "2-HERO STATUS Even bef",
+            "0-In 1965  he retired "
+        ],
+        "median tf-idf score": 0.13810325564490084,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In all, he earned the Distinguished Flying Cross five times.",
+            "His military service earned him numerous awards, including six Distinguished Flying Crosses.",
+            "HERO STATUS Even before his Mercury flight, Glenn qualified for hero status, earning six Distinguished Flying Crosses and flying more than 150 missions in World War Two and the Korean War.",
+            "In 1965, he retired from the Marine Corps, having received six Distinguished Flying Crosses and 19 Air Medals."
+        ],
+        "tf-idf score": [
+            0.0956791585607574,
+            0.11885133755666387,
+            0.7397724281870623,
+            0.15735517373313782
+        ]
+    },
+    "0.2462485882581065-3-146": {
+        "average clique similarity": 0.2462485882581065,
+        "clique": [
+            "1-The Soviet Union by ",
+            "0-But two Soviet cosmo",
+            "3-The Soviet Union had"
+        ],
+        "median tf-idf score": 0.2079989981117518,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "The Soviet Union by that time had sent two cosmonauts, Yuri Gagarin and Gherman Titov, on orbital flights.",
+            "But two Soviet cosmonauts had already circled the Earth by August 1961.",
+            "The Soviet Union had leaped ahead in space exploration by putting the Sputnik 1 satellite in orbit in 1957, and then launched the first man in space, Gagarin, in a   orbital flight on April 12, 1961."
+        ],
+        "tf-idf score": [
+            0.2079989981117518,
+            0.0733662780497285,
+            0.4160684625853539
+        ]
+    },
+    "0.2520077343843437-3-355": {
+        "average clique similarity": 0.2520077343843437,
+        "clique": [
+            "1-It would later be le",
+            "3-But the heat shield ",
+            "0-Midway through the f"
+        ],
+        "median tf-idf score": 0.22124579405942843,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "It would later be learned that the heat shield wasn\u2019t damaged, but the fiery   was made more spectacular by the scorching retropack in Earth\u2019s upper atmosphere.",
+            "But the heat shield held.",
+            "Midway through the flight, a warning light indicated that the heat shield, which would protect the capsule during its reentry into Earth\u2019s atmosphere, may have come loose."
+        ],
+        "tf-idf score": [
+            0.4446537985170161,
+            0.06363640159979482,
+            0.22124579405942843
+        ]
+    },
+    "0.2523698703491121-3-396": {
+        "average clique similarity": 0.2523698703491121,
+        "clique": [
+            "3-  In 1998  at the ag",
+            "1-On October 29  1998 ",
+            "0-When Mr Glenn was na"
+        ],
+        "median tf-idf score": 0.9452676124934303,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201d In 1998, at the age of 77, he went back up, becoming the oldest man to travel in space as a crew member of the shuttle Discovery.",
+            "On October 29, 1998, Glenn became the oldest human ever to venture into space, and his flight proved once again that he was a man who embraced a challenge.",
+            "When Mr Glenn was named to the crew of the space shuttle Discovery, skeptics said NASA was awarding him a vanity flight to make him, at 77, the oldest person ever to go into space."
+        ],
+        "tf-idf score": [
+            0.29690356695490083,
+            0.9452676124934303,
+            1.192112028560854
+        ]
+    },
+    "0.25275491474717515-4-263": {
+        "average clique similarity": 0.25275491474717515,
+        "clique": [
+            "2-He lost his first bi",
+            "4-He left NASA in 1964",
+            "0-Encouraged by the Ke",
+            "1-Glenn resigned from "
+        ],
+        "median tf-idf score": 0.3550504013795622,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "He lost his first bid for the Senate from Ohio in 1970, after abandoning a race in 1964 because of a head injury suffered in a fall.",
+            "He left NASA in 1964.",
+            "Encouraged by the Kennedy family, Mr Glenn resigned from the astronaut corps in 1964 to run for the U S Senate in Ohio.",
+            "Glenn resigned from the space agency in January 1964."
+        ],
+        "tf-idf score": [
+            0.19160751512862872,
+            0.05892272163444659,
+            0.7439809207701376,
+            0.5184932876304956
+        ]
+    },
+    "0.2544728793531217-3-482": {
+        "average clique similarity": 0.2544728793531217,
+        "clique": [
+            "1- And the standard an",
+            "3-  Glenn said he was ",
+            "0-How me    How are yo"
+        ],
+        "median tf-idf score": 0.7674398541389489,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dAnd the standard answer was, \u2019How do you think you\u2019d feel if you knew you were on top of 2 million parts built by the lowest bidder on a government contract?\u2019 \u201d Glenn\u2019s mission was more than just a    space journey.",
+            "\u201d Glenn said he was often asked if he was afraid, and he replied, \u201cIf you are talking about fear that overcomes what you are supposed to do, no.",
+            "How me?\u201d \u201cHow are you doing?\u201d Shepard asked."
+        ],
+        "tf-idf score": [
+            0.9559440901506882,
+            0.7674398541389489,
+            0.03010224420717561
+        ]
+    },
+    "0.25453146982211267-4-163": {
+        "average clique similarity": 0.25453146982211267,
+        "clique": [
+            "4-Glenn campaigned in ",
+            "2-Glenn sought the Dem",
+            "3-That adventure came ",
+            "0-   After he was elec"
+        ],
+        "median tf-idf score": 0.6433467022833455,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Glenn campaigned in the Democratic primary for the 1984 presidential election, but ended up losing to Mondale.",
+            "Glenn sought the Democratic presidential nomination himself in 1984 but was quickly eliminated by eventual nominee Walter Mondale, Carter\u2019s vice president.",
+            "That adventure came during the final year of his fourth term in the US Senate, the capstone of a political career that also included a brief run for the Democratic presidential nomination in 1984.",
+            "\u201d  After he was elected to the U S Senate from Ohio in 1974, Mr Glenn served on Capitol Hill for 24 years and made a halfhearted run for the Democratic presidential nomination in 1984."
+        ],
+        "tf-idf score": [
+            0.46032505962203973,
+            0.8263683449446511,
+            0.3299665830881407,
+            1.0454833978350102
+        ]
+    },
+    "0.2546896948352971-3-776": {
+        "average clique similarity": 0.2546896948352971,
+        "clique": [
+            "4-Glenn made history a",
+            "1-At age 77  a year af",
+            "0-Revered for his hero"
+        ],
+        "median tf-idf score": 0.9042985338923264,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Glenn made history a second time in 1998, when he flew aboard the shuttle Discovery to become the oldest person to fly in space.",
+            "At age 77, a year after retiring from the Senate, Glenn accepted an invitation from NASA to rejoin the space program as a member of space shuttle Discovery on a   mission to study the aging process, which mirrors what astronauts experience during long durations in space.",
+            "Revered for his heroism as an astronaut, Mr Glenn remained close to the space program long after leaving NASA In 1986, immediately after the explosion of the space shuttle Challenger, he made a   trip to Cape Canaveral to comfort the families of astronauts killed in the disaster."
+        ],
+        "tf-idf score": [
+            0.7204483527359158,
+            0.9720152735072909,
+            0.9042985338923264
+        ]
+    },
+    "0.2569890582310084-3-370": {
+        "average clique similarity": 0.2569890582310084,
+        "clique": [
+            "4-Two years later  Gle",
+            "2-He was elected in 19",
+            "1-Glenn    along with "
+        ],
+        "median tf-idf score": 0.903642696563909,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Two years later, Glenn\u2019s name was among those mentioned as a running mate for Democratic presidential nominee Jimmy Carter, but Carter ended up picking Sen. Walter Mondale of Minnesota.",
+            "He was elected in 1974 and was briefly considered as a running mate for Democratic presidential candidate Jimmy Carter in 1980.",
+            "Glenn    along with fellow Mercury 7 astronauts Grissom and Shepard    was awarded the Congressional Space Medal of Honor in 1978 by   Jimmy Carter."
+        ],
+        "tf-idf score": [
+            0.903642696563909,
+            0.4157020648085807,
+            1.131869108196057
+        ]
+    },
+    "0.27136292062221906-3-776": {
+        "average clique similarity": 0.27136292062221906,
+        "clique": [
+            "1-With that feat  Glen",
+            "4-In 1958 he was one o",
+            "0- I was in the space "
+        ],
+        "median tf-idf score": 0.4990019695541142,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "With that feat, Glenn became known as one of the top test pilots in the United States and a natural candidate for the country\u2019s emerging space program.",
+            "In 1958 he was one of 508 pilots tested for what became the Mercury program, an accelerated response to the Soviet Union\u2019s successful launch of the first satellite in 1957.",
+            "\u201cI was in the space program."
+        ],
+        "tf-idf score": [
+            0.731543023063439,
+            0.4990019695541142,
+            0.4699728316496085
+        ]
+    },
+    "0.27530881237002863-3-93": {
+        "average clique similarity": 0.27530881237002863,
+        "clique": [
+            "3-But his career was a",
+            "0-In the late 1980s  M",
+            "2-His luster was dulle"
+        ],
+        "median tf-idf score": 0.868578771488359,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But his career was also touched by controversy, as he was one of the five US senators ensnared in the Lincoln Savings & Loan and Keating Five scandal after pocketing a $200, 000 contribution from Charles Keating.",
+            "In the late 1980s, Mr Glenn\u2019s political action committee accepted a contribution from financier Charles H Keating Jr who was at the center of a nationwide    scandal.",
+            "His luster was dulled, however, by a Senate investigation of the \u201dKeating Five\u201d   five senators suspected of doing favors for campaign contributor Charles Keating Jr The panel eventually found Glenn did nothing improper or illegal."
+        ],
+        "tf-idf score": [
+            0.464164743399149,
+            0.8912267272794402,
+            0.868578771488359
+        ]
+    },
+    "0.27955441786317076-4-136": {
+        "average clique similarity": 0.27955441786317076,
+        "clique": [
+            "2-Glenn is survived by",
+            "3-Glenn  who was marri",
+            "0-In addition to his w",
+            "1-Glenn is survived by"
+        ],
+        "median tf-idf score": 0.5431317764365686,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Glenn is survived by his wife of 73 years, his childhood sweetheart, Annie Castor.",
+            "Glenn, who was married to his wife, Annie, for 73 years, earned a treasure trove of honors and medals during his military, aviation and political career.",
+            "In addition to his wife, of Columbus and Bethesda, Md.",
+            "Glenn is survived by his wife of 73 years, Annie his two children, John David and Carolyn Ann (Lyn) and two grandchildren."
+        ],
+        "tf-idf score": [
+            0.4926680842900146,
+            0.9139482581501829,
+            0.04038300268725463,
+            0.5935954685831226
+        ]
+    },
+    "0.2815649826328904-3-776": {
+        "average clique similarity": 0.2815649826328904,
+        "clique": [
+            "3-And as a test pilot ",
+            "0-After Korea  Mr Glen",
+            "1-After Korea  Glenn b"
+        ],
+        "median tf-idf score": 0.5597983344955355,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "And as a test pilot, he broke aviation records.",
+            "After Korea, Mr Glenn was a test pilot at the naval air station at Patuxent River, Md.",
+            "After Korea, Glenn became a test pilot for naval and Marine aircraft and, in 1957, set the transcontinental air speed record."
+        ],
+        "tf-idf score": [
+            0.11996659517133648,
+            0.8747689307969349,
+            0.5597983344955355
+        ]
+    },
+    "0.28832521786694404-3-314": {
+        "average clique similarity": 0.28832521786694404,
+        "clique": [
+            "1-On June 5  1968  Gle",
+            "2-After Korea  Glenn b",
+            "0-Mr Glenn stayed clos"
+        ],
+        "median tf-idf score": 0.7863885027596015,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "On June 5, 1968, Glenn was with Sen. Robert Kennedy at the Ambassador Hotel in Los Angeles, hours before Kennedy was shot by Sirhan Sirhan.",
+            "After Korea, Glenn became a test pilot, setting a transcontinental speed record from Los Angeles to New York in 1957.",
+            "Mr Glenn stayed close to the Kennedys and was at the Ambassador Hotel in Los Angeles when Robert Kennedy was assassinated in June 1968."
+        ],
+        "tf-idf score": [
+            0.7863885027596015,
+            0.5813433066644562,
+            0.8534779765408346
+        ]
+    },
+    "0.293123283687217-3-776": {
+        "average clique similarity": 0.293123283687217,
+        "clique": [
+            "0-When he was 77 and c",
+            "4-Glenn spent nine day",
+            "2-He was 77 when he bl"
+        ],
+        "median tf-idf score": 0.4627466662491672,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "When he was 77 and completing his fourth Senate term in 1998, he had one final flight of glory, returning to space as a crew member aboard the space shuttle Discovery.",
+            "Glenn spent nine days aboard the shuttle Discovery  \u2014   for science.",
+            "He was 77 when he blasted off as a mission specialist aboard the shuttle Discovery."
+        ],
+        "tf-idf score": [
+            0.6739854564771146,
+            0.4627466662491672,
+            0.42129903347685227
+        ]
+    },
+    "0.32285441990434477-3-157": {
+        "average clique similarity": 0.32285441990434477,
+        "clique": [
+            "1-It was announced Wed",
+            "4-Glenn was 95 when he",
+            "2-Glenn had been hospi"
+        ],
+        "median tf-idf score": 0.8601010322298518,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "It was announced Wednesday that Glenn had been hospitalized \u201dmore than a week ago,\u201d according to Ohio State University spokesman Hank Wilson.",
+            "Glenn was 95 when he died he had been hospitalized in an Ohio State University medical center in Columbus since last week.",
+            "Glenn had been hospitalized since Nov. 25."
+        ],
+        "tf-idf score": [
+            0.8674903077711769,
+            0.8601010322298518,
+            0.374700898350718
+        ]
+    },
+    "0.3372631517675196-3-295": {
+        "average clique similarity": 0.3372631517675196,
+        "clique": [
+            "1-  CNN  John Glenn   ",
+            "3-   John Glenn      t",
+            "0- John Glenn  who cap"
+        ],
+        "median tf-idf score": 0.8179022953646647,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            " (CNN) John Glenn,  the first American to orbit the Earth and a longtime US senator, died Thursday, according to the Ohio State University.",
+            "   John Glenn  \u2014   the first American to orbit the Earth  \u2014   died Thursday afternoon surrounded by his family at the Ohio State University Wexner Medical Center in Columbus after a brief illness.",
+            " John Glenn, who captured the nation\u2019s attention in 1962 as the first American to orbit the Earth during a tense time when the United States sought supremacy over the Soviet Union in the space race, and who rocketed back into space 36 years later, becoming the oldest astronaut in history, died Dec. 8 at a hospital in Columbus, Ohio."
+        ],
+        "tf-idf score": [
+            0.7677295382518183,
+            0.8179022953646647,
+            1.236697254929289
+        ]
+    },
+    "0.3374034129727889-3-362": {
+        "average clique similarity": 0.3374034129727889,
+        "clique": [
+            "0- John Glenn  in 1962",
+            "2-The book s author  T",
+            "1-    The last of Amer"
+        ],
+        "median tf-idf score": 0.5394606545910421,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cJohn Glenn, in 1962, was the last true national hero America has ever had.",
+            "The book\u2019s author, Tom Wolfe, called Glenn \u201dthe last true national hero America has ever had\u201d.",
+            ".. \u201dThe last of America\u2019s first astronauts has left us, but propelled by their example we know that our future here on Earth compels us to keep reaching for the heavens\u201d."
+        ],
+        "tf-idf score": [
+            0.8549868924569044,
+            0.5394606545910421,
+            0.21183997773692945
+        ]
+    },
+    "0.346793401085222-3-335": {
+        "average clique similarity": 0.346793401085222,
+        "clique": [
+            "0-He was in the same s",
+            "4-A life in flight and",
+            "3-He was a fighter pil"
+        ],
+        "median tf-idf score": 0.6890749329962937,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "He was in the same squadron in Korea as baseball star Ted Williams and flew 90 missions as a jet fighter pilot.",
+            "A life in flight and politics, Glenn was a highly decorated Marine who flew 59 combat missions in the South Pacific during World War II During the Korean War, he flew 90 combat missions, using different models of new jet fighters.",
+            "He was a fighter pilot in World War II and Korea who flew low, got his plane riddled with bullets, flew with baseball great Ted Williams and earned macho nicknames during 149 combat missions."
+        ],
+        "tf-idf score": [
+            0.5492187373601319,
+            1.193903719519745,
+            0.6890749329962937
+        ]
+    },
+    "0.3775971603749275-3-595": {
+        "average clique similarity": 0.3775971603749275,
+        "clique": [
+            "2- I don t think of my",
+            "4-In 2012  on the 50th",
+            "3-   It still seems so"
+        ],
+        "median tf-idf score": 0.5538659470439942,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201dI don\u2019t think of myself that way,\u201d Glenn told the New York Times in 2012 to mark the 50th anniversary of his flight.",
+            "In 2012, on the 50th anniversary of his Mercury flight, Glenn reflected on the danger.",
+            "\u201d \u201cIt still seems so vivid to me,\u201d Glenn said in a 2012 interview with the Associated Press on the 50th anniversary of the flight."
+        ],
+        "tf-idf score": [
+            0.5985448074789292,
+            0.5050293348887505,
+            0.5538659470439942
+        ]
+    },
+    "0.3824809272718572-3-776": {
+        "average clique similarity": 0.3824809272718572,
+        "clique": [
+            "0-In 2012  Mr Glenn wa",
+            "2-President Barack Oba",
+            "3-They included the Di"
+        ],
+        "median tf-idf score": 0.7959057444559996,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "In 2012, Mr Glenn was awarded the Presidential Medal of Freedom, the nation\u2019s highest civilian honor.",
+            "President Barack Obama, who in 2012 awarded Glenn the nation\u2019s highest civilian honor, the Presidential Medal of Freedom, said: \u201dWith John\u2019s passing, our nation has lost an icon\u201d.",
+            "They included the Distinguished Flying Cross, the   Campaign Medal, the World War II Victory Medal, the Korean Service Medal, the Congressional Gold Medal, the Presidential Medal of Freedom and the Congressional Space Medal of Honor."
+        ],
+        "tf-idf score": [
+            0.8971347078729384,
+            0.7959057444559996,
+            0.49532277857680224
+        ]
+    },
+    "0.3852055422854373-3-443": {
+        "average clique similarity": 0.3852055422854373,
+        "clique": [
+            "2-John Herschel Glenn ",
+            "0-  From pilot to poli",
+            "1-A fascination with f"
+        ],
+        "median tf-idf score": 0.8771387125461447,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "John Herschel Glenn Jr was born on July 18, 1921, in  Cambridge, Ohio.",
+            "\u201d From pilot to politics John Herschel Glenn Jr was born July 18, 1921, in Cambridge, Ohio, and grew up in New Concord, Ohio.",
+            "A fascination with flight, John Herschel Glenn Jr made history in 1962 when he completed a   flight in a cramped space capsule dubbed Friendship 7."
+        ],
+        "tf-idf score": [
+            0.8771387125461447,
+            0.9822287838170737,
+            0.8660418217791647
+        ]
+    },
+    "0.39499556635339156-4-147": {
+        "average clique similarity": 0.39499556635339156,
+        "clique": [
+            "3-He broke the transco",
+            "2-Glenn s astronaut ca",
+            "0-During World War II ",
+            "1-Glenn flew 149 comba"
+        ],
+        "median tf-idf score": 0.690531082442661,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "He broke the transcontinental flight speed record as a pilot with the US Marines  \u2014   and flew 149 combat missions in World War II and the Korean War.",
+            "Glenn\u2019s astronaut career, as well as his record as a fighter pilot in World War Two and the Korean War, helped propel him to the U S Senate in 1974, where he represented his home state of Ohio for 24 years as a moderate Democrat.",
+            "During World War II, Mr Glenn flew 59 missions as a fighter pilot and took part in the Marshall Islands campaign in the Pacific.",
+            "Glenn flew 149 combat missions in World War II and the Korean War."
+        ],
+        "tf-idf score": [
+            0.4476549012541545,
+            0.9371007774936534,
+            0.7802650869145397,
+            0.6007970779707824
+        ]
+    },
+    "0.3996471808133571-5-23": {
+        "average clique similarity": 0.3996471808133571,
+        "clique": [
+            "4-His death Thursday w",
+            "1-He was at the James ",
+            "0-The death was confir",
+            "2-Glenn  the last surv",
+            "3-Glenn s body will li"
+        ],
+        "median tf-idf score": 0.9693353387438947,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "CNN",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "His death Thursday was confirmed by Hank Wilson, communications director of the John Glenn College of Public Affairs at the Ohio State University.",
+            "He was at the James Cancer Hospital at the Ohio State University, but his illness was not disclosed.",
+            "The death was confirmed by Hank Wilson, communications director at the John Glenn College of Public Affairs at Ohio State University.",
+            "Glenn, the last surviving member of the original seven American \u201dRight Stuff\u201d Mercury astronauts, died at the James Cancer Hospital at Ohio State University in Columbus, said Hank Wilson, a spokesman at the university\u2019s John Glenn College of Public Affairs, which Glenn helped found.",
+            "Glenn\u2019s body will lie in state at the Ohio Statehouse for a day, and a public memorial service will be held at Ohio State University\u2019s Mershon Auditorium, the Columbus Dispatch reported."
+        ],
+        "tf-idf score": [
+            0.9801245901388235,
+            0.46483939942757985,
+            0.9693353387438947,
+            1.1180978198828337,
+            0.6710384579226762
+        ]
+    },
+    "0.4056806676829762-3-458": {
+        "average clique similarity": 0.4056806676829762,
+        "clique": [
+            "3-The last survivor of",
+            "0-Mr Glenn was one of ",
+            "4-John Glenn was the l"
+        ],
+        "median tf-idf score": 0.8829594259386286,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The last survivor of the original Mercury 7 astronauts was 95.",
+            "Mr Glenn was one of the seven original astronauts in NASA\u2019s Mercury program, which was a conspicuous symbol of the country\u2019s military and technological might at the height of the Cold War.",
+            "John Glenn was the last surviving member of the original Mercury astronauts."
+        ],
+        "tf-idf score": [
+            0.49117644164629876,
+            1.1457443806242977,
+            0.8829594259386286
+        ]
+    },
+    "0.5019975483424467-3-384": {
+        "average clique similarity": 0.5019975483424467,
+        "clique": [
+            "1-Glenn had heart valv",
+            "2-He had a knee replac",
+            "0-Mr Glenn had a strok"
+        ],
+        "median tf-idf score": 0.3903677949176301,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Glenn had heart valve replacement surgery in 2014.",
+            "He had a knee replacement operation in 2011 and heart surgery in 2014.",
+            "Mr Glenn had a stroke after   replacement surgery in 2014, but the immediate cause was not announced."
+        ],
+        "tf-idf score": [
+            0.3903677949176301,
+            0.039509043953392935,
+            0.7916639743864697
+        ]
+    }
+}

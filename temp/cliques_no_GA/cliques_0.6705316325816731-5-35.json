@@ -1,0 +1,890 @@
+{
+    "0.13958808406425205-3-78": {
+        "average clique similarity": 0.13958808406425205,
+        "clique": [
+            "4-Please follow the st",
+            "0-Clinton s departure ",
+            "3-  An initial campaig"
+        ],
+        "median tf-idf score": 0.9601860753735947,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Please follow the steps below, Updated at 5:52 p. m. ET, Hillary Clinton has been diagnosed with pneumonia, her doctor said Sunday after her sudden departure from a memorial ceremony at Ground Zero sparked a frenzy of speculation about her health.",
+            "Clinton\u2019s departure from the event was not witnessed by the reporters who travel with her campaign and aides provided no information about why she left or her whereabouts for nearly two hours.",
+            "\u201d An initial campaign statement about Sunday\u2019s illness did not mention the pneumonia diagnosis from two days prior, adding to public speculation that the campaign was hiding something."
+        ],
+        "tf-idf score": [
+            1.2442246405706814,
+            0.9601860753735947,
+            0.600269227209927
+        ]
+    },
+    "0.14754370920433027-3-406": {
+        "average clique similarity": 0.14754370920433027,
+        "clique": [
+            "4-The latest incident ",
+            "0-Asked by a reporter ",
+            "3-The incident quickly"
+        ],
+        "median tf-idf score": 0.9715552622882986,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "The latest incident in New York could revive criticism from the Trump campaign about Clinton\u2019s physical ability to serve as president.",
+            "Asked by a reporter about Clinton\u2019s health incident, Trump said, \u201cI don\u2019t know anything.",
+            "The incident quickly renewed attention to Clinton\u2019s health."
+        ],
+        "tf-idf score": [
+            0.9840191282442398,
+            0.9715552622882986,
+            0.5700421401117353
+        ]
+    },
+    "0.15692383923335881-3-404": {
+        "average clique similarity": 0.15692383923335881,
+        "clique": [
+            "3-It was at that fundr",
+            "2- In this extraordina",
+            "4-That incident fueled"
+        ],
+        "median tf-idf score": 0.7025763186988304,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "It was at that fundraiser where Clinton ignited a controversy by claiming that \u201chalf\u201d of Trump\u2019s supporters are in a \u201cbasket of deplorables.",
+            "\u201dIn this extraordinary campaign cycle, where the stakes are so high and the media can be merciless, it can be easy to forget that presidential candidates are human beings too,\u201d Stein said.",
+            "That incident fueled conspiratorial whispers that Clinton was too sick to be president."
+        ],
+        "tf-idf score": [
+            0.8478836330116318,
+            0.4418585253788124,
+            0.7025763186988304
+        ]
+    },
+    "0.15974462573815-3-88": {
+        "average clique similarity": 0.15974462573815,
+        "clique": [
+            "2-Clinton donors who h",
+            "3-The 2012 concussion ",
+            "0-She was scheduled to"
+        ],
+        "median tf-idf score": 0.7787164879525679,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "Clinton donors who had planned to attend the San Francisco fundraiser Monday were told by the campaign that the event would go on as scheduled and that attendees could expect to hear from the candidate \u201dvia teleconference\u201d.",
+            "The 2012 concussion caused concern among Clinton friends and supporters who hoped she would make a second run for the presidency, some of whom predicted correctly that the episode would fuel speculation that Clinton was too frail to be commander in chief.",
+            "She was scheduled to fly to California Monday morning for fundraising and it was unclear whether her schedule would change."
+        ],
+        "tf-idf score": [
+            0.7787164879525679,
+            0.7914652305636655,
+            0.3372241607392117
+        ]
+    },
+    "0.1610360689713908-3-289": {
+        "average clique similarity": 0.1610360689713908,
+        "clique": [
+            "4-Merrill pointed out ",
+            "1- I look forward to s",
+            "0-He said he was stand"
+        ],
+        "median tf-idf score": 0.4079020793018078,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Merrill pointed out Clinton attended the ceremony for 90 minutes before she was escorted out.",
+            "\u201dI look forward to seeing her back out on the campaign trail and continuing on the path to victory\u201d.",
+            "He said he was standing behind her during the remembrance and \u201cshe did not seem out of the ordinary at all."
+        ],
+        "tf-idf score": [
+            0.7478766749585853,
+            0.19405015493218566,
+            0.4079020793018078
+        ]
+    },
+    "0.16790354648768555-3-111": {
+        "average clique similarity": 0.16790354648768555,
+        "clique": [
+            "2-Instead Clinton now ",
+            "1-After Clinton left t",
+            "3-The advisers spoke o"
+        ],
+        "median tf-idf score": 0.6155299449570002,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Instead Clinton now plans to stay home and prepare for the upcoming debates, while her advisers to discuss how to move beyond arguably the worst weekend of the campaign.",
+            "After Clinton left the ceremony, the reporters following her on the campaign trail were prevented from leaving the media area for a period of time.",
+            "The advisers spoke on the condition of anonymity since they were not authorized to discuss campaign deliberations."
+        ],
+        "tf-idf score": [
+            0.6155299449570002,
+            0.792218087193421,
+            0.1884613089250931
+        ]
+    },
+    "0.1739990801360831-3-222": {
+        "average clique similarity": 0.1739990801360831,
+        "clique": [
+            "3-  The letter pales i",
+            "2-Two people close to ",
+            "1-Questions surroundin"
+        ],
+        "median tf-idf score": 0.8453732238385048,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201d The letter pales in comparison to the more than 1, 000 pages of medical records released in May\u20092008 by Sen. John McCain (Ariz.) who was then 71 and went on to become the Republican presidential nominee.",
+            "Two people close to the campaign said Monday that Clinton will almost certainly have to release more medical records    or do an interview on her health, specifically.",
+            "Questions surrounding Clinton\u2019s health have emerged in recent weeks, and calls for the candidate to release her full medical records may intensify after Sunday\u2019s incident."
+        ],
+        "tf-idf score": [
+            0.4631518914584657,
+            0.9774332787034471,
+            0.8453732238385048
+        ]
+    },
+    "0.17434912180806986-3-442": {
+        "average clique similarity": 0.17434912180806986,
+        "clique": [
+            "2-Trump also said he w",
+            "3-Y  a Long Island con",
+            "0-  Schumer said he al"
+        ],
+        "median tf-idf score": 0.68333877801481,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Trump also said he would be releasing to the public results from a doctor\u2019s physical he received last week.",
+            "Y) a Long Island congressman who stood with Trump\u2019s group at the ceremony, said he spoke with Trump shortly after Clinton departed.",
+            "\u201d Schumer said he also spoke with Clinton during the event and saw her leave \u201con her own accord."
+        ],
+        "tf-idf score": [
+            0.47434415994683976,
+            0.8705137049186052,
+            0.68333877801481
+        ]
+    },
+    "0.17823497069124852-3-243": {
+        "average clique similarity": 0.17823497069124852,
+        "clique": [
+            "2-Trump camp muted  Tr",
+            "0-But the    has refus",
+            "3-On Friday   The Dr O"
+        ],
+        "median tf-idf score": 0.4184162617770486,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "Trump camp muted, Trump responded to the incident for the first time on Monday morning, but his initial comments were relatively muted for the Republican nominee who has repeatedly brought up Clinton\u2019s health and stamina on the campaign trail.",
+            "But the    has refused to release his own health records.",
+            "On Friday, \u201cThe Dr Oz Show\u201d announced that Trump and his eldest daughter, Ivanka Trump, will appear on the show on Sept. 15 to discuss Trump\u2019s \u201cown personal health regimen."
+        ],
+        "tf-idf score": [
+            1.160339018969692,
+            0.2571150264699069,
+            0.4184162617770486
+        ]
+    },
+    "0.18116793976463363-3-94": {
+        "average clique similarity": 0.18116793976463363,
+        "clique": [
+            "3- I m feeling great  ",
+            "4-Temperatures in New ",
+            "1-   Clinton was in Ne"
+        ],
+        "median tf-idf score": 0.8461056895379898,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cI\u2019m feeling great, it\u2019s a beautiful day in New York,\u201d Clinton said.",
+            "Temperatures in New York City were in the low 80s Sunday morning.",
+            "\u2019\u201d Clinton was in New York for Sunday\u2019s ceremony commemorating 15 years since the   terror attacks."
+        ],
+        "tf-idf score": [
+            0.8461056895379898,
+            0.2987225861969603,
+            0.9518656876297795
+        ]
+    },
+    "0.18861867828174603-3-107": {
+        "average clique similarity": 0.18861867828174603,
+        "clique": [
+            "4-In July 2015  three ",
+            "0-Trump and his suppor",
+            "2-Health history  The "
+        ],
+        "median tf-idf score": 1.1073233692185234,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In July 2015, three months months after announcing her presidential run, Clinton\u2019s campaign released a typical   letter from her doctor saying the politician was in \u201cexcellent physical condition.",
+            "Trump and his supporters have been hinting at potential health issues for months, questioning Clinton\u2019s stamina when she takes routine days off the campaign trail and reviving questions about a concussion she sustained in December 2012 after fainting.",
+            "Health history, The most recent major health problem Clinton has suffered was a scare in 2012 following a concussion that resulted from a fainting spell    but she is in good health now, according to a statement from her doctor that Clinton\u2019s campaign released in July 2015."
+        ],
+        "tf-idf score": [
+            1.0128830168453695,
+            1.1073233692185234,
+            1.209977103852926
+        ]
+    },
+    "0.19315401321375858-3-1": {
+        "average clique similarity": 0.19315401321375858,
+        "clique": [
+            "3-Clinton is the first",
+            "0-Trump s personal phy",
+            "1-Asked about Clinton "
+        ],
+        "median tf-idf score": 0.6930206328489408,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "Clinton is the first woman to become a major party presidential nominee.",
+            "Trump\u2019s personal physician has said the Republican presidential nominee is in excellent health both physically and mentally.",
+            "Asked about Clinton\u2019s early exit, Republican presidential nominee Donald Trump said he didn\u2019t know anything about it."
+        ],
+        "tf-idf score": [
+            0.49246668557461654,
+            0.6930206328489408,
+            0.9408541807885048
+        ]
+    },
+    "0.20286518549186594-3-457": {
+        "average clique similarity": 0.20286518549186594,
+        "clique": [
+            "3-  Clinton s 2012 epi",
+            "0-Clinton also has exp",
+            "1-Clinton s doctor rep"
+        ],
+        "median tf-idf score": 0.7170759327397541,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201d Clinton\u2019s 2012 episode led to a brief hospitalization for a blood clot in her head.",
+            "Clinton also has experienced deep vein thrombosis, a clot usually in the leg, and takes the blood thinner Coumadin to prevent new clots.",
+            "Clinton\u2019s doctor reported she is fully recovered from the concussion, which led to temporary double vision and discovery of a blood clot in a vein in the space between her brain and skull."
+        ],
+        "tf-idf score": [
+            0.533259444740701,
+            0.7775972439637406,
+            0.7170759327397541
+        ]
+    },
+    "0.2101005867329635-3-348": {
+        "average clique similarity": 0.2101005867329635,
+        "clique": [
+            "2-Bardack attended to ",
+            "4-  Clinton was driven",
+            "1-A spokesperson said "
+        ],
+        "median tf-idf score": 0.9301523578122949,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Bardack attended to Clinton at her Chappaqua home Sunday.",
+            "\u201d Clinton was driven to her home in Chappaqua, New York, without the press pool that usually follows her on the campaign trail.",
+            "A spokesperson said she was headed to her house in Chappaqua, where former President Bill Clinton, who did not attend the   ceremony, was waiting."
+        ],
+        "tf-idf score": [
+            0.5568609849080565,
+            1.0046321167371968,
+            0.9301523578122949
+        ]
+    },
+    "0.21939937530131035-3-509": {
+        "average clique similarity": 0.21939937530131035,
+        "clique": [
+            "3-As she steps forward",
+            "1-See Latest Coverage ",
+            "0-An ill   Sunday and "
+        ],
+        "median tf-idf score": 0.5125433373152599,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "As she steps forward, Clinton can be seen falling as agents help lift her into the van.",
+            "See Latest Coverage \u2192 An unverified video of the episode appeared to show Clinton collapsing as she was helped into the van.",
+            "An ill   Sunday and needed to be held up by three people before she appeared to stumble off a curb and was helped into a van."
+        ],
+        "tf-idf score": [
+            0.5125433373152599,
+            0.806457138468802,
+            0.47850862043139764
+        ]
+    },
+    "0.22304334192822614-4-203": {
+        "average clique similarity": 0.22304334192822614,
+        "clique": [
+            "3-The video  circulate",
+            "2-A video of Clinton s",
+            "0-  In the meantime  a",
+            "4-Video captured by an"
+        ],
+        "median tf-idf score": 0.638506001777106,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The video, circulated on Twitter, appeared to show Clinton, 68, flanked by several Secret Service agents, leaning against a security bollard while agents prepare to assist her into a black van.",
+            "A video of Clinton\u2019s departure from the   event at Ground Zero in Manhattan, posted by Twitter user Zdenek Gazda, shows her clearly stumbling, with Secret Service agents helping her into the van in the motorcade.",
+            "\u201d In the meantime, a video surfaced on Twitter that showed Clinton being held up by aides as a black van pulls up.",
+            "Video captured by an attendee and posted online shows Clinton standing    with a staffer as a black van approaches to remove her from the ceremony."
+        ],
+        "tf-idf score": [
+            0.6407076621787956,
+            0.763497236012954,
+            0.5742702200864426,
+            0.6363043413754165
+        ]
+    },
+    "0.22322842326906042-3-164": {
+        "average clique similarity": 0.22322842326906042,
+        "clique": [
+            "2-Clinton s health cam",
+            "1-But a witness told F",
+            "0-She stumbles and app"
+        ],
+        "median tf-idf score": 0.9268339967210955,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Clinton\u2019s health came into sharp focus Sunday as she appeared wobbly and stumbled as Secret Service agents helped her into a van to exit a memorial service marking the 15th anniversary of the September 11, 2001, attacks.",
+            "But a witness told Fox News that Clinton stumbled off the curb, her \u201dknees buckled\u201d and she lost a shoe as she was helped into a van during her \u201dunexpected early departure\u201d.",
+            "She stumbles and appears to fall off the curb as she is helped inside."
+        ],
+        "tf-idf score": [
+            0.9268339967210955,
+            0.999668025114698,
+            0.10531434599701199
+        ]
+    },
+    "0.23239645111489973-3-53": {
+        "average clique similarity": 0.23239645111489973,
+        "clique": [
+            "2-Clinton s physician ",
+            "0-In a statement  Clin",
+            "1-After more than an h"
+        ],
+        "median tf-idf score": 0.8209054967806557,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Clinton\u2019s physician    the only person to speak on the record who has actually examined her    has repeatedly affirmed the former secretary of state\u2019s health and fitness for the highest office in the land.",
+            "In a statement, Clinton\u2019s doctor said the former secretary of state had become overheated and dehydrated at the event in lower Manhattan.",
+            "After more than an hour of radio silence, Clinton\u2019s campaign issued a statement saying the former Secretary of State \u201dfelt overheated,\u201d and later Sunday issued another release blaming the episode on pneumonia and dehydration."
+        ],
+        "tf-idf score": [
+            0.7693443305199955,
+            0.8209054967806557,
+            0.9425168183702202
+        ]
+    },
+    "0.2401159993289517-3-509": {
+        "average clique similarity": 0.2401159993289517,
+        "clique": [
+            "4-Doctors found a bloo",
+            "0-Clinton s doctor rep",
+            "2-The health statement"
+        ],
+        "median tf-idf score": 0.7170759327397541,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Doctors found a blood clot in Clinton\u2019s head in January 2013 during a followup exam for a concussion she suffered a month earlier.",
+            "Clinton\u2019s doctor reported she is fully recovered from the concussion, which led to temporary double vision and discovery of a blood clot in a vein in the space between her brain and skull.",
+            "The health statement says the blood clot, also known as a thrombosis, that Clinton suffered between her brain and skull following a fainting spell and concussion in late 2012 is completely resolved."
+        ],
+        "tf-idf score": [
+            0.6691540137286163,
+            0.7170759327397541,
+            0.8061677572428649
+        ]
+    },
+    "0.24477021732822238-3-37": {
+        "average clique similarity": 0.24477021732822238,
+        "clique": [
+            "4-Clinton emerged from",
+            "3-She emerged from her",
+            "2-The Democratic nomin"
+        ],
+        "median tf-idf score": 0.4811544917033559,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "Clinton emerged from her daughter\u2019s apartment at about 11:40 a. m. wearing sunglasses and waving to onlookers.",
+            "She emerged from her daughter\u2019s New York apartment later and said she feels better.",
+            "The Democratic nominee traveled to her daughter\u2019s nearby apartment and the campaign initially said she felt \u201doverheated\u201d."
+        ],
+        "tf-idf score": [
+            0.5191569196807535,
+            0.4613472107605833,
+            0.4811544917033559
+        ]
+    },
+    "0.2656531684079828-3-509": {
+        "average clique similarity": 0.2656531684079828,
+        "clique": [
+            "3-  Trump shook his he",
+            "2- I don t know why th",
+            "1-She looked very nice"
+        ],
+        "median tf-idf score": 0.2158712298372107,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d Trump shook his head, frowned and said: \u201cI don\u2019t know anything about it.",
+            "\u201dI don\u2019t know why they are saying this,\u201d she said.",
+            "She looked very nice and everything, and I don\u2019t know what happened to her\u201d."
+        ],
+        "tf-idf score": [
+            0.379773200336287,
+            0.2158712298372107,
+            0.05172710372246389
+        ]
+    },
+    "0.26661095398036977-3-480": {
+        "average clique similarity": 0.26661095398036977,
+        "clique": [
+            "4-Last week  Clinton b",
+            "3-During a speech at a",
+            "2-Other incidents  Cli"
+        ],
+        "median tf-idf score": 0.5437181643795033,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Last week, Clinton began her speech at a rally in Cleveland with a coughing fit.",
+            "During a speech at a festival in Cleveland, Clinton started coughing repeatedly at the outset of her remarks, took several sips of water and a lozenge and continued to sound hoarse as she spoke.",
+            "Other incidents, Clinton suffered a   coughing fit during an event in Cleveland last week, which she blamed on allergies    and wryly put on the shoulders of GOP nominee Donald Trump."
+        ],
+        "tf-idf score": [
+            0.49900065982001146,
+            0.5437181643795033,
+            0.821053621800701
+        ]
+    },
+    "0.26824780293000866-3-439": {
+        "average clique similarity": 0.26824780293000866,
+        "clique": [
+            "1-Clinton emerged from",
+            "2-Clinton appeared to ",
+            "4- I m feeling great  "
+        ],
+        "median tf-idf score": 0.918555069224913,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Clinton emerged from Chelsea Clinton\u2019s apartment just before noon and said she was \u201dfeeling great\u201d.",
+            "Clinton appeared to faint as she was leaving the Ground Zero ceremony, two law enforcement officials    including one who witnessed the incident    told CNN Leaving her daughter\u2019s apartment a little before noon, Clinton told reporters she was \u201dfeeling great\u201d.",
+            "\u201cI\u2019m feeling great,\u201d she said, according to reporters outside the building."
+        ],
+        "tf-idf score": [
+            0.918555069224913,
+            1.1064364596484413,
+            0.31684023917411397
+        ]
+    },
+    "0.2706138974654655-3-158": {
+        "average clique similarity": 0.2706138974654655,
+        "clique": [
+            "4-The Trump campaign f",
+            "0-Dr Harold Bornstein ",
+            "3-In December  Trump r"
+        ],
+        "median tf-idf score": 0.4581256092683422,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "The Trump campaign followed in December 2015, releasing a   note in which the candidate\u2019s doctor of 25 years said Trump \u201cwill be the healthiest individual ever elected to the presidency.",
+            "Dr Harold Bornstein\u2019s report last December remains the only medical information released so far by the Trump campaign.",
+            "In December, Trump released a   letter signed by physician Harold N Bornstein of Lenox Hill Hospital in Manhattan that contained few specifics but declared that Trump would \u201cbe the healthiest individual ever elected to the presidency."
+        ],
+        "tf-idf score": [
+            0.6505538093099448,
+            0.4581256092683422,
+            0.35636354175511964
+        ]
+    },
+    "0.28043675816025704-4-90": {
+        "average clique similarity": 0.28043675816025704,
+        "clique": [
+            "3- The Washington Post",
+            "2-Campaign spokesman N",
+            "4- During the ceremony",
+            "0-Spokesman Nick Merri"
+        ],
+        "median tf-idf score": 0.8899666860813812,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "(The Washington Post; Photo: Yana Paskova, The Post)   Campaign spokesman Nick Merrill said Clinton left the ceremony early and retreated to her daughter Chelsea\u2019s apartment in the Gramercy neighborhood of lower Manhattan.",
+            "Campaign spokesman Nick Merrill said Clinton \u201dcontinues to feel better\u201d Monday morning.",
+            "\u201cDuring the ceremony, she felt overheated so departed to go to her daughter\u2019s apartment, and is feeling much better,\u201d Clinton spokesman Nick Merrill said in a statement.",
+            "Spokesman Nick Merrill eventually said Clinton had gone to her daughter\u2019s nearby apartment, but refused to say whether the former secretary of state had required medical attention."
+        ],
+        "tf-idf score": [
+            1.0486380904347472,
+            0.8325602830776274,
+            0.9128581524226409,
+            0.8670752197401215
+        ]
+    },
+    "0.2889505442221999-3-120": {
+        "average clique similarity": 0.2889505442221999,
+        "clique": [
+            "4-  When Hillary Clint",
+            "3-  NEW YORK      Demo",
+            "1-The Democratic presi"
+        ],
+        "median tf-idf score": 1.3537466522774215,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d When Hillary Clinton Coughs, The Democratic presidential nominee left early during a ceremony in New York to commemorate the 15th anniversary of the September 11 terrorist attacks because she felt \u201coverheated,\u201d her campaign said Sunday.",
+            "  NEW YORK  \u2014   Democratic presidential candidate Hillary Clinton fell ill during a memorial service marking the 15th anniversary of the Sept. 11, 2001, terrorist attacks, leaving abruptly and inserting new speculation about her health into a presidential campaign in which Republican Donald Trump has called her weak and unfit.",
+            "The Democratic presidential nominee fell on her way into her van and had to be helped by her security, according to witnesses and video of her leaving."
+        ],
+        "tf-idf score": [
+            1.3537466522774215,
+            1.4524873747981617,
+            0.3078957217459549
+        ]
+    },
+    "0.2915513669136708-4-509": {
+        "average clique similarity": 0.2915513669136708,
+        "clique": [
+            "0-Trump  who attended ",
+            "2-The incident seems c",
+            "1-Both had promised to",
+            "3-Hillary Clinton left"
+        ],
+        "median tf-idf score": 0.7776703115364441,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Trump, who attended the same event marking the 15th anniversary of the   attacks, was noticeably restrained.",
+            "The incident seems certain to prompt further scrutiny of Clinton\u2019s health and her campaign\u2019s transparency    though Republican rival Donald Trump was uncharacteristically silent throughout a solemn day marking the 15th anniversary of the September 11 attacks.",
+            "Both had promised to suspend campaign activities to mark the 15th anniversary of the attacks.",
+            "Hillary Clinton left a New York memorial service marking the 15th anniversary of the Sept. 11 attacks early after feeling \u201doverheated,\u201d according to a campaign spokesman."
+        ],
+        "tf-idf score": [
+            0.5108611679931593,
+            1.2606858175800175,
+            0.2131920029161424,
+            1.0444794550797287
+        ]
+    },
+    "0.3143851164791658-3-509": {
+        "average clique similarity": 0.3143851164791658,
+        "clique": [
+            "0-Several hours later ",
+            "3-Clinton s campaign i",
+            "4- On Friday  during f"
+        ],
+        "median tf-idf score": 0.36146999821837816,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Several hours later, her campaign revealed she had been diagnosed with pneumonia on Friday and advised to rest.",
+            "Clinton\u2019s campaign issued a statement from her doctor later Sunday revealing that she had been diagnosed with pneumonia two days earlier.",
+            "\u201cOn Friday, during follow up evaluation of her prolonged cough, she was diagnosed with pneumonia."
+        ],
+        "tf-idf score": [
+            0.2991811435294672,
+            0.8318713316910953,
+            0.36146999821837816
+        ]
+    },
+    "0.34414125741683627-3-317": {
+        "average clique similarity": 0.34414125741683627,
+        "clique": [
+            "1-But Rep  Peter King ",
+            "0-Rep  Joe Crowley    ",
+            "3-Rep  Peter T King   "
+        ],
+        "median tf-idf score": 0.049463965884089994,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But Rep. Peter King told The Washington Post that during the ceremony it was Trump who informed King of Clinton\u2019s health issue.",
+            "Rep. Joe Crowley,  .",
+            "Rep. Peter T King ( ."
+        ],
+        "tf-idf score": [
+            1.1058923149704656,
+            0.03869313151933241,
+            0.049463965884089994
+        ]
+    },
+    "0.35393013367607357-3-136": {
+        "average clique similarity": 0.35393013367607357,
+        "clique": [
+            "1- It was actually Tru",
+            "3- It was actually Tru",
+            "0-   It was stiflingly"
+        ],
+        "median tf-idf score": 0.5487164306425386,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cIt was actually Trump who told me what was going on,\u201d King told a Washington Post reporter.",
+            "\u201cIt was actually Trump who told me what was going on,\u201d King said in an interview Sunday.",
+            "\u201d \u201cIt was stiflingly hot."
+        ],
+        "tf-idf score": [
+            0.5487164306425386,
+            0.7255695898453159,
+            0.21894697631571478
+        ]
+    },
+    "0.4254975599274355-3-30": {
+        "average clique similarity": 0.4254975599274355,
+        "clique": [
+            "3- He leaned over and ",
+            "1- He leaned over and ",
+            "2-Mike Pence  refused "
+        ],
+        "median tf-idf score": 0.5274844290440601,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cHe leaned over and told me that \u2018Hillary wasn\u2019t feeling well.\u2019 I said, \u2018Really?\u2019 That was all he said.",
+            "\u201dHe leaned over and told me that \u2019Hillary wasn\u2019t feeling well.\u2019 I said, \u2019Really?",
+            "Mike Pence, refused to acknowledge reporters\u2019 questions Sunday about Clinton and her health at an awards ceremony that he presided over in Indianapolis."
+        ],
+        "tf-idf score": [
+            0.5274844290440601,
+            0.32557475792039337,
+            0.7635851582054443
+        ]
+    },
+    "0.4475604914733833-3-307": {
+        "average clique similarity": 0.4475604914733833,
+        "clique": [
+            "1-While at this mornin",
+            "3-Clinton had arrived ",
+            "2- While at this morni"
+        ],
+        "median tf-idf score": 0.10946727393375519,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "While at this morning\u2019s event, she became overheated and dehydrated.",
+            "Clinton had arrived at the memorial site at 8:18 a. m. Reporters traveling with Clinton became aware about 9:36 a. m. that she was no longer standing where she had been, near several Democratic officials.",
+            "\u201dWhile at this morning\u2019s event, she became overheated and dehydrated."
+        ],
+        "tf-idf score": [
+            0.10946727393375519,
+            0.760447721098302,
+            0.10946727393375519
+        ]
+    },
+    "0.49862303057092944-4-26": {
+        "average clique similarity": 0.49862303057092944,
+        "clique": [
+            "3-  A planned trip to ",
+            "0- I have just examine",
+            "1-I have just examined",
+            "4-I have just examined"
+        ],
+        "median tf-idf score": 0.18391169901165266,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201d A planned trip to California and Nevada early this week is now under review, campaign officials said.",
+            "\u201cI have just examined her and she is now rehydrated and recovering nicely,\u201d Dr Lisa R Bardack said.",
+            "I have just examined her and she is now   and recovering nicely\u201d.",
+            "I have just examined her and she is now rehydrated and recovering nicely."
+        ],
+        "tf-idf score": [
+            0.41031026334392956,
+            0.3052748043508192,
+            0.05044222621072842,
+            0.0625485936724861
+        ]
+    },
+    "0.589708081621677-4-232": {
+        "average clique similarity": 0.589708081621677,
+        "clique": [
+            "2- Mrs Clinton is a he",
+            "1- Secretary Clinton h",
+            "3- Secretary Clinton h",
+            "4- Secretary Clinton h"
+        ],
+        "median tf-idf score": 0.8689378415292786,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dMrs Clinton is a healthy   old female whose current medical conditions include hypothyroidiam and seasonal pollen allergies,\u201d wrote Dr Lisa Bardack, Clinton\u2019s doctor since 2001, in a health statement provided by Clinton\u2019s campaign.",
+            "\u201dSecretary Clinton has been experiencing a cough related to allergies,\u201d Dr Lisa R Bardack said in the statement.",
+            "\u201cSecretary Clinton has been experiencing a cough related to allergies,\u201d Lisa R Bardack, Clinton\u2019s physician, said in the statement.",
+            "\u201cSecretary Clinton has been experiencing a cough related to allergies,\u201d said Lisa Bardack, Clinton\u2019s physician, in a statement."
+        ],
+        "tf-idf score": [
+            0.9359736033631421,
+            0.8662699414447126,
+            0.8689378415292786,
+            0.8689378415292786
+        ]
+    },
+    "0.5933316081723353-4-509": {
+        "average clique similarity": 0.5933316081723353,
+        "clique": [
+            "1- It s a beautiful da",
+            "2- It s a beautiful da",
+            "0-It s a beautiful day",
+            "4- It s a beautiful da"
+        ],
+        "median tf-idf score": 0.24828883373607685,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201dIt\u2019s a beautiful day in New York,\u201d Clinton yelled to press waiting across the street.",
+            "\u201dIt\u2019s a beautiful day in New York,\u201d she added, while smiling and waving to supporters on the street before getting into her motorcade.",
+            "It\u2019s a beautiful day in New York.",
+            "\u201cIt\u2019s a beautiful day in New York."
+        ],
+        "tf-idf score": [
+            0.6674656004421037,
+            0.2868645747411333,
+            0.20971309273102037,
+            0.20971309273102037
+        ]
+    },
+    "0.6589859908040618-3-390": {
+        "average clique similarity": 0.6589859908040618,
+        "clique": [
+            "3-She was put on antib",
+            "2-Clinton  68  was dia",
+            "0-The physician said C"
+        ],
+        "median tf-idf score": 1.06419704631227,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "She was put on antibiotics, and advised to rest and modify her schedule.",
+            "Clinton, 68, was diagnosed on Friday with pneumonia, and \u201dwas put on antibiotics, and advised to rest and modify her schedule,\u201d Dr Lisa Bardack said in a statement.",
+            "The physician said Clinton has had an   cough, and that during a   examination Friday, the candidate was diagnosed with pneumonia, put on antibiotics, advised to rest and modify her schedule."
+        ],
+        "tf-idf score": [
+            0.2889819071044182,
+            1.06419704631227,
+            1.1286503626470388
+        ]
+    }
+}

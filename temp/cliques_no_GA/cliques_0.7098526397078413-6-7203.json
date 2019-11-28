@@ -1,0 +1,966 @@
+{
+    "0.14527500773315408-3-328": {
+        "average clique similarity": 0.14527500773315408,
+        "clique": [
+            "5-We still have grievi",
+            "1-We all know I m guil",
+            "0-Hoping for peace for"
+        ],
+        "median tf-idf score": 0.059303006327604324,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "We still have grieving families, a grieving community.",
+            "We all know I\u2019m guilty\u201d.",
+            "Hoping for peace for survivors and families, Of the verdict, Lance said: \u201dWe needed that\u201d."
+        ],
+        "tf-idf score": [
+            0.05534671705058166,
+            0.059303006327604324,
+            0.3390216995352466
+        ]
+    },
+    "0.15264717122764385-3-187": {
+        "average clique similarity": 0.15264717122764385,
+        "clique": [
+            "1- That was it   Roof ",
+            "0-They argued that the",
+            "3-He talked about Roof"
+        ],
+        "median tf-idf score": 0.7152343191491175,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201dThat was it,\u201d Roof said.",
+            "They argued that the Federal Death Penalty Act \u201dis unconstitutional, no one can be lawfully sentenced to death or executed under it, no matter what his crimes\u201d.",
+            "He talked about Roof\u2019s plan to kill himself as evidence that this act was not as calculated as the prosecution had argued, claiming that Roof had no \u201cescape plan."
+        ],
+        "tf-idf score": [
+            0.7152343191491175,
+            0.3804664332738178,
+            0.7405178023837616
+        ]
+    },
+    "0.15385631425110066-3-157": {
+        "average clique similarity": 0.15385631425110066,
+        "clique": [
+            "0- Charleston is still",
+            "1-    He is simply reg",
+            "3- He is evil "
+        ],
+        "median tf-idf score": 0.7471609133499585,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201dCharleston is still healing from Roof\u2019s horrific, racially motivated crime, as is our nation,\u201d Cohen said in the statement.",
+            ".. \u2019He is simply regurgitating, in whole paragraphs, slogans and facts  \u2014   bits and pieces of facts that he downloaded from the internet directly into his brain.\u2019 \u201d Roof is facing separate murder charges brought by the state of South Carolina, which is also seeking the death penalty.",
+            "\u201cHe is evil."
+        ],
+        "tf-idf score": [
+            0.7471609133499585,
+            0.9627385648062059,
+            0.0038159223158845935
+        ]
+    },
+    "0.15787377216334142-3-164": {
+        "average clique similarity": 0.15787377216334142,
+        "clique": [
+            "5-Prosectors introduce",
+            "0-And they watched a v",
+            "4-The prosecution s ev"
+        ],
+        "median tf-idf score": 0.5869371084446602,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Prosectors introduced and played Dylann Roof\u2019s   video confession during the third day of Roof\u2019s federal death penalty trial.",
+            "And they watched a video of Roof laughing after admitting he killed the victims.",
+            "The prosecution\u2019s evidence also included surveillance video footage of Roof entering and leaving the church."
+        ],
+        "tf-idf score": [
+            0.7824687686703075,
+            0.49903599440059976,
+            0.5869371084446602
+        ]
+    },
+    "0.1610158157727006-3-148": {
+        "average clique similarity": 0.1610158157727006,
+        "clique": [
+            "4-Jurors heard testimo",
+            "5-   At the moment the",
+            "3-During Sheppard s te"
+        ],
+        "median tf-idf score": 1.0023815599957024,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Jurors heard testimony from shooting survivor Polly Sheppard, a    retired nurse who was in attendance at the Bible study session in the church the night that Roof launched his attack.",
+            "\u201d  At the moment the verdict was read, she said, the family members \u201clooked at each other with smiles, like, \u2018Hallelujah, God is still in the   business.\u2019\u200a\u201d   Roof\u2019s guilt in the killings was essentially uncontested; prosecutors showed the jury Roof\u2019s interview with FBI agents in which he calmly confessed to the killings and complained that he was \u201cworn out\u201d after pumping more than 60 bullets into his victims.",
+            "During Sheppard\u2019s testimony, the prosecution revealed that she had called 911 while Roof was still inside the church."
+        ],
+        "tf-idf score": [
+            1.0023815599957024,
+            1.242923466422079,
+            0.7976259183621757
+        ]
+    },
+    "0.16614836047933548-3-395": {
+        "average clique similarity": 0.16614836047933548,
+        "clique": [
+            "5-   The federal death",
+            "1-Federal prosecutors ",
+            "0-The last person give"
+        ],
+        "median tf-idf score": 0.4297770382871905,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201d  The federal death penalty is rarely imposed; the last time was more than a decade ago.",
+            "Federal prosecutors are seeking a death sentence.",
+            "The last person given a federal death sentence was bomber Dzhokhar Tsarnaev in 2015 after he was convicted for his role in killing four people and wounding others in the 2013 Boston Marathon, according to the Death Penalty Information Center, a  ."
+        ],
+        "tf-idf score": [
+            0.4297770382871905,
+            0.22871598518650066,
+            0.5958855722031131
+        ]
+    },
+    "0.1701587323269358-3-123": {
+        "average clique similarity": 0.1701587323269358,
+        "clique": [
+            "1-During closing argum",
+            "5-His attorney  David ",
+            "0- Waited until they w"
+        ],
+        "median tf-idf score": 1.0421922334721556,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "During closing arguments on Thursday, defense attorney David Bruck asked the jury to consider why Roof did what he did.",
+            "His attorney, David Bruck, a death penalty specialist, told the jury he expected them to find Roof guilty, but he repeatedly tried to inject the notion that Roof was mentally or emotionally unstable.",
+            "\u2019Waited until they were at their most vulnerable\u2019 \u201dHe needs to be held accountable for every bullet,\u201d Assistant U S Attorney Nathan Williams told the jury, emphasizing what he said was the depth of Roof\u2019s hatred."
+        ],
+        "tf-idf score": [
+            0.7351416141026397,
+            1.0421922334721556,
+            1.0540879932802993
+        ]
+    },
+    "0.17202981331643227-3-135": {
+        "average clique similarity": 0.17202981331643227,
+        "clique": [
+            "4-Experts have suggest",
+            "5- There s no win in t",
+            "3-I have no questions "
+        ],
+        "median tf-idf score": 0.014901473245151304,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Experts have suggested this leaves Roof, a high school dropout with no legal training, much more likely to be sentenced to death.",
+            "\u201cThere\u2019s no win in this.",
+            "I have no questions."
+        ],
+        "tf-idf score": [
+            0.5465854869141656,
+            0.014901473245151304,
+            0.007631844631769187
+        ]
+    },
+    "0.17227564115155283-3-156": {
+        "average clique similarity": 0.17227564115155283,
+        "clique": [
+            "4-  I m going to leave",
+            "0- What was the explan",
+            "3-   You have taken an"
+        ],
+        "median tf-idf score": 0.8935268265625634,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201c\u2018I\u2019m going to leave you here to tell the story.",
+            "\u201dWhat was the explanation?\u201d Bruck asked the jury to \u201dlook beyond the surface\u201d and to ask, \u201dIs there something more to this story?\u201d Prosecutors presented Roof as a \u201dcold and calculating\u201d killer.",
+            "\u201d \u201cYou have taken an oath to look beyond on the surface, to think everything through, to question everything,\u201d Bruck said, in an effort to send the jurors a message geared toward the next phase of the trial where they decide Roof\u2019s penalty."
+        ],
+        "tf-idf score": [
+            0.08405743808452053,
+            0.8935268265625634,
+            0.9351430062394204
+        ]
+    },
+    "0.17922293119616048-3-346": {
+        "average clique similarity": 0.17922293119616048,
+        "clique": [
+            "2-The victims  family ",
+            "1-The guilt phase of t",
+            "5-  During the trial  "
+        ],
+        "median tf-idf score": 0.8238060119491715,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The victims\u2019 family members, who sat through the trial as lawyers presented graphic crime scene photos and details about Roof\u2019s months of planning for the attack, felt a sense of relief.",
+            "The guilt phase of the trial featured six days of testimony from 30 witnesses, including a recorded confession and excerpts from Roof\u2019s journal, and it painted a picture of a young man filled with racial hatred who spent months planning to murder black people.",
+            "\u201d During the trial, prosecutors documented Roof\u2019s meticulous planning in the seven months leading up to the killings."
+        ],
+        "tf-idf score": [
+            0.8238060119491715,
+            1.0592921818113121,
+            0.5961069451006382
+        ]
+    },
+    "0.18461139000186486-3-235": {
+        "average clique similarity": 0.18461139000186486,
+        "clique": [
+            "5-Prosecutors presente",
+            "1-Roof entered Emanuel",
+            "4-  Among the evidence"
+        ],
+        "median tf-idf score": 0.7784359691254449,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "Prosecutors presented evidence that Roof chose the Emanuel African Methodist Episcopal Church, a historic monument known as Mother Emanuel, because of its spiritual and symbolic importance to the black community.",
+            "Roof entered Emanuel African Methodist Episcopal Church in downtown Charleston on the evening of June 17, 2015, and, for nearly an hour, sat among a dozen people at a Bible study before opening fire during the worshippers\u2019 final prayer.",
+            "\u201d Among the evidence presented to jurors by the prosecution were horrific images from inside the Mother Emanuel AME church in the aftermath of the shooting, with victims lying on the ground bleeding and apparently attempting to hide from their killer."
+        ],
+        "tf-idf score": [
+            0.7784359691254449,
+            0.8311307497253417,
+            0.5322890899145907
+        ]
+    },
+    "0.18528246228050937-3-49": {
+        "average clique similarity": 0.18528246228050937,
+        "clique": [
+            "3-Then on the first da",
+            "1-Roof has asked to re",
+            "0-That phase of his tr"
+        ],
+        "median tf-idf score": 0.7242124036926869,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "Then on the first day of the trial, Roof told the judge that he wished for Bruck to act as lead counsel, but only during the guilt phase.",
+            "Roof has asked to represent himself in the penalty phase of the trial, which is scheduled to begin Jan. 3.",
+            "That phase of his trial is expected to start on Tuesday, January 3."
+        ],
+        "tf-idf score": [
+            0.7512480767049453,
+            0.7242124036926869,
+            0.18613739611965768
+        ]
+    },
+    "0.18709659252655622-3-369": {
+        "average clique similarity": 0.18709659252655622,
+        "clique": [
+            "3-  Referring to Roof ",
+            "5-Prosecutors read lin",
+            "2-He spent months scou"
+        ],
+        "median tf-idf score": 0.6774180543475329,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201d Referring to Roof\u2019s manifesto and website where he discussed researching topics such as the Trayvon Martin shooting and    crime, Bruck said that Roof was \u201csimply regurgitating\u201d from \u201cbits and pieces of stuff he has downloaded directly from the internet into his brain.",
+            "Prosecutors read lines from a journal found in Roof\u2019s car and the manifesto he posted online, and they told jurors that Roof wanted to incite a race war.",
+            "He spent months scouting potential sites for the attack, bought a gun and hundreds of rounds of ammunition and railed against blacks and Jews in his journal and online manifesto."
+        ],
+        "tf-idf score": [
+            1.1163893260554203,
+            0.6774180543475329,
+            0.26596963312806815
+        ]
+    },
+    "0.1929061507648688-3-279": {
+        "average clique similarity": 0.1929061507648688,
+        "clique": [
+            "0-Lance said she  kind",
+            "3-  Her testimony clos",
+            "2-One of the survivors"
+        ],
+        "median tf-idf score": 0.919413327867707,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "Lance said she \u201dkind of lost it a little bit\u201d when she saw pictures of the crime scene for the first time.",
+            "\u201d Her testimony closed with one of the most dramatic moments of the trial when defense attorney David Bruck asked Sanders what Roof said to her before for fleeing the crime scene.",
+            "One of the survivors,    retired nurse Polly Sheppard, said Roof told her she was being spared so she could recount the story of what he had done."
+        ],
+        "tf-idf score": [
+            0.411075887596594,
+            1.0168747308449517,
+            0.919413327867707
+        ]
+    },
+    "0.19868602838788585-3-180": {
+        "average clique similarity": 0.19868602838788585,
+        "clique": [
+            "3-Prosecutors opened a",
+            "2-After receiving a wa",
+            "0- He sat and waited u"
+        ],
+        "median tf-idf score": 0.5180612499602862,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "Prosecutors opened and concluded their case by putting two survivors from the attack  \u2014   church parishioners Felicia Sanders and Polly Sheppard, who, like the victims, were at Emanuel AME Church to attend a Wednesday night Bible study that evening.",
+            "After receiving a warm welcome from parishioners when he arrived at the Bible study, Roof waited until they had closed their eyes in prayer before opening fire, witnesses testified.",
+            "\u201dHe sat and waited until they were at their most vulnerable\u201d."
+        ],
+        "tf-idf score": [
+            0.5180612499602862,
+            0.6043200742582202,
+            0.044095105904229555
+        ]
+    },
+    "0.2056104030137448-3-170": {
+        "average clique similarity": 0.2056104030137448,
+        "clique": [
+            "2- You can see what ki",
+            "3-  Williams called Ro",
+            "0-Williams  in his clo"
+        ],
+        "median tf-idf score": 0.7223987150392059,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dYou can see what kind of hatred he had: a vast hatred that was cold and calculated,\u201d Assistant U S Attorney Nathan Williams said.",
+            "\u201d Williams called Roof \u201ca man of immense hatred\u201d but also said he showed \u201ctremendous cowardice\u201d in targeting the \u201cmost vulnerable.",
+            "Williams, in his closing, said Roof\u2019s \u201dmessage of hatred was eclipsed by the goodness of those people\u201d."
+        ],
+        "tf-idf score": [
+            0.5162986141507017,
+            0.7223987150392059,
+            0.87925567760672
+        ]
+    },
+    "0.20717827890765525-3-505": {
+        "average clique similarity": 0.20717827890765525,
+        "clique": [
+            "5- He executed them be",
+            "3-  During his closing",
+            "0- The parishioners co"
+        ],
+        "median tf-idf score": 0.3534442834392453,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cHe executed them because he believes they are nothing but animals,\u201d prosecutor Nathan Williams said in his closing argument, addressing a somber jury that had seen   photos of all the dead, including Susie Jackson, 87, the oldest victim, into whom Roof had emptied an entire   magazine from his Glock .",
+            "\u201d During his closing argument, assistant prosecutor Nathan Williams told the jurors, \u201dWhat we\u2019ve seen over the last six days is a tremendous, tremendous amount of hatred.",
+            "\u201dThe parishioners could not have seen the hatred in his heart,\u201d Williams said."
+        ],
+        "tf-idf score": [
+            0.9749731028067972,
+            0.3534442834392453,
+            0.28034914262215627
+        ]
+    },
+    "0.21105679271058553-3-378": {
+        "average clique similarity": 0.21105679271058553,
+        "clique": [
+            "0-Roof had told the FB",
+            "1-He said he felt he  ",
+            "3-  Roof had said duri"
+        ],
+        "median tf-idf score": 0.6094557903937577,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Roof had told the FBI he wanted to start a race war.",
+            "He said he felt he \u201dhad to\u201d commit the crime because \u201dno one else was brave enough,\u201d and explained to the agents that he believed white people \u201dalready are the   citizens\u201d.",
+            "\u201d Roof had said during his confession to the FBI that he decided on the church as a target because he believed that a group of worshippers were unlikely to shoot back."
+        ],
+        "tf-idf score": [
+            0.5259275095073485,
+            0.6094557903937577,
+            0.7093742985533473
+        ]
+    },
+    "0.21230521820565987-3-427": {
+        "average clique similarity": 0.21230521820565987,
+        "clique": [
+            "5-Many friends and rel",
+            "3-The verdict capped o",
+            "0-Specifically  the ju"
+        ],
+        "median tf-idf score": 0.3877317475196971,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Many friends and relatives of the dead attended the trial, in the historic heart of the city where the Civil War began, and many sat with their eyes closed tight as they listened to the verdict.",
+            "The verdict capped off the    guilt phase of the trial where the jury heard six days of testimony from the prosecution.",
+            "Specifically, the jury wanted to see the portion where Roof was unsure of how many people he had killed."
+        ],
+        "tf-idf score": [
+            0.2948473354450139,
+            0.3877317475196971,
+            0.748546903191435
+        ]
+    },
+    "0.21530906411570458-3-437": {
+        "average clique similarity": 0.21530906411570458,
+        "clique": [
+            "0-He wrote in a   raci",
+            "4-Roof stated both dur",
+            "5-He said he chose Mot"
+        ],
+        "median tf-idf score": 0.6919329184253039,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "He wrote in a   racist rant that he \u201dchose Charleston because it is most historic city in my state, and at one time had the highest ratio of blacks to Whites in the country\u201d.",
+            "Roof stated both during questioning and in written manifestos that he had hoped his shooting attack at the Mother Emanuel AME church, a historic black house of worship in a city with a long history of racial strife, would spark a race war.",
+            "He said he chose Mother Emanuel because it was the South\u2019s oldest black church and he \u201cknew that would be a place to get a small amount of black people in one area."
+        ],
+        "tf-idf score": [
+            0.32980826455097306,
+            0.8666115374959575,
+            0.6919329184253039
+        ]
+    },
+    "0.2154882436434257-3-186": {
+        "average clique similarity": 0.2154882436434257,
+        "clique": [
+            "1-Less than 24 hours a",
+            "4-Nine white jurors an",
+            "5-A federal jury took "
+        ],
+        "median tf-idf score": 0.7930554844992346,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Less than 24 hours after the massacre, Roof gave a   taped interview to FBI agents, part of which was played for the jury.",
+            "Nine white jurors and three black jurors took less than three hours to come to a unanimous decision on the charges.",
+            "A federal jury took less than two hours to reach its decision, following a   trial in which Roof, 22, a   white supremacist, chose to remain silent and motionless amid a barrage of testimony and evidence so thorough and devastating that his mother, watching from the third row, suffered a heart attack on the first day."
+        ],
+        "tf-idf score": [
+            0.7930554844992346,
+            0.29227582270881947,
+            0.9882785799205498
+        ]
+    },
+    "0.22161369148560983-3-353": {
+        "average clique similarity": 0.22161369148560983,
+        "clique": [
+            "2-The defense did not ",
+            "3-On Bruck s telling o",
+            "4-Bruck argued that Ro"
+        ],
+        "median tf-idf score": 0.8588158149858541,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The defense did not call any witnesses after the trial judge blocked them from presenting evidence of Roof\u2019s mental state during the guilt phase of the trial.",
+            "On Bruck\u2019s telling of the jury to examine the \u201cwhy,\u201d the prosecution said that the evidence of why Roof did what he did can be found in his journal, his website, and the confession that he gave to the FBI \u201cHe is not shy about explaining what he did,\u201d the prosecution told the jury, calling Roof \u201ceager\u201d to tell his story.",
+            "Bruck argued that Roof didn\u2019t understand the full weight of his actions, and tried to raise doubts about Roof\u2019s mental state, however Judge Gergel sustained objections by the prosecution, ruling that such considerations wouldn\u2019t be relevant until the sentencing phase of the trial."
+        ],
+        "tf-idf score": [
+            0.7576979197457782,
+            0.9573469111721646,
+            0.8588158149858541
+        ]
+    },
+    "0.24919081610079963-3-505": {
+        "average clique similarity": 0.24919081610079963,
+        "clique": [
+            "0-What s next  Roof pl",
+            "4-Roof was also found ",
+            "3-Roof  who confessed "
+        ],
+        "median tf-idf score": 0.8791341972281536,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "What\u2019s next, Roof pleaded not guilty to the 33 federal charges, including hate crime charges for allegedly targeting his victims on the basis of their race and religion.",
+            "Roof was also found guilty of three counts of violating the Hate Crime Act involving an attempt to kill, one for each of the three survivors.",
+            "Roof, who confessed to the June 17, 2015, killings at the historic black church, was found guilty of all charges ranging from murder to federal hate crimes."
+        ],
+        "tf-idf score": [
+            0.7734271331649367,
+            0.8791341972281536,
+            1.089835490334086
+        ]
+    },
+    "0.255077642863871-3-505": {
+        "average clique similarity": 0.255077642863871,
+        "clique": [
+            "5-Roof told FBI interr",
+            "1-Roof said he had bee",
+            "0- When Roof searched "
+        ],
+        "median tf-idf score": 0.7723530969013149,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Roof told FBI interrogators that he \u201chad to\u201d kill blacks because they rape white women; computer records showed that he had researched \u201cblack on white\u201d crime and spent time on white supremacist sites.",
+            "Roof said he had been inspired after he searched on Google for the phrase \u201dblack on white crime\u201d in reaction to the killing of    Trayvon Martin, who was black, by neighborhood watch volunteer George Zimmerman.",
+            "\u201dWhen Roof searched \u2019black on white crime,\u2019 he found a flood of white supremacist propaganda."
+        ],
+        "tf-idf score": [
+            0.7723530969013149,
+            1.0331706399224538,
+            0.5981006597346269
+        ]
+    },
+    "0.25677055691377304-3-283": {
+        "average clique similarity": 0.25677055691377304,
+        "clique": [
+            "3-Sanders  whose    so",
+            "0-Jurors saw a witness",
+            "2- I am just overjoyed"
+        ],
+        "median tf-idf score": 0.5968999704727824,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Sanders, whose    son Tywanza Sanders was shot and killed by Roof, was the first witness called by the prosecution.",
+            "Jurors saw a witness whose son was killed sobbing on the stand.",
+            "\u201dI am just overjoyed that the judicial system, the jurors, saw fit to give us this triumph,\u201d said Sharon Risher, 58, whose mother Ethel Lance was killed."
+        ],
+        "tf-idf score": [
+            0.8156019283510813,
+            0.3795533844545999,
+            0.5968999704727824
+        ]
+    },
+    "0.2751709673420806-3-330": {
+        "average clique similarity": 0.2751709673420806,
+        "clique": [
+            "0-His lawyers said if ",
+            "5-Roof had offered to ",
+            "2-He had offered to pl"
+        ],
+        "median tf-idf score": 0.5854112788136508,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "His lawyers said if federal prosecutors removed the death penalty, Roof would \u201dwithdraw this motion and plead guilty as charged to all counts in the indictment\u201d.",
+            "Roof had offered to plead guilty and accept life in prison, but the U S Justice Department determined that the circumstances were so egregious that they warranted seeking Roof\u2019s execution.",
+            "He had offered to plead guilty if prosecutors would forgo seeking the death penalty, which they refused."
+        ],
+        "tf-idf score": [
+            0.9376062692465112,
+            0.5854112788136508,
+            0.29446378274311386
+        ]
+    },
+    "0.27537464488752383-3-505": {
+        "average clique similarity": 0.27537464488752383,
+        "clique": [
+            "0-He also faces nine c",
+            "2-Roof also is due to ",
+            "5-Roof also faces a se"
+        ],
+        "median tf-idf score": 0.6485834004039575,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He also faces nine counts of murder and other charges in the state court system.",
+            "Roof also is due to stand trial next year on state murder charges.",
+            "Roof also faces a separate state murder trial in January, which also carries a potential death penalty."
+        ],
+        "tf-idf score": [
+            0.21090522531409808,
+            0.6485834004039575,
+            0.7616681215629163
+        ]
+    },
+    "0.2770155005188884-3-505": {
+        "average clique similarity": 0.2770155005188884,
+        "clique": [
+            "2-Roof  22  showed no ",
+            "4-Roof was also convic",
+            "5- U S District Court "
+        ],
+        "median tf-idf score": 0.8886631899459528,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Roof, 22, showed no emotion as the guilty verdicts were read on 33 charges of federal hate crimes resulting in death, obstruction of religion and firearms violations.",
+            "Roof was also convicted on nine counts of obstruction of exercise of religion resulting in death three counts of obstruction of exercise of religion involving an attempt to kill and use of a dangerous weapon and nine counts of use of a firearm to commit murder during and in relation to a crime of violence.",
+            "(U S District Court for the District of South Carolina)   Under federal law, he was charged with hate crimes resulting in death, obstruction of religion and firearms violations."
+        ],
+        "tf-idf score": [
+            0.8886631899459528,
+            1.0181662332889136,
+            0.6700857731125909
+        ]
+    },
+    "0.2811506357644548-5-63": {
+        "average clique similarity": 0.2811506357644548,
+        "clique": [
+            "2-The panel will retur",
+            "5-Read the victims  st",
+            "0-Next month  the jury",
+            "4-Barring appeal  the ",
+            "3-Now the jury will pr"
+        ],
+        "median tf-idf score": 0.6171826697799347,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Washington Post",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "The panel will return on Jan. 3 to decide whether Roof should be sentenced to death or life in prison.",
+            "Read the victims\u2019 stories View Graphic     Read the victims\u2019 stories  Judge Richard M Gergel dismissed the jury for the holidays and told them to return on Jan. 3, when they will hear prosecution and defense arguments about whether Roof should be executed or sentenced to life in prison without parole.",
+            "Next month, the jury will wrestle with whether to sentence Roof to the death penalty.",
+            "Barring appeal, the conviction means that Roof, 22, could either spend the rest of his life in prison or be subject to the death penalty.",
+            "Now the jury will prepare to hear more evidence and testimony during a penalty phase, scheduled to start on Jan. 3, 2017, where they will decide whether to sentence the      white supremacist to death or life in prison without parole."
+        ],
+        "tf-idf score": [
+            0.5704009317538248,
+            0.9262287299631353,
+            0.642779648948092,
+            0.6171826697799347,
+            0.5632231860167246
+        ]
+    },
+    "0.3042466078028409-3-380": {
+        "average clique similarity": 0.3042466078028409,
+        "clique": [
+            "4-In addition to these",
+            "0-His trial in that ca",
+            "1-That trial is schedu"
+        ],
+        "median tf-idf score": 0.1714108829672762,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "In addition to these federal convictions, Roof will also face a trial on state charges, scheduled for January.",
+            "His trial in that case is also scheduled to start in January.",
+            "That trial is scheduled to begin Jan. 17."
+        ],
+        "tf-idf score": [
+            0.7186053291648606,
+            0.16940548126353694,
+            0.1714108829672762
+        ]
+    },
+    "0.3063044923027212-4-245": {
+        "average clique similarity": 0.3063044923027212,
+        "clique": [
+            "2- The jury in avowed ",
+            "0-The   white supremac",
+            "3- Dylann Roof  the wh",
+            "4-A South Carolina jur"
+        ],
+        "median tf-idf score": 1.2841423302874486,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            " The jury in avowed white supremacist Dylann Roof\u2019s federal hate crimes trial found him guilty on all counts on Thursday for gunning down nine black parishioners at a historic church in Charleston, South Carolina, last year.",
+            "The   white supremacist has admitted to the killings.",
+            " Dylann Roof, the white supremacist who shot and killed nine people at Emanuel AME Church in Charleston, South Carolina, was convicted Thursday of all 33 counts, setting the stage for the jury to decide whether he will get the death penalty.",
+            "A South Carolina jury has found Dylann Roof, the   white supremacist who killed nine black parishioners in a Charleston church in June 2015, guilty of all 33 federal charges he faced, including hate crimes, murder, attempted murder and obstruction of religion."
+        ],
+        "tf-idf score": [
+            1.244101335068592,
+            0.1522730338515,
+            1.3338391452708918,
+            1.3241833255063051
+        ]
+    },
+    "0.3128098915954147-4-120": {
+        "average clique similarity": 0.3128098915954147,
+        "clique": [
+            "0-Clementa Pinckney  4",
+            "5-Clementa Pinckney wa",
+            "4-The charges Roof fac",
+            "3-Clementa Pinckney  R"
+        ],
+        "median tf-idf score": 0.1394477275612677,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Clementa Pinckney, 41, with blood streaming from his body.",
+            "Clementa Pinckney was shown on the screen.",
+            "The charges Roof faced included nine counts of violating the Hate Crime Act resulting in death  \u2014   one for each of his victims, including Reverend Clementa Pinckney, a state senator.",
+            "Clementa Pinckney, Rev."
+        ],
+        "tf-idf score": [
+            0.059789199700381705,
+            0.21910625542215367,
+            0.9060653331969263,
+            0.04275196781342369
+        ]
+    },
+    "0.3167318834494661-5-505": {
+        "average clique similarity": 0.3167318834494661,
+        "clique": [
+            "3-One unknown factor h",
+            "4-Sentencing has been ",
+            "2-Roof plans to repres",
+            "0-Roof has said he wan",
+            "5-Roof has said he wil"
+        ],
+        "median tf-idf score": 0.6355904683386308,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Reuters",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "One unknown factor hanging over the trial is whether Roof will go on to represent himself during the penalty phase, which he has expressed to the judge that he plans to do.",
+            "Sentencing has been scheduled for January, and Roof has been cleared by Judge Richard Gergel to represent himself in those proceedings.",
+            "Roof plans to represent himself during the penalty phase.",
+            "Roof has said he wants to represent himself in that part of the case.",
+            "Roof has said he will represent himself during that phase, and Bruck was apparently trying to help his client in advance of that by giving the jury some justification to spare his life."
+        ],
+        "tf-idf score": [
+            0.6828557803789842,
+            0.58190287108623,
+            0.5051693873332613,
+            0.6355904683386308,
+            1.037315869345186
+        ]
+    },
+    "0.3370050855360589-3-505": {
+        "average clique similarity": 0.3370050855360589,
+        "clique": [
+            "4-  I m not going to  ",
+            "1-When she said no  Ro",
+            "3-  Sanders  remark ab"
+        ],
+        "median tf-idf score": 0.6135600629706773,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201c\u2018I\u2019m not going to,\u2019\u201d she said Roof told her.",
+            "When she said no, Roof told her: \u201dI\u2019m not going to.",
+            "\u201d Sanders\u2019 remark about Roof going to hell prompted a mistrial motion from the defense, arguing that she was inappropriately commenting on what sentence she thought Roof deserved."
+        ],
+        "tf-idf score": [
+            0.6135600629706773,
+            0.6135600629706773,
+            0.7538218074748709
+        ]
+    },
+    "0.3394073616503577-3-28": {
+        "average clique similarity": 0.3394073616503577,
+        "clique": [
+            "2-In the aftermath of ",
+            "4-Instead  the most ta",
+            "5-Photos showing Roof "
+        ],
+        "median tf-idf score": 0.4168627548911451,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In the aftermath of the massacre, which intensified the debate about race relations in the United States, Haley led a push that removed the Confederate battle flag from the state capitol grounds in Columbia.",
+            "Instead, the most tangible change in the shooting\u2019s aftermath was the removal of the Confederate flag from the South Carolina statehouse.",
+            "Photos showing Roof posing with the Confederate battle flag prompted South Carolina officials to remove the flag from the state capitol in Columbia."
+        ],
+        "tf-idf score": [
+            0.2944618778082286,
+            0.4168627548911451,
+            0.6599866315826274
+        ]
+    },
+    "0.3569262438146985-4-376": {
+        "average clique similarity": 0.3569262438146985,
+        "clique": [
+            "3-In fact  Bruck told ",
+            "2- It is my hope that ",
+            "4-In a statement  Sout",
+            "0-In a statement  Sout"
+        ],
+        "median tf-idf score": 0.5774232777012824,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "In fact, Bruck told the jury that his client was guilty during his opening statement, saying Roof \u201cis the person who did this.",
+            "\u201dIt is my hope that the survivors, the families and the people of South Carolina can find some peace in the fact that justice has been served,\u201d the governor said in a statement.",
+            "In a statement, South Carolina governor Nikki Haley said: \u201cIt is my hope that the survivors, the families, and the people of South Carolina can find some peace in the fact that justice has been served.",
+            "In a statement, South Carolina Gov."
+        ],
+        "tf-idf score": [
+            0.896408403051617,
+            0.5603312364036801,
+            0.5945153189988849,
+            0.13793121246149065
+        ]
+    },
+    "0.3581783443588672-3-505": {
+        "average clique similarity": 0.3581783443588672,
+        "clique": [
+            "1-A jury in Charleston",
+            "5-          CHARLESTON",
+            "0-Charleston  South Ca"
+        ],
+        "median tf-idf score": 1.0629932440270375,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "A jury in Charleston, S C has found Dylann Roof guilty on all 33 counts of federal hate crimes he faced for murdering nine people and attempting to kill three others in the basement of a historically black church.",
+            "          CHARLESTON, S C  \u2014   Dylann Storm Roof, a   dropout who learned to hate black people on the Internet, was convicted Thursday of 33 counts of federal hate crimes for slaughtering nine black parishioners at a church Bible study meeting here last year.",
+            "Charleston, South Carolina (CNN) Esther Lance was torn over how to punish Dylann Roof, the man found guilty of killing her mother and eight others at a Bible study in Charleston, South Carolina, last year."
+        ],
+        "tf-idf score": [
+            1.0629932440270375,
+            1.178741243435497,
+            1.0103985574865844
+        ]
+    },
+    "0.3705559989759825-3-505": {
+        "average clique similarity": 0.3705559989759825,
+        "clique": [
+            "4-Sheppard testified t",
+            "3-He then told her to ",
+            "1-Another witness  Pol"
+        ],
+        "median tf-idf score": 0.5439885409689131,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "Sheppard testified that Roof approached her during the massacre and asked her if he had shot her yet, to which she replied no.",
+            "He then told her to shut up and asked her if she had been shot.",
+            "Another witness, Polly Sheppard, told the jury Roof stood over her with his gun and asked her if she had been shot."
+        ],
+        "tf-idf score": [
+            0.5439885409689131,
+            0.13001927934680443,
+            0.7176933061385563
+        ]
+    },
+    "0.38567206555894945-3-505": {
+        "average clique similarity": 0.38567206555894945,
+        "clique": [
+            "1-Roof s defense attor",
+            "3-Roof s defense couns",
+            "0- Kind of lost it a l"
+        ],
+        "median tf-idf score": 0.57476109552145,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "Roof\u2019s defense attorneys did not call any witnesses, and Roof said he did not want to testify.",
+            "Roof\u2019s defense counsel did very little   of the government\u2019s witnesses, and when the time came to call witnesses on the defendant\u2019s behalf, they called none.",
+            "\u2019Kind of lost it a little bit\u2019 The defense did not call any witnesses."
+        ],
+        "tf-idf score": [
+            0.6852379162808636,
+            0.57476109552145,
+            0.15084987692013752
+        ]
+    }
+}

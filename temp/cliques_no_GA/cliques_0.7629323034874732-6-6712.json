@@ -1,0 +1,666 @@
+{
+    "0.16279361975734022-3-191": {
+        "average clique similarity": 0.16279361975734022,
+        "clique": [
+            "0-The sale will be con",
+            "5- The sale and filing",
+            "1-Gawker Media  the go"
+        ],
+        "median tf-idf score": 1.6141856366980702,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "The sale will be conducted through a bankruptcy court supervised auction, in which other bidders may offer a higher price for the company.",
+            "\u201cThe sale and filing are intended to preserve the value of Gawker Media Group\u2019s pioneering digital news business, safeguard the jobs of journalists and other staff, and allow GMG to fund the appeal against the $130 million judgment in the Hulk Hogan case against the company in a Florida state court,\u201d the statement said.",
+            "Gawker Media, the gossip and news company that lost a   court case in which it was ordered to pay $140 million over a violation of Hulk Hogan\u2019s privacy, has filed for Chapter 11 bankruptcy protection from its creditors."
+        ],
+        "tf-idf score": [
+            0.4830730854681922,
+            1.6672660165030504,
+            1.6141856366980702
+        ]
+    },
+    "0.16490179661249724-3-313": {
+        "average clique similarity": 0.16490179661249724,
+        "clique": [
+            "3-A Chapter 11 filing ",
+            "5- The company is conf",
+            "4-Gawker filed a separ"
+        ],
+        "median tf-idf score": 0.6579954706361187,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "A Chapter 11 filing, which must be approved by a bankruptcy court, protects a company\u2019s assets from creditors and enables it to reorganize its finances under the court\u2019s supervision.",
+            "\u201cThe company is confident it will ultimately prevail in the Hogan lawsuit, but was not able today to obtain from the trial court even a brief stay without onerous conditions to seek relief from the appeals court.",
+            "Gawker filed a separate lawsuit in bankruptcy court on Friday asking the judge to extend the bankruptcy court protections to Denton, Daulerio and other former and current Gawker employees."
+        ],
+        "tf-idf score": [
+            0.5115732383841177,
+            0.6579954706361187,
+            0.8549727360172992
+        ]
+    },
+    "0.16557789581978635-3-123": {
+        "average clique similarity": 0.16557789581978635,
+        "clique": [
+            "2-   Gawker Media s de",
+            "1-Here s what he told ",
+            "0-Denton also told the"
+        ],
+        "median tf-idf score": 1.0689664442010103,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d  Gawker Media\u2019s decision to sell itself came weeks after it was revealed that tech billionaire Peter Thiel was bankrolling Hogan\u2019s civil lawsuit.",
+            "Here\u2019s what he told David: \u201dIt\u2019s harder now for journalists to do stories about billionaires, like Peter Thiel, without having at the back of their minds the fear that maybe somebody   you know, with unlimited resources is going to come after us and can my organization afford to defend me?\u201d According to the Recode website, Gawker and founder Denton are planning to sell the company: \u201dGawker has told [its] employees it still plans to fight the   case and to operate its publishing business while it does so.",
+            "Denton also told the Times that there was a    chance he would have to sell a controlling interest to keep the company solvent."
+        ],
+        "tf-idf score": [
+            1.0689664442010103,
+            1.3404524138837615,
+            0.4371295590667598
+        ]
+    },
+    "0.17223074995910234-3-172": {
+        "average clique similarity": 0.17223074995910234,
+        "clique": [
+            "5-Denton bragged that ",
+            "1-After the ruling  it",
+            "0-Denton had defended "
+        ],
+        "median tf-idf score": 0.6361133110724683,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Denton bragged that the news of the bankruptcy filing had boosted Gawker\u2019s traffic on Friday by 13 percent.",
+            "After the ruling, it emerged that a wealthy businessman who had previously been the subject of Gawker\u2019s reporting had been backing Hogan\u2019s case.",
+            "Denton had defended the decision to post the clip, which the website said it had received anonymously."
+        ],
+        "tf-idf score": [
+            0.7168854116514402,
+            0.6361133110724683,
+            0.30576359349093296
+        ]
+    },
+    "0.1779093263163983-3-38": {
+        "average clique similarity": 0.1779093263163983,
+        "clique": [
+            "5-Gawker founder Nick ",
+            "1-But reports out Frid",
+            "3-Gawker had begun tak"
+        ],
+        "median tf-idf score": 0.8606172492844446,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Gawker founder Nick Denton has said he plans to auction off the snarky site he founded 14 years ago in his Manhattan apartment.",
+            "But reports out Friday also said Gawker\u2019s founder, Nick Denton, was trying to find a buyer for the company.",
+            "Gawker had begun taking bids for the company, founded in 2002 by Nick Denton, a former staffer for the Financial Times, according to people at the company."
+        ],
+        "tf-idf score": [
+            0.8606172492844446,
+            0.8859522029185553,
+            0.7504446576328361
+        ]
+    },
+    "0.18081320683042804-3-321": {
+        "average clique similarity": 0.18081320683042804,
+        "clique": [
+            "3-Thiel said he has sp",
+            "0-And  he added  the b",
+            "5-Denton has not yet f"
+        ],
+        "median tf-idf score": 0.6323322049036161,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Thiel said he has spent as much as $10 million to secretly support Hogan\u2019s lawsuit.",
+            "And, he added, the bankruptcy filing protects Ziff Davis, as well.",
+            "Denton has not yet filed for personal bankruptcy, but he\u2019s asking a judge to shield him from the $10 million punitive damage award he owes Hogan so he can remain afloat while he sells his company."
+        ],
+        "tf-idf score": [
+            0.6323322049036161,
+            0.3388264398974846,
+            0.9102214142088109
+        ]
+    },
+    "0.19152375987857828-3-199": {
+        "average clique similarity": 0.19152375987857828,
+        "clique": [
+            "5-The publisher was al",
+            "2-Thiel  through his s",
+            "0-   It s less about r"
+        ],
+        "median tf-idf score": 0.2436672002191133,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "The publisher was also bullish in a statement about the bankruptcy.",
+            "Thiel, through his spokesperson, declined to comment about the bankruptcy.",
+            "\u201d \u201cIt\u2019s less about revenge and more about specific deterrence,\u201d Thiel told the newspaper."
+        ],
+        "tf-idf score": [
+            0.26880614305577477,
+            0.2436672002191133,
+            0.1672643172806288
+        ]
+    },
+    "0.19924122426250493-3-367": {
+        "average clique similarity": 0.19924122426250493,
+        "clique": [
+            "4-The move followed re",
+            "3-The dispute took on ",
+            "0-It turned out  Hogan"
+        ],
+        "median tf-idf score": 0.810540391188752,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The move followed revelations that Hogan\u2019s lawsuit, along with several others against Gawker, were being bankrolled by billionaire investor Peter Thiel, an early backer of Facebook ( ) and a   of PayPal ( ).",
+            "The dispute took on a new coloration last month when billionaire technology investor Peter Thiel  \u2014   a target of Gawker stories  \u2014   revealed that he had bankrolled Hogan\u2019s suit.",
+            "It turned out, Hogan\u2019s case against Gawker was financed by Peter Thiel, the billionaire founder of PayPal who is also a major donor to the Committee to Protect Journalist."
+        ],
+        "tf-idf score": [
+            0.7708184606424823,
+            0.810540391188752,
+            0.8683565775259904
+        ]
+    },
+    "0.20783997853916958-3-367": {
+        "average clique similarity": 0.20783997853916958,
+        "clique": [
+            "0-  Questions about Ga",
+            "5-The Chapter 11 filin",
+            "2- Read the full filin"
+        ],
+        "median tf-idf score": 1.1516094324443902,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201d Questions about Gawker\u2019s fate have swirled since a Florida jury awarded Terry Bollea, better known as Hulk Hogan, $115 million in March in his    lawsuit against the company that owns the gossip website of the same name and other properties.",
+            "The Chapter 11 filing came Friday, just minutes after a Florida judge said Hogan could start slapping liens on Gawker\u2019s property as part of his effort to collect his $140 million jury award against the company.",
+            "\u2019Read the full filing:\u2019] In March, a Florida jury awarded Hulk Hogan $140 million in his lawsuit against Gawker Media, finding the media company violated the wrestler\u2019s privacy by posting a   clip of him having sex with the wife of his best friend, Bubba the Love Sponge."
+        ],
+        "tf-idf score": [
+            1.1193820111348494,
+            1.1516094324443902,
+            1.4408051113459093
+        ]
+    },
+    "0.2098651346292925-3-249": {
+        "average clique similarity": 0.2098651346292925,
+        "clique": [
+            "0-The statement said t",
+            "4-David Houston  an at",
+            "5-Gawker  was forced t"
+        ],
+        "median tf-idf score": 1.1393639486216058,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "The statement said the sale and the bankruptcy filing will allow Gawker Media to appeal the judgment in the Hogan case.",
+            "David Houston, an attorney for Hogan, said: \u201dWe have every intention to continue to pursue our judgment against Gawker and to hold them accountable for violating Mr Bollea\u2019s privacy whether it be in the bankruptcy court or any other court\u201d.",
+            "Gawker \u201cwas forced to file a petition for relief under the Bankruptcy Code on an emergency basis, because, this morning, the debtor was denied a complete, temporary stay in Florida state court to pursue\u201d an appeal of the Hogan verdict, a Gawker rep said in the Manhattan federal court filing."
+        ],
+        "tf-idf score": [
+            1.1393639486216058,
+            1.0072410526547295,
+            1.202354918887225
+        ]
+    },
+    "0.2238540600439974-3-264": {
+        "average clique similarity": 0.2238540600439974,
+        "clique": [
+            "5- The driving force b",
+            "1-   Thiel told The Ne",
+            "2-In a May interview w"
+        ],
+        "median tf-idf score": 1.1618493386206012,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cThe driving force behind the Bollea litigation is Peter Thiel, a billionaire investor, who holds a personal vendetta against the company and has publicly admitted that he funded the Bollea litigation, and other lawsuits against Gawker, to (as the New York Times reports) \u2018try to put the media company out of business,\u2019\u2009\u201d the site\u2019s attorneys say in the bankruptcy filing.",
+            ".. Thiel told The New York Times that backing the lawsuits against Gawker was an act of philanthropy.",
+            "In a May interview with the New York Times, Thiel said Gawker Media \u201cruined people\u2019s lives for no reason,\u201d and that several years ago he began funding a team of lawyers to find and help \u201cvictims\u201d of the media company."
+        ],
+        "tf-idf score": [
+            1.537312836614204,
+            0.7545489105723412,
+            1.1618493386206012
+        ]
+    },
+    "0.2263055347574879-4-112": {
+        "average clique similarity": 0.2263055347574879,
+        "clique": [
+            "4-Gawker vowed to cont",
+            "2-Gawker Media will ma",
+            "0-During the sale proc",
+            "1-The bankruptcy filin"
+        ],
+        "median tf-idf score": 0.5852707382159605,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Gawker vowed to continue operating its seven websites during the bankruptcy process.",
+            "Gawker Media will maintain normal operations during the auction process.",
+            "During the sale process, GMG will maintain normal operations, publishing news and opinion on technology, politics and other interests to its 6 million readers each weekday, and providing advertisers with access to this desirable audience.",
+            "The bankruptcy filing authorizes Gawker\u2019s officers \u201dto commence the process of marketing and selling the assets of the Company and its subsidiaries\u201d."
+        ],
+        "tf-idf score": [
+            0.5649720365934762,
+            0.6055694398384449,
+            0.42242415443692183,
+            0.7547698359805954
+        ]
+    },
+    "0.23636119256927088-4-117": {
+        "average clique similarity": 0.23636119256927088,
+        "clique": [
+            "1-As NPR s David Folke",
+            "0-Thiel was famously o",
+            "3-Thiel  a   of PayPal",
+            "5-Gawker had tried to "
+        ],
+        "median tf-idf score": 0.4143341373809615,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "As NPR\u2019s David Folkenflik reported Thursday: \u201dA Gawker site outed PayPal   Peter Thiel as gay nine years ago and Thiel\u2019s never forgotten.",
+            "Thiel was famously outed as gay by the gossip website in 2007.",
+            "Thiel, a   of PayPal and a Facebook board member, has long been upset with the site\u2019s coverage of him, particularly a 2007 story by a     site that disclosed he is gay.",
+            "Gawker had tried to out Thiel as gay in 2007 before he revealed it himself."
+        ],
+        "tf-idf score": [
+            0.6538308223857554,
+            0.27073022063932695,
+            0.36595435118768554,
+            0.46271392357423735
+        ]
+    },
+    "0.2697375666004418-3-367": {
+        "average clique similarity": 0.2697375666004418,
+        "clique": [
+            "2-Hogan sued Gawker Me",
+            "1-A massive chunk of t",
+            "3-1 million   lawsuit "
+        ],
+        "median tf-idf score": 0.7707940846450013,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Hogan sued Gawker Media in 2012 after it posted a   clip of the professional wrestler having sex.",
+            "A massive chunk of those liabilities rests in a punishment levied on the company for making public a video in which professional wrestler Hulk Hogan was seen having sex with a woman who was married to a man who has been called Hogan\u2019s best friend.",
+            "1 million   lawsuit to professional wrestler Hulk Hogan in March."
+        ],
+        "tf-idf score": [
+            0.790520987623872,
+            0.7707940846450013,
+            0.41618694533924855
+        ]
+    },
+    "0.2744641370262388-3-367": {
+        "average clique similarity": 0.2744641370262388,
+        "clique": [
+            "1-Update at 2 30 p  m ",
+            "5-Ziff Davis  which ow",
+            "2-The company      inc"
+        ],
+        "median tf-idf score": 0.9381871997620689,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Update at 2:30 p. m. ET: Gawker Confirms Ziff Davis Deal, Gawker Media Group says it has reached an agreement \u201dto sell its seven media brands and other assets to Ziff Davis, a global digital media company which operates in the technology, gaming and lifestyle categories and is a subsidiary of j2 Global, Inc\u201d.",
+            "Ziff Davis, which owns PC Mag and other media outlets, has already put in a bid of between $90\u2009million and $100 million to buy the online publication.",
+            "The company  \u2014   including its seven media brands and other assets  \u2014   plans to be put up for auction, with an opening bid of $90 million to $100 million from PC Mag owner Ziff Davis, a source confirmed to BuzzFeed News."
+        ],
+        "tf-idf score": [
+            1.3254047734150252,
+            0.7069133399987865,
+            0.9381871997620689
+        ]
+    },
+    "0.27823379023699146-3-367": {
+        "average clique similarity": 0.27823379023699146,
+        "clique": [
+            "4-Media company Ziff D",
+            "3-These sources said a",
+            "1-But it is also now f"
+        ],
+        "median tf-idf score": 0.9054612855073382,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Media company Ziff Davis LLC has entered an agreement to buy Gawker\u2019s assets for a little less than $100 million, according to people familiar with the matter, but that may be only the initial bid in a   auction likely to take place at the end of July.",
+            "These sources said an opening bid came from Ziff Davis, a digital media company that has offered $90 million.",
+            "But it is also now formally entertaining offers to buy the company and says it has a firm bid from publisher Ziff Davis to buy the entire operation for less than $100 million\u201d."
+        ],
+        "tf-idf score": [
+            1.3121432425466368,
+            0.9054612855073382,
+            0.7238711361196204
+        ]
+    },
+    "0.3009097626136665-3-367": {
+        "average clique similarity": 0.3009097626136665,
+        "clique": [
+            "5-Initial court filing",
+            "1-Our original post co",
+            "0-The New York Times r"
+        ],
+        "median tf-idf score": 0.9065479500912503,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Initial court filings show Gawker has at least 200 creditors, $50 million to $100 million in assets and $100 million to $500 million in liabilities.",
+            "Our original post continues: Gawker filed bankruptcy papers with a court in the Southern District of New York Friday, claiming an estimated $50 million to $100 million in assets and between $100 million and $500 million in liabilities.",
+            "The New York Times reported earlier, citing a person briefed on the plan, that ZiffDavis submitted an opening bid of $90 million to $100 million for Gawker Media."
+        ],
+        "tf-idf score": [
+            0.780927718226367,
+            0.9536015841607497,
+            0.9065479500912503
+        ]
+    },
+    "0.3387159532637692-4-40": {
+        "average clique similarity": 0.3387159532637692,
+        "clique": [
+            "3- John Pendygraft    ",
+            "4-Along with its flags",
+            "1-In addition to its e",
+            "0-Gawker Media owns Ga"
+        ],
+        "median tf-idf score": 0.6829826914028435,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "(John Pendygraft,  )  In addition to Gawker, Gawker Media owns six web brands, including the sports site Deadspin and the tech blog Gizmodo.",
+            "Along with its flagship Gawker site, Gawker Media also publishes consumer websites Gizmodo, Lifehacker, Kotaku, Jalopnik, Deadspin and Jezebel.",
+            "In addition to its eponymous website, Gawker operates several other popular sites, including Deadspin, Jezebel and Gizmodo.",
+            "Gawker Media owns Gawker, Jezebel, Lifehacker, Kotaku, Deadspin, Gizmodo, and Jalopnik."
+        ],
+        "tf-idf score": [
+            0.7623475895444969,
+            0.729802485205333,
+            0.5529369006082012,
+            0.636162897600354
+        ]
+    },
+    "0.3486621380119768-3-367": {
+        "average clique similarity": 0.3486621380119768,
+        "clique": [
+            "3- Gawker Media Group ",
+            "4- Gawker Media LLC  a",
+            "0-Updated on June 10 a"
+        ],
+        "median tf-idf score": 1.3876858227405882,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            " Gawker Media Group, the parent of the news and gossip site Gawker, filed for Chapter 11 bankruptcy protection on Friday and put itself up for sale, in moves designed to shield its assets after it lost a $140.",
+            " Gawker Media LLC, an online publishing pioneer, filed for Chapter 11 bankruptcy and put itself up for sale on Friday after a $140 million court judgment against it in a lawsuit brought by former professional wrestler Hulk Hogan over a sex tape.",
+            "Updated on June 10 at 2:57 p. m. ET, Gawker Media, reeling from the $140 million awarded to former   Hulk Hogan in an    suit, has filed for Chapter 11 bankruptcy, and said it\u2019s being sold to Ziff Davis, the media company that owns PC Magazine and other publications."
+        ],
+        "tf-idf score": [
+            0.9834168986633974,
+            1.3876858227405882,
+            1.6107901867175687
+        ]
+    },
+    "0.34944965716758675-3-287": {
+        "average clique similarity": 0.34944965716758675,
+        "clique": [
+            "3-Hogan  whose real na",
+            "5-Hogan s attorney say",
+            "4-Gawker objected to h"
+        ],
+        "median tf-idf score": 0.6430806930232706,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Hogan, whose real name is Terry Bollea, sued Gawker in 2012 after it posted excerpts of a sex tape featuring him and the wife of a friend, Heather Cole.",
+            "Hogan\u2019s attorney says his client, whose real name is Terry Bollea, plans to keep pummeling Gawker.",
+            "Gawker objected to having Hogan, whose real name is Terry Bollea, hold the collateral and proposed a different arrangement, which the judge rejected."
+        ],
+        "tf-idf score": [
+            0.6987146732364037,
+            0.6430806930232706,
+            0.6400586203184975
+        ]
+    },
+    "0.36073251783617627-3-42": {
+        "average clique similarity": 0.36073251783617627,
+        "clique": [
+            "3-But Gawker s legal o",
+            "2-Freedom of the press",
+            "0-Indeed  Eric Schneid"
+        ],
+        "median tf-idf score": 0.2035183628173757,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "But Gawker\u2019s legal ordeals suggests that \u201cfreedom of the press and the First Amendment may no longer be   shields for the media.",
+            "Freedom of the press is a cornerstone of our nation.",
+            "Indeed, Eric Schneiderman, New York\u2019s attorney general, tweeted: Freedom of the press is a cornerstone of our nation."
+        ],
+        "tf-idf score": [
+            0.628782145911902,
+            0.0628654427039775,
+            0.2035183628173757
+        ]
+    },
+    "0.36948821615228633-4-232": {
+        "average clique similarity": 0.36948821615228633,
+        "clique": [
+            "4-In March  a   jury a",
+            "2-After a   trial in F",
+            "3-After a   trial  a T",
+            "0-Two weeks later  he "
+        ],
+        "median tf-idf score": 0.4117824387450758,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In March, a   jury awarded $60 million to Hogan, 62, for emotional distress and $55 million for economic damages.",
+            "After a   trial in Florida, a jury awarded Hogan $115 million in damages and an additional $25 million in punitive damages.",
+            "After a   trial, a Tampa jury awarded Hogan a total of $140 million in general and punitive damages.",
+            "Two weeks later, he was awarded another $25 million in punitive damages."
+        ],
+        "tf-idf score": [
+            0.39970867004811805,
+            0.43604860229809156,
+            0.4238562074420335,
+            0.3159045965703833
+        ]
+    },
+    "0.3779712690889921-3-367": {
+        "average clique similarity": 0.3779712690889921,
+        "clique": [
+            "0-In 2012 Gawker ran a",
+            "5-In March  Hogan won ",
+            "4-Hogan s lawsuit accu"
+        ],
+        "median tf-idf score": 0.669976170839204,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "In 2012 Gawker ran a     video clip of Hogan having sex with a wife\u2019s friend.",
+            "In March, Hogan won an    lawsuit against Gawker after it posted video online of him having sex with his  \u2019s wife.",
+            "Hogan\u2019s lawsuit accused Gawker, Denton and former Gawker editor A J Daulerio of violating his privacy by publishing a one minute,   edited video clip featuring Hogan having sex with the wife of his   friend, the radio shock jock Bubba the Love Sponge Clem."
+        ],
+        "tf-idf score": [
+            0.6069681184050103,
+            0.669976170839204,
+            0.9292492734535506
+        ]
+    },
+    "0.40818350198160563-3-271": {
+        "average clique similarity": 0.40818350198160563,
+        "clique": [
+            "2- A combination would",
+            "3- A combination would",
+            "4- There s a tremendou"
+        ],
+        "median tf-idf score": 0.49305845197668374,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cA combination would marry Ziff Davis\u2019 strength in   licensing and video with GMG\u2019s premium media brands.",
+            "\u201cA combination would marry Ziff Davis\u2019 strength in   licensing and video with [Gawker Media\u2019s] premium media brands.",
+            "\u201dThere\u2019s a tremendous fit between the two organizations, from brands to audience to monetization,\u201d said a spokesman for Ziff Davis."
+        ],
+        "tf-idf score": [
+            0.49305845197668374,
+            0.7927022780257912,
+            0.36551535808982616
+        ]
+    },
+    "0.5219636782977862-3-367": {
+        "average clique similarity": 0.5219636782977862,
+        "clique": [
+            "5-Our sites will thriv",
+            "4- Our sites will thri",
+            "2-Our sites will thriv"
+        ],
+        "median tf-idf score": 0.22035321747474224,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Our sites will thrive  \u2014   under new ownership  \u2014   and we\u2019ll win in court,\u201d Denton tweeted Friday afternoon.",
+            "\u201dOur sites will thrive  \u2014   under new ownership  \u2014   and we\u2019ll win in court\u201d.",
+            "Our sites will thrive \u00e2\u0080\u0094 under new ownership \u00e2\u0080\u0094 and we\u2019ll win in court."
+        ],
+        "tf-idf score": [
+            0.36909683305757596,
+            0.22035321747474224,
+            0.22035321747474224
+        ]
+    },
+    "0.583624059989187-3-128": {
+        "average clique similarity": 0.583624059989187,
+        "clique": [
+            "4- Even with his billi",
+            "2-Messages to Gawker M",
+            "5- Even with his billi"
+        ],
+        "median tf-idf score": 0.7617780106742349,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201dEven with his billions, Thiel will not silence our writers,\u201d Gawker founder and Chief Executive Nick Denton said on Twitter.",
+            "Messages to Gawker Media were not immediately returned, however Denton posted a defiant tweet after news of the bankruptcy filling hit: Even with his billions, Thiel will not silence our writers.",
+            "\u201cEven with his billions, Thiel will not silence our writers."
+        ],
+        "tf-idf score": [
+            0.7617780106742349,
+            0.9991653646534502,
+            0.14778931129798487
+        ]
+    },
+    "0.9336188170020868-3-90": {
+        "average clique similarity": 0.9336188170020868,
+        "clique": [
+            "3- We are encouraged b",
+            "0- We are encouraged b",
+            "2- We are encouraged b"
+        ],
+        "median tf-idf score": 1.1939373740600792,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cWe are encouraged by the agreement with Ziff Davis, one of the most rigorously managed and profitable companies in digital media,\u201d said Denton, in a statement.",
+            "\u201cWe are encouraged by the agreement with Ziff Davis, one of the most rigorously managed and profitable companies in digital media,\u201d Nick Denton, Gawker Media Group\u2019s (GMG) founder, said in a statement.",
+            "\u201cWe are encouraged by the agreement with Ziff Davis, one of the most rigorously managed and profitable companies in digital media,\u201d Gawker Media founder Nick Denton said in a statement."
+        ],
+        "tf-idf score": [
+            0.7984983243568873,
+            1.2537320289149694,
+            1.1939373740600792
+        ]
+    }
+}

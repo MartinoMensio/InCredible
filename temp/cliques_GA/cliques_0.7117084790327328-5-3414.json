@@ -1,0 +1,226 @@
+{
+    "0.23090993827825113-3-9": {
+        "average clique similarity": 0.23090993827825113,
+        "clique": [
+            "2-One consequence of r",
+            "4- This is great news ",
+            "1-That may not be the "
+        ],
+        "median tf-idf score": 0.980312861653484,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "One consequence of releasing the pages would be making it possible for the families of   victims to sue Saudi Arabia for its involvement in the attack.",
+            "\"This is great news,\" said Jerry Goldman, a lawyer who represents families of victims in a   suit, seeking to sue Saudi Arabia. \"The families are happy just as the American people should be happy that information that has been kept hidden for well over a decade is finally coming to light\".",
+            "That may not be the most welcome news to certain relatives of Sept. 11 victims, who are presently pushing for the House to take up a   bill they hoped would let them sue Saudi Arabia over alleged support for terrorism. They also have been campaigning for the release of the   pages."
+        ],
+        "tf-idf score": [
+            0.8686547894186277,
+            0.980312861653484,
+            1.046544656073488
+        ]
+    },
+    "0.27890792710060325-3-14": {
+        "average clique similarity": 0.27890792710060325,
+        "clique": [
+            "0-The pages allege tha",
+            "3-First reported by  t",
+            "1- Read the    28 page"
+        ],
+        "median tf-idf score": 0.9213111425174134,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "The pages allege that while some of the hijackers were in the U S they were in contact with, and at times received assistance from, people in the Saudi government, including two Saudi intelligence officers.",
+            "First reported by  the file lists some three dozen people who had contact with the hijackers in a section headed \"A Brief Overview of Possible Saudi Government Connections to the September 11th Attacks. \"",
+            "[Read the   '28 pages' on alleged Saudi ties to  ]  All of the Saudis named in the pages released Friday, including several who had been in direct contact with two of the hijackers during their time in the United States prior to the attacks, were investigated by the FBI and CIA, with results detailed in later reports."
+        ],
+        "tf-idf score": [
+            0.9213111425174134,
+            0.7656674397263432,
+            1.154118141813806
+        ]
+    },
+    "0.2969654087890835-3-55": {
+        "average clique similarity": 0.2969654087890835,
+        "clique": [
+            "2-  The House Intellig",
+            "4-Rep  Adam Schiff  a ",
+            "3- If the Obama admini"
+        ],
+        "median tf-idf score": 0.9233160926648322,
+        "publications": [
+            "New York Post",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "[\"The House Intelligence Committee will get the redacted report today or tomorrow,\" said Rep. Adam Schiff ( ) a member of that committee. \"The Senate and House intel committees should then give the formal go ahead to release the report since they originally produced it. \"",
+            "Rep. Adam Schiff, a member of the House Intelligence Committee, said the report will be posted on line soon.",
+            "\"If the Obama administration does not move forward, then we need to pass (the legislation) to have the House Intelligence Committee publish the pages,\" said Rep. Stephen Lynch ( . )."
+        ],
+        "tf-idf score": [
+            1.0007660552481743,
+            0.6845685040976036,
+            0.9233160926648322
+        ]
+    },
+    "0.3678528058425572-5-95": {
+        "average clique similarity": 0.3678528058425572,
+        "clique": [
+            "3-Former Sen  Bob Grah",
+            "1-been in the forefron",
+            "2-By June 30  Graham h",
+            "4-Former Senator Bob G",
+            "0-U S lawmakers had wa"
+        ],
+        "median tf-idf score": 1.2382900776297068,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "CNN",
+            "New York Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Former Sen. Bob Graham, who chaired the committee that carried out the probe, recently said he was told the decision about whether to release the pages would be made by June 12.",
+            "been in the forefront of the  Former Sen. Bob Graham, who chaired the committee that carried out the investigation and has been pushing the White House to release the pages, said Thursday he was \"very pleased\" that the documents would be released.",
+            "By June 30, Graham had grown pessimistic that the documents would be released by the 15th anniversary of the   attack this September, but he told the Daily Beast he was gearing up for   war against Saudi Arabia, in the event the pages were released and the Saudis attempted to discredit them.",
+            "Former Senator Bob Graham, who chaired the committee that carried out the investigation and has been pushing the White House to release the pages, said Thursday he was \"very pleased\" by the news.",
+            "U S lawmakers had wanted to release the documents, but the FBI wanted the pages to remain classified --  and indeed many details in the pages are redacted. As our colleague David Graham reported, former Senator Bob Graham of Florida, who chaired the Senate side of the congressional investigation, has tried to get the pages released for years."
+        ],
+        "tf-idf score": [
+            1.1094496053099754,
+            1.3796124769696485,
+            1.239291445350603,
+            1.2382900776297068,
+            1.1038928466136513
+        ]
+    },
+    "0.45866796731124876-3-78": {
+        "average clique similarity": 0.45866796731124876,
+        "clique": [
+            "3-Intelligences agenci",
+            "4-Sources told CNN tha",
+            "2-But now CNN s source"
+        ],
+        "median tf-idf score": 1.0126473352958199,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Intelligences agencies, law enforcement and the State Department have reviewed and approved the release of the material with \"minimal redactions,\" sources told CNN Much of what's in the 28 pages was quietly released by the government last summer as the 17th file in a cache of FBI documents related to  .",
+            "Sources told CNN that intelligence agencies, law enforcement and the State Department have all reviewed and approved the release of the pages with \"minimal redactions\".",
+            "But now CNN's sources said all of the relevant agencies have agreed to release the 28 pages with \"minimal redactions. \" The Administration's hand might have been forced by bipartisan congressional pressure to pass a bill compelling the release of the documents."
+        ],
+        "tf-idf score": [
+            1.3643902528572316,
+            0.862140437170207,
+            1.0126473352958199
+        ]
+    },
+    "0.46454227599822867-3-46": {
+        "average clique similarity": 0.46454227599822867,
+        "clique": [
+            "1-Abdullah   Saudi Ara",
+            "3-The infamous  28 pag",
+            "0-In a statement  the "
+        ],
+        "median tf-idf score": 1.1014789429435945,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Abdullah   Saudi Arabai's ambassador to the United States, said in a statement: \"The Kingdom of Saudi Arabia welcomes the release of the redacted pages from the 2002 Congressional Joint Inquiry.",
+            "The infamous \"28 pages\" is a redacted section from a 2002 congressional investigation of the   attacks.",
+            "In a statement, the Saudi Embassy in Washington, said: The Kingdom of Saudi Arabia welcomes the release of the redacted pages from the 2002 Congressional Joint Inquiry."
+        ],
+        "tf-idf score": [
+            1.1489532159718625,
+            0.4952179253782161,
+            1.1014789429435945
+        ]
+    },
+    "0.47090697966104766-3-62": {
+        "average clique similarity": 0.47090697966104766,
+        "clique": [
+            "2-Sources told CNN tha",
+            "3-Congress will releas",
+            "4-  CNN  The   pages d"
+        ],
+        "median tf-idf score": 1.2527263480457198,
+        "publications": [
+            "New York Post",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "Sources told CNN that the famed \"28 pages\" from the congressional   report, detailing Saudi involvement in the terrorist attack, may be released to the public as early as Friday, ending 14 years of secrecy.",
+            "Congress will release classified pages detailing alleged Saudi Arabian government ties to the   hijackers as early as Friday, a law enforcement source told The Post.",
+            " (CNN) The   pages detailing alleged ties of the Saudi Arabian government to the   hijackers will be released by Congress as early as Friday, sources told CNN Thursday."
+        ],
+        "tf-idf score": [
+            1.2552327173103237,
+            1.2527263480457198,
+            1.2011574435913772
+        ]
+    },
+    "0.5486783157059238-3-97": {
+        "average clique similarity": 0.5486783157059238,
+        "clique": [
+            "1-The document  referr",
+            "3- The House Intellige",
+            "4- The House Intellige"
+        ],
+        "median tf-idf score": 0.8998794953778679,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "The document, referred to as the \" \" throughout a   battle over whether it should be made public, was part of a 2002 joint inquiry by the Senate and House Intelligence Committees into the   attacks.",
+            "\"The House Intelligence Committee will get the redacted report today or tomorrow,\" Schiff told CNN \"The Senate and House intel committees should then give the formal   to release the report since they originally produced it. \" Sens.",
+            "\"The House Intelligence Committee will get the redacted report today or tomorrow,\" the California Democrat said. \"The Senate and House intel committees should then give the formal go ahead to release the report since they originally produced it\"."
+        ],
+        "tf-idf score": [
+            0.6729443678911512,
+            0.8998794953778679,
+            0.904706717419077
+        ]
+    },
+    "0.6625239555632418-3-1": {
+        "average clique similarity": 0.6625239555632418,
+        "clique": [
+            "4- If it was just this",
+            "2- All of this could b",
+            "3- If it was just this"
+        ],
+        "median tf-idf score": 0.9963630191725175,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"If it was just this   . .. government officials in the Saudi Arabian government, then they have nothing to worry about,\" she added. \"The American people deserve this just as much as the   families deserve it, but we're the ones that are suffering by not having them released\".",
+            "\"All of this could be settled, if we would just release the 28 pages and let everyone see what's in there. If it was just this    ...     government officials in the Saudi Arabian government, then they have nothing to worry about.",
+            "\"If it was just this     ...     government officials in the Saudi Arabian government, then they have nothing to worry about. The American people deserve this just as much as the   families deserve it, but we're the ones that are suffering by not having them released,\" she said, CNN reported."
+        ],
+        "tf-idf score": [
+            0.9097489280632977,
+            0.9963630191725175,
+            1.1574685389894521
+        ]
+    }
+}

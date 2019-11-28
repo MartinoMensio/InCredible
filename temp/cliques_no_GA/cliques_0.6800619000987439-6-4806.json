@@ -1,0 +1,614 @@
+{
+    "0.1482754714760568-3-10": {
+        "average clique similarity": 0.1482754714760568,
+        "clique": [
+            "2-In the popular vote ",
+            "0- Stein  in fact  fin",
+            "3-The Clinton campaign"
+        ],
+        "median tf-idf score": 0.2774504546023131,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In the popular vote, Clinton had a margin of more than 2.",
+            "\u201cStein, in fact, finished no higher than fourth in any state where she appeared on the ballot.",
+            "The Clinton campaign had no immediate comment on Friday."
+        ],
+        "tf-idf score": [
+            0.2774504546023131,
+            0.4277614803483195,
+            0.1979622236043088
+        ]
+    },
+    "0.15457489172278213-3-127": {
+        "average clique similarity": 0.15457489172278213,
+        "clique": [
+            "5-That put Trump s lea",
+            "2-Stein has scheduled ",
+            "3-He was at one point "
+        ],
+        "median tf-idf score": 0.6097563286368538,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "That put Trump\u2019s lead at 0.",
+            "Stein has scheduled a news conference for Monday at Trump Tower in New York City.",
+            "He was at one point considered a candidate for secretary of state, but Kellyanne Conway, one of Trump\u2019s top advisers, told Fox News on Friday that Trump has narrowed that search to four finalists."
+        ],
+        "tf-idf score": [
+            0.2607387982891142,
+            0.6097563286368538,
+            0.761617408320516
+        ]
+    },
+    "0.16293617363495158-3-178": {
+        "average clique similarity": 0.16293617363495158,
+        "clique": [
+            "4-      Stein s critic",
+            "1-There is no conclusi",
+            "5- Trump s desperate a"
+        ],
+        "median tf-idf score": 0.9125144773035458,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u2019 \u201d   Stein\u2019s critics, including the Wisconsin Republican Party,   contend that she is a   candidate who is merely trying   to raise her profile while raising millions of dollars.",
+            "There is no conclusive evidence that vote counts have been compromised in any state, and Trump\u2019s margin of victory in all three is large enough that it is extremely unlikely that recounts would make a difference in determining who won the election.",
+            "\u201dTrump\u2019s desperate attempts to silence voter demands raise a simple question: why is Donald Trump afraid of these recounts?\u201d Wisconsin is the only state where a recount is underway."
+        ],
+        "tf-idf score": [
+            0.49408935494400125,
+            1.0971872245385061,
+            0.9125144773035458
+        ]
+    },
+    "0.17644446923197035-3-29": {
+        "average clique similarity": 0.17644446923197035,
+        "clique": [
+            "5-Republican lawyers f",
+            "2-According to Stein s",
+            "1-In a statement on Fr"
+        ],
+        "median tf-idf score": 0.36726325876803234,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Republican lawyers filed a motion that was posted on the court\u2019s website Friday accusing Stein of engaging in legal antics and saying her recount request endangers Pennsylvania\u2019s ability to certify its electors by the federal deadline.",
+            "According to Stein\u2019s website on Friday, the Green Party had raised $6.",
+            "In a statement on Friday, Stein vowed to fight the legal challenges."
+        ],
+        "tf-idf score": [
+            1.11678496212256,
+            0.35224901577237466,
+            0.36726325876803234
+        ]
+    },
+    "0.17660845205270223-3-374": {
+        "average clique similarity": 0.17660845205270223,
+        "clique": [
+            "2-Lawsuits were pendin",
+            "3-Trump and his backer",
+            "1-  Stein launched a r"
+        ],
+        "median tf-idf score": 0.8869621375900048,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Lawsuits were pending in Michigan, Pennsylvania and Wisconsin, three \u201dRust Belt\u201d states which bucked their history of supporting Democrats and gave Trump thin wins in the Nov. 8 election.",
+            "Trump and his backers have filed challenges the past two days in Michigan, Wisconsin and Pennsylvania, which were critical to Trump\u2019s surprise victory last month because they punctured the   blue wall of states expected to carry Democrat Hillary Clinton to victory.",
+            "\u201d Stein launched a recount fundraising drive last week, and subsequently filed for recounts in Michigan, Wisconsin and Pennsylvania."
+        ],
+        "tf-idf score": [
+            0.8869621375900048,
+            0.9546386839990153,
+            0.8233129352256524
+        ]
+    },
+    "0.18288188582985798-3-124": {
+        "average clique similarity": 0.18288188582985798,
+        "clique": [
+            "5-8 million cast ",
+            "0-Michigan s Republica",
+            "2-A Schuette spokeswom"
+        ],
+        "median tf-idf score": 0.7756121067514842,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "8 million cast.",
+            "Michigan\u2019s Republican secretary of state, Ruth Johnson, has said a recount could cost $5 million total.",
+            "A Schuette spokeswoman said on Friday that Stein had contributed $787, 500, but the recount would cost some $5 million."
+        ],
+        "tf-idf score": [
+            0.06955611038272431,
+            0.9259047824396793,
+            0.7756121067514842
+        ]
+    },
+    "0.1856243781390159-3-80": {
+        "average clique similarity": 0.1856243781390159,
+        "clique": [
+            "0-Trump won Michigan  ",
+            "1-  Donald Trump s all",
+            "5-  Donald Trump and h"
+        ],
+        "median tf-idf score": 1.4011287210263166,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Trump won Michigan, Wisconsin and Pennsylvania in the election  \u2014   all states that pollsters had predicted would go to Trump\u2019s Democratic rival Hillary Clinton.",
+            "  Donald Trump\u2019s allies are taking legal action intended to stop election recount attempts initiated by Green Party presidential nominee Jill Stein in Wisconsin, Michigan, and Pennsylvania.",
+            "  Donald Trump and his supporters went to court Friday to prevent or halt election recounts in Michigan, Pennsylvania and Wisconsin, less than two weeks before the states would have to complete the tasks to meet a federal deadline to certify their election results."
+        ],
+        "tf-idf score": [
+            0.8955082667553256,
+            1.4011287210263166,
+            1.5057364479572013
+        ]
+    },
+    "0.18574470412345212-3-261": {
+        "average clique similarity": 0.18574470412345212,
+        "clique": [
+            "5-In separate lawsuits",
+            "1-There are a few comm",
+            "3-Trump argued that St"
+        ],
+        "median tf-idf score": 1.473191598919059,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "In separate lawsuits against the state, Michigan\u2019s Republican attorney general and Trump asked state courts to prevent the recount, saying Stein should not be allowed to seek one because she finished so far behind Trump and Clinton that she couldn\u2019t have won, even if some votes were miscounted.",
+            "There are a few common themes to most of the legal claims challenging the recount requests: In general, Trump\u2019s defenders are arguing that it\u2019s too late in the electoral process to initiate vote recounts, and that Stein doesn\u2019t have ground to stand on since she didn\u2019t come anywhere close to winning the election herself, and has no proof that vote totals were compromised.",
+            "Trump argued that Stein cannot, as the state\u2019s   finisher, claim that she is \u201caggrieved\u201d by the way the vote unfolded and that there isn\u2019t enough time to complete the recount by the Dec. 13 deadline to certify Michigan\u2019s election results."
+        ],
+        "tf-idf score": [
+            1.488451423528389,
+            1.3834749166102878,
+            1.473191598919059
+        ]
+    },
+    "0.2058106036017757-3-47": {
+        "average clique similarity": 0.2058106036017757,
+        "clique": [
+            "4-      In Pennsylvani",
+            "3-In Pennsylvania  whe",
+            "0-A recount is already"
+        ],
+        "median tf-idf score": 0.86218233758019,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u2019 \u201d   In Pennsylvania, a hearing is scheduled for Monday on Stein\u2019s   push to secure a   statewide recount, a legal   maneuver that has never been tried, according to one of the   lawyers who filed it.",
+            "In Pennsylvania, where Stein has acknowledged the path to forcing a recount is more difficult but has initiated an effort to do so nonetheless, attorneys for Trump filed an objection to Stein\u2019s request in state court on Thursday.",
+            "A recount is already underway in Wisconsin, and Stein is also pushing for a   statewide recount in Pennsylvania."
+        ],
+        "tf-idf score": [
+            0.86218233758019,
+            1.3133437117574038,
+            0.6785958816975755
+        ]
+    },
+    "0.21115521552273295-3-84": {
+        "average clique similarity": 0.21115521552273295,
+        "clique": [
+            "1-Yet while Clinton s ",
+            "2-Green Party candidat",
+            "4-       Verifying the"
+        ],
+        "median tf-idf score": 1.0092889313899795,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Yet while Clinton\u2019s campaign has agreed to participate in the recount proceedings, a counsel for the campaign noted in a Medium post that they \u201chad not uncovered any actionable evidence of hacking or outside attempts to alter the voting technology.",
+            "Green Party candidate Jill Stein, who garnered only about 1 percent of the vote, has said the recount campaign is not targeted at Trump or Clinton.",
+            "\u2019 \u2019   \u201dVerifying the vote through this recount is the only way to   confirm that every vote has been counted securely and accurately   and is not compromised by machine or human error, or by tampering   or hacking,\u201d Stein said in a statement Thursday."
+        ],
+        "tf-idf score": [
+            0.67453693616639,
+            1.254609951402989,
+            1.0092889313899795
+        ]
+    },
+    "0.21199617449563438-3-374": {
+        "average clique similarity": 0.21199617449563438,
+        "clique": [
+            "5-In Pennsylvania  a h",
+            "1-In Pennsylvania  the",
+            "2-A Pennsylvania court"
+        ],
+        "median tf-idf score": 0.6356439484821692,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "In Pennsylvania, a hearing is scheduled for Monday on Stein\u2019s push to secure a   statewide recount there.",
+            "In Pennsylvania, the Associated Press reports, \u201cTrump and the Pennsylvania GOP are asking a state court to throw out a   backed request for a recount.",
+            "A Pennsylvania court has scheduled a hearing for Monday morning in Harrisburg, the state capital."
+        ],
+        "tf-idf score": [
+            0.6356439484821692,
+            0.9424512631534402,
+            0.4474827368168206
+        ]
+    },
+    "0.2121683930542624-3-326": {
+        "average clique similarity": 0.2121683930542624,
+        "clique": [
+            "2-Trump surpassed the ",
+            "3-Election officials i",
+            "0-Experts cast doubt o"
+        ],
+        "median tf-idf score": 0.8977414699316323,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Trump surpassed the 270 electoral votes needed to win, with 306 electoral votes, and the recount would have to flip the result to Clinton in all three states to change the overall result.",
+            "Election officials in all three states have expressed confidence in their results, and voting rights experts have said the effort is highly unlikely to overturn the results that are sending Trump to the White House.",
+            "Experts cast doubt on the efficacy of the recounts, saying that it was unlikely they would flip anything close to the number of votes to change the outcome in any of the states in question."
+        ],
+        "tf-idf score": [
+            1.047227286427647,
+            0.803286413989603,
+            0.8977414699316323
+        ]
+    },
+    "0.21524224289074026-3-374": {
+        "average clique similarity": 0.21524224289074026,
+        "clique": [
+            "5-The legal actions se",
+            "3-Trump narrowly won t",
+            "4-      Donald  narrow"
+        ],
+        "median tf-idf score": 0.8702669621410553,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The legal actions seeking to block or halt the recounts in three states Trump narrowly won could cause delays that would make them extremely difficult or impossible to complete on time.",
+            "Trump narrowly won the trio of states.",
+            "\u2019 \u2019   Donald  narrowly beat Hillary Clinton   in all three states, but recounts were not expected to flip   nearly enough votes to change the outcome in any of the states."
+        ],
+        "tf-idf score": [
+            0.8866675345806061,
+            0.3788863197788317,
+            0.8702669621410553
+        ]
+    },
+    "0.22818292866303458-3-374": {
+        "average clique similarity": 0.22818292866303458,
+        "clique": [
+            "2-Federal law requires",
+            "4-The federal   deadli",
+            "0-They also argued tha"
+        ],
+        "median tf-idf score": 0.4588717319527119,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "Fox News"
+        ],
+        "sentences": [
+            "Federal law requires states to resolve disputes over the appointment of electors by Dec. 13.",
+            "The federal   deadline to certify the vote to avoid having the fate of   Wisconsin\u2019s 10 electoral votes decided by Congress is Dec. 13.",
+            "They also argued that Stein waited so late to file her recount petition, which the candidate filed Wednesday, that it will be impossible to finish by the Dec. 13 deadline."
+        ],
+        "tf-idf score": [
+            0.2988627091076826,
+            0.4588717319527119,
+            0.7421810813618689
+        ]
+    },
+    "0.23179628539025132-3-71": {
+        "average clique similarity": 0.23179628539025132,
+        "clique": [
+            "4-      Clinton lost t",
+            "5-An updated count Fri",
+            "2-Trump won Wisconsin "
+        ],
+        "median tf-idf score": 0.6800965741576539,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u2019 \u2019   Clinton lost to  by about 22, 000   votes in Wisconsin, or less than a percentage point.",
+            "An updated count Friday by Pennsylvania election officials showed Trump\u2019s lead over Clinton in that state had shrunk to 49, 000 from 71, 000, as more counties wrap up final tallies.",
+            "Trump won Wisconsin with a margin of roughly 22, 000 votes over Clinton, and in Pennsylvania he won with a margin of about 49, 500 votes."
+        ],
+        "tf-idf score": [
+            0.43156769579236265,
+            0.8606095228370131,
+            0.6800965741576539
+        ]
+    },
+    "0.2469435920009887-4-306": {
+        "average clique similarity": 0.2469435920009887,
+        "clique": [
+            "2-In Wisconsin  where ",
+            "5-Two   groups  the Gr",
+            "3-But Great America PA",
+            "1-In Wisconsin  a   su"
+        ],
+        "median tf-idf score": 0.800410446330203,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In Wisconsin, where the recount is already underway, a federal judge on Friday rejected a request for an emergency stay by the   political action committee Great America PAC U S District Judge James Peterson scheduled a hearing for Dec. 9 to consider whether to halt the recount at that time.",
+            "Two   groups, the Great America PAC and the Stop Hillary PAC, along with Wisconsin voter Ronald R Johnson went to federal court late Thursday to try and stop the recount.",
+            "But Great America PAC and Stop Hillary PAC, both   groups, said Friday they had filed a legal challenge a day earlier in federal court in conjunction with a Wisconsin voter to stop the new count.",
+            "In Wisconsin, a   super PAC filed a federal lawsuit arguing that the recount is unconstitutional and \u201cmay unjustifiably cast doubt upon the legitimacy of   Donald J Trump\u2019s victory."
+        ],
+        "tf-idf score": [
+            0.8760926586071679,
+            0.724728234053238,
+            0.6827168853782404,
+            0.902918296827034
+        ]
+    },
+    "0.27885380268529897-3-374": {
+        "average clique similarity": 0.27885380268529897,
+        "clique": [
+            "2-Michigan Attorney Ge",
+            "0-Michigan s Attorney ",
+            "1-  The Atlantic  Poli"
+        ],
+        "median tf-idf score": 1.1477983048713494,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Michigan Attorney General Bill Schuette, a Republican, filed a lawsuit on Friday to halt the requested recount in his state, where Trump won with a margin of roughly 10, 700 votes over Clinton.",
+            "Michigan\u2019s Attorney General Bill Schuette, a Republican, backed the Trump campaign\u2019s arguments Friday, and asked the state Supreme Court to block the recount.",
+            "\u201d The Atlantic  Politics  Policy Daily: The One Where Trump Calls Taiwan, In Michigan, Attorney General Bill Schuette, a Republican who supported Trump during the election, has filed a lawsuit,  which according to a statement aims \u201cto stop a frivolous request ."
+        ],
+        "tf-idf score": [
+            1.377196199918212,
+            1.1477983048713494,
+            0.9377083948739033
+        ]
+    },
+    "0.28264286180781284-3-145": {
+        "average clique similarity": 0.28264286180781284,
+        "clique": [
+            "4-But it does   not ca",
+            "2-The lawsuit filed by",
+            "5-The lawsuit says Wis"
+        ],
+        "median tf-idf score": 0.7258140996658952,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "But it does   not carry the same drama as the Florida presidential recount of   2000, when the outcome of the election between Al Gore and George   W Bush hung in the balance.",
+            "The lawsuit filed by the PAC cited as legal precedent the U S Supreme Court\u2019s Bush v. Gore decision that ended the 2000 election and Florida recount.",
+            "The lawsuit says Wisconsin is violating the U S Supreme Court\u2019s 2000 Bush v. Gore ruling because it doesn\u2019t have uniform standards to determine which votes should be counted in a recount."
+        ],
+        "tf-idf score": [
+            0.5839848926795786,
+            0.7258140996658952,
+            0.7846639573778591
+        ]
+    },
+    "0.28932628190016624-3-374": {
+        "average clique similarity": 0.28932628190016624,
+        "clique": [
+            "4-      The action in ",
+            "3- Supporters of   Don",
+            "2- Supporters of   Don"
+        ],
+        "median tf-idf score": 1.2061099669460065,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201d \u2019   The action in Wisconsin could soon be duplicated   in  and Pennsylvania, where Green   Party presidential candidate Jill Stein was pushing for recounts.",
+            " Supporters of   Donald Trump are moving aggressively to challenge Green Party presidential candidate Jill Stein\u2019s push for a recount in three states, filing legal challenges and criticizing the effort as quixotic and  .",
+            " Supporters of   Donald Trump moved on Friday to halt the Green Party\u2019s requests for   recounts of the presidential votes in three states where Trump, a Republican, won with narrow victories."
+        ],
+        "tf-idf score": [
+            0.9017153312642634,
+            1.2061099669460065,
+            1.210478784007694
+        ]
+    },
+    "0.29780282933085583-3-317": {
+        "average clique similarity": 0.29780282933085583,
+        "clique": [
+            "2-5 million votes over",
+            "3-Alice Crites contrib",
+            "0-The Associated Press"
+        ],
+        "median tf-idf score": 0.08496534405376878,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "5 million votes over Trump, the Cook Political Report said.",
+            "Alice Crites contributed to this report.",
+            "The Associated Press contributed to this report."
+        ],
+        "tf-idf score": [
+            0.5416907056590883,
+            0.049277129717842205,
+            0.08496534405376878
+        ]
+    },
+    "0.33493090312855306-3-229": {
+        "average clique similarity": 0.33493090312855306,
+        "clique": [
+            "5-Michigan s elections",
+            "3-On Friday  the focus",
+            "2-Michigan s recount i"
+        ],
+        "median tf-idf score": 1.112478789283967,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Michigan\u2019s elections board deadlocked Friday on a Trump campaign request to deny Stein\u2019s recount request and on how a recount would be conducted.",
+            "On Friday, the focus of the escalating battle was in Michigan, as the Board of State Canvassers deadlocked   over an objection that attorneys for Trump filed Thursday against Stein\u2019s recount request.",
+            "Michigan\u2019s recount is expected to begin on Wednesday, barring court action, after the state\u2019s board of canvassers deadlocked   on Friday on a motion objecting to the recount, the Michigan Secretary of State\u2019s Office said."
+        ],
+        "tf-idf score": [
+            1.112478789283967,
+            1.3276346256492242,
+            0.9677609529198213
+        ]
+    },
+    "0.3866945776019733-5-76": {
+        "average clique similarity": 0.3866945776019733,
+        "clique": [
+            "4-      Stein has argu",
+            "5-Stein has argued  wi",
+            "3-        Here are the",
+            "0-  Stein has argued  ",
+            "1-And suspicions that "
+        ],
+        "median tf-idf score": 0.711514183729158,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Washington Post",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "\u2019 \u2019   Stein has argued, without evidence, that irregularities in the   votes in all three states suggest that there could have been   tampering with the vote, perhaps through a     highly complex cyberattack.",
+            "Stein has argued, without evidence, that irregularities in the votes in all three states suggest that there could have been tampering with the vote, perhaps through a   highly complex cyberattack.",
+            "\u2019\u2019      Here are the people whose names have been floated for Trump\u2019s Cabinet View Graphic     Here are the people whose names have been floated for Trump\u2019s Cabinet  Stein has raised concerns about possible hacking or other irregularities in the vote in the three states, but has presented no evidence of malfeasance.",
+            "\u201d Stein has argued, without any evidence, that irregularities in the vote suggests there could have been a cyberattack on voting machines that tampered with the vote.",
+            "And suspicions that there might have been vote tampering have been fueled by the fact that the Obama administration has formally accused Russia of interfering in the U S election."
+        ],
+        "tf-idf score": [
+            0.711514183729158,
+            0.711514183729158,
+            0.933427881731286,
+            0.5821395728567889,
+            0.466961195899918
+        ]
+    },
+    "0.407543617299377-3-103": {
+        "average clique similarity": 0.407543617299377,
+        "clique": [
+            "0-The objections from ",
+            "3-The earliest a Michi",
+            "4-    on Thursday obje"
+        ],
+        "median tf-idf score": 0.680653524082035,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The objections from Trump\u2019s team suspends the planned Friday start of the recount until next week.",
+            "The earliest a Michigan recount could start would be next week.",
+            "\u2019 \u2019 on Thursday objected to a recount   of  presidential votes, at least   delaying the planned Friday start of the recount there until next   week."
+        ],
+        "tf-idf score": [
+            0.6863877970938045,
+            0.44614632210681293,
+            0.680653524082035
+        ]
+    },
+    "0.4357705185234632-3-1": {
+        "average clique similarity": 0.4357705185234632,
+        "clique": [
+            "5-His margin of victor",
+            "4-      The Wisconsin ",
+            "0-The Wisconsin recoun"
+        ],
+        "median tf-idf score": 0.5248701579342193,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "Fox News"
+        ],
+        "sentences": [
+            "His margin of victory in Michigan was even slimmer, at about 10, 700 votes out of 4.",
+            "\u201d \u2019   The Wisconsin recount was estimated to cost about $3.",
+            "The Wisconsin recount was estimated to cost about $3."
+        ],
+        "tf-idf score": [
+            0.39126195812874415,
+            0.5248701579342193,
+            0.5248701579342193
+        ]
+    },
+    "0.4512735377809572-3-166": {
+        "average clique similarity": 0.4512735377809572,
+        "clique": [
+            "4-Stein paid  973  250",
+            "0-Stein paid  973  250",
+            "5-It also would be con"
+        ],
+        "median tf-idf score": 0.5021464802735357,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Stein paid $973, 250 for the requested recount   in .",
+            "Stein paid $973, 250 for the requested recount in Michigan.",
+            "It also would be conducted by hand, as Stein requested."
+        ],
+        "tf-idf score": [
+            0.5021464802735357,
+            0.6087145840136683,
+            0.21833328291195997
+        ]
+    }
+}

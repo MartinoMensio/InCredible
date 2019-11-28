@@ -1,0 +1,582 @@
+{
+    "0.1580958135160419-3-125": {
+        "average clique similarity": 0.1580958135160419,
+        "clique": [
+            "0-But the language is ",
+            "4-Trump s company has ",
+            "1-The Trump transition"
+        ],
+        "median tf-idf score": 0.9213547292046126,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "But the language is not crystalline,\u201d he said.",
+            "Trump\u2019s company has not responded to the GSA\u2019s concerns about the potential conflict, the Democratic lawmakers said.",
+            "The Trump transition team also did not immediately respond to a request for comment, but Reuters\u2019 Emily Stephenson reported that a spokesperson said the matter would come up at a press conference Trump has said he will hold addressing his business conflict some time in January."
+        ],
+        "tf-idf score": [
+            0.13927331015878563,
+            0.9213547292046126,
+            1.0468784362095016
+        ]
+    },
+    "0.16834321846414457-3-141": {
+        "average clique similarity": 0.16834321846414457,
+        "clique": [
+            "0-Despite the fact tha",
+            "1-Trump has said that ",
+            "4-Federal law does not"
+        ],
+        "median tf-idf score": 0.9616907245374454,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Despite the fact that the president is exempt from most financial    rules governing federal officials, on Monday Walter M Shaub Jr director of the ethics office, asserted that it was the \u201cconsistent policy\u201d of previous presidents to abide by those rules and that Trump ought to as well.",
+            "Trump has said that as president, his business will do no new deals (a puzzling statement) and that Donald Jr and Eric Trump, who are currently executive vice presidents, will run the business, while Ivanka, another EVP, detaches herself from the company to advise her father.",
+            "Federal law does not prohibit the president\u2019s involvement in private business while in office, even though lawmakers and executive branch officials are subject to    rules."
+        ],
+        "tf-idf score": [
+            0.9616907245374454,
+            1.1111693533213962,
+            0.604643670340124
+        ]
+    },
+    "0.18748121196776313-3-239": {
+        "average clique similarity": 0.18748121196776313,
+        "clique": [
+            "2-   Donald Trump is e",
+            "4-The General Services",
+            "3-Four House Democrats"
+        ],
+        "median tf-idf score": 1.6274957078946766,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "   Donald Trump is enamored of his new hotel on Pennsylvania Avenue in Washington, DC He even took time away from the campaign trail for it  \u2014   including turning a press conference about his previous false allegation that President Obama hadn\u2019t been born in the US into a giant advertisement for the property.",
+            "The General Services Administration, which manages property owned by the federal government, including the Old Post Office  housing the Trump International Hotel, has said the lease would violate federal    rules once the Republican businessman is sworn in on Jan. 20, according to a letter to the agency from lawmakers.",
+            "Four House Democrats on the Oversight Committee said in a letter Wednesday that the deputy commissioner of the GSA had told them that Trump would be in breach of his lease with the government for the new Trump International Hotel in D C That contract has a clause that specifies that no elected government official can be party to the lease."
+        ],
+        "tf-idf score": [
+            0.8803361318322848,
+            1.6274957078946766,
+            1.809383244274808
+        ]
+    },
+    "0.18885199894142532-3-203": {
+        "average clique similarity": 0.18885199894142532,
+        "clique": [
+            "2-Trump might have to ",
+            "3-The   has yet to out",
+            "1-     In other words "
+        ],
+        "median tf-idf score": 0.5912186058277051,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Trump might have to give up his hotel once he\u2019s sworn in             The opulent luxury hotel, located less than a mile from the White House, has become a $   symbol of the unprecedented conflicts of interest Trump\u2019s administration could bring.",
+            "The   has yet to outline how he plans to deal with his business interests and the many conflicts of interests arising as he prepares to enter the White House.",
+            ".. \u201d In other words, Trump can have his hotel, or he can have the White House, but he cannot have both."
+        ],
+        "tf-idf score": [
+            0.8752665756902613,
+            0.45866720149049556,
+            0.5912186058277051
+        ]
+    },
+    "0.19108022319310958-3-56": {
+        "average clique similarity": 0.19108022319310958,
+        "clique": [
+            "3-The GSA  however  sa",
+            "1-It doesn t definitiv",
+            "0-Federal officials ov"
+        ],
+        "median tf-idf score": 0.958039438512505,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The GSA, however, says it cannot determine whether occupying the Oval Office and being a part of the lease would constitute a breach until Trump officially takes office.",
+            "It doesn\u2019t definitively reject the idea that Trump might be in breach of the contract if he becomes president it simply says it\u2019s too soon to tell.",
+            "Federal officials overseeing Donald Trump\u2019s lease for his D C hotel said it\u2019s too early to determine whether the   will violate a clause in the deal before he enters office Jan. 20."
+        ],
+        "tf-idf score": [
+            0.958039438512505,
+            0.6094324175552231,
+            1.2137735152744185
+        ]
+    },
+    "0.19260776076893663-3-82": {
+        "average clique similarity": 0.19260776076893663,
+        "clique": [
+            "3-Trump suggested Sund",
+            "4-Trump has said he pl",
+            "2-Even if Trump gets o"
+        ],
+        "median tf-idf score": 0.9122624265931478,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Trump suggested Sunday in an interview with Fox News Sunday\u2019s Chris Wallace that he will not sell off his businesses to avoid conflicts of interest during his term, instead letting his adult children run them.",
+            "Trump has said he plans to avoid the conflict issue by transferring control of his businesses to his oldest three children.",
+            "Even if Trump gets off the lease by giving it to his children, though, it won\u2019t end the many brazen conflicts of interest the hotel  \u2014   and the broader interplay between Trump\u2019s businesses and his administration  \u2014   represents."
+        ],
+        "tf-idf score": [
+            0.8367988092493892,
+            0.9122624265931478,
+            0.9612791747403123
+        ]
+    },
+    "0.21290402449945578-3-402": {
+        "average clique similarity": 0.21290402449945578,
+        "clique": [
+            "3-In a letter on Tuesd",
+            "0-Aside from public st",
+            "2-The mere existence o"
+        ],
+        "median tf-idf score": 0.8973104006661456,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "In a letter on Tuesday, the U S Office of Government Ethics urged Trump to fully divest from his businesses, arguing that letting his children run the companies wasn\u2019t enough.",
+            "Aside from public stocks, Trump has resisted calls from ethics officials to sell stakes in his businesses, saying that he plans to let his children Don Jr and Eric run them.",
+            "The mere existence of the Trump International Hotel presents opportunities for Trump to abuse his power to protect his beloved hotel and the businesses his children are controlling while he\u2019s in office."
+        ],
+        "tf-idf score": [
+            0.9982501535974267,
+            0.8973104006661456,
+            0.8676284707746618
+        ]
+    },
+    "0.21720442907170479-3-285": {
+        "average clique similarity": 0.21720442907170479,
+        "clique": [
+            "3-We also share GSA s ",
+            "0-Other ethics experts",
+            "2-Even if Trump manage"
+        ],
+        "median tf-idf score": 1.0532849897846073,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "We also share GSA\u2019s hope that the agency will not have to address this issue if   Trump divests his ownership in the lease before then.",
+            "Other ethics experts have argued that even if Trump were to transfer ownership of his hotel stake to his children, through a lease change with the GSA, it wouldn\u2019t prevent Don Jr or Eric from passing on profits to their father during or after his administration.",
+            "Even if Trump manages to resolve the issue with the hotel lease during his presidency, that won\u2019t change the fact that he has no intention of giving up control of his businesses in the long term."
+        ],
+        "tf-idf score": [
+            0.8376712005951014,
+            1.0984892294780138,
+            1.0532849897846073
+        ]
+    },
+    "0.21777468597420288-3-215": {
+        "average clique similarity": 0.21777468597420288,
+        "clique": [
+            "0-Congressional Democr",
+            "1-The Constitution s E",
+            "2-Lawyers and scholars"
+        ],
+        "median tf-idf score": 0.5019449198895243,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Congressional Democrats have been pressing GSA on that issue, as well as the possibility that by renting rooms to foreign leaders there Trump may be in violation of the \u201cemoluments clause\u201d of the Constitution, which bars U S officials from benefiting from foreign gifts, upon entering office.",
+            "The Constitution\u2019s Emoluments Clause mandates that \u201cno Person holding any Office of Profit or Trust under [the United States] shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State.",
+            "Lawyers and scholars argue that this would violate the emoluments clause of the Constitution, which forbids the president from accepting titles, gifts, or services from foreign governments  \u2014   \u201cexactly what the Founding Fathers were worried about,\u201d Painter said."
+        ],
+        "tf-idf score": [
+            1.0395882947696293,
+            0.4121009698667296,
+            0.5019449198895243
+        ]
+    },
+    "0.23818403514919728-3-39": {
+        "average clique similarity": 0.23818403514919728,
+        "clique": [
+            "2-In a letter released",
+            "1-On Wednesday  Democr",
+            "4- The Deputy Commissi"
+        ],
+        "median tf-idf score": 1.0387921113414598,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "In a letter released by BuzzFeed News on Wednesday, four House Democrats  \u2014   Reps. Elijah Cummings, Peter DeFazio, Gerald Connolly, and Andr\u00e9 Carson  \u2014   said an official at the GSA told them in a briefing that Trump cannot hold the lease and will be in breach of contract once he becomes president.",
+            "On Wednesday, Democratic Representatives Elijah Cummings, Peter DeFazio, Andre Carson, and Gerry Connolly sent a letter to the administrator of the GSA, Denise Roth, on the matter.",
+            "\u201dThe Deputy Commissioner made clear that Mr Trump must divest himself not only of managerial control, but of all ownership interest as well,\u201d Representative Elijah Cummings of Maryland and three other Democrats said in the letter, which was made public on Wednesday."
+        ],
+        "tf-idf score": [
+            1.4999858626217584,
+            0.516934638869703,
+            1.0387921113414598
+        ]
+    },
+    "0.2394654076779943-3-402": {
+        "average clique similarity": 0.2394654076779943,
+        "clique": [
+            "1-   shall be admitted",
+            "4-The hotel lease incl",
+            "3-But the simple fact "
+        ],
+        "median tf-idf score": 0.6642891366250536,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            ".. shall be admitted to any share or part of this Lease, or to any benefit that may arise therefrom.",
+            "The hotel lease includes a standard GSA provision barring members of Congress or other elected federal officials   such as the president   from having any part of it.",
+            "But the simple fact is that GSA informed our staffs that they interpret this lease provision as prohibiting any elected official from having any ownership interest in the lease, and we stand 100% behind our letter\u201d."
+        ],
+        "tf-idf score": [
+            0.20799155883966877,
+            0.7988152629957347,
+            0.6642891366250536
+        ]
+    },
+    "0.23976914298493068-3-22": {
+        "average clique similarity": 0.23976914298493068,
+        "clique": [
+            "3-But Cummings  the ra",
+            "0-After the GSA said i",
+            "4-In response to the D"
+        ],
+        "median tf-idf score": 0.97237418387775,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "But Cummings, the ranking member of the Oversight Committee, says, \u201dWe understand GSA\u2019s position that this breach has not yet occurred, will not occur until Donald Trump is sworn in as president, and is officially viewed as a \u2019hypothetical\u2019 issue until that time.",
+            "After the GSA said it had made no such determination, Cummings issued another statement explaining he was aware no breach had yet occurred and that GSA viewed it as a \u201chypothetical\u201d issue until then.",
+            "In response to the Democrats\u2019 letter, the GSA said in a statement it could not speak definitively about divestment until Trump\u2019s financial arrangements were completed and he had become president."
+        ],
+        "tf-idf score": [
+            1.14314514661952,
+            0.559739633195012,
+            0.97237418387775
+        ]
+    },
+    "0.2581339208104319-3-402": {
+        "average clique similarity": 0.2581339208104319,
+        "clique": [
+            "4- U S   Donald Trump ",
+            "2-One of the clauses i",
+            "0-said early Wednesday"
+        ],
+        "median tf-idf score": 1.1174940509833073,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            " U S   Donald Trump must divest his luxury Washington hotel in a building leased from the federal government because the arrangement violates    rules, congressional Democrats said on Wednesday.",
+            "One of the clauses in the lease forbids any elected official in the federal government or Washington, DC, from holding or benefiting from the lease.",
+            "said early Wednesday that GSA officials had informed them that Trump would need to divest his interest in his D C hotel before being sworn in to avoid running afoul of a clause in the lease barring any \u201celected official of the Government of the United States\u201d from deriving \u201cany benefit\u201d from the agreement."
+        ],
+        "tf-idf score": [
+            1.1174940509833073,
+            0.5164845666207522,
+            1.4300555812566618
+        ]
+    },
+    "0.28246976781015676-3-108": {
+        "average clique similarity": 0.28246976781015676,
+        "clique": [
+            "4-He had planned a Thu",
+            "1-Trump originally pla",
+            "3-Trump was slated to "
+        ],
+        "median tf-idf score": 0.48538112177790194,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "He had planned a Thursday news conference to disclose details, but put that announcement off until next month.",
+            "Trump originally planned to hold the press conference on Thursday, but then suddenly cancelled it on Monday, citing a busy schedule.",
+            "Trump was slated to hold a news conference on Thursday to address that, but instead on Monday he postponed it until a    specified date in January."
+        ],
+        "tf-idf score": [
+            0.10519512071379356,
+            0.48538112177790194,
+            0.6059184260432855
+        ]
+    },
+    "0.2873148685469675-3-67": {
+        "average clique similarity": 0.2873148685469675,
+        "clique": [
+            "3-His ties to the vent",
+            "1-  Yet foreign diplom",
+            "2-The Trump hotel has "
+        ],
+        "median tf-idf score": 0.39517563126252897,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "His ties to the venture have already drawn scrutiny as foreign diplomats have said they might stay there to try to curry favor with the incoming president.",
+            "\u201d Yet foreign diplomats have already begun lining up to stay at the hotel and conduct business there, reasoning that it\u2019s wise to get into the good graces of the   by giving him custom.",
+            "The Trump hotel has already promoted itself to diplomats as a place to stay in DC  \u2014   typical for a luxury hotel, but most luxury hotels don\u2019t also carry the perk of personally enriching the president, perhaps helping countries that choose to stay there get into his good graces."
+        ],
+        "tf-idf score": [
+            0.36611939930801934,
+            0.39517563126252897,
+            0.826882268693973
+        ]
+    },
+    "0.2901721984346136-4-402": {
+        "average clique similarity": 0.2901721984346136,
+        "clique": [
+            "0-His firm leases the ",
+            "3-The General Services",
+            "2-Technically  the lea",
+            "1-The hotel is housed "
+        ],
+        "median tf-idf score": 0.7447348112538159,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "His firm leases the Old Post Office Pavilion, the federally owned building where the hotel is located, from the GSA on a   deal.",
+            "The General Services Administration is pushing back against House Democrats\u2019 contention that   Donald Trump would be breaching his lease on his latest hotel in the Old Post Office Building once he takes the oath of office on Jan. 20.",
+            "Technically, the leaseholder on the Old Post Office building is \u201cTrump Old Post Office LLC \u201d That company is, in turn, made up of other Trump companies  \u2014   \u201cDJT Holdings,\u201d \u201cIvanka OPO,\u201d \u201cEric OPO,\u201d and \u201cDon OPO\u201d among them.",
+            "The hotel is housed in the old General Post Office building, which is owned by the federal government and managed by the General Services Administration."
+        ],
+        "tf-idf score": [
+            0.7566861846959275,
+            1.205531305334656,
+            0.7327834378117042,
+            0.6259056876997096
+        ]
+    },
+    "0.3310785030552107-3-6": {
+        "average clique similarity": 0.3310785030552107,
+        "clique": [
+            "0-  A spokeswoman for ",
+            "2-The Trump transition",
+            "1-GSA did not make any"
+        ],
+        "median tf-idf score": 0.4462253537714789,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d A spokeswoman for the Trump Organization did not immediately respond to a request for comment.",
+            "The Trump transition team didn\u2019t respond to a request for comment from Vox.",
+            "GSA did not make any comment on the claims that the Trump transition team had been ignoring communications."
+        ],
+        "tf-idf score": [
+            0.41444591504177825,
+            0.4462253537714789,
+            0.619289073667232
+        ]
+    },
+    "0.42489893533747686-3-70": {
+        "average clique similarity": 0.42489893533747686,
+        "clique": [
+            "0-Even that language m",
+            "3-We can make no defin",
+            "1-We can make no defin"
+        ],
+        "median tf-idf score": 0.44565441524724225,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Even that language may not constitute an    case that would force Trump to sell.",
+            "We can make no definitive statement at this time about what would constitute a breach of the agreement, and to do so now would be premature,\u201d the government agency said in a statement.",
+            "We can make no definitive statement at this time about what would constitute a breach of the agreement, and to do so now would be premature."
+        ],
+        "tf-idf score": [
+            0.44565441524724225,
+            0.4807634982900274,
+            0.24119308949624002
+        ]
+    },
+    "0.4387682724407614-3-402": {
+        "average clique similarity": 0.4387682724407614,
+        "clique": [
+            "2- The GSA later denie",
+            "4-The agency added   T",
+            "0-   We can make no de"
+        ],
+        "median tf-idf score": 0.4048349924653872,
+        "publications": [
+            "Vox",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "(The GSA later denied this report in a statement to Vox, saying it\u2019s \u201cpremature\u201d for the agency to take an official position on the matter.)",
+            "The agency added, \u201dTo do so now would be premature\u201d.",
+            "\u201d \u201cWe can make no definitive statement at this time about what would constitute a breach of the agreement, and to do so now would be premature,\u201d the agency said."
+        ],
+        "tf-idf score": [
+            0.4118561269680103,
+            0.0754816795235716,
+            0.4048349924653872
+        ]
+    },
+    "0.4408097851924031-3-151": {
+        "average clique similarity": 0.4408097851924031,
+        "clique": [
+            "3- GSA is committed to",
+            "0-GSA is committed to ",
+            "1-His political appeal"
+        ],
+        "median tf-idf score": 0.365137169259775,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201dGSA is committed to responsibly administering all of the leases to which it is a party\u201d.",
+            "GSA is committed to responsibly administering all of the leases to which it is a party.",
+            "His political appeal is built in large part on his business empire, which he has taken to be voter sanction for maintaining all of his conflicts of interest."
+        ],
+        "tf-idf score": [
+            0.365137169259775,
+            0.365137169259775,
+            0.3590837881137405
+        ]
+    },
+    "0.44329801017366965-3-402": {
+        "average clique similarity": 0.44329801017366965,
+        "clique": [
+            "2-Four House Democrats",
+            "0-In a  letter early W",
+            "1-They write  Most imp"
+        ],
+        "median tf-idf score": 1.4370992147893624,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Four House Democrats claimed in a letter released by BuzzFeed News Wednesday that an official at the GSA said in a briefing that Trump will be in breach of contract the moment he takes the oath of office unless he ends his ownership interest in the hotel.",
+            "In a  letter early Wednesday, the Congress members wrote that the official \u201cinformed our staff that GSA assesses that Mr Trump will be in breach of the lease agreement the moment he takes office on January 20, 2017, unless he fully divests himself of all financial interests in the lease for the Washington D C hotel.",
+            "They write: Most importantly, the Deputy Commissioner informed our staff that GSA assesses that Mr Trump will be in breach of his lease agreement the moment he takes office on January 20, 2017, unless he fully divests himself of all financial interests in the lease for his Washington, D C hotel."
+        ],
+        "tf-idf score": [
+            1.4370992147893624,
+            1.5147708006491665,
+            1.3350931576768574
+        ]
+    },
+    "0.5931415732578477-3-402": {
+        "average clique similarity": 0.5931415732578477,
+        "clique": [
+            "3- In fact  no determi",
+            "0- In fact  no determi",
+            "1-In fact  no determin"
+        ],
+        "median tf-idf score": 0.5663962727279475,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201dIn fact, no determination regarding the Old Post Office can be completed until the full circumstances surrounding the  \u2019s business arrangements have been finalized and he has assumed office,\u201d the statement continued.",
+            "\u201cIn fact, no determination regarding the Old Post Office can be completed until the full circumstances surrounding the  \u2019s business arrangements have been finalized and he has assumed office.",
+            "In fact, no determination regarding the Old Post Office can be completed until the full circumstances surrounding the  \u2019s business arrangements have been finalized and he has assumed office."
+        ],
+        "tf-idf score": [
+            0.62086732935617,
+            0.5663962727279475,
+            0.5663962727279475
+        ]
+    },
+    "0.6057343061585342-3-15": {
+        "average clique similarity": 0.6057343061585342,
+        "clique": [
+            "1-But in a statement r",
+            "3- GSA does not have a",
+            "0-Officials from the G"
+        ],
+        "median tf-idf score": 0.6175236625525784,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "But in a statement released around noon, GSA pushed back on the Democrats\u2019 claims: GSA does not have a position that the lease provision requires the   to divest of his financial interests.",
+            "\u201dGSA does not have a position that the lease provision requires the   to divest of his financial interests.",
+            "Officials from the General Services Administration, which oversees federal real estate, said the agency  \u201cdoes not have a position that the lease provision requires the   to divest of his financial interests."
+        ],
+        "tf-idf score": [
+            0.6175236625525784,
+            0.4729546765997635,
+            0.7352330182731436
+        ]
+    },
+    "0.7928772058121449-3-402": {
+        "average clique similarity": 0.7928772058121449,
+        "clique": [
+            "0-  They say the offic",
+            "3- The Deputy Commissi",
+            "1-The Deputy Commissio"
+        ],
+        "median tf-idf score": 0.6303398088142076,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d They say the official \u201cmade clear that Mr Trump must divest himself not only of managerial control, but of all ownership interest as well.",
+            "\u201dThe Deputy Commissioner made clear that Mr Trump must divest himself not only of managerial control, but of all ownership as well,\u201d Reps. Elijah Cummings,  .",
+            "The Deputy Commissioner made clear that Mr Trump must divest himself not only of managerial control, but of all ownership interest as well."
+        ],
+        "tf-idf score": [
+            0.6303398088142076,
+            0.6811212159905365,
+            0.6084835105745523
+        ]
+    }
+}

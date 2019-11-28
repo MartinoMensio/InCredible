@@ -1,0 +1,666 @@
+{
+    "0.1560576112186553-3-7": {
+        "average clique similarity": 0.1560576112186553,
+        "clique": [
+            "4-The sheriff said he ",
+            "3-  The desperate sear",
+            "1-Police divers recove"
+        ],
+        "median tf-idf score": 0.7873841969383121,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The sheriff said he and a Catholic priest delivered the grim news to the family.",
+            "\u201d The desperate search that began as a rescue operation eventually became a grim recovery effort on Wednesday when divers discovered the boy\u2019s body underwater, officials in Florida said.",
+            "Police divers recovered the body of Lane Graves on Wednesday from the   lake where he had been snatched by the alligator as he played at the water\u2019s edge the night before."
+        ],
+        "tf-idf score": [
+            0.4968209606443853,
+            0.865284161185935,
+            0.7873841969383121
+        ]
+    },
+    "0.16632357521968413-3-137": {
+        "average clique similarity": 0.16632357521968413,
+        "clique": [
+            "2-They have been eutha",
+            "4- We definitely will ",
+            "3-Investigators will c"
+        ],
+        "median tf-idf score": 0.4262777916767976,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "They have been euthanized to determine if any of them killed the boy.",
+            "\u201dWe definitely will work with everyone involved to try to determine if there\u2019s something we can learn, if we can do something better,\u201d agency director Nick Wiley said.",
+            "Investigators will compare bite marks to help identify whether any of the captured alligators attacked the boy, said Florida FWC Executive Director Nick Wiley."
+        ],
+        "tf-idf score": [
+            0.18947128239112343,
+            0.4262777916767976,
+            0.9385787855223865
+        ]
+    },
+    "0.17043385793396812-3-72": {
+        "average clique similarity": 0.17043385793396812,
+        "clique": [
+            "2-The child s death wa",
+            "4-According to the Orl",
+            "3- 30 years ago anothe"
+        ],
+        "median tf-idf score": 0.8336665262535,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The child\u2019s death was another blow to an area already on edge after the shootings at an Orlando nightclub early on Sunday and the murder two days earlier of a popular singer.",
+            "According to the Orlando Sentinel, Lane\u2019s death is the first alligator attack on Disney property since a reptile bit the legs of an    boy at Disney\u2019s Fort Wilderness campground in 1986.",
+            "[30 years ago another boy was attacked by an alligator at Disney."
+        ],
+        "tf-idf score": [
+            0.46327581026934617,
+            0.8911342344183714,
+            0.8336665262535
+        ]
+    },
+    "0.17087369242689462-3-340": {
+        "average clique similarity": 0.17087369242689462,
+        "clique": [
+            "1-The trappers remaine",
+            "3- What you need to kn",
+            "0-According to the wil"
+        ],
+        "median tf-idf score": 1.262504444497763,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "The trappers remained at the lagoon on Thursday after removing a sixth alligator from the water late on Wednesday in an effort to find the one that snatched the child, said Greg Workman, a spokesman for the Florida Fish and Wildlife Conservation Commission.",
+            "[What you need to know about alligator attacks, according to Jack Hanna]   Authorities from Disney World, the Orange County Sheriff\u2019s Office and the Florida Fish and Wildlife Conservation Commission deployed more than 50 law enforcement officers in helicopters and boats to the Seven Seas Lagoon, in a desperate search for the missing toddler.",
+            "According to the wildlife commission\u2019s website, at least 23 people have been killed by Florida alligators since 1973."
+        ],
+        "tf-idf score": [
+            1.262504444497763,
+            1.3372218216992422,
+            0.5430904068360819
+        ]
+    },
+    "0.1778772469411527-3-130": {
+        "average clique similarity": 0.1778772469411527,
+        "clique": [
+            "3- Legal experts  Did ",
+            "2-It s what they do ",
+            "1-It did not elaborate"
+        ],
+        "median tf-idf score": 0.008296442076609426,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "[Legal experts: Did Disney do enough to warn its guests about alligators?]",
+            "It\u2019s what they do.",
+            "It did not elaborate."
+        ],
+        "tf-idf score": [
+            0.4746719842091355,
+            0.0,
+            0.008296442076609426
+        ]
+    },
+    "0.18108842382928084-3-318": {
+        "average clique similarity": 0.18108842382928084,
+        "clique": [
+            "2-For the alligator to",
+            "3-       The family of",
+            "4- A Disney official s"
+        ],
+        "median tf-idf score": 1.3128931458341446,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "For the alligator to be able to walk right out of the lagoon and grab that child, that\u2019s crazy.",
+            "       The family of a    boy snatched by an alligator at a Disney resort said Thursday that they were \u201cdevastated\u201d by the child\u2019s death and asked \u201cfor privacy during this extremely difficult time.",
+            " A Disney official said Wednesday the company plans to \u201cthoroughly review\u201d its alligator warning signage around a resort where a    boy was killed by a reptile that snatched him out of shallow water."
+        ],
+        "tf-idf score": [
+            0.3980459341577205,
+            1.3128931458341446,
+            1.5826783345964295
+        ]
+    },
+    "0.2053600833578467-3-285": {
+        "average clique similarity": 0.2053600833578467,
+        "clique": [
+            "3-The Florida resort d",
+            "1-The resort had  No S",
+            "0-Some had questioned "
+        ],
+        "median tf-idf score": 0.9403427104043718,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Florida resort did not have signage warning of alligators in the water, and the company will \u201cthoroughly review the situation for the future,\u201d a Disney official said.",
+            "The resort had \u201dNo Swimming\u201d signs where the boy was killed at the Seven Seas Lagoon, but did not specifically mention alligators.",
+            "Some had questioned whether signs specifically warning of alligators should have been placed at the luxury property."
+        ],
+        "tf-idf score": [
+            1.1646539017691169,
+            0.9403427104043718,
+            0.43057686450071375
+        ]
+    },
+    "0.20815927598132086-3-25": {
+        "average clique similarity": 0.20815927598132086,
+        "clique": [
+            "2-Sheriff Demings note",
+            "3- This type of thing ",
+            "0-That number has been"
+        ],
+        "median tf-idf score": 0.6888901547446222,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Sheriff Demings noted that Disney had been in business in the area for 45 years and had never had a similar incident, and that no \u201cnuisance alligators\u201d had been reported in the area recently.",
+            "\u201cThis type of thing\u201d has never happened before in Disney\u2019s 45 years of operating in the state, said Demings, the sheriff.",
+            "That number has been holding steady for the past five years, he said."
+        ],
+        "tf-idf score": [
+            0.6888901547446222,
+            0.7102714947964709,
+            0.39432925594067597
+        ]
+    },
+    "0.21033460988015104-3-2": {
+        "average clique similarity": 0.21033460988015104,
+        "clique": [
+            "2- Everyone here at th",
+            "1-The attack happened ",
+            "0- We have a large pro"
+        ],
+        "median tf-idf score": 0.8164684471375275,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cEveryone here at the Walt Disney World Resort is devastated by this tragic accident,\u201d Jacquee Wahler, vice president of the Walt Disney World Resort, said in a statement.",
+            "The attack happened on a beach by Disney\u2019s Grand Floridian Resort & Spa, an upmarket property just one stop from the Magic Kingdom on Walt Disney World\u2019s monorail.",
+            "\u201dWe have a large property, and from time to time, we have to remove alligators from our property,\u201d Wahler said \u201dNearly   of Walt Disney World property is set aside as a conservation area and these areas attract a variety of native wildlife\u201d."
+        ],
+        "tf-idf score": [
+            0.8164684471375275,
+            0.6833190385530195,
+            1.091136761285854
+        ]
+    },
+    "0.21038552960601908-3-142": {
+        "average clique similarity": 0.21038552960601908,
+        "clique": [
+            "2- But we re in Florid",
+            "0- It s unimaginable  ",
+            "1-He said they are sea"
+        ],
+        "median tf-idf score": 0.6612553363797828,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cBut we\u2019re in Florida, and there are alligators in bodies of water,\u201d he said.",
+            "\u201dIt\u2019s unimaginable, the grief and what they\u2019re going through right now,\u201d he told CNN affiliate KETV More than a million gators, In Florida, alligators may be a common sight, but attacks are rare.",
+            "He said they are searching all day, but especially at night when alligators are more active because of cooler temperatures and less human activity."
+        ],
+        "tf-idf score": [
+            0.7624738121710259,
+            0.6282517646214122,
+            0.6612553363797828
+        ]
+    },
+    "0.21356769305556034-3-311": {
+        "average clique similarity": 0.21356769305556034,
+        "clique": [
+            "2-During a news confer",
+            "0-A community mourns  ",
+            "3-The sheriff identifi"
+        ],
+        "median tf-idf score": 0.4345295136777589,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "During a news conference less than a mile from the lagoon, Sheriff Demings said that he and a Catholic priest had delivered the \u201ctough message\u201d of the boy\u2019s death to Mr Graves, his wife, Melissa, and their    daughter, who live in the Elkhorn section of Omaha, Neb.",
+            "A community mourns, The boy\u2019s parents, Matt and Melissa Graves of Elkhorn, Nebraska, issued a statement on Thursday.",
+            "The sheriff identified the toddler as Lane Graves of Elkhorn, Neb."
+        ],
+        "tf-idf score": [
+            0.9156097640888181,
+            0.4345295136777589,
+            0.24733507385878892
+        ]
+    },
+    "0.22580235903223114-3-13": {
+        "average clique similarity": 0.22580235903223114,
+        "clique": [
+            "2-Wildlife experts est",
+            "3-The sheriff told the",
+            "0-There are an estimat"
+        ],
+        "median tf-idf score": 0.07898707115489445,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Wildlife experts estimate that there are 1.",
+            "The sheriff told the Associated Press on Wednesday that charges are unlikely against the boy\u2019s parents because \u201cthere\u2019s nothing in this case to indicate that there was anything extraordinary\u201d in terms of parental neglect.",
+            "There are an estimated 1."
+        ],
+        "tf-idf score": [
+            0.07898707115489445,
+            0.613731748199711,
+            0.017553601688833825
+        ]
+    },
+    "0.2293483305151706-3-56": {
+        "average clique similarity": 0.2293483305151706,
+        "clique": [
+            "4-The sheriff later id",
+            "1-The boy was grabbed ",
+            "2-His parents and sist"
+        ],
+        "median tf-idf score": 0.6317550582862561,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "The sheriff later identified the boy as Lane Graves, who was on vacation with his parents, Matt and Melissa Graves, and his    sister.",
+            "The boy was grabbed by the reptile at the water\u2019s edge at about 9:15 p. m. on Tuesday while his family, on vacation from Omaha, Nebraska, relaxed on the shore nearby, authorities have said.",
+            "His parents and sister, Nebraskans all, were nearby on the beach at a Disney resort here, relaxing, carefree."
+        ],
+        "tf-idf score": [
+            0.6317550582862561,
+            0.989702951902376,
+            0.4114269904496052
+        ]
+    },
+    "0.24993059520152236-4-208": {
+        "average clique similarity": 0.24993059520152236,
+        "clique": [
+            "4-Orange County Sherif",
+            "0-The Graves family wa",
+            "3-They relaxed on the ",
+            "2-The recovery ended a"
+        ],
+        "median tf-idf score": 1.013802155272795,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Orange County Sheriff Jerry Demings said his department and the state wildlife agency would look into the issues of warning signs around Seven Seas Lagoon at The Grand Floridian Resort  Spa, where Disney had posted \u201cno swimming\u201d signs but no warnings about the presence of alligators.",
+            "The Graves family was at a movie night outdoors Tuesday night at the Grand Floridian resort when the boy waded into about a foot of water in Seven Seas Lagoon, authorities have said.",
+            "They relaxed on the   beach that stretches along Disney\u2019s luxe Grand Floridian Resort and Spa, one of the features the hotel uses to entice its guests, and they watched their young son wade   into the lake known by vacationers as Seven Seas Lagoon.",
+            "The recovery ended a search that began shortly after 9 p. m. on Tuesday in the lagoon at Disney\u2019s Grand Floridian Resort and Spa."
+        ],
+        "tf-idf score": [
+            1.4844046966745106,
+            1.2730355720085638,
+            0.754568738537026,
+            0.5297673385800694
+        ]
+    },
+    "0.25491283043571883-3-366": {
+        "average clique similarity": 0.25491283043571883,
+        "clique": [
+            "0-There are  No Swimmi",
+            "2-  Lane had been spla",
+            "3-A sign on the beach "
+        ],
+        "median tf-idf score": 0.45028735638147893,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "There are \u201dNo Swimming\u201d signs at the lagoon, but there are no warning signs about alligators.",
+            "\u201d Lane had been splashing about, the sheriff said, despite a sign that said swimming was not permitted in the lagoon.",
+            "A sign on the beach noted that swimming was prohibited in the lagoon."
+        ],
+        "tf-idf score": [
+            0.45028735638147893,
+            0.7678299068681842,
+            0.4326692282364333
+        ]
+    },
+    "0.2893612728394634-3-121": {
+        "average clique similarity": 0.2893612728394634,
+        "clique": [
+            "3-The father  Matt Gra",
+            "1-His parents  Matt an",
+            "4-The boy s father tri"
+        ],
+        "median tf-idf score": 0.7680052068932539,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The father, Matt Graves, rushed into the water and grabbed desperately for the boy; Graves cut his hand while attempting to wrestle Lane away from the gator but was unable to save his son.",
+            "His parents, Matt and Melissa Graves, tried to save the child but were unable to free him from the alligator\u2019s grip.",
+            "The boy\u2019s father tried and failed to pry his son from the alligator\u2019s jaws, leaving him with cuts and scratches, Demings said."
+        ],
+        "tf-idf score": [
+            0.7680052068932539,
+            0.48291003027666074,
+            0.8363250326095228
+        ]
+    },
+    "0.31029006772209305-3-366": {
+        "average clique similarity": 0.31029006772209305,
+        "clique": [
+            "4-The Florida Fish and",
+            "3-June 15  2016   In t",
+            "0-3 million alligators"
+        ],
+        "median tf-idf score": 1.06224409220585,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "The Florida Fish and Wildlife Conservation Commission said Disney removes alligators from the water routinely.",
+            "June 15, 2016   In the shadow of Walt Disney World, Florida Fish and Wildlife Conservation Officers search for the body of the young boy who was snatched by an alligator at Disney\u2019s upscale Grand Floridian Resort and Spa in Orlando.",
+            "3 million alligators in Florida, said Arnold Brunell, a wildlife biologist and researcher for the Florida Fish and Wildlife Conservation Commission."
+        ],
+        "tf-idf score": [
+            1.06224409220585,
+            1.4618105817280933,
+            0.8166717787131497
+        ]
+    },
+    "0.3230720931314925-3-366": {
+        "average clique similarity": 0.3230720931314925,
+        "clique": [
+            "2- This includes the n",
+            "1- This includes the n",
+            "0-Earlier  a spokeswom"
+        ],
+        "median tf-idf score": 0.13769571992565713,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cThis includes the number, placement and wording of our signage and warnings.",
+            "\u201dThis includes the number, placement and wording of our signage and warnings\u201d.",
+            "Earlier, a spokeswoman for the popular tourist destination in Lake Buena Vista, Florida, said officials were reviewing the placement and wording of warning signs."
+        ],
+        "tf-idf score": [
+            0.13769571992565713,
+            0.13769571992565713,
+            0.7124210855510473
+        ]
+    },
+    "0.32745928412344477-3-189": {
+        "average clique similarity": 0.32745928412344477,
+        "clique": [
+            "1-The commission s exe",
+            "0- We re going to make",
+            "2-   The resort has a "
+        ],
+        "median tf-idf score": 0.8475697433343803,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "The commission\u2019s executive director, Nick Wiley, has said there is a good chance they have already captured the alligator in question.",
+            "\u201dWe\u2019re going to make certain that we have the alligator that was involved, and that we remove it from the lake,\u201d Florida Fish and Wildlife Conservation Commission Executive Director Nick Wiley said.",
+            "\u2019\u2019 The resort has a wildlife management team that monitors alligators and other animals and regularly removes any that appear to be troublesome, according to Nick Wiley, executive director of the Florida Fish and Wildlife Conservation Commission."
+        ],
+        "tf-idf score": [
+            0.7306569302466898,
+            1.1817098286879284,
+            0.8475697433343803
+        ]
+    },
+    "0.32933169045082633-4-46": {
+        "average clique similarity": 0.32933169045082633,
+        "clique": [
+            "0-A troubled week for ",
+            "3-Divers found the boy",
+            "4-  Demings said that ",
+            "2-The alligator made o"
+        ],
+        "median tf-idf score": 1.1287653236707764,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "A troubled week for Disney, Body found intact, A dive team found the boy\u2019s body intact in 6 feet of murky water about 10 to 15 yards from where he was attacked, Orange County Sheriff Jerry Demings said Wednesday.",
+            "Divers found the boy\u2019s body \u201ccompletely intact\u201d about six feet beneath the surface of the massive,   lagoon, not far from the area where he was attacked the previous night, Orange County Sheriff Jerry Demings said Wednesday afternoon.",
+            "\u201d Demings said that the body was in water roughly six feet deep,   yards from the edge of the lagoon where the child had been wading Tuesday night.",
+            "The alligator made off with the boy, and an intense search for him yielded nothing in the wide, murky expanse of water until more than 16 hours later, early on Wednesday afternoon, when divers found him about six feet below the surface and only 10 to 15 feet from where he had last been seen."
+        ],
+        "tf-idf score": [
+            1.378607091804146,
+            1.2953644638321196,
+            0.9621661835094331,
+            0.7872554498640687
+        ]
+    },
+    "0.3316678443168459-3-194": {
+        "average clique similarity": 0.3316678443168459,
+        "clique": [
+            "3- Alligators found ea",
+            "4-The lake  which stre",
+            "2-The artificial lake "
+        ],
+        "median tf-idf score": 0.43095519005348193,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "[Alligators found eating human remains in Florida Everglades]   Trappers removed five alligators from the lake, which covers nearly 200 acres and borders the Magic Kingdom theme park.",
+            "The lake, which stretches over about 200 acres and reaches a depth of 14 feet, feeds into a series of canals that winds through the entire Disney property.",
+            "The artificial lake, which covers about 200 acres, is 14 feet deep in parts and feeds a series of canals that wind through the Disney complex."
+        ],
+        "tf-idf score": [
+            0.5937359589168318,
+            0.43095519005348193,
+            0.3972807448347592
+        ]
+    },
+    "0.3493088311766414-3-169": {
+        "average clique similarity": 0.3493088311766414,
+        "clique": [
+            "0- Of course  the auto",
+            "2- The family was dist",
+            "3-Although a formal id"
+        ],
+        "median tf-idf score": 0.9409189081475237,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dOf course, the autopsy has to confirm that, but there is likely no question in my mind that the child was drowned by the alligator,\u201d Demings said.",
+            "\u201cThe family was distraught but also, I believe, relieved that we were able to find their son,\u201d said the sheriff, who noted that there was no question in his mind that \u201cthe child was drowned by the alligator.",
+            "Although a formal identification is pending, \u201cthere is no reason to believe that the body that was recovered is not that of Lane Graves,\u201d Demings said."
+        ],
+        "tf-idf score": [
+            0.9409189081475237,
+            1.056948211911683,
+            0.7764931524678946
+        ]
+    },
+    "0.35180419246256767-4-107": {
+        "average clique similarity": 0.35180419246256767,
+        "clique": [
+            "0-Disney beaches close",
+            "2-  Ms Wahler said on ",
+            "4-Disney beaches remai",
+            "1-Disney spokeswoman J"
+        ],
+        "median tf-idf score": 0.70985839423785,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "Disney beaches closed, By midmorning Wednesday, Disney had closed all beaches in its resort area \u201dout of an abundance of caution\u201d after the attack, a Disney representative said.",
+            "\u201d Ms Wahler said on Thursday that the beaches at the resort were closed and would remain   to guests.",
+            "Disney beaches remained closed through Wednesday.",
+            "Disney spokeswoman Jacquee Wahler said on Thursday that resort beaches that were closed after the attack would be   to guests until further notice."
+        ],
+        "tf-idf score": [
+            0.8273145915542052,
+            0.5924021969214948,
+            0.3431129940499218,
+            0.8676889901804608
+        ]
+    },
+    "0.41657797760085763-3-66": {
+        "average clique similarity": 0.41657797760085763,
+        "clique": [
+            "3-   Words cannot desc",
+            "1-The Graves family re",
+            "0- Matt s family is th"
+        ],
+        "median tf-idf score": 0.6500768359194398,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201d \u201cWords cannot describe the shock and grief our family is experiencing over the loss of our son,\u201d the Graves family said in a statement, reported ABC News.",
+            "The Graves family released a statement praising local authorities and adding: \u201dWords cannot describe the shock and grief our family is experiencing over the loss of our son.",
+            "\u201dMatt\u2019s family is the light of his life and his family\u2019s anguish is our own,\u201d the statement said, according to CNN affiliate KMTV \u201dWhat happened last night was a terrible accident and one that is devastating to the entirety of Infogroup\u201d."
+        ],
+        "tf-idf score": [
+            0.6500768359194398,
+            0.39952908788796604,
+            0.8248680656530676
+        ]
+    },
+    "0.5239680474432064-4-258": {
+        "average clique similarity": 0.5239680474432064,
+        "clique": [
+            "3- We are devastated a",
+            "2- We are devastated  ",
+            "0-We are devastated an",
+            "1-We are devastated an"
+        ],
+        "median tf-idf score": 0.24730579778942313,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cWe are devastated and heartbroken by this tragic accident and are doing what we can to help them during this difficult time.",
+            "\u201cWe are devastated,\u201d the statement said.",
+            "We are devastated and ask for privacy during this extremely difficult time,\u201d they said.",
+            "We are devastated and ask for privacy during this extremely difficult time\u201d."
+        ],
+        "tf-idf score": [
+            0.14788671196084047,
+            0.3467248836180058,
+            0.4071360206076085,
+            0.13127013779254193
+        ]
+    },
+    "0.6211472012844969-3-173": {
+        "average clique similarity": 0.6211472012844969,
+        "clique": [
+            "1- The cause of death ",
+            "2-The medical examiner",
+            "0-Graves died due to d"
+        ],
+        "median tf-idf score": 0.592116360173315,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dThe cause of death was ruled as a result of drowning and traumatic injuries,\u201d the Orange County Medical Examiner\u2019s Office said in a brief statement.",
+            "The medical examiner ruled Thursday that the cause of death was drowning and traumatic injuries.",
+            "Graves died due to drowning and traumatic injuries, the Orange County Medical Examiner\u2019s Office said Thursday."
+        ],
+        "tf-idf score": [
+            0.7736730611550595,
+            0.40804724078644183,
+            0.592116360173315
+        ]
+    },
+    "0.7070658293886481-3-214": {
+        "average clique similarity": 0.7070658293886481,
+        "clique": [
+            "1- All of our beaches ",
+            "2- We are conducting a",
+            "0- We are conducting a"
+        ],
+        "median tf-idf score": 0.5325068341347992,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dAll of our beaches are currently closed, and we are conducting a swift and thorough review of all of our processes and protocols,\u201d Wahler said in a statement.",
+            "\u201cWe are conducting a swift and thorough review of our processes and protocols,\u201d she said.",
+            "\u201dWe are conducting a swift and thorough review of all of our processes and protocols,\u201d Walt Disney World Resort Vice President Jacquee Wahler said in a statement Thursday."
+        ],
+        "tf-idf score": [
+            0.5325068341347992,
+            0.3626748602652698,
+            0.9078577895351159
+        ]
+    }
+}

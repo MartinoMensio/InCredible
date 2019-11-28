@@ -1,0 +1,258 @@
+{
+    "0.264915176781205-3-76": {
+        "average clique similarity": 0.264915176781205,
+        "clique": [
+            "4-Rio s high crime rat",
+            "0-Lochte  who has 12 c",
+            "1-He left my credentia"
+        ],
+        "median tf-idf score": 1.1043407818917326,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Rio's high crime rate has been a source of concern for athletes and tourists, and there have been a number of incidents. But with heavy security in and around the Olympic venues, reports of problems have been isolated so far. The swimming competition in Rio ended on Saturday night. Lochte, 32, won one gold medal in Rio as a member of the 4x200 freestyle relay.",
+            "Lochte, who has 12 career Olympic medals and five gold medals, swam in two events at the Rio Games, winning gold in the   freestyle relay.",
+            "He left my credentials. \" The Rio swimming competition ended Saturday night. Lochte, 32, won his sixth career Olympic gold as part of the 4x  relay but failed to medal in his only individual event, the   medley, where Michael Phelps took gold."
+        ],
+        "tf-idf score": [
+            1.2607567390462011,
+            0.857219776780427,
+            1.1043407818917326
+        ]
+    },
+    "0.2766427457255909-3-9": {
+        "average clique similarity": 0.2766427457255909,
+        "clique": [
+            "2-After interviewing o",
+            "3-Rio de Janeiro civil",
+            "0- The Civil Police we"
+        ],
+        "median tf-idf score": 0.8434198960592492,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "After interviewing one of the swimmers, police said in a statement that the athletes had been returning from the party in the taxi when they were robbed but \"the victim did not know where the robbery happened. \"",
+            "Rio de Janeiro civil police told CNN they have opened an investigation, a few hours after first learning about the robbery from the media, and had not been contacted by the USOC Fellow Team USA swimmer Nathan Adrian said he heard the news about the incident when he woke up, but said he wasn't worried.",
+            "\"The Civil Police were not notified about the robbery which an American swimmer suffered after leaving a party,\" the statement said. \"The institution is investigating the incident, on the base of information circulated by the press."
+        ],
+        "tf-idf score": [
+            0.8434198960592492,
+            1.1795691479311994,
+            0.8360422701268874
+        ]
+    },
+    "0.3028665812897032-3-65": {
+        "average clique similarity": 0.3028665812897032,
+        "clique": [
+            "2- The Olympics are a ",
+            "3-One of the bandits r",
+            "1-Lochte said he and f"
+        ],
+        "median tf-idf score": 1.4153213580163575,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "[The Olympics are a test Brazil has yet to pass]      1, 000 times gold View Graphic     1, 000 times gold  Lochte, who won a gold medal as part of a relay in these Games, had been traveling home in a taxi, heading to the Olympic Village after a dance party, along with teammates Gunnar Bentz, Jimmy Feigen, and Jack Conger, when the robbery took place, according to the U S Olympic Committee.",
+            "One of the bandits reportedly put a gun to Lochte's forehead. Lochte and fellow swimmers Gunnar Bentz, Jack Conger and Jimmy Feigen had left a hospitality house hosted by France early Sunday in a taxi bound for the Olympic Village.",
+            "Lochte said he and fellow Rio   relay swimmers Gunnar Bentz, Jack Conger and Jimmy Feigen were heading back to the Olympic Village at around 2:30 a. m. to 3 a. m. when their cab was stopped by armed men claiming to be cops."
+        ],
+        "tf-idf score": [
+            1.4153213580163575,
+            1.2202091727959865,
+            1.4417829172203374
+        ]
+    },
+    "0.3231480074838066-4-57": {
+        "average clique similarity": 0.3231480074838066,
+        "clique": [
+            "2-  RIO DE JANEIRO    ",
+            "4-Ryan Lochte and thre",
+            "3-Rio de Janeiro  Braz",
+            "1-US swimmer Ryan Loch"
+        ],
+        "median tf-idf score": 1.2792759433572742,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "  RIO DE JANEIRO  --   The three other United States swimmers were lying on the ground, following their assailant's orders, when the gunman turned to Ryan Lochte, one of Team USA's charming stars.",
+            "Ryan Lochte and three other U S swimmers were robbed by thieves who put a cocked gun to Lochte's head in Rio de Janeiro early Sunday morning, the U S swimmer told NBC  Lochte and his friends were in a taxi, going to visit a Brazilian swimmer, when the robbers stopped them.",
+            "Rio de Janeiro, Brazil (CNN) Olympic medalist Ryan Lochte and three other US swimmers were safe and cooperating with police Sunday after being robbed at gunpoint in Rio de Janeiro, the U S Olympic Committee said.",
+            "US swimmer Ryan Lochte and three of his Olympic teammates were robbed at gunpoint as they left a party in Rio de Janeiro early Sunday, with one thug pressing a cocked pistol to the athlete's head after he refused to kneel."
+        ],
+        "tf-idf score": [
+            0.8229173747291136,
+            1.2904238930324279,
+            1.3443054205455016,
+            1.2681279936821208
+        ]
+    },
+    "0.363362703899852-3-18": {
+        "average clique similarity": 0.363362703899852,
+        "clique": [
+            "2- Thank you for your ",
+            "3-Lochte released a st",
+            "1- USOC and USA Swimmi"
+        ],
+        "median tf-idf score": 0.7623147770689516,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\"Thank you for your love and support. \" \"P S The gold medal is safe,\" he added.",
+            "Lochte released a statement thanking family, friends, and fans for their support. \"While it is true that my teammates and I were victims of a robbery early Sunday morning, what is most important is that we are safe and unharmed,\" he said. Bentz tweeted, \"We are all safe. Thank you for your love and support\".",
+            "\"USOC and USA Swimming are always making sure we're as protected as we can be. \" Adrian said: \"There are going to be problems anywhere you go. We have been briefed about how to mitigate those risks as well as possible. Very happy all those boys are safe. \" Bentz tweeted Sunday afternoon, \"Thank you for your love and support. \""
+        ],
+        "tf-idf score": [
+            0.2494958461803949,
+            1.058147608123705,
+            0.7623147770689516
+        ]
+    },
+    "0.4657693813411818-3-80": {
+        "average clique similarity": 0.4657693813411818,
+        "clique": [
+            "2-Lochte told NBC that",
+            "1- These guys came out",
+            "0-Lochte  32  told NBC"
+        ],
+        "median tf-idf score": 0.7267363238310242,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Lochte told NBC that after the taxi pulled over, men approached them with a police badge.",
+            "\"These guys came out with a badge, a police badge, no lights, no nothing, just a police badge and pulled us over,\" Lochte told the \"Today\" show's Billy Bush.",
+            "Lochte, 32, told NBC the quartet of swimmers were in a taxi coming home from a party at Club France when the cab pulled over and was accosted by a group of men who flashed a police badge and guns."
+        ],
+        "tf-idf score": [
+            0.6947051082367425,
+            0.7267363238310242,
+            1.3078214892317503
+        ]
+    },
+    "0.49463556043358853-4-26": {
+        "average clique similarity": 0.49463556043358853,
+        "clique": [
+            "2-The four swimmers on",
+            "1- Their taxi was stop",
+            "3-The vehicle was  sto",
+            "4- Their taxi was stop"
+        ],
+        "median tf-idf score": 0.9992008858287798,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "The four swimmers on the U S Olympic team lost their money and wallets but otherwise escaped unharmed from the gunmen who were posing as police officers.",
+            "\"Their taxi was stopped by individuals posing as armed police officers who demanded the athletes' money and other personal belongings,\" the USOC said in a statement. \"All four athletes are safe and cooperating with authorities. ''",
+            "The vehicle was \"stopped by individuals posing as armed police officers who demanded the athletes' money and other personal belongings,\" said USOC spokesman Patrick Sandusky. Appearing on NBC, Lochte offered chilling details.",
+            "\"Their taxi was stopped by individuals posing as armed police officers who demanded the athletes' money and other personal belongings. All four athletes are safe and cooperating with authorities,\" the statement said."
+        ],
+        "tf-idf score": [
+            0.6084466720708773,
+            1.0170892720906606,
+            1.227909299316342,
+            0.981312499566899
+        ]
+    },
+    "0.592457852588528-5-17": {
+        "average clique similarity": 0.592457852588528,
+        "clique": [
+            "4-He took our money  h",
+            "0- I refused  I was li",
+            "3-He took our money  h",
+            "2-After the man threat",
+            "1- The guy pulled out "
+        ],
+        "median tf-idf score": 1.1042588170634193,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "He took our money, he took my wallet  --   he left my cellphone, he left my credentials\". Patrick Sandusky, a spokesman for the U S Olympic Committee, said in a statement that in addition to Lochte, three other swimmers were robbed: Gunnar Bentz, Jack Conger and Jimmy Feigen.",
+            "\"I refused, I was like, 'We didn't do anything wrong, so  --   I'm not getting down on the ground.' \"And then the guy pulled out his gun, he cocked it, put it to my forehead and he said, 'Get down,' and I put my hands up, I was like 'Whatever.' He took our money, he took my wallet  --   he left my cellphone, he left my credentials\".",
+            "He took our money, he took my wallet    he left my cell phone, he left my credentials\". \"I think they're all shaken up,\" Lochte's mother, Ileana Lochte, told USA Today.",
+            "After the man threatened him with the gun, Lochte said, \"He took our money, he took my wallet  --   he left my cellphone, he left my credentials. \"",
+            "\"The guy pulled out his gun, he cocked it, put it on my forehead, and he said, 'Get down.' I put my hands up. I was like, 'Whatever,' \" he told Bush, gesturing to show how he had raised his hands and how the robber had pointed the gun. \"He took our money, he took my wallet. He left my cell phone."
+        ],
+        "tf-idf score": [
+            1.3977698687022115,
+            1.1252063675306658,
+            0.7495503782692826,
+            0.7801940584878254,
+            1.1042588170634193
+        ]
+    },
+    "0.750930689330048-3-80": {
+        "average clique similarity": 0.750930689330048,
+        "clique": [
+            "3-I refused  I was lik",
+            "2- And then the guy pu",
+            "4-I refused  I was lik"
+        ],
+        "median tf-idf score": 0.8656189870324055,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "I refused, I was like we didn't do anything wrong, so    I'm not getting down on the ground. \"And then the guy pulled out his gun, he cocked it, put it to my forehead and he said, 'Get down,' and I put my hands up, I was like 'whatever.'",
+            "\"And then the guy pulled out his gun, he cocked it, put it to my forehead and he said, 'Get down,' and I put my hands up. I was like, 'Whatever. '\"",
+            "I refused, I was like, we didn't do anything wrong, so  --   I'm not getting down on the ground\". Lochte, who's known for his   nonchalant attitude, added: \"And then the guy pulled out his gun, he cocked it, put it to my forehead, and he said, 'Get down,' and I put my hands up, I was like 'whatever.'"
+        ],
+        "tf-idf score": [
+            0.8656189870324055,
+            0.6966499532703466,
+            1.1672780343705622
+        ]
+    },
+    "0.7855043723245045-3-31": {
+        "average clique similarity": 0.7855043723245045,
+        "clique": [
+            "4- We got pulled over ",
+            "2- They pulled out the",
+            "3- We got pulled over "
+        ],
+        "median tf-idf score": 1.123398548477691,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\"We got pulled over, in the taxi, and these guys came out with a badge, a police badge  --   no lights, no nothing, just a police badge  --   and they pulled us over,\" Lochte told NBC \"They pulled out their guns, they told the other swimmers to get down on the ground  --   they got down on the ground.",
+            "\"They pulled out their guns, they told the other swimmers to get down on the ground  --   they got down on the ground,\" Lochte said. \"I refused.",
+            "\"We got pulled over, in the taxi, and these guys came out with a police badge, no lights, no nothing    just a police badge and they pulled us over,\" Lochte told NBC \"They pulled out their guns, they told the other swimmers to get down on the ground    they got down on the ground."
+        ],
+        "tf-idf score": [
+            1.123398548477691,
+            0.9949728705095225,
+            1.123398548477691
+        ]
+    }
+}

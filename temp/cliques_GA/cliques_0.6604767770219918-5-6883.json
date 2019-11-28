@@ -1,0 +1,578 @@
+{
+    "0.1320272768121572-3-34": {
+        "average clique similarity": 0.1320272768121572,
+        "clique": [
+            "0-There is no guarante",
+            "4-Years of research ha",
+            "2-Dan says there are a"
+        ],
+        "median tf-idf score": 0.3964633788682192,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "There is no guarantee that they will all receive regulatory approval, and some companies may have to sell assets to allay antitrust concerns. Dow's merger with DuPont is under Justice Department review.",
+            "Years of research have revealed no proof that genetically engineered crops pose risks to human health. A National Academies of Sciences expert panel concluded in May that there was \"no substantiated evidence\" that the crops had endangered our bodies or hurt the globe.",
+            "Dan says there are a number of questions: Will people still march against Monsanto if Monsanto is no more?"
+        ],
+        "tf-idf score": [
+            0.5020617936533995,
+            0.3964633788682192,
+            0.33453785553434323
+        ]
+    },
+    "0.13607813758089715-3-151": {
+        "average clique similarity": 0.13607813758089715,
+        "clique": [
+            "2-The purchase is part",
+            "3-U S Senate Judiciary",
+            "0-He blamed the rising"
+        ],
+        "median tf-idf score": 0.8702270133927485,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "The purchase is part of \"a dramatic wave of consolidation among the companies that sell seeds and pesticides to farmers,\" as NPR's Dan Charles puts it. \"Two other such deals are currently in the works,\" Dan explains.",
+            "U S Senate Judiciary Committee Chairman Chuck Grassley has called a hearing next Tuesday to scrutinize the wave of consolidation. Farmers in Iowa, the Republican senator's home state, are worried that seed and chemical costs are rising while grain prices are near their lowest levels in years.",
+            "He blamed the rising costs of inputs  --   seeds, fertilizer and the like  --   for eating away at farmers' profit margins, and warned that consolidation will make it worse."
+        ],
+        "tf-idf score": [
+            0.8702270133927485,
+            0.90974166443562,
+            0.5026113265133085
+        ]
+    },
+    "0.13630609039104644-3-347": {
+        "average clique similarity": 0.13630609039104644,
+        "clique": [
+            "1-It s hard to even sa",
+            "0- The more consolidat",
+            "3-2 percent  according"
+        ],
+        "median tf-idf score": 0.7661488433374413,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "It's hard to even say the name without triggering a fierce reaction. The company has long been the public face of GMOs, thanks in part to the sheer dominance of its corn, soy, cotton, and other crops engineered to be resistant to the herbicide Roundup. And pretty soon, Monsanto may no longer exist.",
+            "\"The more consolidation we have on our inputs, the worse it gets. \" Mr Condon of Bayer said that the company would not raise prices without providing more value to farmers.",
+            "2 percent, according to data compiled by the Konkurrenz Group. \"I would have to say this: I think there will be some concern from the growers because of the consolidation,\" said Craig Brown, a vice president of the National Cotton Council of America."
+        ],
+        "tf-idf score": [
+            0.7869470371546033,
+            0.7661488433374413,
+            0.5362672095721147
+        ]
+    },
+    "0.13809808276515853-3-191": {
+        "average clique similarity": 0.13809808276515853,
+        "clique": [
+            "3- As the global agric",
+            "0-Monsanto  which is f",
+            "4-Bayer  the German fi"
+        ],
+        "median tf-idf score": 0.8928130573469633,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            " As the global agricultural sector races to consolidate, Bayer AG's $66 billion   deal to acquire Monsanto Co will test growing political and consumer unease in the United States and abroad over the future of food production.",
+            "Monsanto, which is famous for its production of genetically modified seeds, rejected several offers from Bayer as too low.",
+            "Bayer, the German firm better known for pharmaceuticals such as Aleve and   said it will spearhead the largest   buyout in history in hopes of taking over St.   Monsanto, the world's largest supplier of genetically modified seeds."
+        ],
+        "tf-idf score": [
+            0.8928130573469633,
+            0.5773828115235757,
+            0.9701482985746723
+        ]
+    },
+    "0.13981612902984222-3-56": {
+        "average clique similarity": 0.13981612902984222,
+        "clique": [
+            "4-The  100 billion glo",
+            "2-He says the deal is ",
+            "3-Writing by P J Huffs"
+        ],
+        "median tf-idf score": 0.7048827539027495,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The $100 billion global market for seeds and pesticides has grown increasingly competitive, as farmers duel for crop and market share on a planet whose population is expected to grow more than 30 percent by 2050, to 9.",
+            "He says the deal is expected to be completed by the end of 2017.",
+            "Writing by P J Huffstutter in Chicago; Editing by David Gregorio) U S credit card processor Vantiv agreed to buy Britain's Worldpay for 7. 7 billion pounds ($10 billion) on Wednesday in a move expected to trigger further deals. Jana Partners LLC on Wednesday detailed its criticism of natural gas producer EQT Corp's plan to buy Rice Energy Inc  laying out its argument as to why the hedge fund believes an EQT   would be better for shareholders than the pending $6."
+        ],
+        "tf-idf score": [
+            0.8363067113370628,
+            0.2615684555849082,
+            0.7048827539027495
+        ]
+    },
+    "0.14280792874657297-3-235": {
+        "average clique similarity": 0.14280792874657297,
+        "clique": [
+            "1-The company has trie",
+            "4-The new company woul",
+            "2-But regulators might"
+        ],
+        "median tf-idf score": 0.40516104824513005,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "The company has tried a series of rebranding moves over the years to burnish its reputation.",
+            "The new company would preside over roughly   of the world's seed and pesticide supplies.",
+            "But regulators might still be wary of the purchase, based on the combined control the company would have over agricultural products."
+        ],
+        "tf-idf score": [
+            0.3589856739010671,
+            0.48802116054566497,
+            0.40516104824513005
+        ]
+    },
+    "0.14394023426409497-3-332": {
+        "average clique similarity": 0.14394023426409497,
+        "clique": [
+            "3-The Monsanto and Bay",
+            "1-Which is why Europea",
+            "4-The deal is likely t"
+        ],
+        "median tf-idf score": 0.6503886338690483,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "The Monsanto and Bayer deal, which would be the     acquisition, faces intense and lengthy regulatory processes in the United States, the European Union and elsewhere, experts said.",
+            "Which is why European Union regulators and the US Department of Justice are likely to scrutinize this deal more closely than usual, to make sure it doesn't create an   monopoly that can crank up prices on farmers and shoppers.",
+            "The deal is likely to draw intense scrutiny from antitrust regulators, who will assess whether the merger would unfairly lead to higher prices and fewer choices for farmers' most important building blocks."
+        ],
+        "tf-idf score": [
+            0.8165139716381079,
+            0.5669093743890924,
+            0.6503886338690483
+        ]
+    },
+    "0.14510763604857843-3-199": {
+        "average clique similarity": 0.14510763604857843,
+        "clique": [
+            "3-If all these deals c",
+            "0-The market seemed to",
+            "1-As Philpott points o"
+        ],
+        "median tf-idf score": 0.6293093897139231,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "If all these deals close, three companies would control nearly 70 percent of the world's pesticide market and 80 percent of the U S   market.",
+            "The market seemed to anticipate hurdles for the Monsanto deal on Wednesday.",
+            "As Philpott points out, just two weeks ago, the DOJ halted a deal in which Monsanto would've sold its precision planting division to John Deere  --   because the latter would have had 86 percent of the market in these technologies. Not an auspicious sign for Bayer."
+        ],
+        "tf-idf score": [
+            0.6293093897139231,
+            0.48661801721601006,
+            0.7718381318735426
+        ]
+    },
+    "0.14526191530144913-3-9": {
+        "average clique similarity": 0.14526191530144913,
+        "clique": [
+            "0-Mr Condon said that ",
+            "4-The   deal is valued",
+            "3-Bayer s share of the"
+        ],
+        "median tf-idf score": 0.6468936126158771,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Mr Condon said that he does not believe there is much overlap between their portfolios, because Bayer's focus is largely on crop protection, while Monsanto's is on seeds and traits.",
+            "The   deal is valued at about $128 a share and is larger than the previous record, the $60 billion merger between brewers   and InBev in 2008.",
+            "Bayer's share of the U S cotton seed market sits at 38. 5 percent, while Monsanto is 31."
+        ],
+        "tf-idf score": [
+            0.859576276463439,
+            0.4047440735142238,
+            0.6468936126158771
+        ]
+    },
+    "0.15258824540880406-3-25": {
+        "average clique similarity": 0.15258824540880406,
+        "clique": [
+            "3-INEVITABLE SCRUTINY ",
+            "1-For this reason  gro",
+            "0-In response  these c"
+        ],
+        "median tf-idf score": 0.6789552794050452,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "New York Times"
+        ],
+        "sentences": [
+            "INEVITABLE SCRUTINY It has been a tough year for aggressive  . Antitrust authorities have challenged agreements ranging from oilfield services mergers to health insurance buyouts. Other regulators have cracked down on deals that aid tax avoidance or risk harming national security.",
+            "For this reason, groups like the National Farmers Union have been opposing many of these deals.",
+            "In response, these companies have sought   deals to cut costs and weather the industry's storm. Four major agribusiness mergers have been announced in the last year."
+        ],
+        "tf-idf score": [
+            0.7257018344193634,
+            0.39147480571518206,
+            0.6789552794050452
+        ]
+    },
+    "0.15308130952968332-3-45": {
+        "average clique similarity": 0.15308130952968332,
+        "clique": [
+            "0-Because farmers have",
+            "4-7 billion  Tensions ",
+            "1-So their only choice"
+        ],
+        "median tf-idf score": 0.6914575703435484,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Because farmers have produced too much corn, wheat and soybeans, they have been forced to slash prices to sell their crops.",
+            "7 billion. Tensions have escalated further because global crop prices have fallen for three years in a row, squeezing profits and forcing the seed and agriculture industries to cut costs and trim their workforces.",
+            "So their only choice at this point is to consolidate further, hoping to convince shareholders that they can slash costs and keep profits high. Monsanto, the world's largest seed producer, has found itself in a surprisingly precarious position."
+        ],
+        "tf-idf score": [
+            0.3941217968755353,
+            0.6914575703435484,
+            0.710396468551945
+        ]
+    },
+    "0.16215403818392995-3-294": {
+        "average clique similarity": 0.16215403818392995,
+        "clique": [
+            "2-Like Monsanto  it se",
+            "4-Sales at Monsanto  w",
+            "0-European competition"
+        ],
+        "median tf-idf score": 0.6628464944260525,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Like Monsanto, it sells agricultural products such as seeds and pesticides. That's in addition to a plastics business, diagnostic imaging products, health products for animals and a biotech division\".",
+            "Sales at Monsanto, which employs 20, 000 and also develops such products as the   herbicide Roundup, totaled $15 billion last year.",
+            "European competition regulators also said publicly, before a   deal was even signed, that they would look at how it could affect prices and the availability of seed products, as well as research."
+        ],
+        "tf-idf score": [
+            0.6628464944260525,
+            0.4756411536473134,
+            0.7941893921153481
+        ]
+    },
+    "0.16805923961980238-3-261": {
+        "average clique similarity": 0.16805923961980238,
+        "clique": [
+            "4-The deal would also ",
+            "0-By improving the pro",
+            "1-If firms can corner "
+        ],
+        "median tf-idf score": 0.6758612564409896,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The deal would also further strengthen the companies' grips on vital seeds, pesticides and farm technologies, a concerning turn that critics said could raise prices, reduce choice and stifle innovations needed to feed a growing world.",
+            "By improving the product for farmers, the combined company could ultimately raise prices, Mr Selesky said in an interview.",
+            "If firms can corner key markets in seeds and chemicals, they might be able to raise prices of their products on farmers, which in turn could make food more expensive."
+        ],
+        "tf-idf score": [
+            1.0032859459526446,
+            0.6579389132242031,
+            0.6758612564409896
+        ]
+    },
+    "0.16854958315945276-3-40": {
+        "average clique similarity": 0.16854958315945276,
+        "clique": [
+            "2-St    Monsanto is th",
+            "1-And if the deal is a",
+            "4-Monsanto s St  Louis"
+        ],
+        "median tf-idf score": 0.8786676904074948,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "St.   Monsanto is the world's largest seller of seeds and the leading producer of genetically modified crops.",
+            "And if the deal is approved by regulators  --   which is still an open question  --   the new company would become the largest agribusiness on the planet, selling 29 percent of the world's seeds and 24 percent of its pesticides.",
+            "Monsanto's St. Louis headquarters will become the companies' commercial headquarters for North America, but it's unclear how the   might affect jobs there. Grant said on a call Wednesday that the merger would help the city become a \"global center\" for the seed business, adding, \"This is good news for St. Louis. \""
+        ],
+        "tf-idf score": [
+            0.6804441929770388,
+            0.8786676904074948,
+            0.9478634237495063
+        ]
+    },
+    "0.17033229213391488-3-438": {
+        "average clique similarity": 0.17033229213391488,
+        "clique": [
+            "1-But thanks in part t",
+            "4-Known in the United ",
+            "0-It is a common pligh"
+        ],
+        "median tf-idf score": 0.32250537296866355,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "But thanks in part to improper use, more and more weeds in the United States are developing resistance to glyphosate  --   and Monsanto is racing to find a replacement.",
+            "Known in the United States largely for its   products, Bayer would emerge from the deal further focused on its business in agriculture chemicals, crop supplies, and compounds that kill bugs and weeds.",
+            "It is a common plight of farmers across the United States, with the global agriculture industry in a wrenching downturn."
+        ],
+        "tf-idf score": [
+            0.32250537296866355,
+            0.7196242577404695,
+            0.25812303731200226
+        ]
+    },
+    "0.17138614885818085-3-120": {
+        "average clique similarity": 0.17138614885818085,
+        "clique": [
+            "3-U S chemicals giants",
+            "4-With its rapid devel",
+            "0-Mr Halcomb buys seed"
+        ],
+        "median tf-idf score": 0.7210292727690091,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "U S chemicals giants Dow Chemical Co and DuPont plan to merge and spin off their seeds and crop chemicals operations into a major agribusiness.",
+            "With its rapid development and fierce protection of genetically engineered seeds and pesticides, Monsanto has been made into an   for some environmental and consumer activists, who worry that the chemical underpinnings of \"Frankenseeds\" threaten human health and allow laboratories to play God.",
+            "Mr Halcomb buys seeds with traits licensed to Monsanto of St. Louis and seeds from DuPont, which has a deal pending to merge with Dow Chemical."
+        ],
+        "tf-idf score": [
+            0.4877214830380945,
+            0.7210292727690091,
+            0.9361949174333204
+        ]
+    },
+    "0.17831860992577706-3-263": {
+        "average clique similarity": 0.17831860992577706,
+        "clique": [
+            "3-Bayer has agreed to ",
+            "2-The takeover offer  ",
+            "1-Monsanto has accepte"
+        ],
+        "median tf-idf score": 0.74860237852307,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Bayer has agreed to pay Monsanto a $2 billion breakup fee if the deal is thwarted.",
+            "The takeover offer, which Monsanto has accepted, is $4 billion more than Bayer had initially offered and a 44 percent premium over Monsanto's stock price on May 9, a day before negotiations began.",
+            "Monsanto has accepted the bid."
+        ],
+        "tf-idf score": [
+            0.74860237852307,
+            0.7500504617449034,
+            0.29582323561999
+        ]
+    },
+    "0.20210422019286658-3-364": {
+        "average clique similarity": 0.20210422019286658,
+        "clique": [
+            "4- Seed and chemical g",
+            "2-The German pharmaceu",
+            "1-If all these mergers"
+        ],
+        "median tf-idf score": 1.0998168779498076,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            " Seed and chemical giants Bayer and Monsanto said Wednesday that they will merge to become one of the world's biggest agriculture giants, a $66 billion   that could reshape the future of farming and enhance their influence over the planet's food supply.",
+            "The German pharmaceutical and chemical giant Bayer says it will buy U S seed seller Monsanto for $66 billion in an   deal that will create the world's largest supplier of seeds and agricultural chemicals.",
+            "If all these mergers go through, Tom Philpott of Mother Jones points out, the three biggest companies that will emerge (    and DowDupont) will sell 59 percent of the world's patented seeds and 64 percent of all pesticides."
+        ],
+        "tf-idf score": [
+            1.0998168779498076,
+            1.2083815439838628,
+            0.6674581307950884
+        ]
+    },
+    "0.2035144977909219-3-438": {
+        "average clique similarity": 0.2035144977909219,
+        "clique": [
+            "4-Rival seed and chemi",
+            "1-But in the years sin",
+            "2- DuPont is merging w"
+        ],
+        "median tf-idf score": 0.4596590704831266,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Rival seed and chemical giants, including Dow Chemical, DuPont and Syngenta, have launched their own   in recent months as part of an accelerating race to consolidation.",
+            "But in the years since, as crop biotechology advanced, companies like Monsanto, Syngenta, Dow, Bayer, and Dupont went on a feeding frenzy, buying up smaller companies and their patents.",
+            "\"DuPont is merging with Dow, and the China National Chemical Corp. is buying Syngenta, which is currently the world's biggest seller of agricultural chemicals\"."
+        ],
+        "tf-idf score": [
+            0.45381975161207416,
+            0.8139377400422967,
+            0.4596590704831266
+        ]
+    },
+    "0.23559515145036047-3-438": {
+        "average clique similarity": 0.23559515145036047,
+        "clique": [
+            "3-The German company a",
+            "4-The German drug and ",
+            "0-The strategic goal o"
+        ],
+        "median tf-idf score": 0.6703065765815248,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The German company aims to create a   shop for seeds, crop chemicals and   services to farmers.",
+            "The German drug and chemicals company is paying a hefty premium for the American seeds maker.",
+            "The strategic goal of the deal, according to Bill Selesky, an analyst at Argus Research, is to create a    experience for farmers, making Bayer the world's largest supplier of seeds and farm chemicals."
+        ],
+        "tf-idf score": [
+            0.6703065765815248,
+            0.5091235028462409,
+            0.9459251730230587
+        ]
+    },
+    "0.25401737618566544-3-303": {
+        "average clique similarity": 0.25401737618566544,
+        "clique": [
+            "3-In addition  Canadia",
+            "1-This year  the China",
+            "0-His fertilizers are "
+        ],
+        "median tf-idf score": 0.6719846917448611,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "In addition, Canadian fertilizer producers Potash Corp of Saskatchewan Inc and Agrium Inc said on Monday they agreed to merge, sparking questions of whether regulators will sign off on the new company's potential pricing power.",
+            "This year, the China National Chemical Corporation got the okay from US regulators to buy the Swiss seed company Syngenta in a $43 billion deal. Last week, in Canada, Potash Corporation of Saskatchewan and Agrium joined forces to create a fertilizer giant amid slumping fertilizer prices.",
+            "His fertilizers are made of potassium compounds and phosphate produced by Agrium of Calgary, Alberta, which on Monday agreed to combine with the fertilizer producer Potash Corporation of Saskatchewan. He uses pesticides made by Syngenta of Switzerland, which agreed in February to a takeover by the China National Chemical Corporation."
+        ],
+        "tf-idf score": [
+            0.6719846917448611,
+            1.1691243556454438,
+            0.4348281658008534
+        ]
+    },
+    "0.25978737358359844-3-122": {
+        "average clique similarity": 0.25978737358359844,
+        "clique": [
+            "3- This merger is not ",
+            "4-Diana Moss  presiden",
+            "0-the president of the"
+        ],
+        "median tf-idf score": 0.373292175033965,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"This merger is not a slam dunk,\" said Diana Moss, president of the American Antitrust Institute.",
+            "Diana Moss, president of the American Antitrust Institute, said that rapid tightening could weaken the inventiveness of an industry focused on advancing the world's food supply.",
+            "the president of the Indiana Farmers Union, was not so optimistic."
+        ],
+        "tf-idf score": [
+            0.373292175033965,
+            0.4973452189669879,
+            0.17314234366695166
+        ]
+    },
+    "0.27331740229723006-3-158": {
+        "average clique similarity": 0.27331740229723006,
+        "clique": [
+            "1-At least not in its ",
+            "4-The companies  have ",
+            "3-Monsanto and Bayer  "
+        ],
+        "median tf-idf score": 0.8243146465631896,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "At least not in its current form. On Wednesday, the German chemical conglomerate Bayer offered to buy up Monsanto for $56 billion, in what could prove to be the largest corporate merger of the year.",
+            "The companies \"have chosen to do a deal in the year of merging dangerously.",
+            "Monsanto and Bayer \"have chosen to do a deal in the year of merging dangerously,\" said David Balto, a former policy director at the U S Federal Trade Commission. \"They are in for a tough time\"."
+        ],
+        "tf-idf score": [
+            0.8243146465631896,
+            0.45944096706948756,
+            0.8779322682179908
+        ]
+    },
+    "0.3058480327559565-3-438": {
+        "average clique similarity": 0.3058480327559565,
+        "clique": [
+            "0-To assuage Monsanto ",
+            "1-Another question is ",
+            "4-Bayer has committed "
+        ],
+        "median tf-idf score": 0.5885333482484197,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "To assuage Monsanto's concerns, Bayer threw in a $2 billion breakup fee if the deal fell apart on antitrust grounds.",
+            "Another question is whether Bayer would keep the Monsanto name if the deal goes through.",
+            "Bayer has committed to paying a $2 billion antitrust breakup fee if the deal falls apart."
+        ],
+        "tf-idf score": [
+            0.7103947888027194,
+            0.5118857645271906,
+            0.5885333482484197
+        ]
+    }
+}

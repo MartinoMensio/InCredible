@@ -1,0 +1,418 @@
+{
+    "0.15684036242963756-3-63": {
+        "average clique similarity": 0.15684036242963756,
+        "clique": [
+            "5-In a letter to ITT s",
+            "3-    The announcement",
+            "0-The accreditation co"
+        ],
+        "median tf-idf score": 1.2608128796941778,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "New York Post"
+        ],
+        "sentences": [
+            "In a letter to ITT students, Education Secretary John B King Jr denied the school's claim, saying the agency's restriction on federal student aid came after years of concern over ITT's finances, integrity and management.",
+            "'   The announcement that ITT Tech will close comes a week and a half   after the  that   banned the school from enrolling students who use federal   financial aid and required ITT post a $153 million letter of   credit on top of the $94 million reserve requirements it must   already meet. '",
+            "The accreditation council, the gatekeeper between colleges and billions of dollars in federal financial aid, said the string of state and federal investigations, lawsuits and regulatory actions against the company call into question ITT's integrity, financial viability and ability to serve students."
+        ],
+        "tf-idf score": [
+            1.2179789780396038,
+            1.2608128796941778,
+            1.3201970867705217
+        ]
+    },
+    "0.17123289648892612-3-183": {
+        "average clique similarity": 0.17123289648892612,
+        "clique": [
+            "1-If everyone at ITT w",
+            "5-ITT put up less than",
+            "2-Up to  500 million i"
+        ],
+        "median tf-idf score": 0.8450164567934001,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "If everyone at ITT who was eligible took that route, the cost could run as high as $500 million, Mr Mitchell said, though about $90 million of the final bill to taxpayers is expected to be defrayed by a surety bond ITT had to post with the government. Any borrowers who believe they have been defrauded can also apply under a separate loan forgiveness program.",
+            "ITT put up less than $100 million bond to cover defaulted loans. And the amount of future forgiven loans could go much higher. The Brookings Institution calculated that debt owed by   college borrowers totaled $229 billion in 2014  --   up nearly 500 percent from $39 billion in 2000  --   while the number of   borrowers increased just 129 percent.",
+            "Up to $500 million in outstanding loans could be erased. At the same time, Mitchell said that \"we hope many students will look for transfer opportunities\"."
+        ],
+        "tf-idf score": [
+            1.048921767723053,
+            0.8450164567934001,
+            0.781440674466724
+        ]
+    },
+    "0.17773211286443713-3-19": {
+        "average clique similarity": 0.17773211286443713,
+        "clique": [
+            "2-New students would n",
+            "4-A day later  ITT ann",
+            "3-    As is the case f"
+        ],
+        "median tf-idf score": 0.729711722612737,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "New students would not qualify for federal student loans or Pell Grants, money that is essential to the operation of   colleges.",
+            "A day later, ITT announced it would not enroll any new students in the coming semester.",
+            "'   As is the case for any student, the department said it would   accept claims under a ."
+        ],
+        "tf-idf score": [
+            0.7678325285506216,
+            0.729711722612737,
+            0.6016216201388522
+        ]
+    },
+    "0.2009742569205801-3-49": {
+        "average clique similarity": 0.2009742569205801,
+        "clique": [
+            "4- We made a difficult",
+            "1- The risk presented ",
+            "0-   college chain ITT"
+        ],
+        "median tf-idf score": 1.460257330883226,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"We made a difficult choice to pursue additional oversight in order to protect you, other students, and taxpayers from potentially worse educational and financial damage in the future if ITT was allowed to continue operating without increased oversight and assurances to better serve students,\" said John King, the U S Secretary of Education, in a statement Tuesday.",
+            "\"The risk presented by ITT to both students and taxpayers made it irresponsible for us to allow them to enroll new students and not have additional oversight,\" Mr Mitchell said.",
+            "[  college chain ITT faces yet another blow from authorities]   Officials at ITT said that having to set aside 40 percent of the money it received in federal financial aid and the additional restrictions \"forced us to conclude that we can no longer continue to operate our ITT Tech campuses and provide our students with the quality education they expect and deserve. \""
+        ],
+        "tf-idf score": [
+            1.460257330883226,
+            0.9886702721736242,
+            1.5738591149936287
+        ]
+    },
+    "0.2020313204134178-3-144": {
+        "average clique similarity": 0.2020313204134178,
+        "clique": [
+            "0-The loan programs in",
+            "3-These students are f",
+            "1-That would essential"
+        ],
+        "median tf-idf score": 0.9484861930710504,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The loan programs in that case are also at the heart of an ongoing Consumer Financial Protection Bureau lawsuit. The consumer watchdog has accused the company of providing   loans to students but failing to tell them that they would be kicked out of school if they didn't repay in a year.",
+            "These students are free to start their   programs of study at another school but can't use credits from   ITT Tech if they want a full discharge of their loans. \"",
+            "That would essentially wipe out their federal student debt, but also deny the students any of their educational credits."
+        ],
+        "tf-idf score": [
+            0.9484861930710504,
+            1.1253656746600607,
+            0.5897152590364747
+        ]
+    },
+    "0.20252944504179524-3-4": {
+        "average clique similarity": 0.20252944504179524,
+        "clique": [
+            "1-The other alternativ",
+            "3-    Under Secretary ",
+            "2-Speaking to reporter"
+        ],
+        "median tf-idf score": 1.1660213879907713,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "The other alternative would be for students to apply for a loan discharge.",
+            "'   Under Secretary of Education Ted Mitchell directed students to   call their loan servicers to start the process of a loan   discharge and to visit  a website dedicated to assisting   ITT Tech students through the discharge process, or call      . '",
+            "Speaking to reporters Tuesday, Education Department Undersecretary Ted Mitchell said all students who have been enrolled at an ITT campus within the last 120 days are eligible to apply for what's called a \"closed school discharge\" of their student loans."
+        ],
+        "tf-idf score": [
+            0.5052639065782751,
+            1.1660213879907713,
+            1.56090618688286
+        ]
+    },
+    "0.20587104730979233-3-235": {
+        "average clique similarity": 0.20587104730979233,
+        "clique": [
+            "3-    If the transferr",
+            "0-Transferring credits",
+            "5-Together with likely"
+        ],
+        "median tf-idf score": 1.0518029754759657,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "'   If the transferring school accepts the ITT Tech credits, the   student is no longer eligible for a full federal student loan   discharge. '",
+            "Transferring credits to complete the same degree at another institution, though, will make current ITT students ineligible for federal student loan forgiveness under what's known as a   discharge.",
+            "Together with likely ITT student loan forgiveness, taxpayers may be facing a $1 billion toxic student loan bomb."
+        ],
+        "tf-idf score": [
+            1.1351159826278248,
+            1.0518029754759657,
+            0.817289669096086
+        ]
+    },
+    "0.20902230638887467-3-158": {
+        "average clique similarity": 0.20902230638887467,
+        "clique": [
+            "0-The agency placed ad",
+            "1-After Corinthian Col",
+            "4-The Department of Ed"
+        ],
+        "median tf-idf score": 1.2131341524185228,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The agency placed additional restrictions on the company's use of federal grants and loans in October, after ITT failed to account for millions of dollars in aid that was disbursed to students in the past five years.",
+            "After Corinthian Colleges, a giant   educational company accused of widespread fraud, was suspended from the federal student aid program in 2014, education officials helped broker the sale of dozens of its campuses and online programs to the Zenith Education Group, a nonprofit. Corinthian later filed for bankruptcy.",
+            "The Department of Education offered to forgive millions of dollars of debt of thousands of students enrolled in the schools, on the grounds that Corinthian defrauded them."
+        ],
+        "tf-idf score": [
+            1.2258813008515879,
+            1.2131341524185228,
+            0.9437611720120629
+        ]
+    },
+    "0.21961542730686948-4-71": {
+        "average clique similarity": 0.21961542730686948,
+        "clique": [
+            "2-The Department of Ed",
+            "5-King s letter also a",
+            "4-They may also be abl",
+            "1-Students can try to "
+        ],
+        "median tf-idf score": 1.0209060989866763,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "The Department of Education will allow them to walk away from their outstanding student loans or transfer all the credits they've already earned to a similar program  --   but not both.",
+            "King's letter also advised current and recent ITT students that  --   unless they opted to transfer their credits  --   their federal student debt \"will be wiped away and you will have the option of restarting your education somewhere new. \"",
+            "They may also be able to transfer their ITT credits to another institution. \"Whatever you choose to do, do not give up on your education,\" King said. In April 2015, Corinthian Colleges, another   chain with hundreds of campuses across the country, shut down after similar sanctions from the federal government.",
+            "Students can try to transfer their credits to another school in a bid to finish their education."
+        ],
+        "tf-idf score": [
+            0.900509434131528,
+            1.1466708782534214,
+            1.1413027638418245,
+            0.6471274816782107
+        ]
+    },
+    "0.2249389687383739-4-100": {
+        "average clique similarity": 0.2249389687383739,
+        "clique": [
+            "4-Last Thursday the go",
+            "5-The move by the scho",
+            "1-The company cited th",
+            "0-The shutdown of ITT "
+        ],
+        "median tf-idf score": 1.1406655952905798,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Last Thursday the government agency barred the company from enrolling new students using federal financial aid, a source of funding ITT Tech has relied on heavily.",
+            "The move by the school, known as ITT Technical Institute  --   with 130 campuses in 39 states  --   follows a decision by the Obama administration last week to deny financial aid to new students.",
+            "The company cited the Education Department's recent decision to bar the chain of colleges from using federal financial aid to enroll new students as the reason for the sudden shutdown.",
+            "The shutdown of ITT campuses puts hundreds of millions of dollars in federal financial aid on the line because the government is obligated to forgive the federal loans of students affected by the closure."
+        ],
+        "tf-idf score": [
+            1.1787177568649827,
+            1.129006484464468,
+            1.1375673029228732,
+            1.1437638876582863
+        ]
+    },
+    "0.23432768944993423-3-180": {
+        "average clique similarity": 0.23432768944993423,
+        "clique": [
+            "0-The department is as",
+            "1-Few quality schools ",
+            "3-Mitchell indicated t"
+        ],
+        "median tf-idf score": 1.2622372726548745,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "New York Times"
+        ],
+        "sentences": [
+            "The department is asking community colleges near ITT locations to accept academic credits from the career school. \"Each student will have to carefully evaluate his or her options,\" Mitchell said.",
+            "Few quality schools may be willing to accept those credits, but Mr Mitchell said education officials were encouraging community colleges to reach out to former ITT students and to be flexible in transferring credits.",
+            "Mitchell indicated that the ED was working to have   community colleges around ITT Tech campuses reach out to   students. '"
+        ],
+        "tf-idf score": [
+            1.2622372726548745,
+            1.3451034324098958,
+            1.033984002260165
+        ]
+    },
+    "0.23517752412955636-3-235": {
+        "average clique similarity": 0.23517752412955636,
+        "clique": [
+            "2-The company blamed t",
+            "4-ITT blamed the closu",
+            "0-Education Department"
+        ],
+        "median tf-idf score": 0.8161038687328054,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The company blamed the shutdown on the U S Department of Education, which had stepped up oversight of the school and recently imposed tough financial sanctions. The concerns about ITT involve recruitment and financial practices.",
+            "ITT blamed the closure on the \"actions of and sanctions from\" the U S Department of Education.",
+            "Education Department officials demanded that the company provide a letter of credit from a bank assuring the availability of as much as $247 million, up from the $124 million letter of credit ITT already had on file."
+        ],
+        "tf-idf score": [
+            0.9998630667428402,
+            0.6417886680057736,
+            0.8161038687328054
+        ]
+    },
+    "0.24014848106769715-3-46": {
+        "average clique similarity": 0.24014848106769715,
+        "clique": [
+            "1-It denounced the Edu",
+            "0-ITT has maintained t",
+            "5-The school  based in"
+        ],
+        "median tf-idf score": 0.76703386537122,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It denounced the Education Department's decision to restrict the use of federal funds, calling it \"inappropriate and unconstitutional\" and \"taken without proving a single allegation. \" Nicole Elam, an ITT spokeswoman, declined to make any further comment.",
+            "ITT has maintained that despite the mounting cases against the company the department's action to curtail its access to taxpayer funds was \"inappropriate and unconstitutional\" and that it was not \"provided a hearing or an appeal. \"",
+            "The school, based in Carmel, Ind. just north of Indianapolis, placed the blame for its closing on Obama's Department of Education, calling the agency's action \"inappropriate and unconstitutional. \" \"These unwarranted actions, taken without proving a single allegation, are a lawless execution,\" it said in a statement."
+        ],
+        "tf-idf score": [
+            0.805219600474964,
+            0.7513125195803225,
+            0.76703386537122
+        ]
+    },
+    "0.2623542050232975-3-235": {
+        "average clique similarity": 0.2623542050232975,
+        "clique": [
+            "0-         ITT Educati",
+            "2-In a press release  ",
+            "1-Just days before the"
+        ],
+        "median tf-idf score": 0.7860876687985415,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "         ITT Educational Services, one of the largest operators of   technical schools, ended operations at all of its ITT Technical Institutes on Tuesday, citing government action to curtail the company's access to millions of dollars in federal loans and grants, a critical source of revenue.",
+            "In a press release, ITT Educational Services announced it would close all campuses of its ITT Technical Institutes. The   college system has become a household name over the past  .",
+            "Just days before the start of a new school term, ITT Educational Services, one of the nation's largest   educational companies, closed nearly all its campuses on Tuesday."
+        ],
+        "tf-idf score": [
+            1.1205469038962579,
+            0.7555535023152529,
+            0.7860876687985415
+        ]
+    },
+    "0.26820190491065055-3-15": {
+        "average clique similarity": 0.26820190491065055,
+        "clique": [
+            "4-U S officials say IT",
+            "0-The company is being",
+            "1-He also noted ITT s "
+        ],
+        "median tf-idf score": 0.8022981917790097,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "U S officials say ITT Tech has been found twice this year to be out of compliance with the standards of its accreditor, the Accrediting Council for Independent Colleges and Schools.",
+            "The company is being investigated by more than a dozen state attorneys general and two federal agencies. Those cases led the   chain's accreditor, the Accrediting Council for Independent Colleges and Schools, to ask ITT in April to show why it is worthy of accreditation.",
+            "He also noted ITT's independent accreditor had concluded that the schools were unlikely to be able to comply with the accreditor's standards."
+        ],
+        "tf-idf score": [
+            0.8022981917790097,
+            0.9233339493021334,
+            0.4623523636209571
+        ]
+    },
+    "0.28268898154832844-3-235": {
+        "average clique similarity": 0.28268898154832844,
+        "clique": [
+            "0-Anyone currently enr",
+            "3-    Current students",
+            "1-Current ITT students"
+        ],
+        "median tf-idf score": 0.6801474984817855,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "New York Times"
+        ],
+        "sentences": [
+            "Anyone currently enrolled in ITT or who withdrew from the school in the last 120 days is eligible for this form of loan forgiveness. Visit studentaid. for more information.",
+            "\"   Current students and those actively enrolled in past 120 days who   made the decision to leave are eligible to have 100% of their   federal loans discharged.",
+            "Current ITT students and those who withdrew in the last 120 days essentially have two options, neither of them particularly appealing, Mr Mitchell said."
+        ],
+        "tf-idf score": [
+            0.6150104583961736,
+            0.6801474984817855,
+            0.919568382129669
+        ]
+    },
+    "0.3003248010797347-3-117": {
+        "average clique similarity": 0.3003248010797347,
+        "clique": [
+            "0- With what we believ",
+            "4-The move affects hun",
+            "3-         ITT Technic"
+        ],
+        "median tf-idf score": 1.127090523385354,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"With what we believe is a complete disregard by the U S Department of Education for due process to the company, hundreds of thousands of current students and alumni and more than 8, 000 employees will be negatively affected,\" ITT said in a company statement announcing the shutdown.",
+            "The move affects hundreds of thousands of current students and more than 8, 000 employees of the ITT Technical Institute, known colloquially as ITT Tech, the company said.",
+            "'  ' '   ITT Technical Educational Services Inc.    at all campuses. ' \"   The college's closure, which affects 40, 000 students and 8, 000   employees, is one of the largest in US history. \""
+        ],
+        "tf-idf score": [
+            1.315628306240306,
+            1.127090523385354,
+            1.0011464647821604
+        ]
+    }
+}

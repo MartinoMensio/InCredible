@@ -1,0 +1,678 @@
+{
+    "0.13208806055873676-3-208": {
+        "average clique similarity": 0.13208806055873676,
+        "clique": [
+            "1-What was clear  said",
+            "3-One scenario for the",
+            "2- The risk of disinte"
+        ],
+        "median tf-idf score": 0.6316006679451912,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "What was clear, said Stefano Stefanini, who served as a diplomatic adviser to Giorgio Napolitano, a former Italian president, was that the vote was \u201ca test of strength of the   and   forces in Italy.",
+            "One scenario for the immediate future is that President Sergio Mattarella could appoint a caretaker government that would ensure passage of important commitments, such as next year\u2019s budget and reform of an electoral law that was premised on approval of the constitutional amendments.",
+            "\u201cThe risk of disintegration began with Brexit, when a very important member was lost,\u201d said Sandro Gozi, a top Renzi ally who is Italy\u2019s undersecretary of state for European affairs."
+        ],
+        "tf-idf score": [
+            0.6316006679451912,
+            0.610875527033843,
+            0.7684616176500476
+        ]
+    },
+    "0.13535625314825103-3-126": {
+        "average clique similarity": 0.13535625314825103,
+        "clique": [
+            "2- By simply being the",
+            "4-Renzi s Democrats an",
+            "0-2 percent after as a"
+        ],
+        "median tf-idf score": 0.30382111608521806,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cBy simply being there, they shape the political agenda, and they force the system to react to them,\u201d Piccoli said.",
+            "Renzi\u2019s Democrats and the   opposition of former Premier Silvio Berlusconi want the law changed to avoid risking that the bonus would go to the   should they lead the  .",
+            "2 percent after as a consortium of investment bankers met to discuss a capital increase to raise 5 billion euros which the bank needs by the end of the month to avoid being wound down."
+        ],
+        "tf-idf score": [
+            0.26643715665618173,
+            0.40416723784242614,
+            0.30382111608521806
+        ]
+    },
+    "0.14966805664319827-3-63": {
+        "average clique similarity": 0.14966805664319827,
+        "clique": [
+            "4-During the campaign ",
+            "3-Opposition parties h",
+            "1-The reaction to Mr R"
+        ],
+        "median tf-idf score": 0.48269503852898626,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "During the campaign, the risk of political instability in Italy, Europe\u2019s   economy, triggered market reaction, with bank stocks sinking and borrowing costs on sovereign debt rising.",
+            "Opposition parties had turned the campaign into a vote of confidence in Renzi himself.",
+            "The reaction to Mr Renzi\u2019s loss illustrated the poisonous tone of the long campaign leading up to the referendum."
+        ],
+        "tf-idf score": [
+            0.5123983012898412,
+            0.44411662567141974,
+            0.48269503852898626
+        ]
+    },
+    "0.15298766029692032-3-365": {
+        "average clique similarity": 0.15298766029692032,
+        "clique": [
+            "1-The primary benefici",
+            "3-The   Movement is th",
+            "0-The referendum  inte"
+        ],
+        "median tf-idf score": 0.6642913140058344,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "The primary beneficiary of Mr Renzi\u2019s defeat is Italy\u2019s   Five Star Movement, a party that advocates a referendum to determine whether Italy should give up the euro.",
+            "The   Movement is the elephant in the room  \u2014   and the prospect of its coming to power may be sufficient to persuade all the other parties in Italy to sit down and draft a new electoral law.",
+            "The referendum, intended to change rules to make Italy more governable, was opposed by   and populist parties, including groups that want Italy to ditch the euro."
+        ],
+        "tf-idf score": [
+            0.9055171699005797,
+            0.5513466744492462,
+            0.6642913140058344
+        ]
+    },
+    "0.15383640973141166-3-238": {
+        "average clique similarity": 0.15383640973141166,
+        "clique": [
+            "0-But Italy s banking ",
+            "2-But reflecting the o",
+            "3-After a shaky start "
+        ],
+        "median tf-idf score": 0.35977876031361,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "But Italy\u2019s banking sector   which is weighed down by more than 350 billion euros of bad loans   was down 2.",
+            "But reflecting the overall   calm, Italy\u2019s main stock exchange in Milan was slightly down in   trading.",
+            "After a shaky start, even Italy\u2019s fragile banking system  \u2014   which must raise some $21 billion over the coming months  \u2014   staged a comeback on the Milan stock market."
+        ],
+        "tf-idf score": [
+            0.35977876031361,
+            0.3238080695104901,
+            0.4041852914604227
+        ]
+    },
+    "0.15482433335175835-3-72": {
+        "average clique similarity": 0.15482433335175835,
+        "clique": [
+            "3-Mattarella is expect",
+            "4-Renzi is widely expe",
+            "2-Mattarella asked Ren"
+        ],
+        "median tf-idf score": 0.36671422380751223,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Mattarella is expected to make a decision within a few days, after consulting with all political party leaders.",
+            "Renzi is widely expected to be asked to stay on at least until a budget bill can be passed later this month.",
+            "Mattarella asked Renzi on Monday to hold off on his resignation until the government passes next year\u2019s budget, a potential delay of a few days or a week that will buy some time for succession planning but does not significantly alter the political situation."
+        ],
+        "tf-idf score": [
+            0.36671422380751223,
+            0.33068978306742103,
+            0.7177983386040326
+        ]
+    },
+    "0.1683385007231447-3-481": {
+        "average clique similarity": 0.1683385007231447,
+        "clique": [
+            "2-The decision about R",
+            "1-Luigi Di Maio  the d",
+            "0-Economy Minister Pie"
+        ],
+        "median tf-idf score": 0.5869233463376047,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The decision about Renzi\u2019s successor as prime minister falls to Italian President Sergio Mattarella, an establishment stalwart who is unlikely to clear an easy path for Five Star backers.",
+            "Luigi Di Maio, the deputy leader of the lower house of Parliament and a likely candidate for prime minister from the Five Star Movement, spoke about a coming \u201cFive Star government.",
+            "Economy Minister Pier Carlo Padoan, who has pulled out of meetings with European finance ministers in Brussels this week, is viewed as a possible candidate for prime minister."
+        ],
+        "tf-idf score": [
+            0.648691339848392,
+            0.5869233463376047,
+            0.3821890369082529
+        ]
+    },
+    "0.16924889894070724-3-170": {
+        "average clique similarity": 0.16924889894070724,
+        "clique": [
+            "3-In Italy  politician",
+            "4-But some analysts pr",
+            "2-Even if the insurgen"
+        ],
+        "median tf-idf score": 0.35659968556031535,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "In Italy, politicians never lose, they just hang on.",
+            "But some analysts predicted the political crisis sparked by Renzi\u2019s exit would be   as politicians focus on lining up support for a new electoral law they view as boosting their parties\u2019 chances for whenever elections are called.",
+            "Even if the insurgent populists never come to office, they are guiding the national political discussion by sending mainstream politicians scrambling to appeal to their   voters."
+        ],
+        "tf-idf score": [
+            0.19194445698331505,
+            0.7056261739307481,
+            0.35659968556031535
+        ]
+    },
+    "0.17077038017248336-3-265": {
+        "average clique similarity": 0.17077038017248336,
+        "clique": [
+            "3-A youth unemployment",
+            "2-Italy is no stranger",
+            "1-Italy  long mocked a"
+        ],
+        "median tf-idf score": 0.49239850766402665,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "A youth unemployment rate of close to 40 percent may be the reason why the \u201dno\u201d vote was highest among the young  \u2014   70 percent of Italians under 35 years of age voted against Renzi\u2019s reforms.",
+            "Italy is no stranger to political chaos, and the next government will be the 64th in 70 years.",
+            "Italy, long mocked as the chaotic home of 63 governments in 70 years, emerged as a safe port of stability, and its young leader took on a special aura as a bulwark against the     and radical forces."
+        ],
+        "tf-idf score": [
+            0.6795740902418139,
+            0.41801703162598314,
+            0.49239850766402665
+        ]
+    },
+    "0.17234120433549072-3-505": {
+        "average clique similarity": 0.17234120433549072,
+        "clique": [
+            "4- The government s ex",
+            "1-  Mr Renzi s defeat ",
+            "2-  But Renzi also ali"
+        ],
+        "median tf-idf score": 0.5464847949741795,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dThe government\u2019s experience is over, and in the afternoon I\u2019ll go to the Quirinal Hill to hand in my resignation\u201d to President Sergio Mattarella.",
+            "\u201d Mr Renzi\u2019s defeat, and the instability that his resignation is likely to cause, raised the prospect of punishment in the markets, but also a caretaker government staffed with technocrats appointed by the Italian president.",
+            "\u201d But Renzi also alienated Italian voters over 2\u00bd years in office by failing to   growth in Europe\u2019s   economy."
+        ],
+        "tf-idf score": [
+            0.2518722435015822,
+            0.7483031642019107,
+            0.5464847949741795
+        ]
+    },
+    "0.17284740700919785-3-192": {
+        "average clique similarity": 0.17284740700919785,
+        "clique": [
+            "1-Ultimately  the subs",
+            "4-In Italy  the refere",
+            "3-Voters seemed less i"
+        ],
+        "median tf-idf score": 0.4284693797491398,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Ultimately, the substance of the reform mattered less than voters\u2019 opinions of Mr Renzi.",
+            "In Italy, the referendum was required because the reforms were approved by less than   of Parliament.",
+            "Voters seemed less interested in the technical issues and more motivated by the grim economic outlook."
+        ],
+        "tf-idf score": [
+            0.4798799887468459,
+            0.4284693797491398,
+            0.16512885146214198
+        ]
+    },
+    "0.1747979107529889-3-505": {
+        "average clique similarity": 0.1747979107529889,
+        "clique": [
+            "1-And   parties are al",
+            "4-The   are the chief ",
+            "2-Measured against all"
+        ],
+        "median tf-idf score": 0.34188720890988933,
+        "publications": [
+            "New York Times",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "And   parties are also seeking power in France.",
+            "The   are the chief rivals of Renzi\u2019s Democrats and are anxious to achieve national power for the first time.",
+            "Measured against all the parties in Italy, Five Star and the Democratic Party are in a dead heat."
+        ],
+        "tf-idf score": [
+            0.18293903115183868,
+            0.34188720890988933,
+            0.3610635513463805
+        ]
+    },
+    "0.17598941190365203-3-503": {
+        "average clique similarity": 0.17598941190365203,
+        "clique": [
+            "1-Another possibility ",
+            "2-A likely scenario co",
+            "0-The new prime minist"
+        ],
+        "median tf-idf score": 0.725119339372197,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "Another possibility is the calling of early elections in 2017, though that, too, was unclear because Italy\u2019s new electoral law is itself under review by Italy\u2019s constitutional court.",
+            "A likely scenario could be a caretaker government headed by a different leader from Renzi\u2019s   Democratic Party who would hold office until new elections in early 2018.",
+            "The new prime minister, who will need the backing of Renzi\u2019s PD to take office, will have to draw up a new electoral law, with   urging a swift deal to open the way for elections in early 2017, a year ahead of schedule."
+        ],
+        "tf-idf score": [
+            0.44353124361754087,
+            0.7308391196959994,
+            0.725119339372197
+        ]
+    },
+    "0.1792789220940303-3-505": {
+        "average clique similarity": 0.1792789220940303,
+        "clique": [
+            "2- A lesson for everyo",
+            "1- The propaganda of t",
+            "4-The   Movement  led "
+        ],
+        "median tf-idf score": 0.5238301694515524,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cA lesson for everyone: You can\u2019t always lie to the people without suffering the consequences,\u201d said Beppe Grillo, the caustic comedian who founded the Five Star movement.",
+            "\u201cThe propaganda of the regime and all its lies are the first losers of this referendum,\u201d Beppe Grillo, the leader of Italy\u2019s   Five Star Movement, wrote on his widely read blog.",
+            "The   Movement, led by   comic Beppe Grillo, spearheaded the No camp on the constitutional reforms, a package aimed at updating Italy\u2019s   Constitution that Renzi had depicted as vital to modernizing Italy and reviving its economy."
+        ],
+        "tf-idf score": [
+            0.3597572738507622,
+            0.5238301694515524,
+            0.6421632069106521
+        ]
+    },
+    "0.18268222262761546-3-130": {
+        "average clique similarity": 0.18268222262761546,
+        "clique": [
+            "0-After the referendum",
+            "3-Renzi s midnight res",
+            "2-If the Five Star mov"
+        ],
+        "median tf-idf score": 0.5294568853079983,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "After the referendum the euro initially fell along with European stock and bond markets on concerns that early elections could follow, possibly paving the way for an   party to win power.",
+            "Renzi\u2019s midnight resignation announcement sent the euro lower and jolted stock and bond markets.",
+            "If the Five Star movement does succeed in calling a referendum on the euro, the move could pressure Italy\u2019s shaky banking sector and rekindle the euro crisis."
+        ],
+        "tf-idf score": [
+            0.5569477219450629,
+            0.40241214519819424,
+            0.5294568853079983
+        ]
+    },
+    "0.19060889248363255-3-300": {
+        "average clique similarity": 0.19060889248363255,
+        "clique": [
+            "3-Founded by comedian ",
+            "4-When Renzi late last",
+            "2-The party has promis"
+        ],
+        "median tf-idf score": 0.6734688361965563,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Founded by comedian Beppe Grillo, its platform causes nightmares in Brussels and other European capitals: It calls for a   universal income, abolishing Italy\u2019s fiscal commitments to the European Union and a referendum on Italy\u2019s membership in the euro  \u2014   a prospect that could unravel the entire   eurozone.",
+            "When Renzi late last year promised to resign if the referendum was defeated, it was months before Britain\u2019s David Cameron had made his   bet that a referendum would cement the U K\u2019s membership in the European Union.",
+            "The party has promised to hold a referendum on Italy\u2019s membership in the euro zone if it captures office, criticizing the currency as a project of the elite that has harmed ordinary Italian workers."
+        ],
+        "tf-idf score": [
+            0.6334170103999421,
+            0.6734688361965563,
+            0.7254694099407493
+        ]
+    },
+    "0.19093930199316222-3-116": {
+        "average clique similarity": 0.19093930199316222,
+        "clique": [
+            "4-Renzi had been hopin",
+            "0-His decision to quit",
+            "2-Much like the coalit"
+        ],
+        "median tf-idf score": 0.702699179047885,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Renzi had been hoping to beat off the rising populist forces that have gained traction across Europe, as well as with the U S presidential victory last month by billionaire political outsider Donald Trump.",
+            "His decision to quit after less than three years in office deals a new blow to Western political establishments, still in shock from Britain\u2019s unexpected vote to leave the European Union and the U S election of outsider Donald Trump as president.",
+            "Much like the coalition of    voters and the   establishment that drove Donald Trump to victory in the United States, the forces that united to defeat Renzi came from across Italy\u2019s political spectrum."
+        ],
+        "tf-idf score": [
+            0.5980887962768155,
+            0.702699179047885,
+            0.7480642644990537
+        ]
+    },
+    "0.19208335150180145-3-59": {
+        "average clique similarity": 0.19208335150180145,
+        "clique": [
+            "1- And in Italy  the a",
+            "3-If they do agree  th",
+            "2- The people do not r"
+        ],
+        "median tf-idf score": 0.18966693866917975,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cAnd in Italy, the answer to fear is the courage to not be defensive, to not be like all the others.",
+            "If they do agree, the new law may not necessarily lead to creation of a viable coalition government.",
+            "\u201cThe people do not recognize their vote in the government."
+        ],
+        "tf-idf score": [
+            0.18170518198750635,
+            0.2438235246964305,
+            0.18966693866917975
+        ]
+    },
+    "0.1970628379129916-3-400": {
+        "average clique similarity": 0.1970628379129916,
+        "clique": [
+            "1-If early elections d",
+            "0-The government crisi",
+            "3-A  yes  vote      fa"
+        ],
+        "median tf-idf score": 0.5651031646574264,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "If early elections do occur next year, 2017 is shaping up to be a seminal year in the history of the European Union with founding members Germany, France and potentially Italy all going to the polls with strong   and populist candidates in the running.",
+            "The government crisis could open the door to elections next year and to the possibility of the opposition   Movement gaining power in the heart of the single currency area.",
+            "A \u201dyes\u201d vote  \u2014   favored by Italy\u2019s business and banking world  \u2014   would have been an added element of stability as the EU is called on to tackle urgent economic issues and the migration crisis, and as it faces crucial elections in 2017 in the Netherlands, France and Germany  \u2014   all buffeted by the   wave."
+        ],
+        "tf-idf score": [
+            0.5651031646574264,
+            0.4407996523957111,
+            0.6225871566332852
+        ]
+    },
+    "0.20580609180162937-3-228": {
+        "average clique similarity": 0.20580609180162937,
+        "clique": [
+            "4-He urged elections s",
+            "3-This government   he",
+            "1- And he is losing   "
+        ],
+        "median tf-idf score": 0.10750212741218981,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Fox News"
+        ],
+        "sentences": [
+            "He urged elections straightaway.",
+            "This government,\u201d he added, \u201dis over.",
+            "\u201cAnd he is losing,\u201d he said of Mr Renzi."
+        ],
+        "tf-idf score": [
+            0.05424727315505781,
+            0.10750212741218981,
+            0.44309530133598685
+        ]
+    },
+    "0.20855572744229453-3-251": {
+        "average clique similarity": 0.20855572744229453,
+        "clique": [
+            "4- Starting tomorrow w",
+            "3-Tomorrow we start wo",
+            "1-On the other  he was"
+        ],
+        "median tf-idf score": 0.1787469856793218,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dStarting tomorrow we\u2019ll be working on a government of the   we\u2019ll involve the energies and the free persons who want to participate\u201d.",
+            "Tomorrow we start working to create the platform and the team of the future   government\u201d.",
+            "On the other, he was the consummate insider, an   expert at working within the system who built unlikely coalitions to get things done."
+        ],
+        "tf-idf score": [
+            0.1787469856793218,
+            0.22318749259704518,
+            0.15032464240613225
+        ]
+    },
+    "0.211981738219455-3-45": {
+        "average clique similarity": 0.211981738219455,
+        "clique": [
+            "0-Those groups have cr",
+            "1-  And Matteo Salvini",
+            "4-Another opposition l"
+        ],
+        "median tf-idf score": 0.5855505370061582,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "Those groups have crowed that the referendum showed voters reject traditional elites, in the vein of the victories of Brexit and Trump, although mainstream opposition parties and even some leaders of Renzi\u2019s fractured   Democratic Party (PD) had also campaigned for \u201dno\u201d.",
+            "\u201d And Matteo Salvini, the leader of the   Northern League, who campaigned vigorously against Mr Renzi\u2019s proposal, called the result \u201cnot just a defeat for Renzi but also his servant, lackeys, bankers, financiers.",
+            "Another opposition leader, Matteo Salvini, of the   Northern League, hailed the referendum as a \u201dvictory of the people against the strong powers of   of the world\u201d."
+        ],
+        "tf-idf score": [
+            0.780422171177889,
+            0.5855505370061582,
+            0.4017914023273909
+        ]
+    },
+    "0.21949549110686828-4-81": {
+        "average clique similarity": 0.21949549110686828,
+        "clique": [
+            "1-ROME      Italy plun",
+            "2-  ROME      Italy s ",
+            "0- Italian Prime Minis",
+            "3-The    Prime Ministe"
+        ],
+        "median tf-idf score": 0.9628884757506797,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "ROME  \u2014   Italy plunged into political and economic uncertainty early Monday as Prime Minister Matteo Renzi said he would resign after voters decisively rejected constitutional changes, a step certain to reverberate across a European Union already buffeted by   anger.",
+            "  ROME  \u2014   Italy\u2019s   parties vowed Monday to join forces with other insurgents around Europe as Prime Minister Matteo Renzi prepared to resign, but it was unclear whether an unlikely alliance of disaffected voters could propel the populists to office.",
+            " Italian Prime Minister Matteo Renzi announced on Monday that he would resign after suffering a resounding defeat in a referendum over constitutional reform, leaving the euro zone\u2019s   economy in political limbo.",
+            "The    Prime Minister Matteo Renzi is slated to hand in his resignation Monday after only 2   years in office and after acknowledging his stinging defeat in Sunday\u2019s referendum."
+        ],
+        "tf-idf score": [
+            1.072110945172083,
+            1.0392272383688548,
+            0.8865497131325047,
+            0.7183123805582914
+        ]
+    },
+    "0.24088041203881075-3-51": {
+        "average clique similarity": 0.24088041203881075,
+        "clique": [
+            "1-In a strategic blund",
+            "4-The turnout of 67 pe",
+            "0-1 percent of the vot"
+        ],
+        "median tf-idf score": 0.3406394827358939,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "In a strategic blunder that echoed David Cameron\u2019s call for a \u201cBrexit\u201d referendum, Mr Renzi had tied his government\u2019s tenure to Sunday\u2019s vote when he was flying high in the polls.",
+            "The turnout of 67 percent was especially high for a referendum, and more in line for a vote for Parliament.",
+            "1 percent of the vote in Sunday\u2019s vote."
+        ],
+        "tf-idf score": [
+            0.7940275960387162,
+            0.3406394827358939,
+            0.14425042818778439
+        ]
+    },
+    "0.25538737174328646-3-4": {
+        "average clique similarity": 0.25538737174328646,
+        "clique": [
+            "4- I lost  and the pos",
+            "3-Just over an hour af",
+            "0-After a meeting last"
+        ],
+        "median tf-idf score": 0.4305112946242601,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dI lost, and the post that gets eliminated is mine,\u201d Renzi said early Monday about an hour after the polls closed.",
+            "Just over an hour after the polls closed, Renzi appeared before the media.",
+            "After a meeting lasting about half an hour, Mattarella\u2019s office said in a statement that the prime minister had told the president he could no longer remain in office."
+        ],
+        "tf-idf score": [
+            0.47140270633350223,
+            0.27641762683363313,
+            0.4305112946242601
+        ]
+    },
+    "0.26350246112434345-3-505": {
+        "average clique similarity": 0.26350246112434345,
+        "clique": [
+            "0- From tomorrow  we w",
+            "4- Today the caste in ",
+            "3-As soon as the  no  "
+        ],
+        "median tf-idf score": 0.5229180139633349,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dFrom tomorrow, we will start work on putting together  \u2019s future program and the team of people that will make up a future government,\u201d said Luigi Di Maio, tipped to be the group\u2019s prime ministerial candidate.",
+            "\u201dToday the caste in power lost,\u201d said a   leader, Luigi Di Maio.",
+            "As soon as the \u201dno\u201d victory was announced, the likely   candidate for the premiership, Luigi di Maio, said: \u201dToday, the arrogance of power has been defeated."
+        ],
+        "tf-idf score": [
+            0.5342975377568335,
+            0.3419038983248184,
+            0.5229180139633349
+        ]
+    },
+    "0.28547756750964215-3-283": {
+        "average clique similarity": 0.28547756750964215,
+        "clique": [
+            "1-Holding back tears a",
+            "3- I take full respons",
+            "0- I take full respons"
+        ],
+        "median tf-idf score": 0.38096095469559305,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "Holding back tears as he spoke in front of Italian and European Union flags, the usually brash and confident    said, \u201cI assume all the responsibility of the defeat,\u201d adding that \u201cmy experience of government ends here.",
+            "\u201dI take full responsibility.",
+            "\u201dI take full responsibility for the defeat,\u201d Renzi said in his emotional, midnight speech."
+        ],
+        "tf-idf score": [
+            0.49638311569096233,
+            0.012089688202849893,
+            0.38096095469559305
+        ]
+    },
+    "0.38928819896804373-3-113": {
+        "average clique similarity": 0.38928819896804373,
+        "clique": [
+            "0-2 percent at the clo",
+            "1-The news sent the eu",
+            "2-9 percent in   tradi"
+        ],
+        "median tf-idf score": 0.0700042001377926,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "2 percent at the close of trading.",
+            "The news sent the euro down sharply in Asian trading.",
+            "9 percent in   trading."
+        ],
+        "tf-idf score": [
+            0.0700042001377926,
+            0.09353726892769638,
+            0.0584244081695307
+        ]
+    }
+}

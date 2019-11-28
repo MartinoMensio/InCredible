@@ -1,0 +1,342 @@
+{
+    "0.15133541075508936-3-16": {
+        "average clique similarity": 0.15133541075508936,
+        "clique": [
+            "1-The judge set an arr",
+            "0-What s next for Cosb",
+            "3-A Pennsylvania judge"
+        ],
+        "median tf-idf score": 0.7584743121250621,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The judge set an arraignment date for July 20, but Cosby waived his right to appear, which sets the case on a path for trial.",
+            "What\u2019s next for Cosby?",
+            "A Pennsylvania judge has ordered Bill Cosby to stand trial for sexual assault, ruling there is enough evidence for him to be criminally tried."
+        ],
+        "tf-idf score": [
+            0.7584743121250621,
+            0.3377545675644597,
+            0.8868626343306573
+        ]
+    },
+    "0.19447064927733046-3-104": {
+        "average clique similarity": 0.19447064927733046,
+        "clique": [
+            "4-Cosby s lawyer had a",
+            "3-He pressed prosecuti",
+            "1-The report came from"
+        ],
+        "median tf-idf score": 0.8540921333559566,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Cosby\u2019s lawyer had argued that reading the statement was hearsay and that the defense should have a right to   the accuser, Allyn says.",
+            "He pressed prosecution witnesses about Constand\u2019s statement to police that she had not had contact with Cosby after the alleged assault.",
+            "The report came from a civil suit brought by Constand in 2006, and Cosby\u2019s lawyers have argued that he spoke with police at the time with the understanding that his testimony would not be used against him in a criminal case."
+        ],
+        "tf-idf score": [
+            0.8385741682737569,
+            0.8540921333559566,
+            1.0071472611381567
+        ]
+    },
+    "0.1947893052977887-3-52": {
+        "average clique similarity": 0.1947893052977887,
+        "clique": [
+            "2-According to the sta",
+            "3-Instead  prosecutors",
+            "1-She says Cosby sexua"
+        ],
+        "median tf-idf score": 0.8885005952102999,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "According to the statement she gave to police, Cosby allegedly gave the woman wine and two pills to \u201ctake the edge off\u201d and later proceeded to sexually assault her.",
+            "Instead, prosecutors relied heavily on an interview that police conducted with Constand in January 2005, about a year after she says Cosby gave her pills at his estate that made her so woozy that her legs went \u201crubbery\u201d and she experienced \u201cblurred vision.",
+            "She says Cosby sexually assaulted her while she was unconscious."
+        ],
+        "tf-idf score": [
+            0.8885005952102999,
+            1.0017255129737521,
+            0.6023555795516218
+        ]
+    },
+    "0.20290720566792597-3-216": {
+        "average clique similarity": 0.20290720566792597,
+        "clique": [
+            "1-She said she had tol",
+            "0-The incidents made h",
+            "3-The defense also dri"
+        ],
+        "median tf-idf score": 0.7193031565608561,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "She said she had told Cosby she \u201dtrusted\u201d him when he gave her the pills and told her it was herbal medication.",
+            "The incidents made her uncomfortable, but she continued to trust him because of who he was, the affidavit said.",
+            "The defense also drilled down on corrections Constand made to a transcript police had made of her interview, including deleting the words \u201cnothing sexual\u201d in her account of an evening she spent with Cosby at a casino."
+        ],
+        "tf-idf score": [
+            0.7193031565608561,
+            0.25536322541222134,
+            0.8251389784030345
+        ]
+    },
+    "0.22383177294121515-3-242": {
+        "average clique similarity": 0.22383177294121515,
+        "clique": [
+            "4-   after Cosby alleg",
+            "1-The Associated Press",
+            "0-She said she found C"
+        ],
+        "median tf-idf score": 0.5948724922293239,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            ".. after Cosby allegedly gave her pills she thought were herbal medicine,\u201d Allyn reports.",
+            "The Associated Press reported that Constand told police Cosby violated her as she:   \u2026     drifted in and out of consciousness soon after he gave her three blue pills in 2004.",
+            "She said she found Cosby at the bottom of the stairs he gave her a muffin before opening the door and letting her out."
+        ],
+        "tf-idf score": [
+            0.5948724922293239,
+            0.8534767849807149,
+            0.46826185605549775
+        ]
+    },
+    "0.2327321988071697-3-69": {
+        "average clique similarity": 0.2327321988071697,
+        "clique": [
+            "3-  NORRISTOWN  Pa    ",
+            "0-Sexual advances beco",
+            "4-A judge in Pennsylva"
+        ],
+        "median tf-idf score": 0.9842269670625273,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "  NORRISTOWN, Pa.  \u2014   A judge on Tuesday ordered Bill Cosby to stand trial in a sexual assault case, clearing the way for a momentous showdown between the iconic comedian and prosecutors.",
+            "Sexual advances become assault allegations, The case that ended Saturday in a mistrial involved Andrea Constand, the first person to publicly accuse Cosby of sexual assault.",
+            "A judge in Pennsylvania ruled Tuesday that there is sufficient evidence for a sexual assault case against comedian Bill Cosby to move to trial."
+        ],
+        "tf-idf score": [
+            1.0513853496165946,
+            0.934197185348941,
+            0.9842269670625273
+        ]
+    },
+    "0.23821455360953936-3-42": {
+        "average clique similarity": 0.23821455360953936,
+        "clique": [
+            "2-A Pennsylvania judge",
+            "3-May 24  2016 Bill Co",
+            "1-A judge ruled Tuesda"
+        ],
+        "median tf-idf score": 0.9553959746722986,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "A Pennsylvania judge on Tuesday ordered comedian Bill Cosby to stand trial for the alleged sexual assault of a woman in 2004.",
+            "May 24, 2016 Bill Cosby departs the Montgomery County Courthouse in Norristown, Pa. after a preliminary hearing regarding charges stemming from an alleged sexual assault in 2004.",
+            "A judge ruled Tuesday that Bill Cosby\u2019s trial on charges of sexual assault can go forward despite his lawyers\u2019 attempts to have the charges against the entertainer dismissed."
+        ],
+        "tf-idf score": [
+            0.9553959746722986,
+            0.8375356592152007,
+            0.9715176921421118
+        ]
+    },
+    "0.2471491648345919-4-24": {
+        "average clique similarity": 0.2471491648345919,
+        "clique": [
+            "4-The accuser  Andrea ",
+            "2-Montgomery County Po",
+            "3-Montgomery County  P",
+            "1-She was not in the c"
+        ],
+        "median tf-idf score": 0.6193163250747328,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The accuser, Andrea Constand, did not appear in court, but parts of a statement she gave in 2005 were read during Tuesday\u2019s preliminary hearing in Norristown, Pa.",
+            "Montgomery County Police Detective Katherine Hart read portions of Constand\u2019s statement aloud in court on Tuesday.",
+            "Montgomery County, Pa. prosecutors opted not to call Constand as a witness Tuesday at a hearing that provided the first detailed courtroom airing of the case against Cosby.",
+            "She was not in the court Tuesday."
+        ],
+        "tf-idf score": [
+            0.6317529649736132,
+            0.6068796851758523,
+            0.9153813152550198,
+            0.23651874495332342
+        ]
+    },
+    "0.25151080885024374-3-48": {
+        "average clique similarity": 0.25151080885024374,
+        "clique": [
+            "4-New evidence  includ",
+            "2-But the comedian s d",
+            "0-Judge unseals deposi"
+        ],
+        "median tf-idf score": 1.185991137463341,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "New evidence, including a deposition given by Cosby, were enough to move the case forward in Pennsylvania this year.",
+            "But the comedian\u2019s deposition in the case was published by the New York Times in July of last year, in which Cosby detailed the extent of his relationship with Constand and admitted to giving the woman a tablet and a half of Benadryl to relieve stress, later kissing and engaging in sexual contact with her.",
+            "Judge unseals deposition  It was the statement Cosby made in a deposition to Constand\u2019s lawyers in his lawsuit in 2005 that led Pennsylvania prosecutors to charge him in the Constand case."
+        ],
+        "tf-idf score": [
+            0.6907828732155757,
+            1.3321760393928366,
+            1.185991137463341
+        ]
+    },
+    "0.2542611217740138-3-242": {
+        "average clique similarity": 0.2542611217740138,
+        "clique": [
+            "2-Cosby settled a civi",
+            "4-The parties settled ",
+            "0-The case was settled"
+        ],
+        "median tf-idf score": 0.5855170599921619,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Cosby settled a civil suit with Constand in 2006 for an undisclosed sum.",
+            "The parties settled in 2006.",
+            "The case was settled in March 2006 after months of depositions that would come back to haunt Cosby."
+        ],
+        "tf-idf score": [
+            0.5855170599921619,
+            0.029727653170742406,
+            0.6486225008444749
+        ]
+    },
+    "0.2576279306027139-3-242": {
+        "average clique similarity": 0.2576279306027139,
+        "clique": [
+            "0-Constand knew Cosby ",
+            "2-Constand  a former T",
+            "3-Judge Elizabeth McHu"
+        ],
+        "median tf-idf score": 0.8623270721136589,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Constand knew Cosby through her job at Temple University in Philadelphia, and he invited her to his Cheltenham home.",
+            "Constand, a former Temple University basketball employee, told police that Cosby drugged and sexually abused her at his home in Cheltenham Township near Philadelphia in 2004.",
+            "Judge Elizabeth McHugh took only a few moments to reach her decision after a contentious   hearing in which Cosby\u2019s defense team aggressively sought to attack the credibility of his accuser: former Temple University women\u2019s basketball official Andrea Constand."
+        ],
+        "tf-idf score": [
+            0.6307653498374973,
+            0.8623270721136589,
+            1.084636155109805
+        ]
+    },
+    "0.2601977137835703-3-116": {
+        "average clique similarity": 0.2601977137835703,
+        "clique": [
+            "2- According to CNN  M",
+            "4-In 2005  as the   ha",
+            "3-  The hearing was he"
+        ],
+        "median tf-idf score": 1.1619793336434125,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "[According to CNN, Montgomery County Magistrate Judge Elizabeth McHugh ruled that enough evidence existed in the case to charge Cosby with three counts of felony indecent assault over charges brought by Andrea Constand, the first of dozens of women who have since accused the comedian of sexual assault and rape.",
+            "In 2005, as the   has reported, a Montgomery County prosecutor decided there wasn\u2019t enough evidence to bring charges in the case.",
+            "\u201d The hearing was held to determine whether there is enough evidence for a trial to be scheduled on charges of aggravated indecent assault against Cosby, who has been accused of sexual assault by at least 58 women but is facing criminal charges only here in Pennsylvania."
+        ],
+        "tf-idf score": [
+            1.5066500111565115,
+            0.4184764840184984,
+            1.1619793336434125
+        ]
+    },
+    "0.3400951860901599-3-242": {
+        "average clique similarity": 0.3400951860901599,
+        "clique": [
+            "1-Cosby has been accus",
+            "4-Cosby  who has been ",
+            "0-  CNN  Much has been"
+        ],
+        "median tf-idf score": 1.0791033904436491,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Cosby has been accused of sexual assault by dozens of women, but as of now, Constand\u2019s is the only case in which he faces criminal charges.",
+            "Cosby, who has been accused by dozens of women of sexual assault, has been charged with three counts of aggravated indecent assault in the case, which involves a former Temple University employee who says Cosby assaulted her in his home in 2004.",
+            " (CNN) Much has been said and written about the sex scandal that has torpedoed Bill Cosby\u2019s legacy    so much so that it can be difficult to recall how he reached the point of facing trial on three counts of felony aggravated indecent assault."
+        ],
+        "tf-idf score": [
+            1.0879773314172738,
+            1.0791033904436491,
+            0.7798927946273316
+        ]
+    },
+    "0.3697960348542712-3-129": {
+        "average clique similarity": 0.3697960348542712,
+        "clique": [
+            "0-He faced a maximum s",
+            "1-The    actor could f",
+            "4-Each count carries f"
+        ],
+        "median tf-idf score": 0.12818442171093092,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "He faced a maximum sentence of 10 years in prison for each count.",
+            "The    actor could face up to 10 years in prison if convicted in the case brought in Montgomery County, Pennsylvania, by Andrea Constand, one of his many accusers.",
+            "Each count carries five to 10 years in prison."
+        ],
+        "tf-idf score": [
+            0.12818442171093092,
+            0.6133930325514356,
+            0.1191353039715014
+        ]
+    }
+}

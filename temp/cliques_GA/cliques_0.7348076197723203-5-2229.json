@@ -1,0 +1,386 @@
+{
+    "0.21093248199316794-3-41": {
+        "average clique similarity": 0.21093248199316794,
+        "clique": [
+            "2-The email was about ",
+            "3-A senior State Depar",
+            "4-The FBI official sub"
+        ],
+        "median tf-idf score": 1.4114248602020745,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The email was about the deadly 2012 attack on a U S compound in Benghazi, Libya, and included information that originated from the FBI, which meant that the FBI had final say on whether it would remain classified.",
+            "A senior State Department official requested the FBI   that email to determine whether it was in fact classified or whether it might be protected from release under a different FOIA exemption.",
+            "The FBI official subsequently told the senior State official that the email was appropriately classified at the Secret level and that the FBI would not change the classification of the email."
+        ],
+        "tf-idf score": [
+            0.8619962331577874,
+            1.4556449195126202,
+            1.4114248602020745
+        ]
+    },
+    "0.21873534717131227-3-57": {
+        "average clique similarity": 0.21873534717131227,
+        "clique": [
+            "0-    The deal  which ",
+            "2-AGENCIES SAY NO  QUI",
+            "1-Some of the intervie"
+        ],
+        "median tf-idf score": 1.1329056215472495,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "'   The deal, which was rejected, was characterized as a \"quid pro   quo\" by the unnamed individual relaying an account of the   conversation Kennedy had with the FBI official. '",
+            "AGENCIES SAY NO 'QUID PRO QUO\" In a separate interview summary among the 100 pages released on Monday, another unnamed FBI official confirmed a discussion of a \"quid pro quo\".",
+            "Some of the interview notes appear contradictory. In one, an FBI official said he heard that State had offered the \"quid pro quo. \""
+        ],
+        "tf-idf score": [
+            1.1329056215472495,
+            0.9136323094230681,
+            1.1410585076694892
+        ]
+    },
+    "0.2500916684516339-3-116": {
+        "average clique similarity": 0.2500916684516339,
+        "clique": [
+            "4-Yet that s what a se",
+            "0-The   investigation ",
+            "2-According to earlier"
+        ],
+        "median tf-idf score": 1.7580911781474804,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "Yet that's what a senior State Department official allegedly did in the days after the existence of Hillary Clinton's email server was made public, according to notes the FBI released on Monday from its investigation of the former secretary of state.",
+            "The   investigation took place in 2015, after Clinton had left the   State Department. \" '   According to the documents, the FBI official then contacted   another person and \"pressured\" the individual to change the   classification of the email. '",
+            "According to earlier documents the FBI released last month, at least one official at the State Department told investigators that there was pressure by senior department officials to mislead the public about the presence of classified information in Clinton's emails ahead of their public release."
+        ],
+        "tf-idf score": [
+            1.7580911781474804,
+            1.5876032126423252,
+            1.869607671896412
+        ]
+    },
+    "0.26031392318483254-3-138": {
+        "average clique similarity": 0.26031392318483254,
+        "clique": [
+            "0-Kennedy must resign ",
+            "3-The campaign has als",
+            "2-In 2015  Clinton rep"
+        ],
+        "median tf-idf score": 0.9608188652249172,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Kennedy must resign from the State Department immediately and   Clinton must state he has no place in her administration if she   is elected President\". '",
+            "The campaign has also called on Kennedy to resign and for Clinton to state publicly that he would not have a place in her administration, were she elected. A statement from House Speaker Paul Ryan said the episode \"bears all the signs of a  \".",
+            "In 2015, Clinton repeatedly said she never sent or received classified information via her server, but since the release of the FBI report in July she has said she relied on the judgment of her subordinates at the department."
+        ],
+        "tf-idf score": [
+            0.8790837333247128,
+            0.9608188652249172,
+            1.0749382089788366
+        ]
+    },
+    "0.26754344321501633-3-35": {
+        "average clique similarity": 0.26754344321501633,
+        "clique": [
+            "2-He said Kennedy told",
+            "4-Basically  Toner sai",
+            "1- Any assertion that "
+        ],
+        "median tf-idf score": 0.8968082679773034,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "He said Kennedy told him in a phone call that the FBI's classification of the email \"caused problems\" for Kennedy.",
+            "Basically, Toner said, the FBI official \"took advantage\" of the fact that he had Kennedy on the phone to bring up an unrelated matter.",
+            "\"Any assertion that this was somehow a tit for tat or quid pro quo or exchange in that manner, frankly, is insulting,\" State spokesman Mark Toner told reporters. \"[The agent] was on the phone with Pat Kennedy and took advantage of that fact to raise the issue of [more] slots in Baghdad,\" he said."
+        ],
+        "tf-idf score": [
+            0.8968082679773034,
+            0.8412510360193127,
+            1.265734928093148
+        ]
+    },
+    "0.27100656065554796-3-181": {
+        "average clique similarity": 0.27100656065554796,
+        "clique": [
+            "1-Both State and the F",
+            "3-The FBI didn t chang",
+            "2-The State Department"
+        ],
+        "median tf-idf score": 1.419450907464857,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Both State and the FBI said Monday that the document under discussion remained classified and that the request for agents to operate in other countries was not part of any quid pro quo deal.",
+            "The FBI didn't change its classification of the email, and the State Department did not approve the FBI's request to increase personnel in Iraq, so it seems there was neither a quid nor a quo.",
+            "The State Department and the FBI both confirmed that a conversation about the email's classification and an increase in FBI slots in Iraq took place, but both agencies said there was no \"quid pro quo\"."
+        ],
+        "tf-idf score": [
+            1.419450907464857,
+            1.3714589323479396,
+            1.6457727251097454
+        ]
+    },
+    "0.2863011921919553-3-144": {
+        "average clique similarity": 0.2863011921919553,
+        "clique": [
+            "4-A   FBI official  wh",
+            "2-The official said he",
+            "3-Some are interpretin"
+        ],
+        "median tf-idf score": 1.3910967803755372,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "A   FBI official, who was not part of the subsequent Clinton investigation, told the State Department official that they would look into the matter.",
+            "The official said he told Kennedy he would look into the email, which he had not yet seen, if the State Department would consider allowing more FBI agents to be posted in Iraq in exchange.",
+            "Some are interpreting this as meaning Kennedy was trying to avoid having the document available for public review through FOIA \"[Name redacted] told Kennedy he would look into the   matter if Kennedy would provide authority concerning the FBI's request to increase personnel in Iraq,\" the notes say. Elsewhere in the FBI notes, it is alleged that this may have been the offer of a \"quid pro quo\"."
+        ],
+        "tf-idf score": [
+            1.3306945215125636,
+            1.4914816420566357,
+            1.3910967803755372
+        ]
+    },
+    "0.30235968257101076-3-22": {
+        "average clique similarity": 0.30235968257101076,
+        "clique": [
+            "1-A top State Departme",
+            "0-  suggest an   under",
+            "4-The notes include an"
+        ],
+        "median tf-idf score": 1.8324648278356557,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "A top State Department official offered a \"quid pro quo\" to an FBI investigator to declassify an   from Hillary Clinton's private server in exchange for allowing the bureau to operate in countries where it was banned, stunning new documents revealed Monday.",
+            "' suggest an   undersecretary of state requested that the FBI change a   classified email to unclassified for what a bureau official   interpreted as a \"quid pro quo\" exchange with the State   Department. '",
+            "The notes include an assertion from an unnamed FBI official that Patrick F Kennedy, the State Department's under secretary for management, asked him to help change the status of an email on Clinton's server that the FBI wanted classified\"in exchange for 'a quid pro quo. '\""
+        ],
+        "tf-idf score": [
+            1.8324648278356557,
+            1.5009768046004603,
+            1.9613186500006126
+        ]
+    },
+    "0.30356050516500493-3-191": {
+        "average clique similarity": 0.30356050516500493,
+        "clique": [
+            "3- Kennedy asked  reda",
+            "2-Soon after that call",
+            "0- The undersecretary "
+        ],
+        "median tf-idf score": 1.1933487466146253,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\"Kennedy asked [redacted name] assistance in changing a classification of FBI information contained in an \" reads the FBI notes. \"Kennedy told [name redacted] that the FBI's classification of the   in question caused problems for Kennedy and Kennedy wanted to classify the document as 'B9.'",
+            "Soon after that call, one of the official's FBI colleagues received a call from Kennedy in which Kennedy \"asked his assistance in altering the email's classification in exchange for a 'quid pro quo. '\"",
+            "\"The undersecretary of state, Patrick Kennedy, asked for   assistance in changing the classification of an email that the   FBI had marked classified, according to an individual whose name   was redacted in the fourth batch of notes summarizing the FBI's   investigation into Clinton's email conduct."
+        ],
+        "tf-idf score": [
+            0.9677379257327855,
+            1.1933487466146253,
+            1.7194586591523395
+        ]
+    },
+    "0.30466134555390323-3-191": {
+        "average clique similarity": 0.30466134555390323,
+        "clique": [
+            "4- These FBI documents",
+            "2-Clinton s Republican",
+            "3-The suspicion raised"
+        ],
+        "median tf-idf score": 1.657583894006046,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "\"These FBI documents provide undeniable proof that Hillary Clinton colluded with the FBI, [the Department of Justice] and State Department to cover up criminal activity at the highest levels,\" General Michael Flynn said in a statement for the Trump campaign. The Republican National Committee added: \"The Obama Administration's blatant attempts to shield Hillary Clinton from accountability for her reckless conduct will only inflame the growing distrust Americans have for their own government. \" Even Republicans who have been warring with Trump lately chimed in.",
+            "Clinton's Republican rival for the White House, Donald Trump, posted a video online on Monday in which he said the FBI documents showed \"corruption at the highest levels\".",
+            "The suspicion raised by the release of these notes has caused alarm among leading Republicans. Donald Trump's campaign put out a statement from one of its most prominent national security advisers, retired Lt. Gen. Michael Flynn, which said, \"These FBI documents provide undeniable proof that Hillary Clinton colluded with the FBI, DOJ and State Department to cover up criminal activity at the highest levels\"."
+        ],
+        "tf-idf score": [
+            1.6581889325389032,
+            0.9850550501908333,
+            1.657583894006046
+        ]
+    },
+    "0.30795384695989797-3-191": {
+        "average clique similarity": 0.30795384695989797,
+        "clique": [
+            "2-Toner  the State Dep",
+            "1-But a different FBI ",
+            "4-But Toner said it wa"
+        ],
+        "median tf-idf score": 1.2092574352141803,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Toner, the State Department spokesman, said there was \"no quid pro quo,\" and told reporters that it was the FBI official who raised the possibility with Kennedy of allowing more agents in Iraq during the conversation about the email.",
+            "But a different FBI official in a separate document said it was the FBI that made the offer to review the   if State helped the bureau get agents in Iraq.",
+            "But Toner said it was the FBI official --  not Kennedy --  who brought up the possibility of allowing more agents to be stationed in Baghdad and that he did so after the conversation about the email, not at the same time."
+        ],
+        "tf-idf score": [
+            1.9168949267790285,
+            1.2092574352141803,
+            1.2078205358347995
+        ]
+    },
+    "0.34709607520286734-3-61": {
+        "average clique similarity": 0.34709607520286734,
+        "clique": [
+            "3-The Republican chair",
+            "2-Obama put his own  r",
+            "4-House Speaker Paul R"
+        ],
+        "median tf-idf score": 1.064827614542258,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The Republican chairmen of the House Oversight and House Intelligence committees have sent a letter to Secretary of State John Kerry calling on him to remove a   career State Department official, pending an independent investigation to \"assure the public that he is not carrying out his duties in a corrupt, biased or underhanded manner\".",
+            "Obama put his own \"revolving door\" rules in place at the beginning of his time in office. Several Republican lawmakers called on Obama to investigate Kennedy and remove him from the department. Toner of the State Department said Kennedy \"has the full confidence\" of John Kerry, Clinton's successor as secretary of state.",
+            "House Speaker Paul Ryan said the disclosure \"bears all the signs of a \" while the chairmen of the House oversight and intelligence committees called for President Obama and Secretary of State John Kerry to remove Kennedy from his post pending a full investigation. The State Department rushed to Kennedy's defense."
+        ],
+        "tf-idf score": [
+            0.9341545823879998,
+            1.1669179093628574,
+            1.064827614542258
+        ]
+    },
+    "0.38286787429361485-3-89": {
+        "average clique similarity": 0.38286787429361485,
+        "clique": [
+            "1-  REDACTED  believes",
+            "4-The notes state that",
+            "3-The FBI official sub"
+        ],
+        "median tf-idf score": 1.4114248602020745,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"[REDACTED] believes STATE has an agenda which involves minimizing the classified nature of the CLINTON   in order to protect STATE interests and those of CLINTON,\" the documents stated. The documents also showed that Kennedy was not happy cooperating with the feds  --   and wanted some emails kept secret.",
+            "The notes state that the FBI official who made the assertion \"believes [the State Department] has an agenda which involves minimizing the classified nature of the Clinton emails in order to protect State interests and those of Clinton. \"",
+            "The FBI official subsequently told the senior State official that the email was appropriately classified at the Secret level and that the FBI would not change the classification of the email."
+        ],
+        "tf-idf score": [
+            1.3395166351722914,
+            1.4416242618576,
+            1.4114248602020745
+        ]
+    },
+    "0.5117383492003474-3-4": {
+        "average clique similarity": 0.5117383492003474,
+        "clique": [
+            "3- Prior to the initia",
+            "4-Prior to the initiat",
+            "0-         Donald Trum"
+        ],
+        "median tf-idf score": 1.8306934592448505,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "\"Prior to the initiation of the FBI's investigation of former Secretary Clinton's personal email server, the FBI was asked to review and make classification determinations on FBI emails and information which were being produced by the State Department pursuant to FOIA The FBI determined that one such email was classified at the Secret level.",
+            "Prior to the initiation of the FBI's investigation of former Secretary Clinton's personal email server, the FBI was asked to review and make classification determinations on FBI emails and information which were being produced by the State Department pursuant to FOIA  The FBI determined that one such email was classified at the Secret level.",
+            "'  ' '   Donald Trump  Monday afternoon in which he   called the latest documents released by the FBI on the Hillary   Clinton email investigation \"proof of corruption at the highest   level\". '"
+        ],
+        "tf-idf score": [
+            1.8306934592448505,
+            1.8306934592448505,
+            1.1180506134526167
+        ]
+    },
+    "0.6634112746901303-3-46": {
+        "average clique similarity": 0.6634112746901303,
+        "clique": [
+            "1-  Redacted  advised ",
+            "4-The State Department",
+            "0-    In exchange for "
+        ],
+        "median tf-idf score": 1.2617804472500982,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"[Redacted] advised that in exchange for marking the   unclassified, STATE would reciprocate by allowing the FBI to place more Agents in countries where they are presently forbidden,\" the document added. One State Department staffer described feeling \"immense pressure\" to complete the review quickly and to not label anything as classified.",
+            "The State Department, according to the FBI  notes, \"would reciprocate by allowing the FBI to place more agents in countries where they are presently forbidden. \"",
+            "'   In exchange for marking the email unclassified, the State   Department was willing to \"reciprocate by allowing the FBI to   place more agents in countries where they are presently   forbidden,\" according to the documents. '"
+        ],
+        "tf-idf score": [
+            1.2617804472500982,
+            0.9090977753435496,
+            1.3665350069506987
+        ]
+    },
+    "0.7985689821478491-3-55": {
+        "average clique similarity": 0.7985689821478491,
+        "clique": [
+            "4-The classification o",
+            "2- Although there was ",
+            "3-The classification o"
+        ],
+        "median tf-idf score": 1.0431953587747462,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "The classification of the email was not changed, and it remains classified today. Although there was never a quid pro quo, these allegations were nonetheless referred to the appropriate officials for review.",
+            "\"Although there was never a quid pro quo, these allegations were nonetheless referred to the appropriate officials for review,\" the FBI said in its statement, which did not say what the outcome of the review was.",
+            "The classification of the email was not changed, and it remains classified today. Although there was never a quid pro quo, these allegations were nonetheless referred to the appropriate officials for review\"."
+        ],
+        "tf-idf score": [
+            1.0431953587747462,
+            1.1153445202444787,
+            1.0431953587747462
+        ]
+    }
+}

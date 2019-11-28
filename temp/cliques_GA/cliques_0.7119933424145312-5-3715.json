@@ -1,0 +1,530 @@
+{
+    "0.2050762381101865-3-243": {
+        "average clique similarity": 0.2050762381101865,
+        "clique": [
+            "4- He knew the danger ",
+            "1-Michael Krol  40   H",
+            "0-According to family "
+        ],
+        "median tf-idf score": 0.7748438002513987,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "\"He knew the danger of the job but he never shied away from his duty as a police officer,\" Krol's mother, Susan Ehlke, told  WXYZ \"He was a great, caring person and wanted to help people.",
+            "Michael Krol, 40, \"He wanted to do more, that's kind of how he was.",
+            "According to family, Krol always wanted to be a police officer, to protect people."
+        ],
+        "tf-idf score": [
+            1.1560894218286482,
+            0.41525063225962056,
+            0.7748438002513987
+        ]
+    },
+    "0.21962262393748042-3-65": {
+        "average clique similarity": 0.21962262393748042,
+        "clique": [
+            "1-When news of violenc",
+            "0-According to Zamarri",
+            "3-On Thursday night  Z"
+        ],
+        "median tf-idf score": 1.0148123278370427,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "When news of violence in downtown Dallas broke Thursday night, he told the paper, he sent a text to his son asking whether everything was OK Rick Zamarripa told the Post it was unusual to be met with silence on the other end.",
+            "According to Zamarripa's father, he served three tours in Iraq, where he worked for the military police. \"He comes to the United States to protect people here,\" his dad told the Washington Post.",
+            "On Thursday night, Zamarripa's girlfriend, Kristy Villasenor was at a Texas Rangers game with their daughter. Prettiest #OpeningDay baby ever in @Rangers history! Zamarripa's father, Rick, told the Washington Post that his son had returned from his tours of duty to \"protect people here  --   and they take his life. \""
+        ],
+        "tf-idf score": [
+            1.0148123278370427,
+            0.9204614232393846,
+            1.0578978766957228
+        ]
+    },
+    "0.252245825777477-3-124": {
+        "average clique similarity": 0.252245825777477,
+        "clique": [
+            "3-Smith leaves behind ",
+            "0-But he declined  say",
+            "2-He served in the mil"
+        ],
+        "median tf-idf score": 0.9543149679644972,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "Smith leaves behind a wife of 17 years and two daughters, aged 14 and 10, according to a GoFundMe page established by family friends to help pay for his funeral and other expenses, A   veteran of the department, he leaves behind a wife and a    daughter and    son. According to the Washington Post, he died at Baylor Hospital after undergoing surgery. This is a developing story and will be updated with more information on the victims when it becomes available.",
+            "But he declined, saying he loved being a police officer. Zamarripa leaves behind a family, including a wife, stepson, and daughter.",
+            "He served in the military reserves as well as working as a Dallas policeman. His uncle, Hector Zamarripa, said by telephone that Zamarripa was a proud   who leaves behind a wife, their   daughter and a stepson."
+        ],
+        "tf-idf score": [
+            1.0004386517917323,
+            0.8005857383221098,
+            0.9543149679644972
+        ]
+    },
+    "0.25431171640018785-3-161": {
+        "average clique similarity": 0.25431171640018785,
+        "clique": [
+            "2-MICHAEL KROL Michael",
+            "4-He has been hailed a",
+            "0-pic  twitter       W"
+        ],
+        "median tf-idf score": 1.3230202799879336,
+        "publications": [
+            "Vox",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "MICHAEL KROL Michael Krol, a    officer with the Dallas Police Department, was killed, according to a statement from the Wayne County Sheriff's Office in Michigan, where Krol worked as a deputy in the jails from 2003 to 2007.",
+            "He has been hailed as a hero on social media. Michael Krol, 40, became an officer in the Dallas police department in 2007 after previously working in his local county jail system in Michigan.",
+            "pic. twitter. --   Washington Post (@washingtonpost) July 8, 2016     Michael Krol was an   veteran of the Dallas Police Department  --   a job that led him to leave his home state of Michigan for Texas after he heard of police jobs in Dallas."
+        ],
+        "tf-idf score": [
+            1.5802723351626229,
+            1.1464742620334019,
+            1.3230202799879336
+        ]
+    },
+    "0.2569728073029246-3-61": {
+        "average clique similarity": 0.2569728073029246,
+        "clique": [
+            "2-Seven other police o",
+            "4-Seven other officers",
+            "0- On July 7  at least"
+        ],
+        "median tf-idf score": 0.8099382907705839,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "Seven other police officers and two civilians were wounded in the shooting at the end of a protest over this week's killing of two black men by police in Baton Rouge, Louisiana, and a suburb of St. Paul, Minnesota.",
+            "Seven other officers were injured as sniper fire broke out while police were patrolling a peaceful protest in Dallas on Thursday evening organized to demonstrate against the police shooting deaths of Philando Castile in Minnesota and Alton Sterling in Louisiana earlier this week.",
+            " On July 7, at least one sniper opened fire on police officers during a peaceful protest in Dallas over police shootings."
+        ],
+        "tf-idf score": [
+            0.663397188066828,
+            0.9244051421473436,
+            0.8099382907705839
+        ]
+    },
+    "0.2676067576698308-3-31": {
+        "average clique similarity": 0.2676067576698308,
+        "clique": [
+            "3-On Twitter  where he",
+            "2- Merica   Patrick wr",
+            "4-A picture was posted"
+        ],
+        "median tf-idf score": 0.8422254217358917,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "On Twitter, where he described himself as \"addicted to the thrill of this job,\" Zamarripa frequently posted about his daughter, his work with the police department, and in support of other fallen officers.",
+            "'Merica,\" Patrick wrote on his Twitter profile. A lover of Tejano music, he posted pictures of his daughter, selfies with other officers on duty and his love for the Dallas Cowboys football team and the Rangers baseball team.",
+            "A picture was posted on Twitter of Thompson with his grandson."
+        ],
+        "tf-idf score": [
+            0.9151431366633871,
+            0.8422254217358917,
+            0.4244693797905898
+        ]
+    },
+    "0.2829233735066307-3-113": {
+        "average clique similarity": 0.2829233735066307,
+        "clique": [
+            "1- He joined the DART ",
+            "0-Smith was an Army ra",
+            "3-Michael Smith joined"
+        ],
+        "median tf-idf score": 1.198188480140729,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"He joined the DART Police Department in 2009\".",
+            "Smith was an Army ranger before he joined the Dallas Police Department, Rena Guillory reported for local news station KFDM He leaves behind a wife and two daughters, a    and   .",
+            "Michael Smith joined the Dallas Police Department in 1989 after graduating from Lamar University, according to KFDM He was also an Army Ranger prior to joining the department."
+        ],
+        "tf-idf score": [
+            0.4566985990961015,
+            1.2454766297415891,
+            1.198188480140729
+        ]
+    },
+    "0.282951414133741-3-243": {
+        "average clique similarity": 0.282951414133741,
+        "clique": [
+            "4-Veteran Dallas polic",
+            "3-Before moving to Dal",
+            "1-Michael Krol served "
+        ],
+        "median tf-idf score": 1.1337741530024512,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "Veteran Dallas police officer Michael Smith was as committed to policing as he was to the Watermark Community Church, where he both prayed and worked as a security guard in his spare time.",
+            "Before moving to Dallas and joining the DPD, Krol had worked as a hospital security guard and in the Wayne County jail system, according to media reports.",
+            "Michael Krol served with the jail system in Wayne County, Mich. before heading to Dallas to pursue a career as a police officer there, according to Detroit local media."
+        ],
+        "tf-idf score": [
+            1.314333926714423,
+            0.6482655762863413,
+            1.1337741530024512
+        ]
+    },
+    "0.29469152589281883-3-93": {
+        "average clique similarity": 0.29469152589281883,
+        "clique": [
+            "1-The Dallas Police As",
+            "2-He was known as a fr",
+            "4-The Dallas Police As"
+        ],
+        "median tf-idf score": 0.7898546520179395,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "The Dallas Police Association, when it recognized him with a \"Cops' Cop\" award in 2009, noted his   attitude and willingness to pay out of pocket for advanced training. It praised a racquetball program for local kids he founded at the YMCA, and wrote that he once took a blow to the head to protect his partner.",
+            "He was known as a friendly family man and had been given a \"Cops' Cop\" award from the Dallas Police Association, the Dallas Morning News reported.",
+            "The Dallas Police Association's \"Cop's Cop\" award was among the distinctions he earned."
+        ],
+        "tf-idf score": [
+            0.7681714078260191,
+            1.0100652262582377,
+            0.7898546520179395
+        ]
+    },
+    "0.33562527301122796-3-243": {
+        "average clique similarity": 0.33562527301122796,
+        "clique": [
+            "2-MICHAEL SMITH Michae",
+            "1-Michael Smith  55  S",
+            "0-Michael Smith  55  D"
+        ],
+        "median tf-idf score": 1.0698470014757306,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "MICHAEL SMITH Michael Smith, 55, also died in the attack, KFDM television in southeastern Texas reported, citing his sister. Smith grew up in Port Arthur, Texas, and served in the military as an Army Ranger before joining the Dallas police in 1989, the television report said.",
+            "Michael Smith, 55, Smith, an Army veteran, had been on the Dallas Police force for more than 25 years, KFDM reports.",
+            "Michael Smith, 55, Dallas Police Department officer              Michael Smith was a   veteran of the Dallas Police Department  --   the   member among those who died in the shooting."
+        ],
+        "tf-idf score": [
+            1.0698470014757306,
+            0.7729215425482605,
+            1.3116958316478946
+        ]
+    },
+    "0.36000374935819957-3-243": {
+        "average clique similarity": 0.36000374935819957,
+        "clique": [
+            "1-His    Brian Schoenb",
+            "0- He was a big guy an",
+            "3- He was a big guy an"
+        ],
+        "median tf-idf score": 0.8258198498556146,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "His    Brian Schoenbaechler told the paper he left his family and familiar surroundings for Dallas for a very simple reason: \"He said, 'This is something that I wanted to do. '\" To Click On Detroit, Ehlke added: \"He was all in, he was all in\".",
+            "\"He was a big guy and had a big heart, and he was a really caring person, and wanted to help people,\" Brian Schoenbaechler, Krol's    told the Washington Post. \"It doesn't seem real. His mom's had a difficult time\".",
+            "\"He was a big guy and had a big heart, and he was a really caring person and wanted to help people,\" Krol's    Brian Schoenbaechler, told the Post. \"It doesn't seem real. \""
+        ],
+        "tf-idf score": [
+            0.9509710787096133,
+            0.8258198498556146,
+            0.7435921571822959
+        ]
+    },
+    "0.3673117768069428-5-43": {
+        "average clique similarity": 0.3673117768069428,
+        "clique": [
+            "1-Prior to his service",
+            "4-Before joining the m",
+            "0-According to his Lin",
+            "2- As you can imagine ",
+            "3-According to his Lin"
+        ],
+        "median tf-idf score": 0.9979175350631377,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Buzzfeed News",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "Prior to his service with the agency, Thompson had worked with DynCorp International, supporting the operations of American police officers who were training Iraqi law enforcement in southern Iraq, according to Thompson's LinkedIn profile.",
+            "Before joining the mass transit police, Thompson worked with US police officers in Iraq and Afghanistan for the military contractor Dyncorp, according to his LinkedIn page.",
+            "According to his LinkedIn profile, Thompson worked as an international police liaison officer for DynCorp International from 2004 to 2008.",
+            "\"As you can imagine, our hearts are broken,\" a DART statement said. Thompson spent more than four years in Iraq, working for private U S military contractor DynCorp International as a police liaison officer who supervised Americans training and mentoring the Iraqi police force, according to his LinkedIn profile.",
+            "According to his LinkedIn profile, Thompson joined DART after spending four years working as an international police liaison for DynCorp in Iraq, where he oversaw American officers training their Iraqi counterparts."
+        ],
+        "tf-idf score": [
+            0.9979175350631377,
+            0.8824534554193675,
+            0.7847976114143456,
+            1.2417948037922484,
+            1.050265283239197
+        ]
+    },
+    "0.3840493619835935-5-108": {
+        "average clique similarity": 0.3840493619835935,
+        "clique": [
+            "0- Brent was a great o",
+            "2-Thompson was married",
+            "4-Thompson joined the ",
+            "1-Thompson had gotten ",
+            "3-Joined DART 2009  In"
+        ],
+        "median tf-idf score": 0.9001837101538585,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Reuters",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "\"Brent was a great officer,\" James Spiller, police chief of DART, told CNN \"He was an outstanding patrol officer as well as a rail officer.",
+            "Thompson was married to a fellow DART officer, local television station WFAA reported, citing DART Chief James Spiller.",
+            "Thompson joined the division in 2009. The Dart chief, James Spiller, said: \"He was an outstanding patrol officer as well as a rail officer. \"",
+            "Thompson had gotten married in the past two weeks, DART Police Chief James Spiller told CNN's morning program New Day on Friday.",
+            "Joined DART 2009. In a statement, DART said: DART Chief of Police James D Spiller told reporters from ABC affiliate WFAA Channel 8 and CNN that Thompson married a fellow officer just weeks ago."
+        ],
+        "tf-idf score": [
+            1.0571301610798174,
+            0.9001837101538585,
+            0.8947328573247736,
+            0.7388878397053229,
+            1.1019468293057357
+        ]
+    },
+    "0.3890186366514415-3-131": {
+        "average clique similarity": 0.3890186366514415,
+        "clique": [
+            "2-PATRICK  PATRICIO  Z",
+            "0-Patrick Zamarripa  3",
+            "3-Patrick Zamarripa wa"
+        ],
+        "median tf-idf score": 1.236995797281018,
+        "publications": [
+            "Vox",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "PATRICK \"PATRICIO\" ZAMARRIPA Navy veteran Patrick Zamarripa, 32, who served three tours in Iraq, was killed in the attack, his family told Reuters.",
+            "Patrick Zamarripa, 32, Dallas Police Department officer            Patrick Zamarripa was a   veteran of the Dallas Police Department.",
+            "Patrick Zamarripa was a    husband and father who had survived three military tours in Iraq, according to the Washington Post, which reported that he joined the Dallas Police Department about five years ago."
+        ],
+        "tf-idf score": [
+            0.8021879414542534,
+            1.236995797281018,
+            1.4327982003853554
+        ]
+    },
+    "0.40764588380900585-3-243": {
+        "average clique similarity": 0.40764588380900585,
+        "clique": [
+            "2- We are saddened by ",
+            "1-Patrick Zamarripa  3",
+            "4-He lived in the   Wo"
+        ],
+        "median tf-idf score": 1.3090215247294854,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"We are saddened by the loss of the dedicated officers in Dallas   one of whom was a former member of this agency   and also the wounding of the other officers,\" Wayne County Sheriff Benny Napoleon said in the statement.",
+            "Patrick Zamarripa, 32, In a Facebook post Thursday night, his father, Rick, explained the circumstances of his son's death: Most of you already know this by now today in Dallas  my son is a police officer in Dallas he was working there the rally in downtown where my son was shot and killed by a sniper along with four other police officers maybe more at this moment I'm still at the hospital here in Parkland Hospital to see him be moved to the medical examiner's office\".",
+            "He lived in the   Worth area with his girlfriend, ABC also reported. The Wayne County sheriff's office issued a statement on Friday morning. \"We are saddened by the loss of the dedicated officers in Dallas  --   one of whom was a former member of this agency  --   and also the wounding of the other officers,\" said sheriff Benny Napoleon ."
+        ],
+        "tf-idf score": [
+            1.1126466767768086,
+            1.646629659277815,
+            1.3090215247294854
+        ]
+    },
+    "0.42970516198850767-3-53": {
+        "average clique similarity": 0.42970516198850767,
+        "clique": [
+            "4- He was all in  he w",
+            "1- He was a dedicated ",
+            "0- He was a dedicated "
+        ],
+        "median tf-idf score": 0.7086560787285144,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "\"He was all in, he was all in. \"",
+            "\"He was a dedicated officer,\" Thomas said, \"dedicated to the safety of Americans, all over the world certainly\".",
+            "\"He was a dedicated officer,\" Gary Thomas, DART's president and executive director, told CNN, \"dedicated to the safety of Americans  --   all over the world, certainly\"."
+        ],
+        "tf-idf score": [
+            0.26115430297207765,
+            0.7086560787285144,
+            0.8475881732133341
+        ]
+    },
+    "0.43046895015858533-5-102": {
+        "average clique similarity": 0.43046895015858533,
+        "clique": [
+            "0-Brent Thompson  43  ",
+            "4-Brent Thompson  43  ",
+            "3- Brent Thompson  43 ",
+            "2-BRENT THOMPSON Trans",
+            "1-All five of those ki"
+        ],
+        "median tf-idf score": 1.4028885344053676,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Reuters",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Brent Thompson, 43, Dallas Area Rapid Transit officer            Brent Thompson was a   police veteran for Dallas Area Rapid Transit, the public transportation agency.",
+            "Brent Thompson, 43, was killed in the gunfire and was the first officer of the Dallas area rapid transit (Dart) division to be killed in the line of duty since the department was established in 1989.",
+            "'Brent Thompson, 43' 'Patrick Zamarripa, 32' 'Michael Krol, 40' 'Michael Smith, 55'] Officer Brent Thompson, 43, was the first victim to be officially identified and is the only Dallas Area Rapid Transport (DART) officer killed in the attack.",
+            "BRENT THOMPSON Transit Police Officer Brent Thompson, 43, worked for the Dallas Area Rapid Transit (DART) system since 2009 and was the first officer killed in the line of duty since the transit system formed a police department in 1989, DART said on its website.",
+            "All five of those killed Thursday night at the Dallas protest were law enforcement officers  --   four of whom served with the Dallas Police Department, and a fifth who worked for Dallas Area Rapid Transit, or DART That DART officer has been identified by the department as Brent Thompson."
+        ],
+        "tf-idf score": [
+            1.24940604996247,
+            1.2657308570093073,
+            1.413601770352932,
+            1.628472611957015,
+            1.4028885344053676
+        ]
+    },
+    "0.4782734957398096-3-89": {
+        "average clique similarity": 0.4782734957398096,
+        "clique": [
+            "1- He spent some time ",
+            "4-He spent some time a",
+            "0-He first took a job "
+        ],
+        "median tf-idf score": 0.819048587819829,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "\"He spent some time at the correctional facility. It wasn't quite what he was looking for, so he worked pretty hard to find a job and got one in Dallas\".",
+            "He spent some time at the correctional facility. It wasn't quite what he was looking for, so he worked pretty hard to find a job and got one in Dallas,\" Ehlke said.",
+            "He first took a job at a security at a Michigan hospital. Later on, he worked in the Wayne County jail system. These jobs let him build some experience while biding his time for an opening at a full police force, which he found in Dallas."
+        ],
+        "tf-idf score": [
+            0.7100351182132886,
+            0.8272008945235021,
+            0.819048587819829
+        ]
+    },
+    "0.532393108666797-3-243": {
+        "average clique similarity": 0.532393108666797,
+        "clique": [
+            "3- We are saddened by ",
+            "2-Many of his posts we",
+            "1- We are saddened by "
+        ],
+        "median tf-idf score": 1.177731884618996,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "\"We are saddened by the loss of the dedicated officers in Dallas  --   one of whom was a former member of this agency  --   and also the wounding of the other officers,\" Wayne County Sheriff Benny Napoleon said in a statement to Detroit News.",
+            "Many of his posts were salutes to other officers. He wrote \"Rest in Peace\" in honor of two New York cops killed in 2014 and posted an image of an eagle with a caption: \"Home of the Free because of the Brave\".",
+            "\"We are saddened by the loss of the dedicated officers in Dallas  --   one of whom was a former member of this agency  --   and also the wounding of the other officers,\" Wayne County Sheriff Benny Napoleon said in a statement Friday morning."
+        ],
+        "tf-idf score": [
+            1.177731884618996,
+            0.5765215523676597,
+            1.1870382148186462
+        ]
+    },
+    "0.5350464447737062-3-17": {
+        "average clique similarity": 0.5350464447737062,
+        "clique": [
+            "0-Lorne Ahrens  48  Da",
+            "2-He did not name Krol",
+            "1-Lorne Ahrens  48  Se"
+        ],
+        "median tf-idf score": 1.1974630482693411,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Lorne Ahrens, 48, Dallas Police Department officer              Lorne Ahrens was a   police veteran of the Dallas Police Department.",
+            "He did not name Krol. LORNE AHRENS Senior Corporal Lorne Ahrens, a   veteran with the Dallas police, was one of those killed, the Dallas Morning News reported.",
+            "Lorne Ahrens, 48, Senior Cpl. Lorne Ahrens served with the Dallas Police Department for 14 years  --   and he did so often with a grin, his fellow officer Steve Stribley told The Dallas Morning News."
+        ],
+        "tf-idf score": [
+            1.1974630482693411,
+            1.1001773667708619,
+            1.2383608396483594
+        ]
+    },
+    "0.777250239926348-3-92": {
+        "average clique similarity": 0.777250239926348,
+        "clique": [
+            "4-Our thoughts and pra",
+            "3- Those officers made",
+            "1-Our thoughts and pra"
+        ],
+        "median tf-idf score": 0.7050445996496756,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Our thoughts and prayers go out to their families and also the Dallas police department,\" he added.",
+            "\"Those officers made the ultimate sacrifice and died honoring their oaths to protect and serve. Our thoughts and prayers go out to their families and also the Dallas Police Department. \"",
+            "Our thoughts and prayers go out to their families and also the Dallas Police Department\"."
+        ],
+        "tf-idf score": [
+            0.7050445996496756,
+            1.046638931368198,
+            0.686979394720883
+        ]
+    }
+}

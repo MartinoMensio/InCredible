@@ -1,0 +1,266 @@
+{
+    "0.15462942095901902-3-40": {
+        "average clique similarity": 0.15462942095901902,
+        "clique": [
+            "2-They told the office",
+            "0- His passing has tou",
+            "4-Many of the victims "
+        ],
+        "median tf-idf score": 0.9258269225904444,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "They told the officer where they were coming from: the home of Lou Pearlman, a business executive who had made his name on blimps and airplanes and was now diversifying his interests with the start of a boy band he hoped would woo the world of screaming teen girls (and their parents' wallets).",
+            "\"His passing has touched a lot of people,\" said Mark NeJame, who represented Pearlman in civil lawsuits for many years. \"He literally revolutionized the world of pop music and [he was] a creative genius in that regard    but [he] had a horrible dark side that eventually overshadowed his talents\".",
+            "Many of the victims of the scam were Pearlman's relatives, friends and retired people in their 70s and 80s, Sharp said."
+        ],
+        "tf-idf score": [
+            1.012570785280116,
+            0.9258269225904444,
+            0.45475236742643244
+        ]
+    },
+    "0.17492022853486397-3-25": {
+        "average clique similarity": 0.17492022853486397,
+        "clique": [
+            "2-After the FBI discov",
+            "4-Pearlman was serving",
+            "0-The    producer died"
+        ],
+        "median tf-idf score": 0.6309263456543979,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "After the FBI discovered that Pearlman was cheating his investors, almost all his bands sued him for fraud and misrepresentation.",
+            "Pearlman was serving a   sentence for a $300m (PS229m) fraud.",
+            "The    producer died Friday at a Miami hospital after an illness, according to Leslie Castro, executive assistant at the Federal Correctional Institution in Miami where Pearlman had most recently been serving a   sentence for running Ponzi and bank schemes. He was convicted in 2008 of fraud and swindling investors out of more than $300 million."
+        ],
+        "tf-idf score": [
+            0.6309263456543979,
+            0.5299655516263104,
+            1.0549722332377567
+        ]
+    },
+    "0.17757359544274134-3-50": {
+        "average clique similarity": 0.17757359544274134,
+        "clique": [
+            "3-He faced several law",
+            "0-Related story  Backs",
+            "2-One of the managers "
+        ],
+        "median tf-idf score": 0.8726362341448436,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "He faced several lawsuits after the Ponzi scheme was uncovered, including one filed by the Backstreet Boys, according to Fox News.",
+            "Related story: Backstreet Boys going a little bit country  With Pearlman at the helm, the Backstreet Boys shot to stardom in 1996 and became one of the   boy bands, selling more than 130 million records, according to the band's website.",
+            "One of the managers for the Backstreet Boys said Pearlman's entrance into the music business was an excuse for him to hang around with   teens."
+        ],
+        "tf-idf score": [
+            0.7379577889462039,
+            0.9078789780261252,
+            0.8726362341448436
+        ]
+    },
+    "0.2007760476511472-3-71": {
+        "average clique similarity": 0.2007760476511472,
+        "clique": [
+            "4-Ashley Parker Angel ",
+            "0-In the   he formed t",
+            "2-When they took off w"
+        ],
+        "median tf-idf score": 0.7510925736643624,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Ashley Parker Angel, a member of the boyband   which was formed from the first season of Pearlman's MTV show Making the Band, posted a picture of Pearlman with the group.",
+            "In the   he formed the iconic boy bands responsible for hits like \"I Want It That Way\" and \"Quit Playing Games (with my Heart)\" from the Backstreet Boys and \"Bye Bye Bye,\" from *NSYNC  An official cause of death was not announced.",
+            "When they took off with \"Quit Playing Games (With My Heart),\" Pearlman named himself the \"sixth member\" of the band."
+        ],
+        "tf-idf score": [
+            0.7510925736643624,
+            0.9050829126390134,
+            0.5205781277580682
+        ]
+    },
+    "0.20156535074002024-3-63": {
+        "average clique similarity": 0.20156535074002024,
+        "clique": [
+            "1-The Federal Bureau o",
+            "3- Lou Pearlman  the p",
+            "2-Pearlman died Friday"
+        ],
+        "median tf-idf score": 0.6453859000165231,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Federal Bureau of Prisons said    Pearlman died Friday, without specifying a cause of death.",
+            " Lou Pearlman, the promoter credited with   launching the   craze of the late '90s and early 2000s died Friday in a federal prison.",
+            "Pearlman died Friday, at the age of 62, at a corrections facility in Miami."
+        ],
+        "tf-idf score": [
+            0.6453859000165231,
+            0.7000591544492204,
+            0.3978621151027154
+        ]
+    },
+    "0.21264656334799348-3-65": {
+        "average clique similarity": 0.21264656334799348,
+        "clique": [
+            "0-  CNN  Lou Pearlman ",
+            "4-Figures from the pop",
+            "2-Soon  Pearlman would"
+        ],
+        "median tf-idf score": 0.91668256911833,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            " (CNN) Lou Pearlman, the disgraced   behind 1990s boy bands *NSYNC and the Backstreet Boys, has died in prison, according to the Federal Bureau of Prisons.",
+            "Figures from the pop music world have paid tribute to Lou Pearlman, the founder of Backstreet Boys and *N Sync, who has died in prison aged 62.",
+            "Soon, Pearlman would have the Backstreet Boys, and their rivals 'NSync, on posters on the walls of teenagers' bedrooms around the world."
+        ],
+        "tf-idf score": [
+            1.0957712953083334,
+            0.91668256911833,
+            0.7127991489032343
+        ]
+    },
+    "0.22614790534560167-3-19": {
+        "average clique similarity": 0.22614790534560167,
+        "clique": [
+            "0-Pearlman had a  horr",
+            "1-God bless and RIP  L",
+            "2-     Lance Bass   La"
+        ],
+        "median tf-idf score": 0.7025559479682199,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Pearlman had a 'horrible dark side' Pearlman boosted the careers of entertainers who later achieved solo fame, like Backstreet Boy Nick Carter and former *NSYNC member Justin Timberlake. Timberlake tweeted Sunday he hoped Pearlman had \"found some peace\".",
+            "God bless and RIP, Lou Pearlman,\" wrote Justin Timberlake. \"Mixed emotions right now, but RIP Lou Pearlman,\" *NSYNC's Chris Kirkpatrick tweeted.",
+            "--   Lance Bass (@LanceBass) August 20, 2016     I hope he found some peace. God bless and RIP, Lou Pearlman."
+        ],
+        "tf-idf score": [
+            1.0451153634008663,
+            0.7025559479682199,
+            0.5373709205339621
+        ]
+    },
+    "0.2277307497822879-3-10": {
+        "average clique similarity": 0.2277307497822879,
+        "clique": [
+            "2-He put an ad in the ",
+            "4-He created the Backs",
+            "1-As NPR s Rebecca Her"
+        ],
+        "median tf-idf score": 0.6243141146452535,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "He put an ad in the Orlando Sentinel seeking young male singers. His search for talent lead him to Littrell, Dorough, Nick Carter, Kevin Richardson and A J McLean.",
+            "He created the Backstreet Boys in Florida in 1993, uniting five unknown singers  --   Nick Carter, AJ McLean, Howie D, Kevin Richardson and Brian Littrell  --  who went on the become the bestselling boyband in history with more than 130m records.",
+            "As NPR's Rebecca Hersher told our Newscast unit, \"Pearlman created the Backstreet Boys in 1993, after funding a talent search for young musicians in the Orlando area."
+        ],
+        "tf-idf score": [
+            0.3634992340157189,
+            0.6243141146452535,
+            0.7792434808289497
+        ]
+    },
+    "0.23224596506415085-3-87": {
+        "average clique similarity": 0.23224596506415085,
+        "clique": [
+            "1-Lou Pearlman  the im",
+            "3-Pearlman launched a ",
+            "2-Though he wasn t inv"
+        ],
+        "median tf-idf score": 1.163392515623175,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Lou Pearlman, the impresario behind boy band giants such as the Backstreet Boys and *NSYNC, has died in prison while serving a   sentence tied to a $300 million Ponzi scheme.",
+            "Pearlman launched a   empire with internationally famous groups including Backstreet Boys and NSYNC But Pearlman's meteoric rise ended in 2006 when he was accused of running a $300 million Ponzi scheme, the Orlando Sentinel reported.",
+            "Though he wasn't investigated until 2006, Pearlman began his $300 million Ponzi scheme in the early 1990s."
+        ],
+        "tf-idf score": [
+            1.163392515623175,
+            1.2611063987358306,
+            0.46794697088309395
+        ]
+    },
+    "0.37380876768270976-3-111": {
+        "average clique similarity": 0.37380876768270976,
+        "clique": [
+            "4-Timberlake tweeted o",
+            "2-Without Lou I wouldn",
+            "3-Word is that  LouPea"
+        ],
+        "median tf-idf score": 0.4295404442779385,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Timberlake tweeted on Sunday: The *N Sync singer Lance Bass tweeted: \"Word is that #LouPearlman has passed away. He might not have been a stand up businessman, but I wouldn't be doing what I love today without his influence. RIP Lou. \" The US singer Aaron Carter also paid his respects on Twitter.",
+            "Without Lou I wouldn't have met my four brothers or had the opportunity of a lifetime. RIP  --   AJ McLean (@skulleeroz) August 21, 2016     Word is that #LouPearlman has passed away. He might not have been a stand up businessman  but I (cont) https:  .",
+            "Word is that #LouPearlman has passed away. He might not have been a stand up businessman  but I (cont) https:  ."
+        ],
+        "tf-idf score": [
+            0.7332130174324728,
+            0.4295404442779385,
+            0.24305996624604798
+        ]
+    },
+    "0.5026922936296011-3-58": {
+        "average clique similarity": 0.5026922936296011,
+        "clique": [
+            "1-Lance Bass of  NSYNC",
+            "3-Former NSYNC member ",
+            "0-Former  NSYNC band m"
+        ],
+        "median tf-idf score": 0.7882056763603759,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "Lance Bass of *NSYNC wrote, \"He might not have been a stand up businessman, but I wouldn't be doing what I love today [without] his influence\". Pearlman \"clung tenaciously to the notion that he can conquer the charts once more\" during his time in prison, as The Hollywood Reporter wrote in 2014.",
+            "Former NSYNC member Lance Bass tweeted Saturday about Pearlman's death, nothing that the    might not have been \"a stand up businessman,\" but that Bass \"wouldn't be doing what I love today [without] his influence. \"",
+            "Former *NSYNC band members Lance Bass and Chris Kirkpatrick also posted their reactions on Twitter. \"He might not have been a stand up businessman,\" Bass tweeted, \"but I wouldn't be doing what I love today [without] his influence. RIP Lou\" Kirkpatrick posted that he had \"mixed emotions\" about the news."
+        ],
+        "tf-idf score": [
+            0.7964190778892108,
+            0.7580172006087377,
+            0.7882056763603759
+        ]
+    }
+}

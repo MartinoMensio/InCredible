@@ -1,0 +1,306 @@
+{
+    "0.2233238234488363-3-73": {
+        "average clique similarity": 0.2233238234488363,
+        "clique": [
+            "2-Paladino was respond",
+            "3-Carl Paladino  a    ",
+            "1-Carl Paladino  an al"
+        ],
+        "median tf-idf score": 0.8881987052419091,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Paladino was responding to a survey by an alternative weekly magazine, Artvoice.",
+            "Carl Paladino, a    entrepreneur who ran for New York governor in 2010, made the inflammatory comments to Artvoice, an alternative paper in Buffalo.",
+            "Carl Paladino, an ally of Trump who recently visited Trump Tower, told a weekly paper in Buffalo that Michelle Obama was the person whom he would \"most like to see go in 2017\"."
+        ],
+        "tf-idf score": [
+            0.4399323590926416,
+            0.8881987052419091,
+            1.092665618430031
+        ]
+    },
+    "0.24821104665364815-3-80": {
+        "average clique similarity": 0.24821104665364815,
+        "clique": [
+            "1-Long a provocative f",
+            "3-The   of Donald Trum",
+            "0-Paladino previously "
+        ],
+        "median tf-idf score": 0.9143312200646606,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Long a provocative figure in New York politics, Paladino was a   of Trump's statewide campaign and spoke before him at some rallies in the state. New York Gov.",
+            "The   of Donald Trump's New York state presidential campaign has denied that comments he made about Michelle Obama \"being a male\" who should be \"let loose in the outback of Zimbabwe\" to live \"in a cave with Maxie, the gorilla\" were racist.",
+            "Paladino previously helped with Trump's New York campaign."
+        ],
+        "tf-idf score": [
+            0.9143312200646606,
+            1.3497802653224862,
+            0.685484732413313
+        ]
+    },
+    "0.2497121586783085-3-9": {
+        "average clique similarity": 0.2497121586783085,
+        "clique": [
+            "1-The Trump transition",
+            "4-He confirmed he did ",
+            "2-A Trump spokeswoman "
+        ],
+        "median tf-idf score": 0.9292603935440451,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The Trump transition did not immediately respond to a request for comment. Paladino said in part in a statement, \"It has nothing to do with race. That's the typical stance of the press when they can't otherwise defend the acts of the person being attacked\".",
+            "He confirmed he did before attacking the newspaper's   editors for asking. \" '   \"Of course I did,\"  told the publication   Friday. \"Tell them to all go     themselves\". ' '   \"Tell that Rod Watson I made that comment just for him,\" he   continued. Watson, an editor and columnist at the publication, is   black. ' '   Paladino met with Trump earlier this month at Trump Tower, but   did not divulge what he discussed with the  . '",
+            "A Trump spokeswoman condemned Paladino's comments but did not comment on the future of his work for the transition."
+        ],
+        "tf-idf score": [
+            1.1624751583255453,
+            0.9292603935440451,
+            0.623983351758559
+        ]
+    },
+    "0.29445367809564293-3-47": {
+        "average clique similarity": 0.29445367809564293,
+        "clique": [
+            "0-This isn t the first",
+            "3-In response  Governo",
+            "2- Carl Paladino  a Re"
+        ],
+        "median tf-idf score": 0.8301745012918634,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "This isn't the first time Paladino made controversial remarks about the Obamas.",
+            "In response, Governor Andrew Cuomo condemned what he said were Paladino's \"racist, ugly, reprehensible remarks about the president and first lady\".",
+            "\"Carl Paladino, a Republican Party official from Western New York, made racist, ugly and reprehensible remarks about President Obama and the First Lady Michelle Obama,\" Cuomo said."
+        ],
+        "tf-idf score": [
+            0.35779791835747893,
+            0.8301745012918634,
+            1.233396827720465
+        ]
+    },
+    "0.3838041494774241-3-35": {
+        "average clique similarity": 0.3838041494774241,
+        "clique": [
+            "1-Andrew Cuomo  who cr",
+            "4-Andrew Cuomo release",
+            "2-Andrew Cuomo  a Demo"
+        ],
+        "median tf-idf score": 0.6769337951343519,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Andrew Cuomo, who crushed Paladino in the governor's race in 2010, called the comments \"racist, ugly and reprehensible\".",
+            "Andrew Cuomo released a statement calling the   remarks \"racist, ugly, and reprehensible,\" adding his former   opponent \"has a long history of racist and incendiary comments\". '",
+            "Andrew Cuomo, a Democrat,  slammed Paladino for a \"long history of racist and incendiary comments\"."
+        ],
+        "tf-idf score": [
+            0.7284746081594774,
+            0.6769337951343519,
+            0.6256413540950833
+        ]
+    },
+    "0.3995567497736851-4-6": {
+        "average clique similarity": 0.3995567497736851,
+        "clique": [
+            "3-Artvoice included Pa",
+            "1-Of Barack Obama  Pal",
+            "4-    The Buffalo deve",
+            "0-What would you most "
+        ],
+        "median tf-idf score": 0.9633078708521298,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Business Insider",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Artvoice included Paladino among a number of people asked what they wanted to see happen in 2017. \"[Barack] Obama catches mad cow disease after being caught having relations with a Her[e]ford,\" he said.",
+            "Of Barack Obama, Paladino said in response to the question of what he would most like to see happen next year, \"Obama catches mad cow disease after being caught having relations with a Herford.",
+            "'   The Buffalo developer and member of ths local school board    when asked   what he wished to see happen in 2017. ' '   \"Obama catches mad cow disease after being caught having   relations with a Herford,\" he said.",
+            "What would you most like to happen in 2017?"
+        ],
+        "tf-idf score": [
+            1.0897229710934653,
+            1.1036649218333738,
+            0.8368927706107943,
+            0.11805840932284867
+        ]
+    },
+    "0.46697651951016567-3-57": {
+        "average clique similarity": 0.46697651951016567,
+        "clique": [
+            "2-     Carl Paladino  ",
+            "0-  Donald Trump s tra",
+            "4-         Carl Paladi"
+        ],
+        "median tf-idf score": 1.6299405794334207,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Business Insider"
+        ],
+        "sentences": [
+            "     Carl Paladino, a former Republican nominee for governor of New York and an adviser to   Trump, included the death of President Obama and \"return\" of first lady Michelle Obama to Africa on his list of things he wanted for 2017.",
+            "  Donald Trump's transition team responded to Carl Paladino's racist remarks that he allegedly made about President Obama and First Lady Michelle Obama to ArtVoice, a New York publication, saying that in 2017 he would like President Obama to die, and Michelle Obama to \"return to being a male and let loose in the outback of Zimbabwe where she lives comfortably in a cave with Maxie, the gorilla.",
+            "'  ' '   Carl Paladino, the former   of   Donald   Trump''s New York campaign and the Republican nominee for governor   of New York in 2010, told a Buffalo arts publication that his   wishes for 2017 included President Barack Obama dying of mad cow   disease and his wife, first lady Michelle Obama, \"return to being   a male\". '"
+        ],
+        "tf-idf score": [
+            1.1888667543353755,
+            1.8829976671586146,
+            1.6299405794334207
+        ]
+    },
+    "0.5891362380049483-3-80": {
+        "average clique similarity": 0.5891362380049483,
+        "clique": [
+            "4-  then moved on to h",
+            "1- I d like her to ret",
+            "2-I d like her to retu"
+        ],
+        "median tf-idf score": 0.8725234920953658,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "' then moved on to his racially charged   comment about Michelle. ' '   \"I''d like her to return to being a male and let loose in the   outback of Zimbabwe where she lives comfortably in a cave with   Maxie, the gorilla\". ' '' \"   The Buffalo News  to verify the   comments.",
+            "\"I'd like her to return to being a male and let loose in the outback of Zimbabwe where she lives comfortably in a cave with Maxie, the gorilla,\" Paladino said.",
+            "I'd like her to return to being a male and let loose in the outback of Zimbabwe where she lives comfortably in a cave with Maxie, the gorilla."
+        ],
+        "tf-idf score": [
+            0.8725234920953658,
+            0.9260940168140076,
+            0.5263610256924841
+        ]
+    },
+    "0.6022707155083236-4-18": {
+        "average clique similarity": 0.6022707155083236,
+        "clique": [
+            "1- His remarks do not ",
+            "3-In his condemnation ",
+            "4- His remarks do not ",
+            "2- His remarks do not "
+        ],
+        "median tf-idf score": 0.8957761357558996,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"His remarks do not reflect the sentiments or opinions of any real New Yorker and he has embarrassed the good people of the state with his latest   rage\". The Erie County Executive, Mark Poloncarz, called on Paladino to resign his seat on the Buffalo school board.",
+            "In his condemnation of Paladino's remarks, Governor Cuomo said his latest outburst did not reflect \"the sentiments or opinions of any real New Yorker\".",
+            "\"His remarks do not reflect the sentiments or opinions of   any real New Yorker and he has embarrassed the good people of the   state with his latest   rage\". '",
+            "\"His remarks do not reflect the sentiments or opinions of any real New Yorker and he has embarrassed the good people of the state with his latest   rage,\" he added. The gold elevators in Trump Tower have been the center of attention since Donald Trump won the presidential election Nov. 8."
+        ],
+        "tf-idf score": [
+            1.1569210030150048,
+            0.8675614588739002,
+            0.6109976835374756,
+            0.9239908126378991
+        ]
+    },
+    "0.6038460082393361-3-80": {
+        "average clique similarity": 0.6038460082393361,
+        "clique": [
+            "3- That s the typical ",
+            "4-     That s the typi",
+            "2- It has nothing to d"
+        ],
+        "median tf-idf score": 0.7438610641139014,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"That's the typical stance of the press when they can't otherwise defend the acts of the person being attacked,\" he wrote, accusing the first lady of having hated America before her husband won office in 2008. He also accused Barack Obama of being \"a   coward who left thousands to die in Syria\".",
+            "'   \"That's the typical stance of the press when they can't otherwise   defend the acts of the person being attacked,\" he said, later   adding that Michelle \"hated America before her husband won\" and   calling Barack \"a   coward who left thousands to die   in Syria\". '",
+            "\"It has nothing to do with race,\" Paladino said. \"That's the typical stance of the press when they can't otherwise defend the acts of the person being attacked. \""
+        ],
+        "tf-idf score": [
+            0.7424249016522774,
+            0.7686571332524404,
+            0.7438610641139014
+        ]
+    },
+    "0.7825291778343467-4-22": {
+        "average clique similarity": 0.7825291778343467,
+        "clique": [
+            "3-Cuomo said Paladino ",
+            "2- While most New York",
+            "1- While most New York",
+            "4-     While most New "
+        ],
+        "median tf-idf score": 1.0405071195913815,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Cuomo said Paladino had a \"long history of racist and incendiary comments\" and most New Yorkers knew not to take him seriously, as \"his erratic behavior defies any rational analysis and he has no credibility\".",
+            "\"While most New Yorkers know Mr Paladino is not to be taken seriously, as his erratic behavior defies any rational analysis and he has no credibility, his words are still jarring.",
+            "\"While most New Yorkers know Mr Paladino is not to be taken seriously, as his erratic behavior defies any rational analysis and he has no credibility, his words are still jarring,\" Cuomo said in a statement.",
+            "'   \"While most New Yorkers know Mr Paladino is not to be taken   seriously, as his erratic behavior defies any rational analysis   and he has no credibility, his words are still jarring,\" Cuomo   said."
+        ],
+        "tf-idf score": [
+            1.148190263619088,
+            0.818682109421013,
+            1.0655829459617359,
+            1.0154312932210272
+        ]
+    },
+    "0.94289100627566-4-27": {
+        "average clique similarity": 0.94289100627566,
+        "clique": [
+            "0-He dies before his t",
+            "3- He dies before his ",
+            "4- He dies before his ",
+            "1-He dies before his t"
+        ],
+        "median tf-idf score": 0.6170890714526052,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Business Insider",
+            "Breitbart"
+        ],
+        "sentences": [
+            "He dies before his trial and is buried in a cow pasture next to Valerie Jarret, who died weeks prior, after being convicted of sedition and treason, when a Jihady cell mate mistook her for being a nice person and decapitated her.",
+            "\"He dies before his trial and is buried in a cow pasture next to [senior Obama adviser] Valerie Jarret[t] who died weeks prior, after being convicted of sedition and treason, when a Jihady [sic] cell mate mistook her for being a nice person and decapitated her. \"",
+            "\"He dies before his trial and   is buried in a cow pasture next to Valerie Jarrett, who died   weeks prior, after being convicted of sedition and treason, when   a Jihady cell mate mistook her for being a nice person and   decapitated her\". '",
+            "He dies before his trial and is buried in a cow pasture next to Valerie Jarret, who died weeks prior, after being convicted of sedition and treason, when a Jihady cell mate mistook her for being a nice person and decapitated her\"."
+        ],
+        "tf-idf score": [
+            0.6170890714526052,
+            0.8263584220457262,
+            0.6033347779284731,
+            0.6170890714526052
+        ]
+    }
+}

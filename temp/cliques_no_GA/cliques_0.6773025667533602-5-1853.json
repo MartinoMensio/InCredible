@@ -1,0 +1,638 @@
+{
+    "0.1676003813372714-3-40": {
+        "average clique similarity": 0.1676003813372714,
+        "clique": [
+            "0-But a law enforcemen",
+            "4-Clinton recently tol",
+            "1-The Federal Bureau o"
+        ],
+        "median tf-idf score": 0.5246690569175261,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "But a law enforcement source close to the DOJ investigation pushed back on those remarks, telling Fox News the investigation is still very much ongoing  \u2014   and a decision has not been made on the matter one way or the other.",
+            "Clinton recently told reporters that she has not been interviewed by federal agents, but that is something that typically occurs near the end of an investigation.",
+            "The Federal Bureau of Investigation has taken Clinton\u2019s server and other computer equipment, but has declined to share details of its inquiries."
+        ],
+        "tf-idf score": [
+            0.3854590057752345,
+            0.5246690569175261,
+            0.5494992319708158
+        ]
+    },
+    "0.18767287618256182-3-167": {
+        "average clique similarity": 0.18767287618256182,
+        "clique": [
+            "2-Clinton has encourag",
+            "4- State has moved dil",
+            "0-But the latest devel"
+        ],
+        "median tf-idf score": 1.1260454911470668,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Clinton has encouraged the State Department to release her emails as quickly as possible and, when delays have occurred, her campaign has been quick to point out that they do not control the schedule, which was set by the court and government bureaucrats.",
+            "\u201dState has moved diligently to process the documents and send them to the appropriate agencies for review, a process that was interrupted by the blizzard that struck Washington, D C,\u201d the court filing said.",
+            "But the latest developments fueled Republican allegations  \u2014   just three days before the Iowa caucuses  \u2014   that Clinton was \u201cirresponsible\u201d in her email use, and that the department she used to lead is still trying to protect her by dragging out the process until after the start of primary contests."
+        ],
+        "tf-idf score": [
+            1.3467913189162906,
+            0.8294179502578298,
+            1.1260454911470668
+        ]
+    },
+    "0.19530424839398228-3-252": {
+        "average clique similarity": 0.19530424839398228,
+        "clique": [
+            "0-    Hillary Clinton ",
+            "3-UPDATED  Jan  29  20",
+            "4-This post was update"
+        ],
+        "median tf-idf score": 1.4452144552497999,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "    Hillary Clinton\u2019s email headaches grew Friday as the State Department confirmed several emails under review contain information too \u201ctop secret\u201d to release in any form  \u2014   while at the same time delaying the release of thousands of other pages.",
+            "UPDATED: Jan. 29, 2016, 2:59 PM ET, WASHINGTON (AP)  \u2014   The Obama administration confirmed for the first time Friday that Hillary Clinton\u2019s unsecured home server contained some of the U S government\u2019s most closely guarded secrets, censoring 22 emails with material demanding one of the highest levels of classification.",
+            "This post was updated at 4:45 p. m. ET  Controversy grew on Friday over emails from Hillary Clinton\u2019s private server she used while at the State Department, with the agency announcing several documents would be withheld because they had been deemed top secret."
+        ],
+        "tf-idf score": [
+            1.5048757979541598,
+            1.2339943051043005,
+            1.4452144552497999
+        ]
+    },
+    "0.20082922555305438-3-323": {
+        "average clique similarity": 0.20082922555305438,
+        "clique": [
+            "2-None will be release",
+            "3-Friday s will be the",
+            "0-  He said   These em"
+        ],
+        "median tf-idf score": 0.16489830697911423,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "None will be released publicly.",
+            "Friday\u2019s will be the first at the top secret level.",
+            "\u201d He said: \u201cThese emails will be denied in full, meaning they will not be produced online on our FOIA website."
+        ],
+        "tf-idf score": [
+            0.06812998619339003,
+            0.16489830697911423,
+            0.4680022718083479
+        ]
+    },
+    "0.2080835584980862-3-310": {
+        "average clique similarity": 0.2080835584980862,
+        "clique": [
+            "2-And  in at least one",
+            "4-Clinton told NPR s A",
+            "3-One of the emails  h"
+        ],
+        "median tf-idf score": 0.7083342011809257,
+        "publications": [
+            "NPR",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "And, in at least one case, the emails appear to involve information from a published news article,\u201d he said.",
+            "Clinton told NPR\u2019s Ari Shapiro last week that was the case in at least one instance, following an initial report that some of the emails had been marked top secret.",
+            "One of the emails, he said, was among those McCullough identified last summer as possibly containing top secret information."
+        ],
+        "tf-idf score": [
+            0.5916521698337084,
+            0.8427946170679376,
+            0.7083342011809257
+        ]
+    },
+    "0.2121144000057973-3-178": {
+        "average clique similarity": 0.2121144000057973,
+        "clique": [
+            "3-Clinton  the   for t",
+            "0- We now know Hillary",
+            "1-He added that the de"
+        ],
+        "median tf-idf score": 1.1781967001112879,
+        "publications": [
+            "Fox News",
+            "Talking Points Memo",
+            "Reuters"
+        ],
+        "sentences": [
+            "Clinton, the   for the Democratic presidential nomination, has insisted she never sent or received information on her personal email account that was classified at the time.",
+            "\u201cWe now know Hillary Clinton\u2019s use of a personal email account during her tenure at the State Department wasn\u2019t just negligent, it was completely dangerous,\u201d Sen. Tom Cotton,  .",
+            "He added that the department was now investigating whether the information in them was classified at the time it passed through her private clintonemail."
+        ],
+        "tf-idf score": [
+            1.203577591828658,
+            1.1781967001112879,
+            0.6326688408987862
+        ]
+    },
+    "0.21876160173390577-3-108": {
+        "average clique similarity": 0.21876160173390577,
+        "clique": [
+            "1-U S Representative A",
+            "0-said in a statement ",
+            "2-This flies in the fa"
+        ],
+        "median tf-idf score": 0.7746653109335498,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "U S Representative Adam Schiff of California, the House Intelligence Committee\u2019s leading Democrat, defended Clinton in a statement, saying classification determinations are \u201doften very complex\u201d and she was \u201dresponding to world events in real time without the benefit of months of analysis after the fact\u201d.",
+            "said in a statement.",
+            "This flies in the face of the fact that these emails were unmarked at the time they were sent, and have been called \u2019innocuous\u2019 by certain intelligence officials,\u201d he said in a statement."
+        ],
+        "tf-idf score": [
+            0.7746653109335498,
+            0.16135280441303423,
+            0.7762432816738523
+        ]
+    },
+    "0.23281546528542948-3-225": {
+        "average clique similarity": 0.23281546528542948,
+        "clique": [
+            "4-That s because Hilla",
+            "2-He indicated that th",
+            "1- The U S State Depar"
+        ],
+        "median tf-idf score": 1.163763203808645,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "That\u2019s because Hillary Clinton stored classified information on her private server\u201d.",
+            "He indicated that the emails in question were exchanged between State Department officials using their official accounts before they were shared with Clinton on her private server.",
+            " The U S State Department conceded for the first time on Friday that intelligence officials were correct to say that at least 22 emails sent through Hillary Clinton\u2019s private server contain some of the government\u2019s most sensitive secrets."
+        ],
+        "tf-idf score": [
+            0.5916450608522805,
+            1.163763203808645,
+            1.5638267973177256
+        ]
+    },
+    "0.2596260502420314-3-187": {
+        "average clique similarity": 0.2596260502420314,
+        "clique": [
+            "0-  But he said the St",
+            "2-Kirby said the State",
+            "3-Kirby said the State"
+        ],
+        "median tf-idf score": 1.1284604212989342,
+        "publications": [
+            "Washington Post",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d But he said the State Department will look at \u201cwhether they were classified at the time they were sent.",
+            "Kirby said the State Department has not yet made a determination of whether the information was classified at the time it was sent or has become more sensitive due to subsequent events.",
+            "Kirby said the State Department\u2019s focus as part of the Freedom of Information Act review of Clinton\u2019s emails was on \u201dwhether they need to be classified today\u201d."
+        ],
+        "tf-idf score": [
+            0.7493457744794254,
+            1.1284604212989342,
+            1.4096757896381658
+        ]
+    },
+    "0.2620514958915801-3-93": {
+        "average clique similarity": 0.2620514958915801,
+        "clique": [
+            "0-In a court filing Th",
+            "2-While a judge had or",
+            "1-The department had b"
+        ],
+        "median tf-idf score": 0.8113569100042386,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "In a court filing Thursday night, the State Department said it would not make the Jan. 29 release deadline    and about 7, 000 pages still needed to be sent out for \u201cinteragency consultation.",
+            "While a judge had ordered the department to release all of the emails by the end of January, lawyers for the department said this week that they would miss the deadline and requested another month.",
+            "The department had been ordered to release all the emails by Friday, but last week asked the court for a   extension."
+        ],
+        "tf-idf score": [
+            0.8948618844952277,
+            0.8113569100042386,
+            0.6840112636190214
+        ]
+    },
+    "0.2707193985040288-4-121": {
+        "average clique similarity": 0.2707193985040288,
+        "clique": [
+            "0-The agency has produ",
+            "4-The State Department",
+            "2-In December 2014  Cl",
+            "1-Following a   schedu"
+        ],
+        "median tf-idf score": 1.2500490941988722,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The agency has produced some 43, 000 pages of emails in last several months.",
+            "The State Department has already made public 43, 000 pages of Hillary Clinton\u2019s emails, and 1, 000 more pages are supposed to come out Friday evening.",
+            "In December 2014, Clinton submitted 30, 000 emails to the State Department from her private account  \u2014   adding up to 55, 000 pages of correspondence the department has been slowly making public.",
+            "Following a   schedule, the State Department has already released most of the roughly 30, 000 work emails Clinton returned to the department."
+        ],
+        "tf-idf score": [
+            0.5907177514660524,
+            1.3154338583092502,
+            1.3390645345830454,
+            1.1846643300884943
+        ]
+    },
+    "0.27435234959082483-3-60": {
+        "average clique similarity": 0.27435234959082483,
+        "clique": [
+            "2-The inspector genera",
+            "3-The question of spec",
+            "0-A Jan  14 letter fro"
+        ],
+        "median tf-idf score": 0.7574129313114465,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The inspector general of the intelligence community has indicated that he believes some of the emails contain \u201dtop secret\u201d material, the highest level of classification.",
+            "The question of special access programs first surfaced last week, when Charles I McCullough, the inspector general for U S intelligence agencies, cited examples on Clinton\u2019s account in a letter to Congress.",
+            "A Jan. 14 letter from Intelligence Community Inspector General I Charles McCullough III to senior lawmakers said a review identified \u201cseveral dozen\u201d additional classified emails    including specific intelligence from \u201cspecial access programs (SAP),\u201d which indicates a level higher than \u201ctop secret."
+        ],
+        "tf-idf score": [
+            0.7574129313114465,
+            0.6379173706206752,
+            1.0114943339066498
+        ]
+    },
+    "0.2813076595405286-3-206": {
+        "average clique similarity": 0.2813076595405286,
+        "clique": [
+            "2-The finding is likel",
+            "1-Congressional Republ",
+            "4-And Clinton also fig"
+        ],
+        "median tf-idf score": 0.92859040058487,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The finding is likely to deepen the political consequences for Clinton of her decision to use a private email account, routed through a server installed in her suburban New York home, and it comes just three days before the Iowa caucuses, as Clinton remains locked in a heated battle with Sen. Bernie Sanders ( .)",
+            "Congressional Republicans have criticized and investigated Clinton for her use of a private email server for her work as a secretary of state from 2009 to 2013.",
+            "And Clinton also fighting multiple investigations into her decision to use a private email server as secretary of state."
+        ],
+        "tf-idf score": [
+            1.0451592983769469,
+            0.92859040058487,
+            0.9130689439192222
+        ]
+    },
+    "0.2821627043068187-3-141": {
+        "average clique similarity": 0.2821627043068187,
+        "clique": [
+            "2-That would mean the ",
+            "3-The Iowa caucus is o",
+            "0-  The Iowa caucuses "
+        ],
+        "median tf-idf score": 0.5989624154149179,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "That would mean the last of the emails would not be released until the end of February    after the Iowa caucuses and the New Hampshire primary, officials there told a federal judge this week.",
+            "The Iowa caucus is on Feb. 1, and her main challenger, Vermont Sen. Bernie Sanders, is running neck and neck with her in the polls there and leads solidly in New Hampshire.",
+            "\u201d The Iowa caucuses are Monday, followed by the New Hampshire primary a week after that, and Clinton is locked in a tight race for the Democratic presidential nomination with Vermont Sen. Bernie Sanders."
+        ],
+        "tf-idf score": [
+            0.6377905837518875,
+            0.2589769064459862,
+            0.5989624154149179
+        ]
+    },
+    "0.2840455475510158-4-318": {
+        "average clique similarity": 0.2840455475510158,
+        "clique": [
+            "3-The FBI also is look",
+            "0-  An FBI investigati",
+            "2-An FBI probe of the ",
+            "4-The FBI investigatio"
+        ],
+        "median tf-idf score": 0.7876733812669148,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "The FBI also is looking into Clinton\u2019s email setup, but has said nothing about the nature of its probe.",
+            "\u201d An FBI investigation remains underway into Clinton\u2019s email practices.",
+            "An FBI probe of the security of Clinton\u2019s email setup continues, with Republicans increasingly insisting that the Justice Department take legal action against Clinton for mishandling classified information.",
+            "The FBI investigation into Clinton\u2019s email has been underway for months now."
+        ],
+        "tf-idf score": [
+            0.8350741074484224,
+            0.6162591527697392,
+            1.0942220153397202,
+            0.7402726550854073
+        ]
+    },
+    "0.2963162888533757-3-273": {
+        "average clique similarity": 0.2963162888533757,
+        "clique": [
+            "2-       The State Dep",
+            "4-The documents are be",
+            "1-The seven email chai"
+        ],
+        "median tf-idf score": 1.590389186176405,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "       The State Department has concluded there is \u201dtop secret\u201d material in Hillary Clinton\u2019s email correspondence from the time she was secretary of state, indicating that some of her emails will never be released, even in heavily redacted form, because they are too sensitive for the public to view.",
+            "The documents are being upgraded at the request of the intelligence community because they contain a category of top secret information,\u201d State Department spokesman John Kirby said.",
+            "The seven email chains from Clinton\u2019s time as secretary of state, amounting to 22 separate messages, will be withheld from the public as a result because the information in them is classified at the highest level as \u201dtop secret,\u201d State Department spokesman John Kirby said."
+        ],
+        "tf-idf score": [
+            1.590389186176405,
+            0.9404522440846191,
+            1.7553450208051582
+        ]
+    },
+    "0.30078097176901086-3-119": {
+        "average clique similarity": 0.30078097176901086,
+        "clique": [
+            "2-Clinton campaign spo",
+            "0-Clinton campaign spo",
+            "4-This flies in the fa"
+        ],
+        "median tf-idf score": 1.0606614871993363,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Clinton campaign spokesman Brian Fallon called the decision \u201d  run amok\u201d and called for the emails to be released publicly despite the State Department\u2019s finding.",
+            "Clinton campaign spokesman Brian Fallon pushed back, though, criticizing the intelligence community for flagging those emails.",
+            "This flies in the face of the fact that these emails were unmarked at the time they were sent, and have been called \u2019innocuous\u2019 by certain intelligence officials,\u201d Clinton spokesman Brian Fallon said."
+        ],
+        "tf-idf score": [
+            1.144860383975737,
+            0.7078575444403445,
+            1.0606614871993363
+        ]
+    },
+    "0.30144691048728306-3-338": {
+        "average clique similarity": 0.30144691048728306,
+        "clique": [
+            "0- This appears to be ",
+            "4-Clinton s campaign r",
+            "1-The Clinton campaign"
+        ],
+        "median tf-idf score": 0.7888868197367336,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201dThis appears to be   run amok.",
+            "Clinton\u2019s campaign responded that the new roadblock \u201dappears to be overclassification run amok\u201d and that it will \u201dpursue all appropriate avenues to see that her emails are released in a manner consistent with her call last year\u201d.",
+            "The Clinton campaign criticized the State Department\u2019s decision as the result of \u201dbureaucratic infighting\u201d and \u201d  run amok,\u201d adding that the emails should be released."
+        ],
+        "tf-idf score": [
+            0.04794460205734542,
+            0.7888868197367336,
+            1.106970370110581
+        ]
+    },
+    "0.30348580308478373-3-29": {
+        "average clique similarity": 0.30348580308478373,
+        "clique": [
+            "0-But after the State ",
+            "3-But The Associated P",
+            "1-But this is the firs"
+        ],
+        "median tf-idf score": 0.7294399023607671,
+        "publications": [
+            "Talking Points Memo",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "But after the State Department confirmed some emails are so secret they\u2019re being withheld in full, Republicans seized on the announcement.",
+            "But The Associated Press has learned seven email chains are being withheld in full because they contain information deemed to be \u201dtop secret\u201d.",
+            "But this is the first time that entire chains are being withheld."
+        ],
+        "tf-idf score": [
+            0.8329211276322699,
+            0.7294399023607671,
+            0.14839561359643488
+        ]
+    },
+    "0.30542595822938845-3-338": {
+        "average clique similarity": 0.30542595822938845,
+        "clique": [
+            "1-The announcement cam",
+            "3-The revelation comes",
+            "4-The new revelations "
+        ],
+        "median tf-idf score": 0.5443252198059798,
+        "publications": [
+            "Reuters",
+            "Talking Points Memo",
+            "NPR"
+        ],
+        "sentences": [
+            "The announcement came three days before the Iowa caucuses, when the first votes are cast for the presidential nominations and where Clinton is locked in a tight race with Vermont Senator Bernie Sanders to become the Democratic nominee for the November election.",
+            "The revelation comes just three days before the Iowa presidential nominating caucuses in which Clinton is a candidate.",
+            "The new revelations come at a particularly politically damaging time  \u2014   just days before the Iowa caucuses on Monday, where the former secretary of state is neck and neck with Vermont Sen. Bernie Sanders."
+        ],
+        "tf-idf score": [
+            0.5662973691577389,
+            0.4086225815214625,
+            0.5443252198059798
+        ]
+    },
+    "0.32657572300227095-3-338": {
+        "average clique similarity": 0.32657572300227095,
+        "clique": [
+            "0-She has claimed that",
+            "4- As the State Depart",
+            "1-Clinton initially sa"
+        ],
+        "median tf-idf score": 0.9445353094298179,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "She has claimed that the emails found on her private server and email were \u201cinnocuous\u201d and never classified at the time.",
+            "\u201dAs the State Department has confirmed, I never sent or received any material marked classified, and that hasn\u2019t changed in all of these months,\u201d Clinton maintained.",
+            "Clinton initially said she never sent or received classified information through her email."
+        ],
+        "tf-idf score": [
+            0.6990010387307956,
+            1.0733256699294287,
+            0.9445353094298179
+        ]
+    },
+    "0.34246289008436004-3-31": {
+        "average clique similarity": 0.34246289008436004,
+        "clique": [
+            "2-Clinton has said non",
+            "4-Clinton has said she",
+            "1-In recent weeks she "
+        ],
+        "median tf-idf score": 0.742496105129163,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Clinton has said none of her emails were marked classified when they were sent.",
+            "Clinton has said she never sent or received any messages marked classified.",
+            "In recent weeks she has more often said none of her emails were marked that way."
+        ],
+        "tf-idf score": [
+            0.9732123731959181,
+            0.742496105129163,
+            0.6118567571594251
+        ]
+    },
+    "0.3461411081671529-3-338": {
+        "average clique similarity": 0.3461411081671529,
+        "clique": [
+            "3- The documents are b",
+            "2-State Department spo",
+            "0-Meanwhile  State Dep"
+        ],
+        "median tf-idf score": 0.9062702663745011,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dThe documents are being upgraded at the request of the intelligence community because they contain a category of top secret information,\u201d State Department spokesman John Kirby told the AP, describing the decision to withhold documents in full as \u201dnot unusual\u201d.",
+            "State Department spokesman John Kirby said the material crosses seven email chains, amounting to 37 pages worth of material.",
+            "Meanwhile, State Department spokesman John Kirby reiterated Friday that the 22 documents in question were \u201cnot marked classified at the time they were sent."
+        ],
+        "tf-idf score": [
+            0.9062702663745011,
+            1.0574470437248527,
+            0.8833331244983573
+        ]
+    },
+    "0.3469835433270914-3-131": {
+        "average clique similarity": 0.3469835433270914,
+        "clique": [
+            "0- The notion that a  ",
+            "1-Reince Priebus  the ",
+            "4- With even more emai"
+        ],
+        "median tf-idf score": 0.647608990416783,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cThe notion that a   process could be hit with 11th hour delays reeks of political favoritism designed to hide the ball from voters on the eve of early state voting,\u201d Republican National Committee Chairman Reince Priebus said in a statement.",
+            "Reince Priebus, the Republican National Committee\u2019s chairman, said in a statement that Clinton had \u201dput our national security and diplomatic efforts at risk\u201d.",
+            "\u201dWith even more emails on her secret server found to contain \u2019Top Secret\u2019 information, Hillary Clinton has removed all doubt she cannot be trusted with the presidency,\u201d Republican National Committee Chairman Reince Priebus said in a statement."
+        ],
+        "tf-idf score": [
+            0.647608990416783,
+            0.6213390732249682,
+            1.2480609482350422
+        ]
+    },
+    "0.35369078572319473-4-101": {
+        "average clique similarity": 0.35369078572319473,
+        "clique": [
+            "1-The State Department",
+            "0-In addition  a spoke",
+            "2-Kirby also said for ",
+            "4-An additional 18 ema"
+        ],
+        "median tf-idf score": 0.9762034295788462,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The State Department also said it would agree with a request from the White House that Clinton\u2019s emails with President Barack Obama, 18 in all, be withheld from public release for several years under the Presidential Records Act.",
+            "In addition, a spokesman said another 18 emails between President Obama and Clinton will be withheld for now  \u2014   but they are \u201cnot classified\u201d and will be released eventually.",
+            "Kirby also said for the first time that some emails between Clinton and President Obama have been located and will also be withheld from public release.",
+            "An additional 18 emails, including eight distinct email chains, between Clinton and President Obama will also be withheld under executive privilege."
+        ],
+        "tf-idf score": [
+            1.3827142478880707,
+            0.9673439281303571,
+            0.9850629310273354,
+            0.6961755980286306
+        ]
+    },
+    "0.43314428991502435-3-338": {
+        "average clique similarity": 0.43314428991502435,
+        "clique": [
+            "1- These documents wer",
+            "4- These documents wer",
+            "3-Republicans pounced "
+        ],
+        "median tf-idf score": 0.5135728987780781,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "\u201dThese documents were not marked classified at the time that they were sent,\u201d Kirby said.",
+            "\u201dThese documents were not marked classified at the time they were sent\u201d.",
+            "Republicans pounced on the report, though Clinton\u2019s campaign insisted none of the exchanges were \u201dclassified at the time\u201d and accused McCullough and GOP lawmakers of selectively leaking materials to damage her presidential hopes."
+        ],
+        "tf-idf score": [
+            0.5135728987780781,
+            0.34190125016406064,
+            0.7365389364803144
+        ]
+    }
+}

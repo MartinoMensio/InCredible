@@ -1,0 +1,342 @@
+{
+    "0.2179717355461297-3-67": {
+        "average clique similarity": 0.2179717355461297,
+        "clique": [
+            "0-The gridlock at the ",
+            "1-On the first day of ",
+            "2-During the trial  Da"
+        ],
+        "median tf-idf score": 0.9862258658083365,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The gridlock at the foot of the nation's busiest bridge, which connects New Jersey to New York City, began on the first day of school and held up commuters, school buses and emergency vehicles.",
+            "On the first day of the trial, which began early last month, prosecutors alleged that Christie knew about the plan to tie up traffic on the George Washington Bridge as it was happening.",
+            "During the trial, David Wildstein, a former Port Authority official who pleaded guilty and cooperated with prosecutors, testified he and Baroni discussed the lane closures with Christie on the third day of the gridlock."
+        ],
+        "tf-idf score": [
+            0.45619479663797685,
+            0.9862258658083365,
+            1.071983570724418
+        ]
+    },
+    "0.21920704511550684-3-38": {
+        "average clique similarity": 0.21920704511550684,
+        "clique": [
+            "2-U S prosecutors have",
+            "0-Two former aides to ",
+            "3-The case involved a "
+        ],
+        "median tf-idf score": 1.0952337133624495,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "U S prosecutors have essentially conceded that charges are not forthcoming against the Republican, even though a key government witness testified that Christie was aware of the scheme as it unfolded in September 2013. State charges are also a long shot, legal experts said.",
+            "Two former aides to Christie were convicted of creating an epic traffic jam at the George Washington Bridge in September 2013, for what prosecutors said was political revenge, capping a trial that cast doubt on Christie's claims he knew nothing about the scheme.",
+            "The case involved a scheme to intentionally cause traffic problems on the George Washington Bridge in September 2013, as political retaliation against a mayor who did not endorse Christie for  ."
+        ],
+        "tf-idf score": [
+            1.0952337133624495,
+            1.2609034028231152,
+            0.8138789300370434
+        ]
+    },
+    "0.24197270190911632-3-72": {
+        "average clique similarity": 0.24197270190911632,
+        "clique": [
+            "2-Christie was a risin",
+            "4-Christie was one of ",
+            "0-Hillary Clinton s pr"
+        ],
+        "median tf-idf score": 1.0712538001796723,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "Christie was a rising political star before the scandal left his reputation in tatters. After his own presidential campaign failed, he became a key adviser to Republican nominee Donald Trump, and many observers believe he hopes to secure an administration post if Trump wins the presidency on Tuesday.",
+            "Christie was one of Trump's earliest backers within the GOP establishment, and although he was passed over for the role of   nominee, he is leading the transition team that will create a presidential administration if Trump wins on Tuesday.",
+            "Hillary Clinton's presidential campaign seized on the guilty verdicts handed down in the \"Bridgegate\" trial on Friday, suggesting the New Jersey governor, Chris Christie, should resign as the head of the transition team for the Republican nominee, Donald Trump."
+        ],
+        "tf-idf score": [
+            1.0712538001796723,
+            0.8585728500372884,
+            1.177798776066214
+        ]
+    },
+    "0.24915450786785007-3-207": {
+        "average clique similarity": 0.24915450786785007,
+        "clique": [
+            "0-On the stand  Kelly ",
+            "1-NJ com reported that",
+            "4-She also said  numer"
+        ],
+        "median tf-idf score": 0.682943501837015,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "On the stand, Kelly said she was referring to what she thought was a traffic study and expressing satisfaction that it was going well. As for why Kelly deleted the messages, her lawyer suggested she was afraid she was about to be made the scapegoat.",
+            "NJ com reported that she also said that officials in the governor's inner circle were aware of what was happening and seemed unconcerned. \"It just wasn't a big deal,\" she said, according to NJ com.",
+            "She also said, numerous times, that she and Christie had discussed the traffic snafu in the weeks between it happening and the news conference, where Christie and the rest of the staff denied it all."
+        ],
+        "tf-idf score": [
+            0.682943501837015,
+            0.5622731965806143,
+            0.7211275068563311
+        ]
+    },
+    "0.24992657888148007-3-78": {
+        "average clique similarity": 0.24992657888148007,
+        "clique": [
+            "3- The verdict came be",
+            "0-Saying his experienc",
+            "1-The New Jersey gover"
+        ],
+        "median tf-idf score": 0.689070521746879,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"The verdict came before the judge ruled on a request by defense attorneys to declare a mistrial in the case\". Kelly and Baroni both plan to appeal, according to statements made by their lawyers after the verdict was announced.",
+            "Saying his experience as a \"former federal prosecutor\" helped him understand the case, Christie continued: \"Like so many people in New Jersey, I'm saddened by this case and I'm saddened about the choices made by Bill Baroni, Bridget Kelly and David Wildstein. Today's verdict does not change this for me. \"",
+            "The New Jersey governor said he was \"saddened\" by the choices those close to him made."
+        ],
+        "tf-idf score": [
+            0.689070521746879,
+            1.1773263813198516,
+            0.622780385217595
+        ]
+    },
+    "0.2537532794025907-4-124": {
+        "average clique similarity": 0.2537532794025907,
+        "clique": [
+            "3-Two former allies of",
+            "1- New Jersey Gov  Chr",
+            "4-Two other aides to C",
+            "2- New Jersey Governor"
+        ],
+        "median tf-idf score": 0.8813301983447122,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Two former allies of New Jersey Gov.",
+            " New Jersey Gov. Chris Christie's political career sustained a serious blow Friday after two of his former allies were found guilty of conspiring to shut down the nation's busiest bridge to punish a local mayor who refused to support the governor's reelection bid.",
+            "Two other aides to Christie, who is the Republican governor of New Jersey, had previously pleaded guilty.",
+            " New Jersey Governor Chris Christie is unlikely to face criminal prosecution for the \"Bridgegate\" lane closure scandal, even after two of his former associates were convicted for their roles in the scheme on Friday."
+        ],
+        "tf-idf score": [
+            0.2374919472516107,
+            1.0689136055171746,
+            0.751031827981682,
+            1.0116285687077424
+        ]
+    },
+    "0.26210435664829385-3-19": {
+        "average clique similarity": 0.26210435664829385,
+        "clique": [
+            "0-Wildstein said Chris",
+            "1-A key witness who ad",
+            "2-The governor  Wildst"
+        ],
+        "median tf-idf score": 0.643920518908129,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Wildstein said Christie was told about the traffic jam as it was happening and that when he learned of Sokolich's distress over not getting his calls returned, he laughed and sarcastically joked that nothing political was going on.",
+            "A key witness who admitted his own role in the affair would later testify that when he told Christie about the plot, Christie laughed.",
+            "The governor, Wildstein said, laughed when he heard that Mayor Mark Sokolich was frustrated that his calls for help were going unanswered."
+        ],
+        "tf-idf score": [
+            1.0636307054117708,
+            0.5209573390860851,
+            0.643920518908129
+        ]
+    },
+    "0.26249928919113724-3-194": {
+        "average clique similarity": 0.26249928919113724,
+        "clique": [
+            "0-Prosecutors said Bri",
+            "4-Late Friday morning ",
+            "2-The pair were accuse"
+        ],
+        "median tf-idf score": 1.2925710240737456,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "Prosecutors said Bridget Kelly, Christie's former deputy chief of staff, and Bill Baroni, a Christie appointee to the Port Authority of New York and New Jersey, plotted with Christie ally David Wildstein to close lanes at the bridge and create gridlock in order to punish the Democratic mayor of Fort Lee, Mark Sokolich, for not endorsing Christie for  .",
+            "Late Friday morning, a jury in New Jersey returned a verdict in the case against former Chris Christie aides Bill Baroni and Bridget Kelly in \"Bridgegate,\" the closure of lanes on the George Washington Bridge.",
+            "The pair were accused of closing down access lanes at the busy George Washington Bridge in Fort Lee, New Jersey, to create a massive traffic jam as payback for the town's Democratic mayor failing to endorse Christie's reelection campaign."
+        ],
+        "tf-idf score": [
+            1.6922238299220216,
+            1.2925710240737456,
+            1.1489962837661942
+        ]
+    },
+    "0.27851704928808557-3-91": {
+        "average clique similarity": 0.27851704928808557,
+        "clique": [
+            "0- How can Trump trust",
+            "3-A total of four form",
+            "4-The Anatomy of a Lea"
+        ],
+        "median tf-idf score": 0.7255834115232701,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\"How can Trump trust Christie's judgment to hire the key staff for his administration if   ...     his top aides have been found guilty of federal crimes?\"",
+            "A total of four former top Christie aides have now either pleaded guilty or been found guilty of federal crimes  --   three of them related to Bridgegate.",
+            "The Anatomy of a Leak: How Did a Mistaken Clinton Story Happen? As if it's not bad enough for four of Christie's aides to be guilty of federal crimes, the trial actually looked worse for the governor than that verdict would suggest."
+        ],
+        "tf-idf score": [
+            0.7255834115232701,
+            0.5874086600204335,
+            0.754417317275907
+        ]
+    },
+    "0.3659536159548895-3-69": {
+        "average clique similarity": 0.3659536159548895,
+        "clique": [
+            "1- No one will be able",
+            "0-In his statement on ",
+            "3-He reiterated that p"
+        ],
+        "median tf-idf score": 0.7522098869097172,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\"No one will be able to think about Gov. Christie's tenure in office without having it be colored by these convictions. \"",
+            "In his statement on Friday, Christie said: \"Let me be clear once again, I had no knowledge prior to or during these lane realignments, and had no role in authorizing them.",
+            "He reiterated that position in a statement Friday afternoon, saying, \"I'm saddened about the choices made by Bill Baroni, Bridget Kelly and [former aide] David Wildstein. .. But let me be clear once again, I had no knowledge prior to or during these lane realignments, and had no role in authorizing them."
+        ],
+        "tf-idf score": [
+            0.43888751944145865,
+            0.7801582121530988,
+            0.7522098869097172
+        ]
+    },
+    "0.39154401007801637-3-104": {
+        "average clique similarity": 0.39154401007801637,
+        "clique": [
+            "2-Kelly  meanwhile  te",
+            "1-Kelly said she told ",
+            "0-Kelly  Baroni and Wi"
+        ],
+        "median tf-idf score": 0.9142803421461357,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Kelly, meanwhile, testified that she discussed the lane closures with Christie a month before they occurred, though she said she thought they were part of a traffic study.",
+            "Kelly said she told Christie of the lane closures before they happened, though she claimed she thought they were part of a legitimate traffic study that needed her boss's approval.",
+            "Kelly, Baroni and Wildstein all testified that Christie was informed about the lane closures either before or while they were going on."
+        ],
+        "tf-idf score": [
+            0.9094595971528763,
+            0.9142803421461357,
+            0.9633981647864505
+        ]
+    },
+    "0.40065620767983673-3-207": {
+        "average clique similarity": 0.40065620767983673,
+        "clique": [
+            "4-Jurors decided that ",
+            "1-William E Baroni Jr ",
+            "2-Christie s former de"
+        ],
+        "median tf-idf score": 1.1545883712501614,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Jurors decided that Baroni and Kelly had conspired to create gridlock on the span between New Jersey and New York, finding them guilty on all nine counts.",
+            "William E Baroni Jr the former deputy executive director of the Port Authority of New York and New Jersey, and Bridget Kelly, Christie's former deputy chief of staff for legislative and intergovernmental affairs, were both convicted of all the counts against them, the U S attorney's office in New Jersey said.",
+            "Christie's former deputy chief of staff, Bridget Kelly, and former Port Authority of New York and New Jersey deputy executive director Bill Baroni were found guilty on Friday of all counts in Newark federal court."
+        ],
+        "tf-idf score": [
+            0.5763656946042939,
+            1.2356857177867242,
+            1.1545883712501614
+        ]
+    },
+    "0.45170435006283033-3-207": {
+        "average clique similarity": 0.45170435006283033,
+        "clique": [
+            "4-Now  there are actua",
+            "2-His term ends in Jan",
+            "1- Today s verdict doe"
+        ],
+        "median tf-idf score": 0.7442329729973557,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Now, there are actual convictions close to the Trump campaign. In a statement Friday, Christie said he was \"saddened\" by the case, but he suggested the aides were lying and reiterated that he had no knowledge of the closures and did not authorize them.",
+            "His term ends in January 2018. \"I had no knowledge prior to or during these lane realignments, and had no role in authorizing them,\" he said. \"Anything said to the contrary over the past six weeks in court is simply untrue\".",
+            "\"Today's verdict does not change this for me,\" he said. \"But let me be clear once again, I had no knowledge prior to or during these lane realignments, and had no role in authorizing them. No believable evidence was presented to contradict that fact."
+        ],
+        "tf-idf score": [
+            1.1846565161253058,
+            0.5003185148758472,
+            0.7442329729973557
+        ]
+    },
+    "0.4948949010302246-3-207": {
+        "average clique similarity": 0.4948949010302246,
+        "clique": [
+            "3-No believable eviden",
+            "1-Anything said to the",
+            "0-No believable eviden"
+        ],
+        "median tf-idf score": 0.547082623522796,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "No believable evidence was presented to contradict that fact. Anything said to the contrary over the past six weeks in court is simply untrue\".",
+            "Anything said to the contrary over the past six weeks in court is simply untrue. \" Two former allies of New Jersey Gov.",
+            "No believable evidence was presented to contradict that fact. Anything said to the contrary over the past six weeks in court is simply untrue. \" He concluded: \"I will set the record straight in the coming days regarding the lies that were told by the media and in the courtroom. \" Siding with prosecutors, US district judge Susan Wigenton told jurors they did not have to find that Kelly and Baroni knowingly intended to punish Sokolich in order to convict them of conspiracy."
+        ],
+        "tf-idf score": [
+            0.547082623522796,
+            0.5035628763023299,
+            1.1139388444965537
+        ]
+    }
+}

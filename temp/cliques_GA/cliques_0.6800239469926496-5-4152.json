@@ -1,0 +1,242 @@
+{
+    "0.22519434421152743-3-33": {
+        "average clique similarity": 0.22519434421152743,
+        "clique": [
+            "3-  CNN  Carrie Fisher",
+            "1-We hope for the best",
+            "2-I am not saying she "
+        ],
+        "median tf-idf score": 0.9532833880381111,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            " (CNN) Carrie Fisher is in stable condition after suffering a cardiac event aboard a weekend flight from London to Los Angeles, her mother Debbie Reynolds said Sunday. \"Carrie is in stable condition,\" Reynolds tweeted. \"If there is a change, we will share it.",
+            "We hope for the best. We certainly do not know her condition, that's why she is in the ICU I'm sure everyone wants to speculate, but now is not the time for that. \" There were no additional updates from Fisher's family members or close associates on Saturday  --   although she was believed to still be in hospital.",
+            "I am not saying she is fine, or not fine,\" he told Reuters by telephone in response to reports about her condition. \"She is in the ICU\". He said he was driving and en route to pick up their mother, the veteran entertainer Debbie Reynolds."
+        ],
+        "tf-idf score": [
+            1.2288101975995769,
+            0.9532833880381111,
+            0.6187589626954624
+        ]
+    },
+    "0.2515638340713244-3-48": {
+        "average clique similarity": 0.2515638340713244,
+        "clique": [
+            "1-About 15 minutes bef",
+            "0-According to TMZ  th",
+            "2-According to the cel"
+        ],
+        "median tf-idf score": 0.9225074342899268,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Breitbart"
+        ],
+        "sentences": [
+            "About 15 minutes before it touched down the crew reported a passenger was \"unresponsive\". According to the LA police department, officers responded around 12. 15pm to an emergency call involving a female passenger in cardiac arrest.",
+            "According to TMZ, the    actress went into cardiac arrest roughly 15 minutes before her flight's scheduled arrival at LAX An EMT reportedly administered CPR on the plane, and Fisher was taken to an area hospital immediately after it landed.",
+            "According to the celebrity news website TMZ com, Fisher suffered a \"massive heart attack\" 15 minutes before landing, and an emergency medical technician who was aboard was ushered to the   cabin to provide aid."
+        ],
+        "tf-idf score": [
+            0.5789797069426177,
+            1.2193137209398808,
+            0.9225074342899268
+        ]
+    },
+    "0.2604205903856852-3-57": {
+        "average clique similarity": 0.2604205903856852,
+        "clique": [
+            "2-The Los Angeles Time",
+            "1-It remains unclear p",
+            "0-The actress was list"
+        ],
+        "median tf-idf score": 0.7208736531943417,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The Los Angeles Times cited one unnamed source as saying the actress had been \"in a lot of distress on the flight,\" which landed at Los Angeles International Airport shortly after noon (2000 GMT).",
+            "It remains unclear precisely when and how Fisher became unwell on her flight to LA  A source who was not authorized to discuss the incident aboard United Airlines 935 told the Los Angeles Times the actress was \"in a lot of distress on the flight\".",
+            "The actress was listed in critical condition Friday evening, according to the Los Angeles Times."
+        ],
+        "tf-idf score": [
+            0.649575060806296,
+            1.2739931187188813,
+            0.7208736531943417
+        ]
+    },
+    "0.2615440156529983-3-17": {
+        "average clique similarity": 0.2615440156529983,
+        "clique": [
+            "2-Fisher  60  was desc",
+            "0-Update 2  Fisher s c",
+            "1-After the aircraft l"
+        ],
+        "median tf-idf score": 1.059297703057821,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "Fisher, 60, was described by her younger brother, Todd Fisher, as being in critical condition, and he said she remained under medical treatment in the intensive care unit (ICU) of a Los Angeles hospital several hours after becoming ill. \"It's not fair to say 'stable.'",
+            "Update 2: Fisher's condition remains unclear as Todd Fisher told Variety that his sister remains in the Intensive Care Unit at UCLA Medical Center. [\"She's in the ICU and everybody's praying for her,\" he told the outlet Friday evening.",
+            "After the aircraft landed, Fisher, best known as Princess Leia in the Star Wars series, was rushed to the Ronald Reagan UCLA Medical Center and placed in an intensive care unit."
+        ],
+        "tf-idf score": [
+            1.2419453547769066,
+            0.9290601160432352,
+            1.059297703057821
+        ]
+    },
+    "0.28801788780138615-3-29": {
+        "average clique similarity": 0.28801788780138615,
+        "clique": [
+            "0-Fisher shot to super",
+            "1-She revisited the ro",
+            "2-Fisher revealed the "
+        ],
+        "median tf-idf score": 0.8396499703266179,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Fisher shot to superstardom when she starred as Princess Leia in the original Star Wars trilogy in the late 1970s and early 80s. She reprised her most famous role in last year's Episode VII: The Force Awakens.",
+            "She revisited the role as the leader of a galactic rebellion in three sequels, including last year's Star Wars: The Force Awakens. In her first and best known book, Postcards From the Edge, she wrote about her turbulent relationship with her mother, as well as a cocaine addiction and mental health problems for which she had received electroshock therapy.",
+            "Fisher revealed the secret to People magazine while promoting her new memoir, \"The Princess Diarist,\" just before it went on sale. She reprised her Princess Leia role in two sequels and returned last year in Disney's reboot of the franchise, \"The Force Awakens,\" appearing as the more matronly General Leia Organa, leader of the Resistance movement fighting the evil First Order."
+        ],
+        "tf-idf score": [
+            0.9562221312547857,
+            0.6385112615350151,
+            0.8396499703266179
+        ]
+    },
+    "0.2952238486683101-3-2": {
+        "average clique similarity": 0.2952238486683101,
+        "clique": [
+            "0-Fisher was reportedl",
+            "1-Fisher had been in L",
+            "4-The actress rose to "
+        ],
+        "median tf-idf score": 0.631312443578926,
+        "publications": [
+            "Guardian",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Fisher was reportedly on a book tour to promote her autobiography, The Princess Diarist, when she suffered the heart attack. This is a developing story.",
+            "Fisher had been in London filming the third season of the British television comedy Catastrophe and to promote her latest book, The Princess Diarist.",
+            "The actress rose to stardom as Princess Leia in the Star Wars franchise and has recently been on tour to promote her new memoir, \"The Princess Diarist. \""
+        ],
+        "tf-idf score": [
+            0.8709287884996261,
+            0.631312443578926,
+            0.6008908077542572
+        ]
+    },
+    "0.3203375517490291-3-35": {
+        "average clique similarity": 0.3203375517490291,
+        "clique": [
+            "3-The Los Angeles Fire",
+            "4-Representatives for ",
+            "2-The city Fire Depart"
+        ],
+        "median tf-idf score": 1.1588617543188615,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The Los Angeles Fire Department previously said it responded to a cardiac arrest at the United Airlines gate where the London flight arrived. \"LAFD responded to LAX Gate 74 for patient on inbound flight in cardiac arrest,\" LAFD Spokesman Erik Scott told CNN \"Paramedics standing by upon arrival provided advanced life support and aggressively treated and transported patient to local hospital\".",
+            "Representatives for Fisher did not immediately return The Post's inquires. At 12:11 p. m. Pacific time, the Los Angeles Fire Department responded to Gate 74 at Los Angeles International Airport \"for a patient on an inbound flight in cardiac arrest,\" department spokesman Erik Scott said.",
+            "The city Fire Department confirmed that its emergency personnel met an arriving flight at the airport to treat a patient in \"cardiac arrest,\" but declined to identify the individual, citing medical confidentiality laws."
+        ],
+        "tf-idf score": [
+            1.249178891344687,
+            1.1588617543188615,
+            0.5453204277856187
+        ]
+    },
+    "0.3375928000298966-3-21": {
+        "average clique similarity": 0.3375928000298966,
+        "clique": [
+            "3-For all her fans  fr",
+            "4-     Actress Carrie ",
+            "2- Hollywood actress a"
+        ],
+        "median tf-idf score": 1.6702148383627473,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "For all her fans  friends. I thank you for your prayers  good wishes\". The United Airlines flight was on approach to Los Angeles on Friday when the    actress who played Princess Leia in \"Star Wars\"  became ill.  Fisher was transported to a hospital from Los Angeles International Airport, the source said.",
+            "     Actress Carrie Fisher suffered a major cardiac episode while on a flight from London to Los Angeles on Friday and has been rushed to the hospital, according to multiple reports.",
+            " Hollywood actress and writer Carrie Fisher, best known for her role as Princess Leia in the \"Star Wars\" movies, suffered a cardiac episode on Friday during a flight from London to Los Angeles, where she was rushed to a hospital after landing."
+        ],
+        "tf-idf score": [
+            1.6702148383627473,
+            1.210868039714075,
+            1.6895179728538734
+        ]
+    },
+    "0.3939725593977634-3-38": {
+        "average clique similarity": 0.3939725593977634,
+        "clique": [
+            "3-Celebrities aboard t",
+            "2-Two passengers who s",
+            "4-A number of people t"
+        ],
+        "median tf-idf score": 1.177251287279043,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Celebrities aboard the same flight took to Twitter to express their concerns. Comedian Brad Gage tweeted: \"I sat in front of Carrie Fisher on our flight from London and she was just taken off the plane by EMTs\". YouTube personality Anna Akana tweeted that the actress \"stopped breathing\" on the flight.",
+            "Two passengers who said they were aboard the flight and sitting near Fisher posted messages on Twitter reporting that she had fallen ill.   YouTube performer Anna Akana tweeted that Fisher had \"stopped breathing,\" and comedian Brad Cage, who said he and Akana were sitting in front of the actress, tweeted separately that Fisher was taken off the plane by paramedics.",
+            "A number of people tweeted that they had been on the United flight with Fisher, including one who wrote that Fisher was taken off the plane by EMTs."
+        ],
+        "tf-idf score": [
+            1.177251287279043,
+            1.2049198444402345,
+            0.8508569688387202
+        ]
+    },
+    "0.40401651107426595-3-8": {
+        "average clique similarity": 0.40401651107426595,
+        "clique": [
+            "1-The    actor added  ",
+            "4-Fisher s  Star Wars ",
+            "2-In response to the n"
+        ],
+        "median tf-idf score": 0.659421914875032,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The    actor added: \"Our thoughts are with Carrie, her family and friends. \" Others offered their hopes for the actor's recovery on Twitter using the trending hashtag #MayTheForceBeWithHer. included Fisher's Star Wars   Peter Mayhew, who played Chewbacca, and Mark Hamill, who played Luke Skywalker and said he and others were \"sending all our love\".",
+            "Fisher's \"Star Wars\"   Mark Hamill tweeted, \"as if 2016 couldn't get any worse . sending all our love\" to Fisher.",
+            "In response to the news, actor Mark Hamill, who starred opposite Fisher as Jedi knight Luke Skywalker in the first three films, tweeted: \"as if 2016 couldn't get any worse . .. sending all our love to @carriefisher\"."
+        ],
+        "tf-idf score": [
+            1.0393164638143866,
+            0.6287025516193521,
+            0.659421914875032
+        ]
+    }
+}

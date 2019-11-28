@@ -1,0 +1,938 @@
+{
+    "0.15809249175536777-3-265": {
+        "average clique similarity": 0.15809249175536777,
+        "clique": [
+            "1-   The finding compl",
+            "4-After detecting the ",
+            "2-The physicists knew "
+        ],
+        "median tf-idf score": 1.0567167201341183,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201d  The finding completed the scientific arc of prediction, discovery and confirmation: first they calculated what they should be able to detect, then decided what the evidence should look like, and then devised the experiment that clinched the matter.",
+            "After detecting the gravitational wave signal, the scientists said they converted it into audio waves and were able to listen to the sounds of the two black holes merging.",
+            "The physicists knew, from supercomputer calculations and theoretical models, what gravitational waves from merging black holes ought to look like  \u2014   with a rising frequency, culminating in that chirp, followed by a \u201d \u201d as the waves settle."
+        ],
+        "tf-idf score": [
+            0.3801533517159798,
+            1.197467704635513,
+            1.0567167201341183
+        ]
+    },
+    "0.1608161760430157-3-148": {
+        "average clique similarity": 0.1608161760430157,
+        "clique": [
+            "1-Prof Neil Turok  dir",
+            "4-The announcement was",
+            "2-It s the golden sign"
+        ],
+        "median tf-idf score": 0.5111571622902034,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Guardian"
+        ],
+        "sentences": [
+            "Prof Neil Turok, director the Perimeter Institute for Theoretical Physics at Waterloo in Canada, and a former research colleague of Prof Stephen Hawking, called the discovery \u201cthe real deal, one of those breakthrough moments in science\u201d.",
+            "The announcement was made in Washington by scientists from the California Institute of Technology, the Massachusetts Institute of Technology and the LIGO Scientific Collaboration.",
+            "It\u2019s the golden signal for me,\u201d said Alessandra Buonanno of Germany\u2019s Max Planck Institute for Gravitational Physics, who started working on theoretical models of gravitational waves in 2000 and flew to Washington for the announcement."
+        ],
+        "tf-idf score": [
+            0.34186239939133345,
+            0.5111571622902034,
+            0.9178216930204443
+        ]
+    },
+    "0.1639961876881082-3-92": {
+        "average clique similarity": 0.1639961876881082,
+        "clique": [
+            "1-This has been correc",
+            "0-And that hasn t been",
+            "2- That s the chirp we"
+        ],
+        "median tf-idf score": 0.04003611475767296,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "This has been corrected.",
+            "And that hasn\u2019t been done before.",
+            "\u201dThat\u2019s the chirp we\u2019ve been looking for\u201d."
+        ],
+        "tf-idf score": [
+            0.04003611475767296,
+            0.0,
+            0.04098031644877484
+        ]
+    },
+    "0.1910126836971914-3-329": {
+        "average clique similarity": 0.1910126836971914,
+        "clique": [
+            "4-The detection of gra",
+            "1- This observation is",
+            "0-This method of detec"
+        ],
+        "median tf-idf score": 1.1551332892595505,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The detection of gravitational waves already has provided unique insight into black holes, with the scientists saying it has demonstrated that there are plenty of black holes in the range of tens of solar masses, resolving the long debated issue of the existence of black holes of that size.",
+            "\u201cThis observation is truly incredible science and marks three milestones for physics: the direct detection of gravitational waves, the first detection of a binary black hole, and the most convincing evidence to date that nature\u2019s black holes are the objects predicted by Einstein\u2019s theory.",
+            "This method of detection would also allow physicists to better understand black holes  \u2014   which don\u2019t radiate light but are thought to radiate waves of gravity."
+        ],
+        "tf-idf score": [
+            1.1678668474381226,
+            1.1551332892595505,
+            0.8709769194048246
+        ]
+    },
+    "0.19404154087448258-3-10": {
+        "average clique similarity": 0.19404154087448258,
+        "clique": [
+            "4-Scientists sounded p",
+            "2-1 billion on LIGO ov",
+            "3-1 billion in funding"
+        ],
+        "median tf-idf score": 0.15274749776937102,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Scientists sounded positively giddy over the discovery.",
+            "1 billion on LIGO over the course of several decades.",
+            "1 billion in funding for the research over 40 years."
+        ],
+        "tf-idf score": [
+            0.1962471984990091,
+            0.15274749776937102,
+            0.11525960297180382
+        ]
+    },
+    "0.2035683526621405-3-463": {
+        "average clique similarity": 0.2035683526621405,
+        "clique": [
+            "2-    Lab   These blac",
+            "4-Scientists have know",
+            "1-The phenomenon detec"
+        ],
+        "median tf-idf score": 0.4991308952622892,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Guardian"
+        ],
+        "sentences": [
+            "(   Lab)  These black holes were each approximately the diameter of a major metropolis.",
+            "Scientists have known the existence of small black holes and   supermassive black holes are millions or billions of times as massive as the sun, but had debated the existence of black holes of intermediate size.",
+            "The phenomenon detected was the collision of two black holes."
+        ],
+        "tf-idf score": [
+            0.34396938420315143,
+            0.730080990111952,
+            0.4991308952622892
+        ]
+    },
+    "0.22935941066393076-3-262": {
+        "average clique similarity": 0.22935941066393076,
+        "clique": [
+            "2- I didn t tell my wi",
+            "1-Professor Kip Thorne",
+            "0- It s as though we o"
+        ],
+        "median tf-idf score": 0.47405009528524783,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201dI didn\u2019t tell my wife until a few days ago,\u201d LIGO   Kip Thorne, a theoretical physicist at Caltech, said amid a scrum of reporters after the announcement.",
+            "Professor Kip Thorne, of the California Institute of Technology, and one of the founding fathers of Ligo, said that until now, astronomers had looked at the universe as if on a calm sea.",
+            "\u201dIt\u2019s as though we only had seen the surface of the ocean on a very calm day\u201d Kip Thorne, a LIGO   said during the press conference."
+        ],
+        "tf-idf score": [
+            0.47405009528524783,
+            0.5102787398907965,
+            0.39017866790339983
+        ]
+    },
+    "0.23726513847758893-3-156": {
+        "average clique similarity": 0.23726513847758893,
+        "clique": [
+            "0-Gravitational telesc",
+            "1-Astronomers have alr",
+            "2-They could potential"
+        ],
+        "median tf-idf score": 0.5852180450821416,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Gravitational telescopes could even allow us to study the gravitational waves left over from the Big Bang.",
+            "Astronomers have already exploited visible light, the infrared and ultraviolet, radio waves,   and even   in their attempt to understand the mechanics of stars, the evolution of the galaxies and the expansion of the universe from an initial big bang 13.",
+            "They could potentially take a census of   mergers, spot the collisions of   neutron stars, probe the inner dynamics of exploding stars and discover theoretical \u201ccosmic strings\u201d left over from the big bang."
+        ],
+        "tf-idf score": [
+            0.5852180450821416,
+            0.721314054595365,
+            0.3207460463456614
+        ]
+    },
+    "0.24534154678446232-3-244": {
+        "average clique similarity": 0.24534154678446232,
+        "clique": [
+            "4-The scientific miles",
+            "3- It s been a very lo",
+            "2-Gabriela Gonzalez  a"
+        ],
+        "median tf-idf score": 0.5402001873443371,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The scientific milestone, announced at a news conference in Washington, was achieved using a pair of giant laser detectors in the United States, located in Louisiana and Washington state, capping a long quest to confirm the existence of these waves.",
+            "\u201dIt\u2019s been a very long road, but this is just the beginning,\u201d Louisiana State University physicist Gabriela Gonzalez told the news conference, hailing the discovery as opening a new era in astronomy.",
+            "Gabriela Gonzalez, a physics professor at Louisiana State University who is the spokesperson for LIGO, said during Thursday\u2019s news conference that the work relied on the efforts of \u201da worldwide village\u201d."
+        ],
+        "tf-idf score": [
+            0.833411135609675,
+            0.5117982607684731,
+            0.5402001873443371
+        ]
+    },
+    "0.2586033687055628-3-234": {
+        "average clique similarity": 0.2586033687055628,
+        "clique": [
+            "2-The reason that grav",
+            "0-We haven t been able",
+            "3-The scientists said "
+        ],
+        "median tf-idf score": 0.7687846854104001,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "The reason that gravitational waves have been so difficult to detect is that their effects are tinier than tiny.",
+            "We haven\u2019t been able to detect gravitational waves until now because the waves are so incredibly tiny                                        Up until now, it\u2019s been hard to detect gravitational waves because gravity is a relatively feeble force in the universe.",
+            "The scientists said that because gravitational waves are so radically different from electromagnetic waves they expect them to reveal big surprises about the universe."
+        ],
+        "tf-idf score": [
+            0.5440350610114933,
+            0.7687846854104001,
+            0.8914651385444081
+        ]
+    },
+    "0.2616071491049855-4-463": {
+        "average clique similarity": 0.2616071491049855,
+        "clique": [
+            "3- A NEW SENSE   We ar",
+            "0-It s the beginning o",
+            "1-   The Ligo discover",
+            "4- We are really witne"
+        ],
+        "median tf-idf score": 0.39949804867931993,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "Guardian",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u2019A NEW SENSE\u2019 \u201dWe are really witnessing the opening of a new tool for doing astronomy,\u201d MIT astrophysicist Nergis Mavalvala said in an interview.",
+            "It\u2019s the beginning of a whole new kind of astronomy\u201d.",
+            "\u201d  The Ligo discovery signals a new era in astronomy, he said.",
+            "\u201cWe are really witnessing the opening of a new tool for doing astronomy,\u201d MIT astrophysicist Nergis Mavalvala said in an interview."
+        ],
+        "tf-idf score": [
+            0.4073268575230646,
+            0.17023873922628316,
+            0.4871499612222123,
+            0.3916692398355753
+        ]
+    },
+    "0.2675455198626204-3-273": {
+        "average clique similarity": 0.2675455198626204,
+        "clique": [
+            "1-It is not opaque to ",
+            "0- Almost nothing is o",
+            "4-Like light  gravity "
+        ],
+        "median tf-idf score": 0.49894840804879215,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "It is not opaque to gravitational waves.",
+            "\u201dAlmost nothing is opaque to gravity\u201d.",
+            "Like light, gravity travels in waves, but instead of radiation, it is space itself that is rippling."
+        ],
+        "tf-idf score": [
+            0.49894840804879215,
+            0.07386449743815875,
+            0.5727637791005745
+        ]
+    },
+    "0.27754861785796103-3-463": {
+        "average clique similarity": 0.27754861785796103,
+        "clique": [
+            "0-If a wave is detecte",
+            "2-It was such a strong",
+            "3-The scientists conve"
+        ],
+        "median tf-idf score": 0.6061725502004686,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "If a wave is detected in one of the sites, it has to be corroborated with the other (to make sure it\u2019s not just a false signal sent by local automobile traffic or other disturbances).",
+            "It was such a strong signal that everyone knew it was either a real detection of a black hole merger, or \u201dsomebody had injected a signal into the interferometers and not properly flagged it into the data set.",
+            "The scientists converted the wave signal into audio waves and listened to the sounds of the black holes merging."
+        ],
+        "tf-idf score": [
+            0.5067231123100091,
+            0.6061725502004686,
+            0.8100226083369849
+        ]
+    },
+    "0.2882857901183476-3-139": {
+        "average clique similarity": 0.2882857901183476,
+        "clique": [
+            "4-They said the waves ",
+            "3-The waves were unlea",
+            "1-By the end of the 20"
+        ],
+        "median tf-idf score": 0.8147907503378667,
+        "publications": [
+            "Reuters",
+            "Breitbart",
+            "Guardian"
+        ],
+        "sentences": [
+            "They said the waves were the product of a collision between two black holes 30 times as massive as the Sun, located 1.",
+            "The waves were unleashed by the collision of the black holes, one of them 29 times the mass of the sun and the other 36 times the solar mass, located 1.",
+            "By the end of the 20 millisecond snatch of data, the two had accelerated to 250 times a second before the final collision and a dark, violent merger."
+        ],
+        "tf-idf score": [
+            0.9574891674074598,
+            0.8147907503378667,
+            0.2853156221189479
+        ]
+    },
+    "0.3011899136163285-3-127": {
+        "average clique similarity": 0.3011899136163285,
+        "clique": [
+            "2-Since they pass thro",
+            "3-They detected remark",
+            "0-Gravitational waves "
+        ],
+        "median tf-idf score": 0.6138466397579857,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "Since they pass through matter without interacting with it, gravitational waves would come to Earth carrying undistorted information about their origin.",
+            "They detected remarkably small vibrations from the gravitational waves as they passed through the Earth.",
+            "Gravitational waves pass through the Earth all the time."
+        ],
+        "tf-idf score": [
+            0.5785878496240537,
+            0.6138466397579857,
+            0.6188329673352922
+        ]
+    },
+    "0.31099099345235226-3-296": {
+        "average clique similarity": 0.31099099345235226,
+        "clique": [
+            "4- It opens a brand ne",
+            "2-The control room of ",
+            "1-The observation sign"
+        ],
+        "median tf-idf score": 0.2692103468714118,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cIt opens a brand new window on the universe.",
+            "The control room of the LIGO Hanford detector site near Hanford, Wash. (   Lab)  There is no obvious, immediate consequence of this physics experiment, but the scientists say this opens a new window on the universe.",
+            "The observation signals the opening of a new window on to the universe."
+        ],
+        "tf-idf score": [
+            0.21994770896104474,
+            0.6426826318792273,
+            0.2692103468714118
+        ]
+    },
+    "0.3129411249710426-4-78": {
+        "average clique similarity": 0.3129411249710426,
+        "clique": [
+            "2-The collision of two",
+            "3-The two instruments ",
+            "4-The two laser instru",
+            "0-Today  scientists at"
+        ],
+        "median tf-idf score": 0.5185102635661707,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Reuters",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The collision of two black holes holes   a tremendously powerful event detected for the first time ever by the Laser Interferometer   Observatory (LIGO) is seen in this still image from a computer simulation released on Feb. 11.",
+            "The two instruments, working in unison, are called the Laser Interferometer   Observatory (LIGO).",
+            "The two laser instruments, which work in unison, are known as the Laser Interferometer   Observatory (LIGO).",
+            "Today, scientists at the Laser Interferometer   Observatory (LIGO) announced, for the very first time, that they\u2019ve directly observed a gravitational wave  \u2014   proving Einstein right yet again."
+        ],
+        "tf-idf score": [
+            0.7894816953861008,
+            0.24053640141106813,
+            0.24753883174624058,
+            0.9957806176466487
+        ]
+    },
+    "0.3206829493178732-4-190": {
+        "average clique similarity": 0.3206829493178732,
+        "clique": [
+            "0-3 billion years ago ",
+            "3-3 billion light year",
+            "1-Not only had the det",
+            "4-3 billion light year"
+        ],
+        "median tf-idf score": 0.4385333108861027,
+        "publications": [
+            "Reuters",
+            "Breitbart",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "3 billion years ago, two black holes in a remote part of the universe collided with one another.",
+            "3 billion light years from Earth, the researchers said.",
+            "Not only had the detector picked up the collision of two enormous black holes across a distance of almost a billion light years of space, it recorded the distinctive \u201cchirp\u201d as the two spiralled towards each other.",
+            "3 billion light years from Earth."
+        ],
+        "tf-idf score": [
+            0.522672441468445,
+            0.35439418030376035,
+            0.7023886978961876,
+            0.1959073322847263
+        ]
+    },
+    "0.33044580962724507-3-27": {
+        "average clique similarity": 0.33044580962724507,
+        "clique": [
+            "4-OPEN THE DOOR  Scien",
+            "3-While opening a door",
+            "0-At the press confere"
+        ],
+        "median tf-idf score": 1.491341511801242,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "Reuters"
+        ],
+        "sentences": [
+            "OPEN THE DOOR, Scientists said gravitational waves open a door for a new way to observe the universe and gain knowledge about enigmatic objects like black holes and neutron stars.",
+            "While opening a door to new ways to observe the universe, scientists said gravitational waves should help them gain knowledge about enigmatic objects like black holes and neutron stars.",
+            "At the press conference, Reitze said that the gravitational waves the scientists recorded from the colliding black holes \u201dproves that binary black holes exist in the universe\u201d."
+        ],
+        "tf-idf score": [
+            1.4940141639035158,
+            1.491341511801242,
+            1.27544324307049
+        ]
+    },
+    "0.34626056719655907-3-463": {
+        "average clique similarity": 0.34626056719655907,
+        "clique": [
+            "3-The scientific miles",
+            "0-LIGO  which is funde",
+            "2-This cosmic chirp wa"
+        ],
+        "median tf-idf score": 0.3222274715009067,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The scientific milestone was achieved using a pair of giant laser detectors in the United States, located in Louisiana and Washington state, capping a   quest to find these waves.",
+            "LIGO, which is funded by the National Science Foundation, consists of two enormous science experiments: One is in Louisiana; the other is located in Washington state.",
+            "This cosmic chirp was picked up by both the Louisiana and Washington state detectors."
+        ],
+        "tf-idf score": [
+            0.6808180172525092,
+            0.3222274715009067,
+            0.26693465155358953
+        ]
+    },
+    "0.3517535289290883-3-398": {
+        "average clique similarity": 0.3517535289290883,
+        "clique": [
+            "4-By studying gravitat",
+            "3-The waves also may p",
+            "2-It will also inaugur"
+        ],
+        "median tf-idf score": 0.7059221653932646,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "By studying gravitational waves they also hope to gain insight into the nature of the very early universe, which has remained mysterious.",
+            "The waves also may provide insight into the mysterious nature of the very early universe.",
+            "It will also inaugurate a new era of astronomy in which gravitational waves are tools for studying the most mysterious and exotic objects in the universe, scientists declared at a euphoric news briefing at the National Press Club in Washington."
+        ],
+        "tf-idf score": [
+            0.7059221653932646,
+            0.4311862563698955,
+            1.0420465605200686
+        ]
+    },
+    "0.35526226527957333-3-351": {
+        "average clique similarity": 0.35526226527957333,
+        "clique": [
+            "0- All of that changed",
+            "1-All of that had chan",
+            "2-All reviews held up "
+        ],
+        "median tf-idf score": 0.010555919163654033,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201dAll of that changed on September 14.",
+            "All of that had changed.",
+            "All reviews held up."
+        ],
+        "tf-idf score": [
+            0.051488575346136684,
+            0.010555919163654033,
+            0.009973858619269497
+        ]
+    },
+    "0.3859349165408359-3-193": {
+        "average clique similarity": 0.3859349165408359,
+        "clique": [
+            "3- We re actually hear",
+            "4- We re actually hear",
+            "0- We re going to hear"
+        ],
+        "median tf-idf score": 0.2739289321206258,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201dWe\u2019re actually hearing them go thump in the night,\u201d Massachusetts Institute of Technology physicist Matthew Evans said.",
+            "\u201cWe\u2019re actually hearing them go thump in the night,\u201d MIT physicist Matthew Evans said.",
+            "\u201dWe\u2019re going to hear more of these things\u201d."
+        ],
+        "tf-idf score": [
+            0.3407740695507626,
+            0.2739289321206258,
+            0.04721641361848006
+        ]
+    },
+    "0.39281555661175577-3-463": {
+        "average clique similarity": 0.39281555661175577,
+        "clique": [
+            "2-They were built and ",
+            "4-  The LIGO work is f",
+            "3-The National Science"
+        ],
+        "median tf-idf score": 0.12779234164114642,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Reuters"
+        ],
+        "sentences": [
+            "They were built and operated with funding from the National Science Foundation, which has spent $1.",
+            "\u201d The LIGO work is funded by the National Science Foundation, an independent agency of the U S government.",
+            "The National Science Foundation, an independent agency of the U S government, provided about $1."
+        ],
+        "tf-idf score": [
+            0.12779234164114642,
+            0.2314690207531304,
+            0.10668963497238508
+        ]
+    },
+    "0.39447620153197466-3-364": {
+        "average clique similarity": 0.39447620153197466,
+        "clique": [
+            "4- The researchers sai",
+            "2-They orbited one ano",
+            "3-The researchers said"
+        ],
+        "median tf-idf score": 1.322064878094312,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "[The researchers said they detected gravitational waves coming from two black holes  \u2014   extraordinarily dense objects whose existence also was foreseen by Einstein  \u2014   that orbited one another, spiraled inward and smashed together.",
+            "They orbited one another at a furious pace at the very end, speeding up to about 75 orbits per second  \u2014   warping the space around them like a blender cranked to infinity  \u2014   until finally the two black holes became one.",
+            "The researchers said they identified gravitational waves coming from two distant black holes   extraordinarily dense objects whose existence also was foreseen by Einstein   that orbited one another, spiraled inward and smashed together at high speed to form a single, larger black hole."
+        ],
+        "tf-idf score": [
+            1.322064878094312,
+            0.5363539955777026,
+            1.3298118572164146
+        ]
+    },
+    "0.39776325211892466-4-133": {
+        "average clique similarity": 0.39776325211892466,
+        "clique": [
+            "2- Einstein s General ",
+            "3-Einstein in 1916 pro",
+            "0- It s exactly what E",
+            "4-Einstein in 1916 pro"
+        ],
+        "median tf-idf score": 0.9585820707171628,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "[Einstein\u2019s General Theory of Relativity at 100: Put that in your pipe and smoke it]   These waves will be particularly useful for studying black holes (the existence of which was first implied by Einstein\u2019s theory) and other dark objects, because they\u2019ll give scientists a bright beacon to search for even when objects don\u2019t emit actual light.",
+            "Einstein in 1916 proposed the existence of gravitational  waves as an outgrowth of his   general theory of relativity, which depicted gravity as a distortion of space and time triggered by the presence of matter.",
+            "\u201dIt\u2019s exactly what Einstein\u2019s theory of general relativity  predicted\u201d.",
+            "Einstein in 1916 proposed the existence of gravitational waves as an outgrowth of his   general theory of relativity, which depicted gravity as a distortion of space and time triggered by the presence of matter."
+        ],
+        "tf-idf score": [
+            1.1765897356418475,
+            0.9585820707171628,
+            0.15361760081201412,
+            0.9585820707171628
+        ]
+    },
+    "0.4068383131556495-3-65": {
+        "average clique similarity": 0.4068383131556495,
+        "clique": [
+            "3-Everything we knew u",
+            "2-Until now  astronomy",
+            "4-Everything we know a"
+        ],
+        "median tf-idf score": 0.512175828216862,
+        "publications": [
+            "Reuters",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Everything we knew until now about the cosmos stemmed from electromagnetic waves such as radio waves, visible light, infrared light,   and gamma rays.",
+            "Until now, astronomy has been almost exclusively a visual enterprise: Scientists have relied on light, visible and otherwise, to observe the cosmos.",
+            "Everything we know about the cosmos stems from electromagnetic waves such as radio waves, visible light, infrared light,   and gamma rays."
+        ],
+        "tf-idf score": [
+            0.5208587832754753,
+            0.34308830905679344,
+            0.512175828216862
+        ]
+    },
+    "0.4085649301608862-3-463": {
+        "average clique similarity": 0.4085649301608862,
+        "clique": [
+            "4-We have been able to",
+            "3-We have been able to",
+            "2-But now gravitationa"
+        ],
+        "median tf-idf score": 0.06667718747674999,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "We have been able to see and now we will be able to hear as well.",
+            "We have been able to see and now we will be able to hear as well\u201d.",
+            "But now gravitational waves can be used as well."
+        ],
+        "tf-idf score": [
+            0.06667718747674999,
+            0.06667718747674999,
+            0.482820720947541
+        ]
+    },
+    "0.4128790137195641-3-420": {
+        "average clique similarity": 0.4128790137195641,
+        "clique": [
+            "1-The hope is that gra",
+            "3-A black hole is a re",
+            "4-A black hole  a regi"
+        ],
+        "median tf-idf score": 0.8563176629255012,
+        "publications": [
+            "Reuters",
+            "Breitbart",
+            "Guardian"
+        ],
+        "sentences": [
+            "The hope is that gravity wave astronomy could start to answer questions not just about the life of stars but their deaths as well: death by collision, death in a black hole, death in some rare stellar catastrophe so fierce that, for a few thousandths of a second, the blast is the brightest thing in the universe.",
+            "A black hole is a region of space so packed with matter that not even photons of light can escape the force of gravity.",
+            "A black hole, a region of space so packed with matter that not even photons of light can escape the force of gravity, was detected for the first time in 1971."
+        ],
+        "tf-idf score": [
+            1.0017029333355634,
+            0.6093961682990379,
+            0.8563176629255012
+        ]
+    },
+    "0.4234593936563529-3-281": {
+        "average clique similarity": 0.4234593936563529,
+        "clique": [
+            "3-Because such waves e",
+            "4-But because such wav",
+            "0- If you look with vi"
+        ],
+        "median tf-idf score": 0.43176748215683947,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "Reuters"
+        ],
+        "sentences": [
+            "Because such waves encounter interference as they travel across the universe, they can tell only part of the story.",
+            "But because such waves encounter interference as they travel across the universe, they can tell only part of the story.",
+            "\u201dIf you look with visible light as far as we can look in the universe, the universe is no longer transparent; it becomes opaque,\u201d Burgess says."
+        ],
+        "tf-idf score": [
+            0.43176748215683947,
+            0.43176748215683947,
+            0.33829522816704893
+        ]
+    },
+    "0.4289825310706627-3-128": {
+        "average clique similarity": 0.4289825310706627,
+        "clique": [
+            "4-Gravitational waves ",
+            "1-Gravitational waves ",
+            "3-Gravitational waves "
+        ],
+        "median tf-idf score": 0.5536456205571907,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Gravitational waves experience no such barriers, meaning they can offer a wealth of additional information.",
+            "Gravitational waves carry completely different information about phenomena in the universe.",
+            "Gravitational waves experience no such barriers, meaning they offer a wealth of additional information."
+        ],
+        "tf-idf score": [
+            0.5536456205571907,
+            0.6204151214463517,
+            0.5536456205571907
+        ]
+    },
+    "0.4370438498740554-3-463": {
+        "average clique similarity": 0.4370438498740554,
+        "clique": [
+            "1- We have detected gr",
+            "2- A brief history of ",
+            "3- Ladies and gentleme"
+        ],
+        "median tf-idf score": 0.548825738509878,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cWe have detected gravitational waves.",
+            "[A brief history of gravity, gravitational waves and LIGO]   \u201dLadies and gentlemen, we have detected gravitational waves.",
+            "\u201dLadies and gentlemen, we have detected gravitational waves."
+        ],
+        "tf-idf score": [
+            0.5298164073648279,
+            0.7295497058691744,
+            0.548825738509878
+        ]
+    },
+    "0.4413792380544483-3-102": {
+        "average clique similarity": 0.4413792380544483,
+        "clique": [
+            "3-Abhay Ashtekar  dire",
+            "0-The two objects were",
+            "4-Ashtekar said heavy "
+        ],
+        "median tf-idf score": 1.164713979169041,
+        "publications": [
+            "Vox",
+            "Reuters",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Abhay Ashtekar, director of Penn State University\u2019s Institute for Gravitation and the Cosmos, said heavy celestial objects bend space and time but because of the relative weakness of the gravitational force the effect is miniscule except from massive and dense bodies like black holes and neutron stars.",
+            "The two objects were so massive that the interaction of their gravities distorted the space and time around them.",
+            "Ashtekar said heavy celestial objects bend space and time but because of the relative weakness of the gravitational force the effect is miniscule except from massive and dense bodies like black holes and neutron stars."
+        ],
+        "tf-idf score": [
+            1.3428693413753496,
+            0.3091136298727256,
+            1.164713979169041
+        ]
+    },
+    "0.4516434516429278-4-229": {
+        "average clique similarity": 0.4516434516429278,
+        "clique": [
+            "3-We did it   said Cal",
+            "1-We did it   said Dav",
+            "0- We have detected gr",
+            "2-We did it   said Dav"
+        ],
+        "median tf-idf score": 0.5041644813767009,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "We did it,\u201d said California Institute of Technology physicist David Reitze, triggering applause at a packed news conference in Washington.",
+            "We did it,\u201d said David Reitze, executive director of the Laser Interferometer   Observatory (Ligo) at a press conference in Washington.",
+            "\u201dWe have detected gravitational waves; we did it,\u201d David Reitze, executive director of LIGO said in a press conference Thursday to a cheering crowd.",
+            "We did it!\u201d said David Reitze, executive director of the Laser Interferometer   Observatory (LIGO) drawing applause from an audience that included many of the luminaries of the physics world."
+        ],
+        "tf-idf score": [
+            0.44639526635552274,
+            0.49793860593284583,
+            0.951337852391063,
+            0.5103903568205559
+        ]
+    },
+    "0.4764322557354093-3-60": {
+        "average clique similarity": 0.4764322557354093,
+        "clique": [
+            "4- We have turned on a",
+            "0-On September 14  201",
+            "3- We have turned on a"
+        ],
+        "median tf-idf score": 0.11294262052851507,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201cWe have turned on a new sense.",
+            "On September 14, 2015, just when the upgraded LIGO was just in the process of being turned on, it heard something.",
+            "\u201dWe have turned on a new sense."
+        ],
+        "tf-idf score": [
+            0.11294262052851507,
+            0.2895025667733986,
+            0.11294262052851507
+        ]
+    },
+    "0.5014947884360063-3-121": {
+        "average clique similarity": 0.5014947884360063,
+        "clique": [
+            "3-The scientists first",
+            "4-  The scientists sai",
+            "2-On Sept  14  in the "
+        ],
+        "median tf-idf score": 0.7973786392181803,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The scientists first detected the waves last Sept. 14.",
+            "\u201d The scientists said they first detected the gravitational waves last Sept. 14.",
+            "On Sept. 14, in the predawn darkness, LIGO heard something  \u2014   a clear, compelling signal of two black holes coalescing, the observatory scientists said."
+        ],
+        "tf-idf score": [
+            0.4828913868279252,
+            0.8112018136740503,
+            0.7973786392181803
+        ]
+    },
+    "0.5066197843146539-4-53": {
+        "average clique similarity": 0.5066197843146539,
+        "clique": [
+            "0-The colliding black ",
+            "3- The colliding black",
+            "1- The colliding black",
+            "4-He said that when th"
+        ],
+        "median tf-idf score": 1.2254846217040078,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "Reuters",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The colliding black holes that produced these gravitational waves created a violent storm in the fabric of space and time\u201d.",
+            "\u201dThe colliding black holes that produced these gravitational waves created a violent storm in the fabric of space and time, a storm in which time speeded up, and slowed down, and speeded up again, a storm in which the shape of space was bent in this way and that way,\u201d Caltech physicist Kip Thorne said.",
+            "\u201cThe colliding black holes that produced these gravitational waves created a violent storm in the fabric of space and time, a storm in which time speeded up and slowed down, and speeded up again, a storm in which the shape of space was bent in this way and that way,\u201d he said.",
+            "He said that when these objects collide, they send out ripples in the curvature of space and time that propagate as gravitational waves."
+        ],
+        "tf-idf score": [
+            1.070311509920152,
+            1.4678118492633452,
+            1.3806577334878638,
+            0.8849468690049372
+        ]
+    },
+    "0.5993239230617838-3-303": {
+        "average clique similarity": 0.5993239230617838,
+        "clique": [
+            "1-Physicists have anno",
+            "3- Scientists for the ",
+            "4-Scientists said on T"
+        ],
+        "median tf-idf score": 1.2552003073885778,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Physicists have announced the discovery of gravitational waves, ripples in the fabric of spacetime that were first anticipated by Albert Einstein a century ago.",
+            " Scientists for the first time have detected gravitational waves, ripples in space and time hypothesised by Albert Einstein a century ago, in a landmark discovery announced on Thursday that opens a new window for studying the cosmos.",
+            "Scientists said on Thursday they have for the first time detected gravitational waves, ripples in space and time hypothesized by physicist Albert Einstein a century ago, in a landmark discovery that opens a new window for studying the cosmos."
+        ],
+        "tf-idf score": [
+            0.798336145321959,
+            1.2552003073885778,
+            1.4299548940506948
+        ]
+    }
+}

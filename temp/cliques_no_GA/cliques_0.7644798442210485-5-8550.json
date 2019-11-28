@@ -1,0 +1,634 @@
+{
+    "0.33011800490778037-3-243": {
+        "average clique similarity": 0.33011800490778037,
+        "clique": [
+            "1-Some Yahoo employees",
+            "0-Some Yahoo employees",
+            "3-Reuters also reporte"
+        ],
+        "median tf-idf score": 0.9656303744183717,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Some Yahoo employees were upset about the decision not to contest the more recent edict and thought the company could have prevailed, the sources said.",
+            "Some Yahoo employees were upset about the decision not to contest the more recent directive and thought the company could have prevailed, the sources said.",
+            "Reuters also reported that Yahoo\u2019s security team, which was not informed about the company\u2019s development of the spying software, discovered the program in May 2015, just weeks after its installation, and thought it was a hack."
+        ],
+        "tf-idf score": [
+            0.9148496814151874,
+            0.9656303744183717,
+            1.0409913278150082
+        ]
+    },
+    "0.33086742528882124-3-129": {
+        "average clique similarity": 0.33086742528882124,
+        "clique": [
+            "0-  Apple fought a leg",
+            "1-Apple Inc made a sim",
+            "3-Earlier this year  A"
+        ],
+        "median tf-idf score": 0.37161279629413546,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201d Apple fought a legal case against a similar request by the US government in February after refusing to give access to the phone used by one the attackers in the 2015 San Bernardino massacre.",
+            "Apple Inc made a similar argument earlier this year when it refused to create a special program to break into an encrypted iPhone used in the 2015 San Bernardino massacre.",
+            "Earlier this year, Apple successfully fought a publicized battle with the FBI after the agency demanded that Apple develop software to break encryption on an iPhone owned by one of the San Bernardino shooters."
+        ],
+        "tf-idf score": [
+            0.45309943513738266,
+            0.29210247755923174,
+            0.37161279629413546
+        ]
+    },
+    "0.33348486422641227-3-3": {
+        "average clique similarity": 0.33348486422641227,
+        "clique": [
+            "3-  And Twitter said i",
+            "0-  Twitter  which doe",
+            "1- We ve never receive"
+        ],
+        "median tf-idf score": 0.5579062992896261,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201d And Twitter said in a prepared statement: \u201cWe\u2019ve never received a request like this, and were we to receive it we\u2019d challenge it in a court.",
+            "\u201d Twitter, which doesn\u2019t provide email service but does allow users to exchange direct messages, likewise said it has never received such a request and would challenge it in court if it did.",
+            "\u201dWe\u2019ve never received such a request, but if we did, our response would be simple: \u2019No way\u2019,\u201d a spokesman for Google said in a statement."
+        ],
+        "tf-idf score": [
+            0.5579062992896261,
+            0.7818122064551669,
+            0.49339712470984637
+        ]
+    },
+    "0.34058542488175675-3-243": {
+        "average clique similarity": 0.34058542488175675,
+        "clique": [
+            "0-Experts said it was ",
+            "2-Reuters was unable t",
+            "1-Experts said it was "
+        ],
+        "median tf-idf score": 1.072777821605951,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Experts said it was likely that the NSA or FBI had approached other internet companies with the same demand, since they evidently did not know what email accounts were being used by the target.",
+            "Reuters was unable to determine what data Yahoo may have handed over, if any, and if intelligence officials had approached other email providers besides Yahoo with this kind of request.",
+            "Experts said it was likely that the NSA or FBI had approached other Internet companies with the same demand, since they evidently did not know what email accounts were being used by the target."
+        ],
+        "tf-idf score": [
+            1.072777821605951,
+            1.094972724523807,
+            1.072777821605951
+        ]
+    },
+    "0.35031795046400954-3-130": {
+        "average clique similarity": 0.35031795046400954,
+        "clique": [
+            "1-The company declined",
+            "2-The NSA referred que",
+            "4-The Office of the Di"
+        ],
+        "median tf-idf score": 0.39557990481136557,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The company declined to comment on whether it had received such a request.",
+            "The NSA referred questions to the Office of the Director of National Intelligence, which declined to comment.",
+            "The Office of the Director of National Intelligence did not respond to a request for comment."
+        ],
+        "tf-idf score": [
+            0.4054824678785398,
+            0.39557990481136557,
+            0.34163151202684344
+        ]
+    },
+    "0.35173765213987784-4-29": {
+        "average clique similarity": 0.35173765213987784,
+        "clique": [
+            "4-The challenge was he",
+            "0-Technology companies",
+            "3-  And after the Snow",
+            "1-Companies including "
+        ],
+        "median tf-idf score": 0.9403040633160916,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "The challenge was heard in the secretive Foreign Intelligence Surveillance Court and some details about the case have remained under seal.",
+            "Technology companies  \u2014   including Yahoo  \u2014   have challenged some classified surveillance before the Foreign Intelligence Surveillance Court (Fisa) a secret tribunal.",
+            "\u201d And after the Snowden leaks uncovered the PRISM scandal in 2013, tech companies, from Yahoo to Google to Apple, denied their involvement in the NSA\u2019s surveillance and emphasized how they had fought the government over orders for data from the Foreign Intelligence Surveillance Court.",
+            "Companies including Yahoo have challenged some classified surveillance before the Foreign Intelligence Surveillance Court, a secret tribunal."
+        ],
+        "tf-idf score": [
+            0.4808261254010515,
+            0.9681524345879274,
+            1.1982698763028679,
+            0.9124556920442558
+        ]
+    },
+    "0.41699928691579397-3-124": {
+        "average clique similarity": 0.41699928691579397,
+        "clique": [
+            "1-The NSA usually make",
+            "0-The NSA usually make",
+            "4-It was unclear which"
+        ],
+        "median tf-idf score": 0.47455920801549034,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The NSA usually makes requests for domestic surveillance through the FBI, so it is hard to know which agency is seeking the information.",
+            "The NSA usually makes requests for domestic surveillance through the FBI, so it is hard to discern which agency is seeking the information.",
+            "It was unclear which intelligence agency directed Yahoo to scan emails, the person familiar with the matter said."
+        ],
+        "tf-idf score": [
+            0.47455920801549034,
+            0.46636584013158633,
+            1.0916496952122885
+        ]
+    },
+    "0.4291385558632224-3-185": {
+        "average clique similarity": 0.4291385558632224,
+        "clique": [
+            "1-The revelations have",
+            "3-8 billion sale to Ve",
+            "0-The revelations have"
+        ],
+        "median tf-idf score": 0.7287783658672246,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "The revelations have brought new scrutiny to Yahoo\u2019s security practices as the company tries to complete a deal to sell its core business to Verizon Communications Inc for $4.",
+            "8 billion sale to Verizon.",
+            "The revelations have brought new scrutiny to Yahoo\u2019s security practices as the company tries to complete a deal to sell its core business to Verizon for $4."
+        ],
+        "tf-idf score": [
+            0.7434184017479318,
+            0.03773916203012577,
+            0.7287783658672246
+        ]
+    },
+    "0.4291496244560537-4-167": {
+        "average clique similarity": 0.4291496244560537,
+        "clique": [
+            "4-That decision led to",
+            "1-Due to a programming",
+            "0-Due to a programming",
+            "3-According to Reuters"
+        ],
+        "median tf-idf score": 0.5307727117189599,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "That decision led to a programming error that left all Yahoo email vulnerable to hackers, the former Yahoo employee said.",
+            "Due to a programming flaw, he told them hackers could have accessed the stored emails.",
+            "Due to a programming flaw, he told them, hackers could have accessed the stored emails.",
+            "According to Reuters, he advised Yahoo that hackers beyond simply US spies would be able to access the stored emails due to a programming flaw."
+        ],
+        "tf-idf score": [
+            0.8858340873910158,
+            0.28675314911399835,
+            0.28675314911399835,
+            0.7747922743239214
+        ]
+    },
+    "0.4372410019889697-3-243": {
+        "average clique similarity": 0.4372410019889697,
+        "clique": [
+            "3-If we were to receiv",
+            "4-If we were to receiv",
+            "0-A Facebook spokesper"
+        ],
+        "median tf-idf score": 0.08492652118975358,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "If we were to receive one, we would oppose it in court.",
+            "If we were to receive one, we would oppose it in court\u201d.",
+            "A Facebook spokesperson said: \u201cFacebook has never received a request like the one described in these news reports from any government, and if we did we would fight it."
+        ],
+        "tf-idf score": [
+            0.08492652118975358,
+            0.08492652118975358,
+            0.6383244883060102
+        ]
+    },
+    "0.4564011289910273-3-160": {
+        "average clique similarity": 0.4564011289910273,
+        "clique": [
+            "0-Former NSA general c",
+            "1-Former NSA General C",
+            "3-Reuters notes that i"
+        ],
+        "median tf-idf score": 0.7390960198335018,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Former NSA general counsel Stewart Baker said email providers \u201chave the power to encrypt it all, and with that comes added responsibility to do some of the work that had been done by the intelligence agencies\u201d.",
+            "Former NSA General Counsel Stewart Baker said email providers \u201dhave the power to encrypt it all, and with that comes added responsibility to do some of the work that had been done by the intelligence agencies\u201d.",
+            "Reuters notes that it is likely that the government demanded that other email providers comply with its spying directive as well."
+        ],
+        "tf-idf score": [
+            0.7390960198335018,
+            0.7390960198335018,
+            0.522221425004153
+        ]
+    },
+    "0.4566748018027173-3-243": {
+        "average clique similarity": 0.4566748018027173,
+        "clique": [
+            "4-Instead of looping i",
+            "0-  Sources said the p",
+            "1-The sources said the"
+        ],
+        "median tf-idf score": 0.8625757453854666,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Instead of looping in the security team, Mayer turned to the Yahoo\u2019s email engineers to develop the software, Reuters reported.",
+            "\u201d Sources said the program was discovered by Yahoo\u2019s security team in May 2015, within weeks of its installation.",
+            "The sources said the program was discovered by Yahoo\u2019s security team in May 2015, within weeks of its installation."
+        ],
+        "tf-idf score": [
+            0.864468858792048,
+            0.8625757453854666,
+            0.8625757453854666
+        ]
+    },
+    "0.45744734827323597-3-88": {
+        "average clique similarity": 0.45744734827323597,
+        "clique": [
+            "1-The request to searc",
+            "3-Citing a few unnamed",
+            "2-The demand to search"
+        ],
+        "median tf-idf score": 1.1591950200873742,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The request to search Yahoo Mail accounts came in the form of a classified edict sent to the company\u2019s legal team, according to the three people familiar with the matter.",
+            "Citing a few unnamed sources familiar with the matter, Reuters reported that the software could search any incoming email to a Yahoo account for specific sequences of characters sought by the US government.",
+            "The demand to search Yahoo Mail accounts came in the form of a classified directive sent to the company\u2019s legal team, according to the three people familiar with the matter."
+        ],
+        "tf-idf score": [
+            1.1591950200873742,
+            1.1365951323191799,
+            1.194437558712781
+        ]
+    },
+    "0.4592364483059193-3-202": {
+        "average clique similarity": 0.4592364483059193,
+        "clique": [
+            "0-Yahoo in 2007 fought",
+            "1-Yahoo in 2007 had fo",
+            "3-Yahoo complied w a F"
+        ],
+        "median tf-idf score": 0.860882925744367,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Yahoo in 2007 fought a Fisa demand that it conduct searches on specific email accounts without a   warrant.",
+            "Yahoo in 2007 had fought a FISA demand that it conduct searches on specific email accounts without a   warrant.",
+            "Yahoo complied w a FISA 702 demand without putting up a fight which apparently led to @alexstamos\u2019 departure."
+        ],
+        "tf-idf score": [
+            0.860882925744367,
+            0.860882925744367,
+            0.5545439976207709
+        ]
+    },
+    "0.46943377894676336-5-19": {
+        "average clique similarity": 0.46943377894676336,
+        "clique": [
+            "4-The company s decisi",
+            "0-According to the two",
+            "1-According to two of ",
+            "3-Yahoo s Chief Inform",
+            "2-According to the two"
+        ],
+        "median tf-idf score": 1.1567834794366618,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Buzzfeed News",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "The company\u2019s decision not to fight the order from intelligence officials caused Yahoo\u2019s   information security officer Alex Stamos to resign last year    and at least one other security staffer left the company    due to ethical concerns about the surveillance program, according to the person, who spoke on the condition of anonymity because the matter was confidential.",
+            "According to the two former employees, Yahoo CEO Marissa Mayer\u2019s decision to obey the directive troubled some senior executives and led to the June 2015 departure of the chief information security officer, Alex Stamos, who now heads security at Facebook.",
+            "According to two of the former employees, Yahoo Chief Executive Marissa Mayer\u2019s decision to obey the directive roiled some senior executives and led to the June 2015 departure of Chief Information Security Officer Alex Stamos, who now holds the top security job at Facebook Inc. \u201dYahoo is a law abiding company, and complies with the laws of the United States,\u201d the company said in a brief statement in response to Reuters questions about the demand.",
+            "Yahoo\u2019s Chief Information Security Officer, Alex Stamos, left the company after discovering the compliance with US intelligence.",
+            "According to the two former employees, Yahoo Chief Executive Marissa Mayer\u2019s decision to obey the directive roiled some senior executives and led to the June 2015 departure of Chief Information Security Officer Alex Stamos, who now holds the top security job at Facebook."
+        ],
+        "tf-idf score": [
+            1.5917460960559116,
+            1.1265082004707663,
+            1.9325766208318291,
+            0.9639741151741169,
+            1.1567834794366618
+        ]
+    },
+    "0.47222030659757847-3-136": {
+        "average clique similarity": 0.47222030659757847,
+        "clique": [
+            "0-They were also upset",
+            "3-The software could a",
+            "1-They were also upset"
+        ],
+        "median tf-idf score": 1.310824935952525,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "They were also upset that Mayer and Yahoo general counsel Ron Bell did not involve the company\u2019s security team in the process, instead asking Yahoo\u2019s email engineers to write a program to siphon off messages containing the character string the spies sought and store them for remote retrieval, according to the sources.",
+            "The software could also store the information for later retrieval by US spy operatives.",
+            "They were also upset that Mayer and Yahoo General Counsel Ron Bell did not involve the company\u2019s security team in the process, instead asking Yahoo\u2019s email engineers to write a program to siphon off messages containing the character string the spies sought and store them for remote retrieval, according to the sources."
+        ],
+        "tf-idf score": [
+            1.310824935952525,
+            0.18053929269968036,
+            1.310824935952525
+        ]
+    },
+    "0.5036692213061194-4-243": {
+        "average clique similarity": 0.5036692213061194,
+        "clique": [
+            "3- In what seems to be",
+            "0-Yahoo last year secr",
+            "2-Yahoo last year secr",
+            "1- Yahoo Inc last year"
+        ],
+        "median tf-idf score": 1.3542549620662832,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            " In what seems to be an unprecedented act, troubled internet giant Yahoo Inc built custom software for US intelligence to probe hundreds of millions of Yahoo users\u2019 emails, according to Reuters.",
+            "Yahoo last year secretly built a custom software program to search all of its customers\u2019 incoming emails for specific information at the request of US intelligence officials, according to a report.",
+            "Yahoo last year secretly built a custom software program to search all of its customers\u2019 incoming emails for specific information provided by US intelligence officials, according to people familiar with the matter.",
+            " Yahoo Inc last year secretly built a custom software program to search all of its customers\u2019 incoming emails for specific information provided by U S intelligence officials, according to people familiar with the matter."
+        ],
+        "tf-idf score": [
+            0.979908722552187,
+            1.3394418307594,
+            1.3690680933731665,
+            1.3690680933731665
+        ]
+    },
+    "0.5282218439422192-3-9": {
+        "average clique similarity": 0.5282218439422192,
+        "clique": [
+            "4-It s also unknown wh",
+            "1-Reuters was unable t",
+            "0-Reuters was unable t"
+        ],
+        "median tf-idf score": 1.094972724523807,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It\u2019s also unknown what the government officials were looking for and what, if any, data Yahoo turned over to the government, the person said.",
+            "Reuters was unable to determine what data Yahoo may have handed over, if any, and if intelligence officials had approached other email providers besides Yahoo with this kind of request.",
+            "Reuters was unable to determine what data Yahoo may have handed over, if any, and whether intelligence officials had approached other email providers besides Yahoo with this kind of request."
+        ],
+        "tf-idf score": [
+            0.787512214931291,
+            1.094972724523807,
+            1.094972724523807
+        ]
+    },
+    "0.5334099771378189-3-243": {
+        "average clique similarity": 0.5334099771378189,
+        "clique": [
+            "0-  In a further state",
+            "3-  In response to a r",
+            "4-Apple  in a statemen"
+        ],
+        "median tf-idf score": 0.4342180333741567,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d In a further statement, Apple said \u201cWe have never received a request of this type.",
+            "\u201d In response to a request for comment, an Apple spokesperson told BuzzFeed News, \u201cWe have never received a request of this type.",
+            "Apple, in a statement said, \u201dWe have never received a request of this type."
+        ],
+        "tf-idf score": [
+            0.4342180333741567,
+            0.378438120186867,
+            0.4342180333741567
+        ]
+    },
+    "0.5338779926378161-4-243": {
+        "average clique similarity": 0.5338779926378161,
+        "clique": [
+            "4- Yahoo is a law abid",
+            "0- Yahoo is a law abid",
+            "2- Yahoo is a law abid",
+            "3-Yahoo is in the mids"
+        ],
+        "median tf-idf score": 0.9882104061375719,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201dYahoo is a law abiding company, and complies with the laws of the United States,\u201d the company said in a statement.",
+            "\u201cYahoo is a law abiding company, and complies with the laws of the United States,\u201d the company said in a brief statement in response to Reuters questions about the demand.",
+            "\u201dYahoo is a law abiding company, and complies with the laws of the United States,\u201d the company said in a brief statement in response to Reuters questions about the demand.",
+            "Yahoo is in the midst of a $4."
+        ],
+        "tf-idf score": [
+            0.8753841604963366,
+            1.1010366517788073,
+            1.1010366517788073,
+            0.3321724416406472
+        ]
+    },
+    "0.5652707816238361-4-134": {
+        "average clique similarity": 0.5652707816238361,
+        "clique": [
+            "1-The company complied",
+            "4-         Yahoo in Ap",
+            "2-The company complied",
+            "0-The company complied"
+        ],
+        "median tf-idf score": 1.4576987335464002,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The company complied with a classified U S government demand, scanning hundreds of millions of Yahoo Mail accounts at the behest of the National Security Agency or FBI, said three former employees and a fourth person apprised of the events.",
+            "         Yahoo in April of last year began secretly scanning the incoming emails of its hundreds of millions of users to comply with an order from the U S intelligence community, a move that prompted at least two company officials to leave, according to a former Yahoo employee familiar with the matter.",
+            "The company complied with a classified US government directive, scanning hundreds of millions of Yahoo Mail accounts at the behest of the National Security Agency or FBI, said two former employees and a third person apprised of the events.",
+            "The company complied with a classified US government directive, scanning hundreds of millions of Yahoo Mail accounts at the behest of the National Security Agency (NSA) or FBI, two former employees and a third person who knew about the program told Reuters."
+        ],
+        "tf-idf score": [
+            1.5008145417193293,
+            1.3697580949451305,
+            1.4590204912376072,
+            1.4563769758551934
+        ]
+    },
+    "0.65308956073061-3-243": {
+        "average clique similarity": 0.65308956073061,
+        "clique": [
+            "0-If it had  Google sa",
+            "4-Google  which runs G",
+            "3-  A Google spokesper"
+        ],
+        "median tf-idf score": 0.3478872197784804,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "If it had, Google said, its response would be: \u201cNo way.",
+            "Google, which runs Gmail, said in a statement: \u201dWe\u2019ve never received such a request, but if we did, our response would be simple: \u2019no way\u2019\u201d.",
+            "\u201d A Google spokesperson told BuzzFeed News, \u201cWe\u2019ve never received such a request, but if we did, our response would be simple: no way."
+        ],
+        "tf-idf score": [
+            0.2629926739701397,
+            0.4906768096162328,
+            0.3478872197784804
+        ]
+    },
+    "0.6789559222506684-4-193": {
+        "average clique similarity": 0.6789559222506684,
+        "clique": [
+            "0-  Microsoft  whose e",
+            "3-  A Microsoft spokes",
+            "1-A Microsoft spokespe",
+            "4-Microsoft  another m"
+        ],
+        "median tf-idf score": 0.957598377003783,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201d Microsoft, whose email service also is larger than Yahoo, also said it has \u201cnever engaged in the secret scanning of email traffic.",
+            "\u201d A Microsoft spokesperson said, \u201cWe have never engaged in the secret scanning of email traffic like what has been reported today about Yahoo.",
+            "A Microsoft spokesperson said in a statement, \u201dWe have never engaged in the secret scanning of email traffic like what has been reported today about Yahoo\u201d.",
+            "Microsoft, another major email provider, said, \u201dWe have never engaged in the secret scanning of email traffic like what has been reported today about Yahoo\u201d."
+        ],
+        "tf-idf score": [
+            0.8687910004735114,
+            0.9441712657220298,
+            0.999356458374224,
+            0.9710254882855364
+        ]
+    },
+    "0.762935478074993-3-152": {
+        "average clique similarity": 0.762935478074993,
+        "clique": [
+            "1- It is deeply disapp",
+            "3-The ACLU responded i",
+            "4- It is deeply disapp"
+        ],
+        "median tf-idf score": 1.3172661768746428,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dIt is deeply disappointing that Yahoo declined to challenge this sweeping surveillance order, because customers are counting on technology companies to stand up to novel spying demands in court,\u201d Patrick Toomey, an attorney with the American Civil Liberties Union, said in a statement.",
+            "The ACLU responded in a prepared statement: \u201cThe order issued to Yahoo appears to be unprecedented and unconstitutional  \u2026    It is deeply disappointing that Yahoo declined to challenge this sweeping surveillance order, because customers are counting on technology companies to stand up to novel spying demands in court.",
+            "\u201dIt is deeply disappointing that Yahoo declined to challenge this sweeping surveillance order, because customers are counting on technology companies to stand up to novel spying demands in court,\u201d he said in a statement."
+        ],
+        "tf-idf score": [
+            1.4125503494306044,
+            1.2142347879989412,
+            1.3172661768746428
+        ]
+    },
+    "0.9353607794780544-3-15": {
+        "average clique similarity": 0.9353607794780544,
+        "clique": [
+            "2-Some surveillance ex",
+            "0-Some surveillance ex",
+            "1-Some surveillance ex"
+        ],
+        "median tf-idf score": 1.18741448089621,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Some surveillance experts said this represents the first case to surface of a US internet company agreeing to a spy agency\u2019s demand by searching all arriving messages, as opposed to examining stored messages or scanning a small number of accounts in real time.",
+            "Some surveillance experts said this represents the first known case of a US internet company agreeing to a spy agency\u2019s demand by searching all arriving messages, as opposed to examining stored messages or scanning a small number of accounts in real time.",
+            "Some surveillance experts said this represents the first case to surface of a U S Internet company agreeing to an intelligence agency\u2019s request by searching all arriving messages, as opposed to examining stored messages or scanning a small number of accounts in real time."
+        ],
+        "tf-idf score": [
+            1.1774156971208056,
+            1.18741448089621,
+            1.280352311218295
+        ]
+    }
+}

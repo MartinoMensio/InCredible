@@ -1,0 +1,394 @@
+{
+    "0.19094522211022336-3-62": {
+        "average clique similarity": 0.19094522211022336,
+        "clique": [
+            "1- This entire process",
+            "3- If the Wells invest",
+            "4- We will continue to"
+        ],
+        "median tf-idf score": 0.5683976902510789,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cThis entire process has indelibly taken a toll on our organization, our fans and most importantly, Tom Brady.",
+            "\u201cIf the Wells investigation is not able to definitively determine that our organization tampered with the air pressure in the footballs, I would expect and hope that the league would apologize to our entire team, and in particular Coach Belichick and Tom Brady, for what they have had to endure this past week,\u201d Kraft said.",
+            "\u201cWe will continue to review all of our options and we reserve our rights to petition for cert to the Supreme Court."
+        ],
+        "tf-idf score": [
+            0.5683976902510789,
+            0.8984083812153906,
+            0.43933938888223617
+        ]
+    },
+    "0.19932189660908328-3-18": {
+        "average clique similarity": 0.19932189660908328,
+        "clique": [
+            "3-  Both sides submit ",
+            "4-In a statement  the ",
+            "2-  The NFLPA  however"
+        ],
+        "median tf-idf score": 0.5143746059888701,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            ": Both sides submit legal briefs to the court of appeals, with the league calling Berman\u2019s decision \u201cinexplicable\u201d and the NFLPA saying that Goodell overstepped his authority.",
+            "In a statement, the NFLPA  \u2014   also represented by the Gibson Dunn team  \u2014   warned that it was not necessarily done with the underlying challenge to Goodell\u2019s authority.",
+            "\u201d The NFLPA, however, isn\u2019t prepared to give up quite yet, and,   the union is expected to challenge Goodell\u2019s authority in front of the Supreme Court."
+        ],
+        "tf-idf score": [
+            0.7163216570349169,
+            0.5143746059888701,
+            0.4798102029824688
+        ]
+    },
+    "0.2057577983886348-3-11": {
+        "average clique similarity": 0.2057577983886348,
+        "clique": [
+            "4-On Wednesday  Brady ",
+            "0-The NFL Players Asso",
+            "3-April 25  The Court "
+        ],
+        "median tf-idf score": 1.0127201766110672,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "On Wednesday, Brady was denied an opportunity to have his case heard in front of the full 2nd Circuit Court of Appeals after a   panel from the 2nd Circuit reinstated his   suspension, ruling NFL Commissioner Roger Goodell did in fact have the authority to suspend Brady under the   Players Association collective bargaining agreement.",
+            "The NFL Players Association on Friday, though, did not rule out an appeal to the Supreme Court.",
+            "April 25: The Court of Appeals reverses Berman\u2019s decision and   Brady\u2019s   suspension, citing Goodell\u2019s broad power to hand out discipline as outlined in the league\u2019s CBA with the players."
+        ],
+        "tf-idf score": [
+            1.5289153800014628,
+            0.6431148883990413,
+            1.0127201766110672
+        ]
+    },
+    "0.20975206873666186-3-81": {
+        "average clique similarity": 0.20975206873666186,
+        "clique": [
+            "4- After careful consi",
+            "2-Brady announced he w",
+            "0-NEWS BRIEF Tom Brady"
+        ],
+        "median tf-idf score": 1.1727109860985674,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cAfter careful consideration and discussion with Tom Brady, the NFLPA will not be seeking a stay of the four game suspension with the 2nd Circuit.",
+            "Brady announced he will accept the suspension handed down by NFL commissioner Roger Goodell for allegedly deflating game balls in the 2014 AFC title game and will not further pursue the case with the Supreme Court, his last hope for getting the punishment overturned.",
+            "NEWS BRIEF Tom Brady will not appeal his   suspension from the NFL to the U S Supreme Court, effectively ending the legal process in the   Deflategate scandal."
+        ],
+        "tf-idf score": [
+            0.8288928894368277,
+            1.303357185365791,
+            1.1727109860985674
+        ]
+    },
+    "0.22349559453938536-3-34": {
+        "average clique similarity": 0.22349559453938536,
+        "clique": [
+            "4-His final chance at ",
+            "1-His only remaining h",
+            "3-Brady s only remaini"
+        ],
+        "median tf-idf score": 0.7950878049822678,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "His final chance at getting the suspension vacated once and for all was to petition the Supreme Court to hear his case  \u2014   which, reminder, is about labor law, not footballs, at this point.",
+            "His only remaining hope had been the US supreme court, which accepts about 1% of the appeals submitted.",
+            "Brady\u2019s only remaining recourse was the U S Supreme Court, which legal observers viewed as a long shot, at best."
+        ],
+        "tf-idf score": [
+            0.7950878049822678,
+            0.41769090776745355,
+            0.8135241076438868
+        ]
+    },
+    "0.23443807284076623-3-157": {
+        "average clique similarity": 0.23443807284076623,
+        "clique": [
+            "3-Brady will miss the ",
+            "0-The NFL found that t",
+            "1-An independent inves"
+        ],
+        "median tf-idf score": 0.8704844035401923,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Brady will miss the first four games of the 2016 regular season while serving a suspension handed down by NFL Commissioner Roger Goodell over Brady\u2019s role in a scheme to deflate footballs below NFL standards in the 2014 AFC championship game.",
+            "The NFL found that the New England Patriots quarterback was complicit in the underinflating of footballs before the 2015 AFC Championship, which may have given the Patriots an edge in their win against the Indianapolis Colts.",
+            "An independent investigator found that it was \u201cmore probable than not\u201d that Brady was \u201cat least generally aware of the inappropriate activities\u201d in the game against the Colts, and NFL commissioner Roger Goodell handed down a   ban."
+        ],
+        "tf-idf score": [
+            0.9767951860424783,
+            0.8360252302522841,
+            0.8704844035401923
+        ]
+    },
+    "0.24411882918355332-3-171": {
+        "average clique similarity": 0.24411882918355332,
+        "clique": [
+            "0-The Second Court of ",
+            "1-  Brady s decision c",
+            "3-  May 23  Brady s le"
+        ],
+        "median tf-idf score": 0.9622755880565824,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Second Court of Appeals on Wednesday denied Brady\u2019s request for an appeal hearing to the suspension, one of Brady\u2019s last hopes in the legal process.",
+            "\u201d Brady\u2019s decision comes two days after his case was turned aside by the second US circuit court of appeals.",
+            "\u201d May 23: Brady\u2019s legal team asks the Court of Appeals for one of two things: That the   panel either   the case or that it be allowed to present its case to the entire Second Circuit panel, a   \u201cen banc\u201d hearing."
+        ],
+        "tf-idf score": [
+            0.9442500257582624,
+            0.9777507556302244,
+            0.9622755880565824
+        ]
+    },
+    "0.28243891215400685-3-101": {
+        "average clique similarity": 0.28243891215400685,
+        "clique": [
+            "2-Five hundred and   d",
+            "1-Whisper it  but the ",
+            "3-     Deflategate  at"
+        ],
+        "median tf-idf score": 0.09769355920013394,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Five hundred and   days later, Deflategate is finally over  \u2014   and not a second to soon.",
+            "Whisper it, but the Deflategate scandal might finally be over.",
+            "     Deflategate, at long last, is over."
+        ],
+        "tf-idf score": [
+            0.1855148486830538,
+            0.09769355920013394,
+            0.05490291943610148
+        ]
+    },
+    "0.286743427840876-3-171": {
+        "average clique similarity": 0.286743427840876,
+        "clique": [
+            "2-The   Super Bowl cha",
+            "1-  Brady  38  was ori",
+            "3-May 11  The NFL anno"
+        ],
+        "median tf-idf score": 0.861044725836401,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The   Super Bowl champion originally was suspended May 11, 2015 after Ted Wells, an   attorney, ruled it was \u201cmore probable than not\u201d he engaged in a \u201cscheme\u201d to intentionally deflate footballs before the AFC title game on Jan. 18.",
+            "\u201d Brady, 38, was originally suspended after the Patriots were found to have used underinflated footballs in the 2015 AFC title game against the Colts, which the Patriots won  .",
+            "May 11: The NFL announces that it has suspended Brady without pay for four games after the Wells Report found that Brady was \u201cat least generally aware of the inappropriate activities\u201d during the AFC title game."
+        ],
+        "tf-idf score": [
+            0.6634335111457628,
+            0.861044725836401,
+            0.8762276819682164
+        ]
+    },
+    "0.28700716068026483-3-171": {
+        "average clique similarity": 0.28700716068026483,
+        "clique": [
+            "3-It will be the first",
+            "1-Backup quarterback J",
+            "4-It is presumed that "
+        ],
+        "median tf-idf score": 0.4259729390902723,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "It will be the first time since 2008 that someone other than Brady  \u2014   in this case Jimmy Garrapolo  \u2014   will handle quarterback duties for the Patriots.",
+            "Backup quarterback Jimmy Garoppolo is slated to start in Brady\u2019s place.",
+            "It is presumed that backup quarterback Jimmy Garoppolo will finally get his chance to start for the Pats."
+        ],
+        "tf-idf score": [
+            0.5612099866017558,
+            0.4259729390902723,
+            0.23776403441507482
+        ]
+    },
+    "0.3074028209412415-3-171": {
+        "average clique similarity": 0.3074028209412415,
+        "clique": [
+            "2-I m going to work ha",
+            "1-We will continue to ",
+            "3-We expect hard facts"
+        ],
+        "median tf-idf score": 0.43933938888223617,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "I\u2019m going to work hard to be the best player I can be for the New England Patriots and I look forward to having the opportunity to return to the field this fall.",
+            "We will continue to review all of our options and we reserve our rights to petition for cert to the supreme court.",
+            "We expect hard facts, as opposed to circumstantial leaked evidence, to drive the conclusion of this investigation."
+        ],
+        "tf-idf score": [
+            0.6253896367942416,
+            0.43933938888223617,
+            0.12167024245300948
+        ]
+    },
+    "0.3556515389425544-3-171": {
+        "average clique similarity": 0.3556515389425544,
+        "clique": [
+            "2-But by opting not to",
+            "1-It said in a stateme",
+            "3-The NFLPA issued a s"
+        ],
+        "median tf-idf score": 1.143959765146518,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But by opting not to take the case any further, Brady is not risking missing games later in the season had Justice Ruth Bader Ginsburg granted a stay of the suspension, because the stay would have ended the moment the Supreme Court decided not to take the appeal.",
+            "It said in a statement: \u201cAfter careful consideration and discussion with Tom Brady, the NFLPA will not be seeking a stay of the   suspension with the second circuit.",
+            "The NFLPA issued a statement of its own in which it said that Brady could still petition the Supreme Court, though that almost certainly wouldn\u2019t happen until after his suspension is served: After careful consideration and discussion with Tom Brady, the NFLPA will not be seeking a stay of the four game suspension with the 2nd Circuit."
+        ],
+        "tf-idf score": [
+            1.143959765146518,
+            0.8256456698265374,
+            1.2335858276576366
+        ]
+    },
+    "0.45455725410350173-3-93": {
+        "average clique similarity": 0.45455725410350173,
+        "clique": [
+            "3-This decision was ma",
+            "1-New England Patriots",
+            "4-This decision was ma"
+        ],
+        "median tf-idf score": 0.754026411300503,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "This decision was made in the interest of certainty and planning for Tom prior to the New England Patriots season.",
+            "New England Patriots quarterback Tom Brady says he will not fight the   suspension for his role in the   scandal, and will serve out his ban next season.",
+            "This decision was made in the interest of certainty and planning for Tom prior to the New England Patriots season,\u201d the association statement read."
+        ],
+        "tf-idf score": [
+            0.6656747490501915,
+            0.9284325858661945,
+            0.754026411300503
+        ]
+    },
+    "0.4645937088496989-4-113": {
+        "average clique similarity": 0.4645937088496989,
+        "clique": [
+            "3-The Patriots open th",
+            "2-The Patriots quarter",
+            "0-Jimmy Garoppolo will",
+            "1-Brady will be suspen"
+        ],
+        "median tf-idf score": 0.540816320832666,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "The Patriots open the season Sept. 11 against the Arizona Cardinals on the road, followed by home games against the Miami Dolphins, Houston Texans and Buffalo Bills.",
+            "The Patriots quarterback will miss games against the Cardinals, Dolphins, Texans and Bills to begin the 2016 season, as backup Jimmy Garoppolo takes over for the   defending AFC East champions.",
+            "Jimmy Garoppolo will start as quarterback for the Patriots in their games against the Arizona Cardinals, Miami Dolphins, Houston Texans, and Buffalo Bills.",
+            "Brady will be suspended for games against the Cardinals, Dolphins, Texans and Bills, but should return in Week 5 against the Browns."
+        ],
+        "tf-idf score": [
+            0.5451459902640361,
+            0.6542234792903919,
+            0.5282569878348431,
+            0.5364866514012957
+        ]
+    },
+    "0.4982078289572389-3-45": {
+        "average clique similarity": 0.4982078289572389,
+        "clique": [
+            "0-It has been a challe",
+            "2- It has been a chall",
+            "3-New England Patriots"
+        ],
+        "median tf-idf score": 0.4465940974110809,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "It has been a challenging 18 months and I have made the difficult decision to no longer proceed with the legal process.",
+            "\u201cIt has been a challenging 18 months and I have made the difficult decision to no longer proceed with the legal process.",
+            "New England Patriots quarterback Tom Brady on Friday announced on Facebook that he \u201cwill no longer proceed with the legal process\u201d after a federal court shot down his latest attempt at an appeal earlier this week."
+        ],
+        "tf-idf score": [
+            0.4465940974110809,
+            0.4465940974110809,
+            1.2014524859459768
+        ]
+    },
+    "0.9447699823214357-4-17": {
+        "average clique similarity": 0.9447699823214357,
+        "clique": [
+            "4-  I m very grateful ",
+            "1- I m very grateful f",
+            "2- I m very grateful f",
+            "0-Brady  in a statemen"
+        ],
+        "median tf-idf score": 0.8669608853387978,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            " \u201cI\u2019m very grateful for the overwhelming support I\u2019ve received from Mr Kraft, the Kraft family, coach Belichick, my coaches and teammates, the NFLPA, my agents, my loving family and most of all, our fans,\u201d Brady wrote.",
+            "\u201cI\u2019m very grateful for the overwhelming support I\u2019ve received from Mr Kraft, the Kraft family, Coach Belichick, my coaches and teammates, the NFLPA, my agents, my loving family and most of all, our fans,\u201d he wrote.",
+            "\u201cI\u2019m very grateful for the overwhelming support I\u2019ve received from Mr [Robert] Kraft, the Kraft family, coach [Bill] Belichick, my coaches and teammates, the NFLPA, my agents, my loving family and most of all, our fans,\u201d Brady wrote on Facebook.",
+            "Brady, in a statement Friday, said: I\u2019m very grateful for the overwhelming support I\u2019ve received from Mr Kraft, the Kraft family, coach Belichick, my coaches and teammates, the NFLPA, my agents, my loving family, and most of all, our fans."
+        ],
+        "tf-idf score": [
+            0.8497913341163597,
+            0.5978049292777571,
+            0.884130436561236,
+            0.9411975100240986
+        ]
+    }
+}

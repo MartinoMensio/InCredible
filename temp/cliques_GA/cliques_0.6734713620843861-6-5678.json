@@ -1,0 +1,250 @@
+{
+    "0.27330835389281044-3-40": {
+        "average clique similarity": 0.27330835389281044,
+        "clique": [
+            "1-The NBA has applied ",
+            "4-In the months after ",
+            "0-Earlier this month  "
+        ],
+        "median tf-idf score": 0.8127469786413767,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "The NBA has applied pressure to the state to change the law since it was passed.",
+            "In the months after, the NBA and the Charlotte Hornets have attempted to lobby the state legislature to change the law.",
+            "Earlier this month, the law, which initially passed in March, survived largely unscathed after   wrangling at the close of the state legislative session. The measure was modified to restore workers' rights to use state law to sue over employment discrimination. McCrory, who requested the change, signed the legislation on Monday."
+        ],
+        "tf-idf score": [
+            0.7228395531997409,
+            0.8127469786413767,
+            0.9199423323441764
+        ]
+    },
+    "0.30413593486094065-3-100": {
+        "average clique similarity": 0.30413593486094065,
+        "clique": [
+            "4-The NBA said it hope",
+            "3-The league says the ",
+            "1- If North Carolina d"
+        ],
+        "median tf-idf score": 0.9104382274277457,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The NBA said it hopes to host the   Game in Charlotte in 2019 if the law is overturned.",
+            "The league says the city might host an   Game in 2019, if the situation changes. The location for the 2017   Game hasn't yet been announced.",
+            "[If North Carolina doesn't change discriminatory LGBT legislation, NBA must move   Game]   After an initial statement in March in which the league said it was \"deeply concerned\" about the law, Silver said in April that if the law didn't change the game would have to move."
+        ],
+        "tf-idf score": [
+            0.9104382274277457,
+            0.5112830686633536,
+            1.3827762655010076
+        ]
+    },
+    "0.3090978028549197-3-23": {
+        "average clique similarity": 0.3090978028549197,
+        "clique": [
+            "0-  CNN  The 2017 NBA ",
+            "1-The NBA s decision i",
+            "3-The NBA will be relo"
+        ],
+        "median tf-idf score": 1.2757039411902518,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            " (CNN) The 2017 NBA   Game will move from Charlotte, North Carolina, because of that state's controversial transgender bathroom law, the league announced Thursday.",
+            "The NBA's decision is the latest fallout for North Carolina from the controversial law, which has been widely criticized as discriminatory.",
+            "The NBA will be relocating the 2017   Game from Charlotte because of HB2, North Carolina's controversial state law limiting civil rights protections for LGBT people."
+        ],
+        "tf-idf score": [
+            1.2799502441774149,
+            0.7776462662319078,
+            1.2757039411902518
+        ]
+    },
+    "0.31588750906698954-3-91": {
+        "average clique similarity": 0.31588750906698954,
+        "clique": [
+            "4-The law  known as HB",
+            "1-The law  which was p",
+            "5-We look forward to  "
+        ],
+        "median tf-idf score": 0.8970729332847208,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The law, known as HB2 and passed in March, requires people to use public restrooms that correspond to their gender at birth. Opponents of the bill said it targeted transgendered individuals and could lead to LGBT discrimination.",
+            "The law, which was passed in March, requires transgender individuals to use public restrooms that correspond with the sex listed on their birth certificates.",
+            "We look forward to   plans for our   festivities in Charlotte for 2019 provided there is an appropriate resolution to this matter. The NBA indicated that Charlotte could reapply to host its   Game in 2019 should lawmakers repeal House Bill 2, which allows girls to use public school restrooms without fear of an invasion of privacy by a member of the opposite sex and moms to use   restrooms without sharing them with males."
+        ],
+        "tf-idf score": [
+            0.8970729332847208,
+            0.624654593047419,
+            1.0492977332534572
+        ]
+    },
+    "0.33554899490939194-3-80": {
+        "average clique similarity": 0.33554899490939194,
+        "clique": [
+            "3-The league says that",
+            "2- We are disappointed",
+            "0-Still  most of the p"
+        ],
+        "median tf-idf score": 1.2954383784659123,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "The league says that the Charlotte Hornets and the city of Charlotte \"have been working diligently to foster constructive dialogue and try to effect positive change\".",
+            "\"We are disappointed that Commissioner Silver has decided to cancel the League's commitment to the City of Charlotte, the Charlotte Hornets, and the people of North Carolina over the League's desire to give in to the bullying by radical   groups like the Human Rights Campaign and Equality NC,\" said Tami Fitzgerald, Executive Director of NC Values Coalition in a statement.",
+            "Still, most of the provisions that outraged gay rights advocates, entertainers and business leaders remained. \"Since March, when North Carolina enacted HB2 and the issue of legal protections for the LGBT community in Charlotte became prominent, the NBA and the Charlotte Hornets have been working diligently to foster constructive dialogue and try to effect positive change,\" the NBA's statement read. The   Game is scheduled to be held in February."
+        ],
+        "tf-idf score": [
+            0.6195319630113884,
+            1.2954383784659123,
+            1.5757612792223223
+        ]
+    },
+    "0.3533771974099305-3-57": {
+        "average clique similarity": 0.3533771974099305,
+        "clique": [
+            "4-The new location for",
+            "1- Built on inclusiven",
+            "0-The league said it w"
+        ],
+        "median tf-idf score": 1.059840256017629,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The new location for the 2017 All Star Game will be announced in the coming weeks, the league said.",
+            "[Built on inclusiveness, NBA had to move the   Game from North Carolina]   The league said no decision has been made over where the game will be played but that one will be announced in the coming weeks.",
+            "The league said it would make an announcement about where the February game would be played in the coming weeks. The NBA also said it hopes to hold the 2019 game in Charlotte \"provided there is an appropriate resolution to this matter\". Gov. Pat McCrory slammed the decision."
+        ],
+        "tf-idf score": [
+            0.5818215140144843,
+            1.059840256017629,
+            1.1426611150124393
+        ]
+    },
+    "0.3721504554574573-3-21": {
+        "average clique similarity": 0.3721504554574573,
+        "clique": [
+            "2-The law also exclude",
+            "1-       LAS VEGAS    ",
+            "3-As we ve reported  H"
+        ],
+        "median tf-idf score": 0.8580764303284969,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The law also excludes LGBT people from state   protections and blocks local governments from expanding LGBT protections.",
+            "       LAS VEGAS  --   The NBA announced Thursday it will move the 2017   Game from Charlotte due to North Carolina's law that bars local governments from extending civil rights protections to gay and transgender people.",
+            "As we've reported, HB2 excludes LGBT people from North Carolina's nondiscrimination laws and prevents local governments from offering discrimination protections that go beyond the state's."
+        ],
+        "tf-idf score": [
+            0.5061170853795096,
+            1.2646148186713262,
+            0.8580764303284969
+        ]
+    },
+    "0.5505537215170981-3-50": {
+        "average clique similarity": 0.5505537215170981,
+        "clique": [
+            "3- We have been guided",
+            "4-The NBA said the law",
+            "5-We have been guided "
+        ],
+        "median tf-idf score": 0.8376038528513365,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\"We have been guided in these discussions by the   core values of our league. These include not only diversity, inclusion, fairness and respect for others but also the willingness to listen and consider opposing points of view,\" the league writes. \". ..",
+            "The NBA said the law does not match the \"core values\" of the league, which include \"diversity, inclusion, fairness, and respect for others. \"",
+            "We have been guided in these discussions by the   core values of our league. These include not only diversity, inclusion, fairness and respect for others but also the willingness to listen and consider opposing points of view. Our   schedule of   events and activities is intended to be a global celebration of basketball, our league, and the values for which we stand, and to bring together all members of the NBA community  --   current and former players, league and team officials, business partners, and fans."
+        ],
+        "tf-idf score": [
+            0.414288010400906,
+            0.8376038528513365,
+            0.9297098144986147
+        ]
+    },
+    "0.6678557585070847-5-45": {
+        "average clique similarity": 0.6678557585070847,
+        "clique": [
+            "1- While we recognize ",
+            "4-More from its statem",
+            "3-But the local suppor",
+            "2- While we recognize ",
+            "5-While we recognize t"
+        ],
+        "median tf-idf score": 1.09615706130172,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Washington Post",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"While we recognize that the NBA cannot choose the law in every city, state, and country in which we do business, we do not believe we can successfully host our   festivities in Charlotte in the climate created by HB2,\" as the law is commonly known.",
+            "More from its statement: While we recognize that the NBA cannot choose the law in every city, state, and country in which we do business, we do not believe we can successfully host our   festivities in Charlotte in the climate created by HB2.",
+            "But the local support for LGBT rights couldn't overcome \"the climate created by HB2\" in North Carolina, the NBA said in a statement.",
+            "\"While we recognize that the NBA cannot choose the law in every city, state, and country in which we do business, we do not believe we can successfully host our   festivities in Charlotte in the climate created by HB2,\" the league said in a statement.",
+            "While we recognize that the NBA cannot choose the law in every city, state, and country in which we do business, we do not believe we can successfully host our   festivities in Charlotte in the climate created by HB2."
+        ],
+        "tf-idf score": [
+            1.09615706130172,
+            1.1266705859791843,
+            0.8636001530792778,
+            1.381841172832379,
+            1.0686642926262029
+        ]
+    },
+    "0.7631094423012158-3-0": {
+        "average clique similarity": 0.7631094423012158,
+        "clique": [
+            "5- North Carolina Gove",
+            "0- The sports and ente",
+            "3-Pat McCrory issued a"
+        ],
+        "median tf-idf score": 1.2639692932549484,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "[North Carolina Governor Pat McCrory issued an immediate blistering response. \"The sports and entertainment elite, Attorney General Roy Cooper and the liberal media have for months misrepresented our laws and maligned the people of North Carolina simply because most people believe boys and girls should be able to use school bathrooms, locker rooms and showers without the opposite sex present,\" Governor McCrory stated in a response. \"",
+            "\"The sports and entertainment elite, (N C) Attorney General Roy Cooper and the liberal media have for months misrepresented our laws and maligned the people of North Carolina simply because most people believe boys and girls should be able to use school bathrooms, locker rooms and showers without the opposite sex present,\" the governor said. \"",
+            "Pat McCrory issued a statement Thursday accusing \"the sports and entertainment elite, Attorney General Roy Cooper and the liberal media\" of misrepresenting the law, and writing that \"most people believe boys and girls should be able to use school bathrooms, locker rooms and showers without the opposite sex present\"."
+        ],
+        "tf-idf score": [
+            1.2639692932549484,
+            1.2856477095403713,
+            1.0286816650918036
+        ]
+    }
+}

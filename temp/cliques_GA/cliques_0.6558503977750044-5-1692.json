@@ -1,0 +1,290 @@
+{
+    "0.1698322871169422-3-54": {
+        "average clique similarity": 0.1698322871169422,
+        "clique": [
+            "3-The challenges Unite",
+            "0-UnitedHealth  which ",
+            "4-The AP adds that Uni"
+        ],
+        "median tf-idf score": 1.0059129183908704,
+        "publications": [
+            "New York Times",
+            "Talking Points Memo",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The challenges UnitedHealth was facing on the exchanges are legitimate, but rather than a canary in the coal mine of Obamacare doom, health care experts tell TPM, the news of UnitedHealth's exit should be seen as collateral damage from the general chaos of a industry in transition, and that the specifics of its own business model    including its strategy in the individual markets in particular    played an important role in its decision.",
+            "UnitedHealth, which was a late and seemingly reluctant participant in the public exchanges, surprised investors last year when it announced its sizable losses, now estimated at more than a combined $1 billion for 2015 and 2016, because of its poor performance in the public exchanges.",
+            "The AP adds that UnitedHealth shares jumped 2. 2 percent in morning trading. In other words: a gigantic health insurance company that is turning a handsome profit in its other product lines decided to drop its relatively small ObamaCare business, because it was losing far too much money to sustain, and investors rejoiced at the news."
+        ],
+        "tf-idf score": [
+            1.1632894758335979,
+            0.7743000871522143,
+            1.0059129183908704
+        ]
+    },
+    "0.18485779592008242-3-17": {
+        "average clique similarity": 0.18485779592008242,
+        "clique": [
+            "1-The impact will be h",
+            "4-According to this an",
+            "3- This and other news"
+        ],
+        "median tf-idf score": 0.8196623844584976,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "The impact will be hardest felt in the South and the Midwest, where there are already few options in the exchanges for consumers to choose from, and it could leave as many as 1. 1 million people with just one health plan option, according to a report by the Kaiser Family Foundation.",
+            "According to this analysis, \"the impact could be significant in some areas, particularly in rural areas in Southern states. \" The Associated Press notes that some other big insurance players, such as Aetna, have reported heavy losses from the ACA exchanges, and are expected to \"trim their exchange participation in 2017. \"",
+            "\"This and other news suggests that the exchanges are not as stable as we expected them to be at this point, but that does not mean that it's a failing marketplace,\" Caroline Pearson, senior vice president at the health care consultancy Avalere Health, told TPM \"There's no reason to think that the exchanges cannot continue to be a small, sustainable place for insurers to sell plans. \""
+        ],
+        "tf-idf score": [
+            0.8196623844584976,
+            0.757865646092152,
+            1.0303023258318829
+        ]
+    },
+    "0.18665446830981494-3-35": {
+        "average clique similarity": 0.18665446830981494,
+        "clique": [
+            "3-Other insurers have ",
+            "0- With millions of Am",
+            "2- Obamacare and drug "
+        ],
+        "median tf-idf score": 0.8546330227587292,
+        "publications": [
+            "Talking Points Memo",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Other insurers have engaged in some of the public griping that UnitedHealth had expressed in its   to Tuesday's announcement. But that's not a guarantee that they're planning moves as drastic. It's become clear that insurers   their premiums in Obamacare's initial years, and with risks pools smaller and sicker than expected, it's likely that some premiums will go up in 2017.",
+            "\"With millions of Americans insured through the marketplaces, it's clear that this is a growing business for insurers,\" he said. While United is not alone in finding the new market challenging, some insurers, especially those that have traditionally served   customers in Medicaid programs, appear to be more successful.",
+            "[Obamacare and drug prices push health spending to $3 trillion]   Several observers said that while the decision is a clear signal of the troubles insurers face in making money in the marketplaces, it doesn't mean that other companies will follow suit."
+        ],
+        "tf-idf score": [
+            0.7756463435479736,
+            0.8948491012131352,
+            0.8546330227587292
+        ]
+    },
+    "0.20086232265124024-3-91": {
+        "average clique similarity": 0.20086232265124024,
+        "clique": [
+            "4-UnitedHealth  at any",
+            "2-At Aetna s earnings ",
+            "0-UnitedHealth estimat"
+        ],
+        "median tf-idf score": 0.7788740151728566,
+        "publications": [
+            "New York Times",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "UnitedHealth, at any rate, will thrive now that it's casting aside the ObamaCare albatross. The rest of Hemsley's earnings call was upbeat, with Forbes reporting   earnings that \"overshadowed its retreat from public exchanges under the Affordable Care Act. \"",
+            "At Aetna's earnings call for the fourth quarter of 2015, chief executive Mark Bertolini said the insurer was concerned about the marketplaces.",
+            "UnitedHealth estimated its losses from the exchanges would be $650 million this year. UnitedHealth reported overall earnings from operations of $3 billion on revenue of $44. 5 billion for the first quarter of 2016, compared with earnings of $2."
+        ],
+        "tf-idf score": [
+            0.8211003762446616,
+            0.6125280251036695,
+            0.7788740151728566
+        ]
+    },
+    "0.20670243252941123-3-105": {
+        "average clique similarity": 0.20670243252941123,
+        "clique": [
+            "1-President Obama said",
+            "0-The company has 795 ",
+            "2-1 million people in "
+        ],
+        "median tf-idf score": 0.7249533378084173,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "President Obama said more than 20 million previously uninsured people had signed up for his signature legislative achievement. At the close of 2016 enrollment in February, around 13 million people purchased their insurance through the exchanges. But insurers have complained that they can't make money in the marketplace programs.",
+            "The company has 795, 000 people in its plans, a small fraction of the roughly 13 million people who have signed up for 2016. Without large numbers of customers, insurers are unable to demand low prices from hospitals and doctors.",
+            "1 million people in the exchanges would have just one option for an insurer, provided no other insurers rushed in to fill the gap."
+        ],
+        "tf-idf score": [
+            1.0194400634466187,
+            0.7249533378084173,
+            0.4521610775402921
+        ]
+    },
+    "0.2247683460129454-3-38": {
+        "average clique similarity": 0.2247683460129454,
+        "clique": [
+            "3-The decision by Unit",
+            "2- We will be down to ",
+            "1- The smaller overall"
+        ],
+        "median tf-idf score": 0.98105128927561,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The decision by UnitedHealth to withdraw from the Obamacare exchange in all but a \"handful\" of states, as CEO Stephen Hemsley announced on an investor call Tuesday morning, is by no means shocking.",
+            "\"We will be down to a handful of states that we will be actively participating in the exchanges,\" Stephen J Hemsley, chief executive officer of UnitedHealth Group said in an earnings call, noting that the small market size and greater expense of patients insured through the marketplaces led the insurer to make the decision.",
+            "\"The smaller overall market size and shorter term, higher risk profile within this market segment continue to suggest we cannot broadly serve it on an effective and sustainable basis,\" Unitedhealth's CEO, Stephen J Hemsley said. The announcement came Tuesday, in a call with investors."
+        ],
+        "tf-idf score": [
+            0.8133793765622068,
+            1.3621091385381099,
+            0.98105128927561
+        ]
+    },
+    "0.22576007346768975-3-4": {
+        "average clique similarity": 0.22576007346768975,
+        "clique": [
+            "1-A Blue Cross Blue Sh",
+            "4-However  The Hill ac",
+            "2-Last month  the Blue"
+        ],
+        "median tf-idf score": 0.7565028034175415,
+        "publications": [
+            "Breitbart",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "A Blue Cross Blue Shield report released in March found that average monthly medical spending for someone insured in the marketplace was higher than someone insured through their employer --   --  about $560 each month compared with $460. UnitedHealth was a latecomer to the marketplace, and in 2014 started selling in four states. It now insures 795, 000 people through the exchange, which it expects to drop 650, 000 by the end of the year. Like this?",
+            "However, The Hill acknowledged that some of the much larger players, including Blue Cross Blue Shield, \"have also raised the prospect of dropping off the marketplaces. \" Some of these providers have made it clear that only substantial premium increases  --   which taxpayers will be looted without mercy to subsidize, so ObamaCare enrollees don't panic and drop their coverage  --   will keep them in the program.",
+            "Last month, the Blue Cross Blue Shield Association released a report indicating that new members who enrolled in individual plans used more medical services of all kinds and accounted for health care spending 22 percent higher than people with   insurance in 2015."
+        ],
+        "tf-idf score": [
+            1.296577250992981,
+            0.5921168149174512,
+            0.7565028034175415
+        ]
+    },
+    "0.23265420662556036-3-135": {
+        "average clique similarity": 0.23265420662556036,
+        "clique": [
+            "1-  I want to receive ",
+            "4-The Hill relates Oba",
+            "3-News that the United"
+        ],
+        "median tf-idf score": 0.9359938586599532,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            ", I want to receive updates from partners and sponsors. UnitedHealth Group, the largest   provider in the U S said that next year it will pull out of Affordable Care Act marketplaces in most of the 34 states where it now operates.",
+            "The Hill relates Obama Administration efforts to spin the UnitedHealth disaster by arguing that despite its status as the nation's largest insurance provider, and its expansion to 34 states, it was a \"fairly small player on the ObamaCare marketplaces. \"",
+            "News that the UnitedHealth, a major insurer, is cutting back its involvement in Affordable Care Act exchanges isn't great news for the Obama administration. But it's not the      fever dream that conservatives are making it out to be."
+        ],
+        "tf-idf score": [
+            0.9603967026602963,
+            0.9359938586599532,
+            0.768713135844303
+        ]
+    },
+    "0.23521339773027114-3-107": {
+        "average clique similarity": 0.23521339773027114,
+        "clique": [
+            "2-The number of issuer",
+            "4-UnitedHealth evident",
+            "0-They also cannot bal"
+        ],
+        "median tf-idf score": 0.8530777073312682,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The number of issuers per state has grown  \" Health and Human Services spokesman Ben Wakana said in a statement released Monday morning. \"The Marketplace should be judged by the choices it offers consumers, not the decisions of any one issuer\".",
+            "UnitedHealth evidently didn't want to stay in the game for another year to see how that new adventure in   worked out. The Department of Health and Human Services released a statement yesterday declaring its \"full confidence\" that the ObamaCare marketplaces \"will continue to thrive for years ahead. \"",
+            "They also cannot balance the high cost of very sick patients with the low expense of more healthy customers. The number of insurance carriers for every state has increased every year, Ben Wakana, a spokesman for the Health and Human Services Department, which oversees the exchanges, said in a statement."
+        ],
+        "tf-idf score": [
+            0.8485037039207929,
+            0.8530777073312682,
+            1.0343846233361145
+        ]
+    },
+    "0.2438635807816688-3-26": {
+        "average clique similarity": 0.2438635807816688,
+        "clique": [
+            "3-For one  while Unite",
+            "2-     This story has ",
+            "0-The UnitedHealth Gro"
+        ],
+        "median tf-idf score": 1.2492443088479415,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "For one, while UnitedHealth is indeed the nation's largest insurer, it is a relatively small player on the individual exchanges, according to Cynthia Cox,  the associate director for the Program for the Study of Health Reform and Private Insurance at the Kaiser Family Foundation, which released a report Monday examining the consequences if UnitedHealth withdrew from the marketplaces entirely.",
+            "     This story has been updated. UnitedHealth Group, the nation's largest health insurer, said Tuesday that in 2017 it will exit most of the 34 states where it offers plans on the Affordable Care Act insurance exchanges.",
+            "The UnitedHealth Group, one of the nation's largest health insurers, told investors on Tuesday that it continued to lose hundreds of millions of dollars selling individual policies under the federal health care law."
+        ],
+        "tf-idf score": [
+            1.2492443088479415,
+            1.3066630132434263,
+            0.8699796102673518
+        ]
+    },
+    "0.2705144029888984-3-135": {
+        "average clique similarity": 0.2705144029888984,
+        "clique": [
+            "2-UnitedHealth reporte",
+            "1-UnitedHealth said it",
+            "4-The announcement cam"
+        ],
+        "median tf-idf score": 0.7609583535629029,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Breitbart"
+        ],
+        "sentences": [
+            "UnitedHealth reported that it expects to lose $650 million in the exchanges in 2016.",
+            "UnitedHealth said it expects to lose $650 million in the exchanges this year. In the past week, it said it'd leave marketplaces in Arkansa, Michigan, and much of Georgia.",
+            "The announcement came after UnitedHealth revised its projection for 2016 to $650 million in losses, up from a previous estimate of $525 million, after ending 2015 some $475 million in the red. As the AP tells it, UnitedHealth had \"second thoughts\" almost immediately after announcing it would expand participation from four state exchanges to 34."
+        ],
+        "tf-idf score": [
+            0.4936613538179439,
+            0.9127377473340037,
+            0.7609583535629029
+        ]
+    },
+    "0.2777210068807317-3-48": {
+        "average clique similarity": 0.2777210068807317,
+        "clique": [
+            "2-The true impact of U",
+            "0- This is still a new",
+            "1-The Kaiser report sa"
+        ],
+        "median tf-idf score": 0.8281277845001302,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The true impact of UnitedHealth's departure will vary by location, according to a new report by the Kaiser Family Foundation. That analysis found that, if United were to drop out of all the states, 1.",
+            "\"This is still a new market, and both entrants and exits come with the territory,\" Cynthia Cox, one of the authors of a recent analysis from the Kaiser Family Foundation, said of the impact if UnitedHealth were to leave all of its markets.",
+            "The Kaiser report said that if UnitedHealth were to withdraw from all state marketplaces, the effect would vary in each state, and even by county. It would mean that 532 counties would drop from three insurers, down to two."
+        ],
+        "tf-idf score": [
+            0.758413089189891,
+            0.8281277845001302,
+            0.9757088862343961
+        ]
+    }
+}

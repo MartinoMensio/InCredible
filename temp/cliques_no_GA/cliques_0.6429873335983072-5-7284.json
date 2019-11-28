@@ -1,0 +1,370 @@
+{
+    "0.15181170281344578-3-236": {
+        "average clique similarity": 0.15181170281344578,
+        "clique": [
+            "1-He spoke highly of r",
+            "3-He said he was a  di",
+            "4- He was begging for "
+        ],
+        "median tf-idf score": 0.598290959040901,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "He spoke highly of retired Marine General James Mattis, who transition officials said was a strong contender for defense secretary.",
+            "He said he was a \u201ddisaster as a candidate\u201d who \u201dchoked like a dog\u201d and said he had a lot of friends    but Romney wasn\u2019t one of them.",
+            "\u201dHe was begging for my endorsement,\u201d Trump said."
+        ],
+        "tf-idf score": [
+            0.4689101407523534,
+            0.598290959040901,
+            0.6250172746115508
+        ]
+    },
+    "0.1790219645609298-3-163": {
+        "average clique similarity": 0.1790219645609298,
+        "clique": [
+            "1-On Sunday  Trump is ",
+            "2-      Trump reported",
+            "3-On Sunday night  a T"
+        ],
+        "median tf-idf score": 0.9240017376558161,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "On Sunday, Trump is to sit down with Wilbur Ross, a potential commerce secretary who made billions by investing in bankrupt companies and distressed assets, and business executive David McCormick, head of investment firm Bridgewater Associates, as well as New Jersey Governor Chris Christie, who was recently demoted in his role on Trump\u2019s transition team.",
+            "\u201d \u201d   Trump reportedly floated South Carolina governor Nikki Haley\u2019s   name as a potential secretary of state as well.",
+            "On Sunday night, a Trump transition source said the selection of Romney as secretary of state is \u201dpossible\u201d."
+        ],
+        "tf-idf score": [
+            0.9240017376558161,
+            0.6793263969761965,
+            1.0504965945505054
+        ]
+    },
+    "0.19622494364155005-3-47": {
+        "average clique similarity": 0.19622494364155005,
+        "clique": [
+            "4-In turn  Trump was u",
+            "0-Though Trump had end",
+            "1-Trump had denounced "
+        ],
+        "median tf-idf score": 0.8674881358969558,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "In turn, Trump was unsparing in his criticism of Romney calling him a \u201dfailed candidate,\u201d and a \u201dchoke artist\u201d.",
+            "Though Trump had endorsed Romney in 2012, this year he repeatedly mocked Romney\u2019s campaign performance against President Obama, calling him \u201cthe biggest loser\u201d and \u201cweak.",
+            "Trump had denounced Romney as a \u201dchoke artist\u201d for losing the 2012 election to President Barack Obama."
+        ],
+        "tf-idf score": [
+            0.8674881358969558,
+            0.9256394130563962,
+            0.8004766667758489
+        ]
+    },
+    "0.1991874537985466-3-267": {
+        "average clique similarity": 0.1991874537985466,
+        "clique": [
+            "0-Romney did not say w",
+            "4-NBC News reports tha",
+            "1-A Romney confidant s"
+        ],
+        "median tf-idf score": 0.6255031221551584,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Romney did not say whether the secretary of state job was discussed.",
+            "NBC News reports that Trump is considering Romney for secretary of state.",
+            "A Romney confidant said of Romney\u2019s secretary of state prospects: \u201dCould it happen?"
+        ],
+        "tf-idf score": [
+            0.6255031221551584,
+            0.876965900725173,
+            0.5955025810822181
+        ]
+    },
+    "0.2017884525572697-3-71": {
+        "average clique similarity": 0.2017884525572697,
+        "clique": [
+            "4-If Romney were to pl",
+            "3-After the meeting  R",
+            "2-      There has been"
+        ],
+        "median tf-idf score": 0.974179914192557,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "If Romney were to play a role in the Trump Administration, it would come as a surprise to many: Romney has been an outspoken opponent of Trump all year long, suggesting that Trump held racist views and lacked the temperament for the presidency.",
+            "After the meeting, Romney offered no hint as to whether he was offered or would accept a role in Trump\u2019s administration.",
+            "\u2019 \u201d   There has been much speculation over whether Romney would take on   the role of secretary of state in Trump\u2019s administration, though   Romney refused to say anything on the topic when asked by   reporters."
+        ],
+        "tf-idf score": [
+            0.974179914192557,
+            0.9342503264500097,
+            1.0840208725345886
+        ]
+    },
+    "0.21572861861675566-4-107": {
+        "average clique similarity": 0.21572861861675566,
+        "clique": [
+            "0-Trump and Romney  a ",
+            "4-The   met 2012 GOP p",
+            "1-   Donald Trump and ",
+            "2-         Former Mass"
+        ],
+        "median tf-idf score": 1.1106815898145759,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Trump and Romney, a former GOP presidential nominee, met at Trump\u2019s golf club in Bedminster, N J Romney was one of Trump\u2019s most outspoken Republican critics during the 2016 primary season.",
+            "The   met 2012 GOP presidential nominee Mitt Romney in Bedminster, N J on Saturday, and after the meeting the two emerged with signals it had gone well.",
+            "   Donald Trump and 2012 Republican presidential nominee Mitt Romney set aside a fierce rivalry on Saturday and held talks likely to feed speculation that Romney could be in line to be the next U S secretary of state.",
+            "\u2019  \u2019 \u201d   Former Massachusetts Governor Mitt Romney met Donald Trump at   Trump\u2019s golf course in New Jersey on Saturday afternoon, though   neither man said anything definitive about Romney joining Trump\u2019s   administration."
+        ],
+        "tf-idf score": [
+            1.099680292479332,
+            0.5853992157354366,
+            1.1216828871498195,
+            1.1985051177938346
+        ]
+    },
+    "0.22249802857941478-3-257": {
+        "average clique similarity": 0.22249802857941478,
+        "clique": [
+            "0-And I appreciate the",
+            "2-      Romney said th",
+            "3-Trump s temperament "
+        ],
+        "median tf-idf score": 0.6438696639205144,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "And I appreciate the chance to speak with the   and look forward to the coming administration and the things it\u2019s going to be doing\u201d.",
+            "\u2019 \u2019   Romney said that their discussion was \u201dthorough and \u201d   and that he \u201dappreciates the chance to speak with the    \u201d.",
+            "Trump\u2019s temperament and a campaign in which opponents said he was unfit to control the nuclear codes also alarmed foreign policy elites and governments abroad    so the thought of someone as sober and   as Romney beside Trump in the Situation Room would calm some nerves."
+        ],
+        "tf-idf score": [
+            0.2286748223655578,
+            0.6438696639205144,
+            1.1186567993906567
+        ]
+    },
+    "0.2333215013030793-3-186": {
+        "average clique similarity": 0.2333215013030793,
+        "clique": [
+            "1-Romney  who was a le",
+            "3-After all  Romney wa",
+            "4- He s playing the Am"
+        ],
+        "median tf-idf score": 1.1442234157559752,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Romney, who was a leader of the establishment Republican \u201dnever Trump\u201d movement that tried to block Trump from becoming the nominee, was first in a long list of people Trump was meeting with on Saturday and Sunday as he seeks to fill out his Cabinet and gather advice ahead of his Jan. 20 move to the White House.",
+            "After all, Romney warned Trump was a \u201dphony,\u201d a \u201dfraud\u201d who was playing the American public for \u201dsuckers\u201d and once said he wanted to be able to look his grandchildren in the eye and say he took a stand against the GOP nominee.",
+            "\u201dHe\u2019s playing the American public for suckers: He gets a free ride to the White House and all we get is a lousy hat\u201d."
+        ],
+        "tf-idf score": [
+            1.1650813547394516,
+            1.1442234157559752,
+            0.12068788689696516
+        ]
+    },
+    "0.23483567045057285-3-9": {
+        "average clique similarity": 0.23483567045057285,
+        "clique": [
+            "1-Trump has been consi",
+            "2-      Rudy Giuliani ",
+            "3-Romney could be reli"
+        ],
+        "median tf-idf score": 1.0266287217152734,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "Trump has been considering former New York Mayor Rudy Giuliani, a close adviser, for secretary of state, as well as former U S ambassador to the United Nations John Bolton and Senator Bob Corker of Tennessee.",
+            "\u2019 \u201d   Rudy Giuliani, the former mayor of New York and a     Trump surrogate, was reportedly considered for secretary of   state, though he seems to have fallen out of Trump\u2019s favor in   recent days, according to a detailed profile of the Trump   transition effort from the The Times.",
+            "Romney could be relief to US allies, For sure, a Romney appointment would come as a great relief to US allies who are deeply anxious about the direction of Trump\u2019s foreign policy, and who see alternative names floated for secretary of state such as Rudy Giuliani and John Bolton with much greater apprehension."
+        ],
+        "tf-idf score": [
+            0.8785299345756498,
+            1.0266287217152734,
+            1.1083749402466294
+        ]
+    },
+    "0.2779217334817114-3-166": {
+        "average clique similarity": 0.2779217334817114,
+        "clique": [
+            "4-So far  most of Trum",
+            "1-Romney  a more mains",
+            "3-Even if the two men "
+        ],
+        "median tf-idf score": 0.7697125139436585,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "So far, most of Trump\u2019s other picks for key jobs have been Trump loyalists, including Priebus as the incoming chief of staff, Alabama Sen. Jeff Sessions as attorney general and retired Army Lieutenant Gen. Michael Flynn as national security adviser.",
+            "Romney, a more mainstream Republican, would serve alongside more hawkish Trump appointees named on Friday: Senator Jeff Sessions of Alabama as attorney general, retired Lieutenant General Michael Flynn as national security adviser and Representative Mike Pompeo as CIA director.",
+            "Even if the two men put personal animosity aside, the starchy Romney would be an incongruous figure in a team that includes firebrands such as new White House adviser Stephen Bannon and the next national security adviser Michael Flynn."
+        ],
+        "tf-idf score": [
+            0.7697125139436585,
+            1.0765513824908313,
+            0.5916322707591876
+        ]
+    },
+    "0.306303780487244-4-25": {
+        "average clique similarity": 0.306303780487244,
+        "clique": [
+            "2-      Trump echoed R",
+            "4-Trump cupped his han",
+            "1-Earlier  Trump and R",
+            "0-Trump said after the"
+        ],
+        "median tf-idf score": 0.7274057766109916,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u2019 \u2019   Trump echoed Romney, yelling to reporters that the conversation   \u201dwent great\u201d.",
+            "Trump cupped his hands around his mouth and told the press \u201dit went great\u201d.",
+            "Earlier, Trump and Romney emerged from their meeting after an hour and 20 minutes, and Trump told reporters their talks \u201dwent great\u201d.",
+            "Trump said after the meeting: \u201dIt went great\u201d."
+        ],
+        "tf-idf score": [
+            0.8276166354930797,
+            0.5000319289028813,
+            0.9169981866581528,
+            0.6271949177289033
+        ]
+    },
+    "0.3938006163972605-3-93": {
+        "average clique similarity": 0.3938006163972605,
+        "clique": [
+            "0- We had a   conversa",
+            "4- We had a far reachi",
+            "2-       We had a far "
+        ],
+        "median tf-idf score": 0.8774067484170242,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dWe had a   conversation with regards to the various theaters of the world of interest to the United States, of real significance,\u201d Romney, a successful businessman and former Massachusetts governor, said after the roughly   meeting.",
+            "\u201dWe had a far reaching conversation with regards to the various theaters in the world where there are interests of the United States of real significance,\u201d Romney told the press assembled outside Trump\u2019s golf course.",
+            "\u201d \u2019   \u201dWe had a far reaching conversation,\u201d Romney told reporters after   the     long meeting."
+        ],
+        "tf-idf score": [
+            0.8774067484170242,
+            1.0931694472374307,
+            0.51899137910286
+        ]
+    },
+    "0.4339871023849591-3-95": {
+        "average clique similarity": 0.4339871023849591,
+        "clique": [
+            "1- We discussed those ",
+            "0- We discussed those ",
+            "4-As a former governor"
+        ],
+        "median tf-idf score": 0.6496151417816268,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201dWe discussed those areas, and exchanged our views on those topics  \u2014   a very thorough and   discussion in the time we had,\u201d Romney said.",
+            "\u201dWe discussed those areas and exchanged our views on those topics    a very thorough and   discussion in the time we had.",
+            "As a former governor of Massachusetts and private equity CEO, Romney doesn\u2019t have much foreign policy experience, but his presidential run offers insight into his views on international affairs and where those might clash with Trump\u2019s."
+        ],
+        "tf-idf score": [
+            0.6496151417816268,
+            0.22316096494790227,
+            0.9745277891883879
+        ]
+    },
+    "0.5237646182591321-3-267": {
+        "average clique similarity": 0.5237646182591321,
+        "clique": [
+            "3- We had a   conversa",
+            "2-Romney said that the",
+            "1-Romney said the pair"
+        ],
+        "median tf-idf score": 0.5641770060138587,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201dWe had a   conversation with regard to the various theaters in the world where there are interests of the United States of real significance.",
+            "Romney said that the two men   discussed the \u201dvarious theaters\u201d of the world where the US   has interests of \u201dreal significance\u201d.",
+            "Romney said the pair \u201dhad a   conversation with regards to the various theaters in the world\u201d."
+        ],
+        "tf-idf score": [
+            0.2813358287331135,
+            0.6527925431598138,
+            0.5641770060138587
+        ]
+    },
+    "0.5676811427481341-3-267": {
+        "average clique similarity": 0.5676811427481341,
+        "clique": [
+            "3-Trump has meanwhile ",
+            "4-And I appreciate the",
+            "1- And I appreciate th"
+        ],
+        "median tf-idf score": 0.2286748223655578,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Trump has meanwhile warmly praised the leadership of Putin and promised to ease rocky relations with the Kremlin.",
+            "And I appreciate the chance to speak with the   and I look forward to the coming administration and the things that it\u2019s going to be doing\u201d.",
+            "\u201dAnd I appreciate the chance to speak with the   and I look forward to the coming administration and the things that it\u2019s going to be doing\u201d."
+        ],
+        "tf-idf score": [
+            0.47537970098332344,
+            0.2286748223655578,
+            0.2286748223655578
+        ]
+    }
+}

@@ -1,0 +1,746 @@
+{
+    "0.14723853865443573-3-210": {
+        "average clique similarity": 0.14723853865443573,
+        "clique": [
+            "2-Officials said the w",
+            "0-No president has eve",
+            "4- The White House say"
+        ],
+        "median tf-idf score": 0.39805747814993553,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Officials said the withdrawals under Section   of the 1953 act used by presidents dating to Dwight Eisenhower cannot be undone by an incoming president.",
+            "No president has ever tried to reverse a permanent withdrawal made under section 12( a).",
+            "\u201dThe White House says the president is acting within his authority, that Presidents of both parties have done this in the past, and trying to reverse such an order would be unprecedented if Trump tried to do this,\u201d Jeff said on All Things Considered."
+        ],
+        "tf-idf score": [
+            0.39805747814993553,
+            0.32437188297797787,
+            0.6765379712840792
+        ]
+    },
+    "0.15827465425178788-3-116": {
+        "average clique similarity": 0.15827465425178788,
+        "clique": [
+            "0-Current low oil pric",
+            "1-A number of companie",
+            "2-In addition to a   m"
+        ],
+        "median tf-idf score": 0.6174846075452224,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Current low oil prices have scared away companies like Shell from engaging in costly and risky oil exploration in the Arctic.",
+            "A number of companies including Chevron Corp, ConocoPhillips  and Imperial Oil hold exploration licenses, but all three have put their drilling plans on hold, partly because of weak global oil prices.",
+            "In addition to a   moratorium already in place in the Atlantic, removing the canyons from drilling puts much of the eastern seaboard off limits to oil exploration even if companies develop plans to operate around them."
+        ],
+        "tf-idf score": [
+            0.6174846075452224,
+            0.5797977124790302,
+            0.6872698292187033
+        ]
+    },
+    "0.16507957813838744-3-257": {
+        "average clique similarity": 0.16507957813838744,
+        "clique": [
+            "3-Obama used a 1953 la",
+            "0-Companies have long ",
+            "1-Under that law  a pr"
+        ],
+        "median tf-idf score": 0.5344446961730043,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Obama used a 1953 law that allows presidents to block the sale of new offshore drilling and mining rights and makes it difficult for their successors to reverse the decision.",
+            "Companies have long been drilling in the Gulf of Mexico OCS)    Now, the striking thing about this 1953 law is that it doesn\u2019t say a future president can undo a permanent withdrawal like this.",
+            "Under that law, a president is not authorized to \u201dundo\u201d a previous withdrawal, making it more difficult for Trump to target without a lawsuit."
+        ],
+        "tf-idf score": [
+            0.7529319904562192,
+            0.5344446961730043,
+            0.35318470276682695
+        ]
+    },
+    "0.1697484079398608-3-255": {
+        "average clique similarity": 0.1697484079398608,
+        "clique": [
+            "3-  In 2015  just 0 ",
+            "2-Shell  which said in",
+            "1-Shell Oil ended its "
+        ],
+        "median tf-idf score": 0.7955939819931432,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d In 2015, just 0.",
+            "Shell, which said in September 2015 that it would shelve drilling plans after spending $7 billion and not finding significant amounts of oil, still has one remaining lease in the Chukchi Sea where it drilled a well earlier last year.",
+            "Shell Oil ended its quest to explore in harsh Arctic waters in 2015, after a vessel it was using suffered a gash and environmentalists uncovered a law that limited its drilling."
+        ],
+        "tf-idf score": [
+            0.022045033006941255,
+            0.8114661865930354,
+            0.7955939819931432
+        ]
+    },
+    "0.18934869310364752-3-201": {
+        "average clique similarity": 0.18934869310364752,
+        "clique": [
+            "2-  Rhea Suh  presiden",
+            "1-The law under which ",
+            "0-As a brief from two "
+        ],
+        "median tf-idf score": 0.694680226356245,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201d Rhea Suh, president of the Natural Resources Defense Council, called it \u201ca historic victory in our fight to save our Arctic and Atlantic waters, marine life, coastal communities and all they support.",
+            "The law under which Obama is acting enables a president to withdraw certain areas from leasing or drilling \u201dfor any public purpose,\u201d such as to limit the impacts of climate change, according to a legal briefing by the Natural Resources Defense Council and Earth Justice.",
+            "As a brief from two environmental groups, the Natural Resources Defense Council and EarthJustice, explains, this strongly implies that only Congress can put these areas back into consideration for oil and gas leasing."
+        ],
+        "tf-idf score": [
+            0.694680226356245,
+            0.8918199464667638,
+            0.6807259174600261
+        ]
+    },
+    "0.1909072970712751-3-234": {
+        "average clique similarity": 0.1909072970712751,
+        "clique": [
+            "0-But he later reverse",
+            "2-An earlier plan to a",
+            "4-  Earlier this year "
+        ],
+        "median tf-idf score": 0.6564174350464604,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "But he later reversed course after coastal communities in places like Virginia and North Carolina began fretting about the potential effects of oil spills on tourism there:            So how did he pull this off?",
+            "An earlier plan to allow limited drilling off the Atlantic coast was shelved after state governments along the southern Atlantic coasts  \u2014   including Virginia, North Carolina, South Carolina and Georgia  \u2014   expressed worries over the effect on their beaches, tourist industry and environmentally sensitive marsh.",
+            "\u201d Earlier this year, the Obama administration reversed course on a plan that would have allowed Atlantic offshore drilling after uproar from local communities and environmentalists."
+        ],
+        "tf-idf score": [
+            0.4899197816660738,
+            0.6564174350464604,
+            0.6815017249298916
+        ]
+    },
+    "0.19919094254743827-3-211": {
+        "average clique similarity": 0.19919094254743827,
+        "clique": [
+            "2-   A legal fight wou",
+            "0-Along the Atlantic  ",
+            "1-On the U S Atlantic "
+        ],
+        "median tf-idf score": 0.3408706915663292,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201d  A legal fight would likely follow, Rivkin said.",
+            "Along the Atlantic, meanwhile, state governments are often opposed to drilling and would likely have a say in the issue.",
+            "On the U S Atlantic coast, local groups have opposed offshore drilling and would fight the Trump administration\u2019s attempts to open it up."
+        ],
+        "tf-idf score": [
+            0.1860560396558134,
+            0.3408706915663292,
+            0.6082919537543263
+        ]
+    },
+    "0.20039315520624398-3-192": {
+        "average clique similarity": 0.20039315520624398,
+        "clique": [
+            "3-Barack Obama has per",
+            "0-But Trump has vowed ",
+            "1-Trump  who succeeds "
+        ],
+        "median tf-idf score": 1.0240647244754097,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "Barack Obama has permanently banned new oil and gas drilling in most   waters in the Arctic and Atlantic oceans, a   effort to lock in environmental protections before he hands over to Donald Trump.",
+            "But Trump has vowed to open up new federal lands to oil and gas drilling as president, and the oil industry is already encouraging him to challenge this move by Obama.",
+            "Trump, who succeeds Obama on Jan. 20, has said he would expand offshore oil and gas drilling."
+        ],
+        "tf-idf score": [
+            1.2729673354338393,
+            1.0240647244754097,
+            0.8976947086535936
+        ]
+    },
+    "0.20949593872377673-3-288": {
+        "average clique similarity": 0.20949593872377673,
+        "clique": [
+            "1-A recent memo from h",
+            "2-Obama used a   law c",
+            "4-It provides the same"
+        ],
+        "median tf-idf score": 0.5221414770514172,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "A recent memo from his energy transition team said his policy could increase production in the Chukchi and Beaufort Seas, as well as the   and south Atlantic.",
+            "Obama used a   law called the Outer Continental Shelf Lands Act to protect large portions of the Chukchi and Beaufort seas in the Arctic and a string of canyons in the Atlantic stretching from Massachusetts to Virginia.",
+            "It provides the same protections to much of the Arctic\u2019s waters, covering the \u201dvast majority of U S waters in the Chukchi and Beaufort Seas,\u201d totaling 115 million acres."
+        ],
+        "tf-idf score": [
+            0.5158286494957842,
+            0.899776616109557,
+            0.5221414770514172
+        ]
+    },
+    "0.21721441347671264-3-129": {
+        "average clique similarity": 0.21721441347671264,
+        "clique": [
+            "1-The ban affects 115 ",
+            "0-The White House plac",
+            "2-The president has pr"
+        ],
+        "median tf-idf score": 0.5807336598882527,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "The ban affects 115 million acres (46.",
+            "The White House placed 115 million acres of federal waters north of Alaska, in the Chukchi and Beaufort seas, off limits to future oil and gas exploration.",
+            "The president has protected 125 million acres in the region in the last two years, according to a fact sheet issued by the White House."
+        ],
+        "tf-idf score": [
+            0.13899326268270076,
+            0.932534555315996,
+            0.5807336598882527
+        ]
+    },
+    "0.23721235071316746-3-161": {
+        "average clique similarity": 0.23721235071316746,
+        "clique": [
+            "0-So is the Arctic Slo",
+            "3-Exploratory drilling",
+            "2-The area is so sensi"
+        ],
+        "median tf-idf score": 0.3268116862460266,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "So is the Arctic Slope Regional Council, which has 11, 000 Alaska Native shareholders and is broadly in favor of drilling; its response is here.",
+            "Exploratory drilling in the Arctic is costly and risky.",
+            "The area is so sensitive and so remote that the economics of exploration is costly."
+        ],
+        "tf-idf score": [
+            0.4815299881533502,
+            0.3268116862460266,
+            0.17659921812038895
+        ]
+    },
+    "0.25270061934531407-3-288": {
+        "average clique similarity": 0.25270061934531407,
+        "clique": [
+            "0- There is no such th",
+            "2-The American Petrole",
+            "1-The American Petrole"
+        ],
+        "median tf-idf score": 0.295245651653806,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cThere is no such thing as a permanent ban,\u201d said Reid Porter of the American Petroleum Institute in a press release.",
+            "The American Petroleum Institute denounced the decision.",
+            "The American Petroleum Institute oil industry group disagreed about the permanence of the ban and said Trump could likely use a presidential memorandum to lift it."
+        ],
+        "tf-idf score": [
+            0.295245651653806,
+            0.12797979189025005,
+            0.6296458307569878
+        ]
+    },
+    "0.25650432720893984-3-288": {
+        "average clique similarity": 0.25650432720893984,
+        "clique": [
+            "2-White House official",
+            "0-8 million acres in t",
+            "4-Obama s action desig"
+        ],
+        "median tf-idf score": 0.7509759209172494,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "White House officials described their actions to make the areas off limits to future oil and gas exploration and drilling as indefinite.",
+            "8 million acres in the north Atlantic Ocean off limits \u201cindefinitely\u201d to future oil and gas leasing.",
+            "Obama\u2019s action designates 31 Atlantic canyons \u201doff limits to oil and gas exploration and development activity,\u201d totaling 3."
+        ],
+        "tf-idf score": [
+            0.8453296343310912,
+            0.7265329335583678,
+            0.7509759209172494
+        ]
+    },
+    "0.2783900315652717-3-288": {
+        "average clique similarity": 0.2783900315652717,
+        "clique": [
+            "4-But as NPR s Jeff Br",
+            "2- We are hopeful the ",
+            "1-Environmental groups"
+        ],
+        "median tf-idf score": 0.424353608403466,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "But as NPR\u2019s Jeff Brady and Jennifer Ludden report, major questions remain about what will happen if the incoming Trump administration attempts to reverse this action.",
+            "\u201cWe are hopeful the incoming administration will reverse this decision as the nation continues to need a robust strategy for developing offshore and onshore energy,\u201d he said.",
+            "Environmental groups said that meant Trump\u2019s incoming administration would have to go court if it sought to reverse the move."
+        ],
+        "tf-idf score": [
+            0.4158598317231064,
+            0.5623536931808626,
+            0.424353608403466
+        ]
+    },
+    "0.28923229895511343-4-90": {
+        "average clique similarity": 0.28923229895511343,
+        "clique": [
+            "1-JOINT ACTION WITH CA",
+            "3-Tuesday s move came ",
+            "0-This move was done i",
+            "2-The announcement by "
+        ],
+        "median tf-idf score": 0.7027064790405031,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "JOINT ACTION WITH CANADA The White House and Canadian Prime Minister Justin Trudeau jointly announced their move to launch \u201dactions ensuring a strong, sustainable and viable Arctic economy and ecosystem\u201d.",
+            "Tuesday\u2019s move came in a joint announcement by Obama and the Canadian prime minister, Justin Trudeau, who also put a moratorium on new oil and gas leasing in its Arctic waters, subject to periodic review.",
+            "This move was done in conjunction with Prime Minister Justin Trudeau\u2019s government in Canada, which placed some of its own waters off limits to   exploration, though that Canadian ban will be reviewed every five years.",
+            "The announcement by the White House late in the afternoon was coordinated with similar steps being taken by Canadian Prime Minister Justin Trudeau to shield large areas of that nation\u2019s Arctic waters from drilling."
+        ],
+        "tf-idf score": [
+            0.6008041261709393,
+            0.9896329826540587,
+            0.47351495635870794,
+            0.8046088319100668
+        ]
+    },
+    "0.2981578655995426-3-7": {
+        "average clique similarity": 0.2981578655995426,
+        "clique": [
+            "0-In 2015  just 0 ",
+            "2-  Carter Roberts  pr",
+            "1- SMART BUSINESS DECI"
+        ],
+        "median tf-idf score": 0.11022710932136513,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "In 2015, just 0.",
+            "\u201d Carter Roberts, president and chief executive of the World Wildlife Fund, applauded what he called \u201ca bold decision\u201d that \u201csignals some places are just too important not to protect.",
+            "\u2019SMART BUSINESS DECISION\u2019 In 2015, just 0."
+        ],
+        "tf-idf score": [
+            0.022045033006941255,
+            0.3424462836975687,
+            0.11022710932136513
+        ]
+    },
+    "0.30157230437345584-3-12": {
+        "average clique similarity": 0.30157230437345584,
+        "clique": [
+            "4- So if there s a leg",
+            "0-What s interesting h",
+            "2-It is not clear if a"
+        ],
+        "median tf-idf score": 0.24750542269391274,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dSo if there\u2019s a legal challenge, and I\u2019m not going to be surprised if there is one, it\u2019s really not clear what a court would decide\u201d.",
+            "What\u2019s interesting here is that while Obama can legally put these areas off limits by executive order, it\u2019s not at all clear that Trump can unilaterally reverse this move, at least not without Congress passing a   bill.",
+            "It is not clear if a   Congress can rescind Obama\u2019s action."
+        ],
+        "tf-idf score": [
+            0.14260284778284713,
+            0.48368261272959806,
+            0.24750542269391274
+        ]
+    },
+    "0.3029084153898678-4-202": {
+        "average clique similarity": 0.3029084153898678,
+        "clique": [
+            "0- On Tuesday  Preside",
+            "4-President Obama has ",
+            "1- U S President Barac",
+            "2-     President Obama"
+        ],
+        "median tf-idf score": 1.3196222580517707,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            " On Tuesday, President Obama announced that he was putting hundreds of millions of acres of federally owned waters in the Arctic and Atlantic Ocean off limits \u201cindefinitely\u201d to future oil and gas drilling.",
+            "President Obama has indefinitely blocked offshore drilling in areas of the Atlantic Ocean and in Arctic waters, a move aimed at advancing environmental protection during his final days in office.",
+            " U S President Barack Obama on Tuesday banned new oil and gas drilling in federal waters in the Atlantic and Arctic Oceans, in a push to leave his stamp on the environment before Republican Donald Trump takes office next month.",
+            "     President Obama moved to solidify his environmental legacy Tuesday by withdrawing hundreds of millions of acres of federally owned land in the Arctic and Atlantic Ocean from new offshore oil and gas drilling."
+        ],
+        "tf-idf score": [
+            1.3219290213977881,
+            1.1145210093136109,
+            1.346450869814167,
+            1.3173154947057533
+        ]
+    },
+    "0.312072964607492-3-141": {
+        "average clique similarity": 0.312072964607492,
+        "clique": [
+            "2- There is no authori",
+            "4-There is no legal pr",
+            "1-There is currently n"
+        ],
+        "median tf-idf score": 0.139122561371978,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cThere is no authority for subsequent presidents to  .",
+            "There is no legal precedent for reversal, Jeff reports.",
+            "There is currently no crude oil production in the Canadian Arctic."
+        ],
+        "tf-idf score": [
+            0.139122561371978,
+            0.1121451575289718,
+            0.4857995257915052
+        ]
+    },
+    "0.31249598366894343-4-36": {
+        "average clique similarity": 0.31249598366894343,
+        "clique": [
+            "0- The Outer Continent",
+            "2-President Obama bann",
+            "1-Obama used a   law c",
+            "4-Obama took these act"
+        ],
+        "median tf-idf score": 0.8670090503835984,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "(The Outer Continental Shelf includes the submerged sea floor between the US continent and the deep ocean.",
+            "President Obama banned oil drilling in large areas of the Atlantic and Arctic oceans, using a law called the Outer Continental Shelf Lands Act.",
+            "Obama used a   law called the Outer Continental Shelf Act that allows presidents to limit areas from mineral leasing and drilling.",
+            "Obama took these actions by invoking a law called the Outer Continental Shelf Lands Act, which gives the president the authority to withdraw lands from oil and gas leases."
+        ],
+        "tf-idf score": [
+            0.2502019661335672,
+            1.2379569502860366,
+            0.7955532836974948,
+            0.9384648170697021
+        ]
+    },
+    "0.3755389430923855-3-68": {
+        "average clique similarity": 0.3755389430923855,
+        "clique": [
+            "3-However  Obama s ban",
+            "1-5 million hectares  ",
+            "2-The underwater canyo"
+        ],
+        "median tf-idf score": 0.6961034392550779,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "However, Obama\u2019s ban  \u2014   affecting federal waters off Alaska in the Chukchi Sea and most of the Beaufort Sea and in the Atlantic from New England to the Chesapeake Bay  \u2014   is unprecedented in scale and could be challenged by Trump in court.",
+            "5 million hectares) of federal waters off Alaska in the Chukchi Sea and most of the Beaufort Sea and 3.",
+            "The underwater canyons protected by the president cover nearly 4 million acres across the Atlantic continental shelf break, \u201crunning from Heezen Canyon offshore New England to Norfolk Canyon offshore the Chesapeake Bay,\u201d according to a separate fact sheet."
+        ],
+        "tf-idf score": [
+            0.7775817253858811,
+            0.3380790041340045,
+            0.6961034392550779
+        ]
+    },
+    "0.3985028191125003-4-288": {
+        "average clique similarity": 0.3985028191125003,
+        "clique": [
+            "1-At current oil price",
+            "0-1 percent of U S fed",
+            "2-  Oil production in ",
+            "3-A Department of Inte"
+        ],
+        "median tf-idf score": 0.6473004318256311,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "At current oil prices, significant production in the Arctic will not occur, according to a Department of Interior analysis.",
+            "1 percent of U S federal offshore crude production came from the Arctic and Department of Interior analysis shows that, at current oil prices, significant production in the Arctic will not occur.",
+            "\u201d Oil production in the Arctic represents a tenth of one percent of the nation\u2019s oil production overall, the White House said.",
+            "A Department of Interior analysis shows that, at current oil prices, significant production in the Arctic will not occur."
+        ],
+        "tf-idf score": [
+            0.6108273873195738,
+            0.7763408480022307,
+            0.6837734763316885,
+            0.5870992213998089
+        ]
+    },
+    "0.4092410603688268-3-40": {
+        "average clique similarity": 0.4092410603688268,
+        "clique": [
+            "2-But  it s not clear ",
+            "0-That s why looking f",
+            "3- That s why looking "
+        ],
+        "median tf-idf score": 0.2963175250772102,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But \u201cit\u2019s not clear why Congress would want to give a president tremendous authority operating only one way.",
+            "That\u2019s why looking forward, we must continue to focus on economic empowerment for Arctic communities beyond this one sector.",
+            "\u201cThat\u2019s why looking forward, we must continue to focus on economic empowerment for Arctic communities beyond this one sector,\u201d the statement said."
+        ],
+        "tf-idf score": [
+            0.22316491612150857,
+            0.2963175250772102,
+            0.4386028014695045
+        ]
+    },
+    "0.4190351690846883-3-22": {
+        "average clique similarity": 0.4190351690846883,
+        "clique": [
+            "4- The people of the A",
+            "0- A smaller section o",
+            "3- The people of the A"
+        ],
+        "median tf-idf score": 0.3860337596307687,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dThe people of the Atlantic coast refused to allow their way of life to be compromised and we commend their hard work making their voices heard in Washington\u201d.",
+            "(A smaller section of the Beaufort sea near the coast will continue to be available for future leasing.)",
+            "\u201cThe people of the Atlantic coast refused to allow their way of life to be compromised and we commend their hard work making their voices heard in Washington."
+        ],
+        "tf-idf score": [
+            0.3860337596307687,
+            0.31791275679339226,
+            0.3860337596307687
+        ]
+    },
+    "0.4210187620287566-3-178": {
+        "average clique similarity": 0.4210187620287566,
+        "clique": [
+            "3-  Canada will design",
+            "2-I can t speak to wha",
+            "1-Canada will designat"
+        ],
+        "median tf-idf score": 0.9742440027189683,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d Canada will designate all Arctic Canadian waters as indefinitely off limits to future offshore Arctic oil and gas licensing, to be reviewed every five years through a climate and marine     assessment.",
+            "I can\u2019t speak to what a future Congress will do.",
+            "Canada will designate all Arctic Canadian waters as indefinitely off limits to future offshore Arctic oil and gas licensing, to be reviewed every five years through a climate and marine     assessment."
+        ],
+        "tf-idf score": [
+            0.9742440027189683,
+            0.07748106260791447,
+            0.9742440027189683
+        ]
+    },
+    "0.4492947745514832-3-216": {
+        "average clique similarity": 0.4492947745514832,
+        "clique": [
+            "1- We are hopeful the ",
+            "3-  And Erik Milito  u",
+            "2- The administration "
+        ],
+        "median tf-idf score": 0.6500757724828997,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201dWe are hopeful the incoming administration will reverse this decision as the nation continues to need a robust strategy for developing offshore and onshore energy,\u201d said Erik Milito, API\u2019s upstream director.",
+            "\u201d And Erik Milito, upstream director at the American Petroleum Institute, told Reuters: \u201cWe are hopeful the incoming administration will reverse this decision as the nation continues to need a robust strategy for developing offshore and onshore energy.",
+            "\u201cThe administration\u2019s decision to remove key Arctic and Atlantic offshore areas from future leasing consideration ignores congressional intent, our national security, and vital,   job opportunities for our shipyards, unions, and businesses of all types across the country,\u201d said Erik Milito, the group\u2019s Upstream director."
+        ],
+        "tf-idf score": [
+            0.6463132016045325,
+            0.6500757724828997,
+            1.0149574192926978
+        ]
+    },
+    "0.5147835478579784-3-109": {
+        "average clique similarity": 0.5147835478579784,
+        "clique": [
+            "4- They reflect the sc",
+            "1-Obama said in a stat",
+            "0-In a statement  the "
+        ],
+        "median tf-idf score": 0.9544579762406257,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201dThey reflect the scientific assessment that, even with the high safety standards that both our countries have put in place, the risks of an oil spill in this region are significant and our ability to clean up from a spill in the region\u2019s harsh conditions is limited,\u201d the White House added.",
+            "Obama said in a statement that the joint actions \u201dreflect the scientific assessment that, even with the high safety standards that both our countries have put in place, the risks of an oil spill in this region are significant and our ability to clean up from a spill in the region\u2019s harsh conditions is limited\u201d.",
+            "In a statement, the White House pointed to the need to shift away from fossil fuels in order to address climate change as well as the dangers of an oil spill in an ecologically sensitive Arctic region that would be difficult to clean up (on account of all that ice)."
+        ],
+        "tf-idf score": [
+            0.8077696241075178,
+            1.0500806209389135,
+            0.9544579762406257
+        ]
+    },
+    "0.5973227538737436-4-50": {
+        "average clique similarity": 0.5973227538737436,
+        "clique": [
+            "3- By contrast  it wou",
+            "2- This proposal would",
+            "0-By contrast  it woul",
+            "4- By contrast  it wou"
+        ],
+        "median tf-idf score": 0.8018652535740246,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201cBy contrast, it would take decades to fully develop the production infrastructure necessary for any   oil and gas leasing production in the region  \u2014   at a time when we need to continue to move decisively away from fossil fuels.",
+            "\u201cThis proposal would take us in the wrong direction just as we have become world leader in production and refining of oil and natural gas and in reduction of carbon emissions.",
+            "By contrast, it would take decades to fully develop the production infrastructure necessary for any   oil and gas leasing production in the region  \u2014   at a time when we need to continue to move decisively away from fossil fuels.",
+            "\u201dBy contrast, it would take decades to fully develop the production infrastructure necessary for any   oil and gas leasing production in the region  \u2014   at a time when we need to continue to move decisively away from fossil fuels\u201d."
+        ],
+        "tf-idf score": [
+            0.8018652535740246,
+            0.45254117460090915,
+            0.8018652535740246,
+            0.8018652535740246
+        ]
+    },
+    "0.6382074658556226-3-288": {
+        "average clique similarity": 0.6382074658556226,
+        "clique": [
+            "3-They reflect the sci",
+            "2- They reflect the sc",
+            "0- Shell had been stru"
+        ],
+        "median tf-idf score": 0.6874939361895245,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "They reflect the scientific assessment that, even with the high safety standards that both our countries have put in place, the risks of an oil spill in this region are significant and our ability to clean up from a spill in the region\u2019s harsh conditions is limited.",
+            "\u201cThey reflect the scientific assessment that, even with the high safety standards that both our countries have put in place, the risks of an oil spill in this region are significant and our ability to clean up from a spill in the region\u2019s harsh conditions is limited.",
+            "(Shell had been struggling with the region\u2019s floating ice and harsh weather for years before that.)"
+        ],
+        "tf-idf score": [
+            0.6874939361895245,
+            0.6874939361895245,
+            0.23267469061918877
+        ]
+    },
+    "0.7631526382699337-4-155": {
+        "average clique similarity": 0.7631526382699337,
+        "clique": [
+            "3-Obama  currently on ",
+            "2- These actions  and ",
+            "0-   protect a sensiti",
+            "4- These actions  and "
+        ],
+        "median tf-idf score": 0.5988407149612356,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Obama, currently on holiday in Hawaii and with only a month left in office, said in a statement: \u201cThese actions, and Canada\u2019s parallel actions, protect a sensitive and unique ecosystem that is unlike any other region on earth.",
+            "\u201cThese actions, and Canada\u2019s parallel actions, protect a sensitive and unique ecosystem that is unlike any other region on earth,\u201d the White House said in a statement.",
+            ".. protect a sensitive and unique ecosystem that is unlike any other region on earth.",
+            "\u201dThese actions, and Canada\u2019s parallel actions, protect a sensitive and unique ecosystem that is unlike any other region on earth,\u201d the White House said in a statement."
+        ],
+        "tf-idf score": [
+            0.6958006326635362,
+            0.5988407149612356,
+            0.22342580386420058,
+            0.5988407149612356
+        ]
+    }
+}

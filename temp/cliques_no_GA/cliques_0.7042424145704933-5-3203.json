@@ -1,0 +1,1114 @@
+{
+    "0.15191228315151137-3-46": {
+        "average clique similarity": 0.15191228315151137,
+        "clique": [
+            "4-Sixteen police offic",
+            "3-  The statement from",
+            "2-The   police departm"
+        ],
+        "median tf-idf score": 0.5281165405536031,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Sixteen police officers and numerous protesters were injured as the two sides clashed overnight, hours after Keith Lamont Scott was fatally shot by an officer from the   Police Department.",
+            "\u201d The statement from police comes after a night of unrest in the city where protesters took to the streets, throwing rocks and damaging multiple vehicles.",
+            "The   police department tweeted that demonstrators were destroying marked police vehicles."
+        ],
+        "tf-idf score": [
+            1.2135129892450696,
+            0.5281165405536031,
+            0.3778982932723789
+        ]
+    },
+    "0.16646706578628792-3-114": {
+        "average clique similarity": 0.16646706578628792,
+        "clique": [
+            "3- In the interest of ",
+            "4-Police declined to c",
+            "0-The riot and protest"
+        ],
+        "median tf-idf score": 0.8523627881442968,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cIn the interest of transparency and accountability, and particularly in light of conflicting accounts about the shooting, the   Police Department should quickly release any and all footage it has of the events leading up to the shooting, as well as the shooting itself,\u201d Karen Anderson, executive director of the ACLU of North Carolina, said in a statement.",
+            "Police declined to comment on the make and model of the firearm.",
+            "The riot and protests came on a day in which the city\u2019s police chief gave more details on the shooting that took the life of Keith Lamont Scott."
+        ],
+        "tf-idf score": [
+            0.9714289192579285,
+            0.3006097506172164,
+            0.8523627881442968
+        ]
+    },
+    "0.17578402667860568-3-296": {
+        "average clique similarity": 0.17578402667860568,
+        "clique": [
+            "2-Was she choking ",
+            "1-She said she   heard",
+            "4-She added that Scott"
+        ],
+        "median tf-idf score": 0.43268120345141325,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Was she choking?",
+            "She said she   heard Scott ask the police what he had done wrong, could not hear   their reply, then heard four shots.",
+            "She added that Scott was disabled."
+        ],
+        "tf-idf score": [
+            0.23531278577675144,
+            0.8541742708637495,
+            0.43268120345141325
+        ]
+    },
+    "0.17628423425852602-3-79": {
+        "average clique similarity": 0.17628423425852602,
+        "clique": [
+            "3-Putney and Charlotte",
+            "0-CNN correspondent kn",
+            "1-      Authorities ha"
+        ],
+        "median tf-idf score": 0.7496886216023071,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Putney and Charlotte Mayor Jennifer Roberts said the city is preparing for more protests Wednesday.",
+            "CNN correspondent knocked to ground, A protest in a park was peaceful, the mayor said, and the rioting downtown was from a small group of agitators, the mayor said.",
+            "\u201d \u201d   Authorities have not released any video of the incident, but the   city\u2019s mayor said they planned to."
+        ],
+        "tf-idf score": [
+            0.7690057035223722,
+            0.7496886216023071,
+            0.5029621485511027
+        ]
+    },
+    "0.17837263515251664-3-287": {
+        "average clique similarity": 0.17837263515251664,
+        "clique": [
+            "4-Attorney General Lor",
+            "1-      The latest tro",
+            "0-Mayor Jennifer Rober"
+        ],
+        "median tf-idf score": 0.5460674639813721,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "Attorney General Loretta E Lynch called on protesters to remain peaceful, criticizing the violence that injured law enforcement officers and demonstrators alike.",
+            "\u2019 \u2019   The latest trouble began with a peaceful rally that turned   violent after several hundred demonstrators marched through   downtown with brief stops at a black church, the police   headquarters, and a large entertainment venue called the   EpiCentre.",
+            "Mayor Jennifer Roberts, who spoke by phone with CNN\u2019s Don Lemon, called on demonstrators to heed calls from Scott\u2019s family and the NAACP to remain peaceful."
+        ],
+        "tf-idf score": [
+            0.5460674639813721,
+            0.5645784284052534,
+            0.4607471120154899
+        ]
+    },
+    "0.1954412784539483-3-301": {
+        "average clique similarity": 0.1954412784539483,
+        "clique": [
+            "0-Pat McCrory said the",
+            "2-The Republican nomin",
+            "1-Pat McCrory declared"
+        ],
+        "median tf-idf score": 0.6326128252831453,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Pat McCrory said the state is sending more troopers from the highway patrol to Charlotte.",
+            "The Republican nominee said he was \u201cvery troubled\u201d by the shooting in Tulsa and questioned the officer\u2019s state of mind.",
+            "Pat McCrory declared a state of emergency late Wednesday   night and said he deployed the National Guard to assist local law   enforcement in handling the protests."
+        ],
+        "tf-idf score": [
+            0.46588890716966785,
+            0.9509363225630886,
+            0.6326128252831453
+        ]
+    },
+    "0.205736225063889-3-490": {
+        "average clique similarity": 0.205736225063889,
+        "clique": [
+            "4-  In a statement  No",
+            "0-North Carolina law b",
+            "2-The ACLU noted that "
+        ],
+        "median tf-idf score": 0.22129686450152158,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d In a statement, North Carolina Gov.",
+            "North Carolina law blocks release of police recordings, A person doesn\u2019t have to point a weapon directly at police to prompt deadly force, CNN law enforcement analyst Art Roderick said.",
+            "The ACLU noted that a new North Carolina law restricting release of such footage does not take effect until 1 October."
+        ],
+        "tf-idf score": [
+            0.10364630641271963,
+            0.9107037883795714,
+            0.22129686450152158
+        ]
+    },
+    "0.2074484485583112-3-164": {
+        "average clique similarity": 0.2074484485583112,
+        "clique": [
+            "1-       Hands up ",
+            "4-Police reportedly us",
+            "2-Photos and TV video "
+        ],
+        "median tf-idf score": 0.3868867224606597,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u2019 \u2019   \u201dHands up.",
+            "Police reportedly used flash grenades to break up the crowd and cleared the highway by early Wednesday morning.",
+            "Photos and TV video showed police firing teargas to break up the crowd."
+        ],
+        "tf-idf score": [
+            0.018523731572825924,
+            0.4320898912478505,
+            0.3868867224606597
+        ]
+    },
+    "0.21044036173110106-3-126": {
+        "average clique similarity": 0.21044036173110106,
+        "clique": [
+            "1-Her Republican rival",
+            "4-    CHARLOTTE      T",
+            "3- Charlotte Police Ch"
+        ],
+        "median tf-idf score": 1.5760614242947821,
+        "publications": [
+            "Buzzfeed News",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Her Republican rival, Donald Trump,   questioned what the Tulsa officer was thinking in shooting a man   he said appeared to pose no imminent threat.",
+            "    CHARLOTTE  \u2014   The morning after violent protests erupted over the fatal police shooting of a black man, officials here called for peace while stressing that the man was armed and posing an \u201cimminent deadly threat\u201d when officers shot and killed him Tuesday near the University of North Carolina at Charlotte campus.",
+            " Charlotte Police Chief Kerr Putney said Wednesday that a black man fatally shot by officers Tuesday was armed with a handgun, disputing the man\u2019s family\u2019s claim that he was holding a book at the time of the shooting."
+        ],
+        "tf-idf score": [
+            1.0431932050594486,
+            1.5760614242947821,
+            1.953565619531184
+        ]
+    },
+    "0.21263351189183455-3-420": {
+        "average clique similarity": 0.21263351189183455,
+        "clique": [
+            "4-Activists said the v",
+            "3-  In a rally in Orla",
+            "2-The unrest in Charlo"
+        ],
+        "median tf-idf score": 1.2867395419247722,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Activists said the violent overnight demonstrations stemmed from lingering frustrations over previous police shootings in the city  \u2014   including a deadly encounter in 2013, when Jonathan Ferrell, an unarmed black man, was shot and killed by a white police officer.",
+            "\u201d In a rally in Orlando on Wednesday, presidential candidate Hillary Clinton sent her \u201ccondolences and prayers to the families\u201d of Scott and Terence Crutcher, a black man shot and killed by police officers in Tulsa, Oklahoma, last Friday.",
+            "The unrest in Charlotte came just hours after another demonstration in Tulsa, Oklahoma, over the shooting there of an unarmed black man by police."
+        ],
+        "tf-idf score": [
+            1.5640819616109432,
+            1.2867395419247722,
+            0.7078265818421569
+        ]
+    },
+    "0.22163388541490137-3-91": {
+        "average clique similarity": 0.22163388541490137,
+        "clique": [
+            "0-He was shot by an   ",
+            "1-Scott was shot by a ",
+            "4-He stepped out  posi"
+        ],
+        "median tf-idf score": 1.2203177287082982,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "He was shot by an   officer after refusing repeated demands to put down a gun, which was recovered from the scene, Putney said.",
+            "Scott was shot by a black police   officer after Scott exited the car and disregarded orders to drop   his weapon, Putney said.",
+            "He stepped out, posing a threat to the officers\u201d  \u2014   at which point, Putney said, an officer fired his service weapon, striking    Scott, who was pronounced dead at a nearby hospital."
+        ],
+        "tf-idf score": [
+            1.0428754860079164,
+            1.6262537440113343,
+            1.2203177287082982
+        ]
+    },
+    "0.22367049947671203-3-70": {
+        "average clique similarity": 0.22367049947671203,
+        "clique": [
+            "4-In a widely circulat",
+            "3-  In a Facebook Live",
+            "2-  In a video posted "
+        ],
+        "median tf-idf score": 1.1319787866826472,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "In a widely circulated Facebook Live video, she said Scott was parked and waiting for a school bus to drop off his son when police arrived.",
+            "\u201d In a Facebook Live video posted Tuesday, a woman who identified herself as Scott\u2019s daughter said \u201cthe police just shot my daddy four times for being black,\u201d adding that he was disabled and didn\u2019t have a gun.",
+            "\u201d In a video posted to Facebook Live from the scene, Scott\u2019s daughter Lyric can be heard yelling at investigators on the scene not to plant a weapon in Scott\u2019s car."
+        ],
+        "tf-idf score": [
+            1.1319787866826472,
+            1.4090157794632017,
+            0.4849709865563334
+        ]
+    },
+    "0.2283540288348731-3-416": {
+        "average clique similarity": 0.2283540288348731,
+        "clique": [
+            "0-I find it very hard ",
+            "2-He said the officers",
+            "3-When Scott did not p"
+        ],
+        "median tf-idf score": 1.2442021370652272,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "I find it very hard to believe that he would gun down an innocent man\u201d.",
+            "He said the officers told Scott, who was black, to drop his gun and that he got out of the vehicle a second time still carrying the gun.",
+            "When Scott did not put the gun down, Putney said the man was perceived as a threat and Officer Brentley Vinson, who is also black, fired his gun, striking Scott."
+        ],
+        "tf-idf score": [
+            0.1285887360556168,
+            1.2442021370652272,
+            1.327024631448479
+        ]
+    },
+    "0.22996565965327717-3-84": {
+        "average clique similarity": 0.22996565965327717,
+        "clique": [
+            "0- Keith was a loving ",
+            "3-In a statement  Rake",
+            "4- Adam       A woman "
+        ],
+        "median tf-idf score": 0.8596932929792619,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dKeith was a loving husband, father, brother and friend who will be deeply missed every day,\u201d Rakeyia Scott said.",
+            "In a statement, Rakeyia Scott, his wife, described him as a loving husband, brother, and friend, and asked protesters to gather peacefully.",
+            "(Adam    )  A woman who identified herself as Scott\u2019s daughter said her father was unarmed and reading a book in his car when police shot and killed him."
+        ],
+        "tf-idf score": [
+            0.8596932929792619,
+            0.3671989600321433,
+            1.2817242232354862
+        ]
+    },
+    "0.23168783406857799-3-181": {
+        "average clique similarity": 0.23168783406857799,
+        "clique": [
+            "0-Many rioters and pro",
+            "1-      At that point ",
+            "4-  News reports and p"
+        ],
+        "median tf-idf score": 0.631272769850045,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "Many rioters and protesters dispersed after police fired tear gas before 11 p. m. ET Some apparently turned over trash cans and set the contents on fire.",
+            "\u201d \u2019   At that point, the police unleashed volleys of rubber bullets,   tear gas, and   grenades to disperse the protesters, who   began hurling fireworks and debris at officers outside the hotel.",
+            "\u201d News reports and posts on social media later showed police in riot gear firing tear gas and rubber bullets at the protesters and some people smashing out the windows of police cars."
+        ],
+        "tf-idf score": [
+            0.4099732959250962,
+            0.7166873046408383,
+            0.631272769850045
+        ]
+    },
+    "0.23848852518065122-3-38": {
+        "average clique similarity": 0.23848852518065122,
+        "clique": [
+            "1-      Shelby s lawye",
+            "2-Shelby s attorney ha",
+            "3- He did have a weapo"
+        ],
+        "median tf-idf score": 0.7840659473820606,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u2019 \u201d   Shelby\u2019s lawyer has said she had feared for her life, believing   Crutcher was reaching into his vehicle for a weapon.",
+            "Shelby\u2019s attorney has said Crutcher was not following the officers\u2019 commands and that Shelby was concerned because he kept reaching for his pocket as if he were carrying a weapon.",
+            "\u201cHe did have a weapon when he exited the vehicle,\u201d Putney said."
+        ],
+        "tf-idf score": [
+            0.7840659473820606,
+            1.0133222916797062,
+            0.49229279048193664
+        ]
+    },
+    "0.23948609434003085-3-466": {
+        "average clique similarity": 0.23948609434003085,
+        "clique": [
+            "1-      As they approa",
+            "4-As officers approach",
+            "2-When officers approa"
+        ],
+        "median tf-idf score": 0.8880995663023341,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u2019 \u201d   As they approached downtown Charlotte\u2019s central intersection,   protesters confronted a column of patrol cars and officers lining   the road about a block from the Omni Charlotte Hotel and began to   surround groups of police officers and their vehicles.",
+            "As officers approached, Scott again emerged from the car with the firearm and \u201cposed an imminent deadly threat to the officers who subsequently fired their weapon striking the subject,\u201d police said.",
+            "When officers approached, the man exited the car with the gun again."
+        ],
+        "tf-idf score": [
+            0.8880995663023341,
+            1.20928143207434,
+            0.4456064030300733
+        ]
+    },
+    "0.2563652834106831-3-324": {
+        "average clique similarity": 0.2563652834106831,
+        "clique": [
+            "1-They made a mistake ",
+            "0- They shot my daddy ",
+            "4- My daddy didn t do "
+        ],
+        "median tf-idf score": 0.3699568335313852,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "They made a mistake, and they\u2019\u2019re doing their   best to make sure they cover up that mistake,\u201d she said.",
+            "\u201dThey shot my daddy \u2019cause he\u2019s black,\u201d she said.",
+            "\u201cMy daddy didn\u2019t do nothing; they just pulled up undercover,\u201d she said in the video."
+        ],
+        "tf-idf score": [
+            0.33723602304834494,
+            0.47522393866014534,
+            0.3699568335313852
+        ]
+    },
+    "0.26137754012868486-4-59": {
+        "average clique similarity": 0.26137754012868486,
+        "clique": [
+            "1-             killing",
+            "0- Black Lives Matter ",
+            "2-He said that if  bla",
+            "4-The demonstrations b"
+        ],
+        "median tf-idf score": 0.3416406131730944,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u2019 \u2019  \u2019 \u2019     killings by the police in New York, Chicago, and   Ferguson, Missouri, along with other cities, have sparked more   than two years of largely peaceful protests punctuated by days of   unrest and arson while giving rise to the Black Lives Matter     movement.",
+            "\u2019Black Lives Matter\u2019 cases: What happened after the protests?",
+            "He said that if \u201cblack lives don\u2019t matter, black money shouldn\u2019t matter\u201d.",
+            "The demonstrations began peacefully, with some people chanting \u201cblack lives matter\u201d and \u201chands up, don\u2019t shoot."
+        ],
+        "tf-idf score": [
+            0.712797381586775,
+            0.23699855869555933,
+            0.42800509555340716,
+            0.25527613079278166
+        ]
+    },
+    "0.2656917185288901-4-490": {
+        "average clique similarity": 0.2656917185288901,
+        "clique": [
+            "4-Charlotte Mayor Jenn",
+            "1-      Mayor Jennifer",
+            "0-The officer has been",
+            "2-Charlotte s mayor  J"
+        ],
+        "median tf-idf score": 0.6601882829931947,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Charlotte Mayor Jennifer Roberts said the city will conduct a \u201cfull investigation\u201d into the shooting and promised transparency.",
+            "\u2019 \u2019   Mayor Jennifer Roberts told CNN that she had not seen any video   from the scene but that Putney told her footage was recorded by   cameras worn by other police officers and mounted on patrol cars.",
+            "The officer has been placed on paid administrative leave, Mayor Jennifer Roberts said.",
+            "Charlotte\u2019s mayor, Jennifer Roberts, appealed for calm and tweeted that \u201cthe community deserves answers\u201d."
+        ],
+        "tf-idf score": [
+            0.6412455246044452,
+            1.2106163070682718,
+            0.6791310413819441,
+            0.24582111837623546
+        ]
+    },
+    "0.2662003046576959-3-310": {
+        "average clique similarity": 0.2662003046576959,
+        "clique": [
+            "4-Scott is one of at l",
+            "0-A few windows in at ",
+            "2-At that point  offic"
+        ],
+        "median tf-idf score": 0.6989908381635486,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Scott is one of at least 702 people who have been fatally shot by police so far this year, 16    Caption   At least 12 officers were injured during protests after police fatally shot a man outside an apartment complex in the North Carolina city.",
+            "A few windows in at least one store were broken and one had \u201dblack lives matters\u201d   on it.",
+            "At that point, officers deemed the man a threat and at least one fired a weapon, he said."
+        ],
+        "tf-idf score": [
+            1.2044940173881944,
+            0.18638856106734067,
+            0.6989908381635486
+        ]
+    },
+    "0.2694872050263188-3-490": {
+        "average clique similarity": 0.2694872050263188,
+        "clique": [
+            "4-Scott s family insis",
+            "1-The police said Keit",
+            "0-Public defender in m"
+        ],
+        "median tf-idf score": 0.9988116778659917,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "Scott\u2019s family insisted he was not armed when he was killed outside an apartment complex, instead saying he was reading a book in his car at the time of the fatal encounter  \u2014   a detail seized by protesters in Charlotte and on social media.",
+            "The police said Keith Scott, 43, was armed and ignoring   officers\u2019 orders when he was gunned down, while the victim\u2019s   family and a witness said he was holding a book, not a weapon.",
+            "Public defender in middle of protest, Putney said Scott, an   was armed and no book was found at the scene."
+        ],
+        "tf-idf score": [
+            0.9923195942526996,
+            1.471491799766025,
+            0.9988116778659917
+        ]
+    },
+    "0.269501424174121-3-376": {
+        "average clique similarity": 0.269501424174121,
+        "clique": [
+            "3- There s still a lot",
+            "0-That s what happened",
+            "2- I don t know what s"
+        ],
+        "median tf-idf score": 0.27404675078468965,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cThere\u2019s still a lot we don\u2019t know about what happened in both incidents,\u201d Clinton said in her opening remarks.",
+            "That\u2019s what happened\u201d.",
+            "\u201cI don\u2019t know what she was thinking but I\u2019m very troubled by that ."
+        ],
+        "tf-idf score": [
+            0.42006893847304205,
+            0.019020599897576405,
+            0.27404675078468965
+        ]
+    },
+    "0.2771712673445761-3-490": {
+        "average clique similarity": 0.2771712673445761,
+        "clique": [
+            "0-Putney said Scott ex",
+            "4-Police said Scott ha",
+            "2-Officers said they s"
+        ],
+        "median tf-idf score": 0.8602889452267851,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Putney said Scott exited his car with a gun, not a book.",
+            "Police said Scott had been sitting in a parked car at the apartment complex and then exited the vehicle holding a firearm.",
+            "Officers said they saw Scott get out of the car with a gun and then get back in, Trietley said."
+        ],
+        "tf-idf score": [
+            0.7481546893484752,
+            0.9420087312864251,
+            0.8602889452267851
+        ]
+    },
+    "0.2810343078823601-3-174": {
+        "average clique similarity": 0.2810343078823601,
+        "clique": [
+            "0-Who is the officer ",
+            "2-The officer who shot",
+            "4-Authorities identifi"
+        ],
+        "median tf-idf score": 0.647006812846085,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Who is the officer?",
+            "The officer who shot Scott, Brently Vinson, has been placed on administrative leave as is standard procedure in such cases.",
+            "Authorities identified the officer who shot and killed Scott as Brentley Vinson, who has worked for the   police force since July 2014."
+        ],
+        "tf-idf score": [
+            0.2427626089986572,
+            0.647006812846085,
+            0.9342931824191767
+        ]
+    },
+    "0.29016167032441537-3-61": {
+        "average clique similarity": 0.29016167032441537,
+        "clique": [
+            "0-Last week s fatal sh",
+            "1-      Video of the s",
+            "2-In Tulsa  hundreds o"
+        ],
+        "median tf-idf score": 0.9810588556639457,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "Last week\u2019s fatal shooting of Terence Crutcher, an unarmed black man in Tulsa, Oklahoma, sparked protests after video of the killing was aired Monday.",
+            "\u2019 \u2019   Video of the shooting in Oklahoma, meanwhile, has fueled calls   for the arrest of Tulsa police officer Betty Shelby, who is   white, for the killing on Friday of Terence Crutcher, 40, whose   sport utility vehicle blocked a road after breaking down.",
+            "In Tulsa, hundreds of people rallied outside police headquarters calling for the firing of police officer Betty Shelby, who shot the    Crutcher on Friday during a confrontation in the middle of a road that was captured on police dashcam and helicopter video."
+        ],
+        "tf-idf score": [
+            0.7979713401469368,
+            0.9810588556639457,
+            1.1208982584836957
+        ]
+    },
+    "0.3010871640753829-4-20": {
+        "average clique similarity": 0.3010871640753829,
+        "clique": [
+            "4-Pat McCrory  R  said",
+            "1-We plan to do that t",
+            "2- There s still a lot",
+            "3- But we do know that"
+        ],
+        "median tf-idf score": 0.6906775108725897,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Pat McCrory (R) said Wednesday that his office \u201cwill do everything we can to support the mayor and the police chief in their efforts to keep the community calm and to get this situation resolved.",
+            "We plan to do that this time\u201d.",
+            "\u201cThere\u2019s still a lot we don\u2019t know yet about what happened in both incidents but we do know that we have two more names to add to a long list of African Americans killed by police officers,\u201d Clinton said during a speech in Orlando.",
+            "\u201cBut we do know that we have two more names to add to a long list of   killed by police officers."
+        ],
+        "tf-idf score": [
+            0.8040472847482675,
+            0.04803358939585808,
+            0.9917075211071738,
+            0.5773077369969118
+        ]
+    },
+    "0.312434608167846-3-490": {
+        "average clique similarity": 0.312434608167846,
+        "clique": [
+            "0-U S Attorney General",
+            "3-  Attorney General L",
+            "2-The US attorney gene"
+        ],
+        "median tf-idf score": 0.5224744234780233,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "U S Attorney General Loretta Lynch acknowledged the country\u2019s racial tensions after the latest police shootings.",
+            "\u201d Attorney General Loretta Lynch also said on Wednesday that the Department of Justice is \u201cassessing the incident.",
+            "The US attorney general, Loretta Lynch, said Scott\u2019s killing and that of Terence Crutcher in Tulsa, Oklahoma, on Friday highlighted, \u201cin the most vivid and painful terms, the very real divisions that persist between law enforcement and communities of color\u201d."
+        ],
+        "tf-idf score": [
+            0.4456314256193254,
+            0.5224744234780233,
+            0.8540612470671827
+        ]
+    },
+    "0.3129116143806034-3-384": {
+        "average clique similarity": 0.3129116143806034,
+        "clique": [
+            "0-Charlotte  North Car",
+            "2-Charlotte s police c",
+            "1-         One person "
+        ],
+        "median tf-idf score": 1.579870772991157,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Charlotte, North Carolina  (CNN) One person was shot Wednesday during a second night of protests over a deadly police shooting in Charlotte, city officials said.",
+            "Charlotte\u2019s police chief said on Wednesday that officers gave a man numerous clear warnings to drop a handgun before fatally shooting him, at a news conference following a night of clashes on the streets of the North Carolina city that left 16 officers injured.",
+            "\u2019  \u2019 \u2019   One person suffered   injuries after being shot   Wednesday in a second night of unrest in Charlotte, North   Carolina, officials said, as police officers in riot gear fired   tear gas and rubber bullets to disperse a demonstration against   the fatal police shooting of a black man who officers said had   refused their orders to drop a handgun."
+        ],
+        "tf-idf score": [
+            1.4632382823212042,
+            1.579870772991157,
+            1.7116768553706945
+        ]
+    },
+    "0.31511656930446036-3-490": {
+        "average clique similarity": 0.31511656930446036,
+        "clique": [
+            "4- In spite of verbal ",
+            "0-Officers repeatedly ",
+            "3-Putney said that Sco"
+        ],
+        "median tf-idf score": 0.8715243114242894,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cIn spite of verbal commands, Mr Scott exited his vehicle armed with a handgun as the officers continued to yell at him to drop it.",
+            "Officers repeatedly told Scott to drop his handgun, the chief said, but he didn\u2019t.",
+            "Putney said that Scott then exited the car armed with a handgun and officers yelled at him to drop the weapon."
+        ],
+        "tf-idf score": [
+            0.6169793588505881,
+            0.8715243114242894,
+            1.029411982790672
+        ]
+    },
+    "0.31589059681026105-3-204": {
+        "average clique similarity": 0.31589059681026105,
+        "clique": [
+            "4-The police chief tol",
+            "3-Putney said one prot",
+            "2-One officer was hit "
+        ],
+        "median tf-idf score": 0.9616414000861373,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The police chief told reporters that 16 officers were injured during the demonstrations, one of them hit in the face with a rock; the extent of the officers\u2019 injuries varied, Putney said Wednesday.",
+            "Putney said one protester was arrested and 16 officers were injured.",
+            "One officer was hit in the face with a rock."
+        ],
+        "tf-idf score": [
+            1.1883619491482917,
+            0.9616414000861373,
+            0.502793203192018
+        ]
+    },
+    "0.3165859517299869-4-425": {
+        "average clique similarity": 0.3165859517299869,
+        "clique": [
+            "2-Police spokesman Kei",
+            "4-On Wednesday  at a m",
+            "3-  On Tuesday  around",
+            "1-      Putney  the Ch"
+        ],
+        "median tf-idf score": 1.5319164565598522,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Police spokesman Keith Trietley said in a statement that Charlotte police officers had gone to an apartment complex on the city\u2019s   side about 4pm looking for a suspect with an outstanding warrant when they saw Scott  \u2014   who was not the suspect they were looking for  \u2014   inside a car.",
+            "On Wednesday, at a midmorning news conference,   Police Chief Kerr Putney said the officers were searching the previous afternoon for a suspect who had outstanding warrants when they spotted Scott  \u2014   who was not the suspect they were seeking  \u2014   emerge from a vehicle armed with a handgun.",
+            "\u201d On Tuesday, around 4 p. m. officers were searching for a suspect with an outstanding warrant at an apartment complex, Putney said during Wednesday\u2019s press conference.",
+            "\u201d \u201d   Putney, the Charlotte police chief, said officers had surrounded   Scott\u2019s car in an apartment complex parking lot Tuesday afternoon   after seeing him with a handgun."
+        ],
+        "tf-idf score": [
+            1.6321097149501758,
+            1.673850116524258,
+            0.8708378763888456,
+            1.4317231981695286
+        ]
+    },
+    "0.33248171030212487-3-339": {
+        "average clique similarity": 0.33248171030212487,
+        "clique": [
+            "0-Vinson has worked fo",
+            "3-Vinson has no discip",
+            "2-Vinson  who is also "
+        ],
+        "median tf-idf score": 0.35118542675091124,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Vinson has worked for   police for two years.",
+            "Vinson has no disciplinary history with the department\u2019s internal affairs bureau, Charlotte police told BuzzFeed News.",
+            "Vinson, who is also black, has been with the department for two years."
+        ],
+        "tf-idf score": [
+            0.35118542675091124,
+            0.5745035241422435,
+            0.20309148019041426
+        ]
+    },
+    "0.35206397742201406-4-285": {
+        "average clique similarity": 0.35206397742201406,
+        "clique": [
+            "3-Putney could not say",
+            "0-The chief said he wa",
+            "4-Putney said he was u",
+            "2-He said the man was "
+        ],
+        "median tf-idf score": 1.0542401166671227,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Putney could not say definitively whether the man,    Keith Lamont Scott, raised the weapon and pointed it toward an officer.",
+            "The chief said he was not certain whether Scott pointed his gun at officers.",
+            "Putney said he was uncertain whether Scott\u2019s weapon was loaded, or whether he had pointed it directly at the officers.",
+            "He said the man was shot because he potentially posed a threat, but added that it was unclear whether he at any point pointed the weapon at police."
+        ],
+        "tf-idf score": [
+            0.7197517430181526,
+            1.06640470526901,
+            1.1193144776707467,
+            1.0420755280652356
+        ]
+    },
+    "0.3582492976982416-3-211": {
+        "average clique similarity": 0.3582492976982416,
+        "clique": [
+            "3-Officers approached ",
+            "2-Kerr Putney  the   p",
+            "0-Chief Kerr Putney ad"
+        ],
+        "median tf-idf score": 1.337575968533922,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "Officers approached Scott when they saw him in his vehicle and gave him \u201cloud and clear commands\u201d to exit the car.",
+            "Kerr Putney, the   police chief, said officers were searching for a suspect on Tuesday when they saw    Keith Lamont Scott exit a vehicle with a handgun, and mistook him for the wanted man.",
+            "Chief Kerr Putney addressed the Scott family\u2019s claim that he was reading a book in his vehicle when police officers approached and shot him."
+        ],
+        "tf-idf score": [
+            0.632510571170993,
+            1.4312297940510053,
+            1.337575968533922
+        ]
+    },
+    "0.3650134396420425-3-490": {
+        "average clique similarity": 0.3650134396420425,
+        "clique": [
+            "0-But when it turns vi",
+            "3-And it needs to beco",
+            "2- It s unbearable and"
+        ],
+        "median tf-idf score": 0.08007591113703846,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "But when it turns violent, it undermines the very justice that it seeks to achieve\u201d.",
+            "And it needs to become intolerable,\u201d she said before adding that 12 police officers were injured in demonstrations that followed Scott\u2019s death.",
+            "\u201cIt\u2019s unbearable and it needs to become intolerable."
+        ],
+        "tf-idf score": [
+            0.08007591113703846,
+            1.0778828858002218,
+            0.03091995643606027
+        ]
+    },
+    "0.36715949109098434-3-98": {
+        "average clique similarity": 0.36715949109098434,
+        "clique": [
+            "2-The North Carolina c",
+            "3-The ACLU of North Ca",
+            "1-           Black act"
+        ],
+        "median tf-idf score": 0.6729760269204813,
+        "publications": [
+            "Business Insider",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "The North Carolina chapter of the American Civil Liberties Union urged Charlotte police to release any footage of the shooting.",
+            "The ACLU of North Carolina released a statement Wednesday calling on the Charlotte Police Department to release the footage captured from body and dash cameras.",
+            "\u2019 \u2019  \u2019 \u2019   Black activists and pastors called for an economic boycott of the   city, and the American Civil Liberties Union urged the police to   release body and dashboard camera footage from the incident."
+        ],
+        "tf-idf score": [
+            0.6335400230611389,
+            0.7334731277654576,
+            0.6729760269204813
+        ]
+    },
+    "0.37348038596683036-4-0": {
+        "average clique similarity": 0.37348038596683036,
+        "clique": [
+            "1-       We did not fi",
+            "4-He also said investi",
+            "3- I can tell you we d",
+            "0-He said officers cou"
+        ],
+        "median tf-idf score": 0.4083749550846853,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201d \u2019   \u201dWe did not find a book,\u201d Putney told a news conference.",
+            "He also said investigators did not find the book referenced by Scott\u2019s family.",
+            "\u201cI can tell you we did not find a book.",
+            "He said officers couldn\u2019t find a book at the scene."
+        ],
+        "tf-idf score": [
+            0.22587777235048936,
+            0.5908721378188813,
+            0.07148043655945051,
+            0.6144316981367941
+        ]
+    },
+    "0.375352736371493-5-267": {
+        "average clique similarity": 0.375352736371493,
+        "clique": [
+            "4-The police chief als",
+            "0-Vinson  who was in p",
+            "3-He was not wearing a",
+            "2-Putney confirmed tha",
+            "1-      The police sai"
+        ],
+        "median tf-idf score": 1.322854752405676,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "CNN",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The police chief also said that the officer was not wearing a body camera but that other officers on the scene were; Wednesday morning, he said he had not yet watched the footage in its entirety.",
+            "Vinson, who was in plain clothes and wearing a CMPD vest, did not have a body camera.",
+            "He was not wearing a body camera.",
+            "Putney confirmed that there was body camera footage from a few of the officers at the scene but said the police department would not be releasing footage until after the investigation was complete.",
+            "\u2019 \u2019   The police said officer Brentley Vinson was in plainclothes when   he shot Scott and was not wearing a body camera."
+        ],
+        "tf-idf score": [
+            1.327128883819325,
+            0.39163814386752843,
+            0.3155938258959997,
+            1.322854752405676,
+            1.4206519587958224
+        ]
+    },
+    "0.40496521247825273-3-433": {
+        "average clique similarity": 0.40496521247825273,
+        "clique": [
+            "3-Detectives investiga",
+            "4-Detectives said they",
+            "2-A weapon was recover"
+        ],
+        "median tf-idf score": 0.5691122718802463,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Detectives investigating the shooting recovered a handgun at the scene, Putney said.",
+            "Detectives said they recovered a firearm Scott was holding during the fatal encounter and were interviewing witnesses Tuesday night.",
+            "A weapon was recovered by detectives at the scene."
+        ],
+        "tf-idf score": [
+            0.5691122718802463,
+            0.8751424800371339,
+            0.3274474777872683
+        ]
+    },
+    "0.43275460624515416-3-340": {
+        "average clique similarity": 0.43275460624515416,
+        "clique": [
+            "1-            We are t",
+            "3- As a family  we res",
+            "0- As a family  we res"
+        ],
+        "median tf-idf score": 0.22901742618252924,
+        "publications": [
+            "Business Insider",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "\u2019 \u2019  \u2019 \u2019   \u201dWe are tired of people, especially police, killing our black   men,\u201d Blanche Penn, a longtime community activist, said at   Wednesday evening\u2019\u2019s rally, where the mood began as resolute but   peaceful.",
+            "\u201cAs a family, we respect the rights of those who wish to protest, but we ask that people protest peacefully.",
+            "\u201dAs a family, we respect the rights of those who wish to protest, but we ask that people protest peacefully."
+        ],
+        "tf-idf score": [
+            0.9272484993680405,
+            0.22901742618252924,
+            0.22901742618252924
+        ]
+    },
+    "0.4529284367048734-3-352": {
+        "average clique similarity": 0.4529284367048734,
+        "clique": [
+            "0- It s time for the v",
+            "4- It s time to change",
+            "2- It s time to change"
+        ],
+        "median tf-idf score": 0.753176387069138,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dIt\u2019s time for the voiceless majority to stand up and be heard,\u201d said the police chief, who is black.",
+            "\u201cIt\u2019s time to change the narrative, because I can tell you from the facts that the story is a little bit different as to how it\u2019s been portrayed so far, especially through social media,\u201d Putney said.",
+            "\u201cIt\u2019s time to change the narrative, because I can tell you from the facts that the story\u2019s a little bit different as to how it\u2019s been portrayed so far, especially through social media,\u201d the police chief said."
+        ],
+        "tf-idf score": [
+            0.753176387069138,
+            0.6340899558876635,
+            0.8444907491682178
+        ]
+    },
+    "0.475464476848597-3-331": {
+        "average clique similarity": 0.475464476848597,
+        "clique": [
+            "3-But when it turns vi",
+            "4- But when it turns v",
+            "1-But now it  s time t"
+        ],
+        "median tf-idf score": 0.32795098464701905,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "But when it turns violent, it undermines the very justice that it seeks to achieve and I urge those demonstrating in Charlotte to remain peaceful in their expressions of protest and concern.",
+            "\u201cBut when it turns violent, it undermines the very justice that it seeks to achieve and I urge those demonstrating in Charlotte to remain peaceful in their expressions of protest and concern.",
+            "But now it\u2019\u2019s time to   be loud\u201d."
+        ],
+        "tf-idf score": [
+            0.32795098464701905,
+            0.32795098464701905,
+            0.05702848500556867
+        ]
+    },
+    "0.6995290135258986-3-490": {
+        "average clique similarity": 0.6995290135258986,
+        "clique": [
+            "3- It s time to change",
+            "1-       It  s a   ",
+            "0- It s time to change"
+        ],
+        "median tf-idf score": 0.24553490088199234,
+        "publications": [
+            "Buzzfeed News",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cIt\u2019s time to change the narrative, because I can tell you from the facts that the story\u2019s a little bit different as to how it\u2019s been portrayed so far, especially through social media,\u201d Putney said.",
+            "\u2019 \u2019   \u201dIt\u2019\u2019s a  .",
+            "\u201dIt\u2019s time to change the narrative because I can tell you from the facts that the story\u2019s a little bit different as to how it\u2019s been portrayed so far, especially through social media\u201d."
+        ],
+        "tf-idf score": [
+            0.6340899558876635,
+            0.0,
+            0.24553490088199234
+        ]
+    },
+    "0.8814033736611272-3-109": {
+        "average clique similarity": 0.8814033736611272,
+        "clique": [
+            "0- Protest is protecte",
+            "3- Protest is protecte",
+            "4- Protest is protecte"
+        ],
+        "median tf-idf score": 0.1728255124016582,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dProtest is protected by our Constitution and is a vital instrument for raising issues and creating change.",
+            "\u201cProtest is protected by our Constitution and is a vital instrument for raising issues and creating change.",
+            "\u201cProtest is protected by our Constitution and is a vital instrument for raising issues and creating change,\u201d she said during remarks at a conference Wednesday morning in Washington."
+        ],
+        "tf-idf score": [
+            0.1728255124016582,
+            0.1728255124016582,
+            0.5987426683394821
+        ]
+    }
+}

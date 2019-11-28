@@ -1,0 +1,474 @@
+{
+    "0.16653237444791694-3-69": {
+        "average clique similarity": 0.16653237444791694,
+        "clique": [
+            "1-Trump said after the",
+            "3-After Cruz snubbed T",
+            "0-Some Republican oper"
+        ],
+        "median tf-idf score": 1.120733120295892,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "Trump said after the convention he would not accept Cruz's endorsement if it were offered.",
+            "After Cruz snubbed Trump at the Republican convention in July by declining to outright endorse him during his remarks, Trump blasted Cruz on the way out, saying he didn't even want his endorsement.",
+            "Some Republican operatives, while unfazed by Cruz's reversal, questioned why the senator did not simply throw his support behind Trump at the convention if voting for the nominee was still on the table."
+        ],
+        "tf-idf score": [
+            0.9627438367738311,
+            1.120733120295892,
+            1.2381844841736767
+        ]
+    },
+    "0.17224109348605202-3-63": {
+        "average clique similarity": 0.17224109348605202,
+        "clique": [
+            "1-Cruz exhorted Republ",
+            "0-In his statement on ",
+            "4-He ended his post sa"
+        ],
+        "median tf-idf score": 1.3767036346457808,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Cruz exhorted Republicans to \"vote your conscience\" and said he was standing on truth and principle    ideologically pure stances Cruz espoused during his campaign and that could be imperiled with his endorsement of Trump.",
+            "In his statement on Friday, Cruz said: \"This election is unlike any other in our nation's history. Like many other voters, I have struggled to determine the right course of action in this general election. \"In Cleveland, I urged voters, \"please, don't stay home in November. Stand, and speak, and vote your conscience, vote for candidates up and down the ticket whom you trust to defend our freedom and to be faithful to the constitution. \"",
+            "He ended his post saying, \"[I]f you don't want to see a Hillary Clinton presidency, I encourage you to vote for him\". Trump said in a statement that he was \"honored\" to have Cruz's endorsement: \"I am greatly honored by the endorsement of Senator Cruz."
+        ],
+        "tf-idf score": [
+            1.3767036346457808,
+            1.1605101883479754,
+            1.486013635226202
+        ]
+    },
+    "0.17941948304848943-3-202": {
+        "average clique similarity": 0.17941948304848943,
+        "clique": [
+            "2-Trump has hired key ",
+            "1-Cruz s campaign mana",
+            "0-The debate over whet"
+        ],
+        "median tf-idf score": 1.0800516666277262,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Trump has hired key Cruz  allies such as campaign manager Kellyanne Conway and spokesman Jason Miller.",
+            "Cruz's campaign manager, Jeff Roe, said at a Bloomberg Politics breakfast on Tuesday that Cruz's unwillingness to back a   candidate were limiting his options and that watching Trump run a \"better campaign\" has been \"helpful\".",
+            "The debate over whether to endorse Trump had splintered the Cruz inner circle, his campaign manager, Jeff Roe, pushing for a move to back the nominee while longtime strategist Jason Johnson has urged the senator to stand against Trump on principle."
+        ],
+        "tf-idf score": [
+            0.9483627235343399,
+            1.0800516666277262,
+            1.1562252094439107
+        ]
+    },
+    "0.18070466654906678-3-195": {
+        "average clique similarity": 0.18070466654906678,
+        "clique": [
+            "1-Cruz is now back in ",
+            "0-He should have just ",
+            "5-As I wrote previousl"
+        ],
+        "median tf-idf score": 1.1401546255290063,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Cruz is now back in the Senate, a body where he earned the enmity of his colleagues and wore it as a badge of honor.",
+            "He should have just said that back at the convention and everyone would have been better for it. \" But he suggested Cruz was realizing that a Trump presidency is now more of a possibility, and the senator was probably thinking ahead as he seeks   to his seat in 2018, when he could face a primary challenge from Mike McCaul, the chair of the House homeland security committee.",
+            "As I wrote previously, Cruz is facing a potentially difficult primary battle in his reelection bid for the Senate in 2018, and he undoubtedly determined that he needed to make amends with the sizable contingent of Trump supporters in Texas --  especially knowing that he can't count on the support of party leaders he has long since alienated."
+        ],
+        "tf-idf score": [
+            0.45210799527267004,
+            1.3050768684117486,
+            1.1401546255290063
+        ]
+    },
+    "0.1896610133146853-3-100": {
+        "average clique similarity": 0.1896610133146853,
+        "clique": [
+            "3-The Texas senator s ",
+            "1-Over the past few da",
+            "5-The Texas senator an"
+        ],
+        "median tf-idf score": 0.6699688540211225,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The Texas senator's announcement of support, made on Facebook, comes just days before the first debate between Trump and Hillary Clinton.",
+            "Over the past few days, the Texas Republican and his aides increasingly signaled that they were coming around to Trump.",
+            "The Texas senator announced his support for the Republican nominee late Friday afternoon in a Facebook post, writing that the possibility of a Hillary Clinton presidency was \"wholly unacceptable\" and that he was keeping his   commitment to back the party's choice."
+        ],
+        "tf-idf score": [
+            0.6699688540211225,
+            0.5019979104314397,
+            0.7829003256099499
+        ]
+    },
+    "0.19626528081534245-3-3": {
+        "average clique similarity": 0.19626528081534245,
+        "clique": [
+            "0-In a dramatic press ",
+            "3-After Trump retweete",
+            "2-In the heat of the p"
+        ],
+        "median tf-idf score": 1.0572041562407666,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "In a dramatic press conference on the eve of the Indiana primary, Cruz called Trump a \"serial philanderer\" an \"amoral pathological liar\" and a \"braggadocious, arrogant buffoon\". The senator dropped out less than 12 hours later, after a decisive defeat.",
+            "After Trump retweeted an unflattering picture of Cruz's wife Heidi, Cruz called Trump a \"sniveling coward\". \"This man is a pathological liar.",
+            "In the heat of the primary campaign four months ago, Cruz accused Trump of being a \"pathological liar,\" \"utterly amoral,\" \"a narcissist at a level I don't think this country's ever seen\" and \"a serial philanderer. \""
+        ],
+        "tf-idf score": [
+            1.0572041562407666,
+            0.9474792525531209,
+            1.1042979904406296
+        ]
+    },
+    "0.20245731124361954-3-52": {
+        "average clique similarity": 0.20245731124361954,
+        "clique": [
+            "2-At the Republican Na",
+            "1- I will tell the tru",
+            "5-If he was planning t"
+        ],
+        "median tf-idf score": 0.9866336102043357,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "At the Republican National Convention over the summer, Cruz used his   address to shun his former rival for the presidential nomination. \"Stand, and speak, and vote your conscience.",
+            "\"I will tell the truth\". Ted Cruz was being loudly cheered by many of the delegates at the Republican National Convention on July 20  --   until he urged voters to \"vote their conscience\".",
+            "If he was planning to honor his commitment to support the Republican nominee, why did he make a dramatic show of snubbing Trump at the convention in Cleveland, when instead of endorsing him he urged delegates and the public to \"vote your conscience\"? Former rivals like Rubio faced a similarly difficult choice, but they were all able to issue their muted, stilted endorsements with less fanfare and less waffling."
+        ],
+        "tf-idf score": [
+            0.8560906196129852,
+            0.9866336102043357,
+            1.202798760818706
+        ]
+    },
+    "0.20919368127029336-3-24": {
+        "average clique similarity": 0.20919368127029336,
+        "clique": [
+            "4-After a bitter prima",
+            "5-Finally  Trump sprea",
+            "1- The day that was ab"
+        ],
+        "median tf-idf score": 1.2623970559804842,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "After a bitter primary battle that culminated with Ted Cruz being booed off the stage at the Republican National Convention, the Texas senator says he will vote for Donald Trump.",
+            "Finally, Trump spread a rumor, based off a grainy photo in the National Enquirer, that Cruz's father Rafael was involved in the Kennedy assassination --  and he continued raising it the day after he accepted the Republican nomination for president.",
+            "\"The day that was abrogated was the day this became personal,\" he said, adding he would never vote for Clinton. [Will Ted Cruz's gamble pay off?]"
+        ],
+        "tf-idf score": [
+            1.2986504544237114,
+            1.2623970559804842,
+            0.8962770661152412
+        ]
+    },
+    "0.22566414050198555-4-122": {
+        "average clique similarity": 0.22566414050198555,
+        "clique": [
+            "0-In the course of the",
+            "4-Early on  they had s",
+            "1-Citing an unfounded ",
+            "3-Trump  for his part "
+        ],
+        "median tf-idf score": 1.1312566787069405,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In the course of the primary, he criticised Cruz's wife, Heidi, for her looks and implied that the Texas senator's father was somehow involved in the assassination of John F Kennedy.",
+            "Early on, they had something of an alliance, declining to attack each other in early debates. But the bromance did not last. Cruz wound up winning the Iowa caucuses, and the acrimony became so strong that Donald Trump accused Cruz's father, Rafael, of being involved with the assassination of former President John F Kennedy.",
+            "Citing an unfounded conspiracy theory, Trump repeatedly accused Rafael Cruz, who was born and raised in Cuba, of associating with Lee Harvey Oswald around the time of John F Kennedy's assassination.",
+            "Trump, for his part, frequently referred to Cruz as \"Lyin' Ted\" and in May implied that Cruz's father Rafael helped President John F Kennedy's assassin Lee Harvey Oswald. \"His father was with Lee Harvey Oswald prior to Oswald's being  --   you know, shot."
+        ],
+        "tf-idf score": [
+            0.9056283769408647,
+            1.1595912999263867,
+            1.102922057487494,
+            1.2319762276656359
+        ]
+    },
+    "0.22840749827048665-3-79": {
+        "average clique similarity": 0.22840749827048665,
+        "clique": [
+            "1-Trump this week also",
+            "5-Cruz listed six   re",
+            "2-Friday  Trump releas"
+        ],
+        "median tf-idf score": 1.044292637465764,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "Trump this week also said he would consider naming Sen. Mike Lee, one of Cruz's closest allies in the Senate, to the Supreme Court.",
+            "Cruz listed six   reasons why he was backing Trump, beginning with the importance of appointing conservatives to the Supreme Court and citing Trump's recently expanded list of potential nominees.",
+            "Friday, Trump released a new list of potential Supreme Court appointments that included Utah Sen. Mike Lee, perhaps Cruz's closest friend in Congress."
+        ],
+        "tf-idf score": [
+            1.0397002144324599,
+            1.140387012731959,
+            1.044292637465764
+        ]
+    },
+    "0.23089499790833767-3-245": {
+        "average clique similarity": 0.23089499790833767,
+        "clique": [
+            "5-Cruz didn t mention ",
+            "1-In a Facebook messag",
+            "0- I ve made this deci"
+        ],
+        "median tf-idf score": 0.8801503067746136,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Cruz didn't mention this in his Facebook post, presumably lumping all of these charges into the \"significant areas of disagreement\" that he acknowledged he has with Trump.",
+            "In a Facebook message posted Friday, Cruz said he has had \"areas of significant disagreement\" with Trump, but cannot allow  Hillary Clinton to become president.",
+            "\"I've made this decision for two reasons. First, last year, I promised to support the Republican nominee. And I intend to keep my word. \"Second, even though I have had areas of significant disagreement with our nominee, by any measure Hillary Clinton is wholly unacceptable  --   that's why I have always been #NeverHillary. \""
+        ],
+        "tf-idf score": [
+            0.8801503067746136,
+            1.1515248695963891,
+            0.5733537544808653
+        ]
+    },
+    "0.25790931268365047-3-245": {
+        "average clique similarity": 0.25790931268365047,
+        "clique": [
+            "0-In Cleveland in July",
+            "1-The decision marks a",
+            "5-Polls showed Cruz s "
+        ],
+        "median tf-idf score": 1.0492514334457381,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In Cleveland in July, Cruz addressed the Republican convention but pointedly refused to endorse Trump. He was booed from the floor.",
+            "The decision marks a politically risky move for Cruz, who pointedly refused to endorse Trump during a   speech at the Republican National Convention in July.",
+            "Polls showed Cruz's support among Republicans dropped significantly when he refused to endorse Trump at the GOP convention in Cleveland."
+        ],
+        "tf-idf score": [
+            1.13588958201298,
+            1.0205522014709363,
+            1.0492514334457381
+        ]
+    },
+    "0.31112890113780006-3-83": {
+        "average clique similarity": 0.31112890113780006,
+        "clique": [
+            "3- Our country is in c",
+            "0-He then detailed the",
+            "1-Cruz wrote that Trum"
+        ],
+        "median tf-idf score": 0.8262588934863431,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"Our country is in crisis. Hillary Clinton is manifestly unfit to be president, and her policies would harm millions of Americans. And Donald Trump is the only thing standing in her way,\" he said.",
+            "He then detailed the issues on which he had made his decision, including appointments to the supreme court, healthcare, immigration, energy policy, national security and internet freedom. He concluded: \"Our country is in crisis. Hillary Clinton is manifestly unfit to be president, and her policies would harm millions of Americans.",
+            "Cruz wrote that Trump's campaign has been \"focusing more and more on freedom\" over the past few weeks by emphasizing school choice and economic growth for Hispanic and  . \"Our country is in crisis."
+        ],
+        "tf-idf score": [
+            0.8262588934863431,
+            0.506521909532382,
+            0.9610343101614444
+        ]
+    },
+    "0.39134785561120417-3-118": {
+        "average clique similarity": 0.39134785561120417,
+        "clique": [
+            "0-Ted Cruz has announc",
+            "1-     Sen  Ted Cruz e",
+            "2-Ted Cruz will vote h"
+        ],
+        "median tf-idf score": 1.0448669367175611,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "Ted Cruz has announced that he will vote for Donald Trump in the presidential election.",
+            "     Sen. Ted Cruz endorsed Donald Trump's presidential campaign on Friday, the latest chapter in a rocky relationship between the two men that has ricocheted from fawning support to searing personal insults to, now, a kind of detente.",
+            "Ted Cruz will vote his conscience in the presidential election  --   for Donald Trump."
+        ],
+        "tf-idf score": [
+            1.0448669367175611,
+            1.1834510520880592,
+            1.0287356466836164
+        ]
+    },
+    "0.47219682295146237-3-245": {
+        "average clique similarity": 0.47219682295146237,
+        "clique": [
+            "5-Just as he did for y",
+            "0-We have fought the b",
+            "3-We have fought the b"
+        ],
+        "median tf-idf score": 1.0294093940348568,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "Just as he did for years with President Obama, Trump repeatedly floated a birther theory about Cruz and suggested he was ineligible for the presidency because he was born in Canada.",
+            "We have fought the battle and he was a tough and brilliant opponent. I look forward to working with him for many years to come in order to make America great again. \" But Cruz and Trump clashed repeatedly in the primary campaign.",
+            "We have fought the battle and he was a tough and brilliant opponent. I look forward to working with him for many years to come in order to make America great again. \" Yet Cruz's support was by no means a foregone conclusion."
+        ],
+        "tf-idf score": [
+            1.0294093940348568,
+            1.3174849283075245,
+            0.9762604516510692
+        ]
+    },
+    "0.47359087829194196-3-153": {
+        "average clique similarity": 0.47359087829194196,
+        "clique": [
+            "4-In a   Facebook post",
+            "3-Cruz said he made th",
+            "2-But now  Cruz said  "
+        ],
+        "median tf-idf score": 1.1003878454928644,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "In a   Facebook post Friday, Cruz wrote that he made the decision because he wants to \"keep his word\" to vote for the Republican nominee and because he finds Hillary Clinton \"wholly unacceptable\". It was hardly a   endorsement.",
+            "Cruz said he made the decision because he wants to keep his word to support the Republican nominee  --   and he finds Hillary Clinton \"wholly unacceptable. \"",
+            "But now, Cruz said, he'll support Trump because \"I promised to support the Republican nominee."
+        ],
+        "tf-idf score": [
+            1.1799364522329496,
+            0.9843513836066367,
+            1.1003878454928644
+        ]
+    },
+    "0.47699413765670995-4-18": {
+        "average clique similarity": 0.47699413765670995,
+        "clique": [
+            "4-We have fought the b",
+            "1- I am greatly honore",
+            "5-        For us to co",
+            "2- I am greatly honore"
+        ],
+        "median tf-idf score": 1.362708398194945,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "We have fought the battle and he was a tough and brilliant opponent. I look forward to working with him for many years to come in order to make America great again\". It's a remarkable turn for Cruz, who declined to endorse or express support for Trump even as late as the Republican convention in July in Cleveland.",
+            "\"I am greatly honored by the endorsement of Senator Cruz,\" the statement said. \"We have fought the battle and he was a tough and brilliant opponent. I look forward to working with him for many years to come in order to make America great again\".",
+            "        For us to continue writing great stories, we need to display ads. Please select the extension that is blocking ads. Please follow the steps below, Ted Cruz set aside his many differences with Donald Trump on Friday to endorse for president a man whom he once called a \"serial philanderer,\" a \"pathological liar,\" \"utterly amoral,\" and a \"sniveling coward\" who insulted his wife's looks who insinuated Cruz's father was involved in the assassination of John F Kennedy who said he wouldn't even accept his endorsement and who for months mocked him mercilessly with a schoolyard taunt, \"Lyin' Ted. \"",
+            "\"I am greatly honored by the endorsement of Senator Cruz. We have fought the battle, and he was a tough and brilliant opponent. I look forward to working with him for many years to come in order to make America great again,\" he said."
+        ],
+        "tf-idf score": [
+            1.5358731743930703,
+            1.1895436219968196,
+            1.8261453895084452,
+            1.1563405039015002
+        ]
+    },
+    "0.5063144053821529-3-245": {
+        "average clique similarity": 0.5063144053821529,
+        "clique": [
+            "3- A year ago  I pledg",
+            "2-And I intend to keep",
+            "0-And Donald Trump is "
+        ],
+        "median tf-idf score": 0.7608460614303428,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"A year ago, I pledged to endorse the Republican nominee, and I am honoring that commitment. And if you don't want to see a Hillary Clinton presidency, I encourage you to vote for him. \" The latest headlines on the 2016 elections from the biggest name in politics.",
+            "And I intend to keep my word. \" Cruz also cited another reason: \"If you don't want to see a Hillary Clinton presidency, I encourage you to vote for him. \"",
+            "And Donald Trump is the only thing standing in her way. \"A year ago, I pledged to endorse the Republican nominee, and I am honoring that commitment. And if you don't want to see a Hillary Clinton presidency, I encourage you to vote for him. \""
+        ],
+        "tf-idf score": [
+            0.6725334917454258,
+            0.7608460614303428,
+            1.01925471282388
+        ]
+    },
+    "0.7770110722298421-5-177": {
+        "average clique similarity": 0.7770110722298421,
+        "clique": [
+            "4- After many months o",
+            "2- After many months o",
+            "0-In a statement poste",
+            "1- After many months o",
+            "3-Noting that he urged"
+        ],
+        "median tf-idf score": 1.4133381229798245,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "NPR",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"After many months of careful consideration of prayer and searching my own conscience,\" Cruz said, \"I have decided that on Election Day, I will vote for the Republican nominee, Donald Trump\".",
+            "\"After many months of careful consideration, of prayer and searching my own conscience, I have decided that on Election Day, I will vote for the Republican nominee, Donald Trump,\" Cruz wrote in a Facebook posting Friday.",
+            "In a statement posted to Facebook on Friday, Cruz said: \"After many months of careful consideration, of prayer and searching my own conscience, I have decided that on Election Day, I will vote for the Republican nominee, Donald Trump.",
+            "\"After many months of careful consideration, of prayer and searching my own conscience, I have decided that on Election Day, I will vote for the Republican nominee, Donald Trump,\" Cruz said, noting he is honoring a commitment he made to endorse the Republican nominee    something he stepped back from earlier this year.",
+            "Noting that he urged voters in Cleveland to vote their \"conscience,\" he said: \"After many months of careful consideration, of prayer and searching my own conscience, I have decided that on Election Day, I will vote for the Republican nominee, Donald Trump. \""
+        ],
+        "tf-idf score": [
+            1.4133381229798245,
+            1.3861662617081698,
+            1.5140885367888623,
+            1.542826267353205,
+            1.087548015402809
+        ]
+    }
+}

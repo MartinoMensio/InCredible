@@ -1,0 +1,446 @@
+{
+    "0.18471843663383888-3-32": {
+        "average clique similarity": 0.18471843663383888,
+        "clique": [
+            "5-I should have said  ",
+            "4-     LEWISTON  Maine",
+            "1-LePage has since apo"
+        ],
+        "median tf-idf score": 0.8147650845244365,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "I should have said 'Maine women. '\" Now LePage has changed his tune: It really is about race.",
+            "     LEWISTON, Maine  --   With a fury that has become almost rote during his two terms in office, Maine Gov. Paul LePage (R) has reignited a debate about race and crime in his state.",
+            "LePage has since apologized for his language, and said his comments about shooting Gattine were metaphorical."
+        ],
+        "tf-idf score": [
+            0.7264342541227913,
+            0.8193430300679465,
+            0.8147650845244365
+        ]
+    },
+    "0.18489932044015836-3-17": {
+        "average clique similarity": 0.18489932044015836,
+        "clique": [
+            "1-Over his shoulder  h",
+            "0-Gattine  who is runn",
+            "2-   So I called Gatti"
+        ],
+        "median tf-idf score": 1.0797305670715023,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Over his shoulder, he told Charns, \"You make me sick\". Then he called Gattine and invited reporters to sit down for the interview in which he fantasized about a duel with the state representative. As the original story from the Portland   makes clear, LePage wasn't trying to conceal his behavior.",
+            "Gattine, who is running for   has clashed with the governor on how to address welfare reform, drug addiction and eligibility for developmental disabilities programs. Gattine said he wasn't concerned about his safety, but he called the voicemail a distraction and the latest of LePage's personal vendettas against lawmakers.",
+            ".. So I called Gattine and used the worst word I could think of. I apologize for that to the people of Maine, but I make no apology for trying to end the drug epidemic that is ravaging our state\"."
+        ],
+        "tf-idf score": [
+            1.0797305670715023,
+            1.180669431738267,
+            0.8442448546501025
+        ]
+    },
+    "0.19489119962329893-3-20": {
+        "average clique similarity": 0.19489119962329893,
+        "clique": [
+            "2-I want you to record",
+            "5- Nobody wants to giv",
+            "4-Thank you    Gattine"
+        ],
+        "median tf-idf score": 0.8771432000368884,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "I want you to record this and make it public because I am after you. Thank you\". LePage apologized for the voicemail in a statement on Friday, but justified his reaction saying the label of racist is \"the absolute worst, most vile thing you can call a person\".",
+            "\"Nobody wants to give you the real story, but the fact of the matter is, sir, I am not a racist,\" he said.",
+            "Thank you. \" Gattine denied having called LePage a racist, but the voicemail drew yet more attention to a story that could have ended with the revelation of the binder."
+        ],
+        "tf-idf score": [
+            0.8771432000368884,
+            0.4148348617036419,
+            0.8803319858341359
+        ]
+    },
+    "0.19904342435516517-3-64": {
+        "average clique similarity": 0.19904342435516517,
+        "clique": [
+            "5-He said he was enrag",
+            "1-Along the way  Charn",
+            "3-If Gattine had calle"
+        ],
+        "median tf-idf score": 0.630295800219395,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "He said he was enraged at the idea that someone had called him a racist and used the worst language he could think of.",
+            "Along the way, Charns said on Twitter, LePage got the impression that Gattine had called him racist.",
+            "If Gattine had called LePage racist, he wouldn't be the first to do so."
+        ],
+        "tf-idf score": [
+            0.48812960283040535,
+            0.8665066797514425,
+            0.630295800219395
+        ]
+    },
+    "0.2129241424307918-3-103": {
+        "average clique similarity": 0.2129241424307918,
+        "clique": [
+            "2- Every time you thin",
+            "0-LePage s office didn",
+            "3-He also said he was "
+        ],
+        "median tf-idf score": 1.1322414569676957,
+        "publications": [
+            "Vox",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"Every time you think he's crossed a line    you think he can't go any further    but then he draws a different line, and he crosses it\". LePage left a message goading Gattine to \"prove that I'm a racist\" after a series of controversial comments once again put the governor in the news, according to the Portland Press Herald, which also was the first to obtain audio of the voicemail.",
+            "LePage's office didn't immediately comment. After leaving the voicemail, LePage later invited reporters to the governor's mansion, where he confirmed that he had left the message and said he wished he and Gattine could face off in a duel.",
+            "He also said he was surprised at the voicemail. \"Obviously that message is upsetting, inappropriate, and uncalled for,\" Gattine said."
+        ],
+        "tf-idf score": [
+            1.2869094711224796,
+            1.1322414569676957,
+            0.556914526095992
+        ]
+    },
+    "0.2138222235986245-3-107": {
+        "average clique similarity": 0.2138222235986245,
+        "clique": [
+            "0-In January  LePage s",
+            "3-The comments  surfac",
+            "1-When the resident su"
+        ],
+        "median tf-idf score": 0.8967386007706079,
+        "publications": [
+            "New York Post",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "In January, LePage said drug dealers with names like \"  Smoothie, Shifty\" are getting Maine's white girls pregnant. He later apologized, saying he meant to say \"Maine women\" and not \"white women. \"",
+            "The comments, surfaced by Get Right Maine, clearly played on racial overtones by using names typically attributed to black culture and rap, and suggested that black people are outsiders, criminals, drug dealers, and rapists who take advantage of young white women.",
+            "When the resident suggested that the racial makeup LePage described might be the result of racial profiling by police, the governor added that there are also \"a whole lot of white girls\" in his binder  --   \"white Maine girls,\" he clarified, in an echo of his controversial January remarks."
+        ],
+        "tf-idf score": [
+            1.056196486201774,
+            0.8602188313277622,
+            0.8967386007706079
+        ]
+    },
+    "0.23605603304555933-3-132": {
+        "average clique similarity": 0.23605603304555933,
+        "clique": [
+            "4-Over 36   hours  he ",
+            "1-LePage said he kept ",
+            "2-Governor     percent"
+        ],
+        "median tf-idf score": 1.204923474609812,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Over 36   hours, he insisted that the vast majority of violent criminals were black or Hispanic, and blew up at a Democratic legislator whom he believed had  --   and who had not  --   accused him of racism. On Wednesday night, at a town hall meeting in Berwick, LePage was asked about   remarks that described most drug dealers in the state as black or Hispanic people with thuggish names.",
+            "LePage said he kept a binder full of mugshots of people arrested for drug dealing in Maine  --   and he claimed more than 90 percent of all the photos in his \"book\" were of black or Hispanic people from Connecticut or New York.",
+            "Governor: '  percent' of drug dealers arrested in Maine black or Hispanic, According to the Press Herald, Gattine was identified by local media as having called LePage racist, though Gattine denies doing so."
+        ],
+        "tf-idf score": [
+            1.204923474609812,
+            1.1180466865129484,
+            1.3607343742679494
+        ]
+    },
+    "0.2541671207583776-3-115": {
+        "average clique similarity": 0.2541671207583776,
+        "clique": [
+            "2-Earlier this week  L",
+            "0-LePage  who s white ",
+            "5- Let me tell you thi"
+        ],
+        "median tf-idf score": 1.2353649615636564,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Earlier this week, LePage had doubled down on comments he has made in the past about the racial background of drug dealers in his state, saying that \"  percent . .. are black and Hispanic people\".",
+            "LePage, who's white, was accused of making racially insensitive comments Wednesday at a town hall in North Berwick, where he said photos he's collected in a binder of drug dealers arrested in the state showed that 90 percent of them \"are black and Hispanic people from Waterbury, Connecticut; the Bronx; and Brooklyn. \"",
+            "\"Let me tell you this, explain to you, I made the comment that black people are trafficking in our state, now ever since I said that comment I've been collecting every single drug dealer who has been arrested in our state,\" LePage said Wednesday at a public forum in North Berwick."
+        ],
+        "tf-idf score": [
+            1.0539670647994417,
+            1.4792400092947102,
+            1.2353649615636564
+        ]
+    },
+    "0.26352602236868755-3-28": {
+        "average clique similarity": 0.26352602236868755,
+        "clique": [
+            "1-The obscene  threate",
+            "0-LePage said in the T",
+            "4-Maine Governor Paul "
+        ],
+        "median tf-idf score": 1.145441513888049,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The obscene, threatening voicemail left for Maine Rep. Drew Gattine certainly wasn't anonymous. \"Mr Gattine, this is Gov.",
+            "LePage said in the Thursday morning voicemail that he wanted to talk with Rep. Drew Gattine of Westbrook about the legislator calling him a racist. Gattine has denied calling LePage a racist.",
+            "Maine Governor Paul LePage leaves an   voicemail for Democratic state Rep. Drew Gattine of Westbrook, challenging him to \"prove that I'm a racist\"."
+        ],
+        "tf-idf score": [
+            0.5417868799464238,
+            1.145441513888049,
+            1.2031162252449499
+        ]
+    },
+    "0.26822079702484924-3-167": {
+        "average clique similarity": 0.26822079702484924,
+        "clique": [
+            "2-Challenges Gattine t",
+            "1-The newspaper also r",
+            "3-He also recently cal"
+        ],
+        "median tf-idf score": 0.775686700683159,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Challenges Gattine to a duel, On Thursday, the governor took credit for leaving the voicemail in a later interview at his home with local media, and said he would like to challenge Gattine to a duel.",
+            "The newspaper also reports that in an interview, LePage said he wished it were 1825 so that he could challenge Gattine to a duel  --   and that if he did, he wouldn't shoot in the air like Alexander Hamilton.",
+            "He also recently called a political opponent  --   a state representative  --   and left an   furious voicemail, and later said he would like to shoot and kill that same state representative in a duel."
+        ],
+        "tf-idf score": [
+            0.775686700683159,
+            0.8726594777665118,
+            0.6960383714071081
+        ]
+    },
+    "0.39913477937143815-4-33": {
+        "average clique similarity": 0.39913477937143815,
+        "clique": [
+            "3-I want to talk to yo",
+            "4- Reuters     Let me ",
+            "5-On Thursday  they as",
+            "0- I want you to prove"
+        ],
+        "median tf-idf score": 0.765063927610353,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Vox",
+            "New York Post"
+        ],
+        "sentences": [
+            "I want to talk to you. I want you to prove that I'm a racist. I've spent my life helping black people and you little son of a bitch, socialist cocksucker. You  ... I need you to  ...     Just friggin'. I want you to record this and make it public because I am after you.",
+            "(Reuters)   \"Let me tell you something: Black people come up the highway and they kill Mainers,\" he told reporters. \"You ought to look into that! You make me so sick. \"",
+            "On Thursday, they asked the governor for it. He refused and stomped off. \"Let me tell you something: Black people come up the highway and they kill Mainers. You ought to look into that!\" he said. \"You make me so sick!\"",
+            "\"I want you to prove that I'm a racist,\" LePage said, adding that he had spent his life helping black people and calling Gattine a vulgar name related to oral sex. \"I want you to record this and make it public because I am after you. \""
+        ],
+        "tf-idf score": [
+            0.7697204261023619,
+            0.5351359161336523,
+            0.7604074291183442,
+            1.2682876266377137
+        ]
+    },
+    "0.4282433473574034-3-160": {
+        "average clique similarity": 0.4282433473574034,
+        "clique": [
+            "5-They come up here  t",
+            "1- Incidentally  half ",
+            "3-Incidentally  half t"
+        ],
+        "median tf-idf score": 0.3533777898408436,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "They come up here, they sell their heroin, then they go back home. Incidentally, half the time they impregnate a young, white girl before they leave. \"",
+            "\"Incidentally, half the time they impregnate a young, white girl before they leave,\" he said. As NPR's Sam Sanders wrote, the statement appeared to reference black men (and particularly ugly stereotypes about black men) to talk about drug problems in a state that is 95 percent white.",
+            "Incidentally, half the time they impregnate a young, white girl before they leave, which is a real sad thing because then we have another issue that we got to deal with down the road."
+        ],
+        "tf-idf score": [
+            0.3533777898408436,
+            0.8845351570914396,
+            0.33016300963555983
+        ]
+    },
+    "0.45711633250945544-3-12": {
+        "average clique similarity": 0.45711633250945544,
+        "clique": [
+            "3- It s hard to believ",
+            "1-Democratic leaders i",
+            "5-It s hard to believe"
+        ],
+        "median tf-idf score": 0.6262529269999956,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "\"It's hard to believe it's from the governor of the state of Maine, but again, we need to stay focused on the drug problem we are facing here in Maine and cannot allow this story to be about the governor's inappropriate and vulgar behaviors. \"",
+            "Democratic leaders in Maine, meanwhile, have said the governor is not \"mentally or emotionally fit to hold office\". The hostile remarks follow  --   and are directly linked to  --   a series of   remarks the Republican governor made on race.",
+            "It's hard to believe it's from the governor of the state of Maine, but again, we need to stay focused on the drug problem we are facing here in Maine and cannot allow this story to be about the governor's inappropriate and vulgar behaviors. \""
+        ],
+        "tf-idf score": [
+            0.6262529269999956,
+            0.6172307986096353,
+            0.6262529269999956
+        ]
+    },
+    "0.47880021510453397-3-167": {
+        "average clique similarity": 0.47880021510453397,
+        "clique": [
+            "1-It was LePage himsel",
+            "5-He accused Gattine o",
+            "4- I want to talk to y"
+        ],
+        "median tf-idf score": 0.7208002661628152,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It was LePage himself who told reporters about the existence of the voicemail. And then, of course, there's the way he ends the message itself: \"I want you to record this and make it public because I am after you.",
+            "He accused Gattine of calling him a racist --  Gattine says he did not --  and demanded he prove the accusation. \"I want you to record this and make it public because I am after you,\" he said.",
+            "\"I want to talk to you. I want you to prove that I'm a racist. I've spent my life helping black people, and you little son of a      socialist . ..  --   I want you to record this and make it public because I am after you."
+        ],
+        "tf-idf score": [
+            0.74685301413367,
+            0.7208002661628152,
+            0.691152776972107
+        ]
+    },
+    "0.484459782070817-4-5": {
+        "average clique similarity": 0.484459782070817,
+        "clique": [
+            "2- When a   little guy",
+            "4- I would like to tal",
+            "3-Thank you  LePage la",
+            "0- When a   little guy"
+        ],
+        "median tf-idf score": 0.9611309007230449,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"When a   little guy from Westbrook calls me a racist, now I'd like him to come up here because, tell you right now, I wish it were 1825,\" LePage said, according to the Press Herald.",
+            "\"I would like to talk to you about your comments about my being a racist,\" LePage said in a voicemail obtained by the Portland Press Herald.",
+            "Thank you. LePage later expanded on his rage to the Portland Press Herald, saying, \"When a   little guy from Westbrook calls me a racist, now I'd like him to come up here because, tell you right now, I wish it were 1825.",
+            "\"When a   little guy from Westbrook calls me a racist, now I'd like him to come up here because, tell you right now, I wish it were 1825,\" LePage said, according to the Portland Press Herald. \"And we would have a duel, that's how angry I am, and I would not put my gun in the air, I guarantee you, I would not be (Alexander) Hamilton."
+        ],
+        "tf-idf score": [
+            0.9861708774441751,
+            0.9360909240019145,
+            0.9333245960763515,
+            1.2010613513429442
+        ]
+    },
+    "0.4971286068810576-4-39": {
+        "average clique similarity": 0.4971286068810576,
+        "clique": [
+            "3-And we would have a ",
+            "0-PORTLAND  Maine     ",
+            "2- And we would have a",
+            "5-I would point it rig"
+        ],
+        "median tf-idf score": 0.795770050838892,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "And we would have a duel. That's how angry I am. And I would not put my gun in the air, I guarantee you; I would not be [Alexander] Hamilton. I would point it right between his eyes, because he is a   little runt and he has not done a damn thing since he's been in this legislature to help move the state forward. \"",
+            "PORTLAND, Maine  --   Republican Gov. Paul LePage has unleashed an obscene tirade on a Democratic legislator,   that said \"I am after you\" and telling reporters he wished it were 1825 so he could challenge the lawmaker to a duel and point a gun between his eyes.",
+            "\"And we would have a duel, that's how angry I am, and I would not put my gun in the air, I guarantee you, I would not be (Alexander) Hamilton. I would point it right between his eyes, because he is a   little runt and he has not done a damn thing since he's been in this Legislature to help move the state forward\".",
+            "I would point it right between his eyes, because he is a   little runt and he has not done a damn thing since he's been in the Legislature to help move the state forward. On Friday, LePage tried to make amends, sort of."
+        ],
+        "tf-idf score": [
+            0.6865784347251049,
+            1.1484303593300704,
+            0.6865784347251049,
+            0.904961666952679
+        ]
+    },
+    "0.4984383587472842-3-150": {
+        "average clique similarity": 0.4984383587472842,
+        "clique": [
+            "3-LePage said     Thes",
+            "5- I don t ask them to",
+            "4- I don t ask them to"
+        ],
+        "median tf-idf score": 0.6368657271597242,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "LePage said:    These are guys with the name   Smoothie, Shifty. These types of guys, they come from Connecticut and New York. They come up here, they sell their heroin, then they go back home.",
+            "\"I don't ask them to come to Maine and sell their poison, but they come and I will tell you that   percent of those pictures in my book, and it's a   binder, are black and Hispanic people from Waterbury, Connecticut, the Bronx and Brooklyn. \"",
+            "\"I don't ask them to come to Maine and sell their poison, but they come and I will tell you that   percent of those pictures in my book, and it's a   binder, are black and Hispanic people from Waterbury, Conn. the Bronx and Brooklyn. \""
+        ],
+        "tf-idf score": [
+            0.7286900493620634,
+            0.6368657271597242,
+            0.6231465488573824
+        ]
+    },
+    "0.6423027955854802-3-167": {
+        "average clique similarity": 0.6423027955854802,
+        "clique": [
+            "2-Paul Richard LePage ",
+            "3-Paul Richard LePage ",
+            "1-Paul Richard LePage "
+        ],
+        "median tf-idf score": 0.7446204206476572,
+        "publications": [
+            "CNN",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Paul Richard LePage,\" the audio recording says. \"I would like to talk to you about your comments about my being a racist, you (obscene term).",
+            "Paul Richard LePage. I would like to talk to you about your comments about my being a racist, you cocksucker.",
+            "Paul Richard LePage,\" it began. \"\"I would like to talk to you about your comments about my being a racist, you c********r\"  --   a vulgarity referencing fellatio. \"I want you to prove I'm a racist."
+        ],
+        "tf-idf score": [
+            0.7446204206476572,
+            0.6494498932049183,
+            0.7531353872872962
+        ]
+    }
+}

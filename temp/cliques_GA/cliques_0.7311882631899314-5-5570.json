@@ -1,0 +1,474 @@
+{
+    "0.23722215613375588-3-54": {
+        "average clique similarity": 0.23722215613375588,
+        "clique": [
+            "2-Republican and Democ",
+            "1-After the bill passe",
+            "4-Congressional leader"
+        ],
+        "median tf-idf score": 0.5971696999743035,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Republican and Democratic leaders in Congress say they'll override Obama's veto next week.",
+            "After the bill passed, proponents said they were confident they had the backing needed to overturn Obama's veto.",
+            "Congressional leaders plan to hold override votes in the coming days and supporters of the legislation say they are confident they can succeed in overturning the president's action."
+        ],
+        "tf-idf score": [
+            0.7082832187243537,
+            0.5907796045863338,
+            0.5971696999743035
+        ]
+    },
+    "0.30313978924343443-3-66": {
+        "average clique similarity": 0.30313978924343443,
+        "clique": [
+            "3-While saying he has ",
+            "2-But he maintained th",
+            "4- Enacting  this legi"
+        ],
+        "median tf-idf score": 0.9302765908512564,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "While saying he has \"deep sympathy\" for   victims' families, Obama said the bill \"does not enhance the safety of Americans from terrorist attacks, and undermines core U S interests. \"",
+            "But he maintained the legislation would seriously hurt US national security interests and cause harm to important alliances, saying it \"would neither protect Americans from terrorist attacks nor improve the effectiveness of our response to such attacks\".",
+            "\"Enacting [this legislation] into law, however, would neither protect Americans from terrorist attacks nor improve the effectiveness of our response to such attacks. \" But a group of families of   victims who have been advocating for the bill said in a statement Friday that they were \"outraged and dismayed at the president's veto,\" rejecting \"the unconvincing and unsupportable reasons that he offers as explanation. \""
+        ],
+        "tf-idf score": [
+            0.9302765908512564,
+            0.5170087523726432,
+            1.113761945940595
+        ]
+    },
+    "0.30460041369470353-3-180": {
+        "average clique similarity": 0.30460041369470353,
+        "clique": [
+            "2-But when it comes to",
+            "0-Congress was expecte",
+            "4- Saudi Arabia is fac"
+        ],
+        "median tf-idf score": 0.7897591402260595,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But when it comes to the stakes and the impact that this could have on our national security, the President is willing to take some political heat in order to try to do the right thing\".",
+            "Congress was expected to move rapidly to try to override the veto, which requires a   vote in the House and Senate.",
+            "[Saudi Arabia is facing unprecedented scrutiny from Congress]   Still, some members from both parties have called for Congress to delay its planned override vote so that lawmakers could try to renegotiate the bill with the White House."
+        ],
+        "tf-idf score": [
+            0.32191916007453764,
+            0.7897591402260595,
+            0.9256321600221858
+        ]
+    },
+    "0.31952235684148916-3-50": {
+        "average clique similarity": 0.31952235684148916,
+        "clique": [
+            "4-Recently declassifie",
+            "0-He said his country ",
+            "1-The House vote on 9 "
+        ],
+        "median tf-idf score": 0.8320605258333659,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Recently declassified pages from a 2002 congressional inquiry into the attacks also shed almost no new light on the issue. Still, Saudi Arabia, which had already spent in excess of $3 million on lobbying this year, stepped up its efforts considerably this week as Congress braced for the president's veto.",
+            "He said his country had warned that investor confidence in the U S would shrink if the bill became law. The House vote on Sept. 9 came two months after Congress released 28 declassified pages from a congressional report into  .",
+            "The House vote on 9 September came two months after Congress released 28 declassified pages from a congressional report into  . The pages reignited speculation over links that at least a few of the attackers had to Saudis, including government officials."
+        ],
+        "tf-idf score": [
+            0.9683581299713848,
+            0.8137077458469787,
+            0.8320605258333659
+        ]
+    },
+    "0.336624110308658-4-97": {
+        "average clique similarity": 0.336624110308658,
+        "clique": [
+            "3-The Justice Against ",
+            "4-White House press se",
+            "2-In his veto message ",
+            "1-The bill sailed thro"
+        ],
+        "median tf-idf score": 1.233705483914309,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "The Justice Against Sponsors of Terrorism Act sailed through both chambers of Congress by voice vote, with final House passage coming just two days before Obama led the nation in marking the 15th anniversary of the attacks that killed nearly 3, 000 people in New York, Washington and Pennsylvania on Sept. 11, 2001.",
+            "White House press secretary Josh Earnest said that President Obama intends to veto a bill approved by Congress that would allow families of the victims of the Sept. 11, 2001 terrorist attacks to sue Saudi Arabia.",
+            "In his veto message, Obama wrote he had \"deep sympathy for the families of the victims of the terrorist attacks of September 11, 2001, who have suffered grievously\".",
+            "The bill sailed through both chambers of Congress by voice vote, with final House passage coming just two days before Obama led the country in marking the 15th anniversary of the attacks that killed nearly 3, 000 people in New York, Washington and Pennsylvania on 11 September 2001."
+        ],
+        "tf-idf score": [
+            1.3122464382502703,
+            1.5818308825992018,
+            0.7672629459740272,
+            1.1551645295783475
+        ]
+    },
+    "0.3743526499776972-3-47": {
+        "average clique similarity": 0.3743526499776972,
+        "clique": [
+            "0-The bill  the Justic",
+            "2-Support for the  Jus",
+            "1-The bill  the Justic"
+        ],
+        "median tf-idf score": 0.6300225677742605,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "The bill, the Justice Against Sponsors of Terrorism Act, had   to pull billions of dollars from the U S economy if it was enacted. But Saudi Foreign Minister Adel bin Ahmed   denied in May that the kingdom made any threats over the bill.",
+            "Support for the \"Justice Against Sponsors of Terrorism Act\" ran high among lawmakers, who overwhelmingly passed the bill earlier this year after pressure from victims' groups.",
+            "The bill, the Justice Against Sponsors of Terrorism Act, had triggered a threat from Saudi Arabia to pull billions of dollars from the US economy if it was enacted."
+        ],
+        "tf-idf score": [
+            0.7187129638264567,
+            0.49151234131933147,
+            0.6300225677742605
+        ]
+    },
+    "0.3822327544694814-3-136": {
+        "average clique similarity": 0.3822327544694814,
+        "clique": [
+            "1-A successful overrid",
+            "2-If successful  Congr",
+            "4-It would be the firs"
+        ],
+        "median tf-idf score": 0.5218926883502508,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "A successful override would be the first of Obama's presidency. With lawmakers eager to return home to campaign ahead of the November election, a vote could come as early as Tuesday.",
+            "If successful, Congress' override would be the first of Obama's presidency.",
+            "It would be the first time during Obama's presidency that Congress has overridden a veto."
+        ],
+        "tf-idf score": [
+            0.7259425916971871,
+            0.45800984963209046,
+            0.5218926883502508
+        ]
+    },
+    "0.401830928931355-3-180": {
+        "average clique similarity": 0.401830928931355,
+        "clique": [
+            "3-The legislation give",
+            "1-Setting up a potenti",
+            "0-WASHINGTON       Set"
+        ],
+        "median tf-idf score": 1.1534571285275346,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "The legislation gives victims' families the right to sue in U S court for any role that elements of the Saudi government may have played in the 2001 attacks.",
+            "Setting up a potential override by Congress, Barack Obama vetoed a bill Friday that would have allowed the families of   victims to sue the government of Saudi Arabia.",
+            "WASHINGTON  --   Setting up a potential override by Congress, President Barack Obama vetoed a bill Friday that would have allowed the families of   victims to sue the government of Saudi Arabia."
+        ],
+        "tf-idf score": [
+            0.8589937876491777,
+            1.1534571285275346,
+            1.2534818644634
+        ]
+    },
+    "0.40286751941284277-3-171": {
+        "average clique similarity": 0.40286751941284277,
+        "clique": [
+            "1-Congress was expecte",
+            "4- I hope that it can ",
+            "3-But Congress was exp"
+        ],
+        "median tf-idf score": 0.9118219975612019,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Congress was expected to move rapidly to try to override the veto, which requires a   vote in the House and Senate.",
+            "\"I hope that it can be put off, and cooler heads will prevail,\" the Senate Intelligence Committee's ranking Democrat, Dianne Feinstein (Calif.) said this week, calling efforts to move ahead with the bill in its current form \"a mistake. \" The scope of the legislation was already narrowed once this year to respond to concerns raised by the administration and members of Congress.",
+            "But Congress was expected to move rapidly to try to override the veto, which requires a   vote in the House and Senate. A successful override would be the first of Obama's presidency."
+        ],
+        "tf-idf score": [
+            0.7897591402260595,
+            0.9118219975612019,
+            1.0262441218065694
+        ]
+    },
+    "0.42475438400744575-4-180": {
+        "average clique similarity": 0.42475438400744575,
+        "clique": [
+            "2-Schumer  a New York ",
+            "0-But Sen  Chuck Schum",
+            "1-But Senator Chuck Sc",
+            "4- This is a disappoin"
+        ],
+        "median tf-idf score": 0.7521632311140474,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Schumer, a New York Democrat who was a lead supporter of the bill, called the veto \"a disappointing decision that will be swiftly and soundly overturned in Congress\".",
+            "But Sen. Chuck Schumer of New York, one of the most prominent Democrats urging Obama to sign the bill, predicted that Obama's veto would be \"swiftly and soundly overturned in Congress. \"",
+            "But Senator Chuck Schumer of New York, one of the most prominent Democrats urging Obama to sign the bill, predicted Obama's veto would be \"swiftly and soundly overturned in Congress\".",
+            "\"This is a disappointing decision that will be swiftly and soundly overturned in Congress,\" Sen. Charles Schumer ( . Y) who   the legislation with Sen. John Cornyn ( .) said in a statement. \"I believe both parties will come together next week to make JASTA the law of the land."
+        ],
+        "tf-idf score": [
+            0.6320534043458235,
+            0.7607200365105664,
+            0.7436064257175284,
+            0.7913260608932557
+        ]
+    },
+    "0.43328035945218585-3-40": {
+        "average clique similarity": 0.43328035945218585,
+        "clique": [
+            "2-Demonstrating the di",
+            "0-In the   to Obama s ",
+            "1-In the   to Obama s "
+        ],
+        "median tf-idf score": 1.0861974430306804,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Demonstrating the difficult political position the White House is in, Democratic presidential nominee Hillary Clinton, Obama's former secretary of state, expressed her support for the legislation Friday.",
+            "In the   to Obama's veto, the White House said the system the U S uses to identify and punish countries that support terrorism was set by law and is more effective than a \"patchwork\" of legal decisions.",
+            "In the   to Obama's veto, the White House said the system the US uses to identify and punish countries that support terrorism was set by law and is more effective than a \"patchwork\" of legal decisions."
+        ],
+        "tf-idf score": [
+            0.8082759669935102,
+            1.0861974430306804,
+            1.0861974430306804
+        ]
+    },
+    "0.44107355517546926-3-3": {
+        "average clique similarity": 0.44107355517546926,
+        "clique": [
+            "1-Families of the vict",
+            "0-Families of the vict",
+            "2- I worry about trial"
+        ],
+        "median tf-idf score": 1.0031795735308298,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Families of the victims spent years lobbying lawmakers for the right to sue the kingdom in US court for any role elements of Saudi Arabia's government may have had in the attacks.",
+            "Families of the victims spent years lobbying lawmakers for the right to sue the kingdom in U S court for any role elements of Saudi Arabia's government may have had in the attacks.",
+            "\"I worry about trial lawyers trying to get rich off of this. And I do worry about the precedence. At the same time, these victims do need to have their day in court\". He was one of several prominent lawmakers who have expressed buyers' remorse for the proposed law."
+        ],
+        "tf-idf score": [
+            1.0031795735308298,
+            1.0031795735308298,
+            0.5495889429968026
+        ]
+    },
+    "0.44310541791475355-3-147": {
+        "average clique similarity": 0.44310541791475355,
+        "clique": [
+            "2-A pair of Republican",
+            "0-The support group   ",
+            "1-The support group   "
+        ],
+        "median tf-idf score": 0.515831156110796,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "A pair of Republican senators, Bob Corker of Tennessee and Lindsey Graham of South Carolina, have pushed for changes to make it more difficult for the families to pursue lawsuits but could also make it harder for the US to be sued for alleged wrongdoing.",
+            "The support group   Families United For Justice Against Terrorism also dismissed fears that the U S could become the target of reciprocal lawsuits.",
+            "The support group   Families United For Justice Against Terrorism also dismissed fears that the US could become the target of reciprocal lawsuits."
+        ],
+        "tf-idf score": [
+            0.3716201553168306,
+            0.515831156110796,
+            0.515831156110796
+        ]
+    },
+    "0.45490177173865326-3-83": {
+        "average clique similarity": 0.45490177173865326,
+        "clique": [
+            "1-Obama long had objec",
+            "2-The bill would end f",
+            "0-Obama long had objec"
+        ],
+        "median tf-idf score": 0.9417328926348137,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "Obama long had objected, too, warning that if US citizens are allowed to take the Saudis into court, then foreign countries could do the same to the United States, its diplomats and its service members.",
+            "The bill would end foreign countries' immunity in the United States from lawsuits, allowing federal civil suits to go forward if the country is determined to have had a hand in a US terror attack.",
+            "Obama long had objected, too, warning that if U S citizens are allowed to take the Saudis into court, then foreign countries could do the same to the United States, its diplomats and its service members."
+        ],
+        "tf-idf score": [
+            0.9417328926348137,
+            0.4556936239164182,
+            0.9417328926348137
+        ]
+    },
+    "0.4602863292055208-3-62": {
+        "average clique similarity": 0.4602863292055208,
+        "clique": [
+            "1- The families of the",
+            "0-Fifteen of the 19 me",
+            "3-Fifteen of the 19 hi"
+        ],
+        "median tf-idf score": 1.0810790640909358,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"The families of the victims of   deserve their day in court, and justice for those families shouldn't be thrown overboard because of diplomatic concerns,\" Schumer said. Fifteen of the 19 men who carried out the attacks were Saudi nationals.",
+            "Fifteen of the 19 men who carried out the attacks were Saudi nationals.",
+            "Fifteen of the 19 hijackers were Saudi nationals. Families of the victims spent years lobbying lawmakers for the right to sue the kingdom in U S court. Saudi Arabia, a key U S ally in the Middle East, strongly objected to the bill."
+        ],
+        "tf-idf score": [
+            1.0810790640909358,
+            0.36604434115435414,
+            1.10642239337079
+        ]
+    },
+    "0.4830153582615528-3-177": {
+        "average clique similarity": 0.4830153582615528,
+        "clique": [
+            "0-But he said the bill",
+            "4-The result  accordin",
+            "1-But he said the bill"
+        ],
+        "median tf-idf score": 1.321983232563419,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "But he said the bill would be \"detrimental to U S national interests\" and could lead to lawsuits against the U S or American officials for actions taken by groups armed, trained or supported by the U S \"If any of these litigants were to win judgments  --   based on foreign domestic laws as applied by foreign courts  --   they would begin to look to the assets of the U S Government held abroad to satisfy those judgments, with potentially serious financial consequences for the United States,\" Obama said.",
+            "The result, according to the White House, is that American officials could now be sued in foreign courts over U S military or diplomatic actions abroad, which administration officials said poses a threat to national security. \"I recognize that there is nothing that could ever erase the grief the   families have endured.",
+            "But he said the bill would be \"detrimental to US national interests\" and could lead to lawsuits against the US or American officials for actions taken by groups armed, trained or supported by the US \"If any of these litigants were to win judgments  --   based on foreign domestic laws as applied by foreign courts  --   they would begin to look to the assets of the US government held abroad to satisfy those judgments, with potentially serious financial consequences for the United States,\" Obama said."
+        ],
+        "tf-idf score": [
+            1.321983232563419,
+            1.0282744852640469,
+            1.321983232563419
+        ]
+    },
+    "0.5207951927231866-5-142": {
+        "average clique similarity": 0.5207951927231866,
+        "clique": [
+            "1-Senate majority lead",
+            "3-Democratic New York ",
+            "2- Our assumption is t",
+            "4-The override votes w",
+            "0-Senate Majority Lead"
+        ],
+        "median tf-idf score": 0.7733564969208979,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "Washington Post",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Senate majority leader Mitch McConnell's office said the Senate would take up the override \"as soon as practicable in this work period\".",
+            "Democratic New York Sen. Chuck Schumer called the veto a \"disappointing decision that will be swiftly and soundly overturned in Congress. \" Senate Majority Leader Mitch McConnell's office said the Senate would take up the override \"as soon as practicable in this work period\".",
+            "\"Our assumption is that the veto will be overridden,\" Senate Majority Leader Mitch McConnell told reporters on Tuesday. House Speaker Paul Ryan followed suit Wednesday, saying, \"I do think the votes are there for the override\".",
+            "The override votes will likely take place next week. \"Now that we have received the veto message from the president, the Senate will consider it as soon as practicable in this work period,\" said David Popp, a spokesman for Senate Majority Leader Mitch McConnell ( . ).",
+            "Senate Majority Leader Mitch McConnell's office said the Senate would take up the override \"as soon as practicable in this work period. \""
+        ],
+        "tf-idf score": [
+            0.5652389944655287,
+            1.156892654866407,
+            0.7733564969208979,
+            0.94675844396407,
+            0.5652389944655287
+        ]
+    },
+    "0.7713926149067012-3-121": {
+        "average clique similarity": 0.7713926149067012,
+        "clique": [
+            "1-Obama cited the pote",
+            "0-Obama cited the pote",
+            "3-Obama  vetoing the l"
+        ],
+        "median tf-idf score": 0.39761558454262796,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Obama cited the potential for the popular bipartisan bill to backfire against the US, its diplomats and military personnel.",
+            "Obama cited the potential for the popular bipartisan bill to backfire against the U S its diplomats and military personnel.",
+            "Obama, vetoing the legislation just hours before it was set to become law, cited the potential for the bipartisan bill to backfire against the U S its diplomats and military personnel."
+        ],
+        "tf-idf score": [
+            0.39761558454262796,
+            0.39761558454262796,
+            0.6717147535115133
+        ]
+    },
+    "0.8807582254713878-3-14": {
+        "average clique similarity": 0.8807582254713878,
+        "clique": [
+            "0-The U S relies on th",
+            "1-The administration w",
+            "3-The administration w"
+        ],
+        "median tf-idf score": 0.8399861058043006,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "The U S relies on the Saudis as a counter to Iran's influence in the region as well as to help combat the spread of terrorism throughout the Middle East.",
+            "The administration was also apprehensive about undermining a longstanding yet difficult relationship with Saudi Arabia. The US relies on the Saudis as a counter to Iran's influence in the region as well as to help combat the spread of terrorism throughout the Middle East.",
+            "The administration was also apprehensive about undermining a longstanding yet difficult relationship with Saudi Arabia. The U S relies on the Saudis as a counter to Iran's influence in the region as well as to help combat the spread of terrorism throughout the Middle East."
+        ],
+        "tf-idf score": [
+            0.5016791166451814,
+            0.8399861058043006,
+            0.8399861058043006
+        ]
+    }
+}

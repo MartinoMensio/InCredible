@@ -1,0 +1,654 @@
+{
+    "0.16035322912389216-3-83": {
+        "average clique similarity": 0.16035322912389216,
+        "clique": [
+            "2-Hogan s attorneys to",
+            "5-Their thinking is th",
+            "0- It could potentiall"
+        ],
+        "median tf-idf score": 0.9688119297634838,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Hogan's attorneys told jurors this is the core of the case: \"Gawker took a secretly recorded sex tape and put it on the Internet\".",
+            "Their thinking is that if the defense could establish that the tape was made as a publicity stunt, then it was fair game to be covered as news. As the   previously reported, the issue of whether the video is newsworthy was a point of focus in much of the case.",
+            "\"It could potentially be a turning point in law\". The verdict and the unsealing of hundreds of pages of documents late in the day capped a three week judicial circus in the sleepy St. Petersburg courtroom. Jurors, media and thousands who followed the case on Twitter and livestream video were treated to days of details about Hogan's sex life, body part size, and images of him in thong underwear."
+        ],
+        "tf-idf score": [
+            0.9688119297634838,
+            0.6335503129406054,
+            1.1073128187290657
+        ]
+    },
+    "0.1779938149406368-3-139": {
+        "average clique similarity": 0.1779938149406368,
+        "clique": [
+            "1-The appeal strategy ",
+            "6-Denton also told the",
+            "5-  The jury agreed  G"
+        ],
+        "median tf-idf score": 0.9593739014096097,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The appeal strategy will hinge on the fact that radio shock jock Bubba the Love Sponge, Hogan''s best friend and the filmer of the tape was not given the chance to testify in the case.'",
+            "Denton also told the Times that there was a    chance he would have to sell a controlling interest to keep the company solvent. Gawker's legal strategy always hinged on the appellate courts, which could be more favorable terrain for the company when raising First Amendment concerns and less susceptible to the case's more salacious aspects.",
+            "\" The jury agreed. Gawker, however, has \"warned that if Hogan wins the case, the decision could not only destroy the company  --   a loss could cost the site up to $50 [million],\" the Guardian writes."
+        ],
+        "tf-idf score": [
+            0.9593739014096097,
+            0.9225479718011483,
+            0.9897436739978682
+        ]
+    },
+    "0.17999431756470727-3-368": {
+        "average clique similarity": 0.17999431756470727,
+        "clique": [
+            "6-They also warned of ",
+            "3-Gawker publisher Nic",
+            "2-Gawker s founder pro"
+        ],
+        "median tf-idf score": 0.6177054431389168,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "They also warned of chilling First Amendment implications for journalism if Hogan's lawsuit against them prevailed. Nick Denton, the founder of Gawker, defended Daulerio's decision to publish the article. \"He made a contrast between an American icon and the man behind the icon,\" Denton told the jury during his testimony.",
+            "Gawker publisher Nick Denton said the website would appeal the verdict.",
+            "Gawker's founder promised to appeal the verdict, saying that key evidence and \"the most important witness\" were withheld from testimony in front of the jury."
+        ],
+        "tf-idf score": [
+            1.0352543689511053,
+            0.6177054431389168,
+            0.5692351098274557
+        ]
+    },
+    "0.18128746093973477-3-50": {
+        "average clique similarity": 0.18128746093973477,
+        "clique": [
+            "6-That total could ris",
+            "7-It took them close t",
+            "5- Turkel walked juror"
+        ],
+        "median tf-idf score": 1.073522429852371,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "That total could rise when the jury reconvenes to deliberate and award punitive damages. In his lawsuit, Hogan accused Gawker of violating his privacy by publishing a   and   clip from a sex tape between him and a friend's wife.",
+            "It took them close to six hours to decide that Gawker violated Hogan's privacy and caused him severe emotional distress by publishing a   with the wife of his former best buddy, Bubba The Love Sponge Clem.",
+            "\"Turkel walked jurors through Hogan's case: that his right to privacy was gratuitously compromised by Gawker, that his reputation was materially compromised, and that he suffered emotional distress of 'outrageous intensity and duration.'"
+        ],
+        "tf-idf score": [
+            1.1355196186654806,
+            0.9109236517364894,
+            1.073522429852371
+        ]
+    },
+    "0.19713368081438967-3-199": {
+        "average clique similarity": 0.19713368081438967,
+        "clique": [
+            "0-He suggested that al",
+            "2-They said Hogan didn",
+            "4-On the stand  Dauler"
+        ],
+        "median tf-idf score": 0.8772607642661165,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "He suggested that although the jurors might find the video, Gawker and Hogan's sex life distasteful, they must protect the First Amendment right to free speech.",
+            "They said Hogan didn't consent to the video, that Gawker didn't follow usual journalism procedures before posting it and that the video wasn't newsworthy.",
+            "On the stand, Daulerio testified that he did not consider Hogan's right to privacy before posting the video."
+        ],
+        "tf-idf score": [
+            0.9625326765730343,
+            0.8772607642661165,
+            0.6700170063697274
+        ]
+    },
+    "0.21811042273977013-3-312": {
+        "average clique similarity": 0.21811042273977013,
+        "clique": [
+            "7-In siding with Hogan",
+            "4-Hogan       whose re",
+            "5-Gawker argued that B"
+        ],
+        "median tf-idf score": 1.1813865091462563,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "In siding with Hogan, whose real name is Terry Bollea, the jury  decided that he was performing a private act in the sex tape  --   and posting the video wasn't protected by the First Amendment. The jury didn't stop with the media company.",
+            "Hogan  --   whose real name is Terry Bollea  --   sued Gawker Media for $100 million for publishing the clip without his consent, causing him \"severe emotional distress,\" his lawyers said during the trial.",
+            "Gawker argued that Bollea's \"frequent public discussion of his sex life made the clip newsworthy and thus protected by the First Amendment\"."
+        ],
+        "tf-idf score": [
+            1.189592997630396,
+            1.1813865091462563,
+            0.5944341620799084
+        ]
+    },
+    "0.21822608285531553-3-316": {
+        "average clique similarity": 0.21822608285531553,
+        "clique": [
+            "7-Throughout the   tri",
+            "4- The verdict in his ",
+            "1-The jury also found "
+        ],
+        "median tf-idf score": 1.0700982763230673,
+        "publications": [
+            "Business Insider",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Throughout the   trial, jurors heard from more than a dozen witnesses, including Denton and Daulerio. Hogan also took the stand, saying he was \"completely humiliated\" when he learned Gawker had posted the video.",
+            " The verdict in his favor came after a   trial in which jurors heard testimony from Hogan and several Gawker employees, including founder Nick Denton and former editors A J Daulerio and Emma Carmichael. The jury deliberated for less than six hours.",
+            "The jury also found that Gawker CEO Nick Denton and former editor A J Daulerio, who originally posted the video in question, are personally liable.' 'Gawker had been preparing for this verdict, and hinted earlier on Friday that \"\"."
+        ],
+        "tf-idf score": [
+            1.130808861571649,
+            1.0700982763230673,
+            0.8635641431991518
+        ]
+    },
+    "0.2276291811956923-3-368": {
+        "average clique similarity": 0.2276291811956923,
+        "clique": [
+            "5-An attorney for Gawk",
+            "7-  Gawker lawyer Mich",
+            "2-He suggested that al"
+        ],
+        "median tf-idf score": 0.9558707398863344,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "An attorney for Gawker, Michael Sullivan, said in court Friday that while jurors may find the publication of the tape \"unpleasant,\" the post was still free speech under the Constitution.",
+            "\" Gawker lawyer Michael Sullivan had argued the posting was \"lawful and legal. \" He urged jurors to protect the First Amendment.",
+            "He suggested that although the jurors might find the video, Gawker and Hogan's sex life distasteful, they must protect the First Amendment right to free speech. \"We ask you to protect something that some of you may find unpleasant,\" he said."
+        ],
+        "tf-idf score": [
+            0.9558707398863344,
+            0.6674126841274424,
+            1.1564440343016855
+        ]
+    },
+    "0.23514098800812655-3-192": {
+        "average clique similarity": 0.23514098800812655,
+        "clique": [
+            "7- This case defines r",
+            "4-When asked if he car",
+            "0-Sullivan said   Beca"
+        ],
+        "median tf-idf score": 0.6766692506104596,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "\"This case defines reckless disregard,\" he said. \"Every witness was asked, 'If you knew it would cause him severe emotional distress, would you have done it anyway?' And every witness said, 'Yes.'",
+            "When asked if he cared if the tape would cause Hogan \"emotional distress,\" Daulerio responded, \"that's not my job. \" \"When you edited the tape, you made sure the readers saw Mr Bollea's penis, didn't you?\"",
+            "Sullivan said. \"Because it's Bubba's bedroom. If anyone knows the dark and twisted things that Bubba is into, you can bet it is Mr Bollea  --   you can bet it's Hulk Hogan\"."
+        ],
+        "tf-idf score": [
+            0.6009372028349474,
+            0.6898037687472758,
+            0.6766692506104596
+        ]
+    },
+    "0.2424157919902159-3-148": {
+        "average clique similarity": 0.2424157919902159,
+        "clique": [
+            "0- He has consistently",
+            "3-A Gawker attorney pr",
+            "2-They pointed out tha"
+        ],
+        "median tf-idf score": 0.7236167414420802,
+        "publications": [
+            "Talking Points Memo",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"He has consistently chosen to put his private life out there, for public consumption,\" attorney Michael Sullivan said. In the video, Bollea can reportedly be heard asking Clem: \"You're not filming this, are you?\" \"Why does that he ask that?\"",
+            "A Gawker attorney previously said a loss could put the website out of business.",
+            "They pointed out that news of the sex tape first appeared on at least two websites: TMZ and The Dirty. Hogan went on TMZ's TV program to talk about it, and later, appeared on the Howard Stern show. \"He has consistently chosen to put his private life out there, for public consumption,\" said attorney Michael Sullivan."
+        ],
+        "tf-idf score": [
+            0.7236167414420802,
+            0.4556128786629283,
+            1.1240389654940683
+        ]
+    },
+    "0.2508685498169955-3-368": {
+        "average clique similarity": 0.2508685498169955,
+        "clique": [
+            "5-The award comes on t",
+            "7-ST PETERSBURG  Fla  ",
+            "2-   A jury awarded Hu"
+        ],
+        "median tf-idf score": 1.1595794664917893,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The award comes on top of the $115 million the jury already specified on Friday, bringing the total damages to $140 million. The   jury assessed Gawker $15 million in punitive damages.",
+            "ST PETERSBURG, Fla.  --   A jury  delivered a   Friday evening  --   awarding the wrestling legend $115 million for the sex tape the Web site posted in 2012. Hogan, who stands to win even more money when punitive damages are decided next week, sobbed after the six jurors  returned their verdict.",
+            "   A jury awarded Hulk Hogan $115 million Friday, siding with the   wrestler in his sex tape lawsuit against Gawker Media, the Associated Press reported."
+        ],
+        "tf-idf score": [
+            0.58543663651574,
+            1.1695086524828648,
+            1.1595794664917893
+        ]
+    },
+    "0.25861763329383314-3-158": {
+        "average clique similarity": 0.25861763329383314,
+        "clique": [
+            "2-Hogan didn t ask for",
+            "7- What s significant ",
+            "4-During closing argum"
+        ],
+        "median tf-idf score": 1.0088354736280152,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Hogan didn't ask for any of this to happen, lawyer Kenneth Turkel said, adding that Bollea, the private man, expected privacy during an intimate moment.",
+            "\"What's significant in the world of Gawker is a tape of my client in a private bedroom with a friend at the lowest point in his life,\" said Hogan's lawyer, Kenneth Turkel.",
+            "During closing arguments, Gawker's lawyer, Michael Sullivan, reminded the jurors  --   who did not view the sex tape  --   that Hogan asks Bubba the Love Sponge before the encounter, \"You're not filming this, are you?\""
+        ],
+        "tf-idf score": [
+            0.8327565539645577,
+            1.0456072322405816,
+            1.0088354736280152
+        ]
+    },
+    "0.2674073283397776-3-368": {
+        "average clique similarity": 0.2674073283397776,
+        "clique": [
+            "0-The jury isn t finis",
+            "4-Nick Denton and AJ D",
+            "6- Given key evidence "
+        ],
+        "median tf-idf score": 1.001385376289926,
+        "publications": [
+            "Talking Points Memo",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The jury isn't finished they will return to court Monday to award punitive damages beyond Friday's sum. Just moments after the verdict, Gawker founder Nick Denton said he will appeal, based on evidence that wasn't introduced in court.",
+            "Nick Denton and AJ Daulerio have sat motionless throughout, while a sobbing Hogan is consoled by attorney #hulkvsgawk, \"Given that key evidence and the most important witness were both improperly withheld from this jury, we all know the appeals court will need to resolve the case,\" Denton said.",
+            "\"Given key evidence and the most important witness were both improperly withheld from this jury, we all knew the appeals court will need to resolve this case,\" Denton said in a statement. The jury found him and Daulerio personally liable in their verdict."
+        ],
+        "tf-idf score": [
+            1.001385376289926,
+            1.1731636223858335,
+            0.9468329591919378
+        ]
+    },
+    "0.27550069104034075-3-368": {
+        "average clique similarity": 0.27550069104034075,
+        "clique": [
+            "1-Gawker  s argument w",
+            "3-Gawker said the post",
+            "7-Gawker has maintaine"
+        ],
+        "median tf-idf score": 1.0990134367489812,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "Gawker''s argument was that Hogan was a public figure who had often discussed his sex life in public, thus making the tape''s release newsworthy.' '' '' \"It's official: Media company Gawker has lost.",
+            "Gawker said the posting was in keeping with its mission to cover true and interesting subjects, stressing that Hogan had made his sex life a public matter.",
+            "Gawker has maintained that because he's a public figure, Hogan's sex life was a matter of public interest and posting the tape was protected by the Constitution."
+        ],
+        "tf-idf score": [
+            1.2618861770559724,
+            1.0990134367489812,
+            1.09078490375945
+        ]
+    },
+    "0.28488337096530164-3-106": {
+        "average clique similarity": 0.28488337096530164,
+        "clique": [
+            "0-Hogan s attorneys to",
+            "7- Mr Daulerio sits do",
+            "4- With a click  he up"
+        ],
+        "median tf-idf score": 0.9688119297634838,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Hogan's attorneys told jurors this is the core of the case: \"Gawker took a secretly recorded sex tape and put it on the Internet\".",
+            "\"Mr Daulerio sits down at the computer with his friends, joking, laughing, mocking, recklessly consuming this content, and with a click uploads this thing up on the Internet and turns this man's life upside down,\" he said. Turkel argued that Gawker saw an impressive spike in unique page views after posting the video  --   and its monetary value, not newsworthiness, was the site's ultimate concern.",
+            "\"With a click, he uploads this thing onto the internet and turns this man's life upside down,\" Turkel said of Daulerio."
+        ],
+        "tf-idf score": [
+            0.9688119297634838,
+            1.1311650800151531,
+            0.4060200833076475
+        ]
+    },
+    "0.2932513970781452-3-368": {
+        "average clique similarity": 0.2932513970781452,
+        "clique": [
+            "0-ST PETERSBURG  Fla  ",
+            "5-A Florida jury sided",
+            "6-  I want to receive "
+        ],
+        "median tf-idf score": 1.1255583190097562,
+        "publications": [
+            "Talking Points Memo",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "ST PETERSBURG, Fla. (AP)  --   A Florida jury sided with   wrestler Hulk Hogan and awarded him $115 million in his sex tape lawsuit against Gawker Media.",
+            "A Florida jury sided with former wrestler Hulk Hogan on Monday, awarding him $25 million in punitive damages in his invasion of privacy lawsuit against Gawker Media.",
+            ", I want to receive updates from partners and sponsors. Updated on March 19 at 1:20 a. m. ET, A Florida jury awarded Hulk Hogan $115 million in his lawsuit against Gawker Media for publishing part of a sex tape of him four years ago, handing the retired pro wrestler a resounding victory as the legal battle moves to the appellate courts."
+        ],
+        "tf-idf score": [
+            1.1255583190097562,
+            1.0756444811357802,
+            1.3645009220132354
+        ]
+    },
+    "0.29464388840403366-3-368": {
+        "average clique similarity": 0.29464388840403366,
+        "clique": [
+            "0-Earlier Friday  in s",
+            "2-The verdict says no ",
+            "5-According to the Gua"
+        ],
+        "median tf-idf score": 1.1021574746391622,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Earlier Friday, in spirited closing arguments, lawyers for Hogan and Gawker discussed themes of personal life versus celebrity and freedom of speech versus the right to privacy.",
+            "The verdict says no more\". Earlier Friday, in spirited closing arguments, lawyers for Hogan and Gawker discussed themes of personal life versus celebrity, and freedom of speech versus the right to privacy.",
+            "According to the Guardian, Bollea's lawyers also called Gawker's \"common decency\" into question during closing arguments on Friday: \"Kenneth Turkel, a lawyer for Hogan, told jurors Gawker editors had not even had the 'common decency' to call Hogan for comment before they posted the video."
+        ],
+        "tf-idf score": [
+            1.0174329921379184,
+            1.1021574746391622,
+            1.109021954916273
+        ]
+    },
+    "0.29535978565254656-3-368": {
+        "average clique similarity": 0.29535978565254656,
+        "clique": [
+            "6- Editors later excis",
+            "2-The jurors reached t",
+            "0-The jurors reached t"
+        ],
+        "median tf-idf score": 1.0567054181427427,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "(Editors later excised the footage from the post, but not before it had been viewed five million times.) While taking the stand during the   trial, Hogan testified that the footage's release \"turned my world upside down,\" leaving him depressed and \"completely humiliated. \" Jurors deliberated on the verdict for six hours. Hogan openly wept as it was read.",
+            "The jurors reached the decision Friday evening, less than six hours after they began deliberations. The trial lasted two weeks. \"We're exceptionally happy with the verdict,\" Hogan's legal team told Fox News, \"We think it represents a statement as to the public's disgust with the invasion of privacy disguised as journalism.",
+            "The jurors reached the decision Friday evening, less than six hours after they began deliberations. The trial lasted two weeks, and Hogan wept as the verdict was read."
+        ],
+        "tf-idf score": [
+            1.0578903270131623,
+            1.0567054181427427,
+            0.8009876825247189
+        ]
+    },
+    "0.3000683273978387-3-165": {
+        "average clique similarity": 0.3000683273978387,
+        "clique": [
+            "2- I want you to imagi",
+            "0-Much was made during",
+            "3- This is a victory f"
+        ],
+        "median tf-idf score": 0.8618476402488733,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"I want you to imagine the fact that for 35 plus years he is essentially an actor, an entertainer, who has played the same role,\" said Turkel. He said Hogan \"has every right, every right, to keep whatever precious private moments in his life, which for this gentlemen are very few\".",
+            "Much was made during the trial of Hogan's celebrity persona versus Bollea's privacy. \"I want you to imagine the fact that for   years he is essentially an actor, an entertainer, who has played the same role,\" Turkel said.",
+            "\"This is a victory for everyone who has had their privacy violated,\" Hogan's attorney, David Houston, said."
+        ],
+        "tf-idf score": [
+            0.8618476402488733,
+            1.0789407804063542,
+            0.6716329335227476
+        ]
+    },
+    "0.31258136903534683-3-368": {
+        "average clique similarity": 0.31258136903534683,
+        "clique": [
+            "2-Gawker did not try t",
+            "3- The appellate court",
+            "0-Gawker did not try t"
+        ],
+        "median tf-idf score": 0.8978912911080893,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Gawker did not try to contact Bollea or the woman in the video, and nor did the website contact the woman's husband, DJ Bubba The Love Sponge Clem, who recorded the video. It was never conclusively determined during trial who leaked the video to the media.",
+            "\"The appellate court is a little more neutral\". Gawker's     video depicted Hogan engaged in sex with the wife of his   friend, radio \"shock jock\" personality Bubba the Love Sponge Clem.",
+            "Gawker did not try to contact Hogan or the woman in the video nor did the website contact the woman's husband, DJ Bubba The Love Sponge Clem, who recorded the video."
+        ],
+        "tf-idf score": [
+            0.8978912911080893,
+            0.9935847452646359,
+            0.8355802265007867
+        ]
+    },
+    "0.3141616533253689-3-211": {
+        "average clique similarity": 0.3141616533253689,
+        "clique": [
+            "7-Hogan s lawsuit clai",
+            "3- A Florida jury on F",
+            "1- After about three h"
+        ],
+        "median tf-idf score": 1.2592928618660901,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Hogan's lawsuit claimed Gawker  violated his right to privacy by posting the sex tape, which the wrestler said was filmed without his knowledge.",
+            " A Florida jury on Friday awarded Hulk Hogan $115 million with the possibility of more after finding the Gawker website violated his privacy by publishing a sex tape of the celebrity wrestler.",
+            "\"After about three hours of deliberations on Friday afternoon, the jury in the case came back with a verdict finding that Gawker violated Hogan's privacy by posting a sex tape online\"."
+        ],
+        "tf-idf score": [
+            1.2592928618660901,
+            1.2641384107757934,
+            1.2120154162490715
+        ]
+    },
+    "0.31551118109461357-4-368": {
+        "average clique similarity": 0.31551118109461357,
+        "clique": [
+            "0-Hogan  whose given n",
+            "3-Hogan  whose legal n",
+            "5-The celebrity wrestl",
+            "1- At issue during the"
+        ],
+        "median tf-idf score": 1.004686490264429,
+        "publications": [
+            "Talking Points Memo",
+            "Reuters",
+            "NPR",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Hogan, whose given name is Terry Bollea, sued Gawker for $100 million for posting a video of him having sex with his former best friend's wife.",
+            "Hogan, whose legal name is Terry Bollea, had sought $100 million in damages over the edited video that Gawker, a New   outlet known for gossip and media reporting, posted online in 2012.",
+            "The celebrity wrestler, whose legal name is Terry Bollea, filed suit accusing the website of invading his privacy when it published a portion of a video showing him having sex with the wife of a former friend, along with 1, 400 words describing the video. Bollea, 62, sought $100 million in damages from Gawker.",
+            "'At issue during the trial was a tape obtained by Gawker and published in 2012, featuring Hogan  --   whose real name is Terry Bollea  --   in an encounter with the wife of a friend."
+        ],
+        "tf-idf score": [
+            1.003215203493297,
+            1.0466986619509013,
+            0.9910515005779572,
+            1.006157777035561
+        ]
+    },
+    "0.33316196814451254-3-365": {
+        "average clique similarity": 0.33316196814451254,
+        "clique": [
+            "3-The jury of two men ",
+            "2-Hogan contended the ",
+            "0-Hogan contended the "
+        ],
+        "median tf-idf score": 0.5821951432987947,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "The jury of two men and four women agreed with Hogan that his privacy had been violated, that the violation had caused him harm and that Hogan had a reasonable expectation of privacy.",
+            "Hogan contended the 2012 post violated his privacy.",
+            "Hogan contended the 2012 post violated his privacy. First Amendment experts, media lawyers and privacy advocates watched the case closely."
+        ],
+        "tf-idf score": [
+            0.5821951432987947,
+            0.43175320756105695,
+            0.7287059803423057
+        ]
+    },
+    "0.41927140468065593-3-368": {
+        "average clique similarity": 0.41927140468065593,
+        "clique": [
+            "2- We all knew the app",
+            "5-Denton s statement a",
+            "7- I want to thank our"
+        ],
+        "median tf-idf score": 0.5774708903979372,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"We all knew the appeals court will need to resolve the case,\" Nick Denton said in a statement, \"I want to thank our lawyers for their outstanding work and am confident that we would have prevailed at trial if we had been allowed to present the full case to the jury\".",
+            "Denton's statement also said, \"I . .. am confident that we would have prevailed at trial if we had been allowed to present the full case to the jury.",
+            "\"I want to thank our lawyers for their outstanding work and am confident that we would have prevailed at trial if we had been allowed to present the full case to the jury. That's why we feel very positive about the appeal that we have already begun preparing, as we expect to win this case. \""
+        ],
+        "tf-idf score": [
+            0.8941702674215173,
+            0.5641571936320439,
+            0.5774708903979372
+        ]
+    },
+    "0.4602089088007828-3-20": {
+        "average clique similarity": 0.4602089088007828,
+        "clique": [
+            "1- Gawker will have to",
+            "5-He was awarded  55 m",
+            "7-It also found Gawker"
+        ],
+        "median tf-idf score": 0.9193868904601878,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "'Gawker will have to pay Hogan $115 million in compensatory damages  --   $55 million in economic injuries plus $60 million for emotional injuries.' 'Hogan will ;also be awarded punitive damages, to be decided in court on Monday.",
+            "He was awarded $55 million in economic injuries and $60 million for emotional distress, Reuters reports. The jury returned on Monday to consider punitive damages.",
+            "It also found Gawker founder Nick Denton and the   who posted the video, A J Daulerio, personally liable. Jurors awarded Hogan $55 million in economic damages and another $60 million for emotional distress."
+        ],
+        "tf-idf score": [
+            0.9193868904601878,
+            0.6225143587773596,
+            1.144506737713606
+        ]
+    },
+    "0.47485140722441604-3-368": {
+        "average clique similarity": 0.47485140722441604,
+        "clique": [
+            "7- Given key evidence ",
+            "3- We all knew the app",
+            "5-In a statement  Dent"
+        ],
+        "median tf-idf score": 0.5880224809442177,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "\"Given key evidence and the most important witness were both improperly withheld from this jury, we all knew the appeals court will need to resolve the case,\" he told reporters, as Dau lerio stood behind him with tears in his eyes.",
+            "\"We all knew the appeals court will need to resolve the case,\" Denton said in a statement.",
+            "In a statement, Denton said, \"Given key evidence and the most important witness were both improperly withheld from the jury, we all knew the appeals court will need to resolve this case\"."
+        ],
+        "tf-idf score": [
+            0.5880224809442177,
+            0.5466733686025481,
+            0.7856103528771283
+        ]
+    },
+    "0.6639025126913435-3-368": {
+        "average clique similarity": 0.6639025126913435,
+        "clique": [
+            "7- We think it represe",
+            "0-We think it represen",
+            "6- We re exceptionally"
+        ],
+        "median tf-idf score": 0.7419629893836253,
+        "publications": [
+            "New York Post",
+            "Talking Points Memo",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"We think it represents a statement as to the public's disgust with the invasion of privacy disguised as journalism,\" the lawyers said in a statement. \"The verdict says no more. \" Denton immediately vowed to appeal.",
+            "We think it represents a statement as to the public's disgust with the invasion of privacy disguised as journalism. The verdict says no more\".",
+            "\"We're exceptionally happy with the verdict,\" Hogan's lawyers said in a statement. \"It represents a statement as to the public's disgust with the invasion of privacy disguised as journalism."
+        ],
+        "tf-idf score": [
+            0.7419629893836253,
+            0.37256563880385923,
+            0.8742163342477687
+        ]
+    }
+}

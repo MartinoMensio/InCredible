@@ -1,0 +1,586 @@
+{
+    "0.15005541229396477-3-222": {
+        "average clique similarity": 0.15005541229396477,
+        "clique": [
+            "1- And we must remembe",
+            "5-I continue to ask th",
+            "0- We will continue to"
+        ],
+        "median tf-idf score": 0.5452328378455111,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dAnd we must remember that in our justice system, officer Shelby is innocent until proven guilty,\u201d Fallin said.",
+            "I continue to ask that all of us keep the Crutcher and Shelby families in our prayers\u201d.",
+            "\u201dWe will continue to be transparent to ensure that justice and accountability prevails\u201d."
+        ],
+        "tf-idf score": [
+            0.5452328378455111,
+            0.5466781312567123,
+            0.12479343186655581
+        ]
+    },
+    "0.17543370859016902-4-233": {
+        "average clique similarity": 0.17543370859016902,
+        "clique": [
+            "4-  Police released da",
+            "3-Tulsa Police on Mond",
+            "5-When the Tulsa Polic",
+            "2-      Police dashboa"
+        ],
+        "median tf-idf score": 1.0612934800220806,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201d Police released dashcam and helicopter footage of the incident shortly afterward that shows Crutcher surrounded by officers before being shot.",
+            "Tulsa Police on Monday released footage of the shooting, which was captured by a police car\u2019s dash cam and which showed Crutcher walking away from officers with his arms raised over his head.",
+            "When the Tulsa Police Department released police videos of the moments around Crutcher\u2019s death, Chief Chuck Jordan said the footage was \u201dvery disturbing it\u2019s very difficult to watch\u201d.",
+            "\u2019 \u201d   Police dashboard camera and helicopter video footage appear to   show Crutcher\u2019s hands raised when he was shot."
+        ],
+        "tf-idf score": [
+            0.6944805487611885,
+            1.248540412073713,
+            1.201488845474148,
+            0.9210981145700133
+        ]
+    },
+    "0.19022100568862632-3-272": {
+        "average clique similarity": 0.19022100568862632,
+        "clique": [
+            "2-           Shelby s ",
+            "4-Shelby s lawyer  Sco",
+            "1-Earlier this week  W"
+        ],
+        "median tf-idf score": 1.133135148939676,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201d \u2019  \u2019 \u201d   Shelby\u2019s attorney, Scott Wood, said that the officer shot and   killed Crutcher after he failed to obey multiple commands and   then  which was   stopped in the middle of the road.",
+            "Shelby\u2019s lawyer, Scott Wood, said the officer had completed   expert training and felt Crutcher was under the influence of PCP \u201cShe felt like he had exhibited enough clues that he could have a gun in his pocket.",
+            "Earlier this week, Wood said his client thought Crutcher was behaving strangely and ignored her commands, and  that she was afraid that he might be reaching for a weapon."
+        ],
+        "tf-idf score": [
+            1.3621561637285784,
+            1.133135148939676,
+            0.834170797849503
+        ]
+    },
+    "0.20510737354360575-3-5": {
+        "average clique similarity": 0.20510737354360575,
+        "clique": [
+            "5-Shelby will be taken",
+            "3-Before that  she was",
+            "0-She was booked on th"
+        ],
+        "median tf-idf score": 0.5374409723605751,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Shelby will be taken into custody by the Tulsa County Sheriff\u2019s Department, Kunzweiler added.",
+            "Before that, she was a county sheriff\u2019s deputy.",
+            "She was booked on the charge after slipping into the Tulsa County jail at 1:11 a. m. Friday."
+        ],
+        "tf-idf score": [
+            0.5374409723605751,
+            0.337960751046179,
+            0.5964796400194938
+        ]
+    },
+    "0.21811397848407868-3-27": {
+        "average clique similarity": 0.21811397848407868,
+        "clique": [
+            "1-The possible penalty",
+            "4-Earlier this year  a",
+            "0-If convicted  Shelby"
+        ],
+        "median tf-idf score": 0.5594811575366812,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "The possible penalty for conviction on   manslaughter in Oklahoma is four years to life, according to Susan Witt, the public information officer for the district attorney\u2019s office.",
+            "Earlier this year, a white former volunteer deputy with the Tulsa County sheriff\u2019s office was sentenced to four years in prison after he was convicted of   manslaughter in the 2015 shooting death of Eric Harris, who was also black and unarmed.",
+            "If convicted, Shelby faces between four years and life in prison."
+        ],
+        "tf-idf score": [
+            0.5594811575366812,
+            0.9149766457028579,
+            0.32027494026243747
+        ]
+    },
+    "0.21961554553584808-3-288": {
+        "average clique similarity": 0.21961554553584808,
+        "clique": [
+            "1-  CNN  Tulsa  Oklaho",
+            "5-As the case drew nat",
+            "4-Officer Betty Shelby"
+        ],
+        "median tf-idf score": 1.1838012406674987,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            " (CNN) Tulsa, Oklahoma, police officer Betty Shelby has been charged with felony manslaughter in the first degree, Tulsa County District Attorney Steve Kunzweiler told reporters Thursday.",
+            "As the case drew national interest, Shelby\u2019s attorney, Scott Wood, told the Tulsa World that the officer, who at 42 is a nearly   veteran of the Tulsa police force, believed Crutcher was reaching for something inside his car.",
+            "Officer Betty Shelby was booked at 1."
+        ],
+        "tf-idf score": [
+            1.1838012406674987,
+            1.486690843255776,
+            0.6015047919110332
+        ]
+    },
+    "0.22768373407789555-3-111": {
+        "average clique similarity": 0.22768373407789555,
+        "clique": [
+            "5-The day after the vi",
+            "4-  Police Sgt Dave Wa",
+            "1-There was no weapon "
+        ],
+        "median tf-idf score": 0.7041941061533641,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "The day after the videos were released to the public, Tulsa police said that the drug PCP had been found in Crutcher\u2019s vehicle.",
+            "\u201d Police Sgt Dave Walker has said investigators found a vial of PCP in Crutcher\u2019s vehicle.",
+            "There was no weapon found in the car."
+        ],
+        "tf-idf score": [
+            0.8689482095327409,
+            0.7041941061533641,
+            0.32723018304913476
+        ]
+    },
+    "0.23010762169557086-3-16": {
+        "average clique similarity": 0.23010762169557086,
+        "clique": [
+            "3-Crutcher  who was bl",
+            "4-Shelby came across C",
+            "5-    Shelby  who is w"
+        ],
+        "median tf-idf score": 0.8877968775721444,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Crutcher, who was black, was unarmed and had his hands up when he was shot.",
+            "Shelby came across Crutcher, who was standing next to his vehicle, which had apparently stalled, when she was on her way to a domestic violence call on 16 September.",
+            ".. \u201dShelby, who is white, was one of four police officers who were standing at the rear bumper of Crutcher\u2019s car as he stood next to his vehicle around 7:45 p. m. Friday."
+        ],
+        "tf-idf score": [
+            0.7002263025194273,
+            0.8877968775721444,
+            1.1511867011382249
+        ]
+    },
+    "0.2639605276905011-3-80": {
+        "average clique similarity": 0.2639605276905011,
+        "clique": [
+            "0-The affidavit says S",
+            "5-The district attorne",
+            "1-The man warned that "
+        ],
+        "median tf-idf score": 1.1037870568153154,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "The affidavit says Shelby told police homicide investigators that \u201dshe was in fear for her life and thought Mr Crutcher was going to kill her.",
+            "The district attorney\u2019s affidavit that was filed Thursday relays some of what Shelby told a homicide detective in an interview held days after the shooting: that she feared for her life and thought Crutcher \u201dwas going to kill her,\u201d and that as she followed him to his SUV, \u201dshe was yelling for him to stop and get on his knees repeatedly\u201d.",
+            "The man warned that it was going to blow up, the caller said."
+        ],
+        "tf-idf score": [
+            1.1037870568153154,
+            1.3387423436542532,
+            0.47596050691016756
+        ]
+    },
+    "0.26434997245644737-3-288": {
+        "average clique similarity": 0.26434997245644737,
+        "clique": [
+            "1-He walks away from S",
+            "0-  Dashcam and aerial",
+            "5-Seconds before he wa"
+        ],
+        "median tf-idf score": 0.6756694760727471,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "He walks away from Shelby towards his car.",
+            "\u201d Dashcam and aerial footage of the shooting and its aftermath showed Crutcher walking away from Shelby with his arms in the air.",
+            "Seconds before he was shot, police dashcam and helicopter footage shows, he had walked to his car with his hands held over his head as Officer Betty Shelby walked behind him, her gun raised."
+        ],
+        "tf-idf score": [
+            0.296192950351494,
+            0.6756694760727471,
+            1.046295687122896
+        ]
+    },
+    "0.27410972076736423-3-287": {
+        "average clique similarity": 0.27410972076736423,
+        "clique": [
+            "3-In an affidavit  Dis",
+            "0-Her attorney has sai",
+            "4-The affidavit filed "
+        ],
+        "median tf-idf score": 1.3106275532428697,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "In an affidavit, District Attorney Steve Kunzweiler wrote: Your affiant feels that Officer Shelby reacted unreasonably by escalating the situation from a confrontation with Mr Crutcher, who was not responding to verbal commands and was walking away from her with his hands held up, becoming emotionally involved to the point that she over reacted.",
+            "Her attorney has said Crutcher was not following police commands and that Shelby opened fire when the man began to reach into his SUV window.",
+            "The affidavit filed on Thursday said Crutcher was walking away from officers toward his vehicle, with his hands up, and not following commands."
+        ],
+        "tf-idf score": [
+            1.4793753245878742,
+            1.3106275532428697,
+            1.0707339288765003
+        ]
+    },
+    "0.33387873534131285-3-153": {
+        "average clique similarity": 0.33387873534131285,
+        "clique": [
+            "5-Crutcher s sister Ti",
+            "1- This is a small vic",
+            "0-Crutcher s twin sist"
+        ],
+        "median tf-idf score": 0.4750372888391001,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Crutcher\u2019s sister Tiffany Crutcher welcomed the prosecutor\u2019s announcement, saying, \u201dWe want a conviction, and when that happens, this is a small victory, but we know we have to get ready to fight this war\u201d.",
+            "\u201dThis is a small victory,\u201d Crutcher\u2019s twin sister Tiffany told reporters.",
+            "Crutcher\u2019s twin sister, Tiffany Crutcher, said her family is pleased with the charge, but she and her attorneys want to ensure a vigorous prosecution that leads to a conviction."
+        ],
+        "tf-idf score": [
+            0.4750372888391001,
+            0.3536845657761356,
+            0.808914181441968
+        ]
+    },
+    "0.3626794685002654-3-142": {
+        "average clique similarity": 0.3626794685002654,
+        "clique": [
+            "1-Mary Fallin issued a",
+            "0-But Crutcher s famil",
+            "5-Mary Fallin released"
+        ],
+        "median tf-idf score": 0.8770003247922639,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Mary Fallin issued a statement, saying she prays that the decision to charge Shelby brings \u201dsome peace to the Crutcher family and the people of Tulsa\u201d.",
+            "But Crutcher\u2019s family immediately discounted that claim, saying the father of four posed no threat to the officers.",
+            "Mary Fallin released a statement Thursday saying she hoped the decision to charge the officer provides some peace to Crutcher\u2019s family and the people of Tulsa."
+        ],
+        "tf-idf score": [
+            0.9245912418842672,
+            0.5216240007278092,
+            0.8770003247922639
+        ]
+    },
+    "0.3724032009718715-3-288": {
+        "average clique similarity": 0.3724032009718715,
+        "clique": [
+            "4-The police officer w",
+            "2-         Betty Shelb",
+            "0-Tulsa officer Betty "
+        ],
+        "median tf-idf score": 1.1971600066087016,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Fox News"
+        ],
+        "sentences": [
+            "The police officer who fatally shot an unarmed black man in Tulsa, Oklahoma, was charged with   manslaughter and released early on Friday morning after posting a $50, 000 bond.",
+            "\u2019  \u2019 \u201d   Betty Shelby, the Tulsa, Oklahoma, police officer who fatally   shot an unarmed black man,  with   manslaughter on Thursday,   according to the Tulsa County District Attorney\u2019s Office.",
+            "Tulsa officer Betty Shelby \u201dreacted unreasonably\u201d when she fatally shot    Terence Crutcher on Sept. 16, prosecutors wrote in an affidavit filed with the charge on Thursday."
+        ],
+        "tf-idf score": [
+            1.061456562135511,
+            1.237197295937932,
+            1.1971600066087016
+        ]
+    },
+    "0.3761964693926014-3-132": {
+        "average clique similarity": 0.3761964693926014,
+        "clique": [
+            "5-Here s how we descri",
+            "4-The swift action in ",
+            "0-The swift action in "
+        ],
+        "median tf-idf score": 1.1108819099865648,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Here\u2019s how we described the case earlier this week: \u201dCrutcher, who was black, died next to his SUV that had stopped in the middle of a   road in Tulsa, Okla.",
+            "The swift action in Tulsa stands in contrast to Charlotte, North Carolina, where police under mounting pressure refused on Thursday to publicly release video of this week\u2019s fatal shooting of Keith Lamont Scott, another black man, and the national guard was called in after violent protests.",
+            "The swift action in Tulsa, a city with a long history of tense race relations, stood in in contrast to Charlotte, North Carolina, where police refused under mounting pressure Thursday to publicly release video of the shooting of another black man this week and the National Guard was called in after two nights of violent protests."
+        ],
+        "tf-idf score": [
+            0.9250587799334842,
+            1.1108819099865648,
+            1.1611778983985428
+        ]
+    },
+    "0.3853945992549906-3-159": {
+        "average clique similarity": 0.3853945992549906,
+        "clique": [
+            "5- No matter how you f",
+            "2-       The tragic ci",
+            "4- The tragic circumst"
+        ],
+        "median tf-idf score": 1.0140986245066914,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201dNo matter how you feel about the prosecutors\u2019 decision in this case, I hope Oklahomans will respect the views of your friends and neighbors because we still have to live peacefully together as we try to make sense of the circumstances that led to Mr Crutcher\u2019s death.",
+            "\u201d \u2019   \u201dThe tragic circumstances surrounding the death of Mr Crutcher   are on the hearts and minds of many people in this community,\u201d   Kunzweiler said as he announced the felony charge against Shelby.",
+            "\u201cThe tragic circumstances surrounding the death of Mr Crutcher are on the hearts and minds of many people in this community,\u201d said the district attorney, Steve Kunzweiler, during brief remarks before he announced the charges."
+        ],
+        "tf-idf score": [
+            0.5867950078718912,
+            1.0237320710855153,
+            1.0140986245066914
+        ]
+    },
+    "0.38784702608002086-3-288": {
+        "average clique similarity": 0.38784702608002086,
+        "clique": [
+            "0-Tulsa Mayor Dewey Ba",
+            "4-  Tulsa s mayor  Dew",
+            "5- I want to complimen"
+        ],
+        "median tf-idf score": 0.7256229970063861,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Tulsa Mayor Dewey Bartlett praised the police department for quickly providing evidence to District Attorney Steve Kunzweiler\u2019s office.",
+            "\u201d Tulsa\u2019s mayor, Dewey Bartlett, praised the police department for quickly providing evidence to the district attorney\u2019s office.",
+            "\u201dI want to compliment Tulsa Mayor Dewey Bartlett, Tulsa Police Chief Chuck Jordan and Tulsa County District Attorney Steve Kunzweiler as well as the citizens of Tulsa for keeping peace and order during this difficult time."
+        ],
+        "tf-idf score": [
+            0.7256229970063861,
+            0.6498187469759699,
+            0.797116143860445
+        ]
+    },
+    "0.4009782073022789-3-209": {
+        "average clique similarity": 0.4009782073022789,
+        "clique": [
+            "2-      Tulsa County D",
+            "5-Betty Shelby  the Tu",
+            "3-Please follow the st"
+        ],
+        "median tf-idf score": 1.5073233021741297,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d \u2019   Tulsa County District Attorney Stephen Kunzweiler announced the   charge Thursday, nearly one week after the shooting that killed   Terence Crutcher, a    father who encountered Shelby on   Friday while she was responding to an unrelated call.",
+            "Betty Shelby, the Tulsa Police Department officer who shot and killed Terence Crutcher, is being charged with   manslaughter in the case, Tulsa County District Attorney Steve Kunzweiler says.",
+            "Please follow the steps below, Tulsa Police Officer Betty Shelby, who on Friday shot and killed Terence Crutcher, has been charged with felony   manslaughter, the Tulsa County district attorney announced Thursday afternoon."
+        ],
+        "tf-idf score": [
+            1.6150039838997967,
+            1.4708629694613888,
+            1.5073233021741297
+        ]
+    },
+    "0.43827980342652956-3-157": {
+        "average clique similarity": 0.43827980342652956,
+        "clique": [
+            "3-His death  paired wi",
+            "0-Phil Turner  a   def",
+            "4-  Phil Turner  a   d"
+        ],
+        "median tf-idf score": 0.698895416649738,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "His death, paired with the shooting of Keith Lamont Scott in Charlotte, North Carolina, has returned the matter of police killings of black people and particularly black men to the headlines.",
+            "Phil Turner, a   defense attorney and former federal prosecutor, said the motivation of prosecutors in Tulsa may have been partly to allay outrage and avoid the kind of violence Charlotte has seen.",
+            "\u201d Phil Turner, a   defense attorney and former federal prosecutor, said the motivation of prosecutors in Tulsa may have been partly to allay outrage and avoid the kind of violence Charlotte has seen."
+        ],
+        "tf-idf score": [
+            0.6045854588466386,
+            0.698895416649738,
+            0.698895416649738
+        ]
+    },
+    "0.4392348624567927-3-43": {
+        "average clique similarity": 0.4392348624567927,
+        "clique": [
+            "1-Crutcher family atto",
+            "4-It also states Shelb",
+            "0-The affidavit filed "
+        ],
+        "median tf-idf score": 0.9473836275861436,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "Crutcher family attorney Melvin Hall said the affidavit shows that Shelby had cleared the car of any threats before she tried to talk to Crutcher.",
+            "It also states Shelby had \u201ccleared the driver\u2019s side front\u201d of Crutcher\u2019s vehicle before she began interacting with Crutcher, suggesting she may have known there was no gun on the driver\u2019s side of the vehicle.",
+            "The affidavit filed Thursday indicates that Shelby \u201dcleared the driver\u2019s side front\u201d of Crutcher\u2019s vehicle before she began interacting with Crutcher, suggesting she may have known there was no gun on the driver\u2019s side of the vehicle."
+        ],
+        "tf-idf score": [
+            0.9473836275861436,
+            0.9295910770111313,
+            1.0362022434439144
+        ]
+    },
+    "0.44176227635039383-3-146": {
+        "average clique similarity": 0.44176227635039383,
+        "clique": [
+            "5-He said he had instr",
+            "4-I think  prosecutors",
+            "0-I think  prosecutors"
+        ],
+        "median tf-idf score": 0.3332739319185088,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "He said he had instructed his staff to file charges against Shelby at the start of Thursday\u2019s brief news conference.",
+            "I think [prosecutors] must have thought charges were warranted,\u201d he said.",
+            "I think (prosecutors) must have thought charges were warranted,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.5305591962775424,
+            0.3332739319185088,
+            0.3332739319185088
+        ]
+    },
+    "0.45132193175151997-3-86": {
+        "average clique similarity": 0.45132193175151997,
+        "clique": [
+            "4- Not only for this f",
+            "0- Not only for this f",
+            "1-CNN reached out to S"
+        ],
+        "median tf-idf score": 0.3345360747030156,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cNot only for this family, not only for Terence but to be a deterrent for law officers all around this nation to know that you cannot kill unarmed citizens.",
+            "\u201dNot only for this family, not only for Terence but to be a deterrent for law officers all around this nation to know that you cannot kill unarmed citizens\u201d.",
+            "CNN reached out to Scott Wood, the attorney for Shelby, but has not received a response."
+        ],
+        "tf-idf score": [
+            0.3345360747030156,
+            0.3345360747030156,
+            0.46419711221847504
+        ]
+    },
+    "0.5175979627561059-4-203": {
+        "average clique similarity": 0.5175979627561059,
+        "clique": [
+            "3-Kunzweiler said a wa",
+            "5- A warrant has been ",
+            "2-      A warrant was ",
+            "1-An arrest warrant wa"
+        ],
+        "median tf-idf score": 0.7154625037909579,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "Kunzweiler said a warrant had been issued for Shelby\u2019s arrest, and that negotiations were under way for her to surrender to the Tulsa County Sheriff.",
+            "\u201dA warrant has been issued for her arrest,\u201d and arrangements are being made with Shelby\u2019s attorney for Shelby\u2019s surrender, Kunzweiler said in announcing the felony charge (see video from local TV news KJRH).",
+            "\u201d \u201d   A warrant was issued for Shelby\u2019s arrest.",
+            "An arrest warrant was issued for Shelby and arrangements have been made for her surrender, he said."
+        ],
+        "tf-idf score": [
+            0.7320135543428229,
+            0.8499839592630459,
+            0.5314007914894117,
+            0.698911453239093
+        ]
+    },
+    "0.581419039191659-3-163": {
+        "average clique similarity": 0.581419039191659,
+        "clique": [
+            "0-Attorney Damario   s",
+            "1- Today  we are thank",
+            "4-Attorney Damario   s"
+        ],
+        "median tf-idf score": 0.5792402051466177,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Attorney Damario   said: \u201dWe are happy that charges were brought, but let me clear  \u2014   the family wants and deserves full justice.",
+            "\u201dToday, we are thankful to TPD, we are thankful to (police) Chief  (Chuck) Jordan for providing information to the District Attorney\u2019s office, and we are happy that charges were brought,\u201d attorney Damario   said during a news conference.",
+            "Attorney Damario   said: \u201cWe are happy that charges were brought, but let me be clear: the family wants and deserves full justice."
+        ],
+        "tf-idf score": [
+            0.5792402051466177,
+            0.7823520809751046,
+            0.5792402051466177
+        ]
+    }
+}

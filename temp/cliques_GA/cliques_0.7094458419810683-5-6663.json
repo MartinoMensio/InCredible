@@ -1,0 +1,706 @@
+{
+    "0.133052346420432-3-435": {
+        "average clique similarity": 0.133052346420432,
+        "clique": [
+            "1- But certain things ",
+            "4-He was a fighter for",
+            "2-That s why R Kelly s"
+        ],
+        "median tf-idf score": 0.5700589470386719,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"But certain things defy imitation: the Ali shuffle, the lightning jabs, the total command of the ring and, above all, the sheer guts and determination he brought to every fight. \"",
+            "He was a fighter for the people and to become a champion of the people he demonstrated the type of character he was. \"",
+            "That's why R Kelly's song of tribute to Ali brought so many people over to him behind the scenes away from the cameras."
+        ],
+        "tf-idf score": [
+            0.5717897801371977,
+            0.464237006386997,
+            0.5700589470386719
+        ]
+    },
+    "0.13729339854814185-3-405": {
+        "average clique similarity": 0.13729339854814185,
+        "clique": [
+            "4-Ali s influence  as ",
+            "2-To see him in the ri",
+            "0-Religious beliefs Th"
+        ],
+        "median tf-idf score": 0.7773121363864856,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Fox News"
+        ],
+        "sentences": [
+            "Ali's influence, as Fischer pointed out, was felt far outside the ring.",
+            "To see him in the ring was astounding.",
+            "Religious beliefs The question of belonging  --   of ownership  --   was a central issue of Ali's complex life outside the ring. To whom did he belong?"
+        ],
+        "tf-idf score": [
+            0.7773121363864856,
+            0.33877461717719903,
+            0.8593278327311796
+        ]
+    },
+    "0.1387594722641363-3-244": {
+        "average clique similarity": 0.1387594722641363,
+        "clique": [
+            "4-Boxing benefitted fr",
+            "3-He was convicted of ",
+            "2-Even in his diminish"
+        ],
+        "median tf-idf score": 0.5663289408809284,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Boxing benefitted from Muhammad Ali's talents but not nearly as much as mankind benefitted from his humanity. \"",
+            "He was convicted of draft evasion, and though he avoided jail time, he was stripped of his heavyweight title and banned from boxing at the age of 25, just as he was entering his prime.",
+            "Even in his diminished condition suffering from Parkinson's and long gone from the boxing ring, he remained a hero."
+        ],
+        "tf-idf score": [
+            0.5668587567954639,
+            0.5663289408809284,
+            0.23962146091068534
+        ]
+    },
+    "0.13981873265294523-3-166": {
+        "average clique similarity": 0.13981873265294523,
+        "clique": [
+            "3-Shaking  his face fr",
+            "1- News of Ali s hospi",
+            "2-Yes  Ali was the gre"
+        ],
+        "median tf-idf score": 0.6280664335414694,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Shaking, his face frozen by a Parkinson's mask, this was a new generation's image of the man called the greatest of all time.",
+            "'News of Ali's hospitalization and death prompted an outpouring of support from fans and admirers who used the hashtag #GOAT, which stands for \"greatest of all time. \"'",
+            "Yes, Ali was the greatest."
+        ],
+        "tf-idf score": [
+            0.567325219323867,
+            0.6280664335414694,
+            0.715325832912381
+        ]
+    },
+    "0.14187560599144214-3-299": {
+        "average clique similarity": 0.14187560599144214,
+        "clique": [
+            "2-The defiant outsider",
+            "0-In his final hours  ",
+            "3-Ali inspired million"
+        ],
+        "median tf-idf score": 0.5665475075451841,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "The defiant outsider, the kid who was the target of bullies, the underdog who had his license taken away by his government was being celebrated by people of all races around the world.",
+            "In his final hours, Ali was surrounded by his nine children and wife, Lonnie.",
+            "Ali inspired millions by standing up for his principles during the volatile 1960s and by always entertaining  --   in the boxing ring and in front of a microphone."
+        ],
+        "tf-idf score": [
+            0.5479264606595626,
+            0.7270236351364874,
+            0.5665475075451841
+        ]
+    },
+    "0.14282725259101395-3-459": {
+        "average clique similarity": 0.14282725259101395,
+        "clique": [
+            "0-Rest in peace    Bri",
+            "1-God came for his cha",
+            "2-And through it all h"
+        ],
+        "median tf-idf score": 0.5710461679175748,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Rest in peace. \" British Prime Minister David Cameron tweeted, \"Muhammad Ali was not just a champion in the ring  --   he was a champion of civil rights, and a role model for so many people. \"",
+            "God came for his champion. So long great one. @MuhammadAli #TheGreatest #RIP, RIP @muhammadali, a legend who transcended sport and was a true champion for all.",
+            "And through it all he said his heroes were ordinary people and called himself 'the People's Champion.'"
+        ],
+        "tf-idf score": [
+            1.070503838225188,
+            0.5710461679175748,
+            0.3123460615896602
+        ]
+    },
+    "0.14420979413048637-3-204": {
+        "average clique similarity": 0.14420979413048637,
+        "clique": [
+            "2-Yes  he won Olympic ",
+            "0-Recovering from hear",
+            "3-Young Clay made boxi"
+        ],
+        "median tf-idf score": 0.5237691924801429,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Yes, he won Olympic gold at 18 and a heavyweight championship at 22. But that was only the start of what made him such an unforgettable figure to the world.",
+            "Recovering from heart surgery in London, Pakistan Prime Minister Nawaz Sharif issued a statement saying Ali was an \"inspiration for not only young Americans, but also young men and women of the world. \"",
+            "Young Clay made boxing an art form. He was an original, a heavyweight who didn't move around the ring  --   he danced."
+        ],
+        "tf-idf score": [
+            0.5237691924801429,
+            0.9461960158392649,
+            0.5187584231260571
+        ]
+    },
+    "0.14713463396325388-3-290": {
+        "average clique similarity": 0.14713463396325388,
+        "clique": [
+            "0-Sharif continued   H",
+            "4-Bernie Sanders  Hill",
+            "1-As a man who stood u"
+        ],
+        "median tf-idf score": 0.6633316753118903,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Sharif continued: \"His legacy has not only impacted modern boxing, he has also been an instrumental figure in changing social, political and religious narratives surrounding minorities in the West and for that, we are in his debt. The world is truly poorer without him. \" Indelible images  Where words failed to pay proper tribute to the man who called himself \"The Greatest of All Time,\" people tried photos, videos, GIFs.",
+            "Bernie Sanders, Hillary Clinton's rival for the Democratic nomination, called Ali the \"greatest, not only an extraordinary athlete but a man of great courage and humanity. \"",
+            "As a man who stood up for his beliefs no matter what. As a man who tried to unite all humankind through faith and love. \"And if all that's too much, then I guess I'd settle for being remembered only as a great boxer who became a leader and a champion of his people."
+        ],
+        "tf-idf score": [
+            0.7237457115432644,
+            0.6633316753118903,
+            0.485767293438249
+        ]
+    },
+    "0.14765565479657616-3-36": {
+        "average clique similarity": 0.14765565479657616,
+        "clique": [
+            "0-The funeral plans we",
+            "4-Ali s stand  he said",
+            "2-Black identity was b"
+        ],
+        "median tf-idf score": 0.6106469834388335,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The funeral plans were made by Ali himself, years in advance, Gunnell said.",
+            "Ali's stand, he said, \"made all Americans, black and white, stand taller. \"",
+            "Black identity was being redefined in that moment and Ali made himself into a transformative cultural figure."
+        ],
+        "tf-idf score": [
+            0.5764175904830423,
+            0.6106469834388335,
+            0.7812995983869857
+        ]
+    },
+    "0.1491870996386744-3-139": {
+        "average clique similarity": 0.1491870996386744,
+        "clique": [
+            "2-That includes being ",
+            "3-He wanted to be call",
+            "1- thegreatest  Muhamm"
+        ],
+        "median tf-idf score": 0.7950594106277239,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "That includes being a polarizing figure for his refusal to enter the U S military as well as his decision to join the Nation of Islam and change his name from Cassius Clay to Muhammad Ali.",
+            "He wanted to be called Muhammad Ali, a name he said was given to him by the group's leader, Elijah Muhammad.",
+            "#thegreatest #MuhammadAli, To honor Muhammad Ali's life  work, flags at all Metro Government facilities will be lowered to   at 10am, \"As a man who never looked down on those who looked up to him, and who helped as many people as he could."
+        ],
+        "tf-idf score": [
+            0.6517259466871524,
+            0.9439771893343364,
+            0.7950594106277239
+        ]
+    },
+    "0.15413970826834936-3-0": {
+        "average clique similarity": 0.15413970826834936,
+        "clique": [
+            "1-Ali was hospitalized",
+            "3-Update at 3 15 p  m ",
+            "0- It s horrible     T"
+        ],
+        "median tf-idf score": 0.807102516089354,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Ali was hospitalized earlier this week in Phoenix for a \"respiratory issue.",
+            "Update at 3:15 p. m. ET: Ali's Funeral Set For Friday, Muhammad Ali, the man considered the greatest boxer of all time, died late Friday at a hospital in Phoenix at age 74.",
+            "\"It's horrible. \" \"The sadness,\" wrote soccer legend Pele in an Instagram post, \"is overwhelming. \" Ali was hospitalized Monday in Scottsdale, Ariz. with respiratory issues and died Friday at 9:10 p. m. Mountain time, according to family spokesman Bob Gunnell."
+        ],
+        "tf-idf score": [
+            0.7233076937003124,
+            0.807102516089354,
+            1.016852447545524
+        ]
+    },
+    "0.15945877220318347-3-182": {
+        "average clique similarity": 0.15945877220318347,
+        "clique": [
+            "2-That attitude combin",
+            "1-In 1985 he traveled ",
+            "0-In the United States"
+        ],
+        "median tf-idf score": 0.637666344258355,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "That attitude combined with his athletic greatness and charisma attracted celebrities from every field to Ali, again elevating him beyond the sport of boxing. The Beatles went to visit him at his Miami gym. He posed knocking out all four at once.",
+            "In 1985 he traveled to Lebanon to try to secure the release of four American hostages, CNN reported. In 1990, he went to Iraq on his own and met with Saddam Hussein. He returned to the United States with 15 Americans who had been held hostage. In 1997 he was nominated for the Nobel Peace Prize.",
+            "In the United States, cable news networks went wall to wall with Ali news and reactions all day Saturday. There were no shortage of celebrities and journalists willing to go on air. People flocked to YouTube, where some of his classic fights live on. On social media, millions who never met him described how he had nevertheless touched their lives."
+        ],
+        "tf-idf score": [
+            0.637666344258355,
+            0.5395400513454622,
+            0.796582285868691
+        ]
+    },
+    "0.16538360752674594-3-459": {
+        "average clique similarity": 0.16538360752674594,
+        "clique": [
+            "4-The greatest piece  ",
+            "2-It all started with ",
+            "0- It was a very solem"
+        ],
+        "median tf-idf score": 0.8125632219568969,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The greatest piece. \" It's been said it was Rope a dope, Ali beat me with no his beauty that beat me.",
+            "It all started with the fact that he was the greatest boxer of the 20th Century.",
+            "\"It was a very solemn moment. It was a beautiful thing to watch because it displayed all that's good about Muhammad Ali. He did not suffer. \""
+        ],
+        "tf-idf score": [
+            0.8671142105740696,
+            0.433773388169676,
+            0.8125632219568969
+        ]
+    },
+    "0.18442375758953877-3-150": {
+        "average clique similarity": 0.18442375758953877,
+        "clique": [
+            "4-I was too young when",
+            "2- I had a bike and I ",
+            "1- He is very much mor"
+        ],
+        "median tf-idf score": 0.7053417502083895,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "I was too young when it was taken to understand who he was  --   still Cassius Clay, already an Olympic Gold Medal winner, yet to set out on a spiritual journey that would lead him to his Muslim faith, exile him at the peak of his power, and set the stage for his return to greatness with a name as familiar to the downtrodden in the slums of Southeast Asia and the villages of Africa as it was to cheering crowds in Madison Square Garden. \"I am America,\" he once declared. \"I am the part you won't recognize.",
+            "\"I had a bike and I had trouble with bullies, too. \" So when Ali was chosen to carry the torch and light the Olympic flame to start the Olympic Games in Atlanta in 1996, I was brought to tears.",
+            "\"He is very much more a spiritual being. He is very aware of his time here on Earth. And he has sort of planned the rest of his life to do things so that he is assured a place in heaven. \" At the Atlanta Olympics in 1996, Ali, his hands shaking slightly, lit the Olympic Cauldron during the Games' Opening Ceremony."
+        ],
+        "tf-idf score": [
+            0.6634957713867092,
+            0.8411412988054758,
+            0.7053417502083895
+        ]
+    },
+    "0.18467940330987717-3-391": {
+        "average clique similarity": 0.18467940330987717,
+        "clique": [
+            "3-For those in a growi",
+            "0- Together with Nelso",
+            "4-The stars of the NBA"
+        ],
+        "median tf-idf score": 0.73758176734886,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "For those in a growing   movement, Ali was a hero who paid a significant price.",
+            "\"Together with Nelson Mandela, Ali was a source of inspiration for those who pursue justice, those seeking equal opportunities, the downtrodden and those seeking fairness in sport and society,\" said Danny Jordaan, the head of the country's soccer federation, in a statement.",
+            "The stars of the NBA, NFL, soccer, and entertainment paid their tributes, as well --  as did those from the world of politics."
+        ],
+        "tf-idf score": [
+            0.73758176734886,
+            1.0084137815014016,
+            0.16851747690855975
+        ]
+    },
+    "0.1886162517291327-5-282": {
+        "average clique similarity": 0.1886162517291327,
+        "clique": [
+            "1-He later converted t",
+            "0-He later refused to ",
+            "4-He was an important ",
+            "2-When he refused to j",
+            "3-At the height of the"
+        ],
+        "median tf-idf score": 0.5928951504723043,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Washington Post",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "He later converted to Sunni Islam, and later in life expressed interest in Sufism, a mystical branch of the religion. In the years after his conversion to Islam, Ali became known for his social positions, famously refusing to be inducted into the armed forces during the Vietnam War and saying \"no Vietcong ever called me nigger. \"",
+            "He later refused to serve in the Vietnam War, citing his religious beliefs, a stance that cost him his heavyweight crown in 1967. \"He sacrificed the heart of his career and money and glory for his religious beliefs about a war he thought unnecessary and unjust,\" the Rev.",
+            "He was an important voice during the civil rights era and became an icon for the movement against the Vietnam War in which he refused to fight, saying: \"Why should they ask me to put on a uniform and go 10, 000 miles from home and drop bombs and bullets on Brown people in Vietnam while   Negro people in Louisville are treated like dogs and denied simple human rights?\"",
+            "When he refused to join the Army he became a hero to opponents of the Vietnam War. The fact that an athlete was sacrificing the prime of his career and millions in riches to take a principled stand elevated the boxer to another level.",
+            "At the height of the Vietnam War, he refused induction into the U S military, saying, \"I ain't got no quarrel with them Viet Cong\". \"My intention is to box, to win a clean fight. But in war, the intention is to kill, kill, kill, kill and continue killing innocent people,\" he said."
+        ],
+        "tf-idf score": [
+            0.7586887143091995,
+            0.2565590815879116,
+            0.7512907124534157,
+            0.5928951504723043,
+            0.4144060365491894
+        ]
+    },
+    "0.196955523914098-3-225": {
+        "average clique similarity": 0.196955523914098,
+        "clique": [
+            "1- After a   battle wi",
+            "3-He was battling resp",
+            "0- They got to spend q"
+        ],
+        "median tf-idf score": 0.6700755799562546,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"After a   battle with Parkinson's disease, Muhammad Ali has passed away,\" family spokesperson Bob Gunnell said.",
+            "He was battling respiratory problems. He died of septic shock related to natural causes, with his family at his bedside, according to family spokesman Bob Gunnell.",
+            "\"They got to spend quality time with him to say their final goodbyes,\" Gunnell said of Ali's family."
+        ],
+        "tf-idf score": [
+            0.7781086586703801,
+            0.47105432309242695,
+            0.6700755799562546
+        ]
+    },
+    "0.204300648197537-3-459": {
+        "average clique similarity": 0.204300648197537,
+        "clique": [
+            "0- You don t want to l",
+            "3-In 1974  against the",
+            "2-Fighters from Larry "
+        ],
+        "median tf-idf score": 0.5157678687978732,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"You don't want to live in a world without Muhammad Ali,\" boxer George Foreman said of his former adversary.",
+            "In 1974, against the menacing George Foreman, Ali used a tactic called the \"  \".",
+            "Fighters from Larry Holmes to George Foreman and Frazier became famous for fighting Ali."
+        ],
+        "tf-idf score": [
+            0.7342315122741495,
+            0.4585998112753014,
+            0.5157678687978732
+        ]
+    },
+    "0.20805197374940312-3-130": {
+        "average clique similarity": 0.20805197374940312,
+        "clique": [
+            "3- That s my original ",
+            "2-At that moment I wro",
+            "4-But get used to me  "
+        ],
+        "median tf-idf score": 0.5119396098143223,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "\"That's my original name that's a black man name,\" Ali said.",
+            "At that moment I wrote in the Washington Post that Ali, even in retirement, remained my hero.",
+            "But get used to me  --   black, confident, cocky my name, not yours my religion, not yours my goals, my own. Get used to me. \""
+        ],
+        "tf-idf score": [
+            0.6126788602093983,
+            0.5119396098143223,
+            0.08991141770233374
+        ]
+    },
+    "0.21580607365554785-3-192": {
+        "average clique similarity": 0.21580607365554785,
+        "clique": [
+            "0-As a man who never l",
+            "3-Frazier  with his bo",
+            "4-That s the Ali I cam"
+        ],
+        "median tf-idf score": 0.5690623530401522,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "As a man who never looked down on those who looked up to him, and who helped as many people as he could. As a man who stood up for his beliefs no matter what. As a man who tried to unite all humankind through faith and love.",
+            "Frazier, with his boxer's mashed face and   style in the ring, could never equal Ali's finesse and skill as a fighter.",
+            "That's the Ali I came to know as I came of age  --   not just as skilled a poet on the mic as he was a fighter in the ring, but a man who fought for what was right."
+        ],
+        "tf-idf score": [
+            0.30647854591473267,
+            0.5690623530401522,
+            0.9326013286565975
+        ]
+    },
+    "0.21801735023372862-3-459": {
+        "average clique similarity": 0.21801735023372862,
+        "clique": [
+            "4-  who stood up for h",
+            "3-Ali was the rare and",
+            "0-And if all that s to"
+        ],
+        "median tf-idf score": 0.6851889810231651,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "..who stood up for his beliefs. ..who tried to unite all humankind through faith and love. \"And if all that's too much, then I guess I'd settle for being remembered only as a great boxer who became a leader and a champion of his people.",
+            "Ali was the rare and perhaps only person who could go anywhere  --   Fifth Avenue in Manhattan, a marketplace in Latin America  --   and people would stop and point and smile.",
+            "And if all that's too much, then I guess I'd settle for being remembered only as a great boxer who became a leader and champion for his people. And I wouldn't' even mind if folks forgot how pretty I was. \" Kevin Sieff in Nairobi, Tim Craig in Islamabad and Sudarsan Raghavan in Cairo contributed to this report."
+        ],
+        "tf-idf score": [
+            0.4054638931357634,
+            0.8370183002200567,
+            0.6851889810231651
+        ]
+    },
+    "0.22079120157961915-3-88": {
+        "average clique similarity": 0.22079120157961915,
+        "clique": [
+            "0-In Pakistan  where A",
+            "4-  I want to receive ",
+            "2-He was the most famo"
+        ],
+        "median tf-idf score": 0.8825069365754125,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "In Pakistan, where Ali was widely regarded as the world's most iconic sports figure, there was an outpouring of grief over his death.",
+            ", I want to receive updates from partners and sponsors. Updated on June 4 at 11:01 a. m. ET, He stood with leaders, was adored by the common man, became arguably the most famous face of the 20th century, and when Muhammad Ali died Friday at age 74, the tributes poured in from as far afield as Louisville, Kentucky, where he was born in 1942 and the Philippines where he fought one of his most stories contests.",
+            "He was the most famous person of the 20th Century."
+        ],
+        "tf-idf score": [
+            0.8825069365754125,
+            1.2212083350374794,
+            0.36449766287119795
+        ]
+    },
+    "0.23223060568196152-3-280": {
+        "average clique similarity": 0.23223060568196152,
+        "clique": [
+            "1-Ali returned to boxi",
+            "3-Rivalry With Frazier",
+            "4-And George Foreman  "
+        ],
+        "median tf-idf score": 0.6643472801098602,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "Ali returned to boxing in the 1970s, competing repeatedly against rival Joe Frazier.",
+            "Rivalry With Frazier, Following his exile, Ali squared off against Joe Frazier, who became heavyweight champion in Ali's absence. The March 1971 showdown was billed as the fight of the century.",
+            "And George Foreman, Ali's rival in the Rumble in the Jungle said he, Joe Frazier, and Ali \"were 1 guy. A part of me slipped away."
+        ],
+        "tf-idf score": [
+            0.5566529629318331,
+            0.9498275772744486,
+            0.6643472801098602
+        ]
+    },
+    "0.24371064580585644-3-320": {
+        "average clique similarity": 0.24371064580585644,
+        "clique": [
+            "0-There he was frozen ",
+            "3-As the mouth roared ",
+            "1-Ali rose to fame in "
+        ],
+        "median tf-idf score": 0.5398666097349814,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "There he was frozen in time, standing over Sonny Liston in 1965.",
+            "As the mouth roared, the victories started piling up, all of it prelude to a 1964 battle against the big, bad bear: heavyweight champion Sonny Liston. Liston was a fearsome opponent.",
+            "Ali rose to fame in the early 1960s as he racked up a series of boxing victories. He quickly built a reputation for his fighting skill and bravado. After defeating Sonny Liston  --   first in 1964 then again in 1965  --   he became the World Heavyweight Champion."
+        ],
+        "tf-idf score": [
+            0.39873060371204094,
+            0.5398666097349814,
+            0.77260895504208
+        ]
+    },
+    "0.2585424936278091-3-81": {
+        "average clique similarity": 0.2585424936278091,
+        "clique": [
+            "0-Gunnell said funeral",
+            "3-Come Friday afternoo",
+            "4-Former President Cli"
+        ],
+        "median tf-idf score": 0.7517716418516964,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Gunnell said funeral proceedings would take place in Ali's home town of Louisville, with a private,   ceremony Thursday, followed Friday by a procession through the streets of Louisville, a private interment at Cave Hill Cemetery and a public,   memorial service with eulogies delivered by former president Bill Clinton, broadcaster Bryant Gumbel and comedian Billy Crystal.",
+            "Come Friday afternoon, many will again stop when a public procession and interfaith service are held for Ali in his hometown of Louisville, Ky. Family spokesman Gunnell says eulogies will be delivered by former President Bill Clinton, Billy Crystal and Bryant Gumbel. The funeral will be streamed on the internet, Gunnell says.",
+            "Former President Clinton in a statement said he and his wife, Hillary Clinton, the Democratic presidential candidate, \"are saddened by the passing of Muhammad Ali. \""
+        ],
+        "tf-idf score": [
+            0.8420041655848657,
+            0.7517716418516964,
+            0.726302140091389
+        ]
+    },
+    "0.3026381193341841-3-311": {
+        "average clique similarity": 0.3026381193341841,
+        "clique": [
+            "4- From the day he cla",
+            "3-Cassius Clay  Ali s ",
+            "0-Wearing the red  whi"
+        ],
+        "median tf-idf score": 0.4848571046333807,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"From the day he claimed the Olympic gold medal in 1960, boxing fans across the world knew they were seeing a blend of beauty and grace, speed and strength that may never be matched again,\" Clinton said.",
+            "Cassius Clay (Ali's given name) won a gold medal at the Rome Olympics in 1960.",
+            "Wearing the red, white and blue, he won the 1960 Olympic gold medal in Rome as Cassius Clay, but several years later embraced the Nation of Islam, changed his name to Muhammad Ali and disavowed \"Cassius Clay\" as his \"slave name. \""
+        ],
+        "tf-idf score": [
+            0.4389227073289307,
+            0.4848571046333807,
+            0.7340707184342967
+        ]
+    },
+    "0.35496379945499035-3-213": {
+        "average clique similarity": 0.35496379945499035,
+        "clique": [
+            "0-In his 2004 memoir  ",
+            "3-It would be more tha",
+            "4-Asked once about how"
+        ],
+        "median tf-idf score": 0.9842993548170076,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In his 2004 memoir, \"The Soul of a Butterfly: Reflections on Life's Journey\"  --   a collaboration with his daughter Hana Yasmeen Ali, he addressed the question of how he would like to be remembered, writing: \"I would like to be remembered as a man who won the heavyweight championship three times, who was humorous, and who treated everyone right.",
+            "It would be more than three years before Ali returned to the ring.",
+            "Asked once about how he'd like to be remembered, Ali replied: \"I would like to be remembered as a man who won the heavyweight title three times, who was humorous and who treated everyone right."
+        ],
+        "tf-idf score": [
+            1.1106481110190325,
+            0.4608871975058607,
+            0.9842993548170076
+        ]
+    },
+    "0.4006771674897987-3-260": {
+        "average clique similarity": 0.4006771674897987,
+        "clique": [
+            "0- Muhammad Ali shook ",
+            "2-Ali said that when h",
+            "1- Muhammad Ali shook "
+        ],
+        "median tf-idf score": 0.7624669806494999,
+        "publications": [
+            "Fox News",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"Muhammad Ali shook up the world. And the world is better for it. We are all better for it,\" President Obama said in a lengthy statement.",
+            "Ali said that when he went into the ring to fight it was \"not for me, but to uplift my little brothers who are sleeping on concrete floors  ...",
+            "\"Muhammad Ali shook up the world,\" the president said. \"And the world is better for it. We are all better for it. \""
+        ],
+        "tf-idf score": [
+            0.7624669806494999,
+            0.9344010293875221,
+            0.7009877844380198
+        ]
+    },
+    "0.4346427367175989-3-459": {
+        "average clique similarity": 0.4346427367175989,
+        "clique": [
+            "1- And I wouldn t even",
+            "4-And I wouldn t even ",
+            "3-But in later years  "
+        ],
+        "median tf-idf score": 0.3402314432093329,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "\"And I wouldn't even mind if folks forgot how pretty I was. \"",
+            "And I wouldn't even mind if folks forgot how pretty I was. \"",
+            "But in later years, his words muted by Parkinson's, Ali was asked if he'd do it all over exactly the same, even if he knew in advance how he'd end up."
+        ],
+        "tf-idf score": [
+            0.3402314432093329,
+            0.3402314432093329,
+            0.8328955873065366
+        ]
+    }
+}

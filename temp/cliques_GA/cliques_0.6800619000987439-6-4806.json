@@ -1,0 +1,438 @@
+{
+    "0.17605509945170728-3-39": {
+        "average clique similarity": 0.17605509945170728,
+        "clique": [
+            "5-They also argue that",
+            "4-The federal   deadli",
+            "1-There are a few comm"
+        ],
+        "median tf-idf score": 0.5407872191232553,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "They also argue that it threatens due process rights because it may not get done by the federal deadline to certify the vote, putting Wisconsin's electoral votes in jeopardy.",
+            "The federal   deadline to certify the vote to avoid having the fate of   Wisconsin's 10 electoral votes decided by Congress is Dec. 13. Even if that were to happen, the votes would almost certainly go   to  since Republicans control both   chambers of Congress. \"",
+            "There are a few common themes to most of the legal claims challenging the recount requests: In general, Trump's defenders are arguing that it's too late in the electoral process to initiate vote recounts, and that Stein doesn't have ground to stand on since she didn't come anywhere close to winning the election herself, and has no proof that vote totals were compromised."
+        ],
+        "tf-idf score": [
+            0.43907765550645533,
+            0.5407872191232553,
+            1.3834749166102878
+        ]
+    },
+    "0.18643512903422252-3-230": {
+        "average clique similarity": 0.18643512903422252,
+        "clique": [
+            "0-Trump won Michigan  ",
+            "2-Lawsuits were pendin",
+            "3-Trump and his backer"
+        ],
+        "median tf-idf score": 0.8955082667553256,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Trump won Michigan, Wisconsin and Pennsylvania in the election  --   all states that pollsters had predicted would go to Trump's Democratic rival Hillary Clinton.",
+            "Lawsuits were pending in Michigan, Pennsylvania and Wisconsin, three \"Rust Belt\" states which bucked their history of supporting Democrats and gave Trump thin wins in the Nov. 8 election.",
+            "Trump and his backers have filed challenges the past two days in Michigan, Wisconsin and Pennsylvania, which were critical to Trump's surprise victory last month because they punctured the   blue wall of states expected to carry Democrat Hillary Clinton to victory."
+        ],
+        "tf-idf score": [
+            0.8955082667553256,
+            0.8869621375900048,
+            0.9546386839990153
+        ]
+    },
+    "0.19099415468531747-3-130": {
+        "average clique similarity": 0.19099415468531747,
+        "clique": [
+            "1-There is no conclusi",
+            "0-Experts cast doubt o",
+            "3-Election officials i"
+        ],
+        "median tf-idf score": 1.0971872245385061,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "There is no conclusive evidence that vote counts have been compromised in any state, and Trump's margin of victory in all three is large enough that it is extremely unlikely that recounts would make a difference in determining who won the election.",
+            "Experts cast doubt on the efficacy of the recounts, saying that it was unlikely they would flip anything close to the number of votes to change the outcome in any of the states in question. \"This is certainly not Bush v. Gore,\" Mike Haas, Wisconsin's chief elections administrator, told The Associated Press.",
+            "Election officials in all three states have expressed confidence in their results, and voting rights experts have said the effort is highly unlikely to overturn the results that are sending Trump to the White House."
+        ],
+        "tf-idf score": [
+            1.0971872245385061,
+            1.299351571004674,
+            0.803286413989603
+        ]
+    },
+    "0.21347519704431972-3-93": {
+        "average clique similarity": 0.21347519704431972,
+        "clique": [
+            "3-Either way  her requ",
+            "2-The board of canvass",
+            "5-Michigan s elections"
+        ],
+        "median tf-idf score": 1.112478789283967,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Either way, her request puts Pennsylvania at grave risk of having not certified its Presidential electors by December 13, the deadline for doing so,\" says the filing. On Friday, the focus of the escalating battle was in Michigan, as the Board of State Canvassers deadlocked   over an objection that attorneys for Trump filed Thursday against Stein's recount request.",
+            "The board of canvassers is required to respond in writing to Schuette's lawsuit by midday on Tuesday. The Trump campaign's own attorneys have also moved to block recount efforts in Pennsylvania and Michigan.",
+            "Michigan's elections board deadlocked Friday on a Trump campaign request to deny Stein's recount request and on how a recount would be conducted."
+        ],
+        "tf-idf score": [
+            1.5930569963675796,
+            0.9926118962496256,
+            1.112478789283967
+        ]
+    },
+    "0.21955892973791505-3-207": {
+        "average clique similarity": 0.21955892973791505,
+        "clique": [
+            "5-Republican lawyers f",
+            "4-    In Pennsylvania ",
+            "2-A Pennsylvania court"
+        ],
+        "median tf-idf score": 0.9225574939915664,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Republican lawyers filed a motion that was posted on the court's website Friday accusing Stein of engaging in legal antics and saying her recount request endangers Pennsylvania's ability to certify its electors by the federal deadline.",
+            "\"   In Pennsylvania, a hearing is scheduled for Monday on Stein's   push to secure a   statewide recount, a legal   maneuver that has never been tried, according to one of the   lawyers who filed it. \"",
+            "A Pennsylvania court has scheduled a hearing for Monday morning in Harrisburg, the state capital. In an order on Friday, the court told lawyers for both sides to be prepared to talk about whether enough evidence of wrongdoing exists to keep the case going. According to Stein's website on Friday, the Green Party had raised $6."
+        ],
+        "tf-idf score": [
+            1.11678496212256,
+            0.86218233758019,
+            0.9225574939915664
+        ]
+    },
+    "0.21990373468788382-3-153": {
+        "average clique similarity": 0.21990373468788382,
+        "clique": [
+            "1-   to recount the en",
+            "3-Trump argued that St",
+            "5-  Donald Trump and h"
+        ],
+        "median tf-idf score": 1.473191598919059,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            ".. to recount the entire state's presidential election results by hand. \"",
+            "Trump argued that Stein cannot, as the state's   finisher, claim that she is \"aggrieved\" by the way the vote unfolded and that there isn't enough time to complete the recount by the Dec. 13 deadline to certify Michigan's election results.",
+            "  Donald Trump and his supporters went to court Friday to prevent or halt election recounts in Michigan, Pennsylvania and Wisconsin, less than two weeks before the states would have to complete the tasks to meet a federal deadline to certify their election results."
+        ],
+        "tf-idf score": [
+            0.6644708496479576,
+            1.473191598919059,
+            1.5057364479572013
+        ]
+    },
+    "0.2343400749906488-3-230": {
+        "average clique similarity": 0.2343400749906488,
+        "clique": [
+            "0-Trump s lawyers argu",
+            "5-In separate lawsuits",
+            "4-  attorneys said Ste"
+        ],
+        "median tf-idf score": 1.1091437793157735,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Trump's lawyers argued Thursday that Stein should not be allowed to seek the recount because she was not \"aggrieved\" as the potential miscount could not conceivably have cost her the election.",
+            "In separate lawsuits against the state, Michigan's Republican attorney general and Trump asked state courts to prevent the recount, saying Stein should not be allowed to seek one because she finished so far behind Trump and Clinton that she couldn't have won, even if some votes were miscounted.",
+            "' attorneys said Stein, who finished   fourth in  is not \"aggrieved\" by any   alleged election fraud or mistake, that a recount could not be   finished on time and that her petition was not properly signed."
+        ],
+        "tf-idf score": [
+            1.1091437793157735,
+            1.488451423528389,
+            0.8900032641340486
+        ]
+    },
+    "0.2351428547781543-3-113": {
+        "average clique similarity": 0.2351428547781543,
+        "clique": [
+            "2-Green Party candidat",
+            "4-     Verifying the v",
+            "5-Wisconsin is the onl"
+        ],
+        "median tf-idf score": 1.0092889313899795,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Green Party candidate Jill Stein, who garnered only about 1 percent of the vote, has said the recount campaign is not targeted at Trump or Clinton.",
+            "'   \"Verifying the vote through this recount is the only way to   confirm that every vote has been counted securely and accurately   and is not compromised by machine or human error, or by tampering   or hacking,\" Stein said in a statement Thursday. '",
+            "Wisconsin is the only state where a recount is underway."
+        ],
+        "tf-idf score": [
+            1.254609951402989,
+            1.0092889313899795,
+            0.5544207175765955
+        ]
+    },
+    "0.23527400014936908-3-49": {
+        "average clique similarity": 0.23527400014936908,
+        "clique": [
+            "4-    Donald  narrowly",
+            "1-But in an   exchange",
+            "2-Trump surpassed the "
+        ],
+        "median tf-idf score": 1.047227286427647,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "'   Donald  narrowly beat Hillary Clinton   in all three states, but recounts were not expected to flip   nearly enough votes to change the outcome in any of the states. '",
+            "But in an   exchange, Goldfeder, who was a member of Hillary Clinton's New York Leadership Council, noted that opposition to the recounts is probably unnecessary since, as he put it, Stein's efforts appear to be \"futile. \" That's because whatever happens, the result of the election is almost assuredly not expected to change.",
+            "Trump surpassed the 270 electoral votes needed to win, with 306 electoral votes, and the recount would have to flip the result to Clinton in all three states to change the overall result."
+        ],
+        "tf-idf score": [
+            0.8702669621410553,
+            1.0537184323200468,
+            1.047227286427647
+        ]
+    },
+    "0.23598513103020133-3-230": {
+        "average clique similarity": 0.23598513103020133,
+        "clique": [
+            "0-The objections from ",
+            "3-In Wisconsin  where ",
+            "2-In Wisconsin  where "
+        ],
+        "median tf-idf score": 1.073089017204687,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The objections from Trump's team suspends the planned Friday start of the recount until next week. A recount is already underway in Wisconsin, and Stein is also pushing for a   statewide recount in Pennsylvania.",
+            "In Wisconsin, where Trump defeated Clinton by one percentage point, a recount is underway. But Great America PAC and Stop Hillary PAC, both   groups, said Friday they had filed a legal challenge a day earlier in federal court in conjunction with a Wisconsin voter to stop the new count.",
+            "In Wisconsin, where the recount is already underway, a federal judge on Friday rejected a request for an emergency stay by the   political action committee Great America PAC U S District Judge James Peterson scheduled a hearing for Dec. 9 to consider whether to halt the recount at that time."
+        ],
+        "tf-idf score": [
+            1.073089017204687,
+            1.3234192478947955,
+            0.8760926586071679
+        ]
+    },
+    "0.2706985876663153-3-230": {
+        "average clique similarity": 0.2706985876663153,
+        "clique": [
+            "2-Michigan Attorney Ge",
+            "0-Michigan s Attorney ",
+            "1-The Atlantic  Politi"
+        ],
+        "median tf-idf score": 1.1477983048713494,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Michigan Attorney General Bill Schuette, a Republican, filed a lawsuit on Friday to halt the requested recount in his state, where Trump won with a margin of roughly 10, 700 votes over Clinton.",
+            "Michigan's Attorney General Bill Schuette, a Republican, backed the Trump campaign's arguments Friday, and asked the state Supreme Court to block the recount.",
+            "The Atlantic  Politics  Policy Daily: The One Where Trump Calls Taiwan, In Michigan, Attorney General Bill Schuette, a Republican who supported Trump during the election, has filed a lawsuit,  which according to a statement aims \"to stop a frivolous request ."
+        ],
+        "tf-idf score": [
+            1.377196199918212,
+            1.1477983048713494,
+            0.9377083948739033
+        ]
+    },
+    "0.2802632731003923-3-122": {
+        "average clique similarity": 0.2802632731003923,
+        "clique": [
+            "2-The lawsuit filed by",
+            "5-A hearing on the law",
+            "4-But it does   not ca"
+        ],
+        "median tf-idf score": 0.7258140996658952,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "The lawsuit filed by the PAC cited as legal precedent the U S Supreme Court's Bush v. Gore decision that ended the 2000 election and Florida recount.",
+            "A hearing on the lawsuit is scheduled for Dec. 9. The lawsuit says Wisconsin is violating the U S Supreme Court's 2000 Bush v. Gore ruling because it doesn't have uniform standards to determine which votes should be counted in a recount.",
+            "But it does   not carry the same drama as the Florida presidential recount of   2000, when the outcome of the election between Al Gore and George   W Bush hung in the balance. '"
+        ],
+        "tf-idf score": [
+            0.7258140996658952,
+            0.8525139481101793,
+            0.5839848926795786
+        ]
+    },
+    "0.28290938256990966-4-119": {
+        "average clique similarity": 0.28290938256990966,
+        "clique": [
+            "2- Supporters of   Don",
+            "3- Supporters of   Don",
+            "1-  Donald Trump s all",
+            "4-    The action in Wi"
+        ],
+        "median tf-idf score": 1.2082943754768503,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            " Supporters of   Donald Trump moved on Friday to halt the Green Party's requests for   recounts of the presidential votes in three states where Trump, a Republican, won with narrow victories.",
+            " Supporters of   Donald Trump are moving aggressively to challenge Green Party presidential candidate Jill Stein's push for a recount in three states, filing legal challenges and criticizing the effort as quixotic and  .",
+            "  Donald Trump's allies are taking legal action intended to stop election recount attempts initiated by Green Party presidential nominee Jill Stein in Wisconsin, Michigan, and Pennsylvania.",
+            "'   The action in Wisconsin could soon be duplicated   in  and Pennsylvania, where Green   Party presidential candidate Jill Stein was pushing for recounts. '"
+        ],
+        "tf-idf score": [
+            1.210478784007694,
+            1.2061099669460065,
+            1.4011287210263166,
+            0.9017153312642634
+        ]
+    },
+    "0.2860698039087321-3-10": {
+        "average clique similarity": 0.2860698039087321,
+        "clique": [
+            "2-Trump won Wisconsin ",
+            "4-     I think we will",
+            "5-Elections officials "
+        ],
+        "median tf-idf score": 0.8001753894235746,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Trump won Wisconsin with a margin of roughly 22, 000 votes over Clinton, and in Pennsylvania he won with a margin of about 49, 500 votes.",
+            "'   \"I think we will be very close to what was reported on election   night,\" McDonell said Thursday. ' '   Clinton lost to  by about 22, 000   votes in Wisconsin, or less than a percentage point. '",
+            "Elections officials in the three states have expressed confidence in their results. Trump defeated Clinton in Wisconsin by about 22, 000 votes, or less than 1 percentage point."
+        ],
+        "tf-idf score": [
+            0.6800965741576539,
+            0.8001753894235746,
+            0.9908192916875405
+        ]
+    },
+    "0.29037926785936646-3-0": {
+        "average clique similarity": 0.29037926785936646,
+        "clique": [
+            "3-Retired U S Marine C",
+            "0-Michigan s Republica",
+            "2-Michigan s recount i"
+        ],
+        "median tf-idf score": 0.9677609529198213,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Retired U S Marine Corps General James Mattis has been chosen to be secretary of defense by   Donald Trump, according to people familiar with the decision. (Jenny   Washington Post)   Because of the deadlock, the office of Michigan Secretary of State Ruth Johnson (R) said in a tweet that \"the recount is expected to commence early next week, barring court action. \"",
+            "Michigan's Republican secretary of state, Ruth Johnson, has said a recount could cost $5 million total.",
+            "Michigan's recount is expected to begin on Wednesday, barring court action, after the state's board of canvassers deadlocked   on Friday on a motion objecting to the recount, the Michigan Secretary of State's Office said."
+        ],
+        "tf-idf score": [
+            1.4185805121347108,
+            0.9259047824396793,
+            0.9677609529198213
+        ]
+    },
+    "0.3800715195439362-3-142": {
+        "average clique similarity": 0.3800715195439362,
+        "clique": [
+            "2-5 million to cover s",
+            "4-9 million  Stein pai",
+            "0-The Wisconsin recoun"
+        ],
+        "median tf-idf score": 0.7820089654995754,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "5 million to cover some costs. A Schuette spokeswoman said on Friday that Stein had contributed $787, 500, but the recount would cost some $5 million.",
+            "9 million. Stein paid $973, 250 for the requested recount   in . '",
+            "The Wisconsin recount was estimated to cost about $3. 9 million. Stein paid $973, 250 for the requested recount in Michigan."
+        ],
+        "tf-idf score": [
+            0.7820089654995754,
+            0.5479337953037855,
+            0.8874773953914443
+        ]
+    },
+    "0.43388962456904795-3-177": {
+        "average clique similarity": 0.43388962456904795,
+        "clique": [
+            "2- We won t stand down",
+            "1-In a statement on Fr",
+            "3-Stein s team said Fr"
+        ],
+        "median tf-idf score": 0.9737515616559294,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"We won't stand down as Donald Trump and his allies seek to frivolously obstruct the legal processes set up to ensure the accuracy, security and fairness of our elections,\" Stein said in a statement on Friday.",
+            "In a statement on Friday, Stein vowed to fight the legal challenges. \"We won't stand down as Donald Trump and his allies seek to frivolously obstruct the legal processes set up to ensure the accuracy, security and fairness of our elections,\" she said.",
+            "Stein's team said Friday that it will fight the challenge. \"Citizens in Wisconsin and across the country have made it clear that they want a recount and deserve to see this process through to ensure integrity in the vote,\" Stein attorney Matthew D Brinckerhoff said in a statement."
+        ],
+        "tf-idf score": [
+            0.9225681731641433,
+            0.9737515616559294,
+            1.1128403207764452
+        ]
+    },
+    "0.4653643396912222-3-230": {
+        "average clique similarity": 0.4653643396912222,
+        "clique": [
+            "0-Stein has argued  wi",
+            "4-    Stein has argued",
+            "5-Stein has argued  wi"
+        ],
+        "median tf-idf score": 0.711514183729158,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "Stein has argued, without any evidence, that irregularities in the vote suggests there could have been a cyberattack on voting machines that tampered with the vote. She says the only way to be sure is to verify the vote through a recount.",
+            "'   Stein has argued, without evidence, that irregularities in the   votes in all three states suggest that there could have been   tampering with the vote, perhaps through a     highly complex cyberattack. '",
+            "Stein has argued, without evidence, that irregularities in the votes in all three states suggest that there could have been tampering with the vote, perhaps through a   highly complex cyberattack."
+        ],
+        "tf-idf score": [
+            0.939105688587456,
+            0.711514183729158,
+            0.711514183729158
+        ]
+    }
+}

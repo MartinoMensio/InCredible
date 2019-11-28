@@ -1,0 +1,434 @@
+{
+    "0.1483951331531961-3-17": {
+        "average clique similarity": 0.1483951331531961,
+        "clique": [
+            "0-It was a sign that t",
+            "1-Deputy speaker of th",
+            "4-This is hugely signi"
+        ],
+        "median tf-idf score": 0.7305135251276335,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "It was a sign that the administration was still struggling to deal with the political firestorm ignited by the resolution vote. The outrage in the Israeli government has been matched among some members of Congress.",
+            "Deputy speaker of the Knesset Ahmad Tibi, one of the most influential Arab members of Israel's parliament, slammed Netanyahu for deriding Kerry's speech, pointing to opposition among Democrats in the US to Israel's settlement policy.",
+            "This is hugely significant. One of the biggest sticking points for the Palestinians in peace negotiations has been what is referred to as the \"right of return\" of the hundreds of thousands of Palestinian refugees who were displaced from their homes with the creation of Israel."
+        ],
+        "tf-idf score": [
+            0.7305135251276335,
+            0.9338328031357439,
+            0.7204056330428468
+        ]
+    },
+    "0.15321395527124743-3-108": {
+        "average clique similarity": 0.15321395527124743,
+        "clique": [
+            "3-He said that the two",
+            "1- They re leading tow",
+            "4-By specifically choo"
+        ],
+        "median tf-idf score": 0.9640495890514109,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "He said that the two sides \"have not yet been able to resume talks,\" ignoring the fact that Israel has been open to talks for years, which the Palestinians have refused. Kerry concluded by recounting a potted history of the   conflict, as perceived by each side  --   at least, as he perceived the two sides'  perspectives.",
+            "\"They're leading towards one state,\" he said. And the secretary of state also pointed to the recent rapid growth of settlements east of the 1967 borders, which have long been seen as the basis for the territory of a future Palestinian state alongside Israel.",
+            "By specifically choosing to use the highly charged Arabic word \"nakba,\" which no other   US officials appear to have used before, Kerry essentially legitimized the Palestinian narrative of suffering in a much stronger, more emotional way than we have seen before from the US side. Yet Kerry's speech also offered Israel some big wins."
+        ],
+        "tf-idf score": [
+            1.0157778500339432,
+            0.9410585047190496,
+            0.9640495890514109
+        ]
+    },
+    "0.1557091278017802-3-196": {
+        "average clique similarity": 0.1557091278017802,
+        "clique": [
+            "0-Most have been prove",
+            "3-Controversially  Ker",
+            "4-Another big win for "
+        ],
+        "median tf-idf score": 1.1019955082194444,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Most have been proven sticking points in previous negotiations  --   among them, Jerusalem as a mutual capital for two states; normalized relations with Arab states in the region; and financial compensation for Palestinian refugees, along with acknowledgment of their suffering.",
+            "Controversially, Kerry's peace plan also includes Jerusalem as the capital of \"the two states\"  --   an outcome that Israel has not accepted, except in the peace terms offered at Camp David in 2000, which the Palestinians rejected.",
+            "Another big win for Israel was Kerry's statement that Jerusalem should be \"the internationally recognized capital of the two states\" of Israel and Palestine, that it should not be divided, and that any final resolution must \"protect and assure freedom of access to the holy sites consistent with the established status quo\" (emphasis mine)."
+        ],
+        "tf-idf score": [
+            0.5084961778923569,
+            1.1019955082194444,
+            1.144860305001572
+        ]
+    },
+    "0.1713219580598563-3-69": {
+        "average clique similarity": 0.1713219580598563,
+        "clique": [
+            "2-Kerry said he is con",
+            "1- The United States d",
+            "4- If more and more se"
+        ],
+        "median tf-idf score": 0.6192867407309444,
+        "publications": [
+            "CNN",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Kerry said he is concerned that some Israeli politicians are rejecting it.",
+            "\"The United States did not draft or originate this resolution, nor did we put it forward,\" he said, adding that the US simply made it clear to the resolution's sponsors that \"if the text was more balanced, it was possible we wouldn't block it\".",
+            "\"If more and more settlers are moving into the middle of the Palestinian areas, it's going to be that much harder to separate, that much harder to imagine transferring sovereignty  --   and that is exactly the outcome that some are accelerating,\" he said."
+        ],
+        "tf-idf score": [
+            0.6192867407309444,
+            0.6719318932944217,
+            0.37468259370368906
+        ]
+    },
+    "0.1785521458971769-3-53": {
+        "average clique similarity": 0.1785521458971769,
+        "clique": [
+            "4-Kerry s speech  comi",
+            "2-The resolution led t",
+            "3-The Obama administra"
+        ],
+        "median tf-idf score": 0.8675403223265699,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Kerry's speech, coming right as President Obama prepares to turn over the keys to the White House to   Donald Trump on January 20, amounts to a   effort by the Obama administration to influence the future course of the moribund peace process.",
+            "The resolution led to fierce accusations that the Obama administration had turned against Israel.",
+            "The Obama administration, he said, had warned Israel that the Palestinians intended to take the settlement issue to the UN Security Council, but that Israel did not listen."
+        ],
+        "tf-idf score": [
+            0.9180407829556937,
+            0.5421480932209944,
+            0.8675403223265699
+        ]
+    },
+    "0.18605594905656464-3-226": {
+        "average clique similarity": 0.18605594905656464,
+        "clique": [
+            "4-Kerry  who tried and",
+            "2-Speaking at the Stat",
+            "1-He noted that the Is"
+        ],
+        "median tf-idf score": 0.9372932309365752,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Kerry, who tried and failed to revitalize the moribund peace process, warned that Israel's rapidly growing settler population  --   nearly 600, 000 Jews live in East Jerusalem and the West Bank  --   could kill off any last chance at a   solution to the conflict and endanger Israel's future as a Jewish and democratic state.",
+            "Speaking at the State Department, Kerry sharply criticized the Israeli government's construction of Jewish settlements in the West Bank.",
+            "He noted that the Israeli settler population in the West Bank has grown by 270, 000 since the Oslo Accords of the 1990s."
+        ],
+        "tf-idf score": [
+            1.2837470892797627,
+            0.9372932309365752,
+            0.41786956665444347
+        ]
+    },
+    "0.19007999278721743-3-6": {
+        "average clique similarity": 0.19007999278721743,
+        "clique": [
+            "4-Kerry also laid into",
+            "3-He objected to a pro",
+            "0-Although he did not "
+        ],
+        "median tf-idf score": 1.3314622144635502,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Kerry also laid into Israeli Prime Minister Benjamin Netanyahu, whose chilly relationship with the White House plunged to new depths last week after Washington abstained on a controversial UN Security Council resolution declaring that the establishment of settlements by Israel \"constitutes a flagrant violation under international law. \"",
+            "He objected to a proposed law in the Israeli Knesset that would extend Israeli military law to cover seizure of civilian land  --   a law that proponents argue is aimed at bolstering Palestinian property rights  --   and launched into a comprehensive attack on Israeli policy toward the settlements.",
+            "Although he did not mention Netanyahu by name, Kerry addressed   the Israeli leader's assertions that the United States had \"colluded\" in and \"orchestrated\" last week's U N resolution affirming that settlement activity in the West Bank and East Jerusalem has \"no legal validity and constitutes a flagrant violation under international law and a major obstacle to the achievement of the   solution. \""
+        ],
+        "tf-idf score": [
+            1.3314622144635502,
+            0.6085698817666318,
+            1.4408792309960174
+        ]
+    },
+    "0.19715596932558252-3-14": {
+        "average clique similarity": 0.19715596932558252,
+        "clique": [
+            "0-He said the vote at ",
+            "1-Kerry argued that cu",
+            "3-He said that peace r"
+        ],
+        "median tf-idf score": 1.000387557527317,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He said the vote at the United Nations was about \"Israel's future as a Jewish and democratic state, living side by side in peace and security with its neighbors.",
+            "Kerry argued that current Israeli settlement policy in the region was leading toward a future of \"one state and perpetual occupation\" and slammed the arguments of   Israeli officials who argue settlements are aimed at bolstering Israel's security.",
+            "He said that peace required a   Palestinian state, with a full end to Israeli military occupation, and normalization of Israel's relations with its neighbors."
+        ],
+        "tf-idf score": [
+            1.000387557527317,
+            1.2944945386496933,
+            0.9582521441840741
+        ]
+    },
+    "0.20209769189736412-3-298": {
+        "average clique similarity": 0.20209769189736412,
+        "clique": [
+            "4- US Secretary of Sta",
+            "3-  Secretary of State",
+            "2-With his tenure as s"
+        ],
+        "median tf-idf score": 1.1542813496986561,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            " US Secretary of State John Kerry used a   speech Wednesday to deliver what was perhaps the clearest, most detailed attack on Israeli settlements ever articulated by a senior US official. The nearly    speech was striking in both its level of detail and its subtle yet unmistakable policy shifts.",
+            "  Secretary of State John Kerry blasted the Israeli government at the State Department on Wednesday, and attempted to defend the Obama administration's decision to let an   resolution pass at the UN Security Council last week.",
+            "With his tenure as secretary of state rapidly pulling to a close, John Kerry made an impassioned defense for a   solution in the   conflict on Wednesday."
+        ],
+        "tf-idf score": [
+            1.1720373871954695,
+            1.1542813496986561,
+            0.6841102209904183
+        ]
+    },
+    "0.206971341507957-3-200": {
+        "average clique similarity": 0.206971341507957,
+        "clique": [
+            "0- Secretary of State ",
+            "3-Resolution 2334 decl",
+            "1-Kerry defended the U"
+        ],
+        "median tf-idf score": 1.4853978773912433,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            " Secretary of State John F Kerry on Wednesday harshly criticized Israeli settlements in the West Bank, saying their growth threatens to destroy the viability of a   solution to the   conflict, and that the United States was obliged to allow passage of a U N resolution condemning the activity in order to preserve the possibility of peace.",
+            "Resolution 2334 declares the Israeli presence in areas won from Jordan in the defensive Six Day War in 1967  --   including the Old City of Jerusalem and the rest of the West Bank (Judea and Samaria)  --   to be illegal. Effectively, it denies Jewish claims to historical and religious sites that have been holy to, and inhabited by, Jews for millennia.",
+            "Kerry defended the United States' decision last week to abstain from a vote on    and not veto    a UN resolution condemning Israeli settlements in the West Bank and East Jerusalem as one aimed at \"preserving the   solution,\" which he called \"the only way to achieve a just and lasting peace between Israelis and Palestinians\"."
+        ],
+        "tf-idf score": [
+            1.4853978773912433,
+            0.7017027824705976,
+            1.500967418136281
+        ]
+    },
+    "0.23332761400090796-3-103": {
+        "average clique similarity": 0.23332761400090796,
+        "clique": [
+            "3-Nor did he mention n",
+            "1-But he underscored h",
+            "0-Israeli Prime Minist"
+        ],
+        "median tf-idf score": 0.6197852903977155,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Nor did he mention numerous disagreements between Obama and Israeli Prime Minister Benjamin Netanyahu that had emerged over eight years  --   including the Obama administration's numerous snubs and its repeated attempts to frustrate Israeli war efforts against the Hamas terror organization in Gaza.",
+            "But he underscored his optimism with a warning: \"Despite our best efforts over the years, the   solution is now in serious jeopardy\". Israeli Prime Minister Benjamin Netanyahu fired back, deriding Kerry's speech as \"skewed against Israel\" in a statement Wednesday.",
+            "Israeli Prime Minister Benjamin Netanyahu called the speech \"a big disappointment. \""
+        ],
+        "tf-idf score": [
+            0.6197852903977155,
+            1.1049194690878126,
+            0.48376985170561376
+        ]
+    },
+    "0.2658899833852203-3-82": {
+        "average clique similarity": 0.2658899833852203,
+        "clique": [
+            "3-Later  Kerry complai",
+            "1-He also reserved spe",
+            "4-He also complained t"
+        ],
+        "median tf-idf score": 0.8211424215042732,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Vox"
+        ],
+        "sentences": [
+            "Later, Kerry complained about Netanyahu's   government  --   which the Obama administration did its best to defeat in 2015 by using American taxpayers' money to fund   political efforts during the Israeli election  --   \"His current coalition is the most   in Israeli history, with an agenda driven by the most extreme elements. \"",
+            "He also reserved special criticism for Netanyahu, whose governing coalition Kerry called \"the most   in Israeli history, with an agenda driven by the most extreme elements\".",
+            "He also complained that \"[w]hat [Kerry] did was spend most of his speech blaming Israel for the lack of peace\"."
+        ],
+        "tf-idf score": [
+            0.881458793501126,
+            0.6418436384550164,
+            0.8211424215042732
+        ]
+    },
+    "0.2960094538823605-3-56": {
+        "average clique similarity": 0.2960094538823605,
+        "clique": [
+            "3-He said that had sen",
+            "2- If the choice is on",
+            "4-First  Kerry said th"
+        ],
+        "median tf-idf score": 0.9875291953793085,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "He said that had sensitized him to the security concerns of ordinary Israelis. But he said that the \"fundamental reality\" was that \"Israel can either be Jewish or it can be democratic, but it cannot be both. \"",
+            "\"If the choice is one state, Israel can either be Jewish or democratic it cannot be both, and it won't ever really be at peace,\" said Kerry.",
+            "First, Kerry said that any solution to the issue of Palestinian refugees \"must be consistent with two states for two peoples, and cannot affect the fundamental character of Israel. \""
+        ],
+        "tf-idf score": [
+            0.7955158941376689,
+            0.9875291953793085,
+            1.0368135072843179
+        ]
+    },
+    "0.2974048103525353-3-88": {
+        "average clique similarity": 0.2974048103525353,
+        "clique": [
+            "2-In three weeks  his ",
+            "0-They used to have a ",
+            "1-They used to have a "
+        ],
+        "median tf-idf score": 0.7523536363351615,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "In three weeks, his   travels around the world will end and his energetic diplomacy will suddenly terminate. He has one major accomplishment under his belt  --   the Iran nuclear deal  --   but he could not achieve his goals on the   dispute, or in the Syrian civil war\". As we've previously reported, peace talks fell apart. Earlier,   Trump took to Twitter to offer his view.",
+            "They used to have a great friend in the U S but . not anymore. The beginning of the end was the horrible Iran deal, and now this (U N)!",
+            "They used to have a great friend in the U S but not anymore. The beginning of the end was the horrible Iran deal, and now this (U N)!\" Trump tweeted. \"Stay strong Israel, January 20th is fast approaching!\" Asked about the speech later Wednesday at his    resort in Florida, Trump said it \"speaks for itself\". Congress is taking steps to back Trump's approach."
+        ],
+        "tf-idf score": [
+            0.7523536363351615,
+            0.3153845638727223,
+            1.077146117955514
+        ]
+    },
+    "0.42608352192088184-3-96": {
+        "average clique similarity": 0.42608352192088184,
+        "clique": [
+            "2-In the more than hou",
+            "4- The result is that ",
+            "0- The result is that "
+        ],
+        "median tf-idf score": 0.8416144563478385,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "In the more than hourlong address, Kerry also defended the U S's refusal to block a U N Security Council resolution condemning Israeli settlements.",
+            "\"The result is that policies of this government  --   which the prime minister himself just described as 'more committed to settlements than any in Israel's history'  --   are leading in the opposite direction, toward one state. \"",
+            "\"The result is that policies of this government, which the prime minister himself just described as 'more committed to settlements than any in Israel's history,' are leading in the opposite direction,\" Kerry said."
+        ],
+        "tf-idf score": [
+            0.8416144563478385,
+            0.7227581581042615,
+            0.9892063128674574
+        ]
+    },
+    "0.44047544353329876-3-283": {
+        "average clique similarity": 0.44047544353329876,
+        "clique": [
+            "3-He went on to claim ",
+            "0- President Obama and",
+            "1- The incoming admini"
+        ],
+        "median tf-idf score": 0.9537689759933404,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "He went on to claim the Obama administration has been \"Israel's greatest friend and supporter,\" adding that \"No American administration has done more for Israel's security than Barack Obama's   ...     Time and again, we have demonstrated that we have Israel's back. \"",
+            "\"President Obama and I know that the incoming administration has signaled that they may take a different path, and even suggested breaking from the   U S policies on settlements, Jerusalem  --   and possibly the   solution,\" Kerry said. \"That is for them to decide  --   that's how we work.",
+            "\"The incoming administration has signaled that they may take a different path, and even suggested breaking from   US policies on settlements, Jerusalem    and possibly the   solution,\" Kerry said. \"That is for them to decide. That's how we work\"."
+        ],
+        "tf-idf score": [
+            0.6534154060502976,
+            1.0590079405869512,
+            0.9537689759933404
+        ]
+    },
+    "0.5024731930933365-3-139": {
+        "average clique similarity": 0.5024731930933365,
+        "clique": [
+            "2- We cannot continue ",
+            "0-About two hours befo",
+            "1-Trump  in his latest"
+        ],
+        "median tf-idf score": 0.8833013264594272,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\"We cannot continue to let Israel be treated with such total disdain and disrespect. They used to have a great friend in the U S but. .... \".. he tweeted Wednesday morning. \"Not anymore.",
+            "About two hours before Kerry started speaking, Trump tweeted his criticism of the Obama administration: \"We cannot continue to let Israel be treated with such total disdain and disrespect.",
+            "Trump, in his latest breach of presidential transition protocol, made clear on Twitter Wednesday morning ahead of Kerry's speech that change was on the way. \"We cannot continue to let Israel be treated with such total disdain and disrespect."
+        ],
+        "tf-idf score": [
+            0.48971832968977597,
+            0.8833013264594272,
+            1.0380671382776838
+        ]
+    },
+    "0.5239189916029156-3-298": {
+        "average clique similarity": 0.5239189916029156,
+        "clique": [
+            "0-Stay strong Israel  ",
+            "4-The beginning of the",
+            "2-The beginning of the"
+        ],
+        "median tf-idf score": 0.5547643305410856,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Stay strong Israel, January 20th is fast approaching!\" Netanyahu, in turn, promptly tweeted his gratitude: \"  Trump, thank you for your warm friendship and your   support for Israel!\"",
+            "The beginning of the end was the horrible Iran deal, and now this (U N)! Stay strong Israel, January 20th is fast approaching!",
+            "The beginning of the end was the horrible Iran deal, and now this (U N)! Stay strong Israel, January 20th is fast approaching!\""
+        ],
+        "tf-idf score": [
+            0.564066505211943,
+            0.5547643305410856,
+            0.5547643305410856
+        ]
+    }
+}

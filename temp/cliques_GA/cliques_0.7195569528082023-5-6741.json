@@ -1,0 +1,274 @@
+{
+    "0.1836577032020307-3-80": {
+        "average clique similarity": 0.1836577032020307,
+        "clique": [
+            "4- Read the inquiry s ",
+            "1-Litvinenko  43  an o",
+            "3-There s no question "
+        ],
+        "median tf-idf score": 1.1867770084106841,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "'Read the inquiry's full report:'] He fell ill on the evening of 1 November 2006 after meeting Lugovoi and Kovtun for tea in a London hotel. Hours before his death on 23 November, tests showed \"extremely high levels\" of the radioactive isotope polonium 210 in his body.",
+            "Litvinenko, 43, an outspoken critic of Putin who fled Russia for Britain six years to the day before he was poisoned, died after drinking green tea laced with the rare and very potent radioactive isotope at London's Millennium Hotel.",
+            "There's no question, the report asserts, that Litvinenko was murdered by a dose of radioactive polonium that was dropped into his tea by two Russian operatives. Andrei Lugovoi and Dmitri Kovtun, childhood friends who had served together in the KGB, had sat down for tea with him   by incriminating statements and trace evidence of the radioactive isotope."
+        ],
+        "tf-idf score": [
+            0.8161680307168193,
+            1.1867770084106841,
+            1.2596430944912338
+        ]
+    },
+    "0.1872594751782514-3-7": {
+        "average clique similarity": 0.1872594751782514,
+        "clique": [
+            "2-From the report   Th",
+            "0-But the highest conc",
+            "1-Litvinenko said he h"
+        ],
+        "median tf-idf score": 1.0462619390091072,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "From the report: \"The evidence establishes that Mr Litvinenko ingested the fatal dose whilst drinking tea from a teapot contaminated with   in the Pine Bar of the Millennium Hotel in the West End of London in the afternoon of 1 November in the company of Andrei Lugovoy and Dmitri Kovtun.",
+            "But the highest concentrations were discovered at the table where the three men were sitting, and in and around the teapot. The polonium, the inquiry finds, was manufactured in a nuclear reactor, suggesting the role of a government rather than criminal networks.",
+            "Litvinenko said he had only drunk three or four mouthfuls of the cold green tea made with lemon and honey. High polonium contamination was found in the teapot and the hotel bar, and traces of the highly radioactive substance were left across London including offices, hotels, planes and Arsenal soccer club's Emirates Stadium."
+        ],
+        "tf-idf score": [
+            1.0637420406975069,
+            0.5142967105216201,
+            1.0462619390091072
+        ]
+    },
+    "0.1902431848138586-3-50": {
+        "average clique similarity": 0.1902431848138586,
+        "clique": [
+            "3-Reaction to the repo",
+            "4- Speaking in the Com",
+            "2-The material that ki"
+        ],
+        "median tf-idf score": 1.1373420908881346,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Reaction to the report reverberated from London to Moscow. Britain summoned the Russian ambassador for a   and imposed an asset freeze on the two main suspects: Andrei Lugovoi, now a Russian lawmaker, and Dmitry Kovtun. The report would \"further poison the atmosphere of our bilateral relations,\" said the spokesman, Dmitry Peskov.",
+            "'Speaking in the Commons, home secretary Theresa May, who set up the inquiry in 2014, described the murder of Litvinenko as a \"  act\".' 'The Russian ambassador to the UK was later summoned to the Foreign Office to meet the minister responsible for Russia, David Lidlington.'",
+            "The material that killed Litvinenko has a   of just 138 days it also leaves a faint blue glow that helped forensic investigators track the  's trail through London. As for the alleged perpetrators, the report states, \"Warrants were in due course issued for their arrest, and the Crown Prosecution Service sought unsuccessfully to extradite them from the Russian Federation to stand trial for murder\". The report had been delayed by several factors, from the complicated nature of the police investigation to frustrated attempts to question, and perhaps prosecute, the Russian men who are accused of carrying out the order."
+        ],
+        "tf-idf score": [
+            0.9581886802404522,
+            1.1373420908881346,
+            1.2833767849014035
+        ]
+    },
+    "0.20724469810132418-3-153": {
+        "average clique similarity": 0.20724469810132418,
+        "clique": [
+            "0-Although the inquiry",
+            "1- I have concluded th",
+            "3- The fact that Mr Li"
+        ],
+        "median tf-idf score": 0.9813469019687062,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "Although the inquiry stops short of conclusively blaming Putin  --   noting the opaque nature of Kremlin politics  --   it finds that there is \"strong circumstantial evidence that the Russian State was responsible for Mr Litvinenko's death. \"",
+            "\"I have concluded that there is a strong probability that when Mr Lugovoy poisoned Mr Litvinenko, he did so under the direction of the FSB I have further concluded that Mr Kovtun was also acting under FSB direction,\" he said.",
+            "\"The fact that Mr Litvinenko was poisoned with   that had been manufactured in a nuclear reactor suggests that Mr Lugovoi and Mr Kovtun were acting for a state body, rather than (say) a criminal organization,\" it says."
+        ],
+        "tf-idf score": [
+            1.1559465185742561,
+            0.9813469019687062,
+            0.9189177067416253
+        ]
+    },
+    "0.2247144012266008-3-114": {
+        "average clique similarity": 0.2247144012266008,
+        "clique": [
+            "2-Judge Owen adds that",
+            "1-The judge said he wa",
+            "0- All the evidence po"
+        ],
+        "median tf-idf score": 0.9375827480973578,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Judge Owen adds that there's no sign of a possible personal motive for Lugovoy and Kovtun, and that all the evidence in the case \"points in one direction\"  --   to Moscow. Litvinenko died on Nov. 23, 2006. As a former Soviet intelligence officer wrote for The Telegraph in 2009, Litvinenko's clashes with Putin extend at least back to 1998, when he blew the whistle on orders from the FSB to murder a politician in Russia.",
+            "The judge said he was sure Lugovoy and Kovtun had placed the polonium 210 in a teapot at the Millennium Hotel's Pine Bar on Nov. 1, 2006 when they met Litvinenko for little more than 30 minutes.",
+            "\"All the evidence points in one direction, namely that when they killed Mr Litvinenko, they were acting on behalf of someone else. \" Litvinenko became seriously ill later on the night of Nov. 1, 2006, the sixth anniversary of his arrival in Britain."
+        ],
+        "tf-idf score": [
+            1.2449314942111254,
+            0.9375827480973578,
+            0.6172057997512828
+        ]
+    },
+    "0.2351557587042178-3-153": {
+        "average clique similarity": 0.2351557587042178,
+        "clique": [
+            "4- High court judge Si",
+            "0- The stealthy  nefar",
+            "3-Litvinenko was fatal"
+        ],
+        "median tf-idf score": 1.0908090286049001,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "'High court judge Sir Robert Owen said on Thursday that former KGB agents Andrei Lugovoi and Dmitry Kovtun poisoned Litvinenko with a radioactive isotope in London in 2006 \"acting on behalf of others. \"'",
+            "[The stealthy, nefarious way an   officer was murdered in London]  The inquiry into Litvinenko's death was led by retired High Court judge Robert Owen and was set up at the direction of the British government.",
+            "Litvinenko was fatally poisoned by a cup of green tea spiked with radioactive  . Owen said the personal attacks were among the \"powerful motives\" for the assassination. The bombshell accusations of   revenge and murder were revealed in a comprehensive   report prepared by retired High Court Judge Sir Robert Owen and released Thursday after a yearlong inquest."
+        ],
+        "tf-idf score": [
+            1.050831410429879,
+            1.0908090286049001,
+            1.2918766240786217
+        ]
+    },
+    "0.23902972657391694-3-34": {
+        "average clique similarity": 0.23902972657391694,
+        "clique": [
+            "1-Prime Minister David",
+            "0-Britain immediately ",
+            "4- Our objective will "
+        ],
+        "median tf-idf score": 0.6114016602944823,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Prime Minister David Cameron said he would not rule out further action, but added: \"Do we at some level have to go on having some sort of relationship with them because we need a solution to the Syria crisis? Yes we do. But we do it with clear eyes and a very cold heart\". Interior minister Theresa May, appearing before parliament, spoke of \"a blatant and unacceptable breach of the most fundamental tenets of international law and of civilized behavior\" while the opposition Labour Party described an \"unparalleled act of   terrorism\".",
+            "Britain immediately summoned the Russian ambassador to express \"profound displeasure\" at what Home Secretary Theresa May called Moscow's \"blatant and unacceptable breach of the most fundamental tenets of international law. \"",
+            "\"Our objective will always be to put them before a criminal court,\" a spokesperson said. Commander Duncan Ball said: \"It is important to remember that behind the significant global interest in this case, this remains an investigation into the murder of a man on the streets of London. \" He added: \"This remains an ongoing investigation and I am unable to comment on the evidence or say anything further at this time. \" \"This was a blatant and unacceptable breach of the most fundamental tenets of international law and of civilised behaviour,\" May said."
+        ],
+        "tf-idf score": [
+            0.6114016602944823,
+            0.4836197509063363,
+            0.9552217680687662
+        ]
+    },
+    "0.2572799909667627-3-153": {
+        "average clique similarity": 0.2572799909667627,
+        "clique": [
+            "1-Russia s Foreign Min",
+            "0-In Moscow  Putin spo",
+            "2- I am calling immedi"
+        ],
+        "median tf-idf score": 0.7388816754955083,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Russia's Foreign Ministry said what it called Britain's  biased and opaque handling of the case had clouded relations. Kremlin spokesman Dmitry Peskov said such inquiries risked poisoning relations and pointed out that the inquiry relied on unpublicised information from the intelligence services.",
+            "In Moscow, Putin spokesman Dmitry Peskov said that \"such   as we have today, can only further poison the atmosphere of our relations. \"",
+            "\"I am calling immediately for the expulsion from the U K of all Russian intelligence operatives,\" Litvinenko said, \"whether from the FSB who murdered Sasha or from other Russian agencies based in the London embassy\". Responding to the report, Russian Foreign Ministry spokesperson Maria Zakharova said, \"We regret that the purely criminal case has been politicized and has marred the entire atmosphere of bilateral relations\". As writer Will Storr told NPR in 2013, \"This has been written about as the   successful nuclear attack on the West by Russia."
+        ],
+        "tf-idf score": [
+            0.7388816754955083,
+            0.4026640857078376,
+            1.4555933876873326
+        ]
+    },
+    "0.26818409692336603-4-73": {
+        "average clique similarity": 0.26818409692336603,
+        "clique": [
+            "1- President Vladimir ",
+            "3-Vladimir Putin was f",
+            "2-Nearly 10 years afte",
+            "4- Former Russian spy "
+        ],
+        "median tf-idf score": 1.3117602382687559,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            " President Vladimir Putin probably approved a 2006 Russian intelligence operation to murder   agent Alexander Litvinenko with radioactive   in London, a British inquiry concluded on Thursday, prompting a row with Moscow.",
+            "Vladimir Putin was furious when one of his former spies, Alexander Litvinenko, publicly called him a pedophile in 2006  --   a slur that likely spurred the Russian leader to order the dissident's assassination in London four months later, a British report concluded on Thursday.",
+            "Nearly 10 years after Kremlin critic and former spy Alexander Litvinenko was poisoned with a rare radioactive element and died in London, a retired British judge has issued a report concluding that Russian President Vladimir Putin \"probably\" approved a plan by Russia's security service to kill the former FSB agent.",
+            "'Former Russian spy Alexander Litvinenko was \"probably\" assassinated on the personal instruction of Vladimir Putin, a UK inquiry has concluded.'"
+        ],
+        "tf-idf score": [
+            1.2487205727734751,
+            1.3747999037640368,
+            1.8583981168603319,
+            1.0935986422524506
+        ]
+    },
+    "0.3891525744923204-3-139": {
+        "average clique similarity": 0.3891525744923204,
+        "clique": [
+            "0- I am  of course  ve",
+            "2-Litvinenko s widow  ",
+            "1-   calling for the i"
+        ],
+        "median tf-idf score": 0.7560255716865335,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"I am, of course, very pleased that the words my husband spoke on his deathbed  --   when he accused Mr Putin of his murder  --   have been proved true,\" she told reporters outside the Royal Courts of Justice in central London.",
+            "Litvinenko's widow, Marina, speaking Thursday outside the Royal Courts of Justice in London, welcomed the report by saying, \"The words my husband spoke on his deathbed, when he accused Mr Putin of his murder, have been proved true in an English court\". She also urged Prime Minister David Cameron to take action against Putin and Russia.",
+            ".. calling for the imposition of targeted economic sanctions and travel bans against named individuals, including Mr Patrushev and Mr Putin,\" she told reporters outside London's Royal Courts of Justice. Patrushev serves as secretary of Russia's Security Council."
+        ],
+        "tf-idf score": [
+            0.6444164193277923,
+            1.2812821601064843,
+            0.7560255716865335
+        ]
+    },
+    "0.42365864484457444-4-67": {
+        "average clique similarity": 0.42365864484457444,
+        "clique": [
+            "1-An inquiry led by se",
+            "4-The inquiry ruled ou",
+            "3- Taking full account",
+            "2-The report released "
+        ],
+        "median tf-idf score": 1.4268014871128782,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "An inquiry led by senior British judge Robert Owen found that former KGB bodyguard Andrei Lugovoy and another Russian, Dmitry Kovtun, carried out the killing as part of an operation probably directed by Russia's Federal Security Service (FSB) the main heir to the   KGB \"The FSB operation to kill Mr Litvinenko was probably approved by Mr Patrushev, then head of the FSB, and also by President Putin,\" Owen said.",
+            "The inquiry ruled out suicide or accident as causes for Litvinenko's death, and concluded that he was \"deliberately poisoned\" and that the murder was \"probably\" approved by Putin and Nikolai Patrushev, former head of the FSB, the successor organisation to the KGB \"I am also calling for the imposition of targeted economics sanctions and travel bans against named individuals including Mr Patrushev and Mr Putin.",
+            "\"Taking full account of all the evidence and analysis available to me, I find that the FSB operation to kill Mr Litvinenko was probably approved by Mr Patrushev and also by President Putin,\" the report says.",
+            "The report released today by Sir Robert Owen, chairman of the British inquiry into Litvinenko's murder, concludes that \"the FSB operation to kill Mr Litvinenko was probably approved by Mr Patrushev, then head of the FSB, and also by President Putin."
+        ],
+        "tf-idf score": [
+            1.9750456691602134,
+            1.3750399337159966,
+            1.2015561531608614,
+            1.47856304050976
+        ]
+    }
+}

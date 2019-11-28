@@ -1,0 +1,806 @@
+{
+    "0.13419275546073403-3-389": {
+        "average clique similarity": 0.13419275546073403,
+        "clique": [
+            "0- Once again  Donald ",
+            "2-A Democratic operati",
+            "3- I am unwilling to b"
+        ],
+        "median tf-idf score": 0.6581728750009043,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cOnce again, Donald Trump was ahead of his time,\u201d said Trump campaign manager Kellyanne Conway.",
+            "A Democratic operative working to support Hillary Clinton\u2019s campaign was canned Tuesday after an undercover video emerged showing him bragging about hiring homeless people and the mentally ill to disrupt Donald Trump\u2019s rallies.",
+            "\u201cI am unwilling to become a distraction to the important task of electing [Hillary] Clinton, and defeating Donald Trump in the upcoming election,\u201d Creamer said in a statement."
+        ],
+        "tf-idf score": [
+            0.5174206878158413,
+            1.1520842676004617,
+            0.6581728750009043
+        ]
+    },
+    "0.14090034489639824-3-404": {
+        "average clique similarity": 0.14090034489639824,
+        "clique": [
+            "3-As reported on  The ",
+            "1-In the preface to th",
+            "0- They have a transcr"
+        ],
+        "median tf-idf score": 0.6530218646318451,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "As reported on \u201dThe Kelly File,\u201d Creamer also is shown on video being asked about circumventing voter registration laws for Hispanics, though he later said in a statement that none of the schemes described in the conversation on video ever took place.",
+            "In the preface to the second video, O\u2019Keefe states that the first video \u201cblew up on social media, but sources have told us that several large corporate media outlets are afraid to cover our discoveries for fear of future retribution from a Hillary Clinton administration.",
+            "\u201cThey have a transcript of our conversation to confirm I told them that voting twice was illegal,\u201d Vargas wrote on Facebook on Tuesday."
+        ],
+        "tf-idf score": [
+            0.8179388661758296,
+            0.6530218646318451,
+            0.32449890013201144
+        ]
+    },
+    "0.15699249176595903-3-205": {
+        "average clique similarity": 0.15699249176595903,
+        "clique": [
+            "0-  In the first video",
+            "3-See Predictions Map ",
+            "2- They re not startin"
+        ],
+        "median tf-idf score": 0.7097758946319125,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d In the first video, O\u2019Keefe makes much of the term \u201c\u201d which Foval describes as putting people at the front of rope lines to make sure \u201cthey\u2019re the ones asking questions.",
+            "See Predictions Map \u2192 \u201cIt\u2019s a very easy thing for Republicans to say, \u2018Well, they\u2019re busing people in.\u2019   \u2026     We\u2019ve been busing people in to deal with you      \u2018         for fifty years and we\u2019re not going to stop now, we\u2019re just going to find a different way to do it,\u201d says Foval, who indicates using personal vehicles for each voter arouses less suspicion than busing in a large number of people from out of state at once.",
+            "\u201cThey\u2019re not starting confrontations in the rally."
+        ],
+        "tf-idf score": [
+            0.7097758946319125,
+            0.8365937314985298,
+            0.09075444214267017
+        ]
+    },
+    "0.15725177969124032-3-360": {
+        "average clique similarity": 0.15725177969124032,
+        "clique": [
+            "1-Adams issued the fol",
+            "4-       Those of us w",
+            "3-Those chosen are sen"
+        ],
+        "median tf-idf score": 0.37428027018156806,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Adams issued the following statement to Breitbart News: American voter rolls are corrupted with unacceptable numbers of aliens who are illegally registered to vote.",
+            "\u2019 \u2019   \u201dThose of us who are involved in political work because we   believe deeply in progressive values are saddened that those on   the right are using dirty tricks in order to pursue their   political agenda rather than engage in an honest debate about   ideas,\u201d he said.",
+            "Those chosen are sent to incite violence and are even given scripts and training, according to Foval."
+        ],
+        "tf-idf score": [
+            0.37428027018156806,
+            0.41002641417284075,
+            0.2932558785905545
+        ]
+    },
+    "0.16382761393356862-3-55": {
+        "average clique similarity": 0.16382761393356862,
+        "clique": [
+            "4-I  m telling you the",
+            "0-In PVAction s tellin",
+            "1-  In the video  Varg"
+        ],
+        "median tf-idf score": 0.25695055681453666,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Business Insider"
+        ],
+        "sentences": [
+            "I\u2019\u2019m telling you the election is rigged\u201d.",
+            "In PVAction\u2019s telling, the \u201csomeone else\u201d might be \u201cdreamer\u201d activist C\u00e9sar Vargas, who is filmed saying he might be able to help another undercover journalist, if not in 2016.",
+            "\u201d In the video, Vargas is heard saying about the voter fraud scheme: Like I said, this is not gonna happen this election."
+        ],
+        "tf-idf score": [
+            0.08003197612163257,
+            0.25695055681453666,
+            0.657707315121424
+        ]
+    },
+    "0.17185860625353133-3-369": {
+        "average clique similarity": 0.17185860625353133,
+        "clique": [
+            "2-  James O Keefe  who",
+            "1-The second video in ",
+            "0-Republican president"
+        ],
+        "median tf-idf score": 0.933673958430798,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201d James O\u2019Keefe, who heads up Project Veritas, said the video showed \u201ccompelling evidence of a dark money conspiracy,\u201d and that more undercover videos would also be released.",
+            "The second video in James O\u2019Keefe\u2019s Project Veritas investigation of the 2016 election reveals what O\u2019Keefe describes as \u201cDemocratic Party operatives tell[ing] us how to successfully commit voter fraud on a massive scale.",
+            "Republican presidential nominee Donald Trump echoed allegations that surfaced in an undercover video released by conservative activist James O\u2019Keefe\u2019s group Project Veritas Action, during a rally on Oct. 18."
+        ],
+        "tf-idf score": [
+            0.7226551780651241,
+            0.933673958430798,
+            0.9395477968228879
+        ]
+    },
+    "0.1724429472891704-3-40": {
+        "average clique similarity": 0.1724429472891704,
+        "clique": [
+            "0-And if you look at t",
+            "2-You can message to d",
+            "1-If you have enough m"
+        ],
+        "median tf-idf score": 0.06410842769000953,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "And if you look at that checklist, it\u2019s an ID card of any kind that shows you who you are and a pay stub that shows you\u2019re getting paid at a local address some place.",
+            "You can message to draw them out, and draw them to punch you.",
+            "If you have enough money to do this."
+        ],
+        "tf-idf score": [
+            0.14391832811190425,
+            0.06410842769000953,
+            0.016537474390865618
+        ]
+    },
+    "0.17634859550250734-3-46": {
+        "average clique similarity": 0.17634859550250734,
+        "clique": [
+            "3-The undercover  Rigg",
+            "1-  O Keefe notes that",
+            "0-The result of all th"
+        ],
+        "median tf-idf score": 0.48135694504625265,
+        "publications": [
+            "Fox News",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The undercover \u201cRigging the Election\u201d videos, produced by controversial activist James O\u2019Keefe, total over 32 minutes and were released in two, edited portions on Monday and Tuesday.",
+            "\u201d O\u2019Keefe notes that more videos in this undercover investigation \u201cwill continue through the election.",
+            "The result of all that was that the \u201cRigging the Election\u201d videos got a skeptical reception  \u2014   at first."
+        ],
+        "tf-idf score": [
+            0.6601236887381401,
+            0.48135694504625265,
+            0.4350952048870824
+        ]
+    },
+    "0.18200440475794913-3-86": {
+        "average clique similarity": 0.18200440475794913,
+        "clique": [
+            "0- We see that it goes",
+            "4-       Contrary to t",
+            "1-If it s Secretary Cl"
+        ],
+        "median tf-idf score": 0.31552028500355495,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201cWe see that it goes right to the top.",
+            "\u2019 \u2019   \u201dContrary to the outrageous claims of the notorious right wing   blogger James O\u2019Keefe, we have always adhered to the highest   standards of transparency and legality in our work for the DNC,\u201d   Creamer continued.",
+            "If it\u2019s Secretary Clinton, and the voter ID laws are losing and we have much more opportunity to vote, and we have immigration reform, it\u2019s not going to be as significant, right?"
+        ],
+        "tf-idf score": [
+            0.02718248830706949,
+            0.5110587017925965,
+            0.31552028500355495
+        ]
+    },
+    "0.1845398004846733-3-57": {
+        "average clique similarity": 0.1845398004846733,
+        "clique": [
+            "1-And he calls me to b",
+            "4-       He  s done so",
+            "2-I ve done that "
+        ],
+        "median tf-idf score": 0.1664993517817365,
+        "publications": [
+            "New York Post",
+            "Breitbart",
+            "Business Insider"
+        ],
+        "sentences": [
+            "And he calls me to be his firefighter a lot of the time, because there are people who in our movement will not do what it takes to get shit done.",
+            "\u201d \u2019   \u201dHe\u2019\u2019s done some very good work and I\u2019\u2019ll tell you what, it was   disgraceful to see that,\u201d .",
+            "I\u2019ve done that."
+        ],
+        "tf-idf score": [
+            0.1664993517817365,
+            0.20743937116052213,
+            0.0
+        ]
+    },
+    "0.1915101917218811-3-143": {
+        "average clique similarity": 0.1915101917218811,
+        "clique": [
+            "4-             Foval s",
+            "3- The practices descr",
+            "1-  The video ends wit"
+        ],
+        "median tf-idf score": 0.677285579705906,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201d \u2019 \u2019  \u2019 \u2019   Foval said in the video that he\u2019\u2019s paid \u201dmentally ill\u201d and   \u201dhomeless\u201d people to \u201ddo some crazy stuff before\u201d.",
+            "\u201cThe practices described in the video by this temporary   do not in any way comport with our long standing policies on organizing events, and those statements and sentiments do not represent the values that the Committee holds dear,\u201d DNC interim Chairwoman Donna Brazile said of Foval in a statement on Tuesday.",
+            "\u201d The video ends with a clip of Foval stating, \u201cWe have to do a better job of making our people do what they\u2019re supposed to do."
+        ],
+        "tf-idf score": [
+            0.677285579705906,
+            1.0227620995975422,
+            0.564124795570524
+        ]
+    },
+    "0.19222628575776798-3-241": {
+        "average clique similarity": 0.19222628575776798,
+        "clique": [
+            "4-      Also shown in ",
+            "1-  Foval is heard in ",
+            "0-Foval says that  Bob"
+        ],
+        "median tf-idf score": 0.46551093558948003,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u2019 \u2019   Also shown in the videos was Bob Creamer.",
+            "\u201d Foval is heard in the second video saying: Bob Creamer is diabolical and I love him for it.",
+            "Foval says that \u201cBob Creamer comes up with a lot of these ideas,\u201d but what the \u201cideas\u201d are is lost to a quick edit."
+        ],
+        "tf-idf score": [
+            0.46551093558948003,
+            0.5950361338557455,
+            0.45153118873514875
+        ]
+    },
+    "0.19652602107077746-4-287": {
+        "average clique similarity": 0.19652602107077746,
+        "clique": [
+            "0-In the first video  ",
+            "4-      The two videos",
+            "1-    Part one in O Ke",
+            "3-Foval also discusses"
+        ],
+        "median tf-idf score": 0.7310253261130175,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Breitbart",
+            "Business Insider"
+        ],
+        "sentences": [
+            "In the first video, he boasts of \u201cconflict engagement in the lines of Trump rallies,\u201d takes credit for the violence that canceled a Trump rally at the University of Illinois at Chicago, admits he has paid \u201cmentally ill\u201d people to start trouble and says there\u2019s a \u201cPony Express\u201d that keeps Democratic operatives in touch, regardless of whether they work for super PACs or the campaigns not permitted to coordinate with super PACs.",
+            "\u201d \u201d   The two videos, released on Monday and Tuesday, appeared to show   Democratic operatives discussing how they paid people to incite   violence at Republican nominee Donald Trump\u2019s rallies, among   other claims.",
+            "\u201d[  Part one in O\u2019Keefe\u2019s investigation unraveled what appears to be an elaborate web of   provocateurs who have been instigating violence at Republican events nationwide throughout the 2016 election cycle, including at several Donald Trump rallies, using a tactic they called \u201c .",
+            "Foval also discusses planting people at rallies for Republican presidential candidate Donald Trump."
+        ],
+        "tf-idf score": [
+            1.0499453753324017,
+            0.8338816850912291,
+            0.6281689671348061,
+            0.5694045304319065
+        ]
+    },
+    "0.2075542669538092-3-160": {
+        "average clique similarity": 0.2075542669538092,
+        "clique": [
+            "1-Creamer is also the ",
+            "2- We are contracted d",
+            "4-      Of note  the C"
+        ],
+        "median tf-idf score": 0.9897228969636279,
+        "publications": [
+            "Business Insider",
+            "Breitbart",
+            "New York Post"
+        ],
+        "sentences": [
+            "Creamer is also the   of Democracy Partners, a consulting group that, according to Project Veritas videos, apparently contracts directly with the Hillary Clinton campaign and the DNC, and that works with an array of super PACs and consultants to organize, film and publicize their provocations.",
+            "\u201cWe are contracted directly with the DNC and the campaign both.",
+            "\u2019 \u2019   Of note, the Chicago rally prominently featured in the film   occurred months before Creamer was contracted by the DNC \u2019 \u201d   DNC interim chair Donna Brazile provided a statement to Business   Insider on Tuesday evening, condemning the remarks made by   Foval in the videos, while simultaneously   criticizing O\u2019Keefe."
+        ],
+        "tf-idf score": [
+            0.9897228969636279,
+            0.20052457998036832,
+            1.2032050844140443
+        ]
+    },
+    "0.20861617938618338-3-81": {
+        "average clique similarity": 0.20861617938618338,
+        "clique": [
+            "2-None of this is supp",
+            "4-       That s what w",
+            "0-   It s a word we ha"
+        ],
+        "median tf-idf score": 0.2090325793057861,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "None of this is supposed to come back to us because we want it coming from people; we don\u2019t want it to come from the party.",
+            "\u2019 \u2019   \u201dThat\u2019s what we want,\u201d he said.",
+            "\u201d \u201cIt\u2019s a word we had not heard until we began this investigation,\u201d O\u2019Keefe says, noting that the term appears in WikiLeaks emails that include Clinton staffers."
+        ],
+        "tf-idf score": [
+            0.2090325793057861,
+            0.14307623350106735,
+            0.34940594883656745
+        ]
+    },
+    "0.21038339638551407-3-30": {
+        "average clique similarity": 0.21038339638551407,
+        "clique": [
+            "4-       And the Democ",
+            "1-While the second vid",
+            "3-An undercover filmma"
+        ],
+        "median tf-idf score": 0.8378606074905159,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u2019 \u2019   \u201dAnd the Democratic Party apparatus and the people from the   campaign, the Clinton campaign and my role with the campaign, is   to manage all that,\u201d Creamer said to an undercover reporter in a   video.",
+            "While the second video captures Foval and the Project Veritas undercover reporter brainstorming about the voter fraud scheme, O\u2019Keefe notes that \u201cCreamer hesitated to help our \u2018donor\u2019 pull off the voter fraud scheme that Foval crafted.",
+            "An undercover filmmaker posing as a donor is seen attempting to engage Foval and Creamer in discussions of voter fraud and other schemes."
+        ],
+        "tf-idf score": [
+            0.8378606074905159,
+            1.0999003240635388,
+            0.6248571526717283
+        ]
+    },
+    "0.21042439199879404-3-379": {
+        "average clique similarity": 0.21042439199879404,
+        "clique": [
+            "3-Scott Foval  the nat",
+            "1-  Update  J Christia",
+            "4-       Americans Uni"
+        ],
+        "median tf-idf score": 1.1253105148387572,
+        "publications": [
+            "Fox News",
+            "Breitbart",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Scott Foval, the national field director of Americans United for Change, was booted on Monday and Democracy Partners head Robert Creamer announced on Tuesday he was \u201cstepping back\u201d from efforts to elect Democratic presidential nominee Hillary Clinton.",
+            "\u201d Update: J Christian Adams, the President and General Counsel of the Public Interest Legal Foundation, has filed a legal complaint with the Federal Election Commission against \u201cHillary for America, the Democratic National Committee, Democracy Partners, Americans United for Change, and other known and unknown individuals and groups\u201d based on O\u2019Keefe\u2019s second video investigation.",
+            "\u201d \u2019   \u201dAmericans United For Change has always operated according to the   highest ethical and legal standard,\u201d ."
+        ],
+        "tf-idf score": [
+            1.1253105148387572,
+            1.1316179737290735,
+            0.28368215407994296
+        ]
+    },
+    "0.21987080886799962-3-295": {
+        "average clique similarity": 0.21987080886799962,
+        "clique": [
+            "1-That would mark a ch",
+            "4-He added he was  eno",
+            "2-  Foval goes on to s"
+        ],
+        "median tf-idf score": 0.2728345703273978,
+        "publications": [
+            "Breitbart",
+            "Business Insider",
+            "New York Post"
+        ],
+        "sentences": [
+            "That would mark a change in DOJ policies of the last 7 years.",
+            "He added he was \u201denormously   proud of the work we have done over the last months to sound the   alarm about the danger Donald Trump would present to American   democracy\u201d.",
+            "\u201d Foval goes on to say that, \u201cOver the last 20 years."
+        ],
+        "tf-idf score": [
+            0.11100704976714246,
+            0.47820946688871047,
+            0.2728345703273978
+        ]
+    },
+    "0.2286528345736082-3-316": {
+        "average clique similarity": 0.2286528345736082,
+        "clique": [
+            "4- No  it  s a very   ",
+            "0-It no longer does th",
+            "2-When they re outside"
+        ],
+        "median tf-idf score": 0.029006483242642597,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dNo, it\u2019\u2019s a very   unfair system.",
+            "It no longer does this.",
+            "When they\u2019re outside the rally, the media will cover it no matter where it happens."
+        ],
+        "tf-idf score": [
+            0.0051405977021178415,
+            0.029006483242642597,
+            0.1437480092036196
+        ]
+    },
+    "0.23012285483845007-3-236": {
+        "average clique similarity": 0.23012285483845007,
+        "clique": [
+            "2- Americans United fo",
+            "4-In a statement to Fo",
+            "3-   Fox News  Jennife"
+        ],
+        "median tf-idf score": 0.4915856741118794,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201cAmericans United for Change has always operated according to the highest ethical and legal standards,\u201d group president Brad Woodhouse said in a statement to Fox News.",
+            "In a statement to Fox News, Brad   Woodhouse, the organization\u2019s president, said the   operative was no longer with the organization.",
+            "\u201d  Fox News\u2019 Jennifer Griffin and Serafin Gomez contributed to this report."
+        ],
+        "tf-idf score": [
+            0.6052097445210544,
+            0.4915856741118794,
+            0.12245546420964726
+        ]
+    },
+    "0.27127986029349777-3-231": {
+        "average clique similarity": 0.27127986029349777,
+        "clique": [
+            "3-The Democratic Natio",
+            "4-       So yesterday ",
+            "0-The video s evidence"
+        ],
+        "median tf-idf score": 0.5939660974935544,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The Democratic National Committee also disavowed the schemes discussed in the video.",
+            "\u201d \u2019   \u201dSo yesterday, there was a story that the DNC, Democratic   National Committee, is sending protesters in here,\u201d   Trump said.",
+            "The video\u2019s evidence to the contrary is that Zulema Rodriguez, an activist paid in February by the Democratic National Committee, says on tape that she was there and \u201cdid that."
+        ],
+        "tf-idf score": [
+            0.37962983529047806,
+            0.5939660974935544,
+            0.629150781474208
+        ]
+    },
+    "0.2967200746072411-3-506": {
+        "average clique similarity": 0.2967200746072411,
+        "clique": [
+            "0-Reporters who covere",
+            "4- Scott Foval is no l",
+            "2- Scott Foval is no l"
+        ],
+        "median tf-idf score": 0.37135914027516365,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "New York Post"
+        ],
+        "sentences": [
+            "Reporters who covered the Trump UIC appearance found that students, not Americans United for Change, were responsible for the shutdown of the Trump rally.",
+            "\u201dScott Foval is no longer associated with Americans United for   Change\u201d.",
+            "\u201cScott Foval is no longer associated with Americans United for Change."
+        ],
+        "tf-idf score": [
+            0.3522918368026406,
+            0.37135914027516365,
+            0.37135914027516365
+        ]
+    },
+    "0.29745349928037434-4-222": {
+        "average clique similarity": 0.29745349928037434,
+        "clique": [
+            "1-Not expecting them a",
+            "2-I ve paid off a few ",
+            "4-       I ve also tak",
+            "0- Let s say I had bus"
+        ],
+        "median tf-idf score": 0.17310779912021962,
+        "publications": [
+            "New York Post",
+            "Breitbart",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Not expecting them and taking them for granted, but beating the shit out of them.",
+            "I\u2019ve paid off a few homeless guys to do some crazy stuff, and I\u2019ve also taken them for dinner and I\u2019ve also made sure they had a hotel and a shower and I\u2019ve put them in a program.",
+            "\u2019 \u2019   \u201dI\u2019ve also taken them for dinner, and I\u2019ve also made sure they   had a hotel, and a shower,\u201d he said.",
+            "\u201cLet\u2019s say I had business inside of, say, Illinois or Michigan, and I hired people, and I had addresses for them, I could write them checks, I could use them as day laborers or whatever and use them and find my way around the voter registration law for Hispanics."
+        ],
+        "tf-idf score": [
+            0.04250116078532222,
+            0.16144725490494577,
+            0.18476834333549347,
+            0.4318064250028297
+        ]
+    },
+    "0.3071783522401242-3-90": {
+        "average clique similarity": 0.3071783522401242,
+        "clique": [
+            "2- The campaign pays D",
+            "3-  Foval worked as a ",
+            "4-He ran the group   D"
+        ],
+        "median tf-idf score": 0.5384012749462643,
+        "publications": [
+            "Business Insider",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cThe campaign pays DNC, DNC pays Democracy Partners, Democracy Partners pays the Foval Group, the Foval Group goes and executes the [expletive] on the ground.",
+            "\u201d Foval worked as a   for Creamer\u2019s group, which was contracted with the DNC since June 2016.",
+            "He ran the group   Democracy Partners, which contracted Foval."
+        ],
+        "tf-idf score": [
+            0.5384012749462643,
+            0.6118517498923253,
+            0.32746875353128596
+        ]
+    },
+    "0.31237960902375395-3-506": {
+        "average clique similarity": 0.31237960902375395,
+        "clique": [
+            "1-Like O Keefe s first",
+            "0-Foval was laid off M",
+            "4-      One man in the"
+        ],
+        "median tf-idf score": 1.074944370080997,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Like O\u2019Keefe\u2019s first video, the second also prominently features Democratic operatives Robert Creamer and his colleague Scott Foval, who was removed from his position at the leftwing advocacy group Americans United for Change on Monday as a result of O\u2019Keefe\u2019s investigation.",
+            "Foval was laid off Monday by Americans United for Change, where he had been national field director; Creamer announced Tuesday night that he was \u201cstepping back\u201d from the work he was doing for the unified Democratic campaign for Hillary Clinton.",
+            "\u201d \u201d   One man in the videos, Scott Foval, the national field   director of Americans United for Change, a progressive     organization, was heard discussing how he helped get protesters   to stir up violence at Trump\u2019s events."
+        ],
+        "tf-idf score": [
+            1.2662875547383488,
+            1.074944370080997,
+            1.0189751056407
+        ]
+    },
+    "0.3331767388377315-3-502": {
+        "average clique similarity": 0.3331767388377315,
+        "clique": [
+            "1-O Keefe notes that a",
+            "2-  Foval  who used to",
+            "0-In August 2015  Fova"
+        ],
+        "median tf-idf score": 0.6994029210958553,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "O\u2019Keefe notes that at the time the second video was shot, Foval \u201cworked for People for the American Way, an organization funded in large part by George Soros.",
+            "\u201d Foval, who used to work for the George   People for the American Way, according to The Washington Times, is quoted at length in the video.",
+            "In August 2015, Foval told the Milwaukee   that People for the American Way, his employer at the time, was \u201c  all of\u201d the Republican presidential candidates."
+        ],
+        "tf-idf score": [
+            0.9921688530590492,
+            0.6994029210958553,
+            0.6299045745259296
+        ]
+    },
+    "0.34320689664743753-3-506": {
+        "average clique similarity": 0.34320689664743753,
+        "clique": [
+            "0- We ve been busing p",
+            "1-We re just going to ",
+            "4- We have to be reall"
+        ],
+        "median tf-idf score": 0.2689966289881129,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201cWe\u2019ve been busing people in to deal with you        for 50 years, and we\u2019re not going to stop now,\u201d he says.",
+            "We\u2019re just going to find a different way to do it.",
+            "\u201dWe have to be really   careful because, because what we don\u2019t need is for it to show up   on CNN that the DNC paid for X people to [attend] that\u2019s   not going to happen."
+        ],
+        "tf-idf score": [
+            0.2689966289881129,
+            0.06972951759593837,
+            0.2898396603286016
+        ]
+    },
+    "0.41533438403173845-3-196": {
+        "average clique similarity": 0.41533438403173845,
+        "clique": [
+            "0-But Vargas  as of no",
+            "4-       The discredit",
+            "3- The discredited sou"
+        ],
+        "median tf-idf score": 0.4873316824729526,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "But Vargas, as of now the only target of these videos who has not lost a job, claims that PVAction left out exculpatory video of the interview.",
+            "\u2019 \u2019   \u201dThe discredited source of these videos, James O\u2019Keefe, is a   convicted criminal with a history of doctoring video to advance   his ideological agenda,\u201d  continued.",
+            "\u201cThe discredited source of these videos, James O\u2019Keefe, is a convicted criminal with a history of doctoring video to advance his ideological agenda,\u201d Brazile said."
+        ],
+        "tf-idf score": [
+            0.38456149215983887,
+            0.4873316824729526,
+            0.6049916282159363
+        ]
+    },
+    "0.4176239183842155-3-100": {
+        "average clique similarity": 0.4176239183842155,
+        "clique": [
+            "1-So you aim higher fo",
+            "4-       You can messa",
+            "3-You can message to d"
+        ],
+        "median tf-idf score": 0.06456846040641058,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "So you aim higher for your goals, and you implement it across every   state.",
+            "\u2019 \u2019   \u201dYou can message to draw them out, and draw them to punch you,\u201d   Foval continued.",
+            "You can message to draw them out, and draw them to punch you."
+        ],
+        "tf-idf score": [
+            0.06456846040641058,
+            0.2639988709611071,
+            0.06410842769000953
+        ]
+    },
+    "0.4229757719218226-3-383": {
+        "average clique similarity": 0.4229757719218226,
+        "clique": [
+            "3- It s a matter of sh",
+            "4- It s a matter of sh",
+            "0-   To get registered"
+        ],
+        "median tf-idf score": 0.16651148223538695,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cIt\u2019s a matter of showing up, to want to get into the rally, in a Planned Parenthood  .",
+            "\u201dIt\u2019s a matter of showing up, to want to get into the rally, in a   Planned Parenthood  .",
+            "\u201d \u201cTo get registered, you mean?\u201d asks Creamer."
+        ],
+        "tf-idf score": [
+            0.16651148223538695,
+            0.16651148223538695,
+            0.14278774799233
+        ]
+    },
+    "0.4242055319157196-3-79": {
+        "average clique similarity": 0.4242055319157196,
+        "clique": [
+            "0- The reporting proce",
+            "3- We are in the proce",
+            "4- We are   in the pro"
+        ],
+        "median tf-idf score": 0.1637257412214408,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cThe reporting process and methods of Project Veritas Action are proven successful and effective and are the protected intellectual property and trade secrets of Project Veritas Action,\u201d said Steve Gordon, a spokesman for the PVAction Fund.",
+            "\u201cWe are in the process of conducting an internal investigation to determine whether he and his cohorts committed any illegal activities in this   operation.",
+            "\u201dWe are   in the process of conducting an internal investigation to   determine whether he and his cohorts committed any illegal   activities in this   operation."
+        ],
+        "tf-idf score": [
+            0.39323741602454776,
+            0.1637257412214408,
+            0.1637257412214408
+        ]
+    },
+    "0.4697692824437083-3-346": {
+        "average clique similarity": 0.4697692824437083,
+        "clique": [
+            "3-Or  Trump is a Nazi ",
+            "2-Or   Trump is a Nazi",
+            "4-  Y ou know it s dis"
+        ],
+        "median tf-idf score": 0.14603438109894284,
+        "publications": [
+            "Business Insider",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Or, Trump is a Nazi, you know?",
+            "Or, \u2018Trump is a Nazi,\u2019 you know.",
+            "\u201d[Y]ou know it\u2019s disgusting\u201d."
+        ],
+        "tf-idf score": [
+            0.14603438109894284,
+            0.14603438109894284,
+            0.040387678545070624
+        ]
+    },
+    "0.4908743944658189-4-288": {
+        "average clique similarity": 0.4908743944658189,
+        "clique": [
+            "4-       I mean honest",
+            "2- I mean  honestly  i",
+            "1-  He then speculates",
+            "3- I mean honestly  it"
+        ],
+        "median tf-idf score": 0.33924221440258295,
+        "publications": [
+            "Breitbart",
+            "New York Post",
+            "Business Insider",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d \u2019   \u201dI mean honestly, it is not hard to get some of these         to   pop off,\u201d he said of Trump supporters in the undercover video.",
+            "\u201cI mean, honestly, it\u2019s not hard to get some of these assholes to pop off,\u201d Foval said.",
+            "\u201d He then speculates on \u201cthe ripest environment to do it in\u201d: Honestly the ripest environment to do it in?",
+            "\u201cI mean honestly, it is not hard to get some of these         to pop off,\u201d Foval says."
+        ],
+        "tf-idf score": [
+            0.5207899721078946,
+            0.373366883441868,
+            0.04706925875222187,
+            0.3051175453632978
+        ]
+    }
+}

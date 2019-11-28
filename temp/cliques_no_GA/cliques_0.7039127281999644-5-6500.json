@@ -1,0 +1,822 @@
+{
+    "0.1528579854875249-3-263": {
+        "average clique similarity": 0.1528579854875249,
+        "clique": [
+            "0-Large portions of th",
+            "4-The interview notes ",
+            "3-The 58 pages of note"
+        ],
+        "median tf-idf score": 0.8430000459547189,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Large portions of the documents were redacted.",
+            "The interview notes, which are partially redacted, suggest some warnings were raised over Clinton\u2019s reliance on private servers, but they didn\u2019t reach the former secretary herself.",
+            "The 58 pages of notes released on Friday, several of which were redacted, also related that Hanley often purchased replacement BlackBerry devices for Clinton during Clinton\u2019s time at the state department."
+        ],
+        "tf-idf score": [
+            0.11312995087150392,
+            0.8430000459547189,
+            0.9007001078500132
+        ]
+    },
+    "0.15778108605587957-3-422": {
+        "average clique similarity": 0.15778108605587957,
+        "clique": [
+            "0-But in July she told",
+            "2-I was absolutely sho",
+            "1-Clinton had stated t"
+        ],
+        "median tf-idf score": 0.645257639890044,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But in July she told FBI investigators she \u201ddid not explicitly request permission to use a private server or email address,\u201d the FBI wrote.",
+            "I was absolutely shocked to see that her answers to the FBI stood in direct contradiction to what she told the American people.",
+            "Clinton had stated to the FBI she did not have a computer of any kind in the SCIFs in her residences."
+        ],
+        "tf-idf score": [
+            0.8967187689451399,
+            0.5662892645232429,
+            0.645257639890044
+        ]
+    },
+    "0.16792471860124983-3-48": {
+        "average clique similarity": 0.16792471860124983,
+        "clique": [
+            "4-Clinton was asked du",
+            "3-The FBI documents de",
+            "1-The interview also a"
+        ],
+        "median tf-idf score": 1.1015797717601352,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Clinton was asked during the interview about an email from former Secretary of State Colin Powell, who also relied on a personal email account while in office.",
+            "The FBI documents describe how Monica Hanley, a former Clinton aide, received assistance in spring 2013 from Justin Cooper, a former aide to Bill Clinton, in creating an archive of Hillary Clinton\u2019s emails.",
+            "The interview also addressed a 2011 email in which Clinton said she hadn\u2019t received talking points from her aide, Jake Sullivan."
+        ],
+        "tf-idf score": [
+            1.2216675794770264,
+            1.1015797717601352,
+            0.8560794690486313
+        ]
+    },
+    "0.18820204227920104-3-439": {
+        "average clique similarity": 0.18820204227920104,
+        "clique": [
+            "4-During her interview",
+            "3-She did not recall r",
+            "0-And they showed Clin"
+        ],
+        "median tf-idf score": 0.4697853397738339,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "During her interview, Clinton was shown some of those emails, but typically did not recall the details.",
+            "She did not recall receiving any emails she thought should not have been on an unclassified system.",
+            "And they showed Clinton claiming she could not recall numerous details."
+        ],
+        "tf-idf score": [
+            0.9254060681379656,
+            0.28484144206791256,
+            0.4697853397738339
+        ]
+    },
+    "0.192223993992834-3-289": {
+        "average clique similarity": 0.192223993992834,
+        "clique": [
+            "2-            The emai",
+            "4-Clinton s statements",
+            "3-A Clinton Foundation"
+        ],
+        "median tf-idf score": 0.9020405197640368,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d           The emails are being screened and released in batches.",
+            "Clinton\u2019s statements are detailed in a record of the July 2 interview released Friday by the FBI (You can read that and the FBI\u2019s longer investigative report here.)",
+            "A Clinton Foundation laptop and a thumb drive used to archive Hillary Clinton\u2019s emails from her time as secretary of state are missing, according to FBI notes released on Friday."
+        ],
+        "tf-idf score": [
+            0.2732493724663662,
+            0.9020405197640368,
+            1.3763596502463387
+        ]
+    },
+    "0.20432303004513266-3-58": {
+        "average clique similarity": 0.20432303004513266,
+        "clique": [
+            "1-Washington  CNN  Hil",
+            "0-Friday s release of ",
+            "3-Amid fierce Republic"
+        ],
+        "median tf-idf score": 1.6791235774707387,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Washington (CNN) Hillary Clinton repeatedly told the FBI she couldn\u2019t recall key details and events related to classified information procedures, according to notes the bureau released Friday of its July interview with the Democratic presidential nominee, along with a report on its investigation into her private email server.",
+            "Friday\u2019s release of documents involving the Democratic presidential nominee is a highly unusual step, but one that reflects extraordinary public interest in the investigation into Clinton\u2019s server.",
+            "Amid fierce Republican criticism of the Democratic presidential candidate, the party\u2019s nominee, Donald Trump released a statement which said \u201cHillary Clinton\u2019s answers to the FBI about her private email server defy belief\u201d and added that he did not \u201cunderstand how she was able to get away from prosecution\u201d."
+        ],
+        "tf-idf score": [
+            1.8578877118173314,
+            0.8071317098399764,
+            1.6791235774707387
+        ]
+    },
+    "0.20747283864477847-3-344": {
+        "average clique similarity": 0.20747283864477847,
+        "clique": [
+            "2- FBI s attempt to sh",
+            "4-And she insisted her",
+            "0-Clinton has repeated"
+        ],
+        "median tf-idf score": 1.133941121885808,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "[FBI\u2019s attempt to show Clinton probe was nonpartisan keeps running into politics]  Clinton has been dogged by questions about her use of the private email server since the start of her presidential campaign and her Republican opponent, Donald Trump, has used the issue to argue she is untrustworthy.",
+            "And she insisted her use of the private server was for convenience, not an attempt to evade Freedom of Information Act requests or government   laws.",
+            "Clinton has repeatedly said her use of private email was allowed."
+        ],
+        "tf-idf score": [
+            1.5949547745883161,
+            0.720106153903416,
+            1.133941121885808
+        ]
+    },
+    "0.21345963802013546-3-182": {
+        "average clique similarity": 0.21345963802013546,
+        "clique": [
+            "1-Before it became pub",
+            "3-In his response  Pow",
+            "0- We are making these"
+        ],
+        "median tf-idf score": 1.1275626989270122,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Before it became public, interest in the contents of the report had intensified after it was reported that Clinton told the FBI a conversation with Powell recommending she use private email helped convince her to do so.",
+            "In his response, Powell told Clinton that if it became \u201cpublic\u201d that she was using a BlackBerry to \u201cdo business\u201d the emails could become \u201cofficial records[s] and subject to the law\u201d.",
+            "\u201cWe are making these materials available to the public in the interest of transparency and in response to numerous Freedom of Information Act (FOIA) requests,\u201d the FBI said in a statement."
+        ],
+        "tf-idf score": [
+            1.374311101755856,
+            1.1275626989270122,
+            0.6651731815823627
+        ]
+    },
+    "0.21726970128085954-3-387": {
+        "average clique similarity": 0.21726970128085954,
+        "clique": [
+            "1-Much of the report r",
+            "2-   FBI Director Jame",
+            "0-Most were retroactiv"
+        ],
+        "median tf-idf score": 1.058568702883757,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Much of the report reiterated what FBI Director James Comey testified in open hearings before Congress, including that more than six dozen email chains contained classified information at the time they were sent and that there appeared to have been hacking attempts on her server, though there is no evidence they were successful.",
+            "\u201d  FBI Director James B Comey announced in July that his agency would not recommend criminal charges against Clinton for her use of a private email server, though he said at the time she and her staffers were \u201cextremely careless\u201d in how they treated classified information.",
+            "Most were retroactively classified, but Comey has disputed Clinton\u2019s insistence that none of them were marked as such at the time."
+        ],
+        "tf-idf score": [
+            1.058568702883757,
+            1.6386217676115977,
+            0.6804391203733032
+        ]
+    },
+    "0.2206875618027182-3-439": {
+        "average clique similarity": 0.2206875618027182,
+        "clique": [
+            "1-Still  the report ad",
+            "0-He did  however  cal",
+            "4-FBI Director James C"
+        ],
+        "median tf-idf score": 0.6505314348430616,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Still, the report added fuel to the criticisms of Clinton and the narrative that her team acted \u201dextremely careless,\u201d as Comey said.",
+            "He did, however, call Clinton \u201cextremely careless.",
+            "FBI Director James Comey previously described Clinton and her aides as \u201dextremely careless\u201d in their handling of sensitive information."
+        ],
+        "tf-idf score": [
+            0.6505314348430616,
+            0.41848989363954786,
+            0.9052245393948913
+        ]
+    },
+    "0.2294273857783704-3-155": {
+        "average clique similarity": 0.2294273857783704,
+        "clique": [
+            "1-But the individual t",
+            "3-The unnamed person  ",
+            "0-As Fox News previous"
+        ],
+        "median tf-idf score": 1.092624470063377,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "But the individual told the FBI he realized that he had failed to do so until after The New York Times published its bombshell story revealing Clinton\u2019s private server and email use, prompting an \u201d\u2019oh s***\u2019 moment\u201d.",
+            "The unnamed person \u201ctold the FBI that, after the transfer was complete, he deleted the emails from the archive laptop but did not wipe the laptop.",
+            "As Fox News previously reported, this chain discussed the individual\u2019s ties to the CIA  The notes also show an unnamed individual told the bureau he deleted Clinton\u2019s \u201carchive mailbox\u201d in late March 2015 using a program known as BleachBit, which would have been shortly after the original New York Times story on her private server."
+        ],
+        "tf-idf score": [
+            1.301818325755486,
+            0.8179317850936815,
+            1.092624470063377
+        ]
+    },
+    "0.2295187274163573-4-281": {
+        "average clique similarity": 0.2295187274163573,
+        "clique": [
+            "2-The summary shows th",
+            "3-  The notes also con",
+            "4-When shown an email ",
+            "1-The former secretary"
+        ],
+        "median tf-idf score": 1.1869398466711711,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "The summary shows that Clinton\u2019s account to law enforcement was generally consistent with what she has said about her email situation publicly, but she repeatedly told agents she could not recall important details or specific emails she was questioned about.",
+            "\u201d The notes also contain a string of admissions by Clinton about points she did not know or could not recall: \u201cWhen asked about the email chain containing \u2018(C)\u2019 portion markings that state determined to currently contain CONFIDENTIAL information, Clinton stated that she did not know what the \u2018(C)\u2019 meant at the beginning of the paragraphs and speculated it was referencing paragraphs marked in alphabetical order.",
+            "When shown an email paragraph marked with a \u201dC,\u201d Clinton told agents she didn\u2019t know that meant the paragraph was classified.",
+            "The former secretary of state said she did understand when an email was marked \u201dconfidential\u201d at the top, and \u201dasked the interviewing agents if that was what \u2019c\u2019 referenced,\u201d according to the notes."
+        ],
+        "tf-idf score": [
+            1.2849906712694912,
+            1.4526196985638815,
+            1.0888890220728513,
+            0.8908821352398858
+        ]
+    },
+    "0.2304560643391541-3-417": {
+        "average clique similarity": 0.2304560643391541,
+        "clique": [
+            "0-They said no one at ",
+            "1- She relied on State",
+            "3-She also stated she "
+        ],
+        "median tf-idf score": 0.6978444555642848,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "They said no one at the State Department raised concerns during her tenure, and that Clinton said everyone with whom she exchanged emails knew she was using a private email address.",
+            "\u201dShe relied on State official to use their judgment when emailing her and could not recall anyone raising concerns with her regarding the sensitivity of the information she received at her email address\u201d.",
+            "She also stated she received no particular guidance as to how she should use the president\u2019s email address."
+        ],
+        "tf-idf score": [
+            1.231714253071481,
+            0.6978444555642848,
+            0.3916159995472421
+        ]
+    },
+    "0.23818951883455056-3-193": {
+        "average clique similarity": 0.23818951883455056,
+        "clique": [
+            "2-The FBI found no evi",
+            "4- CLINTON never delet",
+            "1-Clinton told the FBI"
+        ],
+        "median tf-idf score": 1.3637002702943533,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "The FBI found no evidence that anyone penetrated the email of the former secretary of state herself  \u2014   although \u201chostile foreign actors successfully gained access to the personal   accounts of individuals with whom Clinton was in regular contact and, in doing so, obtained   sent to or received by Clinton on her personal account,\u201d the bureau wrote.",
+            "\u201dCLINTON never deleted, nor did she instruct anyone to delete, her email to avoid complying with the Federal Records Act, FOIA, or State or FBI requests for information,\u201d the interview notes say.",
+            "Clinton told the FBI she \u201dcould not recall any briefing or training by State related to the retention of federal records or handling classified information,\u201d according to the bureau\u2019s notes of their interview with Clinton."
+        ],
+        "tf-idf score": [
+            1.4588466934750655,
+            1.3637002702943533,
+            1.341976780299162
+        ]
+    },
+    "0.23836392200248105-3-78": {
+        "average clique similarity": 0.23836392200248105,
+        "clique": [
+            "1-According to the rep",
+            "4-Hillary Clinton told",
+            "2-FBI Director James C"
+        ],
+        "median tf-idf score": 1.4869417991894738,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "According to the report summarizing the FBI\u2019s investigation, Clinton emailed Powell just after inauguration in 2009 about his use of a BlackBerry as secretary of state.",
+            "Hillary Clinton told FBI investigators no one at the State Department raised concerns with her about using private email servers to conduct government business during her time as secretary of state.",
+            "FBI Director James Comey said on July 5 that Hillary Clinton should not be charged for her use of a private email server during her time as secretary of state."
+        ],
+        "tf-idf score": [
+            1.022152809865106,
+            1.4869417991894738,
+            1.520894995442792
+        ]
+    },
+    "0.2484963756901144-3-439": {
+        "average clique similarity": 0.2484963756901144,
+        "clique": [
+            "3-The phrase  Clinton ",
+            "2-The materials  which",
+            "0-They released a summ"
+        ],
+        "median tf-idf score": 0.777542732803176,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The phrase \u201cClinton could not recall\u201d litters the summary of the FBI\u2019s investigation, which concluded in July that she should not face charges.",
+            "The materials, which include a summary of the FBI\u2019s entire investigation as well as Clinton\u2019s   interview with agents in July, contain no major revelations.",
+            "They released a summary of Clinton\u2019s July 2 FBI interview and a summary of the FBI investigation itself."
+        ],
+        "tf-idf score": [
+            0.7729729890623515,
+            0.8698483123661745,
+            0.777542732803176
+        ]
+    },
+    "0.24922383230009015-3-39": {
+        "average clique similarity": 0.24922383230009015,
+        "clique": [
+            "3-The FBI has been cri",
+            "0-  The FBI took the r",
+            "1-The FBI s release Fr"
+        ],
+        "median tf-idf score": 0.8234822436383977,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "The FBI has been criticised by Democrats for taking the rare step of publishing its account of confidential interviews with Clinton and others from the recently closed investigation, which found her to have been \u201cextremely careless\u201d in her handling of classified information.",
+            "\u201d The FBI took the rare step Friday of publishing pages from the investigation after pressure to release the materials.",
+            "The FBI\u2019s release Friday did not include the notes of interviews with Clinton\u2019s aides."
+        ],
+        "tf-idf score": [
+            1.1407464009374584,
+            0.40929065901443606,
+            0.8234822436383977
+        ]
+    },
+    "0.2702347872951918-3-439": {
+        "average clique similarity": 0.2702347872951918,
+        "clique": [
+            "1-Powell rejects Clint",
+            "2-One staffer told inv",
+            "0-Meanwhile  the docum"
+        ],
+        "median tf-idf score": 0.5138697651469027,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Powell rejects Clinton email defense, Use of mobile devices, The report also described the way Clinton used her BlackBerry mobile devices.",
+            "One staffer told investigators he destroyed two mobile devices \u201cby breaking them in half or hitting them with a hammer.",
+            "Meanwhile, the documents said the FBI identified 13 mobile devices associated with her two phone numbers."
+        ],
+        "tf-idf score": [
+            0.9469100584969119,
+            0.261658892626676,
+            0.5138697651469027
+        ]
+    },
+    "0.3165056481250646-3-149": {
+        "average clique similarity": 0.3165056481250646,
+        "clique": [
+            "3-  The Clinton campai",
+            "0-  Clinton campaign s",
+            "1-Clinton s campaign  "
+        ],
+        "median tf-idf score": 0.7534609568078342,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d The Clinton campaign insisted that it was pleased the notes had been made public.",
+            "\u201d Clinton campaign spokesman Brian Fallon defended the candidate in a statement: \u201cWe are pleased that the FBI has released the materials from Hillary Clinton\u2019s interview, as we had requested.",
+            "Clinton\u2019s campaign, however, said it was \u201dpleased\u201d by the release."
+        ],
+        "tf-idf score": [
+            0.7394616048647901,
+            0.9676502439776595,
+            0.7534609568078342
+        ]
+    },
+    "0.3177961457734442-3-287": {
+        "average clique similarity": 0.3177961457734442,
+        "clique": [
+            "0-  And when asked abo",
+            "3-  Clinton said she d",
+            "2-However  the State D"
+        ],
+        "median tf-idf score": 0.8003686423634058,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d And when asked about different classification types like \u201cTop Secret,\u201d Clinton went on to say she \u201cdid not pay attention to the \u2018level\u2019 of classified information and took all classified information seriously.",
+            "\u201d Clinton said she did not pay attention to the difference between top secret, secret and confidential but \u201ctook all classified information seriously\u201d.",
+            "However, the State Department has acknowledged that \u201dtop secret\u201d information was in seven email chains sent or received by her."
+        ],
+        "tf-idf score": [
+            0.7929831408429668,
+            0.8003686423634058,
+            0.8435368453742953
+        ]
+    },
+    "0.3897159507798567-3-335": {
+        "average clique similarity": 0.3897159507798567,
+        "clique": [
+            "1-The FBI found that 1",
+            "0-Not only were numero",
+            "3-The FBI identified a"
+        ],
+        "median tf-idf score": 1.042274105390314,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "The FBI found that 13 different mobile devices were used with her two known phone numbers, and thus may have sent emails with her private account.",
+            "Not only were numerous sections  \u2014   and entire pages  \u2014   redacted, but the files showed the FBI could not obtain 13 Clinton mobile devices that may have been used to send emails from her personal email address, in addition to two iPads.",
+            "The FBI identified a total of 13 mobile devices associated with Clinton\u2019s two known phone numbers that potentially were used to send emails using clintonemail."
+        ],
+        "tf-idf score": [
+            0.7154507931297301,
+            1.1700407106448831,
+            1.042274105390314
+        ]
+    },
+    "0.41615378939792497-3-439": {
+        "average clique similarity": 0.41615378939792497,
+        "clique": [
+            "1- Clinton stated she ",
+            "0-She even told invest",
+            "4-Instead  she specula"
+        ],
+        "median tf-idf score": 0.712452068360026,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dClinton stated she did not know and could only speculate it was referencing paragraphs marked in alphabetical order,\u201d the interview notes stated.",
+            "She even told investigators    when asked what the \u201cC\u201d marking meant before a paragraph in an email marked \u201cConfidential\u201d  \u2014   that \u201cshe did not know and could only speculate it was referencing paragraphs marked in alphabetical order.",
+            "Instead, she speculated that it was preceded by paragraphs marked \u201dA\u201d and \u201dB\u201d."
+        ],
+        "tf-idf score": [
+            0.8512189808200177,
+            0.712452068360026,
+            0.2706192959521084
+        ]
+    },
+    "0.4339960756208643-3-233": {
+        "average clique similarity": 0.4339960756208643,
+        "clique": [
+            "1-It also allows Trump",
+            "0-Either way it s clea",
+            "3- Either way it s cle"
+        ],
+        "median tf-idf score": 0.1290153292899025,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "It also allows Trump\u2019s campaign to suggest to voters that they will be setting up a repeat of the cycle of scandals, controversy, and investigations that dragged on through the entire presidency of Bill Clinton and which tainted Hillary Clinton at the same time.",
+            "Either way it\u2019s clear that, through her own actions, she has disqualified herself from the presidency.",
+            "\u201cEither way it\u2019s clear that, through her own actions, she has disqualified herself from the presidency."
+        ],
+        "tf-idf score": [
+            0.6511319029990003,
+            0.1290153292899025,
+            0.1290153292899025
+        ]
+    },
+    "0.4443968044426732-3-196": {
+        "average clique similarity": 0.4443968044426732,
+        "clique": [
+            "3-Spokesman Brian Fall",
+            "0-The FBI ultimately d",
+            "1- While her use of a "
+        ],
+        "median tf-idf score": 1.5140961485107127,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "Spokesman Brian Fallon said: \u201cWhile her use of a single email account was clearly a mistake and she has taken responsibility for it, these materials make clear why the justice department believed there was no basis to move forward with this case.",
+            "The FBI ultimately did not pursue charges against Clinton for her use of personal email while secretary of state, with Comey saying there was no evidence anyone intentionally mishandled classified information.",
+            "\u201dWhile her use of a single email account was clearly a mistake and she has taken responsibility for it, these materials make clear why the Justice Department believed there was no basis to move forward with this case,\u201d Clinton\u2019s national press secretary Brian Fallon said in a statement."
+        ],
+        "tf-idf score": [
+            1.015290220081838,
+            1.6010370012463384,
+            1.5140961485107127
+        ]
+    },
+    "0.44911849329600545-3-403": {
+        "average clique similarity": 0.44911849329600545,
+        "clique": [
+            "3-The release also inc",
+            "1-According to Abedin ",
+            "0-The documents also i"
+        ],
+        "median tf-idf score": 0.8625463503621529,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "The release also includes technical details about how the server in the basement of Clinton\u2019s home in Chappaqua, New York, was set up.",
+            "According to Abedin, Cooper and another person whose name was redacted from the report, there were personally owned desktop computers in the SCIFs in Clinton\u2019s homes in Washington and Chappaqua, New York.",
+            "The documents also include technical details about how the server in the basement of Clinton\u2019s home in Chappaqua, New York, was set up."
+        ],
+        "tf-idf score": [
+            0.8336810203341039,
+            0.8625463503621529,
+            0.8846231083257426
+        ]
+    },
+    "0.4601576358711723-3-98": {
+        "average clique similarity": 0.4601576358711723,
+        "clique": [
+            "3-This is exactly why ",
+            "4-This is exactly why ",
+            "1-Handing of classifie"
+        ],
+        "median tf-idf score": 0.26559723240202643,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "This is exactly why I have called for her to be denied access to classified information.",
+            "This is exactly why I have called for her to be denied access to classified information\u201d.",
+            "Handing of classified information, The notes revealed that Clinton relied heavily on her staff and aides to determine what was classified information and how it should be handled."
+        ],
+        "tf-idf score": [
+            0.26559723240202643,
+            0.26559723240202643,
+            0.9813265500870128
+        ]
+    },
+    "0.4605349498385853-3-105": {
+        "average clique similarity": 0.4605349498385853,
+        "clique": [
+            "4- CLINTON relied on t",
+            "1- I was absolutely sh",
+            "3-I was absolutely sho"
+        ],
+        "median tf-idf score": 0.5662892645232429,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201dCLINTON relied on the judgment of the people that worked for her to handle the information appropriately\u201d.",
+            "\u201dI was absolutely shocked to see that her answers to the FBI stood in direct contradiction to what she told the American people.",
+            "I was absolutely shocked to see that her answers to the FBI stood in direct contradiction to what she told the American people."
+        ],
+        "tf-idf score": [
+            0.5996939211970775,
+            0.5662892645232429,
+            0.5662892645232429
+        ]
+    },
+    "0.5249683010232989-3-114": {
+        "average clique similarity": 0.5249683010232989,
+        "clique": [
+            "4- This email did not ",
+            "3-  Clinton told the F",
+            "1-    But the FBI said"
+        ],
+        "median tf-idf score": 1.2440195791100763,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dThis email did not factor into her decision to use a personal email account,\u201d the FBI notes say.",
+            "\u201d Clinton told the FBI she understood Powell\u2019s comments to mean that any of her   communications would be records of the government and \u201cdid not factor\u201d the comments \u201cinto her decision to use a personal email account\u201d the documents say.",
+            "\u2019\u201d  But the FBI said Clinton described her understanding of Powell\u2019s comments as saying that   emails would be official record, adding \u201dPowell\u2019s comments did not factor into her decision to use a personal email account\u201d."
+        ],
+        "tf-idf score": [
+            0.7085555463264689,
+            1.3114426032143442,
+            1.2440195791100763
+        ]
+    },
+    "0.526040146057569-3-439": {
+        "average clique similarity": 0.526040146057569,
+        "clique": [
+            "0-See Latest Coverage ",
+            "4- CLINTON was not awa",
+            "3-Clinton could not re"
+        ],
+        "median tf-idf score": 1.0179866713115266,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "See Latest Coverage \u2192 The documents also say Clinton claimed she could not recall \u201cany briefing or training by State related to the retention of federal records or handling of classified information.",
+            "\u201dCLINTON was not aware of State employee (redacted) expressing concerns CLINTON\u2019s email server was not compliant with the FRA,\u201d or Federal Records Act, the notes read.",
+            "Clinton could not recall any briefing or training by state related to the retention of federal records or handling of classified information."
+        ],
+        "tf-idf score": [
+            1.0179866713115266,
+            1.263966564654882,
+            0.8884062952474711
+        ]
+    },
+    "0.5444461165032046-3-439": {
+        "average clique similarity": 0.5444461165032046,
+        "clique": [
+            "2- Peter   Washington ",
+            "0-While her use of a s",
+            "1-I take responsibilit"
+        ],
+        "median tf-idf score": 0.8727329160702179,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "(Peter   Washington Post)   Clinton campaign spokesman Brian Fallon said, \u201cWhile her use of a single email account was clearly a mistake and she has taken responsibility for it, these materials make clear why the Justice Department believed there was no basis to move forward with this case.",
+            "While her use of a single email account was clearly a mistake and she has taken responsibility for it, these materials make clear why the Justice Department believed there was no basis to move forward with this case.",
+            "I take responsibility for it."
+        ],
+        "tf-idf score": [
+            1.460646818126114,
+            0.8727329160702179,
+            0.017328311150955487
+        ]
+    },
+    "0.5514843188976103-3-439": {
+        "average clique similarity": 0.5514843188976103,
+        "clique": [
+            "3-Trump s full stateme",
+            "2-  Trump said in a st",
+            "1- Hillary Clinton s a"
+        ],
+        "median tf-idf score": 1.2549958862339328,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Trump\u2019s full statement read: \u201cHillary Clinton\u2019s answers to the FBI about her private email server defy belief.",
+            "\u201d Trump said in a statement: \u201cHillary Clinton\u2019s answers to the FBI about her private email server defy belief.",
+            "\u201dHillary Clinton\u2019s answers to the FBI about her private email server defy belief,\u201d Trump said in a statement."
+        ],
+        "tf-idf score": [
+            1.1671168675812336,
+            1.2549958862339328,
+            1.2549958862339328
+        ]
+    },
+    "0.5717012764356627-3-439": {
+        "average clique similarity": 0.5717012764356627,
+        "clique": [
+            "0- These documents dem",
+            "3-   The House speaker",
+            "4- These documents dem"
+        ],
+        "median tf-idf score": 1.1201791944818495,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dThese documents demonstrate Hillary Clinton\u2019s reckless and downright dangerous handling of classified information during her tenure as secretary of state.",
+            "\u201d  The House speaker, Paul Ryan, said: \u201cThese documents demonstrate Hillary Clinton\u2019s reckless and downright dangerous handling of classified information during her tenure as secretary of state.",
+            "\u201dThese documents demonstrate Hillary Clinton\u2019s reckless and downright dangerous handling of classified information during her tenure as Secretary of State,\u201d Ryan said in a statement."
+        ],
+        "tf-idf score": [
+            0.9665876860819368,
+            1.1201791944818495,
+            1.1213312337361487
+        ]
+    },
+    "0.5777960939158896-3-65": {
+        "average clique similarity": 0.5777960939158896,
+        "clique": [
+            "0-  Republican Nationa",
+            "3-  Reince Priebus  ch",
+            "1-Republican National "
+        ],
+        "median tf-idf score": 0.5897037873934748,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d Republican National Committee Chairman Priebus called the documents a \u201cdevastating indictment of her judgment, honesty and basic competency,\u201d adding that her interview answers \u201ceither show she is completely incompetent or blatantly lied to the FBI or the public.",
+            "\u201d Reince Priebus, chair of the Republican National Committee, said: \u201cThe FBI\u2019s summary of their interview with Hillary Clinton is a devastating indictment of her judgment, honesty and basic competency.",
+            "Republican National Committee Chairman Reince Priebus, meanwhile, called the release a \u201ddevastating indictment\u201d of Clinton\u2019s honesty and judgment."
+        ],
+        "tf-idf score": [
+            0.5897037873934748,
+            0.9704403200870051,
+            0.570235137904745
+        ]
+    },
+    "0.8926440141287019-3-380": {
+        "average clique similarity": 0.8926440141287019,
+        "clique": [
+            "4- They also cast furt",
+            "3-They also cast furth",
+            "0-They also cast furth"
+        ],
+        "median tf-idf score": 0.2059868275924729,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dThey also cast further doubt on the Justice Department\u2019s decision to avoid prosecuting what is a clear violation of the law.",
+            "They also cast further doubt on the justice department\u2019s decision to avoid prosecuting what is a clear violation of the law.",
+            "They also cast further doubt on the Justice Department\u2019s decision to avoid prosecuting what is a clear violation of the law,\u201d House Speaker Paul Ryan said in a statement."
+        ],
+        "tf-idf score": [
+            0.2059868275924729,
+            0.2059868275924729,
+            0.3948179031088893
+        ]
+    }
+}

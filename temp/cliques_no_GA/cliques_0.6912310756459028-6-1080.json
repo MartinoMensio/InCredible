@@ -1,0 +1,814 @@
+{
+    "0.15196264853843425-3-409": {
+        "average clique similarity": 0.15196264853843425,
+        "clique": [
+            "4-The state bill nulli",
+            "1-Americans are divide",
+            "0-Meanwhile  the admin"
+        ],
+        "median tf-idf score": 0.505282855258748,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "The state bill nullified that Charlotte ordinance and required all state facilities to go further and explicitly require that bathrooms be segregated according to sex as assigned at birth.",
+            "Americans are divided over how public restrooms should be used by transgender people, according to a   poll, with 44 percent saying people should use them according to their biological sex and 39 percent saying they should be used according to the gender with which they identify.",
+            "Meanwhile, the administration is expected to soon take the bathroom issue further, to ensure that transgender student rights are fully protected under federal law, according to Politico."
+        ],
+        "tf-idf score": [
+            0.4823394411562306,
+            0.505282855258748,
+            0.75166672087418
+        ]
+    },
+    "0.1626129153064649-3-175": {
+        "average clique similarity": 0.1626129153064649,
+        "clique": [
+            "4- I think it s time f",
+            "0- I think frankly Con",
+            "2- Instead of doing wh"
+        ],
+        "median tf-idf score": 0.34132927461018087,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dI think it\u2019s time for the U S Congress to bring clarity to our national   provisions,\u201d he said, repeating it twice for emphasis.",
+            "\u201dI think frankly Congress needs to deal with this to have a consistent message throughout the United States,\u201d he added.",
+            "\u201cInstead of doing what\u2019s right for our state, he\u2019s doubling down on what he knows he did wrong,\u201d Cooper said in a video message Monday."
+        ],
+        "tf-idf score": [
+            0.2867974128024182,
+            0.34132927461018087,
+            0.6104832045234047
+        ]
+    },
+    "0.17019694108390415-3-106": {
+        "average clique similarity": 0.17019694108390415,
+        "clique": [
+            "2- It s unacceptable f",
+            "1-North Carolina Repub",
+            "5-They live  work  and"
+        ],
+        "median tf-idf score": 0.981231507572058,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cIt\u2019s unacceptable for the Obama administration to try to intimidate North Carolina taxpayers into accepting their radical reinterpretation of a law meant to protect women from discrimination into a law that would actually deny women their right to basic safety and privacy,\u201d Berger and Moore said in a statement.",
+            "North Carolina Republicans say the law stops men from posing as transgender to gain access to women\u2019s restrooms.",
+            "They live, work, and study as women."
+        ],
+        "tf-idf score": [
+            1.2179473881601042,
+            0.981231507572058,
+            0.044131331393920024
+        ]
+    },
+    "0.18596464554400116-3-120": {
+        "average clique similarity": 0.18596464554400116,
+        "clique": [
+            "0-    McCrory  who sig",
+            "1-It has thrust North ",
+            "2-     Yes  the feds c"
+        ],
+        "median tf-idf score": 1.4013661854564896,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d   McCrory, who signed the bill into law in March, said last week that the department seems to be breaking new ground in claiming the North Carolina law violates Civil Rights Act protections against discrimination in education and the workplace.",
+            "It has thrust North Carolina into the center of a national debate over equality and privacy, and has now led the state into what could be a long and costly legal battle with the U S government.",
+            "\u201d   [Yes, the feds could pull North Carolina\u2019s education funding for violating transgender civil rights]   The lawsuits escalate tensions over a law that has already resulted in boycotts of North Carolina by corporations and threats from the federal government that billions of dollars in annual funding could be withheld."
+        ],
+        "tf-idf score": [
+            1.4822137657747032,
+            0.9362148197723595,
+            1.4013661854564896
+        ]
+    },
+    "0.19111081100796787-3-16": {
+        "average clique similarity": 0.19111081100796787,
+        "clique": [
+            "5-The suit filed Monda",
+            "2-  Also Monday  the t",
+            "0-The suit was filed a"
+        ],
+        "median tf-idf score": 0.9701245174358998,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The suit filed Monday isn\u2019t the first time the Justice Department\u2019s Civil Rights Division has tangled with McCrory and the state.",
+            "\u201d Also Monday, the top Republicans in the North Carolina legislature  \u2014   Sen. Phil Berger, president pro tempore of the  Senate, and Rep. Tim Moore, speaker of the House   \u2014   filed their own lawsuit against the Justice Department, arguing that the federal agency was violating the 10th Amendment by trying to \u201cimpose novel and unforeseen interpretations\u201d of civil rights statutes.",
+            "The suit was filed after McCrory, in his lawsuit, accused the administration of a \u201cbaseless and blatant overreach\u201d in trying to get the policy scrapped."
+        ],
+        "tf-idf score": [
+            0.9701245174358998,
+            1.4393666611946592,
+            0.45730990820756856
+        ]
+    },
+    "0.2006385703460435-3-200": {
+        "average clique similarity": 0.2006385703460435,
+        "clique": [
+            "3-The North Carolina o",
+            "2- Bathroom law  puts ",
+            "1-Hours earlier  North"
+        ],
+        "median tf-idf score": 1.2743505931816805,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "The North Carolina officials sued Gupta as well as Lynch for their \u201cradical reinterpretation\u201d of federal civil rights law in federal district court in North Carolina.",
+            "\u2018Bathroom law\u2019 puts North Carolina governor in crossfire of GOP civil war",
+            "Hours earlier, North Carolina\u2019s Republican governor, Pat McCrory, and the state\u2019s secretary of public safety sued the agency in a different federal court in North Carolina, accusing it of \u201dbaseless and blatant overreach\u201d."
+        ],
+        "tf-idf score": [
+            1.2743505931816805,
+            0.894359640313115,
+            1.399364018206776
+        ]
+    },
+    "0.2022491972493652-3-197": {
+        "average clique similarity": 0.2022491972493652,
+        "clique": [
+            "5-He said on Fox News ",
+            "2-  He said he did not",
+            "4-He said the lawsuit "
+        ],
+        "median tf-idf score": 0.8988765531249814,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "He said on Fox News Sunday that the Justice Department had offered him an extension only if he agreed that the law was discriminatory and accused the federal government of being a \u201cbully.",
+            "\u201d He said he did not know of any way the lawsuit had changed the reviews that several federal agencies are conducting to consider withholding funding to North Carolina.",
+            "He said the lawsuit was an attempt to \u201dclarify\u201d national law."
+        ],
+        "tf-idf score": [
+            0.9090973671990745,
+            0.8988765531249814,
+            0.5428153571605681
+        ]
+    },
+    "0.23246058028358949-3-230": {
+        "average clique similarity": 0.23246058028358949,
+        "clique": [
+            "4- And there s no cons",
+            "5- This is not a quest",
+            "2- And there is no cle"
+        ],
+        "median tf-idf score": 0.02441408029978103,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201dAnd there\u2019s no consensus on which party this benefits the most\u201d.",
+            "\u201cThis is not a question on which there is a great amount of disagreement.",
+            "\u201cAnd there is no clear identification or definition of gender identity."
+        ],
+        "tf-idf score": [
+            0.014732540464091354,
+            0.02441408029978103,
+            0.09161439094827058
+        ]
+    },
+    "0.2342683762888723-3-439": {
+        "average clique similarity": 0.2342683762888723,
+        "clique": [
+            "0- We believe a court ",
+            "2- This is about the d",
+            "4- What we must not do"
+        ],
+        "median tf-idf score": 0.4224547243361502,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cWe believe a court rather than a federal agency should tell our state, our nation and employers across the country what the law requires.",
+            "\u201cThis is about the dignity and respect we accord our fellow citizens and the laws that we, as a people and as a country, have enacted to protect them.",
+            "\u201dWhat we must not do  \u2014   what we must never do  \u2014   is turn on our neighbors, our family members, our fellow Americans, for something they cannot control, and deny what makes them human\u201d."
+        ],
+        "tf-idf score": [
+            0.7596640736670549,
+            0.4224547243361502,
+            0.0902581953632293
+        ]
+    },
+    "0.24043607444110374-3-361": {
+        "average clique similarity": 0.24043607444110374,
+        "clique": [
+            "2-  Three groups chall",
+            "0-In a suit filed late",
+            "3-The Justice Departme"
+        ],
+        "median tf-idf score": 1.5190406388765219,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d Three groups challenging the bathroom measure in federal court  \u2014   the American Civil Liberties Union, the ACLU of North Carolina and Lambda Legal  \u2014   released a statement saying that McCrory \u201cdoubled down on discrimination\u201d against transgender people with his suit Monday.",
+            "In a suit filed late Monday in U S District Court for the Middle District of North Carolina, the DOJ alleged a \u201cpattern or practice of employment discrimination on the basis of sex\u201d against the state over the law requiring transgender people to use bathrooms that correspond with the sex on their birth certificate.",
+            "The Justice Department\u2019s complaint, which was filed in federal district court in North Carolina, named the state of North Carolina, McCrory, the state\u2019s Department of Public Safety and the University of North Carolina system as defendants."
+        ],
+        "tf-idf score": [
+            1.4343650097058507,
+            1.672911881537737,
+            1.5190406388765219
+        ]
+    },
+    "0.2715598625502149-3-41": {
+        "average clique similarity": 0.2715598625502149,
+        "clique": [
+            "2-  As he did last wee",
+            "5-McCrory spoke out ag",
+            "0- This is not just a "
+        ],
+        "median tf-idf score": 0.6779183864287923,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d As he did last week after receiving the letter, he said that this has broad implications, stating: \u201cThis is not just a North Carolina issue.",
+            "McCrory spoke out against Charlotte\u2019s ordinance before it passed, but he did not seem eager to take the issue on until legislators passed the law.",
+            "\u201cThis is not just a North Carolina issue, this is now a national issue,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.7806858104758602,
+            0.523116059466167,
+            0.6779183864287923
+        ]
+    },
+    "0.2730158272989594-3-494": {
+        "average clique similarity": 0.2730158272989594,
+        "clique": [
+            "5-  DOJ s lawsuit asks",
+            "2-While the state said",
+            "4-The Rebuke From DOJ "
+        ],
+        "median tf-idf score": 1.1814744838608926,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d DOJ\u2019s lawsuit asks the court to declare that HB2 is discriminatory under Titles VII and Title IX of the Civil Rights Act and violates the Violence Against Women Act.",
+            "While the state said its law does not discriminate against transgender people or treat transgender employees differently from   employees, the Justice Department\u2019s civil rights office said the measure is discriminatory and violates civil rights.",
+            "The Rebuke From DOJ, The Department of Justice said that the law violates the Civil Rights Act, by discriminating against state employees, and Title IX, by discriminating against students at state schools."
+        ],
+        "tf-idf score": [
+            0.5172581795512843,
+            1.2576565742853638,
+            1.1814744838608926
+        ]
+    },
+    "0.27458596407614855-3-228": {
+        "average clique similarity": 0.27458596407614855,
+        "clique": [
+            "0-PayPal reversed plan",
+            "5-It has become a mill",
+            "2-After McCrory signed"
+        ],
+        "median tf-idf score": 0.3820951829087857,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Fox News"
+        ],
+        "sentences": [
+            "PayPal reversed plans to open a   operation center in Charlotte, and Deutsche Bank froze expansion plans near Raleigh.",
+            "It has become a millstone around his neck, as entertainers boycott the state and major companies, from PayPal to Deutsche Bank, cancel or pull back expansions in the state.",
+            "After McCrory signed the law, PayPal and Deutsche Bank both said they were abandoning expansion plans in the state because of the measure."
+        ],
+        "tf-idf score": [
+            0.14063415871835055,
+            0.3820951829087857,
+            0.8498007539119652
+        ]
+    },
+    "0.2752561552855494-3-412": {
+        "average clique similarity": 0.2752561552855494,
+        "clique": [
+            "2-McCrory said Monday ",
+            "5-Last week  Deputy As",
+            "4-The DOJ  which said "
+        ],
+        "median tf-idf score": 1.2126242681031205,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "McCrory said Monday that the Justice Department had asked North Carolina officials to \u201cset aside their constitutional duty and refuse to follow or enforce our state law.",
+            "Last week, Deputy Assistant Attorney General Vanita Gupta wrote to McCrory, the Department of Public Safety, and the UNC system, informing them that DOJ had determined that the law violated Title VII and Title IX, and demanding that the state reply by Monday, agreeing not to enforce the law.",
+            "The DOJ, which said last week that the law violates the Civil Rights Act and Title IX, had set a Monday afternoon deadline for the state to reply and say whether it intended to enact the law."
+        ],
+        "tf-idf score": [
+            1.5724487434771939,
+            1.2126242681031205,
+            1.1268658238483833
+        ]
+    },
+    "0.2788796730885224-3-226": {
+        "average clique similarity": 0.2788796730885224,
+        "clique": [
+            "5-The law was a respon",
+            "2-  The governor has r",
+            "4-A Swiftly Passed Sta"
+        ],
+        "median tf-idf score": 0.8496455249324757,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The law was a response to the city of Charlotte passing a local ordinance that required transgender bathroom accommodation and banned discrimination against LBGT people.",
+            "\u201d The governor has repeatedly defended the state law, which he signed in March, as a necessary response to a Charlotte city ordinance that expanded civil rights protections for people based on sexual orientation and gender identity.",
+            "A Swiftly Passed State Law, The law, which was passed over the course of 12 hours in a special   session of the state Legislature, was issued in response to a ordinance by the city of Charlotte that would have established protections for LGBT people."
+        ],
+        "tf-idf score": [
+            0.6864727194596334,
+            1.0712801876707096,
+            0.8496455249324757
+        ]
+    },
+    "0.28477760671671665-3-291": {
+        "average clique similarity": 0.28477760671671665,
+        "clique": [
+            "5-  North Carolina s S",
+            "2-But Lynch on Monday ",
+            "4-We saw it in fierce "
+        ],
+        "median tf-idf score": 0.5203049010285132,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d North Carolina\u2019s Suit to Keep Federal Funding After HB2  Lynch, who is a North Carolina native, placed HB2 on a continuum with state reactions against   progress, from Jim Crow to Brown v. Board of Education.",
+            "But Lynch on Monday linked the bill with a dark legacy that included Jim Crow laws and resistance to the Brown v. Board of Education decision.",
+            "We saw it in fierce and widespread resistance to Brown v. Board of Education."
+        ],
+        "tf-idf score": [
+            1.0845361152596682,
+            0.5203049010285132,
+            0.08603855119448059
+        ]
+    },
+    "0.29116892754689716-4-494": {
+        "average clique similarity": 0.29116892754689716,
+        "clique": [
+            "4-Pat McCrory said in ",
+            "2-Pat McCrory  R  accu",
+            "0-Pat McCrory with leg",
+            "3-Pat McCrory and the "
+        ],
+        "median tf-idf score": 0.3597578690473693,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Pat McCrory said in a statement about the filing.",
+            "Pat McCrory (R) accused the federal government of \u201cbaseless and blatant overreach.",
+            "Pat McCrory with legal action of its own.",
+            "Pat McCrory and the state\u2019s secretary of public safety had sued the agency for declaring the law a civil rights violation, accusing it of \u201cbaseless and blatant overreach."
+        ],
+        "tf-idf score": [
+            0.3361215102563125,
+            0.3833942278384261,
+            0.18919876169648187,
+            1.061661010867362
+        ]
+    },
+    "0.29298431987864365-4-111": {
+        "average clique similarity": 0.29298431987864365,
+        "clique": [
+            "5-The Department of Ju",
+            "1- A fight between the",
+            "0- The Justice Departm",
+            "2-       North Carolin"
+        ],
+        "median tf-idf score": 1.4406263086688877,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "The Department of Justice has sued the state of North Carolina over HB2, the controversial \u201cbathroom bill\u201d enacted in March.",
+            " A fight between the Obama administration and North Carolina over a state law limiting public bathroom access for transgender people escalated on Monday as both sides sued each other, trading accusations of civil rights violations and government overreach.",
+            " The Justice Department and North Carolina filed dueling lawsuits Monday over the state\u2019s controversial \u201cbathroom\u201d law, with the Obama administration answering an   lawsuit filed by Republican Gov.",
+            "       North Carolina and the Justice Department announced dueling lawsuits Monday over the state\u2019s \u201cbathroom bill,\u201d which has become the epicenter of a larger fight over transgender rights."
+        ],
+        "tf-idf score": [
+            1.114264795802903,
+            1.7289835478492288,
+            1.5211406915443637,
+            1.3601119257934116
+        ]
+    },
+    "0.296240643750529-3-494": {
+        "average clique similarity": 0.296240643750529,
+        "clique": [
+            "3-McCrory told reporte",
+            "1-McCrory told reporte",
+            "4-That ordinance would"
+        ],
+        "median tf-idf score": 1.389712981648764,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "McCrory told reporters that North Carolina leaders had been forced to pass the law, known as HB 2, after the Charlotte City Council passed an ordinance requiring access to bathrooms based on gender identity in public as well as private buildings.",
+            "McCrory told reporters that North Carolina had been forced to pass the law after the Charlotte city council passed an ordinance that allowed transgender people access to bathrooms based on gender identity in public and private buildings.",
+            "That ordinance would have allowed trans people in Charlotte to use the bathroom corresponding to their gender identity."
+        ],
+        "tf-idf score": [
+            1.389712981648764,
+            1.4741127601586805,
+            0.3272621606201667
+        ]
+    },
+    "0.301678589040728-3-494": {
+        "average clique similarity": 0.301678589040728,
+        "clique": [
+            "2- This action is abou",
+            "0- They created   disc",
+            "5-In impassioned remar"
+        ],
+        "median tf-idf score": 0.7669667873275192,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cThis action is about a great deal more than just bathrooms,\u201d Attorney General Loretta E Lynch said during a news conference after the Justice Department\u2019s lawsuit was filed.",
+            "\u201cThey created   discrimination against transgender individuals,\u201d Attorney General Loretta Lynch said in a press conference late Monday afternoon.",
+            "In impassioned remarks Monday afternoon, Attorney General Loretta Lynch blasted the law as \u201c  discrimination,\u201d compared the law to segregation provisions of yore, and spoke directly to transgender people from a lectern at the Justice Department."
+        ],
+        "tf-idf score": [
+            0.7669667873275192,
+            0.5654719705215278,
+            0.9249016280643397
+        ]
+    },
+    "0.30233024713730766-3-494": {
+        "average clique similarity": 0.30233024713730766,
+        "clique": [
+            "0-The governor  speaki",
+            "4-Lynch said the state",
+            "2-McCrory said he had "
+        ],
+        "median tf-idf score": 0.5976316759747387,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The governor, speaking over the weekend with \u201cFox News Sunday,\u201d said he asked the department for an extension and was given only until the close of business Monday.",
+            "Lynch said the state requested an extension that was under active consideration.",
+            "McCrory said he had asked the Justice Department for an extension to the \u201cunrealistic\u201d Monday deadline and was turned down unless he made a statement agreeing that the measure was discriminatory."
+        ],
+        "tf-idf score": [
+            0.5976316759747387,
+            0.5095075006023824,
+            0.7614510187300951
+        ]
+    },
+    "0.31674150943442564-5-494": {
+        "average clique similarity": 0.31674150943442564,
+        "clique": [
+            "4-The state law in que",
+            "3-  In March    to ban",
+            "1-By passing the law  ",
+            "5-HB2 bans local ordin",
+            "2-The two complaints  "
+        ],
+        "median tf-idf score": 0.7519628017679846,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Reuters",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The state law in question, known as HB2, requires transgender people at state facilities, including schools, to use the restroom that corresponds to the sex on their birth certificate  \u2014   not their identified gender.",
+            "\u201d In March,   to ban people from using multiple occupancy restrooms or changing rooms in public buildings and schools that do not match the sex on their birth certificate.",
+            "By passing the law, North Carolina became the first state in the country to ban people from using multiple occupancy restrooms or changing rooms in public buildings and schools that do not match the sex on their birth certificate.",
+            "HB2 bans local ordinances on both issues, and mandates that people in state facilities \u2014  including schools and universities \u2014  use bathrooms corresponding to the gender on their birth certificate, not the one with which they identify.",
+            "The two complaints, filed several hours apart, took opposing sides in the debate over the law, which bans transgender people from using bathrooms that don\u2019t match the gender on their birth certificates."
+        ],
+        "tf-idf score": [
+            0.9284129405589847,
+            0.46458583715711566,
+            1.4201532029777046,
+            0.7519628017679846,
+            0.7163816231222025
+        ]
+    },
+    "0.31818344120950964-3-494": {
+        "average clique similarity": 0.31818344120950964,
+        "clique": [
+            "3-Hours earlier  North",
+            "4- We are filing a fed",
+            "2-In his lawsuit Monda"
+        ],
+        "median tf-idf score": 0.831710569185449,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Hours earlier, North Carolina Gov.",
+            "\u201dWe are filing a federal civil rights lawsuit against the state of North Carolina, Gov.",
+            "In his lawsuit Monday against the Justice Department, North Carolina Gov."
+        ],
+        "tf-idf score": [
+            0.5230296782140738,
+            1.0735450217609155,
+            0.831710569185449
+        ]
+    },
+    "0.3263280759968444-3-100": {
+        "average clique similarity": 0.3263280759968444,
+        "clique": [
+            "2-This is now a nation",
+            "0- This is not just No",
+            "4-This is now a nation"
+        ],
+        "median tf-idf score": 0.9298452998726012,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "This is now a national issue.",
+            "\u201cThis is not just North Carolina,\u201d said McCrory, arguing that every university that accepts federal funding is now in the same situation as those in his state.",
+            "This is now a national issue that applies to every state and it needs to be resolved at the federal level,\u201d North Carolina Gov."
+        ],
+        "tf-idf score": [
+            0.06820469686852024,
+            1.1900964307938309,
+            0.9298452998726012
+        ]
+    },
+    "0.3467319843742245-3-494": {
+        "average clique similarity": 0.3467319843742245,
+        "clique": [
+            "2-Notably absent from ",
+            "1-The U S Justice Depa",
+            "0- This is an attempt "
+        ],
+        "median tf-idf score": 1.4291730992724767,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "Notably absent from McCrory\u2019s complaint, filed in the U S District Court for the Eastern District of North Carolina, was Margaret Spellings, president of the University of North Carolina System, who had also received a letter from the Justice Department relating to the law.",
+            "The U S Justice Department\u2019s complaint asked a federal district court in North Carolina to declare that the state is violating the 1964 Civil Rights Act and order it to stop enforcing the ban.",
+            "\u201dThis is an attempt to unilaterally rewrite   federal civil rights laws in a manner that is wholly inconsistent with the intent of Congress and disregards decades of statutory interpretation by the Courts,\u201d the state\u2019s suit, filed in U S District Court in the Eastern District of North Carolina, said."
+        ],
+        "tf-idf score": [
+            1.3812695125394057,
+            1.4291730992724767,
+            1.6755600479872712
+        ]
+    },
+    "0.38835912748431095-3-494": {
+        "average clique similarity": 0.38835912748431095,
+        "clique": [
+            "0-Lynch said Monday th",
+            "1-The Justice Departme",
+            "2-North Carolina recei"
+        ],
+        "median tf-idf score": 1.3595328510764995,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Lynch said Monday that as the case moves forward, they \u201cretain the option of curtailing federal funding\u201d to the state Department of Public Safety and University of North Carolina.",
+            "The Justice Department\u2019s complaint named the state of North Carolina, McCrory, the state\u2019s Department of Public Safety and the University of North Carolina system as defendants.",
+            "North Carolina receives more than $4 billion in federal education funding each year, much of it in the form of student loans, and the Education Department has said it is reviewing whether to withhold that money because of the bathroom law."
+        ],
+        "tf-idf score": [
+            1.4699083533376023,
+            1.2010860587066017,
+            1.3595328510764995
+        ]
+    },
+    "0.4164204078635298-3-494": {
+        "average clique similarity": 0.4164204078635298,
+        "clique": [
+            "1-The Republican leade",
+            "4-Additionally  top Re",
+            "3-The Republican leade"
+        ],
+        "median tf-idf score": 1.423230486090831,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "The Republican leaders of North Carolina\u2019s state legislature also sued the U S government over the law on Monday, hours after McCrory\u2019s lawsuit.",
+            "Additionally, top Republican lawmakers in the North Carolina Legislature on Monday filed their own lawsuit against the federal government Monday addressing Title IX of the Civil Rights Act.",
+            "The Republican leaders of North Carolina\u2019s state legislature also sued the US government over the law on Monday, hours after McCrory\u2019s lawsuit."
+        ],
+        "tf-idf score": [
+            1.423230486090831,
+            1.1476588993281305,
+            1.423230486090831
+        ]
+    },
+    "0.416957153269011-4-237": {
+        "average clique similarity": 0.416957153269011,
+        "clique": [
+            "3-They re bypassing Co",
+            "1-They re bypassing Co",
+            "5-That is just not the",
+            "4- The Obama administr"
+        ],
+        "median tf-idf score": 0.573166989039148,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "They\u2019re bypassing Congress, attempting to rewrite law & policies for the whole country, not just NC,\u201d McCrory, a Republican, wrote on Twitter.",
+            "They\u2019re bypassing Congress, attempting to rewrite law & policies for the whole country, not just NC,\u201d McCrory wrote on Twitter.",
+            "That is just not the case.",
+            "\u201dThe Obama administration is bypassing Congress by attempting to rewrite the law and set restroom policies for public and private employers across the country, not just North Carolina."
+        ],
+        "tf-idf score": [
+            0.5907653169928273,
+            0.5555686610854685,
+            0.012614199555914942,
+            1.0412466820189195
+        ]
+    },
+    "0.4182316723020649-3-116": {
+        "average clique similarity": 0.4182316723020649,
+        "clique": [
+            "0- It s the federal go",
+            "2-It s the federal gov",
+            "1-The law is also bein"
+        ],
+        "median tf-idf score": 0.4343740140504696,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201dIt\u2019s the federal government being a bully, making law.",
+            "It\u2019s the federal government being a bully.",
+            "The law is also being challenged in federal district court by critics including the American Civil Liberties Union."
+        ],
+        "tf-idf score": [
+            0.4343740140504696,
+            0.1832687675228247,
+            0.6322663239314962
+        ]
+    },
+    "0.436065260496465-3-437": {
+        "average clique similarity": 0.436065260496465,
+        "clique": [
+            "3- We re taking the Ob",
+            "5-The remarks represen",
+            "1- We re taking the Ob"
+        ],
+        "median tf-idf score": 0.11558983712666274,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cWe\u2019re taking the Obama admin to court.",
+            "The remarks represent some of Lynch\u2019s most impassioned comments since taking over the Department of Justice.",
+            "\u201dWe\u2019re taking the Obama admin to court."
+        ],
+        "tf-idf score": [
+            0.11558983712666274,
+            0.2870071117984063,
+            0.11558983712666274
+        ]
+    },
+    "0.43735697338475726-3-494": {
+        "average clique similarity": 0.43735697338475726,
+        "clique": [
+            "2-The Justice Departme",
+            "5-The suit names the s",
+            "4-One of the sponsors "
+        ],
+        "median tf-idf score": 1.1827686680230682,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "The Justice Department\u2019s lawsuit, in addition to naming the state of North Carolina, also includes the state\u2019s department of public safety, and the University of North Carolina and the school\u2019s board of governors.",
+            "The suit names the state, Governor Pat McCrory, the state Department of Public Safety, the University of North Carolina system, and its board of governors.",
+            "One of the sponsors of the law, North Carolina state Rep. Paul Stam, told NPR\u2019s Morning Edition earlier Monday that he expected McCrory to fight the Department of Justice on the issue."
+        ],
+        "tf-idf score": [
+            1.175260297045566,
+            1.1827686680230682,
+            1.5358408672928647
+        ]
+    },
+    "0.44141098275261176-3-137": {
+        "average clique similarity": 0.44141098275261176,
+        "clique": [
+            "4-Lynch  however  said",
+            "3- None of us can stan",
+            "1- None of us can stan"
+        ],
+        "median tf-idf score": 1.044396350415241,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Lynch, however, said the federal laws concerning gender and gender discrimination are clear, and that North Carolina\u2019s law is in violation.",
+            "\u201cNone of us can stand by when a state enters the business of legislating identity and insists that a person pretend to be something or someone that they are not,\u201d said Lynch, comparing the measure to Jim   racial discrimination laws and bans on   marriage.",
+            "\u201dNone of us can stand by when a state enters the business of legislating identity and insists that a person pretend to be something or someone that they are not,\u201d Lynch said at a news conference, comparing the measure to Jim   racial discrimination laws and bans on   marriage."
+        ],
+        "tf-idf score": [
+            1.145343890995919,
+            1.0044847374832118,
+            1.044396350415241
+        ]
+    },
+    "0.5232972345738277-3-397": {
+        "average clique similarity": 0.5232972345738277,
+        "clique": [
+            "4-Pat McCrory  the Nor",
+            "3-US Attorney General ",
+            "1-U S Attorney General"
+        ],
+        "median tf-idf score": 1.1734475751524234,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Pat McCrory, the North Carolina Department of Public Safety and the University of North Carolina,\u201d Attorney General Loretta Lynch said in a press conference Monday.",
+            "US Attorney General Loretta Lynch said the department also \u201cretains the option\u201d of curtailing federal funding to North Carolina over the issue.",
+            "U S Attorney General Loretta Lynch said on Monday the department \u201dretains the option\u201d of curtailing federal funding to North Carolina unless it backs down."
+        ],
+        "tf-idf score": [
+            1.2737322853960067,
+            1.1052873260501244,
+            1.1734475751524234
+        ]
+    }
+}

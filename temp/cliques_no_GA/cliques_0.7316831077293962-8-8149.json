@@ -1,0 +1,822 @@
+{
+    "0.18576180424439862-3-164": {
+        "average clique similarity": 0.18576180424439862,
+        "clique": [
+            "7-  The feds charged t",
+            "1-The companies would ",
+            "0-  On Wednesday  prio"
+        ],
+        "median tf-idf score": 0.4400027126764604,
+        "publications": [
+            "Buzzfeed News",
+            "Breitbart",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d The feds charged the    McClendon with violations of the Sherman   Act in an alleged scheme to rig bids on   ventures.",
+            "The companies would decide ahead of time who would win bids, with the winner then allocating an interest in the leases to the other company, according to the statement.",
+            "\u201d On Wednesday, prior to news of the crash, one of the biggest investors in McClendon\u2019s new oil and gas ventures told investors it would cut ties with him, Reuters reported."
+        ],
+        "tf-idf score": [
+            0.4400027126764604,
+            0.39824632453344694,
+            0.7264481303739955
+        ]
+    },
+    "0.18964181010549563-3-528": {
+        "average clique similarity": 0.18964181010549563,
+        "clique": [
+            "6-Chesapeake s shareho",
+            "1-McClendon stepped do",
+            "0-McClendon left Chesa"
+        ],
+        "median tf-idf score": 0.40929831966474806,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Chesapeake\u2019s shareholders, including billionaire investor Carl Icahn, forced him from the company in 2013, blasting him for aggressive spending and commingling his personal finances with those of the company.",
+            "McClendon stepped down from Chesapeake in 2013.",
+            "McClendon left Chesapeake in early 2013 after shareholders voted in a board that committed to reining in the company\u2019s aggressive and often risky spending."
+        ],
+        "tf-idf score": [
+            0.40929831966474806,
+            0.35090535268618533,
+            0.5664721632026484
+        ]
+    },
+    "0.19380203934942855-3-433": {
+        "average clique similarity": 0.19380203934942855,
+        "clique": [
+            "0-Tuesday s indictment",
+            "1-In a statement relea",
+            "5-McClendon denied wro"
+        ],
+        "median tf-idf score": 0.5406405518168024,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Tuesday\u2019s indictment was not the first time authorities took aim at Chesapeake\u2019s business practices under McClendon.",
+            "In a statement released Tuesday after his indictment, McClendon denied violating antitrust laws.",
+            "McClendon denied wrongdoing at the time."
+        ],
+        "tf-idf score": [
+            0.7206755502706981,
+            0.5406405518168024,
+            0.29842077710709947
+        ]
+    },
+    "0.20887258815694407-3-528": {
+        "average clique similarity": 0.20887258815694407,
+        "clique": [
+            "5-He then went on to s",
+            "1-He left the company ",
+            "6- I am proud of my tr"
+        ],
+        "median tf-idf score": 1.0715140659910958,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "He then went on to start a new enterprise, American Energy Partners.",
+            "He left the company in January 2013 amid philosophical differences with a new board of directors, and founded American Energy Partners, where he was chairman and CEO \u201dAubrey\u2019s tremendous leadership, vision, and passion for the energy industry had an impact on the community, the country, and the world,\u201d AEP said in a statement.",
+            "\u201cI am proud of my track record in this industry, and I will fight to prove my innocence and to clear my name,\u201d McClendon, who founded American Energy Partners after leaving Chesapeake, said Tuesday after the indictment."
+        ],
+        "tf-idf score": [
+            0.273316776908315,
+            1.1283994673086124,
+            1.0715140659910958
+        ]
+    },
+    "0.20929714650333428-3-528": {
+        "average clique similarity": 0.20929714650333428,
+        "clique": [
+            "6-The executive  one o",
+            "4-Industry executives ",
+            "2-The major oil compan"
+        ],
+        "median tf-idf score": 0.510011736195439,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The executive, one of the   wildcatters in the US, pioneered the use of hydraulic fracturing, or fracking, to unlock hidden oil and gas reserves.",
+            "Industry executives and state officials remembered McClendon as a \u201dvisionary\u201d who ushered in a new era of U S energy abundance by pursuing the hydraulic fracturing technology that would unlock decades\u2019 worth of domestic natural gas and oil resources.",
+            "The major oil companies had passed up opportunities to push ahead on shale gas drilling  \u2014   a combination of hydraulic fracturing and horizontal drilling  \u2014   that unlocked vast quantities of untapped domestic oil and gas."
+        ],
+        "tf-idf score": [
+            0.3748656410351634,
+            0.9251969128555637,
+            0.510011736195439
+        ]
+    },
+    "0.2103020901469611-3-528": {
+        "average clique similarity": 0.2103020901469611,
+        "clique": [
+            "2-McClendon was a gian",
+            "5-McClendon was a lead",
+            "0-As CEO of Chesapeake"
+        ],
+        "median tf-idf score": 0.8247016854078454,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "McClendon was a giant figure in the shale gas and shale oil business, jumping from relative obscurity to become one of, if not the biggest, lease holders on shale gas prospects.",
+            "McClendon was a leader in the efforts to extract oil and natural gas from shale formations.",
+            "As CEO of Chesapeake Energy, which he   in 1989, McClendon led an aggressive search for oil and natural gas deposits locked within shale rock formations, becoming a pioneer of the fracking industry."
+        ],
+        "tf-idf score": [
+            0.8247016854078454,
+            0.794489210396431,
+            0.9810091928135379
+        ]
+    },
+    "0.23397416138345287-3-528": {
+        "average clique similarity": 0.23397416138345287,
+        "clique": [
+            "2-     Aubrey McClendo",
+            "7- The Justice Departm",
+            "4-The crash occurred l"
+        ],
+        "median tf-idf score": 0.9530892626267774,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201d    Aubrey McClendon,   of Chesapeake Energy Corp, died in a fiery car crash March 2, one day after the Justice Department indicted him on charges of violating antitrust laws.",
+            "[The Justice Department indicted the Thunder minority owner on Tuesday.",
+            "The crash occurred less than 24 hours after the U S Department of Justice announced that McClendon had been indicted for allegedly colluding to rig bids for oil and gas acreage while he was at Chesapeake."
+        ],
+        "tf-idf score": [
+            0.9530892626267774,
+            0.23842604698610437,
+            1.0381150615902808
+        ]
+    },
+    "0.23495500722527832-3-258": {
+        "average clique similarity": 0.23495500722527832,
+        "clique": [
+            "4-    REVERED FOR HELP",
+            "1-McClendon could freq",
+            "0-Along with his stake"
+        ],
+        "median tf-idf score": 0.5851932394645311,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "( ) REVERED FOR HELPING OKLAHOMA  A native of Oklahoma, McClendon attended Duke University before starting Chesapeake in 1989 with his friend Tom Ward.",
+            "McClendon could frequently be spotted in his courtside seats near the Thunder bench in the arena named after the company he founded in 1989 with his friend, Tom Ward, with an initial $50, 000 investment.",
+            "Along with his stake in the Thunder, he was a big donor to the University of Oklahoma."
+        ],
+        "tf-idf score": [
+            0.5851932394645311,
+            0.586659345312164,
+            0.4381739659788487
+        ]
+    },
+    "0.2379174926472256-3-528": {
+        "average clique similarity": 0.2379174926472256,
+        "clique": [
+            "4-Closer to home  McCl",
+            "2-He was an Oklahoma C",
+            "1-He was also a   of t"
+        ],
+        "median tf-idf score": 0.832100087239024,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Closer to home, McClendon was revered for helping to bolster the Oklahoma economy and revitalize its biggest city, including landing the Oklahoma City Thunder, a National Basketball Association franchise in which he had a minority stake.",
+            "He was an Oklahoma City native, and his   was Robert Kerr, former Oklahoma governor and U S senator and   of the oil and gas company   according to \u201cThe Frackers\u201d by Gregory Zuckerman.",
+            "He was also a   of the Oklahoma City Thunder."
+        ],
+        "tf-idf score": [
+            0.915186053647599,
+            0.832100087239024,
+            0.49094040821426593
+        ]
+    },
+    "0.2386393978109791-3-528": {
+        "average clique similarity": 0.2386393978109791,
+        "clique": [
+            "2-In Oklahoma City  th",
+            "1-McClendon was the fo",
+            "0-The billionaire form"
+        ],
+        "median tf-idf score": 0.6906962717937627,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "In Oklahoma City, the headquarters of Chesapeake Energy\u2019s   corporate campus, the energy giant\u2019s name still adorns the Chesapeake Energy Arena, the Thunder\u2019s   downtown stadium.",
+            "McClendon was the founder and   of Chesapeake Energy.",
+            "The billionaire former CEO of Chesapeake Energy Corp. and   of the NBA\u2019s Oklahoma City Thunder \u201cpretty much drove straight into the wall,\u201d Balderrama said."
+        ],
+        "tf-idf score": [
+            0.5531066103701506,
+            0.6906962717937627,
+            0.8572919911237795
+        ]
+    },
+    "0.2476771203447137-3-528": {
+        "average clique similarity": 0.2476771203447137,
+        "clique": [
+            "4-Over more than two d",
+            "0- Aubrey McClendon  a",
+            "1-They eventually grew"
+        ],
+        "median tf-idf score": 1.1682994959962538,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "Over more than two decades, he built Chesapeake from a small wildcatter into one of the world\u2019s biggest natural gas producers before resigning in 2013, after a corporate governance crisis and investor concerns over his heavy spending It may take one to two weeks to complete an investigation into the accident, which occurred about 8 miles (13 km) from offices of American Energy Partners, the company that McClendon founded shortly after leaving Chesapeake.",
+            " Aubrey McClendon, a major figure in the oil and gas industry, died in a car accident Wednesday, one day after the Justice Department charged him with conspiring to rig the price of oil and natural gas leases in his home state of Oklahoma.",
+            "They eventually grew the company into one of the largest independent producers of natural gas in the United States."
+        ],
+        "tf-idf score": [
+            1.1682994959962538,
+            1.2161776518292067,
+            0.3527762894341788
+        ]
+    },
+    "0.2576771463572965-4-281": {
+        "average clique similarity": 0.2576771463572965,
+        "clique": [
+            "5-A police spokesman s",
+            "4-McClendon was alone ",
+            "2-McClendon  56  crash",
+            "3-Ashley Peters said  "
+        ],
+        "median tf-idf score": 0.928390703975096,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "A police spokesman said at a news conference Wednesday that McClendon\u2019s car was traveling at high speed when it crashed into an overpass wall and \u201dwas engulfed in flames\u201d.",
+            "McClendon was alone in his 2013 Chevy Tahoe when it sped into an embankment along a remote   road in Oklahoma City, where it burst into flames, a police spokesman said.",
+            "McClendon, 56, crashed his 2013 Chevy Tahoe at high speed into a bridge overpass wall in northeast Oklahoma City just after 9 a. m. police said.",
+            "Ashley Peters said    McClendon, also a   of the NBA\u2019s Oklahoma City Thunder, was the only occupant in the sport utility vehicle when it slammed into a concrete bridge pillar shortly after 9 a. m. McClendon\u2019s death follows an announcement Tuesday that he had been indicted by a federal grand jury."
+        ],
+        "tf-idf score": [
+            0.8933834420083302,
+            0.9633979659418619,
+            0.8061073587392545,
+            1.2766813332153644
+        ]
+    },
+    "0.26037488223981925-3-119": {
+        "average clique similarity": 0.26037488223981925,
+        "clique": [
+            "5-Forbes magazine once",
+            "6-He   Chesapeake in 1",
+            "2-  In 2011  McClendon"
+        ],
+        "median tf-idf score": 0.3476032765886402,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Forbes magazine once called him \u201dAmerica\u2019s wildest wildcatter\u201d.",
+            "He   Chesapeake in 1989, building it into the largest fracking outfit in the US He was also known for making wild bets that sometimes lost, leading Forbes to crown him America\u2019s Most Reckless Billionaire.",
+            "\u201d In 2011, McClendon appeared on the cover of Forbes magazine as \u201cAmerica\u2019s Most Reckless Billionaire."
+        ],
+        "tf-idf score": [
+            0.0946029008951558,
+            0.5330555028160898,
+            0.3476032765886402
+        ]
+    },
+    "0.26137068535219465-3-14": {
+        "average clique similarity": 0.26137068535219465,
+        "clique": [
+            "5-The crash in northea",
+            "0-The indictment didn ",
+            "2-He died in the crash"
+        ],
+        "median tf-idf score": 0.3275493837999975,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The crash in northeast Oklahoma City apparently involved no other vehicles.",
+            "The indictment didn\u2019t name anyone else who was allegedly involved, and arose from an \u201congoing federal antitrust investigation into price fixing, bid rigging and other anticompetitive conduct in the oil and natural gas industry,\u201d it said.",
+            "He died in the crash, and no other cars were involved."
+        ],
+        "tf-idf score": [
+            0.3275493837999975,
+            0.9703863591707836,
+            0.12101811967676512
+        ]
+    },
+    "0.27079555301956165-4-129": {
+        "average clique similarity": 0.27079555301956165,
+        "clique": [
+            "3-OKLAHOMA CITY  AP   ",
+            "1- Aubrey McClendon  t",
+            "7-On Wednesday  McClen",
+            "2-      Former Chesape"
+        ],
+        "median tf-idf score": 1.3858024773707098,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Talking Points Memo",
+            "Breitbart"
+        ],
+        "sentences": [
+            "OKLAHOMA CITY (AP)  \u2014   Aubrey McClendon, a natural gas industry titan, was killed in a fiery   crash in Oklahoma City on Wednesday, a day after he was indicted on a charge of conspiring to rig bids to buy oil and natural gas leases in northwest Oklahoma.",
+            " Aubrey McClendon, the   of an NBA basketball team and former energy company chief executive who was indicted in federal court on a conspiracy charge Tuesday, died in a car crash Wednesday, police said.",
+            "On Wednesday, McClendon died instantly after crashing his car into a wall in Oklahoma City at a rate of speed in excess of the posted 40    limit.",
+            "      Former Chesapeake Energy chief executive Aubrey McClendon, the embattled   of one of America\u2019s largest natural gas producers, died Wednesday morning in a fiery car crash one day after he was charged in an Oklahoma   conspiracy."
+        ],
+        "tf-idf score": [
+            1.4809777297230937,
+            1.3603588168429797,
+            0.7323042484735188,
+            1.41124613789844
+        ]
+    },
+    "0.27602151713768075-3-528": {
+        "average clique similarity": 0.27602151713768075,
+        "clique": [
+            "2-  McClendon  a promi",
+            "6-McClendon  56  was i",
+            "5-McClendon  56  was i"
+        ],
+        "median tf-idf score": 1.073406495244675,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d McClendon, a prominent wildcatter and champion of America\u2019s \u201cenergy revolution,\u201d was indicted Tuesday on a charge of orchestrating a scheme to keep bid prices low for oil and natural gas leases.",
+            "McClendon, 56, was indicted by a federal court grand jury less than 24 hours earlier for conspiring to rig oil and gas leases.",
+            "McClendon, 56, was indicted Tuesday on charges of \u201dorchestrating a conspiracy not to compete for oil and gas leases in northwest Oklahoma,\u201d as the   reported."
+        ],
+        "tf-idf score": [
+            1.2048027786561022,
+            0.9341341643323526,
+            1.073406495244675
+        ]
+    },
+    "0.2767136302629898-3-487": {
+        "average clique similarity": 0.2767136302629898,
+        "clique": [
+            "6-McClendon  the found",
+            "3-McClendon stepped do",
+            "7-The indictment charg"
+        ],
+        "median tf-idf score": 1.197592213750334,
+        "publications": [
+            "New York Post",
+            "Talking Points Memo",
+            "Breitbart"
+        ],
+        "sentences": [
+            "McClendon, the founder and former chief executive of Chesapeake Energy, engineered a scheme to keep companies from bidding against one another for oil and gas leases in northwest Oklahoma, the grand jury charged.",
+            "McClendon stepped down in 2013 at Chesapeake and founded American Energy Partners, where he was chairman and CEO The Department of Justice said in a statement Tuesday that McClendon was suspected of orchestrating a scheme between two large energy companies, which are not named in the indictment, from December 2007 to March 2012.",
+            "The indictment charged that McClendon \u201corchestrated a conspiracy between two large oil and gas companies to not bid against each other for the purchase of certain oil and natural gas leases in northwest Oklahoma."
+        ],
+        "tf-idf score": [
+            1.197592213750334,
+            1.4581281884426258,
+            1.028021339540825
+        ]
+    },
+    "0.2794350039382381-3-380": {
+        "average clique similarity": 0.2794350039382381,
+        "clique": [
+            "0-The Justice Departme",
+            "3-The companies would ",
+            "1-Department of Justic"
+        ],
+        "median tf-idf score": 0.39824632453344694,
+        "publications": [
+            "Talking Points Memo",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "The Justice Department alleged that a winner would be determined ahead of time, and then that winner would allocate an interest in the leases to the other party, effectively holding down prices paid to leaseholders.",
+            "The companies would decide ahead of time who would win bids, with the winner then allocating an interest in the leases to the other company, according to the statement.",
+            "Department of Justice spokesman Mark Abueg declined to comment on the impact McClendon\u2019s death would have on the case."
+        ],
+        "tf-idf score": [
+            0.3020910143157106,
+            0.39824632453344694,
+            0.4383860954321378
+        ]
+    },
+    "0.3215794485730273-3-252": {
+        "average clique similarity": 0.3215794485730273,
+        "clique": [
+            "5-Paco Balderrama said",
+            "1-Ashley Peters said M",
+            "4- There was plenty of"
+        ],
+        "median tf-idf score": 0.7771232619691384,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Paco Balderrama said no one else was in the SUV and that police were not initially able to determine whether McClendon was wearing a seat belt.",
+            "Ashley Peters said McClendon was the only person in the SUV when it slammed into a concrete bridge pillar shortly after 9 a. m. \u201cThere was plenty of opportunity for him to correct and get back on the roadway and that didn\u2019t occur,\u201d Balderrama added.",
+            "\u201cThere was plenty of opportunity for him to correct or get back on the roadway and that didn\u2019t occur,\u201d Balderrama said."
+        ],
+        "tf-idf score": [
+            0.7771232619691384,
+            0.8692509752663252,
+            0.470298742351566
+        ]
+    },
+    "0.3336591204701461-3-528": {
+        "average clique similarity": 0.3336591204701461,
+        "clique": [
+            "6-Energy tycoon Aubrey",
+            "4- Former Chesapeake E",
+            "5-Aubrey McClendon  th"
+        ],
+        "median tf-idf score": 1.0424805786017135,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Energy tycoon Aubrey McClendon, who amassed a $1 billion fortune by being among the first to recognize the technology that would lead to the shale gas revolution, died Wednesday in a fiery   crash in his hometown of Oklahoma City.",
+            " Former Chesapeake Energy Chief Executive Aubrey McClendon, a brash   who helped transform the U S energy industry with shale gas, died when his car slammed into an overpass on Wednesday, one day after being charged with breaking federal antitrust laws, police said.",
+            "Aubrey McClendon, the former CEO of Chesapeake Energy Corp. who was charged Tuesday with orchestrating a conspiracy, has died in a car crash."
+        ],
+        "tf-idf score": [
+            1.0424805786017135,
+            1.2913225533026793,
+            1.0174558198029693
+        ]
+    },
+    "0.33750614898629094-3-215": {
+        "average clique similarity": 0.33750614898629094,
+        "clique": [
+            "1- He pretty much drov",
+            "5-The fatal crash occu",
+            "7- He pretty much drov"
+        ],
+        "median tf-idf score": 0.49518921433477014,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201cHe pretty much drove straight into the wall,\u201d Oklahoma City Police Department Capt.",
+            "The fatal crash occurred Wednesday morning, the Oklahoma City Police Department said on Twitter.",
+            "\u201cHe pretty much drove straight into the wall,\u201d Oklahoma City Police Captain Paco Balderrama told the Daily Oklahoman."
+        ],
+        "tf-idf score": [
+            0.4379160136583145,
+            0.5923331573033505,
+            0.49518921433477014
+        ]
+    },
+    "0.3490904587565242-3-52": {
+        "average clique similarity": 0.3490904587565242,
+        "clique": [
+            "6- He was charismatic ",
+            "4- He was charismatic ",
+            "7-Energy entrepreneur "
+        ],
+        "median tf-idf score": 0.7088718629929358,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cHe was charismatic and a true American entrepreneur,\u201d billionaire energy investor T Boone Pickens said in a statement.",
+            "\u201dHe was charismatic and a true American entrepreneur.",
+            "Energy entrepreneur and Oklahoma City Thunder part owner Aubrey McClendon died on Wednesday in a   wreck."
+        ],
+        "tf-idf score": [
+            0.7088718629929358,
+            0.31014513329807425,
+            0.8381704279783224
+        ]
+    },
+    "0.3536402750324675-4-528": {
+        "average clique similarity": 0.3536402750324675,
+        "clique": [
+            "6-The car was immediat",
+            "0-Paco Balderrama of t",
+            "4-At a press briefing ",
+            "2-Paco Balderrama said"
+        ],
+        "median tf-idf score": 0.6115617630891683,
+        "publications": [
+            "New York Post",
+            "Buzzfeed News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The car was immediately engulfed in flames, according to Oklahoma City Police Captain Paco Balderrama.",
+            "Paco Balderrama of the Oklahoma City Police Department said at a news conference.",
+            "At a press briefing in Oklahoma City, Captain Paco Balderrama said McClendon was traveling at \u201cwell above\u201d the 40 mile per hour speed limit before he \u201dpretty much drove straight into the wall\u201d.",
+            "Paco Balderrama said at a news conference."
+        ],
+        "tf-idf score": [
+            0.6747466370976462,
+            0.5483768890806904,
+            1.080561615171816,
+            0.2169470521160222
+        ]
+    },
+    "0.4067912396298568-4-528": {
+        "average clique similarity": 0.4067912396298568,
+        "clique": [
+            "3- The charge that has",
+            "5-The Associated Press",
+            "2- Reuters    McClendo",
+            "0- The charge that has"
+        ],
+        "median tf-idf score": 0.6178895240275475,
+        "publications": [
+            "Talking Points Memo",
+            "NPR",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201dThe charge that has been filed against me today is wrong and unprecedented,\u201d McClendon said.",
+            "The Associated Press reports that after his indictment, McClendon had released a statement in which he said, in part, \u201dThe charge that has been filed against me today is wrong and unprecedented.",
+            "(Reuters)   McClendon, a   of the Oklahoma City Thunder basketball team, said in a statement Tuesday that he would fight the \u201cwrong and unprecedented\u201d charge.",
+            "\u201cThe charge that has been filed against me today is wrong and unprecedented,\u201d he said yesterday."
+        ],
+        "tf-idf score": [
+            0.5295169130022568,
+            0.7062621350528381,
+            0.9087852373374704,
+            0.30165398403794347
+        ]
+    },
+    "0.40992223802035327-3-307": {
+        "average clique similarity": 0.40992223802035327,
+        "clique": [
+            "1- Chesapeake is deepl",
+            "4- Chesapeake is deepl",
+            "6-On Wednesday  the Ju"
+        ],
+        "median tf-idf score": 0.797602155057411,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cChesapeake is deeply saddened by the news that we have heard today and our thoughts and prayers are with the McClendon family during this difficult time,\u201d Chesapeake Energy said in a statement obtained by USA Today.",
+            "\u201dChesapeake is deeply saddened by the news that we have heard today and our thoughts and prayers are with the McClendon family during this difficult time,\u201d the company said in a statement.",
+            "On Wednesday, the Justice Department issued a statement saying prosecutors were \u201csaddened\u201d by his death."
+        ],
+        "tf-idf score": [
+            0.843057528494177,
+            0.797602155057411,
+            0.2572117300062836
+        ]
+    },
+    "0.4118301464505257-3-87": {
+        "average clique similarity": 0.4118301464505257,
+        "clique": [
+            "1- Anyone who knows me",
+            "7- Anyone who knows me",
+            "3-In a statement relea"
+        ],
+        "median tf-idf score": 0.5406405518168024,
+        "publications": [
+            "Talking Points Memo",
+            "Breitbart",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dAnyone who knows me, my business record and the industry in which I have worked for 35 years, knows that I could not be guilty of violating any antitrust laws.",
+            "\u201cAnyone who knows me, my business record and the industry in which I have worked for 35 years, knows that I could not be guilty of violating any antitrust laws,\u201d the man instrumental in moving the Supersonics to Oklahoma City held.",
+            "In a statement released Tuesday after his indictment, McClendon denied violating antitrust laws."
+        ],
+        "tf-idf score": [
+            0.38021638372391553,
+            0.6758719247847316,
+            0.5406405518168024
+        ]
+    },
+    "0.4145173745419363-3-253": {
+        "average clique similarity": 0.4145173745419363,
+        "clique": [
+            "6-It was not immediate",
+            "1-Balderrama said it s",
+            "3-Police say it s too "
+        ],
+        "median tf-idf score": 0.3676559771887682,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "It was not immediately known if he died in the crash or if he suffered a medical emergency beforehand that caused the crash.",
+            "Balderrama said it\u2019s too early to say if the collision was intentional.",
+            "Police say it\u2019s too early to tell if the collision was intentional."
+        ],
+        "tf-idf score": [
+            0.3676559771887682,
+            0.4424642923567216,
+            0.3448852048921468
+        ]
+    },
+    "0.43379980501581644-3-528": {
+        "average clique similarity": 0.43379980501581644,
+        "clique": [
+            "4-He was not wearing a",
+            "6-The vehicle was so b",
+            "1-He added that McClen"
+        ],
+        "median tf-idf score": 0.5963168497819575,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "He was not wearing a seat belt.",
+            "The vehicle was so badly burned that it could not be determined whether McClendon was wearing a seat belt, police said.",
+            "He added that McClendon was not wearing a seat belt and that he was driving faster than the 50 mph speed limit."
+        ],
+        "tf-idf score": [
+            0.2686574735059343,
+            0.7374714794208935,
+            0.5963168497819575
+        ]
+    },
+    "0.4534673759201236-3-358": {
+        "average clique similarity": 0.4534673759201236,
+        "clique": [
+            "2-There is no comprehe",
+            "6- No individual is wi",
+            "4-No individual is wit"
+        ],
+        "median tf-idf score": 0.2418610071923491,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "There is no comprehensive plan to deal with it.",
+            "\u201cNo individual is without flaws, but his impact on American energy will be  .",
+            "No individual is without flaws, but his impact on American energy will be  ."
+        ],
+        "tf-idf score": [
+            0.02035514262635622,
+            0.2418610071923491,
+            0.2418610071923491
+        ]
+    },
+    "0.4544421458677081-3-528": {
+        "average clique similarity": 0.4544421458677081,
+        "clique": [
+            "0- I am proud of my tr",
+            "3- Anyone who knows me",
+            "5-I am proud of my tra"
+        ],
+        "median tf-idf score": 0.2659635913334243,
+        "publications": [
+            "Buzzfeed News",
+            "Talking Points Memo",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cI am proud of my track record in this industry, and I will fight to prove my innocence and to clear my name.",
+            "\u201dAnyone who knows me, my business record and the industry in which I have worked for 35 years, knows that I could not be guilty of violating any antitrust laws.",
+            "I am proud of my track record in this industry, and I will fight to prove my innocence and to clear my name\u201d."
+        ],
+        "tf-idf score": [
+            0.2659635913334243,
+            0.38021638372391553,
+            0.2659635913334243
+        ]
+    },
+    "0.6024116365233535-3-528": {
+        "average clique similarity": 0.6024116365233535,
+        "clique": [
+            "7-I am proud of my tra",
+            "3-I am proud of my tra",
+            "1- We are tremendously"
+        ],
+        "median tf-idf score": 0.2659635913334243,
+        "publications": [
+            "Breitbart",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "I am proud of my track record in this industry, and I will fight to prove my innocence and to clear my name.",
+            "I am proud of my track record in this industry, and I will fight to prove my innocence and to clear my name\u201d.",
+            "\u201dWe are tremendously proud of his legacy and will continue to work hard to live up to the unmatched standards he set for excellence and integrity\u201d."
+        ],
+        "tf-idf score": [
+            0.2659635913334243,
+            0.2659635913334243,
+            0.13015179900506033
+        ]
+    },
+    "0.6042144957228789-3-528": {
+        "average clique similarity": 0.6042144957228789,
+        "clique": [
+            "7-That didn t occur ",
+            "0- There was plenty of",
+            "2-There was plenty of "
+        ],
+        "median tf-idf score": 0.309830664394005,
+        "publications": [
+            "Breitbart",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "That didn\u2019t occur.",
+            "\u201cThere was plenty of opportunity for him to correct and get back on the roadway and that didn\u2019t occur.",
+            "There was plenty of opportunity for him to correct and get back on the roadway, and that didn\u2019t occur,\u201d Oklahoma City Police Capt."
+        ],
+        "tf-idf score": [
+            0.0190844007133767,
+            0.309830664394005,
+            0.6155196523966332
+        ]
+    },
+    "0.7372320388263448-6-528": {
+        "average clique similarity": 0.7372320388263448,
+        "clique": [
+            "3-All my life I have w",
+            "0- All my life I have ",
+            "1- All my life I have ",
+            "5-   All my life I hav",
+            "2- All my life I have ",
+            "7- All my life I have "
+        ],
+        "median tf-idf score": 0.5729758203209975,
+        "publications": [
+            "Talking Points Memo",
+            "Buzzfeed News",
+            "Fox News",
+            "NPR",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "All my life I have worked to create jobs in Oklahoma, grow its economy, and to provide abundant and affordable energy to all Americans.",
+            "\u201cAll my life I have worked to create jobs in Oklahoma, grow its economy, and to provide abundant and affordable energy to all Americans,\u201d McClendon said yesterday in response to the federal indictment.",
+            "\u201dAll my life I have worked to create jobs in Oklahoma, grow its economy, and to provide abundant and affordable energy to all Americans.",
+            ".. All my life I have worked to create jobs in Oklahoma, grow its economy, and to provide abundant and affordable energy to all Americans.",
+            "\u201cAll my life I have worked to create jobs in Oklahoma, grow its economy, and to provide abundant and affordable energy to all Americans,\u201d he said.",
+            "\u201cAll my life I have worked to create jobs in Oklahoma, grow its economy, and to provide abundant and affordable energy to all Americans."
+        ],
+        "tf-idf score": [
+            0.5729758203209975,
+            1.0361031510711018,
+            0.5729758203209975,
+            0.5729758203209975,
+            0.699281455029231,
+            0.5729758203209975
+        ]
+    }
+}

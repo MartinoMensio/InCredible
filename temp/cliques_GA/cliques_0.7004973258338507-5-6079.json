@@ -1,0 +1,354 @@
+{
+    "0.25247414143484903-3-92": {
+        "average clique similarity": 0.25247414143484903,
+        "clique": [
+            "2-McManus did not say ",
+            "4-    McManus said he ",
+            "0-Authorities were sti"
+        ],
+        "median tf-idf score": 1.1795635741242414,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "McManus did not say whether police believe there was a racial element to the shooting of Marconi. For the time being, he said all San Antonio officers were being ordered to call for backup whenever they stop a motorist for any reason.",
+            "'   McManus said he did not know if the motorist who was pulled over   for the traffic violation was connected in any way with the man   who shot the officer, a   veteran of the force. '",
+            "Authorities were still looking through video footage to help identify the gunman. McManus said police did not believe the driver who was stopped by Marconi had any relationship with the gunman."
+        ],
+        "tf-idf score": [
+            1.580943749512292,
+            1.1795635741242414,
+            1.1675494038352383
+        ]
+    },
+    "0.27907733799636364-4-58": {
+        "average clique similarity": 0.27907733799636364,
+        "clique": [
+            "3-The officer was issu",
+            "2-The shooting unfolde",
+            "0-The officer     Det ",
+            "1- Fortunately for the"
+        ],
+        "median tf-idf score": 1.7969811021386741,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "The officer was issuing a traffic ticket to another person around 11:45 a. m. when a man in a black vehicle pulled behind the squad car, walked towards the passenger's side of the police car, and shot the officer in the head, Chief William P McManus said at an impromptu press conference.",
+            "The shooting unfolded when the suspect pulled his car up behind the parked police cruiser, got out, walked to the patrol car and shot the detective in the head through the window as he was writing a ticket, San Antonio Police Chief William McManus said.",
+            "The officer,    Det. Benjamin Marconi, was shot after he pulled a driver over for an unspecified traffic infraction near police headquarters at around 11:45 a. m. local time, San Antonio Police Chief William McManus said during a news conference.",
+            "\"Fortunately for the blessing of God the officer's going to survive,\" Police chief Sam Dotson said during a brief news conference after the shooting, describing the shooting as an \"ambush\"."
+        ],
+        "tf-idf score": [
+            1.8318377772077383,
+            1.7621244270696101,
+            1.8801276176585695,
+            1.0968581720952113
+        ]
+    },
+    "0.30413496627533104-3-69": {
+        "average clique similarity": 0.30413496627533104,
+        "clique": [
+            "0-The gunman then reac",
+            "3-The suspect then sho",
+            "4-     A person pulled"
+        ],
+        "median tf-idf score": 1.0549035762336643,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The gunman then reached inside the car and fired a second shot at Marconi before walking back to his car and fleeing the scene through the police department parking lot.",
+            "The suspect then shot a second time before fleeing the scene in a black vehicle. He remains on the run. The officer, identified as    Detective Benjamin Marconi, was taken to a hospital where he was pronounced dead.",
+            "'   \"A person pulled up behind the patrol car in a black vehicle, got   out, walked up to the passenger window, fired one round, shooting   the officer in the head,\" McManus told reporters near the scene   of the shooting. \"He then reached in and fired a second round,   shooting him a second time\". '"
+        ],
+        "tf-idf score": [
+            0.9104650730609529,
+            1.0549035762336643,
+            1.2223265695501082
+        ]
+    },
+    "0.3403850010016516-3-45": {
+        "average clique similarity": 0.3403850010016516,
+        "clique": [
+            "4-    McManus  who did",
+            "1-The suspect was desc",
+            "2-McManus said no moti"
+        ],
+        "median tf-idf score": 1.4223442201434344,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "'   McManus, who did not identify the slain officer, said officials   were searching for a motive, though he referred to the targeted   killings of police officers in Texas and Louisiana earlier this   year during his press briefing. '",
+            "The suspect was described as a black male, between 5ft 7in and 6ft tall,   and wearing a grey shirt and black pants. McManus urged anyone with information about the shooting to come forward, saying: \"This is everyone's worst nightmare. \" He compared the shooting to others that targeted police in Baton Rouge, Louisiana, and Dallas, Texas, earlier this year.",
+            "McManus said no motive for the shooting was readily apparent, though he referred to the ambush killings of police officers in Texas and Louisiana earlier this year."
+        ],
+        "tf-idf score": [
+            1.315205255966771,
+            1.4223442201434344,
+            1.4893382867052236
+        ]
+    },
+    "0.37977225958898436-3-98": {
+        "average clique similarity": 0.37977225958898436,
+        "clique": [
+            "0-While Marconi sat in",
+            "1-A second driver  in ",
+            "4-    The shooting unf"
+        ],
+        "median tf-idf score": 0.9594060980181943,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "Business Insider"
+        ],
+        "sentences": [
+            "While Marconi sat in his patrol car writing a ticket, a second vehicle pulled up behind him. The killer emerged from the second car and fired at Marconi through the   window of the squad car.",
+            "A second driver, in a black Toyota or \"  Nissan\" then pulled up behind the officer's car, McManus said.",
+            "'   The shooting unfolded when a second vehicle pulled up behind the   parked patrol car, San Antonio Police Chief William McManus said."
+        ],
+        "tf-idf score": [
+            0.5501763103298141,
+            0.9594060980181943,
+            1.3026936924318608
+        ]
+    },
+    "0.39781182255303343-3-18": {
+        "average clique similarity": 0.39781182255303343,
+        "clique": [
+            "4-      Donald Trump  ",
+            "3-This type of crime c",
+            "2-Donald Trump  when a"
+        ],
+        "median tf-idf score": 1.2502932638948077,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "'     Donald Trump, when asked about the events in San   Antonio, said the killing was \"terrible\". During his successful   campaign to win the presidency, Trump sought to portray himself   as the \"law and order candidate,\" in part reflecting anger among   the electorate over the police killings. '",
+            "This type of crime cannot and will not be tolerated,\" she wrote. \"I ask for the community's thoughtfulness  patience as investigation continues  @SATXPolice searches for the suspect. \" At Trump National Golf Club in New Jersey,   Donald Trump was asked by reporters about the events in San Antonio and described them as terrible.",
+            "Donald Trump, when asked about the events in San Antonio, said the killing was \"terrible\". During his campaign to win the presidency, Trump sought to portray himself as the \"law and order candidate,\" in part reflecting anger among the electorate over the police killings. (Reporting by Jim Forsyth; Editing by Frank McGurty, Alan Crosby and Paul Tait) WASHINGTON The issuance of U S visas, passports and other travel documents should be transferred to the Department of Homeland Security from the State Department, a consulting company commissioned by U S Secretary of State Rex Tillerson has recommended in a report."
+        ],
+        "tf-idf score": [
+            1.2502932638948077,
+            0.7437133713451825,
+            1.5901712651843747
+        ]
+    },
+    "0.42336050186357427-4-44": {
+        "average clique similarity": 0.42336050186357427,
+        "clique": [
+            "3-Days later  another ",
+            "0-It was the deadliest",
+            "2-Days later  a gunman",
+            "4-Days later  a   gunm"
+        ],
+        "median tf-idf score": 0.9594316187119571,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Days later, another man killed three police officers in Baton Rouge before being fatally shot by a SWAT officer.",
+            "It was the deadliest day for American law enforcement since Sept. 11, 2001. Ten days after the Dallas attack, a man wearing a ski mask and armed with two rifles and a pistol killed three officers near a gas station and convenience store in Baton Rouge, Louisiana.",
+            "Days later, a gunman killed three police officers and wounded four others in Louisiana's capital of Baton Rouge.",
+            "Days later, a   gunman killed three police officers and wounded four others in   Louisiana's capital of Baton Rouge. \""
+        ],
+        "tf-idf score": [
+            0.9806541501307943,
+            1.0969036114276696,
+            0.9382090872931201,
+            0.9382090872931201
+        ]
+    },
+    "0.43486017175235664-4-98": {
+        "average clique similarity": 0.43486017175235664,
+        "clique": [
+            "2- A manhunt was under",
+            "1-A police officer in ",
+            "3- A police officer in",
+            "4-         A manhunt w"
+        ],
+        "median tf-idf score": 1.6729624831018657,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Buzzfeed News",
+            "Business Insider"
+        ],
+        "sentences": [
+            " A manhunt was underway in Texas on Sunday for a gunman who shot and killed a San Antonio police detective sitting in a squad car during a routine traffic stop outside the city's police headquarters, authorities said.",
+            "A police officer in San Antonio, Texas, was shot dead near his department headquarters on Sunday writing out a traffic ticket, authorities have said.",
+            " A police officer in San Antonio, Texas, was shot and killed on Sunday morning when he was ambushed during a traffic stop outside the city's police headquarters, authorities said.",
+            "'  ' \"   A manhunt was underway on Sunday for a gunman who shot and killed   a San Antonio police officer sitting in a squad car during a   routine traffic stop outside the Texas city's police   headquarters, authorities said. \""
+        ],
+        "tf-idf score": [
+            1.6786230183365134,
+            1.614045539590492,
+            1.667301947867218,
+            1.9030990328619661
+        ]
+    },
+    "0.4414307390201406-3-98": {
+        "average clique similarity": 0.4414307390201406,
+        "clique": [
+            "4-Its driver exited an",
+            "2-The gunman then reac",
+            "1-The driver then  rea"
+        ],
+        "median tf-idf score": 0.9860696710206908,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "Its driver exited and fired two shots through a window, hitting   the officer as he filled out a traffic ticket. ' '   The suspect sped away from the scene in a black car, driving   through the parking lot that serves the San Antonio Public Safety   Headquarters on the western edge of downtown. '",
+            "The gunman then reached through the window, fired a second gunshot into the officer, got back in his vehicle and sped away, driving through the parking lot that serves the San Antonio Public Safety Headquarters on the western edge of downtown.",
+            "The driver then \"reached inand fired again\". McManus said that the suspect walked back to his car, pulled around the cruiser and drove through the parking lot."
+        ],
+        "tf-idf score": [
+            1.3012022665769853,
+            0.9860696710206908,
+            0.8054120032078473
+        ]
+    },
+    "0.4829249598150039-4-8": {
+        "average clique similarity": 0.4829249598150039,
+        "clique": [
+            "2-In July  five Dallas",
+            "0-The shooting came le",
+            "3-In Dallas  five offi",
+            "4-    In July  five Da"
+        ],
+        "median tf-idf score": 1.0664944156190082,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Buzzfeed News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "In July, five Dallas police officers were killed when a black U S military veteran opened fire in a sniper attack during a protest against police shootings of black men.",
+            "The shooting came less than five months after a gunman killed five officers in Dallas who were working a protest about the fatal police shootings of black men in Minnesota and Louisiana.",
+            "In Dallas, five officers were killed by a sniper following a peaceful protest. The gunman was then killed in a standoff.",
+            "\"   In July, five Dallas police officers were killed when a black   U S military veteran opened fire in a sniper attack during a   protest decrying police shootings of black men."
+        ],
+        "tf-idf score": [
+            1.0612826526894419,
+            1.090651251034922,
+            0.707112768903027,
+            1.0717061785485742
+        ]
+    },
+    "0.5098468766509548-3-23": {
+        "average clique similarity": 0.5098468766509548,
+        "clique": [
+            "3-Earlier this month  ",
+            "0-And earlier this mon",
+            "2-More recently  an Io"
+        ],
+        "median tf-idf score": 0.9891263183091379,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Earlier this month, two police officers were killed in Des Moines, Iowa, as they were inside their patrol cars.",
+            "And earlier this month, two Des Moines,   police officers were fatally shot in separate   attacks while sitting in their patrol cars.",
+            "More recently, an Iowa man who had been ejected by police from a high school football game after waving a confederate flag at black spectators was charged with killing two police officers who were shot in their patrol cars earlier this month in the Des Moines area."
+        ],
+        "tf-idf score": [
+            0.898183074623912,
+            0.9891263183091379,
+            1.3366796357828272
+        ]
+    },
+    "0.561475581840284-3-42": {
+        "average clique similarity": 0.561475581840284,
+        "clique": [
+            "1- It s always difficu",
+            "0- It s always difficu",
+            "3- It s always difficu"
+        ],
+        "median tf-idf score": 0.8984435793368895,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"It's always difficult, especially in this day and and age when police are being targeted across the country,\" he said. \"If this individual is a danger to police or anybody else we'll try to get him off the streets. \" In a statement on Sunday, Mayor Ivy Taylor expressed her condolences. She added: \"This type of crime cannot and will not be tolerated. \"",
+            "\"It's always difficult, especially in this this day and age, where police are being targeted across the country,\" McManus said. Texas Gov.",
+            "\"It's always difficult, especially in this day and age where police are being targeted across the country, and hopefully we'll solve this one real quick. \""
+        ],
+        "tf-idf score": [
+            1.016217809358046,
+            0.8984435793368895,
+            0.5176179868154441
+        ]
+    },
+    "0.5673062121397296-3-98": {
+        "average clique similarity": 0.5673062121397296,
+        "clique": [
+            "1-Texas governor Greg ",
+            "0-Greg Abbott called t",
+            "3- Attacks against law"
+        ],
+        "median tf-idf score": 1.10447781152202,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Texas governor Greg Abbott also released a statement, calling the shooting a \"horrific act of violence\". \"Attacks against law enforcement officers will not be tolerated in Texas and must be met with swift justice,\" he said.",
+            "Greg Abbott called the slaying a \"horrific act of violence\". Abbott said in a statement that \"attacks against law enforcement officers will not be tolerated in Texas and must be met with swift justice\".",
+            "\"Attacks against law enforcement officers will not be tolerated in Texas and must be met with swift justice, which is why I am look forward to signing my Police Protection Act into law  --   making targeted attacks against law enforcement a hate crime,\" Abbott said."
+        ],
+        "tf-idf score": [
+            1.10447781152202,
+            0.9810209086785223,
+            1.3045798043603762
+        ]
+    },
+    "0.5842478038889044-3-24": {
+        "average clique similarity": 0.5842478038889044,
+        "clique": [
+            "2- This is everyone s ",
+            "0- Unfortunately  like",
+            "4-     This is everyon"
+        ],
+        "median tf-idf score": 1.3452659126440538,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\"This is everyone's worst nightmare,\" McManus said. \"You never want to see anything like this happen. Unfortunately, like Dallas, like Baton Rouge, it's happened here now\". Texas Governor Greg Abbott said in a statement: \"Attacks against law enforcement officers will not be tolerated in Texas and must be met with swift justice\".",
+            "\"Unfortunately, like Dallas, like Baton Rouge, it's happened here now\". DEPUTY RESPONDING TO SUSPICIOUS PERSON CALL IS KILLED, Police released a still image of the suspected gunman's vehicle speeding away from police headquarters.",
+            "'   \"This is everyone''s worst nightmare,\" McManus said. \"You never   want to see anything like this happen. Unfortunately, like   Dallas, like Baton Rouge, it''s happened here now\". ' '   \"Attacks against law enforcement officers will not be tolerated   in Texas and must be met with swift justice,\" said Texas Governor   Greg Abbott in a statement. '"
+        ],
+        "tf-idf score": [
+            1.3452659126440538,
+            0.9059689893444216,
+            1.3452659126440538
+        ]
+    }
+}

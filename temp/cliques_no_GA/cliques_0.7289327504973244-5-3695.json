@@ -1,0 +1,750 @@
+{
+    "0.14065115192883368-3-284": {
+        "average clique similarity": 0.14065115192883368,
+        "clique": [
+            "4- Together  we can wo",
+            "1-Trump said that Hale",
+            "0-While Betsy DeVos ha"
+        ],
+        "median tf-idf score": 0.8897665146762824,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201dTogether, we can work to make transformational change that ensures every student in America has the opportunity to fulfill his or her highest potential,\u201d DeVos said in a statement.",
+            "Trump said that Haley, his UN choice, \u201dhas a proven track record of bringing people together regardless of background or party affiliation to move critical policies forward for the betterment of her state and our country\u201d.",
+            "While Betsy DeVos has served as chairwoman of the Michigan Republican Party, much of her work has been at the state level, and she will now have to, as Chalkbeat wrote, \u201coperate within a complicated web of interests and priorities, including with education officials in states that did not support Trump."
+        ],
+        "tf-idf score": [
+            0.7682426475794503,
+            0.8897665146762824,
+            1.3672672826718648
+        ]
+    },
+    "0.14719129600820827-3-402": {
+        "average clique similarity": 0.14719129600820827,
+        "clique": [
+            "4-The National Educati",
+            "2-I continue to be ver",
+            "3-Many Republicans on "
+        ],
+        "median tf-idf score": 0.9591782585055809,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "The National Education Association, the largest labor union in the US, was quick to slam Trump\u2019s pick, arguing that DeVos has \u201ddone more to undermine public education than support students\u201d and accusing her of pushing \u201da corporate agenda\u201d.",
+            "I continue to be very optimistic that as we get further along into the process, the more voters know about him, and the more informed they are, the more they\u2019re going to continue to break away\u201d.",
+            "Many Republicans on Capitol Hill are hoping that DeVos will shrink the Education Department\u2019s role in public schools and leave more decisions to states and districts."
+        ],
+        "tf-idf score": [
+            1.2770021192069747,
+            0.11205528348509161,
+            0.9591782585055809
+        ]
+    },
+    "0.15379608954269078-3-38": {
+        "average clique similarity": 0.15379608954269078,
+        "clique": [
+            "3- Betsy DeVos is hard",
+            "4-The largest teacher ",
+            "2-DeVos has helped mak"
+        ],
+        "median tf-idf score": 1.4092329164929789,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            " Betsy DeVos is hardly a household name, but the Michigan billionaire and conservative activist has quietly helped change the education landscape in many states, spending millions of dollars in a successful push to expand voucher programs that give families taxpayer dollars to pay for private and religious schools.",
+            "The largest teacher\u2019s union in the country slammed DeVos within an hour of the announcement for her advocacy of charter schools and school voucher programs, while conservatives quickly pointed out DeVos\u2019 association with groups supporting the Common Core education standards, which Trump has vowed to nix.",
+            "DeVos has helped make Michigan\u2019s charter schools among the least regulated in the nation."
+        ],
+        "tf-idf score": [
+            1.4092329164929789,
+            1.6221196678801648,
+            0.8010505991020471
+        ]
+    },
+    "0.15757642070390177-3-338": {
+        "average clique similarity": 0.15757642070390177,
+        "clique": [
+            "0-DeVos has been a voc",
+            "4-Jeb Bush    one of T",
+            "2-DeVos backed Jeb Bus"
+        ],
+        "median tf-idf score": 0.9974435756173047,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "DeVos has been a vocal supporter of school choice, which is something Trump backed on the campaign trail.",
+            "Jeb Bush    one of Trump\u2019s GOP primary opponents    which promoted both school choice and the Common Core education standards.",
+            "DeVos backed Jeb Bush and later Marco Rubio and John Kasich."
+        ],
+        "tf-idf score": [
+            1.0137893641315057,
+            0.9974435756173047,
+            0.3507970592638046
+        ]
+    },
+    "0.16241571575130445-3-59": {
+        "average clique similarity": 0.16241571575130445,
+        "clique": [
+            "1- The   in his select",
+            "0-DeVos s selection as",
+            "2-Not surprisingly  Tr"
+        ],
+        "median tf-idf score": 0.9268547449579299,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cThe   in his selection of Betsy DeVos, has chosen the most ideological,   education nominee put forward since President Carter created a   Department of Education,\u201d Weingarten said.",
+            "DeVos\u2019s selection as education secretary will please Republicans like Senator Lamar Alexander, who heads up the Senate\u2019s education committee.",
+            "Not surprisingly, Trump\u2019s selection of DeVos as his education secretary drew swift reaction from the head of the nation\u2019s largest teachers union."
+        ],
+        "tf-idf score": [
+            0.9501887366785688,
+            0.7234960449741505,
+            0.9268547449579299
+        ]
+    },
+    "0.16457345549477168-3-12": {
+        "average clique similarity": 0.16457345549477168,
+        "clique": [
+            "3-      Here are the p",
+            "4- Have organizations ",
+            "1-As part of the Cabin"
+        ],
+        "median tf-idf score": 0.2057639675066411,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d     Here are the people whose names have been floated for Trump\u2019s Cabinet View Graphic     Here are the people whose names have been floated for Trump\u2019s Cabinet  As a billionaire Republican power broker with no professional experience in schools, DeVos is an unconventional choice to lead the federal education bureaucracy.",
+            "\u201dHave organizations that I have been a part of supported Common Core?",
+            "As part of the Cabinet, Haley would have more opportunity to shape U S policies, rather than simply defend the administration\u2019s positions."
+        ],
+        "tf-idf score": [
+            1.2508839115053423,
+            0.15035112088642588,
+            0.2057639675066411
+        ]
+    },
+    "0.16711602273775417-3-20": {
+        "average clique similarity": 0.16711602273775417,
+        "clique": [
+            "4-  CNN   Donald Trump",
+            "3-Jim DeMint  presiden",
+            "1-While some initially"
+        ],
+        "median tf-idf score": 0.9723346198266613,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            " (CNN)  Donald Trump tapped Betsy DeVos, a top Republican donor and school choice activist, to head the Department of Education, the Trump transition team announced Wednesday.",
+            "Jim DeMint, president of the conservative Heritage Foundation, cheered DeVos on Wednesday, saying that \u201cthe school choice movement will have a champion in the Education Department.",
+            "While some initially cheered Haley\u2019s selection, despite her limited experience on the international stage, the DeVos choice faced criticism even before it was formally announced Wednesday."
+        ],
+        "tf-idf score": [
+            1.3296977529698355,
+            0.9723346198266613,
+            0.6535859551766735
+        ]
+    },
+    "0.16923282918637297-3-169": {
+        "average clique similarity": 0.16923282918637297,
+        "clique": [
+            "1- When the president ",
+            "3-He has also said tha",
+            "2-It suggests that he "
+        ],
+        "median tf-idf score": 0.6087296149646232,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dWhen the president believes you have a major contribution to make to the welfare of our nation, and to our nation\u2019s standing in the world, that is a calling that is important to heed,\u201d she said in a statement.",
+            "He has also said that he wants to use the bully pulpit of the presidency to persuade states to devote another $110 billion toward vouchers  \u2014   enough, he has said, for every child living in poverty to have a scholarship of $12, 000 toward the school of his or her choice.",
+            "It suggests that he has little regard for our nation\u2019s public schools or the constitutional principle of separation of church and state\u201d."
+        ],
+        "tf-idf score": [
+            0.32375756813199796,
+            0.8078800690660736,
+            0.6087296149646232
+        ]
+    },
+    "0.18137268341103718-3-330": {
+        "average clique similarity": 0.18137268341103718,
+        "clique": [
+            "1-DeVos  from Michigan",
+            "4- She has lobbied for",
+            "3-Trump has proposed r"
+        ],
+        "median tf-idf score": 0.6587301915581815,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "DeVos, from Michigan, is a longtime advocate for charter schools and school vouchers.",
+            "\u201dShe has lobbied for failed schemes, like vouchers  \u2014   which take away funding and local control from our public schools  \u2014   to fund private schools at taxpayers\u2019 expense.",
+            "Trump has proposed redirecting $20 billion in federal spending toward a grant program for states to expand vouchers and charter schools."
+        ],
+        "tf-idf score": [
+            0.641398394068219,
+            0.6587301915581815,
+            0.8746427598114048
+        ]
+    },
+    "0.18846072460479468-3-368": {
+        "average clique similarity": 0.18846072460479468,
+        "clique": [
+            "0-DeVos will push for ",
+            "3-  Trump s pick has i",
+            "2-Trump has voiced str"
+        ],
+        "median tf-idf score": 0.7694043979505875,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "DeVos will push for school choice.",
+            "\u201d Trump\u2019s pick has intensified what already was a polarized debate about school choice.",
+            "Trump has voiced strong support for school choice and charters."
+        ],
+        "tf-idf score": [
+            0.558286147576692,
+            0.7694043979505875,
+            0.7814265888811224
+        ]
+    },
+    "0.19900219044690304-3-408": {
+        "average clique similarity": 0.19900219044690304,
+        "clique": [
+            "0-Critics of the Commo",
+            "2-But backers want him",
+            "4-And so while Trump v"
+        ],
+        "median tf-idf score": 0.23225945050605243,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Critics of the Common Core standards may have reason to worry.",
+            "But backers want him to incentivize states to replace the Common Core.",
+            "And so while Trump vowed to eliminate Common Core, his pick of DeVos has begun to scare conservative opponents of the standards."
+        ],
+        "tf-idf score": [
+            0.20686095614817135,
+            0.23225945050605243,
+            0.9310976434005941
+        ]
+    },
+    "0.2093040255131391-4-408": {
+        "average clique similarity": 0.2093040255131391,
+        "clique": [
+            "1-When asked about DeV",
+            "0-While Trump repeated",
+            "2-And some Trump backe",
+            "3-She has said little "
+        ],
+        "median tf-idf score": 1.1416758680991816,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "When asked about DeVos\u2019 support for the Common Core standards, Trump spokesman Jason Miller said \u201dthe   has been consistent and very clear in his opposition to Common Core\u201d.",
+            "While Trump repeatedly assailed the set of standards used in most states across the country, DeVos has been less clear about her stance on them.",
+            "And some Trump backers feel betrayed by the pick because DeVos has been part of groups, including the Foundation for Excellence in Education, which promote choice and have supported the Common Core State Standards, which Trump opposes.",
+            "She has said little about Common Core, for example, and her ties to organizations that support the   academic standards  \u2014   including as a board member of the Foundation for Excellence in Education, started by former Florida governor Jeb Bush  \u2014   raised concern for Trump supporters, who saw her nomination as a sign that the   is wavering on his vehement opposition to the standards."
+        ],
+        "tf-idf score": [
+            1.0536951434527588,
+            0.8771618215439937,
+            1.401421666799914,
+            1.2296565927456047
+        ]
+    },
+    "0.21250761687796246-3-101": {
+        "average clique similarity": 0.21250761687796246,
+        "clique": [
+            "2-She is not a Trump l",
+            "1-Not all presidents h",
+            "4-But that s not my po"
+        ],
+        "median tf-idf score": 0.19304476296478618,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "She is not a Trump loyalist.",
+            "Not all presidents have treated the ambassadorship to the U N as a   position, and Republicans have tended not to grant that status.",
+            "But that\u2019s not my position,\u201d she wrote."
+        ],
+        "tf-idf score": [
+            0.23705533979648535,
+            0.19304476296478618,
+            0.05505649924920655
+        ]
+    },
+    "0.21353451492815675-3-97": {
+        "average clique similarity": 0.21353451492815675,
+        "clique": [
+            "2-Her children attende",
+            "0-The family has given",
+            "3-The DeVoses also hav"
+        ],
+        "median tf-idf score": 0.2830580902579849,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Her children attended private Christian schools.",
+            "The family has given to a number of conservative and Christian organizations.",
+            "The DeVoses also have donated millions of dollars to the arts and to Christian organizations."
+        ],
+        "tf-idf score": [
+            0.3159404977826147,
+            0.2830580902579849,
+            0.1097407869973192
+        ]
+    },
+    "0.2159516063854008-3-199": {
+        "average clique similarity": 0.2159516063854008,
+        "clique": [
+            "4-Trump spokesman Jaso",
+            "1-Trump spokesman Jaso",
+            "2-Actions speak louder"
+        ],
+        "median tf-idf score": 0.809906030141495,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Trump spokesman Jason Miller said Sunday that Trump\u2019s meeting with DeVos \u201dlargely focused on Common Core, setting higher national standards\u201d and \u201dpromoting school choice across the nation\u201d.",
+            "Trump spokesman Jason Miller said Trump is \u201dspending significant time\u201d weighing his choice for secretary of state.",
+            "Actions speak louder than words,\u201d Vander Hart told NPR Jason Miller, communications director of   Transition, said in an email that Trump \u201dhas been consistent and very clear in his opposition to Common Core."
+        ],
+        "tf-idf score": [
+            1.2144215066488395,
+            0.6199761750360134,
+            0.809906030141495
+        ]
+    },
+    "0.2305549301680908-3-408": {
+        "average clique similarity": 0.2305549301680908,
+        "clique": [
+            "2-DeVos currently chai",
+            "3-Betsy DeVos founded ",
+            "4-DeVos chairs the Ame"
+        ],
+        "median tf-idf score": 0.9972475283763464,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "DeVos currently chairs the board of the American Federation for Children, a group that according to its website works to provide families \u201dwith access to great schools through private school choice\u201d.",
+            "Betsy DeVos founded and serves as chairman of the American Federation of Children and its associated political arm, a platform she has used to support candidates who endorse vouchers and charter schools and to attack candidates who don\u2019t.",
+            "DeVos chairs the American Federation for Children, a group that promotes charter school education, and also served on the board of the Foundation for Excellence in Education, a group led by former Florida Gov."
+        ],
+        "tf-idf score": [
+            0.93119185657219,
+            1.0425006701689299,
+            0.9972475283763464
+        ]
+    },
+    "0.23072721045121444-3-315": {
+        "average clique similarity": 0.23072721045121444,
+        "clique": [
+            "3-From her Twitter acc",
+            "4-DeVos insisted in th",
+            "2-DeVos released a sta"
+        ],
+        "median tf-idf score": 0.47654448087929885,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "From her Twitter account Wednesday, DeVos linked to a website where she wrote that she had initially believed in the standards but became disenchanted with them as they \u201cgot turned into a federalized boondoggle.",
+            "DeVos insisted in the post on her website that she supports \u201dhigh standards, strong accountability and local control\u201d.",
+            "DeVos released a statement on her website saying she opposes Common Core, writing \u201dalong the way, it got turned into a federalized boondoggle\u201d."
+        ],
+        "tf-idf score": [
+            0.47654448087929885,
+            0.4458538789336097,
+            0.5376965783854117
+        ]
+    },
+    "0.23375652693112345-3-194": {
+        "average clique similarity": 0.23375652693112345,
+        "clique": [
+            "4-Accusations of    so",
+            "2-DeVos  58  is a form",
+            "0-DeVos  58  is marrie"
+        ],
+        "median tf-idf score": 0.8960506943548873,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Accusations of \u2019  solutions to public education\u2019 DeVos has been involved in Republican politics both as a donor and as a party official for decades and served as the state Republican Party chair in Michigan.",
+            "DeVos, 58, is a former chairwoman of the Michigan Republican Party and helped push a failed 2000 ballot proposal to amend the Michigan state Constitution to create a voucher system for students to attend nonpublic schools.",
+            "DeVos, 58, is married to Dick DeVos, who ran unsuccessfully as a Republican for the governorship in Michigan."
+        ],
+        "tf-idf score": [
+            1.0516396544725057,
+            0.8960506943548873,
+            0.43715523511784693
+        ]
+    },
+    "0.24701638465464884-3-125": {
+        "average clique similarity": 0.24701638465464884,
+        "clique": [
+            "0-DeVos  who heads up ",
+            "3- Americans are alway",
+            "1- She has a long and "
+        ],
+        "median tf-idf score": 1.0975097070148163,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "DeVos, who heads up the   and    nonprofit American Federation for Children, has said parents should have the ability to choose the best schools for their children, whether they are traditional public schools, charters, or private schools.",
+            "\u201cAmericans are always free to send their children to private schools and religious schools, but raiding the public treasury to subsidize private businesses and religious organizations runs against the public trust and the Constitution,\u201d said Rabbi Jack Moline, president of Interfaith Alliance, adding that Trump\u2019s nomination \u201csuggests he has little regard for .",
+            "\u201cShe has a long and distinguished history championing the right of all parents to choose schools that best ensure their children\u2019s success,\u201d he said in a statement."
+        ],
+        "tf-idf score": [
+            1.0975097070148163,
+            1.1567098175150008,
+            0.6584259981910454
+        ]
+    },
+    "0.27433674706404887-3-72": {
+        "average clique similarity": 0.27433674706404887,
+        "clique": [
+            "2-  Donald Trump has p",
+            "3-Donald Trump on Wedn",
+            "0-  Donald Trump on We"
+        ],
+        "median tf-idf score": 1.4182646856009837,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "  Donald Trump has picked billionaire Betsy DeVos, a Michigan Republican activist and philanthropist who is a strong supporter of school choice but has limited experience with public education, as his secretary of education.",
+            "Donald Trump on Wednesday named her as his nominee for education secretary, a pick that suggests he aims to follow through with campaign promises to expand the movement toward \u201cschool choice\u201d  \u2014   including vouchers and charter schools  \u2014   in an effort to break up a public education system that he has called \u201ca   monopoly.",
+            "  Donald Trump on Wednesday said he will nominate the Michigan philanthropist and prominent Republican donor Betsy DeVos to be U S Education Secretary."
+        ],
+        "tf-idf score": [
+            1.585812250905695,
+            1.4182646856009837,
+            1.1232574921329472
+        ]
+    },
+    "0.2788866341628837-3-279": {
+        "average clique similarity": 0.2788866341628837,
+        "clique": [
+            "3-She graduated from C",
+            "1-DeVos  husband  Dick",
+            "2-She is married to bi"
+        ],
+        "median tf-idf score": 0.3859775462270085,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "She graduated from Calvin College, a Christian liberal arts school in Grand Rapids, Mich. and married Dick DeVos Jr an heir to the Amway   fortune.",
+            "DeVos\u2019 husband, Dick, is an heir to the Amway fortune and a former president of the company.",
+            "She is married to billionaire Richard DeVos Jr the son of Richard DeVos, who   the home care products company Amway."
+        ],
+        "tf-idf score": [
+            0.5921819308932172,
+            0.38128345929481744,
+            0.3859775462270085
+        ]
+    },
+    "0.28590137591384873-3-146": {
+        "average clique similarity": 0.28590137591384873,
+        "clique": [
+            "4-Frank Cannon  the pr",
+            "3-  American Federatio",
+            "1-Hours before the DeV"
+        ],
+        "median tf-idf score": 0.9565774132711883,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Frank Cannon, the president of the adamantly   Core American Principles Project, said in a statement Tuesday that DeVos would be \u201da very   pick\u201d and called it \u201dpuzzling\u201d that Trump was considering DeVos for the post.",
+            "\u201d American Federation of Teachers President Randi Weingarten said that Trump\u2019s pick \u201cmakes it loud and clear that his education policy will focus on privatizing, defunding and destroying public education in America.",
+            "Hours before the DeVos pick was announced, conservative policy leader Frank Cannon, president of American Principles Project, called her \u201dan establishment,   Core secretary of education\u201d."
+        ],
+        "tf-idf score": [
+            1.000523760448117,
+            0.9565774132711883,
+            0.920396911833754
+        ]
+    },
+    "0.3015445231914075-3-408": {
+        "average clique similarity": 0.3015445231914075,
+        "clique": [
+            "1-The DeVos family has",
+            "2-DeVos was twice elec",
+            "3-They wield powerful "
+        ],
+        "median tf-idf score": 0.5873150704806686,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The DeVos family has been active in Republican politics for decades, especially as donors to GOP candidates and the Republican Party.",
+            "DeVos was twice elected chairwoman of the Michigan Republican Party and served as a Republican National Committee member in the 1990s.",
+            "They wield powerful influence in Michigan, where she is a former chair of the state GOP and he was the Republican nominee for governor in 2006."
+        ],
+        "tf-idf score": [
+            0.6609929049109007,
+            0.5873150704806686,
+            0.32622170233612846
+        ]
+    },
+    "0.323196645808785-3-234": {
+        "average clique similarity": 0.323196645808785,
+        "clique": [
+            "0-And according to Cha",
+            "3-the constitutional p",
+            "2-Some 80 percent of t"
+        ],
+        "median tf-idf score": 0.23170062734910035,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "And according to Chalkbeat, around 80 percent of the state\u2019s charter schools are run by private companies.",
+            "the constitutional principle of separation of church and state.",
+            "Some 80 percent of the state\u2019s charters are run by private companies."
+        ],
+        "tf-idf score": [
+            0.4735741156347708,
+            0.11310686731458146,
+            0.23170062734910035
+        ]
+    },
+    "0.32938143152796134-3-40": {
+        "average clique similarity": 0.32938143152796134,
+        "clique": [
+            "1- And it seems to fly",
+            "4- It is puzzling  the",
+            "2- By nominating Betsy"
+        ],
+        "median tf-idf score": 0.8559512962141729,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dAnd it seems to fly in the face of what Trump has stated on education policy up to this point\u201d.",
+            "\u201dIt is puzzling, then, to see reports that the Trump transition team is considering an establishment,   Core Secretary of Education    this would not qualify as \u2019draining the swamp\u2019    and it seems to fly in the face of what Trump has stated on education policy up to this point\u201d.",
+            "\u201dBy nominating Betsy DeVos, the Trump administration has demonstrated just how out of touch it is with what works best for students, parents, educators and communities\u201d."
+        ],
+        "tf-idf score": [
+            0.6530647688047186,
+            0.8718445476315076,
+            0.8559512962141729
+        ]
+    },
+    "0.33954958818881303-3-106": {
+        "average clique similarity": 0.33954958818881303,
+        "clique": [
+            "2-DeVos  has consisten",
+            "1-In a statement to Fo",
+            "4-She has consistently"
+        ],
+        "median tf-idf score": 0.9594185595204219,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "DeVos \u201dhas consistently pushed a corporate agenda to privatize,   and impose   solutions to public education,\u201d Eskelsen Garcia said in a statement.",
+            "In a statement to Fox News, American Federation of Teachers President Randi Weingarten said DeVos \u201dhas no meaningful experience in the classroom or in our schools\u201d.",
+            "She has consistently pushed a corporate agenda to privatize,   and impose   solutions to public education,\u201d the labor union representing teachers and school administrators said in a statement."
+        ],
+        "tf-idf score": [
+            0.9594185595204219,
+            0.9680247884315696,
+            0.9540646583900342
+        ]
+    },
+    "0.3795810139090714-3-408": {
+        "average clique similarity": 0.3795810139090714,
+        "clique": [
+            "2-She also sits on the",
+            "1-She currently leads ",
+            "0-She also served on t"
+        ],
+        "median tf-idf score": 0.5309431672139887,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "She also sits on the board of the Great Lakes Education Project, a   school lobbying group in Michigan.",
+            "She currently leads the advocacy group, American Federation for Children, and sits on the board of the Jeb   Foundation for Excellence in Education.",
+            "She also served on the board of the former Republican presidential contender Jeb Bush\u2019s Foundation for Excellence in Education, which supported the controversial standards."
+        ],
+        "tf-idf score": [
+            0.5829037834003924,
+            0.4860563343940906,
+            0.5309431672139887
+        ]
+    },
+    "0.42370102595934606-3-268": {
+        "average clique similarity": 0.42370102595934606,
+        "clique": [
+            "2-Anybody joining the ",
+            "3- I am honored to wor",
+            "1- Anybody joining the"
+        ],
+        "median tf-idf score": 0.2636555810041877,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Anybody joining the Administration is signing on to the  \u2019s platform and vision for moving America forward\u201d.",
+            "\u201cI am honored to work with the   on his vision to make American education great again.",
+            "\u201dAnybody joining the administration is signing on to the  \u2019s platform and vision for moving America forward,\u201d Miller said."
+        ],
+        "tf-idf score": [
+            0.143816585216455,
+            0.34909142771087287,
+            0.2636555810041877
+        ]
+    },
+    "0.42779949073641976-3-237": {
+        "average clique similarity": 0.42779949073641976,
+        "clique": [
+            "1-Trump  who was at hi",
+            "4-Trump offered DeVos ",
+            "2-Trump  in a statemen"
+        ],
+        "median tf-idf score": 0.8809151832020887,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Trump, who was at his Palm Beach estate Wednesday for the Thanksgiving holiday, called DeVos \u201da brilliant and passionate education advocate\u201d.",
+            "Trump offered DeVos the position on Tuesday and she accepted the same day, a senior Trump transition official told CNN \u201dBetsy DeVos is a brilliant and passionate education advocate,\u201d Trump said in a statement Wednesday.",
+            "Trump, in a statement, called DeVos \u201da brilliant and passionate education advocate\u201d."
+        ],
+        "tf-idf score": [
+            0.8809151832020887,
+            1.130519600629095,
+            0.8162715753955964
+        ]
+    },
+    "0.42812798554566855-3-33": {
+        "average clique similarity": 0.42812798554566855,
+        "clique": [
+            "2-Largely unknown outs",
+            "4- Under her leadershi",
+            "1- Under her leadershi"
+        ],
+        "median tf-idf score": 1.0025690130426328,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Largely unknown outside of Michigan political and philanthropic circles, her appointment signals that Trump intends to make school choice and a voucher plan for   families a centerpiece of his education agenda.",
+            "\u201dUnder her leadership we will reform the US education system and break the bureaucracy that is holding our children back so that we can deliver   education and school choice to all families\u201d.",
+            "\u201dUnder her leadership we will reform the U S education system and break the bureaucracy that is holding our children back so that we can deliver   education and school choice to all families,\u201d Trump said."
+        ],
+        "tf-idf score": [
+            1.056244913531933,
+            0.6772043345978774,
+            1.0025690130426328
+        ]
+    },
+    "0.49846736054615787-3-376": {
+        "average clique similarity": 0.49846736054615787,
+        "clique": [
+            "4-DeVos did not initia",
+            "3-The status quo in ed",
+            "1-See Predictions Map "
+        ],
+        "median tf-idf score": 0.68980064333174,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "DeVos did not initially mention Common Core in a statement Wednesday, but said broadly that \u201dthe status quo in education is not acceptable\u201d.",
+            "The status quo in ed is not acceptable,\u201d DeVos tweeted.",
+            "See Predictions Map \u2192 DeVos said in her own statement, \u201dThe status quo in education is not acceptable\u201d."
+        ],
+        "tf-idf score": [
+            0.8446605476170526,
+            0.32153816413904684,
+            0.68980064333174
+        ]
+    }
+}

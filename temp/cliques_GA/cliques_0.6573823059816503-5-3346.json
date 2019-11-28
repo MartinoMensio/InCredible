@@ -1,0 +1,650 @@
+{
+    "0.14303037501698776-3-288": {
+        "average clique similarity": 0.14303037501698776,
+        "clique": [
+            "2-From the beginning  ",
+            "4-Sanders has said Cli",
+            "3- Sanders unloads on "
+        ],
+        "median tf-idf score": 0.6993422287606832,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "From the beginning, Sanders's argument has been that black and Latino voters will rally to his standard when they get to know him better and hear his message.",
+            "Sanders has said Clinton has too often been complicit in both.",
+            "[Sanders unloads on Clinton during raucous speech in Chicago]  Sanders is looking ahead to contests in which he has a greater chance of winning  --   and a chance, he says, to hang onto the momentum and enthusiasm that his strong liberal message has generated in this unusual election year."
+        ],
+        "tf-idf score": [
+            0.6800805431865037,
+            0.6993422287606832,
+            0.8876587442142391
+        ]
+    },
+    "0.15130134631877193-3-246": {
+        "average clique similarity": 0.15130134631877193,
+        "clique": [
+            "1- Bernie s Black Supp",
+            "0-Exit polls suggested",
+            "2-The moral of the sto"
+        ],
+        "median tf-idf score": 1.5593865402945086,
+        "publications": [
+            "Talking Points Memo",
+            "Buzzfeed News",
+            "Vox"
+        ],
+        "sentences": [
+            "'Bernie's Black Supporters Ask Undecided Voters To Do Five Minutes Of Research' 'Read more here' 'The Only Strategy For Hillary Clinton Is To Scorch The Earth' 'Read more here' 'Five States Bernie Sanders Is Counting On For Super Tuesday' 'Read more here' 'Latino Group Defends Sanders Against Clinton Attacks Over Immigration Vote' 'Read more here' 'How Clinton's Obama Veterans In Nevada Postponed A Political Revolution' 'Read more here'] Speaking before a crowd of more than 2, 500 in this southeast Minnesota city for 50 minutes, Sanders delivered a standard version of his current stump speech, featuring sharp jabs at Hillary Clinton over Wall Street speaking fees, her speech transcripts, and a vote for the Iraq War.",
+            "Exit polls suggested that Clinton won eight in 10 of black voters, according to the AP After her solid victory in the   state of Nevada, Clinton's success in South Carolina solidifies her argument that she has a support base  that is more diverse than Sanders' and thus a stronger candidate for the general election.",
+            "The moral of the story is that while Sanders is certainly doing well enough to win many states in New England and on the plains, he is losing the election  --   perhaps more solidly than his supporters realize."
+        ],
+        "tf-idf score": [
+            1.5593865402945086,
+            1.7110770312221601,
+            0.597978697135004
+        ]
+    },
+    "0.15468562815917944-3-386": {
+        "average clique similarity": 0.15468562815917944,
+        "clique": [
+            "3-  CHARLESTON  S C   ",
+            "2-But only 35 percent ",
+            "4-Hillary Clinton won "
+        ],
+        "median tf-idf score": 0.5387834337464729,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "  CHARLESTON, S C  --   Democrats are still voting in South Carolina, but the Democratic candidates were already moving beyond this state on Saturday  --   both literally and figuratively  --   as a victory seems nearly certain for former secretary of state Hillary Clinton.",
+            "But only 35 percent of South Carolina voters were white.",
+            "Hillary Clinton won, as expected, but the breadth and depth of her victory were breathtaking."
+        ],
+        "tf-idf score": [
+            1.1021420324870774,
+            0.5387834337464729,
+            0.42323045330618664
+        ]
+    },
+    "0.15490818478053262-3-131": {
+        "average clique similarity": 0.15490818478053262,
+        "clique": [
+            "4-Clinton won by   num",
+            "1-But their votes may ",
+            "0-Clinton s victory sp"
+        ],
+        "median tf-idf score": 0.5277510678827625,
+        "publications": [
+            "Buzzfeed News",
+            "Talking Points Memo",
+            "NPR"
+        ],
+        "sentences": [
+            "Clinton won by   numbers among   who preferred her by    over Sanders.",
+            "But their votes may be motivated less by her ability to mobilize black voters than by their trust in her to continue Barack Obama's legacy.",
+            "Clinton's victory speech was tailored to the black voters who carried her in South Carolina."
+        ],
+        "tf-idf score": [
+            0.5277510678827625,
+            0.3749104727678251,
+            0.9805366858624769
+        ]
+    },
+    "0.15514273830416128-3-73": {
+        "average clique similarity": 0.15514273830416128,
+        "clique": [
+            "2-Sanders needs to win",
+            "0-The path to victory ",
+            "3-Sanders also seems t"
+        ],
+        "median tf-idf score": 0.7470008865972316,
+        "publications": [
+            "Vox",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Sanders needs to win Tennessee and Oklahoma to maintain a plausible path to the nomination. There hasn't been much polling in those states yet, but the polls that have happened show Clinton in the lead.",
+            "The path to victory for Sanders has narrowed considerably, as he has been unable to expand his base beyond the white voters that propelled him in Iowa and New Hampshire.",
+            "Sanders also seems to believe that he has a chance of success in Texas, given his campaign schedule there Saturday. But recent polls have shown him down significantly."
+        ],
+        "tf-idf score": [
+            0.932238325745878,
+            0.7470008865972316,
+            0.6401986326878146
+        ]
+    },
+    "0.1633038454715182-3-58": {
+        "average clique similarity": 0.1633038454715182,
+        "clique": [
+            "4-In each case  they a",
+            "3-The South Carolina D",
+            "2-Nate Silver and the "
+        ],
+        "median tf-idf score": 0.8247346169292432,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "In each case, they are more numerous than in Nevada, where they propelled Clinton's caucus win on Feb. 20.",
+            "The South Carolina Democratic primary is Feb. 27. Here's what voters in the Palmetto state are like and how they differ from New Hampshirites and Iowans.",
+            "Nate Silver and the team at FiveThirtyEight help us do that by creating a   breakdown of how we would expect Clinton and Sanders to perform in each state if they tied   in a national primary."
+        ],
+        "tf-idf score": [
+            0.3970712513211419,
+            0.8247346169292432,
+            0.8247383671694393
+        ]
+    },
+    "0.16670125663038737-3-155": {
+        "average clique similarity": 0.16670125663038737,
+        "clique": [
+            "4-On Saturday night  i",
+            "1-Much like Bernie San",
+            "3-Clinton s main rival"
+        ],
+        "median tf-idf score": 1.0021853274710417,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "On Saturday night, in South Carolina, the Earth moved once again.",
+            "Much like Bernie Sanders, trounced by Clinton early Saturday night, Democrats are facing an uphill battle in South Carolina.",
+            "Clinton's main rival, also left South Carolina early on Saturday to speak to crowds in two other Super Tuesday states, Texas and Minnesota."
+        ],
+        "tf-idf score": [
+            0.4032786274110736,
+            1.0447393301875558,
+            1.0021853274710417
+        ]
+    },
+    "0.16913803122480708-3-129": {
+        "average clique similarity": 0.16913803122480708,
+        "clique": [
+            "4-Exit polls said 70 p",
+            "1- It s just voting th",
+            "2-Among the 61 percent"
+        ],
+        "median tf-idf score": 0.47257446673745346,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Exit polls said 70 percent of those voting in this primary wanted Obama's successor to continue his policies.",
+            "\"It's just voting this time. It's voting for a Democrat. \" Cornell Belcher, president of Brilliant Corners Research and who was part of the Obama polling team in 2008 and 2012, told Buzzfeed News these voters are \"Obama voters.",
+            "Among the 61 percent of voters that exit polls estimate to be   Clinton scored a staggering   blowout  --   larger than Barack Obama's margin in 2008."
+        ],
+        "tf-idf score": [
+            0.4389410136887047,
+            0.47257446673745346,
+            0.6780548172416044
+        ]
+    },
+    "0.17595237316415271-3-64": {
+        "average clique similarity": 0.17595237316415271,
+        "clique": [
+            "4-But she also seemed ",
+            "0-She stressed the nee",
+            "3- She s far and away "
+        ],
+        "median tf-idf score": 0.5303844760313237,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "But she also seemed to look past her intraparty rival, taking a turn toward the general election and a prospective Republican opponent. She said after tonight her campaign was \"going national,\" and she made pointed reference to Republican   Donald Trump's campaign themes and style.",
+            "She stressed the need \"to face the reality of systemic racism\" and referenced by name the mothers of unarmed   who were killed in recent years. \"We can build ladders of opportunity and empowerment, so every single American can have that chance to live up to his or her   potential,\" she said. \"And then, then and only then can America live up to its full potential, too\". She also pivoted towards a potential general election where she would be facing Donald Trump.",
+            "\"She's far and away the most qualified, but she has some real issues,\" said Roger Blau, 70, of Columbia, who voted for Clinton. \"She's very intelligent, very qualified, very experienced. But I don't know if she'll get a lot done with a Republican congress. \""
+        ],
+        "tf-idf score": [
+            0.5148490132528506,
+            0.5303844760313237,
+            0.674587288613933
+        ]
+    },
+    "0.17626670510008247-3-88": {
+        "average clique similarity": 0.17626670510008247,
+        "clique": [
+            "1-Tuesday  over 800 de",
+            "4-In Georgia and Alaba",
+            "0-In races in Texas  G"
+        ],
+        "median tf-idf score": 1.0138695384135106,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Tuesday, over 800 delegates are at stake and we intend to win many, many of them. Thank you very much. \" Sanders spent Saturday campaigning in Texas and Minnesota, two of the Super Tuesday states he hopes to do well in after the South Carolina loss. --  Evan   The office  --      --   looks like the office of tech startup, and politically, the Democratic Party is just that.",
+            "In Georgia and Alabama,   make up more than half the Democratic electorate. In Texas, Tennessee, Virginia and Arkansas, black voters are a smaller but still pivotal fraction of the party.",
+            "In races in Texas, Georgia and Virginia, Clinton looks poised to rake in a rich delegate count, in part because of the broad support from diverse Democratic constituencies she has proven in Nevada and South Carolina."
+        ],
+        "tf-idf score": [
+            1.2198889867357432,
+            0.5203880669510113,
+            1.0138695384135106
+        ]
+    },
+    "0.17810049810123715-3-126": {
+        "average clique similarity": 0.17810049810123715,
+        "clique": [
+            "1- I hope he will clos",
+            "2-Sanders can easily a",
+            "3- He sees drastic cha"
+        ],
+        "median tf-idf score": 0.7312375102767067,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "\"I hope he will close the gap and I'll be trying to help him do that as much as I can.",
+            "Sanders can easily afford to do poorly in that long list of Southern states, but given Democrats' proportional allocation rules, he can't afford to do as poorly in Georgia, Alabama, Texas, Virginia, and Arkansas as he did in South Carolina.",
+            "\"He sees drastic change, and I don't see anybody else seeing that,\" said Amber Lee, 28, at the Sims Park neighborhood center, where voters were scarce but decidedly for Sanders. \"I see my father, and he's been a staunch Republican all his life. And Bernie is saying what he's saying, only differently. And that's what I agree with  --   let people do what they want to do and give them the means to do it."
+        ],
+        "tf-idf score": [
+            0.07009202243045558,
+            0.97445157997553,
+            0.7312375102767067
+        ]
+    },
+    "0.17810917815223282-3-316": {
+        "average clique similarity": 0.17810917815223282,
+        "clique": [
+            "2-Based on demographic",
+            "4-Clinton won by    am",
+            "1-Hillary Clinton won "
+        ],
+        "median tf-idf score": 0.7374829249243454,
+        "publications": [
+            "Vox",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "Based on demographics alone, New Hampshire should have given Sanders a   edge. He won by 22. Based on demographics alone, Nevada should have been a tie. Clinton won by 5.",
+            "Clinton won by    among   Democrats.",
+            "Hillary Clinton won Nevada in a close but decisive win  --   the product of a   organizing effort led by two Obama campaign veterans and 22   staffers, one that entailed 1, 100    meetings with constituencies ranging from Latinos and Native Americans to rural Nevadans and veterans, all by last summer, and before Sanders had even hired a single staffer in the state."
+        ],
+        "tf-idf score": [
+            0.7374829249243454,
+            0.31140400340239716,
+            1.0341603384856464
+        ]
+    },
+    "0.17887418743086744-3-103": {
+        "average clique similarity": 0.17887418743086744,
+        "clique": [
+            "1- On a given night  s",
+            "0- Despite what you he",
+            "3- And now  we come to"
+        ],
+        "median tf-idf score": 0.5653080083471337,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "\"On a given night, sometimes you win, sometimes you lose,\" Sanders said. \"Tonight we lost. \" He vowed to fight on through Super Tuesday.",
+            "\"Despite what you hear, we don't need to make America great. America has never stopped being great,\" she said. \"But we do need to make America whole again. Instead of building walls, we need to be tearing down barriers. We need to show by everything we do that we really are in this together. \" The wind is at her back now going into Super Tuesday.",
+            "\"And now, we come to Super Tuesday,\" he said, predicting a big turnout in Texas."
+        ],
+        "tf-idf score": [
+            0.6011880723475265,
+            0.5653080083471337,
+            0.2826426020708092
+        ]
+    },
+    "0.18347356604210616-3-309": {
+        "average clique similarity": 0.18347356604210616,
+        "clique": [
+            "0-Clinton s appeal to ",
+            "4-One additional facto",
+            "1-Clinton s lead among"
+        ],
+        "median tf-idf score": 0.7380007024644881,
+        "publications": [
+            "Talking Points Memo",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "Clinton's appeal to black voters was key in the state.",
+            "One additional factor is the amazing loyalty to Clinton among older black voters.",
+            "Clinton's lead among black voters in the state is expected to deliver her an easy victory as she seeks to stop Sanders' surge in the polls."
+        ],
+        "tf-idf score": [
+            0.7380007024644881,
+            0.5071591784233899,
+            1.046704021902643
+        ]
+    },
+    "0.18468668819564035-3-99": {
+        "average clique similarity": 0.18468668819564035,
+        "clique": [
+            "3-In fact  when polls ",
+            "2-What the exit polls ",
+            "0-Clinton was projecte"
+        ],
+        "median tf-idf score": 0.9610718484806433,
+        "publications": [
+            "Talking Points Memo",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In fact, when polls close in South Carolina  --   at the moment when the race might be called for Clinton  --   Sanders did not even plan to be on the ground.",
+            "What the exit polls say According to updated exit polls, Sanders did manage to score a respectable 47 percent of the white vote in the South Carolina primary.",
+            "Clinton was projected the winner of the primary by the networks just after 7 p. m. EST, when the polls closed."
+        ],
+        "tf-idf score": [
+            1.0077666824215425,
+            0.9610718484806433,
+            0.5637443094734762
+        ]
+    },
+    "0.1853810225378583-3-108": {
+        "average clique similarity": 0.1853810225378583,
+        "clique": [
+            "4-In the next few days",
+            "2-Sanders never stood ",
+            "3-He has said he is pr"
+        ],
+        "median tf-idf score": 1.0095246404759337,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "In the next few days, Sanders is expected to visit Oklahoma and Colorado, where he remains competitive on Super Tuesday, while concentrating on the more promising ground of Minnesota, Massachusetts, where he has a good chance to win, and his home state of Vermont, where he has a prohibitive lead.",
+            "Sanders never stood much of a shot in a state whose voters consist largely of African Americans and more conservative whites, with few of the white liberals who serve as his base. But even accounting for the favorable demographics, this is a good result for Clinton.",
+            "He has said he is prepared for a   battle for the Democratic nomination. But Super Tuesday could test whether voters will let Sanders go that far. He will win his home state of Vermont, of course."
+        ],
+        "tf-idf score": [
+            0.9157320245689197,
+            1.0095246404759337,
+            1.0182837839692382
+        ]
+    },
+    "0.1877600476764715-3-1": {
+        "average clique similarity": 0.1877600476764715,
+        "clique": [
+            "3-At Shandon Baptist C",
+            "1-5  of the vote to 26",
+            "0- We are going to com"
+        ],
+        "median tf-idf score": 0.8010793446173198,
+        "publications": [
+            "Buzzfeed News",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "At Shandon Baptist Church in Forest Acres, S C    Harriet Pooley had come to vote for Hillary. She said she was ready for a change in Washington. \"I voted for Hillary because I want women power, and I want the women to take over,\" Pooley said. \"The men have made a mess. It's about time we took over. \" Still, some cast their ballots for Sanders.",
+            "5% of the vote to 26% for Sanders.",
+            "\"We are going to compete for every vote, in every state. We are not taking anything, and we're not taking anyone for granted,\" she said. To South Carolina, to the volunteers at the heart of our campaign, to the supporters who power it: thank you."
+        ],
+        "tf-idf score": [
+            0.8214144657095546,
+            0.30598365189785587,
+            0.8010793446173198
+        ]
+    },
+    "0.19155379350784837-3-27": {
+        "average clique similarity": 0.19155379350784837,
+        "clique": [
+            "3-In many places  it s",
+            "0-Six in 10 Democratic",
+            "1-But the seemingly ub"
+        ],
+        "median tf-idf score": 0.9840422464376996,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "In many places, it seemed that the voters didn't need it: Black voters, seen as key to Clinton's victory here, praised her long experience in Washington. \"We've made a lot of progress in the last eight years, and Hillary is the best person out there to continue the progress,\" said Al Tucker, a    African American in Columbia.",
+            "Six in 10 Democratic primary voters were African American, according to early exit polls, the Associated Press reported.",
+            "But the seemingly ubiquitous \"I voted\" sticker was on the lapel of his jacket, too. --  Darren Sands, Polls leading up to Clinton's final victory showed the candidate was popular among black voters, who made up 60% of the voters who turned out on Saturday, according to early Associated Press exit polls."
+        ],
+        "tf-idf score": [
+            0.9840422464376996,
+            0.4499562947733395,
+            0.9894690503077715
+        ]
+    },
+    "0.1944930084093838-3-302": {
+        "average clique similarity": 0.1944930084093838,
+        "clique": [
+            "1-One third of all bla",
+            "2-Clinton is on track ",
+            "4-Most of the states v"
+        ],
+        "median tf-idf score": 0.9173392396213864,
+        "publications": [
+            "Vox",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "One third of all black primary voters said it was the most important issue to them. I am very proud of the campaign we ran and grateful for our grassroots supporters. This campaign is just beginning.",
+            "Clinton is on track to win Clinton's strength with   voters and South Carolina's large black population make it one of the most   states in the union.",
+            "Most of the states voting Tuesday are below the   Line, and Clinton was already leading in them before South Carolina."
+        ],
+        "tf-idf score": [
+            0.5975834839159047,
+            1.08501867966683,
+            0.9173392396213864
+        ]
+    },
+    "0.19506809600192668-3-149": {
+        "average clique similarity": 0.19506809600192668,
+        "clique": [
+            "0-The night of her New",
+            "4-She prevailed by mor",
+            "2-Most state Democrati"
+        ],
+        "median tf-idf score": 0.7458837166552605,
+        "publications": [
+            "Vox",
+            "Talking Points Memo",
+            "NPR"
+        ],
+        "sentences": [
+            "The night of her New Hampshire loss, her campaign even blasted out a memo stressing the importance of the primaries that come in March in effort to regain control of the narrative.",
+            "She prevailed by more than 47 percentage points in the most populous state to vote thus far, winning by more than twice the margin of her loss to Bernie Sanders in New Hampshire on Feb. 9.",
+            "Most state Democratic primaries aren't as black as South Carolina, but it is more typical of the Democratic electorate than New Hampshire, where Sanders dominated."
+        ],
+        "tf-idf score": [
+            0.3678758293107226,
+            0.7458837166552605,
+            1.024966713645192
+        ]
+    },
+    "0.20362665433461546-3-324": {
+        "average clique similarity": 0.20362665433461546,
+        "clique": [
+            "0-4 percent to 25  9 p",
+            "4-What cue will these ",
+            "2-Final results are no"
+        ],
+        "median tf-idf score": 0.9562348147195419,
+        "publications": [
+            "Talking Points Memo",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "4 percent to 25. 9 percent in the TPM PollTracker Average. Sanders, however, had a few notable endorsements from members of the   community, and particularly from figures in the Black Lives Matter movement. Nevertheless, by election night, he wasn't planning on being in South Carolina the night of the primary.",
+            "What cue will these black voters take from South Carolina, where 60 percent of the voters were   and more than 80 percent of their votes went to Clinton?",
+            "Final results are not yet in, but exit polls suggest she will secure 68 percent of the vote to Bernie Sanders's 31 percent. That 37 percentage point margin is even better than an expected victory margin of 26 percent based on RealClearPolitics'   polling average."
+        ],
+        "tf-idf score": [
+            0.977464196480147,
+            0.9562348147195419,
+            0.8132118034635756
+        ]
+    },
+    "0.2182696291980053-3-297": {
+        "average clique similarity": 0.2182696291980053,
+        "clique": [
+            "0-Sanders issued a sta",
+            "1- Let me be clear abo",
+            "4-Sanders  in perhaps "
+        ],
+        "median tf-idf score": 0.8108151902961742,
+        "publications": [
+            "Talking Points Memo",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Sanders issued a statement after the race was called congratulating Clinton on her victory, while promising, \"This campaign is just beginning\".",
+            "\"Let me be clear about one thing,\" Sanders said in a concession statement released shortly after Clinton's victory was announced. \"This campaign is just the beginning. \"",
+            "Sanders, in perhaps a symbolic moment, had issued a concession statement minutes after the polls closed from a plane flying to Minnesota and lacking a   connection. Landing in Minnesota, he learned the parameters of his defeat, and learned the Minneapolis Star Tribune had endorsed Clinton."
+        ],
+        "tf-idf score": [
+            0.8108151902961742,
+            0.8694097212494799,
+            0.766131680249455
+        ]
+    },
+    "0.22884799894739505-3-113": {
+        "average clique similarity": 0.22884799894739505,
+        "clique": [
+            "4-With every state tha",
+            "3-Instead  Sanders rec",
+            "0-pic  twitter       H"
+        ],
+        "median tf-idf score": 0.7849970165921146,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "With every state that voted in February, the contours of the 2016 presidential election changed. Iowa, New Hampshire and Nevada all transformed the landscape in both parties.",
+            "Instead, Sanders recounted the more successful parts of his upstart challenge to Clinton: his   in Iowa, his big win in New Hampshire and his      loss in Nevada.",
+            "pic. twitter. --   Hillary Clinton (@HillaryClinton) February 28, 2016,  After Sanders' landslide win in New Hampshire, which followed his strong showing in Iowa where he nearly upset Clinton, the pressure was on Clinton to stymie his momentum."
+        ],
+        "tf-idf score": [
+            0.4360213073018718,
+            0.7849970165921146,
+            0.9336575689749103
+        ]
+    },
+    "0.23819585887515113-3-16": {
+        "average clique similarity": 0.23819585887515113,
+        "clique": [
+            "1-5  of the vote ",
+            "2-Conversely  Sanders ",
+            "4-Iowa and New Hampshi"
+        ],
+        "median tf-idf score": 0.7941155617389923,
+        "publications": [
+            "Vox",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "5% of the vote.",
+            "Conversely, Sanders's shattering victory in New Hampshire took place in one of the most   states. To truly assess the state of the race, we need to assess the candidates' performance relative to the demographics of the states they've competed in, as well as the rest of the country.",
+            "Iowa and New Hampshire exert their influence primarily as magnets for the media in the months before the voting begins. South Carolina is better at predicting and triggering the vote of the states that follow  --   on the single biggest voting day of the nominating season."
+        ],
+        "tf-idf score": [
+            0.06945681719196313,
+            0.7941155617389923,
+            0.8465986879699906
+        ]
+    },
+    "0.23922068293571566-3-412": {
+        "average clique similarity": 0.23922068293571566,
+        "clique": [
+            "3-But Sanders is also ",
+            "1-But Sanders sees a c",
+            "0-Vermont will obvious"
+        ],
+        "median tf-idf score": 0.8222309377540703,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "But Sanders is also hoping for victories in such states as Oklahoma and Massachusetts, where polls show Clinton may be more beatable.",
+            "But Sanders sees a chance possibly to win five of the Super Tuesday states  --   Colorado, Massachusetts, Minnesota, Oklahoma, and Vermont.",
+            "Vermont will obviously offer Sanders a hometown advantage and the terrain is friendly for him in Massachusetts as well. He will also be betting on  Colorado, Minnesota and Oklahoma to keep him competitive with Clinton as the race goes on. Tierney Sneed is a reporter for Talking Points Memo. She previously worked for U S News and World Report."
+        ],
+        "tf-idf score": [
+            0.8222309377540703,
+            0.6561342713512051,
+            0.8379584813313308
+        ]
+    },
+    "0.28620125433399896-3-144": {
+        "average clique similarity": 0.28620125433399896,
+        "clique": [
+            "3-Alabama is one of 12",
+            "1-March 1 is the first",
+            "2-Super Tuesday will b"
+        ],
+        "median tf-idf score": 0.9006305877222889,
+        "publications": [
+            "Vox",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Alabama is one of 12 states where Democrats will vote on Super Tuesday next week, and black voters there will also be key to Clinton's success.",
+            "March 1 is the first Super Tuesday  --   when Democrats in 11 states will weigh in on the nomination fight between Bernie Sanders and Hillary Clinton.",
+            "Super Tuesday will be tough for Sanders Democrats go to the polls again on Tuesday when Vermont, Minnesota, Colorado, Massachusetts, Oklahoma, Tennessee, Virginia, Texas, Arkansas, Georgia, and Alabama will all vote."
+        ],
+        "tf-idf score": [
+            0.9006305877222889,
+            0.917548985243923,
+            0.7408451208295961
+        ]
+    },
+    "0.37296095615839153-3-159": {
+        "average clique similarity": 0.37296095615839153,
+        "clique": [
+            "4- In politics  on a g",
+            "3- You look at South C",
+            "1-    Evan    On a giv"
+        ],
+        "median tf-idf score": 0.40797565080134135,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\"In politics, on a given night, sometimes you win, sometimes you lose,\" Sanders told reporters.",
+            "\"You look at South Carolina, and we're at the bottom in anything you can think of: education, poverty.",
+            "--  Evan   \"On a given night, sometimes you win, sometimes you lose. Tonight we lost,\" Sanders said."
+        ],
+        "tf-idf score": [
+            0.40797565080134135,
+            0.37528149309853104,
+            0.5025175218766978
+        ]
+    }
+}

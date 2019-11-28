@@ -1,0 +1,210 @@
+{
+    "0.18102431133093644-3-119": {
+        "average clique similarity": 0.18102431133093644,
+        "clique": [
+            "3-Montgomery County  P",
+            "4-Each count carries f",
+            "2-Montgomery County Po"
+        ],
+        "median tf-idf score": 0.7508882689451146,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Montgomery County, Pa. prosecutors opted not to call Constand as a witness Tuesday at a hearing that provided the first detailed courtroom airing of the case against Cosby.",
+            "Each count carries five to 10 years in prison. The accuser, Andrea Constand, did not appear in court, but parts of a statement she gave in 2005 were read during Tuesday's preliminary hearing in Norristown, Pa.",
+            "Montgomery County Police Detective Katherine Hart read portions of Constand's statement aloud in court on Tuesday."
+        ],
+        "tf-idf score": [
+            0.9153813152550198,
+            0.7508882689451146,
+            0.6068796851758523
+        ]
+    },
+    "0.18688366773794565-3-13": {
+        "average clique similarity": 0.18688366773794565,
+        "clique": [
+            "4-Cosby s lawyer had a",
+            "1-The report came from",
+            "3-McMonagle  his voice"
+        ],
+        "median tf-idf score": 1.1526978960600867,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Cosby's lawyer had argued that reading the statement was hearsay and that the defense should have a right to   the accuser, Allyn says.",
+            "The report came from a civil suit brought by Constand in 2006, and Cosby's lawyers have argued that he spoke with police at the time with the understanding that his testimony would not be used against him in a criminal case. The judge dismissed that argument in February.",
+            "McMonagle, his voice rising in anger and incredulity, pushed for a   rebuttal of the prosecution's case. He pressed prosecution witnesses about Constand's statement to police that she had not had contact with Cosby after the alleged assault. \"You knew that was a lie!\""
+        ],
+        "tf-idf score": [
+            0.8385741682737569,
+            1.1526978960600867,
+            1.209032260290681
+        ]
+    },
+    "0.22190931240440492-3-130": {
+        "average clique similarity": 0.22190931240440492,
+        "clique": [
+            "2-Constand herself did",
+            "0-Constand knew Cosby ",
+            "3-Judge Elizabeth McHu"
+        ],
+        "median tf-idf score": 0.9398527288226561,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Constand herself did not appear in court. Constand, a former Temple University basketball employee, told police that Cosby drugged and sexually abused her at his home in Cheltenham Township near Philadelphia in 2004.",
+            "Constand knew Cosby through her job at Temple University in Philadelphia, and he invited her to his Cheltenham home.",
+            "Judge Elizabeth McHugh took only a few moments to reach her decision after a contentious   hearing in which Cosby's defense team aggressively sought to attack the credibility of his accuser: former Temple University women's basketball official Andrea Constand."
+        ],
+        "tf-idf score": [
+            0.9398527288226561,
+            0.6307653498374973,
+            1.084636155109805
+        ]
+    },
+    "0.22468167672672343-3-97": {
+        "average clique similarity": 0.22468167672672343,
+        "clique": [
+            "0-Constand returned to",
+            "1-The Associated Press",
+            "3-Constand also purpor"
+        ],
+        "median tf-idf score": 0.8534767849807149,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Constand returned to her parents' home in Canada three months later. Her parents noticed a change in her personality and that she had trouble sleeping. It took Constand almost a year to confide in her parents what happened, and they reported the incident to police in January 2005.",
+            "The Associated Press reported that Constand told police Cosby violated her as she:   ...     drifted in and out of consciousness soon after he gave her three blue pills in 2004.",
+            "Constand also purportedly told police in her native Canada that Cosby had assaulted her after an outing to a Chinese restaurant, rather than after a private dinner at his home. \"Stop this!\" McMonagle said in a booming voice to McHugh, urging her to dismiss the case."
+        ],
+        "tf-idf score": [
+            0.5148162781327488,
+            0.8534767849807149,
+            1.0516252204247902
+        ]
+    },
+    "0.24996376367643536-3-75": {
+        "average clique similarity": 0.24996376367643536,
+        "clique": [
+            "0-Judge unseals deposi",
+            "2-But the comedian s d",
+            "4-The parties settled "
+        ],
+        "median tf-idf score": 1.185991137463341,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Judge unseals deposition  It was the statement Cosby made in a deposition to Constand's lawyers in his lawsuit in 2005 that led Pennsylvania prosecutors to charge him in the Constand case.",
+            "But the comedian's deposition in the case was published by the New York Times in July of last year, in which Cosby detailed the extent of his relationship with Constand and admitted to giving the woman a tablet and a half of Benadryl to relieve stress, later kissing and engaging in sexual contact with her.",
+            "The parties settled in 2006. New evidence, including a deposition given by Cosby, were enough to move the case forward in Pennsylvania this year."
+        ],
+        "tf-idf score": [
+            1.185991137463341,
+            1.3321760393928366,
+            0.7205105263863181
+        ]
+    },
+    "0.2656918431350745-5-1": {
+        "average clique similarity": 0.2656918431350745,
+        "clique": [
+            "4-The statement  said ",
+            "1-She said she had tol",
+            "2-According to the sta",
+            "0-Over two visits  she",
+            "3-Instead  prosecutors"
+        ],
+        "median tf-idf score": 0.8885005952102999,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "The statement \"said that Constand felt dizzy, had blurred vision . .. after Cosby allegedly gave her pills she thought were herbal medicine,\" Allyn reports.",
+            "She said she had told Cosby she \"trusted\" him when he gave her the pills and told her it was herbal medication.",
+            "According to the statement she gave to police, Cosby allegedly gave the woman wine and two pills to \"take the edge off\" and later proceeded to sexually assault her.",
+            "Over two visits, she said, he touched her \"without warning\" and tried to unbutton her pants before she stopped him. The incidents made her uncomfortable, but she continued to trust him because of who he was, the affidavit said. In another visit he gave her a mix of pills and wine that left her feeling \"frozen\" and \"paralyzed\" as he fondled her body and placed his hand on his genitals, the affidavit said. She woke up the next morning in his home with her sweater bunched up and her bra undone, the affidavit says.",
+            "Instead, prosecutors relied heavily on an interview that police conducted with Constand in January 2005, about a year after she says Cosby gave her pills at his estate that made her so woozy that her legs went \"rubbery\" and she experienced \"blurred vision. \""
+        ],
+        "tf-idf score": [
+            0.9597912776434963,
+            0.7193031565608561,
+            0.8885005952102999,
+            0.5715971135126426,
+            1.0017255129737521
+        ]
+    },
+    "0.3458095962639267-4-28": {
+        "average clique similarity": 0.3458095962639267,
+        "clique": [
+            "1-   I want to receive",
+            "3-  NORRISTOWN  Pa    ",
+            "4-A judge in Pennsylva",
+            "2-A Pennsylvania judge"
+        ],
+        "median tf-idf score": 1.0146047595090555,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Breitbart",
+            "Atlantic"
+        ],
+        "sentences": [
+            "   I want to receive updates from partners and sponsors. A judge ruled Tuesday that Bill Cosby's trial on charges of sexual assault can go forward despite his lawyers' attempts to have the charges against the entertainer dismissed.",
+            "  NORRISTOWN, Pa.  --   A judge on Tuesday ordered Bill Cosby to stand trial in a sexual assault case, clearing the way for a momentous showdown between the iconic comedian and prosecutors.",
+            "A judge in Pennsylvania ruled Tuesday that there is sufficient evidence for a sexual assault case against comedian Bill Cosby to move to trial.",
+            "A Pennsylvania judge on Tuesday ordered comedian Bill Cosby to stand trial for the alleged sexual assault of a woman in 2004."
+        ],
+        "tf-idf score": [
+            1.0449825519555835,
+            1.0513853496165946,
+            0.9842269670625273,
+            0.9553959746722986
+        ]
+    },
+    "0.37901296030581766-4-86": {
+        "average clique similarity": 0.37901296030581766,
+        "clique": [
+            "4-The arraignment is s",
+            "2- According to CNN  M",
+            "3-The hearing was held",
+            "1-Cosby has been accus"
+        ],
+        "median tf-idf score": 1.231216846146011,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The arraignment is set for July, Bobby Allyn of member station WHYY reports. Cosby, who has been accused by dozens of women of sexual assault, has been charged with three counts of aggravated indecent assault in the case, which involves a former Temple University employee who says Cosby assaulted her in his home in 2004.",
+            "[According to CNN, Montgomery County Magistrate Judge Elizabeth McHugh ruled that enough evidence existed in the case to charge Cosby with three counts of felony indecent assault over charges brought by Andrea Constand, the first of dozens of women who have since accused the comedian of sexual assault and rape.",
+            "The hearing was held to determine whether there is enough evidence for a trial to be scheduled on charges of aggravated indecent assault against Cosby, who has been accused of sexual assault by at least 58 women but is facing criminal charges only here in Pennsylvania.",
+            "Cosby has been accused of sexual assault by dozens of women, but as of now, Constand's is the only case in which he faces criminal charges."
+        ],
+        "tf-idf score": [
+            1.3004543586486095,
+            1.5066500111565115,
+            1.1619793336434125,
+            1.0879773314172738
+        ]
+    }
+}

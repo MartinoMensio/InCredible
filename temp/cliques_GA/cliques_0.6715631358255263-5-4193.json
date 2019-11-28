@@ -1,0 +1,606 @@
+{
+    "0.13945026396008778-3-65": {
+        "average clique similarity": 0.13945026396008778,
+        "clique": [
+            "0-The continuing refra",
+            "3-Former Justice Depar",
+            "4-Fox New s Bill Hemme"
+        ],
+        "median tf-idf score": 1.152436610059415,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The continuing refrain from Hillary Clinton supporters and other observers that FBI Director James B Comey's action was \"contrary\" to Justice Department policy is flatly wrong.",
+            "Former Justice Department official Carrie Cordero said Comey's disclosure was necessary after Lynch's meeting with Bill Clinton on an airplane this summer fueled distrust of the impartiality of the Justice Department and the FBI How are members of Congress reacting?",
+            "Fox New's Bill Hemmer reported that Karl Rove, the former Bush strategist, said Comey was \"wrong in July and was wrong on Friday. \""
+        ],
+        "tf-idf score": [
+            1.152436610059415,
+            1.2142261288018956,
+            0.7824489951124135
+        ]
+    },
+    "0.14248573090327818-3-352": {
+        "average clique similarity": 0.14248573090327818,
+        "clique": [
+            "1- The justice departm",
+            "3-Two law enforcement ",
+            "4-Several outlets have"
+        ],
+        "median tf-idf score": 0.6806910483501567,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "\"The justice department has had a longstanding tradition of not interfering with elections. \"",
+            "Two law enforcement sources also told Johnson that the Department of Justice has no foreseeable plans to talk publicly about the Clinton emails. But that is not satisfying some Democrats.",
+            "Several outlets have reported that Comey broke with Department of Justice policies, and that DOJ officials counseled him not to send the letter, but did not attempt to actually stop him."
+        ],
+        "tf-idf score": [
+            0.3610621006654386,
+            0.7685285163058378,
+            0.6806910483501567
+        ]
+    },
+    "0.14884919364023763-3-240": {
+        "average clique similarity": 0.14884919364023763,
+        "clique": [
+            "1- We re calling on Mr",
+            "3-A source also said t",
+            "4-Comey infuriated Rep"
+        ],
+        "median tf-idf score": 0.5054482559758176,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "\"We're calling on Mr Comey to come forward and explain what's at issue here,\" he said. \"It may not even be about her server. It may not be about her at all. \"",
+            "A source also said that the material would have to contain something extraordinary to change the original determination not to bring any charges against Clinton or her associates. Here's what else we've learned  --   or are still asking about  --   since Friday's announcement.",
+            "Comey infuriated Republicans by not recommending charges against Clinton in July, and some who are enjoying Clinton's struggles may, as a result, be less likely to leap to Comey's defense."
+        ],
+        "tf-idf score": [
+            0.49217148947660583,
+            0.5054482559758176,
+            0.6272737744948961
+        ]
+    },
+    "0.1585164227761414-3-354": {
+        "average clique similarity": 0.1585164227761414,
+        "clique": [
+            "1-He added that Comey ",
+            "0-While I do not agree",
+            "4-On Friday afternoon "
+        ],
+        "median tf-idf score": 0.7046816206649832,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He added that Comey had \"said himself, in his letter to the hill, that these emails may not be significant\".",
+            "While I do not agree with everything done and said over the summer in connection with the email investigation, I think that, last week, Comey had no choice but to issue the statement he did. Indeed, it would have violated policy had he not done so.",
+            "On Friday afternoon, Benjamin Wittes wrote a   piece at Lawfare arguing that Comey was in a bind and had no choice but to inform Congress, even at the risk of thrusting himself into the midst of the presidential race's final week."
+        ],
+        "tf-idf score": [
+            0.6825105237305791,
+            0.9004126402579591,
+            0.7046816206649832
+        ]
+    },
+    "0.17166106556063077-3-78": {
+        "average clique similarity": 0.17166106556063077,
+        "clique": [
+            "1-John Podesta  Clinto",
+            "4- It was probably inc",
+            "3-So he might have tak"
+        ],
+        "median tf-idf score": 0.6017169949135854,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "John Podesta, Clinton's campaign chairman, and Clinton's running mate, Tim Kaine, assailed Comey for defying convention with so few details so close to election day.",
+            "\"It was probably inconsistent with protocol, so in that sense, you have to question the decision,\" he said.",
+            "So he might have taken the first step of actually having looked at them before he did this in the middle of a presidential campaign so close to the voting\". Donald Trump has been using the new developments to emphasize his stance that Clinton is corrupt."
+        ],
+        "tf-idf score": [
+            0.8078471389590655,
+            0.4020172373533796,
+            0.6017169949135854
+        ]
+    },
+    "0.1728782879926105-3-90": {
+        "average clique similarity": 0.1728782879926105,
+        "clique": [
+            "1-Comey s letter was r",
+            "0-That is true  but in",
+            "3-In this case  NPR ha"
+        ],
+        "median tf-idf score": 0.6940653811974788,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Comey's letter was reportedly sent against the advice of top justice department officials, including the attorney general, Loretta Lynch, and he admitted in a leaked memo to FBI staff that it was a break from policy and precedent to announce a review.",
+            "That is true, but in this case it does not appear that Comey was usurping power so much as receiving a punt from the Justice Department.",
+            "In this case, NPR has confirmed that Comey went against Attorney General Loretta Lynch's recommendation by releasing the new information."
+        ],
+        "tf-idf score": [
+            1.1179262447453544,
+            0.6727873834480105,
+            0.6940653811974788
+        ]
+    },
+    "0.17600149578069077-3-235": {
+        "average clique similarity": 0.17600149578069077,
+        "clique": [
+            "1- Had he sat on the i",
+            "2-Prosecutors issued a",
+            "3-Zeidenberg  who is s"
+        ],
+        "median tf-idf score": 0.8787598598552346,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "\"Had he sat on the information,\" she said, \"one could argue that he also would have been interfering with the election, by not disclosing to the public that yet again, for the second time this year, Hillary Clinton is under FBI investigation for something of her own doing.",
+            "Prosecutors issued a subpoena for   Weiner's cellphone and other records in late September amid   allegations that he had been sexting with a    girl. \" '   \"There''s no evidence of wrongdoing, no charge of wrongdoing, no   indication that this is even about Hillary,\" Podesta said. \"It''s   hard to see how this amounts to anything and we''re not going to   be distracted, and Hillary is not going to be distracted in the   final days of this election, over nothing\". '",
+            "Zeidenberg, who is supporting Clinton in this election, said it would have made more sense for Comey to review the emails first to see if any information in them was relevant to the investigation, and then make an announcement  --   even if it happened after Election Day."
+        ],
+        "tf-idf score": [
+            0.8787598598552346,
+            0.6609428974354249,
+            1.3635209546092004
+        ]
+    },
+    "0.19089205040461923-3-385": {
+        "average clique similarity": 0.19089205040461923,
+        "clique": [
+            "3-Comey has spoken to ",
+            "0-That is all that Com",
+            "2-    Podesta suggeste"
+        ],
+        "median tf-idf score": 0.6956185327820182,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Comey has spoken to members of Congress about the review of the new emails.",
+            "That is all that Comey's letter says  --   that the FBI now has to review more emails before it can say it has completed the investigation.",
+            "'   Podesta suggested that the emails the FBI has could be duplicates   of ones Clinton has already released. '"
+        ],
+        "tf-idf score": [
+            0.6956185327820182,
+            0.9737124184616512,
+            0.6858651111509055
+        ]
+    },
+    "0.19145560486779478-3-218": {
+        "average clique similarity": 0.19145560486779478,
+        "clique": [
+            "0-The FBI pushed ahead",
+            "1-In July  Comey annou",
+            "4-First  there s no cl"
+        ],
+        "median tf-idf score": 0.8754194286767936,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "The FBI pushed ahead, and in July, Comey announced that the matter had been thoroughly investigated and that he would not recommend prosecution.",
+            "In July, Comey announced that the FBI had found no intentional or criminal wrongdoing in Clinton's use of a private server while secretary of state, although he called her practices \"extremely careless\".",
+            "First, there's no clear figure on how many emails there are, no idea whether there are new emails not previously reviewed, and no sense (at least publicly) of how likely it is that there's anything that would change Comey's pronouncement in July that he did not recommend charges against Clinton for her use of a private email server and address."
+        ],
+        "tf-idf score": [
+            0.5778207597362631,
+            0.8754194286767936,
+            0.9562249536777292
+        ]
+    },
+    "0.1994328845269463-3-215": {
+        "average clique similarity": 0.1994328845269463,
+        "clique": [
+            "3-It s unprecedented  ",
+            "1-In a brief letter to",
+            "0-To the extent this s"
+        ],
+        "median tf-idf score": 0.9360629209424183,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It's unprecedented, and it is deeply troubling\". Clinton, who said her campaign found out through the media, also said that Comey \"doesn't know whether the emails referenced in his letter are significant or not\".",
+            "In a brief letter to congressional leaders on Friday, 11 days before the election, Comey said he did not yet know whether the newly discovered emails were pertinent or significant.",
+            "To the extent this step might affect the election, its effect arises from correcting a previous erroneous statement  --   in other words, from truthfulness. Much is being made of the point that Comey does not know whether the new trove of emails is significant. That misses the point."
+        ],
+        "tf-idf score": [
+            0.9678050864651435,
+            0.9360629209424183,
+            0.8521963623082016
+        ]
+    },
+    "0.20056818042337202-3-184": {
+        "average clique similarity": 0.20056818042337202,
+        "clique": [
+            "0-Disclosing these fac",
+            "2- And no one can sepa",
+            "3-What s in the emails"
+        ],
+        "median tf-idf score": 0.46217834581168193,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "Disclosing these facts did not run afoul of the policy against commenting on investigations while they are underway. There is nothing wrong with conveying such facts; in cases of overriding public interest, it is done all the time, as for example in the House banking scandal and the     matter during the 1992 election. But once the new emails were discovered, these statements could not stand.",
+            "\"And no one can separate what is   true from what is not because Comey has not been forthcoming with   the facts.",
+            "What's in the emails?"
+        ],
+        "tf-idf score": [
+            0.8713171272072493,
+            0.46217834581168193,
+            0.16710101865309124
+        ]
+    },
+    "0.20193716003530368-3-86": {
+        "average clique similarity": 0.20193716003530368,
+        "clique": [
+            "2-He  that he felt an ",
+            "1-He was a Republican ",
+            "0-In any event  this c"
+        ],
+        "median tf-idf score": 0.5561524547836524,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He  that he felt an   \"obligation\" to tell Congress about the investigation because he   \"testified repeatedly in recent months that our investigation was   completed\". ' '   Podesta blasted the decision. '",
+            "He was a Republican for most of his career, though he told Congress in July that he is no longer registered with the party. Earlier on Sunday, top officials in Clinton and Trump's campaigns dueled over the new review.",
+            "In any event, this criticism is irrelevant to whether he was right to inform Congress that his earlier statement that the investigation was complete was not true."
+        ],
+        "tf-idf score": [
+            0.5561524547836524,
+            0.8538230275116838,
+            0.49984209074944896
+        ]
+    },
+    "0.2033872321758461-3-181": {
+        "average clique similarity": 0.2033872321758461,
+        "clique": [
+            "3-Senate Democratic le",
+            "4-Through your partisa",
+            "1-On Sunday  Reid went"
+        ],
+        "median tf-idf score": 0.8073646615160032,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Senate Democratic leader Harry Reid blasted Comey in a letter on Sunday, suggesting he may have broken the law with his announcement (more on that debate below) and calling his character into question.",
+            "Through your partisan actions, you may have broken the law. \" Reid also alleged, without offering any substantiation, that Comey was withholding information about ties between Donald Trump's campaign and the Russian government.",
+            "On Sunday, Reid went on, without citing evidence, to accuse Comey of withholding information about the FBI's investigation into hacks on Democratic organizations, allegedly by Russian security services, and possible links with various former advisers to Donald Trump."
+        ],
+        "tf-idf score": [
+            0.6651838245652131,
+            0.8073646615160032,
+            0.9084423244684156
+        ]
+    },
+    "0.20564814187147396-3-25": {
+        "average clique similarity": 0.20564814187147396,
+        "clique": [
+            "2-     Director Comey ",
+            "4-Other Republicans ha",
+            "3-When Comey sent the "
+        ],
+        "median tf-idf score": 0.8555982436860162,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "'   \"Director Comey was the one who wrote a letter that was light on   facts, heavy on innuendo, knowing full well what Republicans in   Congress would do with it,\" he said.",
+            "Other Republicans have argued that Comey made the wrong decision in July when he recommended against charges for Clinton, but that his letter on Friday was misguided as well, sometimes for the same reasons.",
+            "When Comey sent the letter to congressional committee chairs on Friday, he also sent a message to his employees that sheds light on his decision."
+        ],
+        "tf-idf score": [
+            0.8555982436860162,
+            0.9273957710183324,
+            0.5262529466216916
+        ]
+    },
+    "0.20948607573914949-3-227": {
+        "average clique similarity": 0.20948607573914949,
+        "clique": [
+            "1- This is a distracti",
+            "4-Holder argues that C",
+            "0-The claim that Comey"
+        ],
+        "median tf-idf score": 0.5858249925751734,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"This is a distraction,\" Kaine told ABC Like Reid, Kaine suggested that Comey had acted outside the bounds of his office, saying the letter was \"in violation of normal justice department protocol, and it involves talking about an ongoing investigation, which also violated protocol.",
+            "Holder argues that Comey violated protocol.",
+            "The claim that Comey's actions violated a Justice Department policy is just wrong."
+        ],
+        "tf-idf score": [
+            1.0932145318951607,
+            0.356345942498839,
+            0.5858249925751734
+        ]
+    },
+    "0.21878482836735844-3-200": {
+        "average clique similarity": 0.21878482836735844,
+        "clique": [
+            "1- And yet  you contin",
+            "3-They encouraged the ",
+            "0-Finally  it must be "
+        ],
+        "median tf-idf score": 0.685567728743526,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"And yet, you continue to resist calls to inform the public of this critical information. \"By contrast, as soon as you came into possession of the slightest innuendo related to Secretary Clinton, you rushed to publicize it in the most negative light possible. \"",
+            "They encouraged the FBI director to release more information as soon as possible, but said Comey didn't commit to release more information.",
+            "Finally, it must be remembered that this whole situation could have been avoided if those in the Clinton camp had provided all pertinent information to the FBI to begin with. They were looking for early resolution of the matter, and it was in their interest to be as thorough as possible in supplying information to the government. Whether through an innocent oversight or not, they failed to do this."
+        ],
+        "tf-idf score": [
+            0.46231276782442376,
+            0.685567728743526,
+            0.750986246511478
+        ]
+    },
+    "0.21927971446161418-3-197": {
+        "average clique similarity": 0.21927971446161418,
+        "clique": [
+            "1-The FBI has acquired",
+            "0-If the FBI remained ",
+            "2-         Hillary Cli"
+        ],
+        "median tf-idf score": 0.9538895041324865,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The FBI has acquired a warrant to investigate emails found on a laptop used by an aide to Hillary Clinton as part of its investigation into the Democratic presidential nominee's use of a private email server.",
+            "If the FBI remained silent about the newly discovered incompleteness of its earlier investigation, it would be deliberately leaving uncorrected a misleading statement being used by the Clinton campaign to its political advantage.",
+            "'  ' \"   Hillary Clinton and some of her campaign's top   officials blasted FBI Director James Comey on Saturday   afternoon over his decision to  that the   bureau had reopened its investigation into Clinton's private   email server. \""
+        ],
+        "tf-idf score": [
+            0.9538895041324865,
+            0.7253782936370501,
+            1.2485701784765415
+        ]
+    },
+    "0.2202272273963374-3-51": {
+        "average clique similarity": 0.2202272273963374,
+        "clique": [
+            "2-    Comey announced ",
+            "1-The letter obtained ",
+            "4-On Friday  Comey sen"
+        ],
+        "median tf-idf score": 1.262675606726068,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "'   Comey announced that the FBI is now reviewing new documents it   said were \"pertinent\" to the Clinton email investigation.",
+            "The letter obtained on Sunday by the Associated Press said Comey broke from justice department policy when he alerted Congress to the new discovery of emails potentially related to the Clinton email investigation. That policy is meant to prevent the appearance of prosecutors affecting the electoral process.",
+            "On Friday, Comey sent a letter to the Republican chairs of committees relevant to the investigation into Hillary Clinton's emails, saying that the FBI had discovered new, pertinent emails."
+        ],
+        "tf-idf score": [
+            1.1579594027789037,
+            1.4456635088343173,
+            1.262675606726068
+        ]
+    },
+    "0.2252073889114593-3-385": {
+        "average clique similarity": 0.2252073889114593,
+        "clique": [
+            "2-    The Clinton camp",
+            "4-Coming with several ",
+            "3-Clinton has urged th"
+        ],
+        "median tf-idf score": 0.7849576138929641,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "'   The Clinton campaign called on Comey to release more information   on what the FBI has. '",
+            "Coming with several polls showing a slightly tighter race, it suddenly looked like the Clinton campaign might be falling apart at the seams, and that Trump had a renewed chance. Since then, the public has learned more about the emails in question, complicating the picture.",
+            "Clinton has urged the FBI to release more information and explain the facts."
+        ],
+        "tf-idf score": [
+            0.8810280500099675,
+            0.7849576138929641,
+            0.5606929941228082
+        ]
+    },
+    "0.23094880119182934-4-19": {
+        "average clique similarity": 0.23094880119182934,
+        "clique": [
+            "2-    The emails were ",
+            "0-It appears that thou",
+            "3-In addition to the F",
+            "4-Adding to the diffic"
+        ],
+        "median tf-idf score": 0.7404080118620694,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "\"   The emails were uncovered after the FBI seized devices belonging   to Huma Abedin and her husband, former congressman Anthony   Weiner, reports said.",
+            "It appears that thousands of emails exist on a computer  belonging to former congressman Anthony Weiner and Clinton aide Huma Abedin that had not been turned over during the investigation.",
+            "In addition to the FBI obtaining a warrant to search the emails, a broader question of whether the FBI had the authority to look into emails related to the Clinton investigation while investigating Anthony Weiner has been raised.",
+            "Adding to the difficulty, much of the new information has emerged in anonymous leaks to a range of outlets, producing a sometimes contradictory image. It's been reported that the emails in question were turned up during an investigation into former Representative Anthony Weiner for allegedly sexting a North Carolina   ."
+        ],
+        "tf-idf score": [
+            0.6324713440074481,
+            0.7114000162818845,
+            0.9246352905827562,
+            0.7694160074422542
+        ]
+    },
+    "0.24734799346688385-3-283": {
+        "average clique similarity": 0.24734799346688385,
+        "clique": [
+            "1-The former attorney ",
+            "4-What does it take to",
+            "3-Former Attorney Gene"
+        ],
+        "median tf-idf score": 0.5302952222872546,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "The former attorney general Eric Holder joined dozens of former federal prosecutors in signing a letter critical of Comey.",
+            "What does it take to unite former Obama Attorney General Eric Holder, former Bush Attorney General Alberto Gonzales, liberal columnist Paul Krugman, and   former Tea Party Representative Joe Walsh? In today's polarized times, it should be practically impossible --  but FBI Director James Comey has managed to pull it off.",
+            "Former Attorney General Alberto Gonzales told NPR's Michel Martin he was \"mystified\" with the development."
+        ],
+        "tf-idf score": [
+            0.5302952222872546,
+            0.8996959260045659,
+            0.3807386290585463
+        ]
+    },
+    "0.3403423926887895-3-385": {
+        "average clique similarity": 0.3403423926887895,
+        "clique": [
+            "3-How were these email",
+            "4-Weiner s estranged w",
+            "1-The emails belong to"
+        ],
+        "median tf-idf score": 0.735518106442777,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "How were these emails discovered? The new emails were discovered through a criminal investigation of former New York Rep. Anthony Weiner, the estranged husband of top Clinton aide Huma Abedin. Weiner allegedly sent illicit text messages to an underage girl.",
+            "Weiner's estranged wife is top Clinton aide Huma Abedin, and apparently the emails in question were on a shared laptop.",
+            "The emails belong to Huma Abedin, a longtime Clinton aide, and were found during an investigation into Abedin's estranged husband, Anthony Weiner, over allegations that he sent sexual messages to an underage girl."
+        ],
+        "tf-idf score": [
+            0.8727560524828203,
+            0.5478259643509579,
+            0.735518106442777
+        ]
+    },
+    "0.37840502871534315-3-266": {
+        "average clique similarity": 0.37840502871534315,
+        "clique": [
+            "1- My office has deter",
+            "4-But it s not just De",
+            "3-And a complaint from"
+        ],
+        "median tf-idf score": 0.7365679079101108,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"My office has determined that these actions may violate the Hatch Act, which bars FBI officials from using their official authority to influence an election.",
+            "But it's not just Democrats. Richard Painter, who served as chief White House ethics lawyer under President George W Bush, argued in a New York Times column and in a formal complaint on Saturday that Comey had violated the Hatch Act, which bars federal employees from using their authority to interfere with elections.",
+            "And a complaint from Richard Painter, a former White House ethics lawyer in the Bush administration, has been filed against Comey alleging he violated the 1993 Hatch Act, which bars government officials from using their positions to influence elections."
+        ],
+        "tf-idf score": [
+            0.5454222010370604,
+            0.7818666893371904,
+            0.7365679079101108
+        ]
+    },
+    "0.39106084136256564-3-118": {
+        "average clique similarity": 0.39106084136256564,
+        "clique": [
+            "3-Senate Minority Lead",
+            "1-The move came as sen",
+            "4-In a letter to Comey"
+        ],
+        "median tf-idf score": 0.7133317210648694,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Senate Minority Leader Harry Reid made the same suggestion in a letter to Comey on Sunday.",
+            "The move came as senior Senate Democrats made an extraordinary attack on the head of the FBI, James Comey, on Sunday over the new investigation, with the Senate minority leader, Harry Reid, warning he may have broken the law.",
+            "In a letter to Comey, Senate Minority Leader Harry Reid wrote, \"I am writing to inform you that my office has determined that these actions may violate the Hatch Act."
+        ],
+        "tf-idf score": [
+            0.49550921510442175,
+            0.8959801608216575,
+            0.7133317210648694
+        ]
+    },
+    "0.7058999686851495-3-32": {
+        "average clique similarity": 0.7058999686851495,
+        "clique": [
+            "4- It s pretty strange",
+            "3- It s pretty strange",
+            "1- It s pretty strange"
+        ],
+        "median tf-idf score": 0.6000699735436178,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"It's pretty strange to put something like that out with such little information right before an election,\" Clinton said on the trail in Florida on Saturday. \"In fact, it's not just strange it's unprecedented and it is deeply troubling. \" Other Democrats were much less measured.",
+            "\"It's pretty strange to put something like that out with such little information right before an election,\" Clinton said at a Florida rally on Saturday. \"It's not just strange.",
+            "\"It's pretty strange to put something like that out with such little information just days before an election,\" she said."
+        ],
+        "tf-idf score": [
+            0.706690046342464,
+            0.6000699735436178,
+            0.3820385121700852
+        ]
+    }
+}

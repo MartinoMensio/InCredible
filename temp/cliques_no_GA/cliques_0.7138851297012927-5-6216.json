@@ -1,0 +1,822 @@
+{
+    "0.1464207450996928-3-46": {
+        "average clique similarity": 0.1464207450996928,
+        "clique": [
+            "3-The medical literatu",
+            "0-Dallas   affiliate W",
+            "4-The issue came up ag"
+        ],
+        "median tf-idf score": 0.6453610273058499,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Reuters"
+        ],
+        "sentences": [
+            "The medical literature also has one case in which the virus was detected in semen.",
+            "Dallas   affiliate WFAA 8 reported that while scientists continue to study if the virus was transmitted through blood or semen, the findings of this research could result in \u201ctwo very different things.",
+            "The issue came up again in 2013 when doctors in French Polynesia isolated a high concentration of actively replicating virus in a    man\u2019s semen and concluded that \u201cthis observation supports the possibility that [Zika virus] could be transmitted sexually."
+        ],
+        "tf-idf score": [
+            0.6091749291704185,
+            0.6453610273058499,
+            0.8347813909221464
+        ]
+    },
+    "0.15125916632886796-3-629": {
+        "average clique similarity": 0.15125916632886796,
+        "clique": [
+            "2-If that is confirmed",
+            "0-Incidences increased",
+            "3-Brazil is the countr"
+        ],
+        "median tf-idf score": 0.7136812663559245,
+        "publications": [
+            "Breitbart",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "If that is confirmed, it would mean the virus linked to an outbreak of severe birth defects in Brazil is being spread by mosquitoes in Jamaica.",
+            "Incidences increased during Brazil\u2019s 2015 Zika virus outbreak.",
+            "Brazil is the country hardest hit by Zika."
+        ],
+        "tf-idf score": [
+            0.722733821007002,
+            0.7136812663559245,
+            0.4333476474122097
+        ]
+    },
+    "0.15261107207507063-3-189": {
+        "average clique similarity": 0.15261107207507063,
+        "clique": [
+            "4-Several days after t",
+            "0-The most common symp",
+            "1-Meanwhile  a minorit"
+        ],
+        "median tf-idf score": 0.4549214185052924,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Several days after that, the man became symptomatic, experiencing swollen ankles, a rash on his torso and extreme fatigue and headache, but no fever, according to a description published in the journal Emerging Infectious Diseases.",
+            "The most common symptoms from Zika virus are fever, rash, joint pain, and conjunctivitis (pink eye) that can last from several days to a week.",
+            "Meanwhile, a minority of Zika patients  \u2014   roughly 20 percent  \u2014   show relatively minor symptoms: a   fever, sore body, and headache, as well as red eyes and a body rash."
+        ],
+        "tf-idf score": [
+            0.2205039043734232,
+            0.7674572954499957,
+            0.4549214185052924
+        ]
+    },
+    "0.17134978921357338-3-365": {
+        "average clique similarity": 0.17134978921357338,
+        "clique": [
+            "0-However  those consi",
+            "4-Until more is known ",
+            "2-   Dan Vergano   The"
+        ],
+        "median tf-idf score": 1.0240556339944769,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "However, those considered most at risk from Zika virus remain pregnant women and women trying to conceive because of the suspected link to serious birth defects, most notably, microcephaly, a condition where babies are born with small heads and deformed brains.",
+            "Until more is known, the agency said, the CDC continues to recommend that women and women trying to become pregnant postpone travel to the areas where Zika virus transmission is ongoing.",
+            "\u2014  Dan Vergano, \u201cThe risk, which I would say is serious, is for pregnant women,\u201d Jaques Wagner, chief of staff to President Dilma Rousseff, told reporters on Monday."
+        ],
+        "tf-idf score": [
+            1.0240556339944769,
+            1.0671183006111795,
+            0.298800431838346
+        ]
+    },
+    "0.1735480951206961-3-335": {
+        "average clique similarity": 0.1735480951206961,
+        "clique": [
+            "3-The virus  linked to",
+            "1-Zika virus does not ",
+            "2-The tropical virus i"
+        ],
+        "median tf-idf score": 0.693686766773931,
+        "publications": [
+            "Vox",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "The virus, linked to severe birth defects in thousands of babies in Brazil, is spreading rapidly in the Americas, and WHO officials on Tuesday expressed concern that it could hit Africa and Asia as well.",
+            "Zika virus does not seem to pose a risk of birth defects for future pregnancies.",
+            "The tropical virus is spread by mosquitoes and scientists are investigating its link to an epidemic of birth defects in Brazil."
+        ],
+        "tf-idf score": [
+            0.693686766773931,
+            0.7289925863636036,
+            0.6153686078108206
+        ]
+    },
+    "0.1771624742858914-3-1": {
+        "average clique similarity": 0.1771624742858914,
+        "clique": [
+            "1-6  How can we stop m",
+            "3- Most important  we ",
+            "4- We do not have defi"
+        ],
+        "median tf-idf score": 0.3736151076794054,
+        "publications": [
+            "Vox",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "6) How can we stop more Zika outbreaks?",
+            "\u201dMost important, we need to set up surveillance sites in   and   countries so that we can detect any change in the reporting patterns of microcephaly at an early stage,\u201d Dr Anthony Costello said in Geneva.",
+            "\u201dWe do not have definitive information on the infectious time period, and will provide more guidance for individuals and clinicians as we learn more,\u201d the agency said."
+        ],
+        "tf-idf score": [
+            0.3736151076794054,
+            0.400605130452313,
+            0.285143900104386
+        ]
+    },
+    "0.1776507073684109-3-653": {
+        "average clique similarity": 0.1776507073684109,
+        "clique": [
+            "3-However  the risk of",
+            "4-Tuesday s case marks",
+            "1-This is a worry beca"
+        ],
+        "median tf-idf score": 0.6155723173070252,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "However, the risk of transmitting the virus through blood donations remained \u201dextremely\u201d low in the continental United States, the disaster relief agency said.",
+            "Tuesday\u2019s case marks the first report in the current outbreak of someone being infected without leaving the United States, health officials said.",
+            "This is a worry because the Aedes albopictus has a much larger range in the United States, reaching at least 32 states."
+        ],
+        "tf-idf score": [
+            0.6155723173070252,
+            0.6722363258365062,
+            0.21549117250864827
+        ]
+    },
+    "0.1780662391519824-3-370": {
+        "average clique similarity": 0.1780662391519824,
+        "clique": [
+            "1-In some places in La",
+            "4- Or is it like Ebola",
+            "3-Experts have said a "
+        ],
+        "median tf-idf score": 0.5308063114236526,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In some places in Latin America, women are being told to avoid having children for months or even years because of Zika.",
+            "\u201cOr is it like Ebola, which we know can remain in semen for several months?",
+            "Experts have said a Zika vaccine for widespread use is months if not years away."
+        ],
+        "tf-idf score": [
+            0.5308063114236526,
+            0.11866798205343884,
+            0.6212306153535571
+        ]
+    },
+    "0.1846348369966421-3-33": {
+        "average clique similarity": 0.1846348369966421,
+        "clique": [
+            "4-In this instance the",
+            "1-If you d like to get",
+            "2- We have to explain "
+        ],
+        "median tf-idf score": 0.33256981546488185,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "In this instance there was no risk to a developing fetus,\u201d the CDC statement said.",
+            "If you\u2019d like to get pregnant in the more distant future, however, there appears to be no need to worry.",
+            "\u201cWe have to explain to those coming to Brazil, the athletes, that there is zero risk if you are not a pregnant woman,\u201d Wagner said."
+        ],
+        "tf-idf score": [
+            0.33256981546488185,
+            0.11126589272045057,
+            0.3823281237097884
+        ]
+    },
+    "0.18647002449299374-3-221": {
+        "average clique similarity": 0.18647002449299374,
+        "clique": [
+            "4-The action  which th",
+            "3-MONITORING NEEDED Th",
+            "1-That means people li"
+        ],
+        "median tf-idf score": 0.5256342192121207,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "The action, which the international body has taken only three times before, paves the way for the mobilization of more funding and manpower to fight the   pathogen spreading \u201dexplosively\u201d through the Americas.",
+            "MONITORING NEEDED The WHO has said the virus could infect 4 million people in the Americas.",
+            "That means people living in the Americas are susceptible to the virus, since nobody has built up the antibodies from previous infections to fight it off."
+        ],
+        "tf-idf score": [
+            0.2726618847712321,
+            0.6154814519096075,
+            0.5256342192121207
+        ]
+    },
+    "0.19201111578027374-3-294": {
+        "average clique similarity": 0.19201111578027374,
+        "clique": [
+            "0-While there are no r",
+            "2-The WHO has cautione",
+            "1-One of the things th"
+        ],
+        "median tf-idf score": 0.9448760977202723,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "While there are no reports of the virus being spread by local mosquitoes, this kind of transmission is possible now that Zika virus is in Texas.",
+            "The WHO has cautioned that while there was no definitive proof that the Zika virus is responsible for the birth defects, such as abnormally small heads, but   Dr Margaret Chan said last week that \u201cthe level of alarm is extremely high.",
+            "One of the things that makes Zika very difficult to track is the fact that in the vast majority of cases, it causes no symptoms at all."
+        ],
+        "tf-idf score": [
+            0.9448760977202723,
+            1.1442679847732178,
+            0.5034028505916418
+        ]
+    },
+    "0.1924487106798206-3-653": {
+        "average clique similarity": 0.1924487106798206,
+        "clique": [
+            "2-The disease is large",
+            "1-Finally  there is ne",
+            "4- Graphic  What you n"
+        ],
+        "median tf-idf score": 0.808580374023514,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The disease is largely spread through mosquitoes, but the confirmation of sexual transmission adds a new dimension to the outbreak.",
+            "Finally, there is new, but very limited, research out of Brazil suggesting the virus can live in saliva and urine samples of people infected with Zika.",
+            "[Graphic: What you need to know about Zika]   The case adds a troubling new dimension to a   disease that is spreading explosively in the Americas and is suspected of being linked to hundreds and perhaps thousands of cases of babies with brain damage in Brazil."
+        ],
+        "tf-idf score": [
+            0.47716272304930935,
+            0.8117908503822169,
+            0.808580374023514
+        ]
+    },
+    "0.19331598012348614-3-89": {
+        "average clique similarity": 0.19331598012348614,
+        "clique": [
+            "4-CDC said it will iss",
+            "0-Sexual transmission ",
+            "3-9 percent lower foll"
+        ],
+        "median tf-idf score": 0.6928171192208062,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Reuters"
+        ],
+        "sentences": [
+            "CDC said it will issue guidance in the coming days on prevention of sexual transmission of Zika virus, with a focus on the male sexual partners of women who are or who may be pregnant.",
+            "Sexual transmission of the virus raised concerns about how the virus spreads.",
+            "9 percent lower following news of the first U S transmission of the Zika virus."
+        ],
+        "tf-idf score": [
+            1.12582872716799,
+            0.49976433023251465,
+            0.6928171192208062
+        ]
+    },
+    "0.19618132445606676-3-74": {
+        "average clique similarity": 0.19618132445606676,
+        "clique": [
+            "0-Texas Health Dallas ",
+            "1-Meanwhile  American ",
+            "2- What We Know So Far"
+        ],
+        "median tf-idf score": 1.4389447226531127,
+        "publications": [
+            "Vox",
+            "Buzzfeed News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Texas Health Dallas Epidemiologist Dr Edward Goodman commented: \u201cIf a person is traveling to one of those 26 countries that have been declared by the Pan American and World Health organizations to be transmitting the disease  \u2026    they should use condoms for their sexual contacts until they are well beyond the period where they could have acquired (Zika virus) or transmitted it.",
+            "Meanwhile, American women who are pregnant have been advised to stay out of countries where the Zika virus is circulating.",
+            "\u2019What We Know So Far\u2019 \u2019Zika Virus Could Spread Across Europe In Summer\u2019 \u2019Two Cases Of Zika Virus Detected In Ireland\u2019 \u2019Zika Disproportionately Affects The Poor  \u2014   Here\u2019s Why\u2019 \u2019Here\u2019s Where Pregnant Women Should Avoid Traveling, According To The CDC\u2019 \u2019First U S Zika Case Transmitted By Sex\u2019 \u2019Zika Vaccine Efforts Still Years Away\u2019 \u2019Brazil Warns Pregnant Women Against Attending Olympic Games Amid Zika Outbreak\u2019 \u2019  Birth Defects Declared A Global Health Emergency\u2019 \u2019Jamaica Reports First Case Of Zika Virus\u2019] A number of travelers infected with Zika have entered Europe, but the disease has not been transmitted further, as the mosquito is still inactive, Dr Zsuzsanna Jakab, WHO Regional Director for Europe, said in a statement."
+        ],
+        "tf-idf score": [
+            1.4389447226531127,
+            0.8046554487362069,
+            2.304903832493659
+        ]
+    },
+    "0.1963800633235505-3-345": {
+        "average clique similarity": 0.1963800633235505,
+        "clique": [
+            "1-Zika is mainly carri",
+            "2-  Dr Jakab urged Eur",
+            "0-The same type of mos"
+        ],
+        "median tf-idf score": 0.6687154238453351,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Zika is mainly carried by a specific type of mosquito called Aedes aegypti, which spreads the disease through bites.",
+            "\u201d Dr Jakab urged European countries to control mosquito populations through insecticide spraying and killing of larvae, to inform pregnant women of the risks of mosquito bites, and to step up research into the virus.",
+            "The same type of mosquito spreads Dengue fever and Chikungunya."
+        ],
+        "tf-idf score": [
+            0.6687154238453351,
+            0.7855463274551118,
+            0.23788744065475975
+        ]
+    },
+    "0.19675618272093995-3-401": {
+        "average clique similarity": 0.19675618272093995,
+        "clique": [
+            "1-And sexual transmiss",
+            "0-The person who contr",
+            "4-But if the virus is "
+        ],
+        "median tf-idf score": 0.8423513087448079,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "And sexual transmission is thought to be rare and only spread from men to women (not vice versa).",
+            "The person who contracted Zika virus through sexual contact is reportedly not pregnant.",
+            "But if the virus is shown to be transmitted readily through sexual contact, it could only further complicate efforts to halt Zika\u2019s spread."
+        ],
+        "tf-idf score": [
+            0.29869810296851984,
+            0.8423513087448079,
+            0.8545866961007921
+        ]
+    },
+    "0.1986333422838927-3-112": {
+        "average clique similarity": 0.1986333422838927,
+        "clique": [
+            "1-7  Why did the outbr",
+            "4-They did note that t",
+            "3-The person infected "
+        ],
+        "median tf-idf score": 0.15265357125123274,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "7) Why did the outbreak in Latin America spiral out of control so quickly?",
+            "They did note that the illness did not develop in the couple\u2019s four children, however.",
+            "The person infected did not travel to the South American country, county health officials said."
+        ],
+        "tf-idf score": [
+            0.15265357125123274,
+            0.054540318707915356,
+            0.5877785499388667
+        ]
+    },
+    "0.20728029148239843-3-198": {
+        "average clique similarity": 0.20728029148239843,
+        "clique": [
+            "0-In Dallas  health of",
+            "4-Women trying to beco",
+            "1-If you re trying to "
+        ],
+        "median tf-idf score": 0.8452002529196674,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In Dallas, health officials ask residents with symptoms to visit their doctors if they have visited an area where Zika virus is prevalent or if they had sexual contact with a person who recently traveled to a Zika affected area.",
+            "Women trying to become pregnant should consult with their   professional if their partner has had exposure to Zika virus.",
+            "If you\u2019re trying to get pregnant, proceed with caution if visiting these areas."
+        ],
+        "tf-idf score": [
+            1.2015581321732252,
+            0.8452002529196674,
+            0.11111627084141408
+        ]
+    },
+    "0.20840907719995871-3-617": {
+        "average clique similarity": 0.20840907719995871,
+        "clique": [
+            "4-Dozens of other Zika",
+            "1-It wasn t even a rep",
+            "2- The finding of Zika"
+        ],
+        "median tf-idf score": 0.8276289530298723,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Dozens of other Zika cases have surfaced in the United States, but they have involved people who became infected with the   virus while traveling to   countries.",
+            "It wasn\u2019t even a reportable disease in the US, meaning doctors who found cases didn\u2019t have to alert the CDC as they would with other serious diseases.",
+            "\u201cThe finding of Zika cases in Ireland is not an unexpected event as many other European countries have reported cases as a result of travel to affected areas,\u201d the statement said."
+        ],
+        "tf-idf score": [
+            0.965781476921701,
+            0.23709083113146776,
+            0.8276289530298723
+        ]
+    },
+    "0.2165532641150544-3-653": {
+        "average clique similarity": 0.2165532641150544,
+        "clique": [
+            "4- How long is it cont",
+            "1-Expect information a",
+            "3-However  the CDC has"
+        ],
+        "median tf-idf score": 0.5310319762898007,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cHow long is it contained in the semen?",
+            "Expect information about Zika  \u2014   how it\u2019s transmitted, which mosquitoes can carry the virus, how it affects people  \u2014   to change in the coming days and weeks.",
+            "However, the CDC has not investigated how the virus was transmitted."
+        ],
+        "tf-idf score": [
+            0.04843921637335004,
+            0.9038950154673854,
+            0.5310319762898007
+        ]
+    },
+    "0.2168794007205511-3-474": {
+        "average clique similarity": 0.2168794007205511,
+        "clique": [
+            "4-Dallas health offici",
+            "3- The first known cas",
+            "1- Javier    So far  l"
+        ],
+        "median tf-idf score": 1.0381555799765176,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Dallas health officials said Tuesday they had been tracking the local case for weeks.",
+            " The first known case of Zika virus transmission in the United States was reported in Texas on Tuesday by local health officials, who said it likely was contracted through sex and not a mosquito bite, a day after the World Health Organization declared an international public health emergency.",
+            "(Javier  ) So far, local transmission of Zika virus has not been identified in the continental United States, but there have been local cases in American territories including Puerto Rico and the Virgin Islands."
+        ],
+        "tf-idf score": [
+            0.5914825625637826,
+            1.7261612936194324,
+            1.0381555799765176
+        ]
+    },
+    "0.23442451499785574-3-16": {
+        "average clique similarity": 0.23442451499785574,
+        "clique": [
+            "0- The latest statisti",
+            "4-   Now that we know ",
+            "3-County authorities s"
+        ],
+        "median tf-idf score": 1.1635713628282323,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "[The latest statistics show seven cases in Harris County (Houston) one in Bexar County (San Antonio) and two in Dallas County (Dallas) where Tuesday, health officials announced the first case of the Zika virus being   in the United States.",
+            "\u201d \u201cNow that we know Zika virus can be transmitted through sex, this increases our awareness campaign in educating the public about protecting themselves and others,\u201d said Zachary Thompson, Dallas County\u2019s health director, in a statement.",
+            "County authorities said there were no reports of the virus being transmitted by mosquitoes in the Texas county."
+        ],
+        "tf-idf score": [
+            1.1945189362101298,
+            1.1635713628282323,
+            0.6998045537992169
+        ]
+    },
+    "0.24628342555108537-3-118": {
+        "average clique similarity": 0.24628342555108537,
+        "clique": [
+            "4-Is it a day or a wee",
+            "0-  He added that the ",
+            "1-5  Is there any vacc"
+        ],
+        "median tf-idf score": 0.203672917325599,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Is it a day or a week or a month?\u201d he said.",
+            "\u201d He added that the incubation period is approximately one to two weeks and if a person is back three or four weeks, he or she is likely \u201cnot at risk\u201d anymore.",
+            "5) Is there any vaccine or cure?"
+        ],
+        "tf-idf score": [
+            0.21703804778081992,
+            0.203672917325599,
+            0.08185715617564604
+        ]
+    },
+    "0.2470049548943648-3-321": {
+        "average clique similarity": 0.2470049548943648,
+        "clique": [
+            "4-Public health offici",
+            "1-More than 50 countri",
+            "3-The virus has been r"
+        ],
+        "median tf-idf score": 1.0195723740241036,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Public health officials have stressed that the Zika virus, which has now spread to nearly 30 countries and regions, is transmitted primarily by mosquitoes.",
+            "More than 50 countries and territories have reported local transmission of the virus, and Zika is expected to reach nearly every corner of the Americas this year (save for Canada and Chile, which aren\u2019t home to the mosquito that carries the virus).",
+            "The virus has been reported in more than 30 countries and linked to microcephaly, in which babies have abnormally small heads and improperly developed brains."
+        ],
+        "tf-idf score": [
+            1.1998820089493005,
+            1.0195723740241036,
+            0.6034406415599799
+        ]
+    },
+    "0.2513594062187849-3-150": {
+        "average clique similarity": 0.2513594062187849,
+        "clique": [
+            "1-In one case  a man w",
+            "3-After this case  the",
+            "4-In the days after hi"
+        ],
+        "median tf-idf score": 0.5446094109869607,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "In one case, a man who traveled to Senegal in 2008 and contracted Zika gave it to his wife through intercourse after he returned home to Colorado.",
+            "After this case, the CDC advised men to consider using condoms after traveling to areas with the Zika virus.",
+            "In the days after his return to Colorado, the man and his wife had sex."
+        ],
+        "tf-idf score": [
+            0.5446094109869607,
+            0.8560792682332401,
+            0.10476831669105253
+        ]
+    },
+    "0.2660017734081073-3-32": {
+        "average clique similarity": 0.2660017734081073,
+        "clique": [
+            "4-       Dallas health",
+            "2- The patient was inf",
+            "0-  Although sexual tr"
+        ],
+        "median tf-idf score": 1.3533295527996982,
+        "publications": [
+            "Buzzfeed News",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "       Dallas health officials said Tuesday that a local resident was infected with the Zika virus by having sex with a person who had contracted the disease while traveling in Venezuela.",
+            "\u201cThe patient was infected with the virus after having sexual contact with an ill individual who returned from a country where Zika virus is present,\u201d said a Dallas County Health and Human Services statement.",
+            "\u201d Although sexual transmission raises key concerns about the virus spreading, most officials remain concerned with local mosquitoes becoming infected by an individual diagnosed with the Zika virus."
+        ],
+        "tf-idf score": [
+            1.3533295527996982,
+            1.416034608498229,
+            1.0660096920222486
+        ]
+    },
+    "0.27282200841913123-3-165": {
+        "average clique similarity": 0.27282200841913123,
+        "clique": [
+            "1-8  Will Zika spread ",
+            "3-Rousseff also said B",
+            "4-CDC issues interim Z"
+        ],
+        "median tf-idf score": 0.9827738712133427,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "8) Will Zika spread in the United States?",
+            "Rousseff also said Brazil and the United States will enter a partnership to develop a Zika vaccine as soon as possible to stem the spread of the virus.",
+            "CDC issues interim Zika guidelines for testing infants Why the United States is vulnerable to the alarming spread of Zika virus For more health news, you can sign up for our weekly newsletter here."
+        ],
+        "tf-idf score": [
+            0.44898999713235105,
+            1.0659579548800227,
+            0.9827738712133427
+        ]
+    },
+    "0.2797115848670399-4-122": {
+        "average clique similarity": 0.2797115848670399,
+        "clique": [
+            "3-The U S Centers for ",
+            "1-The Centers for Dise",
+            "4-The development prom",
+            "2-The Centers for Dise"
+        ],
+        "median tf-idf score": 0.6557914494275161,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Buzzfeed News",
+            "Vox"
+        ],
+        "sentences": [
+            "The U S Centers for Disease Control and Prevention confirmed it was the first U S Zika case in someone who had not traveled abroad in the current outbreak, said CDC Director Dr Tom Frieden on Twitter.",
+            "The Centers for Disease Control and Prevention also issued guidance on how to care for pregnant women during a Zika outbreak, safe sex, and when to get tested for Zika.",
+            "The development prompted the Centers for Disease Control and Prevention to quickly issue new recommendations urging the use of condoms to prevent the spread of the virus.",
+            "The Centers for Disease Control last month warned pregnant women from traveling to areas experiencing an outbreak of the virus."
+        ],
+        "tf-idf score": [
+            0.9747168952827473,
+            0.6595510697967817,
+            0.5807891196340498,
+            0.6520318290582504
+        ]
+    },
+    "0.28969768754701586-3-632": {
+        "average clique similarity": 0.28969768754701586,
+        "clique": [
+            "1- Chung    Images    ",
+            "4-   Cabezas   The CDC",
+            "2-Health official sugg"
+        ],
+        "median tf-idf score": 0.9746350424743515,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Vox"
+        ],
+        "sentences": [
+            "(Chung    Images)    Since Zika is carried by mosquitoes and there\u2019s no vaccine, the best way to prevent outbreaks is to prevent mosquitoes that carry the virus from biting people.",
+            "(  Cabezas)  The CDC is now saying that the best way to avoid Zika virus infection is to prevent mosquito bites and for sexual partners to wear condoms to prevent sexually transmitted infections.",
+            "Health official suggested that condoms be used to prevent sexual transmission from recent travelers to Zika regions."
+        ],
+        "tf-idf score": [
+            0.9746350424743515,
+            1.0774559484293658,
+            0.7217073781172283
+        ]
+    },
+    "0.29180309112056885-3-653": {
+        "average clique similarity": 0.29180309112056885,
+        "clique": [
+            "2-Jamaica s Ministry o",
+            "1-In light of this evi",
+            "4-  The World Health O"
+        ],
+        "median tf-idf score": 0.6713678063793658,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Jamaica\u2019s Ministry of Health originally planned a public briefing on Zika on Monday, but has postponed the event until Tuesday.",
+            "In light of this evidence, the World Health Organization declared a public health emergency on February 1.",
+            "\u201d The World Health Organization designated the Zika virus and its suspected complications in newborns as a public health emergency of international concern Monday."
+        ],
+        "tf-idf score": [
+            0.6713678063793658,
+            0.2597613829623925,
+            0.9085561396177251
+        ]
+    },
+    "0.3010990941198912-3-653": {
+        "average clique similarity": 0.3010990941198912,
+        "clique": [
+            "3-The Dallas County De",
+            "0-The second case in D",
+            "1-The first case of se"
+        ],
+        "median tf-idf score": 0.8427079270631942,
+        "publications": [
+            "Reuters",
+            "Breitbart",
+            "Vox"
+        ],
+        "sentences": [
+            "The Dallas County Department of health said on Twitter that the person was infected through sexual contact with someone who had traveled to Venezuela.",
+            "The second case in Dallas County accounts for \u201cpatient zero,\u201d the individual who contracted the virus on recent travel to Venezuela and then, once back in Dallas, transmitted the virus through sexual contact to a partner.",
+            "The first case of sexual transmission during the current outbreak was documented in Dallas in February: A traveler returned from Venezuela, where the virus was circulating, and infected his or her partner."
+        ],
+        "tf-idf score": [
+            0.7447981051122866,
+            0.8427079270631942,
+            0.8553169655364032
+        ]
+    },
+    "0.30537429969928787-3-653": {
+        "average clique similarity": 0.30537429969928787,
+        "clique": [
+            "0-The World Health Org",
+            "1-Margaret Chan  direc",
+            "4- WHO declares global"
+        ],
+        "median tf-idf score": 0.8626513064406502,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The World Health Organization (WHO) declared Zika virus a \u201cglobal health emergency\u201d because of these suspected gestational abnormalities.",
+            "Margaret Chan, director general of the World Health Organization (WHO) has designated Zika a global public health emergency.",
+            "[WHO declares global health emergency, says causal link to brain defects strongly suspected]   Health experts said the Dallas case raises new questions about how the virus is spread."
+        ],
+        "tf-idf score": [
+            0.8626513064406502,
+            0.6750802549717146,
+            0.993530089724377
+        ]
+    },
+    "0.32492826487864696-3-53": {
+        "average clique similarity": 0.32492826487864696,
+        "clique": [
+            "3-The first Irish case",
+            "2-In a statement the H",
+            "0-The Texas Department"
+        ],
+        "median tf-idf score": 1.1037400877613994,
+        "publications": [
+            "Breitbart",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "The first Irish cases of Zika virus have been detected in two people with a history of traveling to a country affected by the   infection, the Health Service Executive of Ireland said.",
+            "In a statement the Health Service Executive said these were \u201cthe first cases of Zika virus infection confirmed in Ireland.",
+            "The Texas Department of State Health Services (TDSHS) confirmed 10 cases of the Zika virus statewide on Wednesday while the latest number of reported cases continues to climb."
+        ],
+        "tf-idf score": [
+            1.2600645396288521,
+            1.1037400877613994,
+            1.0997125217358714
+        ]
+    },
+    "0.33086589471900923-3-423": {
+        "average clique similarity": 0.33086589471900923,
+        "clique": [
+            "3-Pregnant women shoul",
+            "0-The CDC continues to",
+            "4-Pregnant women shoul"
+        ],
+        "median tf-idf score": 1.0014748920072276,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Pregnant women should avoid contact with semen from men exposed to the virus.",
+            "The CDC continues to advise pregnant women, as well as all individuals, that the best way to protect themselves from Zika virus is by avoiding travel to the affected countries with high rates of Zika virus.",
+            "Pregnant women should also avoid exposure to semen from someone who has been exposed to Zika virus, the agency said."
+        ],
+        "tf-idf score": [
+            0.5237138719420837,
+            1.0014748920072276,
+            1.005313793492977
+        ]
+    }
+}

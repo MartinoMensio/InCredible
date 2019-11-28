@@ -1,0 +1,306 @@
+{
+    "0.19839031339066857-3-58": {
+        "average clique similarity": 0.19839031339066857,
+        "clique": [
+            "1-The strategy is at t",
+            "2- Wells Fargo has lon",
+            "4-Wells Fargo  sought "
+        ],
+        "median tf-idf score": 1.0091270778126282,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "The strategy is at the core of   banking: Rather than spend too much time and money recruiting new customers, sell existing customers on new products.",
+            " Wells Fargo has long been the envy of the banking industry for its ability to sell multiple products to the same customer, but regulators on Thursday said those practices went too far in some instances.",
+            "Wells Fargo \u201csought to distinguish itself in the marketplace as a leader in \u2018 \u2019 banking products and services to its existing customers,\u201d the CFPB said in its consent order with the bank."
+        ],
+        "tf-idf score": [
+            0.4379634681413837,
+            1.0091270778126282,
+            1.0502281798207973
+        ]
+    },
+    "0.23272505807529967-3-33": {
+        "average clique similarity": 0.23272505807529967,
+        "clique": [
+            "0-Additionally  Wells ",
+            "4-Bank employees also ",
+            "1-For years  Wells Far"
+        ],
+        "median tf-idf score": 0.9143138107633559,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Additionally, Wells Fargo employees also submitted applications for 565, 443   accounts without their knowledge or consent, the CFPB said the analysis found.",
+            "Bank employees also applied for over 500, 000 unauthorized credit card accounts, and used fake email addresses, to set up online banking accounts for customers without their consent, the regulator said.",
+            "For years, Wells Fargo employees secretly issued credit cards without a customer\u2019s consent."
+        ],
+        "tf-idf score": [
+            0.9143138107633559,
+            1.31539522958815,
+            0.6685737295220022
+        ]
+    },
+    "0.23522767679641365-3-39": {
+        "average clique similarity": 0.23522767679641365,
+        "clique": [
+            "1-On Thursday  the ban",
+            "4-6 million in refunds",
+            "3-The bank said that  "
+        ],
+        "median tf-idf score": 0.3335429743826872,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "On Thursday, the bank stressed that the refunds have been relatively small  \u2014   averaging about $25.",
+            "6 million in refunds for an average of $25 per customer.",
+            "The bank said that \u201daccounts refunded represented a fraction of one percent of the accounts reviewed, and refunds averaged $25\u201d."
+        ],
+        "tf-idf score": [
+            0.3190250777344883,
+            0.3335429743826872,
+            0.6796596750182841
+        ]
+    },
+    "0.2488583754563262-3-68": {
+        "average clique similarity": 0.2488583754563262,
+        "clique": [
+            "0-5 million deposit ac",
+            "2-The largest U S bank",
+            "4- Wells Fargo will pa"
+        ],
+        "median tf-idf score": 1.1199336917226115,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "5 million deposit accounts that may not have been authorized, according to the CFPB The way it worked was that employees moved funds from customers\u2019 existing accounts into   accounts without their knowledge or consent, regulators say.",
+            "The largest U S bank by market capitalization will pay $185 million in penalties and $5 million to customers that regulators say were pushed into   accounts they never requested.",
+            " Wells Fargo will pay $185 million in penalties after admitting its employees set up unauthorized credit and debit accounts for customers, even on occasion transferring money between the accounts without the customer\u2019s knowledge and permission."
+        ],
+        "tf-idf score": [
+            1.1571951677480594,
+            1.0325001548401442,
+            1.1199336917226115
+        ]
+    },
+    "0.26437968715115484-3-1": {
+        "average clique similarity": 0.26437968715115484,
+        "clique": [
+            "1-In addition to the f",
+            "0-In addition to the l",
+            "4-The City Attorney en"
+        ],
+        "median tf-idf score": 0.581902445884394,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "In addition to the fine from the consumer protection bureau, Wells paid $35 million to the Office of the Comptroller of the Currency and $50 million to the City and County of Los Angeles.",
+            "In addition to the lofty fines, Wells Fargo, one of the largest banks in the country, has agreed to refund customers $5 million.",
+            "The City Attorney ended up getting a $50 million penalty from Wells Fargo, the largest in his office\u2019s history."
+        ],
+        "tf-idf score": [
+            0.581902445884394,
+            0.9653360392001138,
+            0.5673097077605129
+        ]
+    },
+    "0.26611334868686287-3-101": {
+        "average clique similarity": 0.26611334868686287,
+        "clique": [
+            "3-Wells Fargo said in ",
+            "0-Wells Fargo has also",
+            "1-Wells said the emplo"
+        ],
+        "median tf-idf score": 0.5106641299142293,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "Wells Fargo said in a statement that it has fired managers and employees \u201dwho acted counter to our values\u201d in carrying out the schemes.",
+            "Wells Fargo has also fired 5, 300 employees who were involved in the fraudulent practice.",
+            "Wells said the employees who were terminated included managers and other workers."
+        ],
+        "tf-idf score": [
+            0.7399885140240128,
+            0.5106641299142293,
+            0.35845252473905936
+        ]
+    },
+    "0.2693428475506606-4-54": {
+        "average clique similarity": 0.2693428475506606,
+        "clique": [
+            "1- Consumers must be a",
+            "2-Los Angeles official",
+            "3- This is a major vic",
+            "4-The Los Angeles City"
+        ],
+        "median tf-idf score": 0.6529537020538578,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cConsumers must be able to trust their banks,\u201d said Mike Feuer, the Los Angeles city attorney.",
+            "Los Angeles officials and the Office of the Comptroller of the Currency were also party to the settlement.",
+            "\u201dThis is a major victory for consumers,\u201d said Los Angeles City Attorney Mike Feuer, whose office sued Wells Fargo in 2015 after a Los Angeles Times investigation into the fake accounts.",
+            "The Los Angeles City Attorney Mike Feuer sued the bank in May of last year, alleging its staff engaged in \u201cunfair, unlawful and fraudulent conduct\u201d due to pressure from strict sales quotas."
+        ],
+        "tf-idf score": [
+            0.691946806743267,
+            0.21235382554019797,
+            0.9316662094558628,
+            0.6139605973644486
+        ]
+    },
+    "0.332926296970443-4-16": {
+        "average clique similarity": 0.332926296970443,
+        "clique": [
+            "3- Because of the seve",
+            "4- What happened here ",
+            "0-Richard Cordray  the",
+            "2- Today s action shou"
+        ],
+        "median tf-idf score": 0.7909743953851129,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dBecause of the severity of these violations, Wells Fargo is paying the largest penalty the CFPB has ever imposed,\u201d said CFPB Director Richard Cordray.",
+            "\u201cWhat happened here instead is that Wells Fargo built an   program that made it possible for its employees to pursue underhanded sales practices, and it appears that the bank did not monitor the program carefully,\u201d said CFPB director Richard Cordray.",
+            "Richard Cordray, the director of the CFPB, said the bureau\u2019s actions \u201cshould serve notice to the entire industry that financial incentive programs, if not monitored carefully, carry serious risks that can have serious legal consequences.",
+            "\u201dToday\u2019s action should serve notice to the entire industry that financial incentive programs, if not monitored carefully, carry serious risks that can have serious legal consequences,\u201d said CFPB Director Richard Cordray."
+        ],
+        "tf-idf score": [
+            0.7516541913339989,
+            1.0940860694140602,
+            0.8017248865452475,
+            0.7802239042249784
+        ]
+    },
+    "0.33894933436176317-3-182": {
+        "average clique similarity": 0.33894933436176317,
+        "clique": [
+            "2-The Consumer Financi",
+            "4-Of the  185 million ",
+            "0-As a result  Wells F"
+        ],
+        "median tf-idf score": 0.6637079121937229,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The Consumer Financial Protection Bureau will receive $100 million of the total penalties   the largest fine ever levied by the federal agency.",
+            "Of the $185 million to be paid to regulators and local authorities, $100 million will go to the Consumer Financial Protection Bureau  \u2014   the largest such fine ever levied by the CFPB Bank employees opened over 1.",
+            "As a result, Wells Fargo is being fined $185 million, in what is the largest fine since the Consumer Finance Protection Bureau was founded in 2011."
+        ],
+        "tf-idf score": [
+            0.5871480989549782,
+            1.0835962108474964,
+            0.6637079121937229
+        ]
+    },
+    "0.37944666492323864-4-182": {
+        "average clique similarity": 0.37944666492323864,
+        "clique": [
+            "3-More than 2 million ",
+            "1-5 million bank accou",
+            "4-5 million accounts  ",
+            "2-The bank opened more"
+        ],
+        "median tf-idf score": 0.9565182818053741,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "More than 2 million deposit and credit card accounts may have been created without customer authorization.",
+            "5 million bank accounts and applied for 565, 000 credit cards that may not have been authorized by customers, the regulators said in a news conference.",
+            "5 million accounts \u201cthat may not have been authorized and that may have been funded through simulated funding or transferring funds from consumers\u2019 existing accounts without their knowledge or consent,\u201d according to data collected by a consultancy hired by the bank.",
+            "The bank opened more than 2 million deposit and credit card accounts that may not have been authorized, the CFPB said Thursday."
+        ],
+        "tf-idf score": [
+            0.6392446412541712,
+            1.1235403994517323,
+            0.8865196184341826,
+            1.0265169451765657
+        ]
+    },
+    "0.4108062257138562-3-92": {
+        "average clique similarity": 0.4108062257138562,
+        "clique": [
+            "3-Wells Fargo Bank has",
+            "4-Wells Fargo will pay",
+            "1-On Thursday  these i"
+        ],
+        "median tf-idf score": 1.2383596028654305,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Wells Fargo Bank has been ordered to pay $185 million in fines and penalties to settle what the Consumer Financial Protection Bureau calls \u201dthe widespread illegal practice of secretly opening unauthorized deposit and credit card accounts\u201d.",
+            "Wells Fargo will pay $100 million to the CFPB  \u2014   the largest penalty ever levied by the financial regulator, for what it calls \u201cthe widespread illegal practice of secretly opening unauthorized deposit and credit card accounts.",
+            "On Thursday, these illegal banking practices cost Wells Fargo $185 million in fines, including a $100 million penalty from the Consumer Financial Protection Bureau, the largest such penalty the agency has issued."
+        ],
+        "tf-idf score": [
+            1.480743188341056,
+            1.2383596028654305,
+            0.9437793438852493
+        ]
+    },
+    "0.5462062821230714-4-108": {
+        "average clique similarity": 0.5462062821230714,
+        "clique": [
+            "4-Wells Fargo is commi",
+            "1- Wells Fargo is comm",
+            "0-Officials with the b",
+            "2- We regret and take "
+        ],
+        "median tf-idf score": 0.7761806873333097,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Wells Fargo is committed to putting our customers\u2019 interests first 100 percent of the time, and we regret and take responsibility for any instances where customers may have received a product that they did not request.",
+            "\u201cWells Fargo is committed to putting our customers\u2019 interests first 100 percent of the time, and we regret and take responsibility for any instances where customers may have received a product that they did not request,\u201d the bank said in a statement.",
+            "Officials with the bank said they \u201cregret and take responsibility\u201d for the scheme.",
+            "\u201dWe regret and take responsibility for any instances where customers may have received a product that they did not request,\u201d the bank said of a settlement reached Thursday with California prosecutors and federal regulators."
+        ],
+        "tf-idf score": [
+            0.5796847013861331,
+            0.984224156849226,
+            0.5123084173653157,
+            0.9726766732804861
+        ]
+    }
+}

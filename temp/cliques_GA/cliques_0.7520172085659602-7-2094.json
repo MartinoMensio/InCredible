@@ -1,0 +1,766 @@
+{
+    "0.17069221732509746-3-403": {
+        "average clique similarity": 0.17069221732509746,
+        "clique": [
+            "5- Today  three federa",
+            "1-Here s the relevant ",
+            "2- Therefore  construc"
+        ],
+        "median tf-idf score": 1.1191160683012313,
+        "publications": [
+            "Buzzfeed News",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "\"Today, three federal agencies announced the significant decision to respect tribal sovereignty and stop construction of the Dakota Access Pipeline on Army Corps land. \"",
+            "Here's the relevant portion or the opinion:' 'Despite the ruling, the Justice Department, the Department of the Interior, and the Department of the Army announced Friday that they would not allow construction within 20 miles east or west of a lake near reservation land because \"important issues raised by the\" tribes remain. As a result, construction in the vicinity of the lake was halted.'",
+            "\"Therefore, construction of the pipeline on Army Corps land bordering or under Lake Oahe will not go forward at this time\". Dakota Access Pipeline: What's at stake?"
+        ],
+        "tf-idf score": [
+            1.1985439154787014,
+            1.1191160683012313,
+            0.9981657527276026
+        ]
+    },
+    "0.19117383908552144-3-294": {
+        "average clique similarity": 0.19117383908552144,
+        "clique": [
+            "0-Since March  thousan",
+            "1- But Native American",
+            "6-Thousands of Native "
+        ],
+        "median tf-idf score": 1.112753306610381,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Vox"
+        ],
+        "sentences": [
+            "Since March, thousands of Native Americans from across the country have come to Cannon Ball to camp out and protest the pipeline in solidarity with the Standing Rock Sioux.",
+            "'But Native American tribes fiercely oppose the project, arguing that it will disturb historic and sacred sites, and the governor has called in the National Guard after tense standoffs.' 'If finished, the   underground pipes will stretch 1, 172 miles and carry 470, 000 barrels of crude oil per day.",
+            "Thousands of Native Americans have camped out nearby in protest, and the showdown between tribe members and construction workers had grown increasingly tense. \"We appreciate the District Court's opinion on the U S Army Corps of Engineers' compliance with the National Historic Preservation Act."
+        ],
+        "tf-idf score": [
+            0.8104056464015816,
+            1.112753306610381,
+            1.1409636126689402
+        ]
+    },
+    "0.19212094558540613-3-361": {
+        "average clique similarity": 0.19212094558540613,
+        "clique": [
+            "6-Boasberg found that ",
+            "0-So  in the meantime ",
+            "3-The triumph tasted a"
+        ],
+        "median tf-idf score": 1.1904393381451839,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Boasberg found that the corps had complied with the law in approving permits for the pipeline and that the tribe had not demonstrated that \"irreparable harm will ensure. \" Within minutes of Boasberg's ruling, however, the departments of Justice, Army and Interior issued an unusual joint statement related to the disputed land.",
+            "So, in the meantime, the Standing Rock Sioux and the nonprofit Earthjustice had asked for an injunction to halt construction until a final decision. On September 9, Boasberg denied that request for an injunction. You can read his reasoning here.",
+            "The triumph tasted all the sweeter because it had followed so closely after a seemingly immense defeat. Mere minutes after a federal judge declined the Tribe s request for an injunction to stop construction on the pipeline, the Obama administration made a surprise announcement that it would not permit the project to continue for now."
+        ],
+        "tf-idf score": [
+            1.2262033689130345,
+            0.6279994590686728,
+            1.1904393381451839
+        ]
+    },
+    "0.19311212143960402-3-36": {
+        "average clique similarity": 0.19311212143960402,
+        "clique": [
+            "4-Tensions dramaticall",
+            "2-The security officer",
+            "6-The resulting photos"
+        ],
+        "median tf-idf score": 1.0488185126852223,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Tensions dramatically escalated over the weekend, resulting in violence. \"What happened is some protesters who've been camped out near this construction area broke through a fence to access this construction site and were met with some private security guards and guard dogs hired by the pipeline company,\" as reporter Amy Sisk of the public radio collaboration Inside Energy said in an NPR Live discussion on Facebook.",
+            "The security officers were hit and jabbed with fence posts and flagpoles,\" the sheriff's department said. \"According to several reports from security officers, knives were pulled on them or they witnessed protestors with large knives\". The sheriff's department said two guard dogs were injured. But protesters disputed that account, KFYR reported.",
+            "The resulting photos showed snarling dogs lunging at protesters; a tribal spokesman said demonstrators were bitten, while the sheriff's department said private security guards as well as dogs were also hurt. The protest has made headlines around the world, and while overseas this week, President Obama was questioned about the ongoing standoff by a young Malaysian woman at a town hall in Laos. She asked what Obama could do \"to ensure the protection of ancestral land and the supply of clean water, and also environmental justice is upheld?\""
+        ],
+        "tf-idf score": [
+            1.1215997142763496,
+            0.5107862809251734,
+            1.0488185126852223
+        ]
+    },
+    "0.19578684592260212-3-135": {
+        "average clique similarity": 0.19578684592260212,
+        "clique": [
+            "5-The decision is a vi",
+            "1- Intense protests by",
+            "4-Tribe members and th"
+        ],
+        "median tf-idf score": 0.938334301403855,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The decision is a victory for the hundreds of protesters who had gathered in North Dakota. Earlier this week, the protest became violent, when militant members of the demonstration attacked a pipeline crew that attempted to work on the project. Green Party presidential candidate Jill Stein, who arrived to show solidarity with the protesters, allegedly vandalized a piece of construction equipment, and will face criminal charges as a result.",
+            "'Intense protests by the tribe and its allies have been going on for more than six months. In August, hundreds of new demonstrators arrived at a camp in the area that reportedly now includes members of dozens of Native American tribes.' 'In   protesters succeeded in shutting down construction at one site after a tense standoff with state police.'",
+            "Tribe members and their supporters have been camping along the border of the reservation near the construction site for several months, and the demonstration grew significantly when construction in the area began in early August."
+        ],
+        "tf-idf score": [
+            1.1086631173087824,
+            0.938334301403855,
+            0.6504043366329362
+        ]
+    },
+    "0.19794614902792437-3-470": {
+        "average clique similarity": 0.19794614902792437,
+        "clique": [
+            "1- The tribe said it a",
+            "0-So there s been scat",
+            "3-It will also conside"
+        ],
+        "median tf-idf score": 0.9349960923913406,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "'The tribe said it also fears an oil spill would contaminate drinking water since the pipeline would run beneath a lake that lies just a   upstream from the tribe's reservation.'",
+            "So there's been scattered complaints about the proposed route ever since late 2014, starting with farmers in Iowa. But by far the biggest source of opposition has been in North Dakota, around the portion of pipeline that would run just north of Sioux County and the Standing Rock Indian Reservation, home to 8, 250 people.",
+            "It will also consider whether new laws should be proposed to Congress. As planned, the Dakota Access pipeline would run 1, 100 miles from oil fields in northwest North Dakota to a refinery and port in Illinois."
+        ],
+        "tf-idf score": [
+            0.9349960923913406,
+            1.0459188524081058,
+            0.8047764098192349
+        ]
+    },
+    "0.2056780908422129-3-470": {
+        "average clique similarity": 0.2056780908422129,
+        "clique": [
+            "4-Acting on the tribe ",
+            "2-Read the complaint  ",
+            "3-The judge  James Boa"
+        ],
+        "median tf-idf score": 0.9030550435383946,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Acting on the tribe's behalf, the environmental group Earthjustice filed the lawsuit with the U S District Court for the District of Columbia.",
+            "Read the complaint, In denying the tribe's request for a temporary restraining order, US District Judge James E Boasberg wrote Friday that the court \"does not lightly countenance any depredation of lands that hold significance to the Standing Rock Sioux\" and that it \"scrutinizes the permitting process here with particular care\".",
+            "The judge, James Boasberg of the D C district court, said that the Army Corps had sufficiently followed federal law in approving the pipeline."
+        ],
+        "tf-idf score": [
+            0.4725531540653049,
+            1.042049697617036,
+            0.9030550435383946
+        ]
+    },
+    "0.20882454269577833-3-290": {
+        "average clique similarity": 0.20882454269577833,
+        "clique": [
+            "6-In July  the Standin",
+            "0-It s also pulled in ",
+            "4-The tribe sought the"
+        ],
+        "median tf-idf score": 0.9937733399430632,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In July, the Standing Rock Sioux Tribe filed a lawsuit against the U S Army Corps of Engineers in the U S District Court for the District of Columbia.",
+            "It's also pulled in politicians like Bernie Sanders and Jill Stein. (Hillary Clinton, by contrast, has avoided taking a stand.) The last few months in particular have seen the battle intensify. This new phase began around August 24, after the Standing Rock Sioux asked the DC Circuit Court for an injunction to halt activity on the pipeline while their broader lawsuit against the project was resolved (a lawsuit that could take a year or more).",
+            "The tribe sought the injunction to halt construction along portions of the pipeline  --   those authorized by the Army Corps  --   while the lawsuit plays out."
+        ],
+        "tf-idf score": [
+            0.9208781097158155,
+            1.1547538226570155,
+            0.9937733399430632
+        ]
+    },
+    "0.2094464659458876-3-2": {
+        "average clique similarity": 0.2094464659458876,
+        "clique": [
+            "3-        For us to co",
+            "5-The Army surrendered",
+            "4-Construction on the "
+        ],
+        "median tf-idf score": 1.1074389297089355,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "        For us to continue writing great stories, we need to display ads. Please select the extension that is blocking ads. Please follow the steps below, The Standing Rock Sioux Tribe and the hundreds of Native protestors who have joined them in rural North Dakota won a huge but provisional victory in their quest to stop the Dakota Access pipeline, as the U S government announced late on Friday afternoon that it was voluntarily halting work on the project.",
+            "The Army surrendered Friday to Native American protesters who had gathered in North Dakota at the intersection of the Cannonball and Missouri Rivers by voluntarily suspending the Dakota Access Pipeline project.",
+            "Construction on the controversial Dakota Access Pipeline is allowed to proceed, except in one area in North Dakota of particular sensitivity to a Native American tribe."
+        ],
+        "tf-idf score": [
+            1.7007690828013065,
+            1.039205998463681,
+            1.1074389297089355
+        ]
+    },
+    "0.2133742028361467-3-285": {
+        "average clique similarity": 0.2133742028361467,
+        "clique": [
+            "0-But he then goes on ",
+            "3-Aware of the indigni",
+            "4- The Tribe has not c"
+        ],
+        "median tf-idf score": 0.6913085261949213,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "But he then goes on to argue that the tribe \"has not shown it will suffer injury that would be prevented by any injunction the Court could issue\" and that the Army Corps \"gave the Tribe a reasonable and   opportunity to identify sites of importance to it\".",
+            "Aware of the indignities visited upon the Tribe over the last centuries, the Court scrutinizes the permitting process here with particular care. Having done so, the Court must nonetheless conclude that the Tribe has not demonstrated that an injunction is warranted here. Of course, all this will change now that the executive has stepped in.",
+            "\"The Tribe has not carried its burden to demonstrate that the Court could prevent damage to important cultural resources by enjoining the Corps'   permitting,\" the decision reads. The tribe says it will appeal."
+        ],
+        "tf-idf score": [
+            0.8169565431876629,
+            0.6028830004636795,
+            0.6913085261949213
+        ]
+    },
+    "0.2141859320950307-3-470": {
+        "average clique similarity": 0.2141859320950307,
+        "clique": [
+            "0-The pipeline in ques",
+            "3-Most of the pipeline",
+            "4-And the pipeline wou"
+        ],
+        "median tf-idf score": 0.6513589106125434,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "The pipeline in question was first proposed in 2014 by Dakota Access, a subsidiary of   Energy Transfer Partners.",
+            "Most of the pipeline will be built on private land owned by Energy Transfer Partners, but it still needs Army Corps approval to cross federal waterways.",
+            "And the pipeline would reduce the use of rail and truck transport of crude oil, according to Energy Transfer Partners."
+        ],
+        "tf-idf score": [
+            0.6513589106125434,
+            0.8204402309851033,
+            0.5052008588082104
+        ]
+    },
+    "0.2195059099526722-3-67": {
+        "average clique similarity": 0.2195059099526722,
+        "clique": [
+            "4- Law enforcement say",
+            "1- On Sept  8  Standin",
+            "2-Archambault told CNN"
+        ],
+        "median tf-idf score": 0.828508550547317,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "\"Law enforcement says the protesters attacked the security guards and the dogs,\" she said, adding that protesters say the dogs \"actually bit some of the protesters\". And ahead of Friday's ruling, David Archambault II, chairman of the tribe, called for calm.",
+            "'On Sept. 8, Standing Rock Sioux Chairman David Archambault II called for peaceful protests  --   but North Dakota Gov. Jack Dalrymple has nevertheless activated the National Guard \"out of an abundance of caution. \"'",
+            "Archambault told CNN affiliate KFYR the tribe will appeal the judge's ruling. The competing decisions may calm emotions at the proposed pipeline site. Protests turned violent last weekend and North Dakota Gov. Jack Dalrymple had activated the state National Guard for the weekend."
+        ],
+        "tf-idf score": [
+            0.8268195447885985,
+            0.828508550547317,
+            1.2290162484132652
+        ]
+    },
+    "0.2227761176866604-3-470": {
+        "average clique similarity": 0.2227761176866604,
+        "clique": [
+            "6- Our hearts are full",
+            "0-Still  nothing s set",
+            "5-         I want to t"
+        ],
+        "median tf-idf score": 0.8092187030671026,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\"Our hearts are full; this an historic day for the Standing Rock Sioux Tribe and for tribes across the nation,\" said Dave Archambault II, chairman of the Standing Rock Sioux Tribe.",
+            "Still, nothing's settled yet. And, in the meantime, protestors aren't backing down. Here's Dave Archambault II, chairman of the Standing Rock Sioux, in September: \"We're going to continue to [fight this battle] as long as it takes to try and have this nation recognize the injustices that are being implemented on our nation\".",
+            "...     \"I want to take a moment and reflect on this historic moment in Indian Country,\" said Archambault. \"But I know that our work is not done. We need to to permanently protect our sacred sites and our water. There are areas on the construction route that do not fall within federal jurisdiction, so we will continue to fight. \""
+        ],
+        "tf-idf score": [
+            0.8104883143518019,
+            0.4954289312268254,
+            0.8092187030671026
+        ]
+    },
+    "0.22626658688074106-3-182": {
+        "average clique similarity": 0.22626658688074106,
+        "clique": [
+            "3-Hundreds of people  ",
+            "6-Tribal leaders have ",
+            "4-The pipeline s origi"
+        ],
+        "median tf-idf score": 0.7435203281250334,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Hundreds of people, many of them from Native communities or nations, have gathered on tribal land near the Missouri River since April to protest the pipeline s construction.",
+            "Tribal leaders have argued that leaks from the pipeline would impact the Missouri River, a source of water for 8, 000 residents of a reservation about a mile away from where the pipeline would cross.",
+            "The pipeline's original route crossed the Missouri River near Bismarck, N D The New Yorker reported, \"but authorities worried that an oil spill there would have wrecked the state capital's drinking water. So they moved the crossing to half a mile from the reservation, across land that was taken from the tribe in 1958, without their consent\"."
+        ],
+        "tf-idf score": [
+            0.7435203281250334,
+            0.5989896259357049,
+            1.1048142328069193
+        ]
+    },
+    "0.23488411965009495-3-100": {
+        "average clique similarity": 0.23488411965009495,
+        "clique": [
+            "2-First  a federal jud",
+            "0- For months  the Sta",
+            "6-          A federal "
+        ],
+        "median tf-idf score": 1.5779587759001674,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "First, a federal judge rejected the Standing Rock Sioux Tribe's efforts to stop construction of the crude oil pipeline that would run from North Dakota to Illinois, saying the tribe failed to show \"it will suffer injury that would be prevented by any injunction the court could issue\".",
+            " For months, the Standing Rock Sioux Tribe in North Dakota has been waging a pitched battle against a proposed oil pipeline that would run near their reservation  --   arguing that it would endanger both their water supplies and sacred sites.",
+            "          A federal judge ruled Friday against the Standing Rock Sioux Tribe's request for a preliminary injunction to halt construction on the Dakota Access crude oil pipeline that the tribe says endangers sacred burial grounds and could threaten its water supply from Lake Oahe, a dammed section of the Missouri river."
+        ],
+        "tf-idf score": [
+            1.5779587759001674,
+            1.4462707263097268,
+            1.7758661373373918
+        ]
+    },
+    "0.239925217867605-3-258": {
+        "average clique similarity": 0.239925217867605,
+        "clique": [
+            "0-Second  the tribe ar",
+            "2-The tribe said buria",
+            "4-Separately  in respo"
+        ],
+        "median tf-idf score": 0.8982678443600842,
+        "publications": [
+            "Vox",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Second, the tribe argues that the pipeline would run through a stretch of land north of the reservation that contains recently discovered sacred sites and burial places. True, this land isn't part of the current reservation.",
+            "The tribe said burial grounds and other sacred sites would be destroyed by the pipeline. The tribe filed an emergency motion Sunday asking the court \"to prevent further destruction of the tribe's sacred sites\".",
+            "Separately, in response to the ongoing construction work, the tribe filed an emergency motion on Sunday, seeking protection for a specific area along the planned route that contains sites sacred to the tribe. The judge issued a temporary restraining order for a portion of the area on Tuesday, effectively halting construction."
+        ],
+        "tf-idf score": [
+            0.8982678443600842,
+            0.9076145698928181,
+            0.8330660980490091
+        ]
+    },
+    "0.24561864977582215-4-142": {
+        "average clique similarity": 0.24561864977582215,
+        "clique": [
+            "2-It was unclear if th",
+            "1-So the idea is to ge",
+            "0-The company behind t",
+            "4-For its part  the co"
+        ],
+        "median tf-idf score": 0.6754796334970348,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "It was unclear if the pipeline's developer, Energy Transfer Partners, would perform work on other sections of the pipeline or comply with the government's request. The company declined comment Friday.",
+            "So the idea is to get that oil out of the ground and to refineries and markets in other parts of the US' 'Energy Transfer Partners  --   the   company behind the pipeline  --   said the $3.",
+            "The company behind the project, Energy Transfer Partners, has said that it fully expects Trump's administration to approve the pipeline come January.",
+            "For its part, the company has maintained that the pipeline is safe  --   indeed, Energy Transfer Partners says government statistics show \"pipelines are the safest mode of transporting crude oil\"."
+        ],
+        "tf-idf score": [
+            0.661635008126752,
+            0.6204448543145478,
+            0.7407835114663841,
+            0.6893242588673176
+        ]
+    },
+    "0.2500399854108567-4-149": {
+        "average clique similarity": 0.2500399854108567,
+        "clique": [
+            "5-Update  The Standing",
+            "3-The camps are one of",
+            "4-Outrage over the pip",
+            "2-The Corps of Enginee"
+        ],
+        "median tf-idf score": 1.375245898272218,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Breitbart",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Update: The Standing Rock Sioux Tribe issued a press statement in response, vowing to continue the fight on   land: \"Our hearts are full, this an historic day for the Standing Rock Sioux Tribe and for tribes across the nation,\" said Dave Archambault II, chairman of the Standing Rock Sioux Tribe.",
+            "The camps are one of the largest Native protests in decades. In July, the Standing Rock Tribe sued the Army Corps of Engineers, the federal agency which approved the pipeline.",
+            "Outrage over the pipeline has galvanized Native American tribes and environmentalists across the U S The Standing Rock Sioux tribe says it wasn't adequately consulted by the federal agency that authorized permits for the pipeline, and sued the U S Army Corps of Engineers in July.",
+            "The Corps of Engineers has declined to comment, citing the pending litigation. Thousands protested, Thousands of people from more than 200 Native American tribes have supported the Standing Rock Sioux Tribe's efforts to protect its lands, waters and sacred sites during construction of the pipeline, according to the tribe."
+        ],
+        "tf-idf score": [
+            1.0366710382453168,
+            1.2583607230403846,
+            1.4921310735040512,
+            1.6236097455634966
+        ]
+    },
+    "0.2503474136970285-3-470": {
+        "average clique similarity": 0.2503474136970285,
+        "clique": [
+            "4-According to   pipel",
+            "0-If built  it would c",
+            "2-After the pipeline i"
+        ],
+        "median tf-idf score": 0.7952974297424156,
+        "publications": [
+            "NPR",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "According to   pipeline developer Energy Transfer Partners, \"it will transport approximately 470, 000 barrels per day with a capacity as high as 570, 000 barrels per day or more  --   which could represent approximately half of Bakken current daily crude oil production\". The company says that, pending regulatory approvals, oil was to start flowing late this year.",
+            "If built, it would carry some 450, 000 barrels of crude per day from the Bakken oil fields in North Dakota down to a terminal in Illinois, where it could be shipped to refineries and turned into usable fuel.",
+            "After the pipeline is completed, it would shuttle 470, 000 barrels of crude oil a day, Energy Access Partners said. From Illinois, the oil could go to markets and refineries across the Midwest, East Coast and Gulf Coast."
+        ],
+        "tf-idf score": [
+            0.838885490388863,
+            0.46643119819845646,
+            0.7952974297424156
+        ]
+    },
+    "0.2623959292606287-3-445": {
+        "average clique similarity": 0.2623959292606287,
+        "clique": [
+            "3-And he seemed to lam",
+            "2-They asked the pipel",
+            "4-It  alleges that the"
+        ],
+        "median tf-idf score": 0.8747634981386343,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "And he seemed to lament that the injunction was sought under the National Historic Preservation Act and not the Clean Water Act, where he hinted that the tribe would have had sturdier standing.",
+            "They asked the pipeline company to voluntarily halt construction within 20 miles of Lake Oahe while the Army reconsiders the decision to proceed under the National Environmental Policy Act or other federal laws.",
+            "It \"alleges that the Corps violated multiple federal statutes, including the Clean Water Act, National Historic Protection Act, and National Environmental Policy Act, when it issued the permits,\" according to Earthjustice. A subsidiary of Energy Transfer Partners, Dakota Access LLC, is also party to the lawsuit."
+        ],
+        "tf-idf score": [
+            0.6627405091592353,
+            1.0540219400669222,
+            0.8747634981386343
+        ]
+    },
+    "0.26559316696792906-3-470": {
+        "average clique similarity": 0.26559316696792906,
+        "clique": [
+            "4-And the tribe fears ",
+            "3-The tribe claimed th",
+            "0-A leak or spill coul"
+        ],
+        "median tf-idf score": 0.846389224632078,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "And the tribe fears that any pipeline leak at the Missouri crossing, which lies just upstream of the reservation, could contaminate crucial drinking water.",
+            "The tribe claimed that the pipeline s construction would destroy nearby sacred and burial sites, and that, if the pipeline ever leaked or failed, it would pollute the tribe s drinking water.",
+            "A leak or spill could send oil directly into the tribe's main source of drinking water. The tribe points out that Dakota Access originally considered a route farther north, upstream of Bismarck, but the company rejected that route, in part, because of the close proximity to the state capital's   wells."
+        ],
+        "tf-idf score": [
+            0.7337288894624676,
+            0.8756930572589209,
+            0.846389224632078
+        ]
+    },
+    "0.269121722060313-3-470": {
+        "average clique similarity": 0.269121722060313,
+        "clique": [
+            "6-In addition  the com",
+            "1- In July       two d",
+            "4- My nation s history"
+        ],
+        "median tf-idf score": 1.3530251757908158,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "In addition, the complaint said that the pipeline \"crosses areas of great historical and cultural significance to the tribe, the potential damage or destruction of which greatly injures the tribe and its members. \"",
+            "'In July  --   two days after the pipeline was approved  --   the Standing Rock Sioux Tribe filed a lawsuit attempting to stop construction, arguing that the pipeline \"crosses areas of great historical and cultural significance\" and \"crosses waters of utmost cultural, spiritual, ecological, and economic significance. \"'",
+            "\"My nation's history is at risk because the pipeline builders and the Army Corps failed to consult the tribe when planning the pipeline, and routed it through areas of cultural and historical significance, which will be destroyed,\" David Archambault II, chairman of the Standing Rock Sioux tribe, said in a court filing."
+        ],
+        "tf-idf score": [
+            0.8526314389255952,
+            1.3530251757908158,
+            1.448099605484131
+        ]
+    },
+    "0.2895487493601498-3-470": {
+        "average clique similarity": 0.2895487493601498,
+        "clique": [
+            "2-In a joint statement",
+            "0-More to the point  t",
+            "6-However  important i"
+        ],
+        "median tf-idf score": 0.9438412439850847,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In a joint statement, the US Justice and Interior Departments and the Army acknowledged \"important issues raised by the Standing Rock Sioux Tribe and other tribal nations\".",
+            "More to the point, the Standing Rock Sioux argue that under federal law, the US government should have consulted extensively with the tribe about these issues  --   and didn't.",
+            "However, important issues raised by the Standing Rock Sioux Tribe and other tribal nations and their members regarding the Dakota Access pipeline specifically, and     generally, remain,\" read the joint statement issued by the Justice, Army and Interior departments."
+        ],
+        "tf-idf score": [
+            0.9438412439850847,
+            0.7538882766522371,
+            1.5243673121017336
+        ]
+    },
+    "0.3019412692731541-3-470": {
+        "average clique similarity": 0.3019412692731541,
+        "clique": [
+            "4-A federal judge deni",
+            "5- Earlier Friday  a f",
+            "1- Protesters have dis"
+        ],
+        "median tf-idf score": 1.3274735321633824,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "A federal judge denied the Standing Rock Sioux tribe's request for an injunction that sought to temporarily stop construction on the pipeline, set to carry crude oil across four states.",
+            "[Earlier Friday, a federal judge denied a request by the Standing Rock Sioux Tribe for an injunction against the Army Corps of Engineers to stop construction on the pipeline, which will carry 400, 000 barrels of oil per day from the Bakken region to an existing Illinois pipeline.",
+            "'Protesters have discussed on Facebook various ways to stay warm at the camp through the winter.' 'On Sept. 9, the federal judge hearing the lawsuit denied the tribe's request to halt construction, saying that the Army Corps of Engineers complied with the law and \"the Tribe has not shown it will suffer injury that would be prevented by any\" construction stoppage."
+        ],
+        "tf-idf score": [
+            1.3274735321633824,
+            1.6791965337126187,
+            1.200230455425114
+        ]
+    },
+    "0.303868639449344-3-470": {
+        "average clique similarity": 0.303868639449344,
+        "clique": [
+            "2-It would also add 8 ",
+            "0-On July 27  the Stan",
+            "1-The pipeline has bee"
+        ],
+        "median tf-idf score": 1.0805769837932169,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "It would also add 8, 000 to 12, 000 construction jobs, the developer said. One for the company, The plaintiffs claim the tribe was not properly consulted before the US Army Corps of Engineers approved the pipeline project.",
+            "On July 27, the Standing Rock Sioux and the nonprofit Earthjustice sued the Army Corps of Engineers in federal court, arguing that the agency had wrongly approved the pipeline without adequate consultation.",
+            "The pipeline has been in the works for years, but it was approved by the US Army Corps of Engineers on July 25.'"
+        ],
+        "tf-idf score": [
+            1.2910502518812699,
+            1.0805769837932169,
+            0.7482763299757061
+        ]
+    },
+    "0.33181697619600614-4-470": {
+        "average clique similarity": 0.33181697619600614,
+        "clique": [
+            "6- This case has highl",
+            "4- This case has highl",
+            "3-The Legal Case for B",
+            "5-The statement also a"
+        ],
+        "median tf-idf score": 0.8926542468506447,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\"This case has highlighted the need for a serious discussion on whether there should be nationwide reform with respect to considering tribes' views on these types of infrastructure projects.",
+            "\"This case has highlighted the need for a serious discussion on whether there should be nationwide reform with respect to considering tribes' views on these types of infrastructure projects,\" the agencies said.",
+            "The Legal Case for Blocking the Dakota Access Pipeline, The Obama administration also announced that it will invite tribes to formal consultations this fall about whether any federal rules around national infrastructure projects like the Dakota Access pipeline should be reformed in order to protect tribal resources and rights.",
+            "The statement also announced the start of new negotiations between the federal government and Native American tribes about \"nationwide reform with respect to considering tribes' views on these types of infrastructure projects. \" Those discussions, the statement said, could result in proposed federal legislation."
+        ],
+        "tf-idf score": [
+            0.6320144105188789,
+            0.7722367131049621,
+            1.3382794719673223,
+            1.0130717805963272
+        ]
+    },
+    "0.3478344762334084-4-463": {
+        "average clique similarity": 0.3478344762334084,
+        "clique": [
+            "0-Immediately after th",
+            "2- The Army will not a",
+            "6-But in a development",
+            "4- The Army will not a"
+        ],
+        "median tf-idf score": 1.2723223994096666,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Immediately after the injunction was denied, however, the Obama administration stepped in and ordered a stop to construction around Lake Oahe until the Army Corps of Engineers could revisit the disputes over this portion of the pipeline.",
+            "\"The Army will not authorize constructing the Dakota Access pipeline on Corps land bordering or under Lake Oahe until it can determine whether it will need to reconsider any of its previous decisions regarding the Lake Oahe site under the National Environmental Policy Act (NEPA) or other federal laws,\" the joint statement said.",
+            "But in a development that stunned even the tribe's lawyers, the decision by District Judge James E Boasberg was effectively put on hold by a federal order to stop construction near the tribe's reservation until the Army Corps of Engineers can revisit its previous decisions in the disputed portion.",
+            "\"The Army will not authorize constructing the Dakota Access pipeline on Corps land bordering or under Lake Oahe until it can determine whether it will need to reconsider any of its previous decisions regarding the Lake Oahe site under the National Environmental Policy Act (NEPA) or other federal laws,\" the statement read."
+        ],
+        "tf-idf score": [
+            1.002635455089556,
+            1.5265928727412508,
+            1.1360367739923187,
+            1.4086080248270147
+        ]
+    },
+    "0.36640181195491-3-470": {
+        "average clique similarity": 0.36640181195491,
+        "clique": [
+            "3-We request that the ",
+            "5-However  the Obama a",
+            "4-The agencies asked t"
+        ],
+        "median tf-idf score": 0.6586141068828623,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "We request that the pipeline company voluntarily pause all construction activity within 20 miles east or west of Lake Oahe.",
+            "However, the Obama administration intervened, and the Army voluntarily blocked construction on land owned by the Corps or under Lake Oahe in South Dakota.",
+            "The agencies asked the pipeline company to \"voluntarily pause all construction activity within 20 miles east or west of Lake Oahe\"."
+        ],
+        "tf-idf score": [
+            0.6263189561156477,
+            0.728720059336258,
+            0.6586141068828623
+        ]
+    },
+    "0.4290715159237682-3-389": {
+        "average clique similarity": 0.4290715159237682,
+        "clique": [
+            "6-The administration h",
+            "2- Our voices have bee",
+            "5-         Our voices "
+        ],
+        "median tf-idf score": 0.8596876795793845,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "The administration has given land back to tribes and worked    with tribal governments, and it is cracking down on crime in Indian Country. \"The best thing that's happened to Indian Country has been President Obama being elected,\" said Archambault II, after the president and First Lady Michelle Obama visited Standing Rock in 2014.",
+            "\"Our voices have been heard,\" said tribal council chairman Dave Archambault. \"The Obama administration has asked tribes to the table to make sure that we have meaningful consultation on infrastructure projects.",
+            "...     \"Our voices have been heard,\" said Archambault. \"The Obama administration has asked tribes to the table to make sure that we have meaningful consultation on infrastructure projects."
+        ],
+        "tf-idf score": [
+            1.0249785680937626,
+            0.8596876795793845,
+            0.7834002677791452
+        ]
+    },
+    "0.43906243124875255-3-470": {
+        "average clique similarity": 0.43906243124875255,
+        "clique": [
+            "4-On the heels of that",
+            "5-Therefore  the Depar",
+            "3-Construction of the "
+        ],
+        "median tf-idf score": 1.0773342793096856,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Atlantic"
+        ],
+        "sentences": [
+            "On the heels of that ruling, however, the Justice Department, the Department of the Army and the Interior Department announced that construction in an area of Army Corps' land that is particularly significant to the tribe will not go forward pending further evaluation.",
+            "Therefore, the Department of the Army, the Department of Justice, and the Department of the Interior will take the following steps. The Army will not authorize constructing the Dakota Access pipeline on Corps land bordering or under Lake Oahe until it can determine whether it will need to reconsider any of its previous decisions   ...",
+            "Construction of the pipeline on Army Corps land bordering or under Lake Oahe will not go forward at this time, ? said a joint statement from the Department of Justice, the Department of the Interior, and the U S Army."
+        ],
+        "tf-idf score": [
+            0.9086345050910691,
+            1.1050196570644926,
+            1.0773342793096856
+        ]
+    },
+    "0.5780358422915409-4-177": {
+        "average clique similarity": 0.5780358422915409,
+        "clique": [
+            "6- Native peoples have",
+            "5-Native peoples have ",
+            "2-Native peoples have ",
+            "0-As journalist Aura B"
+        ],
+        "median tf-idf score": 1.207736865965132,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "\"Native peoples have suffered generations of broken promises and today the federal government said that national reform is needed to better ensure that tribes have a voice on infrastructure projects like this pipeline. \"",
+            "Native peoples have suffered generations of broken promises and today the federal government said that national reform is needed to better ensure that tribes have a voice on infrastructure projects like this pipeline. \"",
+            "Native peoples have suffered generations of broken promises and today the federal government said that national reform is needed to better ensure that tribes have a voice on infrastructure projects like this pipeline\".",
+            "As journalist Aura Bogado explains, at the core of this dispute is the concept of \"tribal sovereignty. \" The US government is supposed to have a \"  \" relationship with native tribes  --   not run roughshod over them."
+        ],
+        "tf-idf score": [
+            1.207736865965132,
+            1.207736865965132,
+            1.207736865965132,
+            0.4889518065244496
+        ]
+    }
+}

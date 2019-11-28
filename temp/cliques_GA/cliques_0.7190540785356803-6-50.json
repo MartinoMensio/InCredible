@@ -1,0 +1,326 @@
+{
+    "0.1833620415828016-3-113": {
+        "average clique similarity": 0.1833620415828016,
+        "clique": [
+            "3-    The order for a ",
+            "2-Judge Welch  in his ",
+            "1-Syed s lawyers also "
+        ],
+        "median tf-idf score": 0.8351278943287389,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "!!\" The order for a new trial that was issued by the judge also denies two requests for   relief.",
+            "Judge Welch, in his order, cited the failure to   Maryland's   expert about the technology's reliability as a factor in ordering a new trial for Syed. He also ordered that McLain's testimony from January 13, 2015,  be retransmitted to the Maryland Court of Special Appeals.",
+            "Syed's lawyers also argued for a new trial because of his counsel's failure to contact a potential alibi witness."
+        ],
+        "tf-idf score": [
+            0.5809357762034905,
+            1.1835056230191099,
+            0.8351278943287389
+        ]
+    },
+    "0.21550534919679545-3-154": {
+        "average clique similarity": 0.21550534919679545,
+        "clique": [
+            "2-But there were sever",
+            "1-Earlier this year  W",
+            "5-Her reporting turned"
+        ],
+        "median tf-idf score": 1.2571290255590846,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But there were several questions raised about the trial, including the legal representation Syed had received why investigators had not spoken to Asia McLain, a classmate who said she'd been with Syed in the school library at the time of the killing and the reliability of   data used to convict Syed. The Serial podcast, though inconclusive, brought many of these issues to the public's attention.",
+            "Earlier this year, Welch reopened Syed's case to allow lawyers to introduce new evidence relating to just two issues: the reliability of cell phone tower evidence used during the original trial and an alibi witness.",
+            "Her reporting turned up new evidence, including cellphone data and an alibi witness, Asia McClain, who wasn't called to the stand during Syed's original trial."
+        ],
+        "tf-idf score": [
+            1.2571290255590846,
+            1.261327773067058,
+            0.9711431943330615
+        ]
+    },
+    "0.24247684033768635-3-28": {
+        "average clique similarity": 0.24247684033768635,
+        "clique": [
+            "0-Brown said he has be",
+            "4-Brown told reporters",
+            "1-They said Thursday t"
+        ],
+        "median tf-idf score": 0.7046899959215716,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Brown said he has been unable to reach Syed in prison, but expects he has received the news.",
+            "Brown told reporters that Adnan's family was speechless on the phone when he shared the news. Brown says the ball is in the prosecution's hands, however, as it has about 30 days to appeal or go forward with a new trial.",
+            "They said Thursday that they have been unable to get in contact with Syed to deliver the news. But, said Brown: \"I have little doubt that someone has given him the news of what happened today. \""
+        ],
+        "tf-idf score": [
+            0.6548735273650127,
+            0.8892615927606383,
+            0.7046899959215716
+        ]
+    },
+    "0.2529347621723311-3-42": {
+        "average clique similarity": 0.2529347621723311,
+        "clique": [
+            "3- The new development",
+            "0-Baltimore judge Mart",
+            "5-Syed s convictions w"
+        ],
+        "median tf-idf score": 1.2234384476926197,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\"The new development comes months after the Maryland Court of Special Appeals granted Syed's request for a review of his case, giving new momentum to his efforts to appeal his 2000 conviction in the murder of Baltimore high school student Hae Min Lee in January of 1999.",
+            "Baltimore judge Martin Welch on Thursday granted Syed's request for a new trial after the   podcast sent thousands of internet sleuths digging through the details of the murder of Hae Min Lee 17 years ago.",
+            "Syed's convictions were vacated, meaning he could end up on trial for the murder of his   for a second time, 17 years after the murder occurred and two years after his story spawned the most popular podcast in America."
+        ],
+        "tf-idf score": [
+            1.2234384476926197,
+            1.3759026280904811,
+            0.8795633159704892
+        ]
+    },
+    "0.2720711776238079-3-181": {
+        "average clique similarity": 0.2720711776238079,
+        "clique": [
+            "4-Before his trial  Sy",
+            "1-In a 2015 affidavit ",
+            "3-McClain was also dep"
+        ],
+        "median tf-idf score": 0.9887040276526728,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Before his trial, Syed gave two letters to his lawyers from McClain in which she said she was with Syed at a library at the time of the murder.",
+            "In a 2015 affidavit, Asia McClain said she remembered talking with Syed in the library at the time prosecutors said Syed killed his former girlfriend.",
+            "McClain was also depicted in Serial  --   as NPR's Andrea Seabrook reported in February, McClain was \"the one who says she saw Adnan Syed in the library at the exact same time that the state said he was out committing a murder\"."
+        ],
+        "tf-idf score": [
+            0.9887040276526728,
+            0.6429027630995172,
+            1.1066396814150528
+        ]
+    },
+    "0.27665300951045363-3-181": {
+        "average clique similarity": 0.27665300951045363,
+        "clique": [
+            "0-Syed has been servin",
+            "1-Syed  now 35  was se",
+            "5-Syed was convicted o"
+        ],
+        "median tf-idf score": 0.9902907304645273,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Syed has been serving a life sentence since his conviction in 2000 for the murder of Lee, his   from high school.",
+            "Syed, now 35, was sentenced to life in prison in the 1999 murder of his former girlfriend and fellow Woodlawn High School classmate, Hae Min Lee. His original lawyer, Cristina Gutierrez, died in 2004.",
+            "Syed was convicted of murdering Hae Min Lee in 1999, although he, his family, and his friends have always insisted he's innocent. Serial host Sarah Koenig explored his case in the first season of her podcast."
+        ],
+        "tf-idf score": [
+            0.6803328279467029,
+            0.9902907304645273,
+            1.1186111401869265
+        ]
+    },
+    "0.2822324291471216-3-76": {
+        "average clique similarity": 0.2822324291471216,
+        "clique": [
+            "1- Sarah Koenig articu",
+            "0-As of this day  he s",
+            "3-Earlier this year  W"
+        ],
+        "median tf-idf score": 0.7202218186384833,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\"Sarah Koenig articulated it pretty well in 'Serial' when she said this case is just hanging by a string. And it literally was  --   statistically, it was over, so we have come back from that. \"",
+            "As of this day, he's not convicted any more. \" Brown quoted Serial host Sarah Koenig, saying there was a time when this outcome seemed impossible. \"She said this case is just hanging by a string.",
+            "Earlier this year, Welch heard testimony from Asia McClain, who had written an email to Serial host Sarah Koenig that stated, \"All this time I thought the courts proved it was Adnan that killed her. I thought he was where he deserved to be. Now I'm not so sure\"."
+        ],
+        "tf-idf score": [
+            0.5560009592971389,
+            0.7202218186384833,
+            0.8079044018152337
+        ]
+    },
+    "0.29401632642653197-3-34": {
+        "average clique similarity": 0.29401632642653197,
+        "clique": [
+            "4- It is the continued",
+            "1-He added   To think ",
+            "0- She stood up for wh"
+        ],
+        "median tf-idf score": 0.8033199789539416,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"It is the continued desire of the Attorney General to seek justice in the murder of Hae Min Lee,\" The Maryland Office of the Attorney General said in a statement. \"The court ruled in the State's favor on a number of issues, but there does appear to be at least one ground that will need to be resolved by the appellate courts.",
+            "He added: \"To think there was an oops or an oversight back then, let alone a failure of constitutional dimension, is just not consistent with what we are now seeing in the defense's file. \" Thursday, Vignarajah's office said \"it is the continued desire of the Attorney General to seek justice in the murder of Hae Min Lee,\" according to a statement reported by the Baltimore Sun.",
+            "\"She stood up for what was right, regardless of popular opinion. \" The state attorney general's office suggested it intended to appeal against the decision in a statement on Thursday night."
+        ],
+        "tf-idf score": [
+            0.8033199789539416,
+            1.040438477480146,
+            0.5931201524564612
+        ]
+    },
+    "0.2947257877051848-4-4": {
+        "average clique similarity": 0.2947257877051848,
+        "clique": [
+            "1-It s really hard to ",
+            "2-Syed s attorney twee",
+            "4-He s still not out o",
+            "3-Announcing the news "
+        ],
+        "median tf-idf score": 1.040840126740302,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It's really hard to get a new trial, and the improbability of all of this  --   there was a time when this was initially denied,\" Syed's attorney, C Justin Brown, said at a news conference Thursday.",
+            "Syed's attorney tweeted the news: WE WON A NEW TRIAL FOR ADNAN SYED! !!",
+            "He's still not out of jail,\" Brown told reporters at a news  conference. \"We've made a lot of progress, but we're still not there\". The ruling comes four months after a hearing on the cell tower evidence and claims that Syed's trial attorney overlooked a crucial alibi witness featured in \"Serial\".",
+            "Announcing the news Thursday, attorney Justin Brown tweeted in  : \"WE WON A NEW TRIAL FOR ADNAN SYED!"
+        ],
+        "tf-idf score": [
+            1.1911795678281816,
+            0.7630044198704934,
+            1.2127771048428686,
+            0.8905006856524225
+        ]
+    },
+    "0.29686871555958155-3-12": {
+        "average clique similarity": 0.29686871555958155,
+        "clique": [
+            "1- Reuters    Prosecut",
+            "3-Lee s body had been ",
+            "4-Syed  35  was servin"
+        ],
+        "median tf-idf score": 0.820767791242232,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "(Reuters)   Prosecutors have long maintained that Syed strangled Lee and then buried her body in Baltimore's Leakin Park in 1999.",
+            "Lee's body had been found in a city park, one month after she disappeared. She had been strangled. \"Now 35, Syed is serving a life prison term over Lee's death. Baltimore Circuit Court Judge Martin Welch granted the request for a hearing Friday, ordering that it be scheduled sometime in the next 10 days\".",
+            "Syed, 35, was serving a life sentence in the slaying of his   Hae Min Lee. Her strangled body was found in a shallow grave in a park one month after she went missing in January 1999."
+        ],
+        "tf-idf score": [
+            0.5975664514438852,
+            1.1116317484547857,
+            0.820767791242232
+        ]
+    },
+    "0.31545044326413635-3-15": {
+        "average clique similarity": 0.31545044326413635,
+        "clique": [
+            "3-One of those request",
+            "0-The judge also disag",
+            "4-The court also consi"
+        ],
+        "median tf-idf score": 0.5924986234104761,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "One of those requests centered on a trial attorney's \"failure to contact a potential alibi witness\" the other was based on \"withholding potentially exculpatory evidence related to the reliability of cell tower location evidence\".",
+            "The judge also disagreed with Syed's claims that prosecutors breached their duty by withholding exculpatory evidence.",
+            "The court also considered whether prosecutors withheld potentially exculpatory evidence related to the reliability of the cell tower location evidence."
+        ],
+        "tf-idf score": [
+            0.9086899722075019,
+            0.5924986234104761,
+            0.38555987449190326
+        ]
+    },
+    "0.3548445146440762-3-94": {
+        "average clique similarity": 0.3548445146440762,
+        "clique": [
+            "1-On Thursday  Baltimo",
+            "4-Baltimore Circuit Co",
+            "0-But Welch did agree "
+        ],
+        "median tf-idf score": 1.4668037427076908,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "On Thursday, Baltimore Circuit Judge Martin Welch vacated Syed's murder conviction, writing in his order that Syed's former attorney rendered \"ineffective assistance\" by failing to   a state expert about the reliability of cell tower location evidence. \"This was the biggest hurdle.",
+            "Baltimore Circuit Court Judge Martin Welch vacated Syed's conviction and ordered a new trial based on claims that Syed's trial lawyer failed to   the expert witness about the reliability of cell tower location evidence.",
+            "But Welch did agree that Syed's attorney should have   a state's expert witness about the reliability of cell tower data that placed him near the burial site."
+        ],
+        "tf-idf score": [
+            1.4845411170841136,
+            1.4668037427076908,
+            0.8714472635626784
+        ]
+    },
+    "0.3750287001297896-5-53": {
+        "average clique similarity": 0.3750287001297896,
+        "clique": [
+            "1-       Adnan Syed  w",
+            "5- Adnan Syed  the con",
+            "3-Months after he was ",
+            "2-   I want to receive",
+            "4-  CNN  A Baltimore j"
+        ],
+        "median tf-idf score": 1.4653899469847058,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Vox",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "       Adnan Syed, whose murder conviction became the subject of the popular   podcast \"Serial,\" has been granted a new trial.",
+            " Adnan Syed, the convicted murderer whose story was at the heart of the hit first season of the podcast Serial, had his request for a new trial granted, a judge in Baltimore City Circuit Court decided Thursday.",
+            "Months after he was granted a new hearing because of new evidence, Adnan Syed, whose 2000 murder conviction was a key focus of the hit podcast Serial, has been granted a new trial, according to his attorneys.",
+            "   I want to receive updates from partners and sponsors. Updated on June 30 at 4:54 p. m. ET, A judge in Baltimore has ordered a new trial for Adnan Syed, the murder convict who was the subject of the Serial, the popular podcast from Chicago Public Radio.",
+            " (CNN) A Baltimore judge has ordered a new trial for Adnan Syed, whose murder conviction was the focus of the first season of the popular \"Serial\" podcast."
+        ],
+        "tf-idf score": [
+            1.050448627319559,
+            1.4653899469847058,
+            1.4677831761492897,
+            1.517046879861328,
+            1.3812017451946579
+        ]
+    }
+}

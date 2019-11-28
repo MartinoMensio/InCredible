@@ -1,0 +1,158 @@
+{
+    "0.3170934797622434-3-24": {
+        "average clique similarity": 0.3170934797622434,
+        "clique": [
+            "1-In a statement Frida",
+            "2-  CNN  Donald Trump ",
+            "4- Donald Trump s camp"
+        ],
+        "median tf-idf score": 1.4157271351675518,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "In a statement Friday morning, Trump said that Manafort offered his resignation.",
+            " (CNN) Donald Trump's campaign chairman Paul Manafort has resigned from his position on the campaign, the Republican presidential nominee said in a statement Friday.",
+            " Donald Trump's campaign chairman, Paul Manafort, resigned from his position on Friday morning following a staff shakeup earlier in the week and increasing scrutiny over his ties to Russia and Ukraine."
+        ],
+        "tf-idf score": [
+            0.8556780855915919,
+            1.4157271351675518,
+            1.5293318809704028
+        ]
+    },
+    "0.36924812604616414-5-11": {
+        "average clique similarity": 0.36924812604616414,
+        "clique": [
+            "4-The Washington Post ",
+            "1-I remain the campaig",
+            "3-Trump announced this",
+            "0-Manafort s resignati",
+            "2-With just under thre"
+        ],
+        "median tf-idf score": 1.4867032072207573,
+        "publications": [
+            "Breitbart",
+            "Buzzfeed News",
+            "New York Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "The Washington Post's Robert Costa was the first to report the news of Manafort's resignation. On Wednesday, Trump hired Breitbart News executive Stephen K Bannon as his campaign's CEO and promoted pollster Kellyanne Conway to campaign manager  --   an apparent demotion for Manafort.",
+            "I remain the campaign chairman and chief strategist, providing the     campaign vision\". Stephen Bannon of Breitbart News is now serving as chief executive of the campaign and pollster Kellyanne Conway is campaign manager.",
+            "Trump announced this week the hiring of a new CEO, Stephen Bannon from Breitbart News, and campaign manager, Kellyanne Conway, a pollster who was already with the campaign.",
+            "Manafort's resignation comes days after Stephen K Bannon took a leave of absence from Breitbart News to serve as Trump's campaign CEO and Kellyanne Conway was promoted to campaign manager.",
+            "With just under three months to go until Election Day, Manafort's departure reflects the shifting power centers on the Trump campaign: After consolidating influence and discarding with Trump's campaign manager Corey Lewandowski, Manafort has now found himself on the outs after Trump elevated two different aides to senior positions on Tuesday: Breitbart News chief Steve Bannon as campaign CEO and Kellyanne Conway as campaign manager."
+        ],
+        "tf-idf score": [
+            1.5674835100022426,
+            0.8205078112764409,
+            1.1377680614774848,
+            1.5737291542322613,
+            1.4867032072207573
+        ]
+    },
+    "0.445859849876649-3-47": {
+        "average clique similarity": 0.445859849876649,
+        "clique": [
+            "2- Paul Manafort s res",
+            "3- This morning Paul M",
+            "4-Hillary Clinton s ca"
+        ],
+        "median tf-idf score": 1.5897061554725054,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"Paul Manafort's resignation is a clear admission that the disturbing connections between Donald Trump's team and   elements in Russia and Ukraine are untenable,\" Clinton campaign manager Robby Mook said in a statement.",
+            "\"This morning Paul Manafort offered, and I accepted, his resignation from the campaign,\" Trump said in a statement.",
+            "Hillary Clinton's campaign manager Robby Mook responded to the news in a statement on Friday, \"Paul Manafort's resignation is a clear admission that the disturbing connections between Donald Trump's team and   elements in Russia and Ukraine are untenable. \""
+        ],
+        "tf-idf score": [
+            1.5897061554725054,
+            1.2172446540979511,
+            1.6943089612057962
+        ]
+    },
+    "0.45308700983714595-3-47": {
+        "average clique similarity": 0.45308700983714595,
+        "clique": [
+            "3-Donald Trump s embat",
+            "0-Paul Manafort  Donal",
+            "1-Just months after Pa"
+        ],
+        "median tf-idf score": 1.289758476185531,
+        "publications": [
+            "New York Post",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "Donald Trump's embattled campaign chairman Paul Manafort has resigned, the Republican presidential nominee announced Friday.",
+            "Paul Manafort, Donald Trump's campaign chairman, resigned from the campaign on Friday.",
+            "Just months after Paul Manafort was promoted to bring some structure to and scale up Donald Trump's presidential bid, the Washington insider has resigned from the campaign."
+        ],
+        "tf-idf score": [
+            1.289758476185531,
+            1.1193716451529099,
+            1.3224552091929782
+        ]
+    },
+    "0.6322870271761745-3-47": {
+        "average clique similarity": 0.6322870271761745,
+        "clique": [
+            "2- This morning Paul M",
+            "4- This morning Paul M",
+            "0-  This morning Paul "
+        ],
+        "median tf-idf score": 1.1817502922126126,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\"This morning Paul Manafort offered, and I accepted, his resignation from the campaign,\" Trump said.",
+            "\"This morning Paul Manafort offered, and I accepted, his resignation from the campaign,\" Trump said in a statement. \"I am very appreciative for his great work in helping to get us where we are today, and in particular his work guiding us through the delegate and convention process. Paul is a true professional and I wish him the greatest success. \"",
+            "[\"This morning Paul Manafort offered, and I accepted, his resignation from the campaign."
+        ],
+        "tf-idf score": [
+            1.1817502922126126,
+            1.824196603531195,
+            0.8419635910148703
+        ]
+    },
+    "0.8840450282008014-4-47": {
+        "average clique similarity": 0.8840450282008014,
+        "clique": [
+            "1-The candidate said h",
+            "3- I am very appreciat",
+            "0-I am very appreciati",
+            "2- I am very appreciat"
+        ],
+        "median tf-idf score": 0.7480429261468968,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "The candidate said he is \"very appreciative for his great work in helping to get us where we are today, and in particular his work guiding us through the delegate and convention process\". \"Paul is a true professional and I wish him the greatest success,\" Trump continued.",
+            "\"I am very appreciative for his great work in helping to get us where we are today, and in particular his work guiding us through the delegate and convention process,\" he added. \"Paul is a true professional and I wish him the greatest success. \"",
+            "I am very appreciative for his great work in helping to get us where we are today, and in particular his work guiding us through the delegate and convention process.",
+            "\"I am very appreciative for his great work in helping to get us where we are today, and in particular his work guiding us through the delegate and convention process. Paul is a true professional and I wish him the greatest success\"."
+        ],
+        "tf-idf score": [
+            1.1075874418727245,
+            0.7604349804975455,
+            0.426377626891565,
+            0.7356508717962482
+        ]
+    }
+}

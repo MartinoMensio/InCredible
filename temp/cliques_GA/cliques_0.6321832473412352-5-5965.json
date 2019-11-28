@@ -1,0 +1,458 @@
+{
+    "0.1316673333577467-3-209": {
+        "average clique similarity": 0.1316673333577467,
+        "clique": [
+            "3- It was hell   he sa",
+            "2- Yesterday evening  ",
+            "0-State television foo"
+        ],
+        "median tf-idf score": 0.4241898167994133,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"It was hell,\" he said. \"The killing  --   you can just see bodies on the streets, you can hear their voices crying just to find someone to help.",
+            "\"Yesterday evening, we received further deeply disturbing reports that numerous bodies were lying on the streets,\" Colville said. \"The residents were unable to retrieve them due to the intense bombardment and their fear of being shot on sight. \"",
+            "State television footage from Saliheen, one of the districts that had just fallen to the army, showed mounds of rubble and   buildings, with bodies still lying on the ground and a few bewildered civilians carrying children or suitcases."
+        ],
+        "tf-idf score": [
+            0.39761835952876046,
+            0.5660900628776728,
+            0.4241898167994133
+        ]
+    },
+    "0.1394651787336149-3-71": {
+        "average clique similarity": 0.1394651787336149,
+        "clique": [
+            "0-Syrian President Bas",
+            "4-If the deal is carri",
+            "1-The Red Cross had ur"
+        ],
+        "median tf-idf score": 0.8482176848520413,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Syrian President Bashar   backed by Russia, is now close to taking back full control of Aleppo, which was Syria's most populous city before the war and would be his greatest prize so far after nearly six years of conflict.",
+            "If the deal is carried out, and all rebel fighters leave as agreed, it would mark a major turning point in Syria's nearly   war.",
+            "The Red Cross had urgently appealed for civilians in east Aleppo to be protected \"before it is too late\" adding that it was ready to help with evacuations if an agreement could be reached as Assad's forces closed in on remaining opposition enclaves and a key victory in the civil war after an offensive supported by Russian air power."
+        ],
+        "tf-idf score": [
+            0.8482176848520413,
+            0.4845972977513299,
+            1.020692620437737
+        ]
+    },
+    "0.1431569145729581-3-103": {
+        "average clique similarity": 0.1431569145729581,
+        "clique": [
+            "1-The agreement  which",
+            "3-As we reported yeste",
+            "2-    Aid groups have "
+        ],
+        "median tf-idf score": 0.6150657475279757,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "The agreement, which has effectively ended the battle for Aleppo after four years of fighting, capped weeks of immense suffering and violence that have left residents in total despair and increasingly angry at the international community for abandoning them to their fate.",
+            "As we reported yesterday, Aleppo  --   once Syria's largest city, and a major commercial hub  --   has been divided between government and rebel forces for four years.",
+            ". \" Aid groups have grown increasingly desperate to gain access to the besieged part of the city. Once bargaining with regime and Russian forces for a   window to take out the wounded and children, humanitarian organizations recently pleaded for a   halt to bombing."
+        ],
+        "tf-idf score": [
+            0.6150657475279757,
+            0.8478386109352614,
+            0.5555555232054047
+        ]
+    },
+    "0.14715340553438283-3-295": {
+        "average clique similarity": 0.14715340553438283,
+        "clique": [
+            "1-People who lost ever",
+            "0-Jan Egeland  the U N",
+            "2- Now it s going to b"
+        ],
+        "median tf-idf score": 0.985266169192276,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "People who lost everything are suffering here enormously. \" The UN secretary general, Ban   addressing the security council on the situation in Aleppo on Tuesday evening, said it was wishful thinking to believe that military advances would solve Syria's crisis, and called for an immediate end to violence by all sides.",
+            "Jan Egeland, the U N humanitarian adviser on Syria, tweeted that Russia's and Syria's governments would be responsible for any such abuses. \"The Gov'ts of Syria & Russia are accountable for any and all atrocities that the victorious militias in Aleppo are now committing! ,\" Egeland wrote.",
+            "\"Now it's going to be under the control of the Syrian government, so there is no need for the remaining civilians to leave and there are humanitarian arrangements in place,\" Churkin said on Tuesday, according to NBC The crisis over the city has caught the world's attention."
+        ],
+        "tf-idf score": [
+            0.9905677119202758,
+            0.5797715877268879,
+            0.985266169192276
+        ]
+    },
+    "0.15110100729300263-3-225": {
+        "average clique similarity": 0.15110100729300263,
+        "clique": [
+            "2- Hundreds of shellin",
+            "0- The Syrian army and",
+            "3- The first convoy th"
+        ],
+        "median tf-idf score": 0.47283520697418413,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "\"Hundreds of shellings, the killed and the injured in the streets, on the ground, no one leave, SOS,\" one Syrian activist trapped inside told a group of journalists on a WhatsApp group.",
+            " The Syrian army and its allies are in the \"last moments before declaring victory\" in Aleppo, a Syrian military source said, after rebel defenses collapsed on Monday, leaving insurgents in a tiny, heavily bombarded pocket of ground.",
+            "\"The first convoy that attempted to leave was stopped by the   Shiite militias that have been helping the Syrian government on the ground."
+        ],
+        "tf-idf score": [
+            0.47283520697418413,
+            0.953376158591582,
+            0.40008951923626407
+        ]
+    },
+    "0.15152323316989036-3-111": {
+        "average clique similarity": 0.15152323316989036,
+        "clique": [
+            "2- The agreement was b",
+            "0-The loss of Palmyra ",
+            "3- However  Russia s D"
+        ],
+        "median tf-idf score": 0.4118990290190471,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "\"The agreement was between the rebels and Russia and it did not include Iran, and Assad hasn't made an internal decision about it. \"",
+            "The loss of Palmyra, an ancient desert city whose recapture from Islamic State in March was heralded by Damascus and Moscow as vindicating Russia's entry into the war, was an embarrassing setback to Assad.",
+            "\"However, Russia's Defense Ministry says the fighting was initiated by the rebels, who used the   as an opportunity to regroup\"."
+        ],
+        "tf-idf score": [
+            0.39097237951484587,
+            0.4975451838388619,
+            0.4118990290190471
+        ]
+    },
+    "0.15943052405698535-3-253": {
+        "average clique similarity": 0.15943052405698535,
+        "clique": [
+            "1- I really  really ho",
+            "2-This was also refuse",
+            "0-They either have to "
+        ],
+        "median tf-idf score": 0.6444871461168813,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"I really, really hope this deal will materialise because the suffering of civilians on both sides has been immense,\" said Pawel Krzysiek, head of media at the International Committee of the Red Cross, who was in Aleppo. \"There is a human tragedy happening all over the city.",
+            "This was also refused. The government is now estimated to hold approximately 99% of the city. The number of civilians thought to remain in the east of the city varies.",
+            "They either have to surrender or die,\" Lieutenant General Zaid   head of the government's Aleppo security committee, told reporters in the recaptured Sheikh Saeed district of the city."
+        ],
+        "tf-idf score": [
+            1.0933802122290814,
+            0.5439104473510924,
+            0.6444871461168813
+        ]
+    },
+    "0.17138125575089114-3-126": {
+        "average clique similarity": 0.17138125575089114,
+        "clique": [
+            "2- The only way to all",
+            "0-We could announce th",
+            "1-Under the terms of t"
+        ],
+        "median tf-idf score": 1.2036315654897005,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"The only way to alleviate the deep foreboding and suspicion that massive crimes may be under way both within Aleppo,\" the statement said, is to allow external bodies like the UN access to the rapidly shrinking   parts of Aleppo. \"At least we know that we were a free people.",
+            "We could announce this any moment,\" the military source told Reuters. The Russian Defence Ministry said that since the start of the Aleppo battle, more than 2, 200 rebels had surrendered and 100, 000 civilians had left areas of the city that were controlled by militants. \"People run from one shelling to another to escape death and just to save their souls.",
+            "Under the terms of the deal, negotiated between Turkish intelligence and the Russian military, a ceasefire went into effect at 6pm local time. Soon afterwards, Russia's ambassador to the UN, Vitaly Churkin, said that fighting in the east of the city had ended. \"According to the latest information that we received in the last hour, military actions in eastern Aleppo are over,\" he told reporters in New York."
+        ],
+        "tf-idf score": [
+            0.701737100692569,
+            1.2693908271156147,
+            1.2036315654897005
+        ]
+    },
+    "0.1741841046321924-3-239": {
+        "average clique similarity": 0.1741841046321924,
+        "clique": [
+            "3-In addition to the e",
+            "4-But then came the de",
+            "0-Rebel groups in Alep"
+        ],
+        "median tf-idf score": 1.1883691979018531,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "In addition to the evacuations being halted, warfare and shelling had also resumed in the region, The Associated Press reported: \"Syrian activists say fighter jets have resumed bombing raids over remaining rebel areas in eastern Aleppo, further imperiling a   deal for the city.",
+            "But then came the deal, and the shelling quieted down. Russia, Turkey and Syrian rebel groups announced that they had agreed to evacuate all of the remaining fighters to   territory, with civilians free to join them or move to   areas, leaving the whole city of Aleppo in government hands.",
+            "Rebel groups in Aleppo received a U S  proposal on Sunday for a withdrawal of fighters and civilians from the city's opposition areas, but Moscow said no agreement had been reached yet in talks in Geneva to end the crisis peacefully."
+        ],
+        "tf-idf score": [
+            1.119390887432006,
+            1.279982759914947,
+            1.1883691979018531
+        ]
+    },
+    "0.1789795001745016-3-132": {
+        "average clique similarity": 0.1789795001745016,
+        "clique": [
+            "0- It is expected ther",
+            "2-The statement went o",
+            "3-Various U N agencies"
+        ],
+        "median tf-idf score": 0.675592075944728,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "\"It is expected there will be a new front line,\" said the official, who is based in Turkey. The White Helmets civil defense organization and three other trapped aid groups made a desperate appeal for the international community to arrange safe passage for 100, 000 civilians across a   (2. ) stretch of   territory.",
+            "The statement went on to express fear for activists, in particular the Syrian Civil Defence rescue workers, often called White Helmets, who \"are at risk of grave violations including detention, torture and killing. \"",
+            "Various U N agencies have received reports of indiscriminate killing and children coming under fire. The White Helmets, a volunteer civil defense organization, says it can no longer provide estimates of the body count in eastern Aleppo."
+        ],
+        "tf-idf score": [
+            0.7769869883302627,
+            0.39166050818527504,
+            0.675592075944728
+        ]
+    },
+    "0.18420172341203703-3-86": {
+        "average clique similarity": 0.18420172341203703,
+        "clique": [
+            "2- We want to leave  W",
+            "1- We urge all parties",
+            "0-REBELS While Aleppo "
+        ],
+        "median tf-idf score": 1.073516541498274,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"We want to leave. We don't want more massacres. What is happening?\" The Syria regime's primary patron, Russia, and Turkey, which backs the rebels, agreed to an evacuation deal Tuesday under which civilians and rebels carrying only light weaponry would be allowed to leave Aleppo and relocate to   areas of northern Syria.",
+            "\"We urge all parties to the conflict to allow the safe and immediate evacuation of all children. \" Rebel officials from Nour     and Ahrar   two powerful opposition groups with a presence in the city, confirmed the deal to evacuate, but there was confusion over exactly where the opposition would have to go, with rebels saying they would be transported to the western Aleppo countryside.",
+            "REBELS While Aleppo's fall would deal a stunning blow to rebels trying to remove Assad from power, he would still be far from restoring control across Syria."
+        ],
+        "tf-idf score": [
+            1.0972319592695958,
+            1.073516541498274,
+            0.6391687091073548
+        ]
+    },
+    "0.2002514567342868-3-33": {
+        "average clique similarity": 0.2002514567342868,
+        "clique": [
+            "1-The evacuation of ea",
+            "4-Several residents sa",
+            "0-Rebels withdrew from"
+        ],
+        "median tf-idf score": 1.067601166127634,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "The evacuation of east Aleppo means the opposition will cede the entire city, Syria's former commercial capital, to the Assad regime, surrendering the last major urban stronghold where it maintained an active presence. The Syrian Observatory for Human Rights had said there were corpses abandoned in the streets with residents too terrified by the shelling to bury them.",
+            "Several residents said they had lost contact with relatives in those same areas, and a monitoring group, the Syrian Observatory for Human Rights, said the number of men forced to join the army upon fleeing to government areas had reached 6, 000. And with no way to treat the wounded, bodies were piling up on the streets of the shrinking rebel territory.",
+            "Rebels withdrew from all districts on the east side of the Aleppo river on Monday afternoon after losing Sheikh Saeed in the south of their pocket in overnight fighting, the Syrian Observatory for Human Rights said."
+        ],
+        "tf-idf score": [
+            1.2597494293790814,
+            1.067601166127634,
+            0.988576001536869
+        ]
+    },
+    "0.20047668936632615-3-121": {
+        "average clique similarity": 0.20047668936632615,
+        "clique": [
+            "4-It would put all of ",
+            "0-Swathes of the count",
+            "3-   What now looms is"
+        ],
+        "median tf-idf score": 0.3125965539084221,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "It would put all of the major cities along the country's more populous western spine back under government control, though Kurdish militias and the   caliphate of the Islamic State continue to hold large areas to the east.",
+            "Swathes of the country remain in rebel hands, and Islamic State retook Palmyra on Sunday.",
+            ".. What now looms is a more focused confrontation that features Assad's forces in heavily populated western parts of the country, and the Islamic State in the sparsely populated deserts of the east\"."
+        ],
+        "tf-idf score": [
+            0.5531657633154954,
+            0.3125965539084221,
+            0.310492337114778
+        ]
+    },
+    "0.20388411666394937-3-193": {
+        "average clique similarity": 0.20388411666394937,
+        "clique": [
+            "3-Civilians in eastern",
+            "2-  As the government ",
+            "1-People in east Alepp"
+        ],
+        "median tf-idf score": 0.5795645052821732,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Civilians in eastern Aleppo were posting farewell messages on social media on Monday and Tuesday.",
+            "' As the government made the final push to take the city, panicked and frightened residents  --   penned into an area believed to be no more than 1 square mile and under   bombardment  --   posted desperate final messages on Twitter and other social media.'",
+            "People in east Aleppo issued distress calls and appeals to the international community to rescue them from retribution, continuing to post farewell messages on Monday night and into Tuesday morning, predicting they would either die in the ongoing bombardment or be tortured and killed if they surrendered."
+        ],
+        "tf-idf score": [
+            0.5795645052821732,
+            0.509312852950503,
+            0.6908019310224702
+        ]
+    },
+    "0.208607909985563-3-57": {
+        "average clique similarity": 0.208607909985563,
+        "clique": [
+            "0-Tens of thousands of",
+            "1-The reports of killi",
+            "3-It s difficult to co"
+        ],
+        "median tf-idf score": 0.6969680080444981,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Tens of thousands of civilians remain in   areas,     hemmed in by   front lines, pounded by air strikes and shelling, and without basic supplies, according to the Observatory, a   monitoring group.",
+            "The reports of killings by the advancing regime forces, who are led by   militias, raised grave concerns over the fate of tens of thousands of civilians, doctors and activists who have remained in the shrinking rebel enclaves, and who faced death if they stayed there or being tortured and killed in   areas if they fled over government lines.",
+            "It's difficult to confirm exactly how many civilians remain in the small slice of Aleppo still controlled by rebel groups, but estimates put the number in the tens of thousands."
+        ],
+        "tf-idf score": [
+            0.434815333209133,
+            0.8715328821972248,
+            0.6969680080444981
+        ]
+    },
+    "0.21836763825585567-3-36": {
+        "average clique similarity": 0.21836763825585567,
+        "clique": [
+            "1-An agreement has bee",
+            "0-It added that 364 re",
+            "4-Rebels  activists an"
+        ],
+        "median tf-idf score": 1.0027542083085326,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "An agreement has been reached to evacuate civilians and opposition fighters from the besieged eastern districts of the city of Aleppo, a senior Turkish official and rebel officials have told the Guardian.",
+            "It added that 364 rebel fighters had been killed in the eastern sector.",
+            "Rebels, activists and aid workers in eastern Aleppo said they had been told that civilians and fighters could all leave and travel to   areas."
+        ],
+        "tf-idf score": [
+            1.0634302417282153,
+            0.27201063356995364,
+            1.0027542083085326
+        ]
+    },
+    "0.22602958980017748-3-21": {
+        "average clique similarity": 0.22602958980017748,
+        "clique": [
+            "1-Real massacres were ",
+            "2-UN humanitarian spok",
+            "4-The deal was struck "
+        ],
+        "median tf-idf score": 0.7129099760997086,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Real massacres were taking place in the city, the war monitor said. Jens Laerke, a UN spokesman, said it looked like there had been a \"complete meltdown of humanity\" in the city.",
+            "UN humanitarian spokesperson Jens Laerke described a \"complete meltdown of humanity in Aleppo\" as reports emerged of civilians, including women and children, being pulled from their homes and shot in what remains of   east Aleppo.",
+            "The deal was struck after widespread concern about the fate of civilians, with the United Nations warning of \"a complete meltdown of humanity\" and protests breaking out at United Nations headquarters in New York and Russian embassies in several cities, including London, Stockholm and Istanbul."
+        ],
+        "tf-idf score": [
+            0.5257498871034205,
+            0.7853492939500393,
+            0.7129099760997086
+        ]
+    },
+    "0.2528874821112352-3-168": {
+        "average clique similarity": 0.2528874821112352,
+        "clique": [
+            "1- Once they reach Idl",
+            "4-The United Nations s",
+            "0-The Observatory said"
+        ],
+        "median tf-idf score": 0.8727856742429542,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"Once they reach Idlib, they will be free to relocate,\" the official added. The United Nations said it had received reliable reports from multiple sources that   forces, including the Iraqi Shia militia Harakat   had carried out summary killings of at least 82 civilians, including 11 women and 13 children in four different neighbourhoods of east Aleppo that had fallen under government control.",
+            "The United Nations said the 82 summary killings were reported in four neighborhoods  --   Bustan       and    --   and included at least 11 women and 13 children, some shot in the streets as they tried to escape, said Rupert Colville, a spokesman for the United Nations High Commissioner for Human Rights.",
+            "The Observatory said that four weeks into the army offensive in Aleppo, at least 415 civilians, including 47 children, had been killed in   parts of the city."
+        ],
+        "tf-idf score": [
+            1.3437010793358808,
+            0.7092108808399105,
+            0.8727856742429542
+        ]
+    },
+    "0.3880114776528871-3-5": {
+        "average clique similarity": 0.3880114776528871,
+        "clique": [
+            "3-Those inside eastern",
+            "1- Civilians have paid",
+            "2- Civilians have paid"
+        ],
+        "median tf-idf score": 0.7470900494787824,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "Those inside eastern Aleppo have described horrific bloodshed over the past few days. People told NPR there's no food, no fuel and no medical care available, and that the streets are filled with carnage.",
+            "\"Civilians have paid a brutal price during this conflict, and we are filled with the deepest foreboding for those who remain in this last hellish corner of   eastern Aleppo,\" said Rupert Colville, the UN's human rights spokesman, before the ceasefire deal emerged.",
+            "\"Civilians have paid a brutal price during this conflict, and we are filled with the deepest foreboding for those who remain in this last hellish corner of   eastern Aleppo,\" it said."
+        ],
+        "tf-idf score": [
+            0.6149655588579306,
+            0.964849234701023,
+            0.7470900494787824
+        ]
+    }
+}

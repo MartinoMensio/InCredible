@@ -1,0 +1,442 @@
+{
+    "0.1974513814641592-3-59": {
+        "average clique similarity": 0.1974513814641592,
+        "clique": [
+            "4-In advance of Mr Lew",
+            "0-Calls from activists",
+            "1-The Treasury had pre"
+        ],
+        "median tf-idf score": 0.6143971759226912,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "In advance of Mr Lew\u2019s decision, the emotion that the Treasury initiative had prompted was reflected in a letter to the Treasury secretary on Tuesday evening.",
+            "Calls from activists to include a woman on the nation\u2019s currency prompted Lew to announce last June that the $10 bill would be redesigned to remove the nation\u2019s first treasury secretary, Hamilton, in order to include a woman.",
+            "The Treasury had previously said a new $10 bill would feature a woman."
+        ],
+        "tf-idf score": [
+            0.6143971759226912,
+            0.8203181387704045,
+            0.529943378832818
+        ]
+    },
+    "0.1989081720784529-3-86": {
+        "average clique similarity": 0.1989081720784529,
+        "clique": [
+            "2-The U S Treasury Dep",
+            "4-To take the image of",
+            "3-Critics  instead  su"
+        ],
+        "median tf-idf score": 0.5544930140521485,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "The U S Treasury Department said on Wednesday that Tubman, who was born into slavery in the early 1820s and went on to help hundreds of slaves escape, would take the center spot on the bill, while Jackson, a slave owner, would move to the back.",
+            "To take the image of the suffragists off?\u201d he said.",
+            "Critics, instead, suggested it was Jackson who deserved to be booted off the $20 bill, citing the former slave owner\u2019s role in moving Native Americans off their land in the 1830s."
+        ],
+        "tf-idf score": [
+            0.8003201355616874,
+            0.15489931323253556,
+            0.5544930140521485
+        ]
+    },
+    "0.20184414029762943-3-51": {
+        "average clique similarity": 0.20184414029762943,
+        "clique": [
+            "1-The decision caps a ",
+            "0- The decision to put",
+            "2-The debate began whe"
+        ],
+        "median tf-idf score": 0.914438211098975,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The decision caps a public campaign asking for a woman to be placed on American paper currency and months of deliberation by the Treasury to replace either Alexander Hamilton on the $10 bill or Andrew Jackson on the $20 bill.",
+            "\u201cThe decision to put Harriet Tubman on the new $20 was driven by thousands of responses we received from Americans young and old,\u201d Lew said in a public letter.",
+            "The debate began when the Treasury announced plans in June to feature a woman on the $10 note, prompted partly by a young girl\u2019s letter to President Barack Obama that criticized the lack of women on U S currency and a social media campaign last year called \u201dWomen on 20s\u201d."
+        ],
+        "tf-idf score": [
+            0.8979030362373063,
+            1.033745332555179,
+            0.914438211098975
+        ]
+    },
+    "0.23048670908783622-3-182": {
+        "average clique similarity": 0.23048670908783622,
+        "clique": [
+            "3-An online petition p",
+            "1-As we ve reported  l",
+            "4-Immediately an onlin"
+        ],
+        "median tf-idf score": 0.6652317623946209,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "An online petition posted by the advocacy group \u201cWomen on 20s\u201d last year urged the administration to replace the 19th century president with Tubman and offered a   version.",
+            "As we\u2019ve reported, last year, an unofficial contest by the activist group Women on 20s gave the nod to Tubman to take Jackson\u2019s place on the $20 bill.",
+            "Immediately an online group called Women on 20s insisted that the woman to be honored  \u2014   Tubman was its choice  \u2014   had to go on the more common $20 note, displacing not the popular Hamilton but Jackson, whose place in history has suffered lately with attention to his record of forcibly relocating Native Americans, supporting slavery and  \u2014   despite his prominence on currency  \u2014   opposing a national banking system and paper money."
+        ],
+        "tf-idf score": [
+            0.6652317623946209,
+            0.551958651931828,
+            1.2078819392666578
+        ]
+    },
+    "0.23389939467583154-3-10": {
+        "average clique similarity": 0.23389939467583154,
+        "clique": [
+            "1-In a statement  the ",
+            "4-By July  in fact  Mr",
+            "0-  Lew also announced"
+        ],
+        "median tf-idf score": 0.4969463092276868,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "In a statement, the Treasury also announced that the new $20 note will keep an image of Jackson, who was a slaveholder, on the back.",
+            "By July, in fact, Mr Lew already had decided to keep his   predecessor on the $10 note, and put a vignette of suffragists on the back, with Tubman scheduled for the $20 bill and changes to the $5 note as well.",
+            "\u201d Lew also announced changes to the $5 and $10 bills."
+        ],
+        "tf-idf score": [
+            0.629314605613349,
+            0.4969463092276868,
+            0.2005798610979596
+        ]
+    },
+    "0.26944028585423835-3-96": {
+        "average clique similarity": 0.26944028585423835,
+        "clique": [
+            "1-The Treasury did not",
+            "2-Lew said the designs",
+            "3- The decision to Har"
+        ],
+        "median tf-idf score": 0.568470529792583,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "The Treasury did not say when the new bills will enter into circulation but said the final concept designs of the new $20, $10 and $5 notes will be unveiled in 2020.",
+            "Lew said the designs should be unveiled by 2020 and go into circulation \u201das quickly as possible,\u201d although he declined to say when.",
+            "\u201cThe decision to Harriet Tubman on the new $20 bill was driven by thousands of responses we received from Americans young and old,\u201d Treasury Secretary Jack Lew explained Wednesday, saying the new bills should be ready for release by 2020."
+        ],
+        "tf-idf score": [
+            0.568470529792583,
+            0.34093133088504385,
+            1.201144478849895
+        ]
+    },
+    "0.26969464256320075-3-35": {
+        "average clique similarity": 0.26969464256320075,
+        "clique": [
+            "3-When asked about the",
+            "0- Her incredible stor",
+            "1- With this decision "
+        ],
+        "median tf-idf score": 0.5384787458123564,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "When asked about the irony of putting someone who wasn\u2019t paid for her services, Lew said it \u201creflects both American values and American democracy, but also, the power of an individual, to make a difference in our democracy.",
+            "\u201cHer incredible story of courage and commitment to equality embodies the ideals of democracy that our nation celebrates, and we will continue to value her legacy by honoring her on our currency,\u201d Lew said in the letter.",
+            "\u201dWith this decision, our currency will now tell more of our story and reflect the contributions of women as well as men to our great democracy,\u201d Lew said in a letter to the American people."
+        ],
+        "tf-idf score": [
+            0.5384787458123564,
+            0.5090219538993387,
+            0.7429856625933182
+        ]
+    },
+    "0.290956741372319-3-27": {
+        "average clique similarity": 0.290956741372319,
+        "clique": [
+            "0- In a historic overh",
+            "1- This post was last ",
+            "4-WASHINGTON      Trea"
+        ],
+        "median tf-idf score": 0.9933801172474859,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            " In a historic overhaul of U S currency, Treasury Secretary Jack Lew announced Wednesday that Harriet Tubman, the slave turned abolitionist, will be featured on the front of a newly redesigned $20 note.",
+            "(This post was last updated at 6:15 p. m. EDT)  Treasury Secretary Jacob Lew announced on Wednesday that the countenance of abolitionist leader Harriet Tubman will grace a new $20 bill.",
+            "WASHINGTON  \u2014   Treasury Secretary Jacob J Lew on Wednesday announced the most sweeping and historically symbolic makeover of American currency in a century, proposing to replace the slaveholding Andrew Jackson on the $20 bill with Harriet Tubman, the former slave and abolitionist, and to add women and civil rights leaders to the $5 and $10 notes."
+        ],
+        "tf-idf score": [
+            0.9933801172474859,
+            0.963989128579864,
+            1.423530013002747
+        ]
+    },
+    "0.29183593637269206-3-73": {
+        "average clique similarity": 0.29183593637269206,
+        "clique": [
+            "4-Mr Lew may have rene",
+            "3-Plans were originall",
+            "2-A MUSICAL Hamilton s"
+        ],
+        "median tf-idf score": 0.7002764115727552,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Mr Lew may have reneged on a commitment he made last year to make a woman the face of the $10 bill, opting instead to keep Alexander Hamilton, to the delight of a fan base swollen with enthusiasm over a Broadway rap musical based on the life of the first Treasury secretary.",
+            "Plans were originally floated to redesign the $10 bill to replace Hamilton with a portrait of a female historical figure, but the idea sparked outrage among fans of the Founding Father \u2014  some of whom came out of the woodwork due to the popularity of the   Broadway musical about his life.",
+            "A MUSICAL Hamilton\u2019s growing celebrity status, due largely to a  Pulitzer   Broadway musical about his life, \u201cHamilton,\u201d created by   Miranda, propelled an effort to keep the first U S Treasury secretary on the $10 note and to replace Jackson on the $20 bill instead."
+        ],
+        "tf-idf score": [
+            0.9252399764823418,
+            0.5762958437400042,
+            0.7002764115727552
+        ]
+    },
+    "0.29945987025489523-4-76": {
+        "average clique similarity": 0.29945987025489523,
+        "clique": [
+            "0-During the Civil War",
+            "1-As we reported   We ",
+            "4-Tubman  an   and a U",
+            "2-She returned to the "
+        ],
+        "median tf-idf score": 0.4033786297306072,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "During the Civil War, she worked as cook, nurse, and spy for the Union Army, famously guiding the raid at Combahee Ferry to liberate some 700 slaves.",
+            "As we reported: \u201dWe\u2019ll note that Tubman\u2019s appearance on the $20 bill would have a special historical resonance: That\u2019s the same amount she eventually received from the U S government as her monthly pension for her service as a nurse, scout, cook and spy during the Civil War, as well as for her status as the widow of a veteran\u201d.",
+            "Tubman, an   and a Union spy during the Civil War, would bump Jackson  \u2014   a white man known as much for his persecution of Native Americans as for his war heroics and advocacy for the common man  \u2014   to the back of the $20, in some reduced image along with the White House.",
+            "She returned to the South to help hundreds of black slaves to freedom and worked as a Union spy during the Civil War."
+        ],
+        "tf-idf score": [
+            0.28005247626780116,
+            0.564095015769534,
+            0.5267047831934132,
+            0.2746542681012436
+        ]
+    },
+    "0.30635063305623134-3-182": {
+        "average clique similarity": 0.30635063305623134,
+        "clique": [
+            "0-The front of the bil",
+            "2-Former President Abr",
+            "4-While Hamilton would"
+        ],
+        "median tf-idf score": 0.18681045437012359,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "The front of the bill will continue to feature the portrait of President Abraham Lincoln.",
+            "Former President Abraham Lincoln will remain on the front.",
+            "While Hamilton would remain on the $10, and Abraham Lincoln on the $5, images of women would be added to the back of both  \u2014   in keeping with Mr Lew\u2019s intent \u201cto bring to life\u201d the national monuments depicted there."
+        ],
+        "tf-idf score": [
+            0.18681045437012359,
+            0.14021767078618466,
+            0.6671734250598722
+        ]
+    },
+    "0.3074019652234314-3-123": {
+        "average clique similarity": 0.3074019652234314,
+        "clique": [
+            "2-Women have not been ",
+            "3-The Civil   abolitio",
+            "4-Tubman would be the "
+        ],
+        "median tf-idf score": 0.5718209084219634,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "Women have not been depicted on U S bills since Martha Washington, who was on the $1 silver certificate from 1891 to 1896, and Pocahontas, who was in a group picture on the $20 bill from 1865 to 1869.",
+            "The Civil   abolitionist, who led runaway slaves to freedom along the Underground Railroad, will also be the first woman to appear on American paper money since Martha Washington was featured on a $1 silver certificate more than 100 years ago.",
+            "Tubman would be the first woman so honored on paper currency since Martha Washington\u2019s portrait briefly graced the $1 silver certificate in the late 19th century."
+        ],
+        "tf-idf score": [
+            0.41337496421694303,
+            0.9092515711359253,
+            0.5718209084219634
+        ]
+    },
+    "0.3147616250599337-3-1": {
+        "average clique similarity": 0.3147616250599337,
+        "clique": [
+            "4-On the flip side of ",
+            "0-The  5 bill will als",
+            "1-The Treasury also sa"
+        ],
+        "median tf-idf score": 0.5630995104220695,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "On the flip side of the $5 bill, the Lincoln Memorial would remain, but as the backdrop for the 1939 performance there of Marian Anderson, the   classical singer, after she was barred from singing at the segregated Constitution Hall nearby.",
+            "The $5 bill will also be redesigned to include civil rights icons and the historic events that happened at the steps of the Lincoln Memorial, the Treasury Department announced Wednesday.",
+            "The Treasury also said that a new $5 bill will honor two important American events that happened at the Lincoln Memorial: Marian Anderson\u2019s 1939 performance on the steps and Martin Luther King\u2019s 1963 \u201dI Have a Dream\u201d speech."
+        ],
+        "tf-idf score": [
+            0.3013840290197574,
+            0.5630995104220695,
+            0.7136968125484789
+        ]
+    },
+    "0.3179031745299063-3-182": {
+        "average clique similarity": 0.3179031745299063,
+        "clique": [
+            "0-President Andrew Jac",
+            "2-   crusader Harriet ",
+            "3-Harriet Tubman is go"
+        ],
+        "median tf-idf score": 0.6422135867784213,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "President Andrew Jackson, a controversial figure due to his harsh treatment of Native Americans and currently featured on the front of the bill, will move to the back of the note.",
+            "   crusader Harriet Tubman will become the first   on the face of U S paper currency, and the first woman in more than a century, when she replaces former President Andrew Jackson on the $20 bill.",
+            "Harriet Tubman is going to be the new of face of the $20 bill, replacing former President Andrew Jackson \u2014  and becoming the first black American to ever appear on US paper currency."
+        ],
+        "tf-idf score": [
+            0.492037664076026,
+            0.6422135867784213,
+            0.7568549133478896
+        ]
+    },
+    "0.32539777383591106-3-169": {
+        "average clique similarity": 0.32539777383591106,
+        "clique": [
+            "0-The new notes are ex",
+            "3-More than 118  000 o",
+            "4-The final redesigns "
+        ],
+        "median tf-idf score": 0.5329875204423987,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The new notes are expected to be unveiled by 2020, on the 100th anniversary of the 19th Amendment, which gave women the right to vote.",
+            "More than 118, 000 of the 609, 000 people surveyed for the petition chose the   former slave to be the face of the $20 bill, with the goal of having it changed by 2020 \u2014  the centennial of the 19th Amendment, which granted women the right to vote.",
+            "The final redesigns will be unveiled in 2020, the centennial of the 19th Amendment establishing women\u2019s suffrage, and will not go into wide circulation until later in the decade, starting with the new $10 note."
+        ],
+        "tf-idf score": [
+            0.5248777371496656,
+            0.5329875204423987,
+            0.535253390567284
+        ]
+    },
+    "0.33696318862637464-3-182": {
+        "average clique similarity": 0.33696318862637464,
+        "clique": [
+            "2-The reverse of a new",
+            "4-Dr Martin Luther Kin",
+            "0-The redesigned bill "
+        ],
+        "median tf-idf score": 0.23103594819571885,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The reverse of a new $5 note will show former first lady Eleanor Roosevelt and civil rights leader Martin Luther King Jr officials said.",
+            "Dr Martin Luther King Jr who in 1963 delivered his \u201cI have a dream\u201d speech from its steps.",
+            "The redesigned bill will include Martin Luther King Jr Marian Anderson, and Eleanor Roosevelt."
+        ],
+        "tf-idf score": [
+            0.5534888180451449,
+            0.13341738711997994,
+            0.23103594819571885
+        ]
+    },
+    "0.3447963529626527-3-105": {
+        "average clique similarity": 0.3447963529626527,
+        "clique": [
+            "1-Miranda  the creator",
+            "0-Lew told me  you re ",
+            "2-Actress Mara Wilson "
+        ],
+        "median tf-idf score": 0.35728897469712534,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Miranda, the creator of Hamilton, personally lobbied Lew and after a meeting last month, he tweeted that the Treasury secretary had told him \u201dyou\u2019re going to be very happy\u201d.",
+            "Lew told me \u201dyou\u2019re going to be very happy\u201d.",
+            "Actress Mara Wilson (@MaraWritesStuff) tweeted at Miranda, the \u201dHamilton\u201d creator, saying: \u201c@Lin_Manuel First you win a Pulitzer, now you\u2019re affecting US currency."
+        ],
+        "tf-idf score": [
+            0.6094912765029915,
+            0.18855601424558627,
+            0.35728897469712534
+        ]
+    },
+    "0.3888745180264899-4-154": {
+        "average clique similarity": 0.3888745180264899,
+        "clique": [
+            "2-A new  10 bill will ",
+            "1-The new  10 bill wil",
+            "4-The picture of the T",
+            "3-The Treasury Departm"
+        ],
+        "median tf-idf score": 0.8373196493766426,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "A new $10 bill will add images of five female leaders of the women\u2019s suffrage movement, including Sojourner Truth and Elizabeth Cady Stanton, to the back, while keeping founding father Alexander Hamilton on the front.",
+            "The new $10 bill will keep Hamilton on the front but in the back feature \u201dan image of the historic march for suffrage that ended on the steps of the Treasury Department\u201d.",
+            "The picture of the Treasury building on the back of the $10 bill would be replaced with a depiction of a 1913 march in support of women\u2019s right to vote that ended at the building, along with portraits of five suffrage leaders: Lucretia Mott, Sojourner Truth, Elizabeth Cady Stanton, Alice Paul and Susan B Anthony, who in more recent years was on an unpopular $1 coin until minting ceased.",
+            "The Treasury Department also announced that Alexander Hamilton will remain on the front of the $10 bill, but that members of the women\u2019s suffrage movement \u2014  including Lucretia Mott, Sojourner Truth, Susan B Anthony, Elizabeth Cady Stanton and Alice Paul \u2014  will be added to the back."
+        ],
+        "tf-idf score": [
+            0.7821208645089399,
+            0.5801586771222464,
+            0.9793547346771314,
+            0.8925184342443454
+        ]
+    }
+}

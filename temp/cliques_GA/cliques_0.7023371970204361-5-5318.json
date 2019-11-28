@@ -1,0 +1,198 @@
+{
+    "0.20601952190463338-3-66": {
+        "average clique similarity": 0.20601952190463338,
+        "clique": [
+            "1-Stein has said her g",
+            "3-See Predictions Map ",
+            "4-Stein s campaign is "
+        ],
+        "median tf-idf score": 1.070271404987819,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Stein has said her goal is to raise $7 million to cover all fees and legal costs. Her effort may have given a ray of hope to dispirited Clinton supporters, but the chance of overturning the overall result of the Nov. 8 election is considered very slim, even if all three states go along with the recount.",
+            "See Predictions Map - Stein's campaign has been raising money online to cover the costs of recounts in Wisconsin, Michigan and Pennsylvania.",
+            "Stein's campaign is hoping to reach $7 million to cover attorney's fees and recounts in the other two states."
+        ],
+        "tf-idf score": [
+            1.533054659995173,
+            1.070271404987819,
+            0.8881756469478645
+        ]
+    },
+    "0.21026435895496456-3-72": {
+        "average clique similarity": 0.21026435895496456,
+        "clique": [
+            "0-In the end  Stein  w",
+            "1-The Green Party cand",
+            "3-Martin said Republic"
+        ],
+        "median tf-idf score": 1.0088186400079722,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "In the end, Stein, who secured 31, 006 votes in Wisconsin, was not the only presidential candidate to demand a recount.",
+            "The Green Party candidate, who garnered little more than 1 percent of the nationwide popular vote herself, said on Friday that she was seeking to verify the integrity of the U S voting system, not to undo Trump's victory.",
+            "Martin said Republicans' response was expected and stressed that the recount was about determining whether the system was secure, not who won or lost the fight for Wisconsin's 10 electoral college votes."
+        ],
+        "tf-idf score": [
+            1.0088186400079722,
+            0.7677786471216949,
+            1.0176151129550215
+        ]
+    },
+    "0.21532425610727948-3-37": {
+        "average clique similarity": 0.21532425610727948,
+        "clique": [
+            "4- Jill Stein s decisi",
+            "0-     An election rec",
+            "1-The recount process "
+        ],
+        "median tf-idf score": 1.6304063945586105,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"Jill Stein's decision to pursue a recount is absurd and nothing more than an expensive political stunt that undermines Wisconsin's election process,\" Mark Morgan, executive director of the Wisconsin Republican Party, said in a statement.",
+            "     An election recount will take place soon in Wisconsin, after former Green Party presidential candidate Jill Stein filed a petition Friday with the state's Election Commission, the first of three states where she has promised to contest the election result.",
+            "The recount process, including an examination by hand of the nearly 3 million ballots tabulated in Wisconsin, is expected to begin late next week after Green Party candidate Jill Stein's campaign has paid the required fee, the Elections Commission said."
+        ],
+        "tf-idf score": [
+            1.2621194618398777,
+            1.6304063945586105,
+            1.6786379855741318
+        ]
+    },
+    "0.2268163442425668-3-112": {
+        "average clique similarity": 0.2268163442425668,
+        "clique": [
+            "0-The move from Stein ",
+            "4-Green Party Candidat",
+            "1-1 million  She said "
+        ],
+        "median tf-idf score": 1.4511812860664193,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The move from Stein, who raised millions since her Wednesday announcement that she would seek recounts of Donald Trump's apparent election victories in Wisconsin, Pennsylvania and Michigan, came just 90 minutes before Wisconsin's 5 p. m. Friday deadline to file a petition.",
+            "Green Party Candidate Jill Stein filed a recount petition Friday in Wisconsin and said she has raised $5.",
+            "1 million. She said she has raised at least $5 million from donors since launching her drive on Wednesday for recounts in Wisconsin, Michigan and Pennsylvania   three battleground states where Republican Trump edged out Democratic nominee Hillary Clinton by relatively thin margins."
+        ],
+        "tf-idf score": [
+            1.53611936223744,
+            1.1888671891396259,
+            1.4511812860664193
+        ]
+    },
+    "0.23157052197160377-3-129": {
+        "average clique similarity": 0.23157052197160377,
+        "clique": [
+            "1-Although Trump won n",
+            "0-Had Clinton won thos",
+            "4-Trump currently has "
+        ],
+        "median tf-idf score": 0.7165430972302269,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "Although Trump won narrowly in Wisconsin, Michigan and Pennsylvania, the margins make it highly unlikely any recounts would end up giving Clinton a win in all three states, which would be needed for the overall election result to change.",
+            "Had Clinton won those three states, previously seen as part of the Democrats' \"firewall,\" she would have secured enough electoral votes to win the election.",
+            "Trump currently has 306 electoral votes. He would have to lose all three recounts to go under 270, the number required to become president."
+        ],
+        "tf-idf score": [
+            1.366595064064751,
+            0.6853509821857389,
+            0.7165430972302269
+        ]
+    },
+    "0.2671791481851818-3-48": {
+        "average clique similarity": 0.2671791481851818,
+        "clique": [
+            "0-If Stein s campaign ",
+            "2-If all three states ",
+            "1-The filing deadline "
+        ],
+        "median tf-idf score": 1.0462872134390862,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "If Stein's campaign wishes to file recount petitions in the other states as promised, she must do so by Monday to meet Pennsylvania's deadline, and Wednesday to meet the Nov. 30 deadline in Michigan.",
+            "If all three states move to Clinton, she would win enough electoral college votes. Pennsylvania's recount deadline is Monday and Michigan's is Wednesday.",
+            "The filing deadline is Monday in Pennsylvania and Wednesday in Michigan. The Wisconsin board said Stein was joined in her petition by another   candidate, Rocky Roque De La Fuente."
+        ],
+        "tf-idf score": [
+            1.1380552284931906,
+            1.0462872134390862,
+            1.0388822590146634
+        ]
+    },
+    "0.26806443452073936-3-90": {
+        "average clique similarity": 0.26806443452073936,
+        "clique": [
+            "1-The state faces a De",
+            "3-The state is working",
+            "2- We plan to hold a t"
+        ],
+        "median tf-idf score": 0.9769426741356414,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The state faces a Dec. 13 federal deadline to complete the recount, which may require canvassers in Wisconsin's 72 counties to work evenings and weekends to finish the job in time, according to the commission.",
+            "The state is working under a federal deadline of December 13 to complete the recount.",
+            "\"We plan to hold a teleconference meeting for county clerks next week and anticipate the recount will begin late in the week after the Stein campaign has paid the recount fee, which we are still calculating. \" The federal deadline for the recount is Dec. 13."
+        ],
+        "tf-idf score": [
+            1.0673392211486756,
+            0.613184127042319,
+            0.9769426741356414
+        ]
+    },
+    "0.5064872945421419-4-54": {
+        "average clique similarity": 0.5064872945421419,
+        "clique": [
+            "4- The Commission is p",
+            "3- The Commission is p",
+            "0-In a statement  Wisc",
+            "2- The Commission is p"
+        ],
+        "median tf-idf score": 1.2618094737458758,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"The Commission is preparing to move forward with a statewide recount of votes for President of the United States, as requested by these candidates,\" said Wisconsin Elections Commission Michael Haas said.",
+            "\"The Commission is preparing to move forward with a statewide recount of votes for President of the United States,\" Haas said in a press release.",
+            "In a statement, Wisconsin Elections Commission Administrator Michael Haas guessed that the cost and complexity of the recount would be in excess of the state's last recount in 2011, which carried a price tag of more than $520, 000.",
+            "\"The Commission is preparing to move forward with a statewide recount of votes for President of the United States, as requested by these candidates,\" Wisconsin Elections Commission Administrator Michael Haas said in a statement Friday evening."
+        ],
+        "tf-idf score": [
+            1.4105910006038838,
+            0.9931806229533511,
+            1.1130279468878679,
+            1.5341054302026722
+        ]
+    }
+}

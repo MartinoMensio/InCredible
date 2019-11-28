@@ -1,0 +1,538 @@
+{
+    "0.18894752668946882-3-240": {
+        "average clique similarity": 0.18894752668946882,
+        "clique": [
+            "0-That growth was fuel",
+            "4-6 billion in revenue",
+            "2-Any hint of weakness"
+        ],
+        "median tf-idf score": 0.7608531445364612,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "That growth was fueled by the iPhone, which accounts for   of Apple\u2019s revenue.",
+            "6 billion in revenue for the holiday quarter.",
+            "Any hint of weakness in its iPhone business is bad news for Apple, which relies on the smartphone for at least 60 percent of its revenue."
+        ],
+        "tf-idf score": [
+            0.7608531445364612,
+            0.4628716305684321,
+            0.8462894763679053
+        ]
+    },
+    "0.1901115770511502-3-317": {
+        "average clique similarity": 0.1901115770511502,
+        "clique": [
+            "0-In addition  Apple s",
+            "1-4 million the compan",
+            "3-Apple s guidance for"
+        ],
+        "median tf-idf score": 1.0002962045967054,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "In addition, Apple sold 16 million iPads and 5 million Macs, for another $14 billion in revenue.",
+            "4 million the company sold in the same period last year.\u2019 \u2019Apple\u2019s total sales in Greater China, which includes Hong Kong and Taiwan, were $18.",
+            "Apple\u2019s guidance for the March quarter implies iPhone sales of 50 million to 52 million units in the March quarter, which would mark the company\u2019s   decline in sales of the gadget, said analyst Daniel Ives of FBR Capital Markets & Co."
+        ],
+        "tf-idf score": [
+            0.9010009989015013,
+            1.0002962045967054,
+            1.2449893764466138
+        ]
+    },
+    "0.2032329679026406-3-202": {
+        "average clique similarity": 0.2032329679026406,
+        "clique": [
+            "2-Now that there final",
+            "3- Pressure on the sha",
+            "0-And the most obvious"
+        ],
+        "median tf-idf score": 0.30470439824495377,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Now that there finally may be an end to that period of hyper growth, the pressure on the firm to create another groundbreaking product will be greater.",
+            "\u201dPressure on the shares will continue without a   plan to grow sales or a new product\u201d.",
+            "And the most obvious candidate is the Apple Watch, a new product that  \u2014   anecdotally, at least  \u2014   seems to be catching on with consumers."
+        ],
+        "tf-idf score": [
+            0.30470439824495377,
+            0.25869567043878633,
+            0.5214839707008249
+        ]
+    },
+    "0.2121294078245685-3-58": {
+        "average clique similarity": 0.2121294078245685,
+        "clique": [
+            "1-The watch launched i",
+            "4-Note that Apple s fi",
+            "3-8 million iPhones in"
+        ],
+        "median tf-idf score": 0.5630251664369958,
+        "publications": [
+            "Business Insider",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "The watch launched in the third quarter of Apple\u2019s fiscal 2015, when the \u201cother products\u201d segment had $2.",
+            "Note that Apple\u2019s fiscal first quarter is October to December:\u201d",
+            "8 million iPhones in its fiscal first quarter, ended Dec. 26, the first full quarter of sales of the iPhone 6S and 6S Plus."
+        ],
+        "tf-idf score": [
+            0.6379526708870835,
+            0.5630251664369958,
+            0.49666404753452154
+        ]
+    },
+    "0.21757187412232992-3-209": {
+        "average clique similarity": 0.21757187412232992,
+        "clique": [
+            "1-1 billion a year ago",
+            "0-The iPhone is a trul",
+            "4- Two years ago  Appl"
+        ],
+        "median tf-idf score": 0.47352161450400315,
+        "publications": [
+            "Vox",
+            "Buzzfeed News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "1 billion a year ago.",
+            "The iPhone is a truly massive hit            To get a sense for the magnitude of the iPhone\u2019s success, it\u2019s helpful to look back at Apple\u2019s financial picture nine years ago.",
+            "\u201dTwo years ago, Apple delivered $57."
+        ],
+        "tf-idf score": [
+            0.24966362292432062,
+            0.6882159540444781,
+            0.47352161450400315
+        ]
+    },
+    "0.21838242936690566-3-146": {
+        "average clique similarity": 0.21838242936690566,
+        "clique": [
+            "0-3 billion  than it d",
+            "3-Apple does not repor",
+            "2-Does Apple have a co"
+        ],
+        "median tf-idf score": 0.3871058969807847,
+        "publications": [
+            "Vox",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "3 billion) than it does from Europe ($17.",
+            "Apple does not report Watch sales, but it does not appear to have the makings of being a hit on the same level as the iPhone a year after launch.",
+            "Does Apple have a competitive answer to that?"
+        ],
+        "tf-idf score": [
+            0.2067768065653099,
+            0.7830730187354774,
+            0.3871058969807847
+        ]
+    },
+    "0.22032990054288415-3-55": {
+        "average clique similarity": 0.22032990054288415,
+        "clique": [
+            "1-   Apple reported an",
+            "2-     Apple said Tues",
+            "3- Apple Inc     forec"
+        ],
+        "median tf-idf score": 1.1961225788083323,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u2019] Apple reported an $18 billion profit for the final three months of 2015, beating analysts expectations, but warned its revenues could decline in the coming quarter  \u2014   a drop that would be the first such quarterly    decline in 13 years.",
+            "     Apple said Tuesday sales of its iPhones increased at the slowest pace since the smartphone was introduced in 2007, a sign that the period of wild growth of the company\u2019s flagship device may be coming to an end.",
+            " Apple Inc ( ) forecast its first revenue drop in 13 years and reported the   increase in iPhone shipments as the critical Chinese market showed signs of weakening, suggesting the technology company\u2019s period of exponential growth may be ending."
+        ],
+        "tf-idf score": [
+            1.2623751893862982,
+            1.0651017385633286,
+            1.1961225788083323
+        ]
+    },
+    "0.22619894112662253-3-267": {
+        "average clique similarity": 0.22619894112662253,
+        "clique": [
+            "2-9 billion in revenue",
+            "0-4 billion in revenue",
+            "4-7 billion  which wou"
+        ],
+        "median tf-idf score": 0.33475756511195187,
+        "publications": [
+            "Business Insider",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "9 billion in revenue, less than the $76.",
+            "4 billion in revenue, respectively.",
+            "7 billion, which would be a 4% drop  \u2014   the first revenue decline in Apple\u2019s modern history\u201d."
+        ],
+        "tf-idf score": [
+            0.33475756511195187,
+            0.31484971168906406,
+            0.7986014494717818
+        ]
+    },
+    "0.22748548411641478-3-265": {
+        "average clique similarity": 0.22748548411641478,
+        "clique": [
+            "2-But it broke records",
+            "3-The company reported",
+            "0-Apple now gets more "
+        ],
+        "median tf-idf score": 0.3425850511455479,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "But it broke records from a profit standpoint, reporting $18.",
+            "The company reported revenue of $18.",
+            "Apple now gets more revenue from China ($18."
+        ],
+        "tf-idf score": [
+            0.09162593334139771,
+            0.3425850511455479,
+            0.5947567321236693
+        ]
+    },
+    "0.2317467301538283-3-82": {
+        "average clique similarity": 0.2317467301538283,
+        "clique": [
+            "1-We re seeing extreme",
+            "3- We are starting to ",
+            "2-But he added   Beyon"
+        ],
+        "median tf-idf score": 0.06938349056302966,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "We\u2019re seeing extreme conditions unlike anything we have experienced before just about everywhere we look.",
+            "\u201dWe are starting to see something that we have not seen before\u201d.",
+            "But he added, \u201dBeyond the   volatility, we remain very confident about the   potential of the China market and the large opportunities ahead of us, and we are maintaining our investment plans."
+        ],
+        "tf-idf score": [
+            0.06938349056302966,
+            0.016397568242360307,
+            0.1930008360887101
+        ]
+    },
+    "0.2344509525215989-3-69": {
+        "average clique similarity": 0.2344509525215989,
+        "clique": [
+            "3-Apple reported earni",
+            "1-5  in the last year ",
+            "4-    This is the big "
+        ],
+        "median tf-idf score": 0.6827281395789827,
+        "publications": [
+            "Buzzfeed News",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "Apple reported earnings of $3.",
+            "5% in the last year going into Tuesday\u2019s earnings report, with several of Apple\u2019s suppliers warning of soft demand for new iPhones.",
+            "\u2019\u2019 \u2019This is the big one, folks.\u2019 \u2019Apple will report its   earnings after the market closes on Tuesday afternoon.\u2019 \u2019This will be the most important Apple earnings report in as long as we can remember.\u2019 \u201dAnalysts across the board are saying that Apple\u2019s iPhone business is going to be negative for the first time in history during the first three months of this year\u201d."
+        ],
+        "tf-idf score": [
+            0.42732085401282655,
+            0.6827281395789827,
+            1.113672746520987
+        ]
+    },
+    "0.2387030406466227-3-74": {
+        "average clique similarity": 0.2387030406466227,
+        "clique": [
+            "2- The growth of our s",
+            "1-Apple chief executiv",
+            "3-IPhone sales were ex"
+        ],
+        "median tf-idf score": 0.7854137519889955,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201dThe growth of our services business accelerated during the quarter to produce record results, and our installed base recently crossed a major milestone of one billion active devices,\u201d said chief executive Tim Cook in a statement.",
+            "Apple chief executive Tim Cook said that had currency values stayed the same over the year, Apple\u2019s revenue would be about $5 billion higher than it actually was.",
+            "IPhone sales were expected to fall for the current quarter compared with the same quarter last year, Chief Executive Officer Tim Cook said on a conference call with analysts."
+        ],
+        "tf-idf score": [
+            0.7441285872531328,
+            1.0727452450592778,
+            0.7854137519889955
+        ]
+    },
+    "0.25549008036185894-3-142": {
+        "average clique similarity": 0.25549008036185894,
+        "clique": [
+            "0-In a conference call",
+            "1-   Cook said in a ca",
+            "2-On a conference call"
+        ],
+        "median tf-idf score": 0.523096329648134,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Vox"
+        ],
+        "sentences": [
+            "In a conference call following the results, Apple said that weakness in foreign currencies was a significant factor in its weak results.",
+            ",\u201d Cook said in a call with analysts.",
+            "On a conference call with investors, Cook said that the company \u201dbegan to see some signs of economic softness in  greater China earlier this month, most notably in Hong Kong\u201d."
+        ],
+        "tf-idf score": [
+            0.6639538441408249,
+            0.22424322212380993,
+            0.523096329648134
+        ]
+    },
+    "0.2718623482723403-3-320": {
+        "average clique similarity": 0.2718623482723403,
+        "clique": [
+            "1-6 billion in revenue",
+            "3-Revenue from the reg",
+            "2-In fact  Apple repor"
+        ],
+        "median tf-idf score": 0.3322953746431108,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "6 billion in revenue.",
+            "Revenue from the region had nearly doubled in the fourth quarter.",
+            "In fact, Apple reported that revenue from services such as the App Store, iTunes, Apple Music and Apple Pay was up 26 percent, to $6 billion in the quarter."
+        ],
+        "tf-idf score": [
+            0.309035235842405,
+            0.3322953746431108,
+            1.0917719455635766
+        ]
+    },
+    "0.2817644354289334-3-306": {
+        "average clique similarity": 0.2817644354289334,
+        "clique": [
+            "0-Revenues from these ",
+            "1-4 billion  up from  ",
+            "2-3 billion in revenue"
+        ],
+        "median tf-idf score": 0.4386134161198561,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Revenues from these products grew 62 percent last quarter compared with a year earlier, from $2.",
+            "4 billion, up from $16.",
+            "3 billion in revenue, up 62 percent."
+        ],
+        "tf-idf score": [
+            0.6545832353934882,
+            0.1701562157201002,
+            0.4386134161198561
+        ]
+    },
+    "0.28230126806455574-4-95": {
+        "average clique similarity": 0.28230126806455574,
+        "clique": [
+            "3-The company s shares",
+            "1-Apple s stock has fa",
+            "2-Those reports have w",
+            "0-Apple s stock price "
+        ],
+        "median tf-idf score": 0.6687924652521162,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The company\u2019s shares, which have fallen 5 percent this year, bounced around in   trading and were down more than 2.",
+            "Apple\u2019s stock has fallen further than the   Nasdaq, which is down 4% in the same period, and the SP 500, which has fallen 7%.",
+            "Those reports have weighed on Apple\u2019s stock for months, which has fallen about 25 percent since July and was trading around $100 per share in regular trading on Tuesday.",
+            "Apple\u2019s stock price fell about 2 percent in   trading on Tuesday, and the stock is down by 12 percent over the past three months  \u2014   a bigger decline than the broader stock market."
+        ],
+        "tf-idf score": [
+            0.4147730844901855,
+            0.5843551658376586,
+            0.8601297305379543,
+            0.753229764666574
+        ]
+    },
+    "0.2951885248018159-4-173": {
+        "average clique similarity": 0.2951885248018159,
+        "clique": [
+            "3-2 million iPhones ",
+            "0-6 million Macs and 2",
+            "2-5 million it sold du",
+            "1-3 million and well s"
+        ],
+        "median tf-idf score": 0.1547431042722698,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "2 million iPhones.",
+            "6 million Macs and 21 million iPods between October and December 2006, generating $2.",
+            "5 million it sold during the same period in 2014 and less than analyst estimates of between 75 million and 77 million units sold.",
+            "3 million and well short of the 21."
+        ],
+        "tf-idf score": [
+            0.13032525630449923,
+            0.1791609522400404,
+            0.32283268681465527,
+            0.1042394562228552
+        ]
+    },
+    "0.29775194499107904-3-163": {
+        "average clique similarity": 0.29775194499107904,
+        "clique": [
+            "0-The number of iPhone",
+            "1-5 million iPhones Ap",
+            "3-In the same quarter "
+        ],
+        "median tf-idf score": 0.6243713532477105,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "The number of iPhones sold last quarter was up less than 1 percent from a year earlier.",
+            "5 million iPhones Apple sold in the last three months of 2014, in what was one of the most successful quarters in corporate history.\u2019 \u2019Apple sold 16.",
+            "In the same quarter last year Apple sold 61."
+        ],
+        "tf-idf score": [
+            0.5864797417141636,
+            0.8612794421687983,
+            0.6243713532477105
+        ]
+    },
+    "0.31913684408331505-3-303": {
+        "average clique similarity": 0.31913684408331505,
+        "clique": [
+            "1-For the coming quart",
+            "0-4 billion and  3 ",
+            "3-Apple forecast   rev"
+        ],
+        "median tf-idf score": 0.7911300724877675,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "For the coming quarter, Apple projected revenues between $50 billion and $53 billion, down from the $58 billion it made in the first three months of 2015.",
+            "4 billion and $3.",
+            "Apple forecast   revenue of $50 billion to $53 billion, below analysts\u2019 average forecast of $55."
+        ],
+        "tf-idf score": [
+            0.8621689702166326,
+            0.13968241008558493,
+            0.7911300724877675
+        ]
+    },
+    "0.35144169736262937-3-16": {
+        "average clique similarity": 0.35144169736262937,
+        "clique": [
+            "1-9 billion in revenue",
+            "2-Other products      ",
+            "0-But the rest of Appl"
+        ],
+        "median tf-idf score": 0.8017488748191709,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "9 billion in revenue.\u2019 \u2019The \u201cother products\u201d segment, which includes the Apple Watch and Apple TV, had revenues of $4.",
+            "Other products  \u2014   a category that includes the Apple TV and the Apple Watch  \u2014   generated $4.",
+            "But the rest of Apple\u2019s product portfolio has been totally overshadowed by the iPhone, which generates twice as much revenue as all of Apple\u2019s other products and services put together."
+        ],
+        "tf-idf score": [
+            0.8217030914579158,
+            0.5220887475660424,
+            0.8017488748191709
+        ]
+    },
+    "0.40100006729810156-3-72": {
+        "average clique similarity": 0.40100006729810156,
+        "clique": [
+            "2-That s just above th",
+            "3-The company said on ",
+            "1- Apple sold 74 "
+        ],
+        "median tf-idf score": 0.29400516143232314,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "That\u2019s just above the 74.",
+            "The company said on Tuesday it sold 74.",
+            "\u2019Apple sold 74."
+        ],
+        "tf-idf score": [
+            0.0,
+            0.29400516143232314,
+            0.4058041361533164
+        ]
+    },
+    "0.4016127322085426-3-22": {
+        "average clique similarity": 0.4016127322085426,
+        "clique": [
+            "2-67 billion that anal",
+            "3-Analysts had expecte",
+            "4-It s expected to del"
+        ],
+        "median tf-idf score": 0.26186118042483575,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "67 billion that analysts had expected.",
+            "Analysts had expected revenue of $76.",
+            "It\u2019s expected to deliver $76."
+        ],
+        "tf-idf score": [
+            0.26186118042483575,
+            0.2915315960960708,
+            0.04382935414064062
+        ]
+    }
+}

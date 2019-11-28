@@ -1,0 +1,282 @@
+{
+    "0.24035181768021677-3-154": {
+        "average clique similarity": 0.24035181768021677,
+        "clique": [
+            "2-The breach was the s",
+            "4-Earlier this year  V",
+            "3-Both have been annou"
+        ],
+        "median tf-idf score": 1.0403143330341051,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The breach was the second   theft of data from Yahoo since Verizon announced its intention to buy the internet company this summer.",
+            "Earlier this year, Verizon agreed to buy Yahoo for $4. 8 billion. The purchase is supposed to be finalized early in 2017, but after the first hack was announced in September, Verizon said it would \"evaluate\" its potential impact on the deal.",
+            "Both have been announced since Yahoo agreed to sell its core businesses to telecommunications giant Verizon in July for $4. 8 billion. The incident raised new questions among analysts regarding the viability of that deal and whether the valuation will need to be changed, especially if the hacks triggers litigation against the company."
+        ],
+        "tf-idf score": [
+            1.0403143330341051,
+            0.989663781307348,
+            1.0526456460739588
+        ]
+    },
+    "0.258363705092042-4-77": {
+        "average clique similarity": 0.258363705092042,
+        "clique": [
+            "0-Yahoo also said Wedn",
+            "6-Based on the ongoing",
+            "5-Yahoo now believes t",
+            "2-The attacker was abl"
+        ],
+        "median tf-idf score": 1.2024134456722295,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Yahoo also said Wednesday that it believes hackers responsible for the previous breach had also accessed the company's proprietary code to learn how to forge \"cookies\" that would allow hackers to access an account without a password.",
+            "Based on the ongoing investigation, the company believes an unauthorized third party accessed the company''s proprietary code to learn how to forge cookies. The outside forensic experts have identified user accounts for which they believe forged cookies were taken or used.",
+            "Yahoo now believes the hackers stole proprietary code from the company and used it to build falsified \"session cookies\"  --   bits of code that tell Yahoo's servers that a computer has already logged in, so that users don't have to keep entering passwords every time they open a new window.",
+            "The attacker was able to \"forge\" cookies --  small packages of data that track users and tell browsers which accounts a user is signed into, among other things --  by accessing and dissecting Yahoo's \"proprietary code,\" the company said."
+        ],
+        "tf-idf score": [
+            1.2608580986976141,
+            0.9648023347517569,
+            1.143968792646845,
+            1.3916287907618996
+        ]
+    },
+    "0.26729198195984377-4-52": {
+        "average clique similarity": 0.26729198195984377,
+        "clique": [
+            "6-    More than 1 bill",
+            "2-Updated at 6 30 p  m",
+            "4-Based on further ana",
+            "3-The company  in conj"
+        ],
+        "median tf-idf score": 1.0824325955081135,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "'' 'More than 1 billion Yahoo user accounts  --   including phone numbers, birthdates, and security questions  --   may have been stolen by hackers during an attack that took place in August 2013, the  on Wednesday.'",
+            "Updated at 6:30 p. m. A hacker stole information from more than one billion Yahoo email accounts in August 2013, the company announced Wednesday.",
+            "Based on further analysis of this data by the forensic experts, Yahoo believes an unauthorized third party, in August 2013, stole data associated with more than one billion user accounts.",
+            "The company, in conjunction with outside experts, verified that it was data stolen in August 2013, the company said in a statement."
+        ],
+        "tf-idf score": [
+            1.1346375374534818,
+            1.0490395086130557,
+            1.1158256824031714,
+            0.7172234539711801
+        ]
+    },
+    "0.27639115349563304-4-154": {
+        "average clique similarity": 0.27639115349563304,
+        "clique": [
+            "3-News of the hack  co",
+            "6- The announcement of",
+            "2-At the time  that lo",
+            "5-Speaking to reporter"
+        ],
+        "median tf-idf score": 1.0231450253567853,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "News of the hack, coming after the announcement in September of a separate hack affecting 500 million accounts, means that Yahoo has been the victim of the two largest data breaches ever reported.",
+            "'The announcement of what could represent the largest hack of all time is a . In that hack, Yahoo said that at least 500 million user accounts were compromised.'",
+            "At the time, that looked like one of the largest single data breaches in existence --  but it's now been eclipsed in scale by the latest hack. The company says the data breach it announced Wednesday is separate from the one it notified users about in September.",
+            "Speaking to reporters at the daily White House press briefing on Thursday, spokesman Josh Earnest said he could not comment on the scope of material that may have been compromised in the hack, the largest data breach in history, which Yahoo believes was  ."
+        ],
+        "tf-idf score": [
+            1.039830415031817,
+            0.9394525817902153,
+            1.0064596356817537,
+            1.0723692133708416
+        ]
+    },
+    "0.3024804980095412-3-154": {
+        "average clique similarity": 0.3024804980095412,
+        "clique": [
+            "6-          Yahoo said",
+            "4-That security breach",
+            "0-It said it had not y"
+        ],
+        "median tf-idf score": 0.9842505504597641,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "'' '' '' 'Yahoo said that   data and   information were not stored on the system the company \"believes\" was affected.",
+            "That security breach allowed hackers to steal the same types of information the company thinks were stolen in this instance. The company said that it believes the two incidents were distinct.",
+            "It said it had not yet identified the intrusion that led to the massive data theft and noted that   data and bank account information were not stored in the system the company believes was affected."
+        ],
+        "tf-idf score": [
+            1.0157828275509782,
+            0.7974888533902862,
+            0.9842505504597641
+        ]
+    },
+    "0.3028164538081904-3-119": {
+        "average clique similarity": 0.3028164538081904,
+        "clique": [
+            "3-The latest Yahoo bre",
+            "2-Yahoo says it discov",
+            "1- Yahoo believes  bas"
+        ],
+        "median tf-idf score": 1.3251917277957463,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The latest Yahoo breach was discovered after law enforcement officials shared with the company data that \"a third party\" claimed was from Yahoo user accounts.",
+            "Yahoo says it discovered the   breach with the help of law enforcement, which shared with the company a trove of stolen user data that it had uncovered.",
+            " Yahoo believes, based on   forensic evidence, that someone stole user data from 1 billion Yahoo accounts in 2013, according to a press release from the company. This theft, it says, is likely separate from the hack of 500 million accounts it disclosed in September. The company received information about the breach from law enforcement on Nov. 7, 2016, according to a spokesperson. But the company has not been able to identify the perpetrators of the   hack, the press release said."
+        ],
+        "tf-idf score": [
+            1.3251917277957463,
+            1.1166758833512613,
+            2.0176655037865237
+        ]
+    },
+    "0.3329769458914852-4-154": {
+        "average clique similarity": 0.3329769458914852,
+        "clique": [
+            "4-Updated at 7 00 p  m",
+            "6-But the hackers may ",
+            "3-  Yahoo said Wednesd",
+            "0-Yahoo was tentative "
+        ],
+        "median tf-idf score": 1.187777785424996,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Updated at 7:00 p. m. ET, Yahoo says hackers stole names, email addresses, phone numbers, dates of birth and encrypted or unencrypted security questions and answers from more than 1 billion accounts.",
+            "But the hackers may have collected a trove of other valuable personal information, such as user names, email addresses, telephone numbers, dates of birth, hashed passwords, and, in some cases, encrypted or unencrypted security questions and answers.' '' '\"Yahoo!",
+            "  Yahoo said Wednesday that 1 billion user accounts    meaning most of the Internet giant's customers worldwide    were hacked in 2013, leading to the release of user names, telephone numbers, dates of birth and other personal information.",
+            "Yahoo was tentative in its description of new problems, saying the incident was \"likely\" distinct from the one it reported in September and that stolen information \"may have included\" names,   addresses, telephone numbers, dates of birth, hashed passwords and, in some cases, encrypted or unencrypted security questions and answers."
+        ],
+        "tf-idf score": [
+            1.0594882387645896,
+            1.1651953855902262,
+            1.2103601852597659,
+            1.273304318862929
+        ]
+    },
+    "0.3521265134624871-3-25": {
+        "average clique similarity": 0.3521265134624871,
+        "clique": [
+            "1-Yahoo is requiring a",
+            "2-The data included na",
+            "3- Yahoo encourages us"
+        ],
+        "median tf-idf score": 1.4525758554577235,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Yahoo is requiring all potentially affected users to change their passwords and password recovery questions. The data may have included \"names, email addresses, telephone numbers, dates of birth, hashed passwords (using MD5) and, in some cases, encrypted or unencrypted security questions and answers. \" Credit card info was not affected, according to Yahoo. Flickr users should also change their passwords and otherwise ensure their accounts are secure.",
+            "The data included names, email addresses, telephone numbers, dates of birth, and password hashes, which are strings of characters that help a website check whether or not an entered password is correct. Some people may have also had answers to their security questions stolen, which, if published, could make it easier for hackers to gain access to other accounts that use the same security answers.",
+            "\"Yahoo encourages users to review all of their online accounts for suspicious activity and to change their passwords and security questions and answers for any other accounts on which they use the same or similar information used for their Yahoo account,\" the company said in a statement."
+        ],
+        "tf-idf score": [
+            1.6455324697417872,
+            1.045461380136648,
+            1.4525758554577235
+        ]
+    },
+    "0.37587236594683504-3-13": {
+        "average clique similarity": 0.37587236594683504,
+        "clique": [
+            "1-In October 2016  Reu",
+            "0-News of that attack ",
+            "3-We will review the i"
+        ],
+        "median tf-idf score": 1.2128845759561004,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "In October 2016, Reuters reported that Yahoo had built custom software for US intelligence to spy on Yahoo Mail users, which also incurred the ire of cybersecurity experts and Yahoo users alike, though Yahoo denied the existence of the software. This new hack, especially when considered with the 500 million account hack in September, may affect the proposed $4. 8 billion sale of Yahoo's core business to Verizon. Reuters earlier reported that Verizon pushed for a $1 billion discount on the deal. Verizon reiterated its statement from the September hack: \"As we've said all along, we will evaluate the situation as Yahoo continues its investigation. We will review the impact of this new development before reaching any final conclusions. \"",
+            "News of that attack, which affected at least 500 million accounts, prompted Verizon Communication Inc to say in October that it might withdraw from an agreement to buy Yahoo's core internet business for $4. 83 billion. Following the latest disclosure, Verizon said, \"we will review the impact of this new development before reaching any final conclusions\".",
+            "We will review the impact of this new development before reaching any final conclusions. \" Security experts also have long complained that Yahoo lagged the industry in adopting measures to protect its customers."
+        ],
+        "tf-idf score": [
+            1.6975165076191978,
+            1.2128845759561004,
+            0.6760871881658592
+        ]
+    },
+    "0.41176734188076436-3-154": {
+        "average clique similarity": 0.41176734188076436,
+        "clique": [
+            "4-Payment card data an",
+            "3-In the 2013 incident",
+            "6-Payment card data an"
+        ],
+        "median tf-idf score": 0.8276570043721311,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Payment card data and bank account information are not stored in the system the company believes was affected\".",
+            "In the 2013 incident, Yahoo said that credit card and bank account numbers, which are stored separately, were not affected, but the breach did include some unencrypted \"security questions\" that the company uses to verify the identities of users.",
+            "Payment card data and bank account information are not stored in the system the company believes was affected.'"
+        ],
+        "tf-idf score": [
+            0.8276570043721311,
+            1.4378551226061163,
+            0.8276570043721311
+        ]
+    },
+    "0.4909912227391558-3-154": {
+        "average clique similarity": 0.4909912227391558,
+        "clique": [
+            "5-In its November quar",
+            "4-The statement contin",
+            "6-  As Yahoo previousl"
+        ],
+        "median tf-idf score": 1.1486524174896864,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Business Insider"
+        ],
+        "sentences": [
+            "In its November quarterly results report, though, Yahoo hinted that there was worse to come: \"On November 7, 2016, law enforcement authorities began sharing certain data that they indicated was provided by a hacker who claimed the information was Yahoo user account data,\" company spokespeople told investors.",
+            "The statement continued: \"As Yahoo previously disclosed in November, law enforcement provided the company with data files that a third party claimed was Yahoo user data.",
+            "'\"As Yahoo previously disclosed in November, law enforcement provided the company with data files that a third party claimed was Yahoo user data."
+        ],
+        "tf-idf score": [
+            1.4322870393903848,
+            1.1486524174896864,
+            1.0919145923593565
+        ]
+    }
+}

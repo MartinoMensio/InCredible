@@ -1,0 +1,438 @@
+{
+    "0.14615899814108968-3-221": {
+        "average clique similarity": 0.14615899814108968,
+        "clique": [
+            "3-Analysts agree that ",
+            "4- The government s ex",
+            "0-The government crisi"
+        ],
+        "median tf-idf score": 0.4450185434291687,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Analysts agree that the big winners in the referendum are the two major euroskeptic parties  --   the   Northern League and the maverick   Movement, which waged the most vitriolic campaigns.",
+            "\"The government's experience is over, and in the afternoon I'll go to the Quirinal Hill to hand in my resignation\" to President Sergio Mattarella. Besides the \" \"   the outcome energized another \"anti\" party, the   Northern League, an ally of French   leader Marine Le Pen, a candidate in France's presidential race.",
+            "The government crisis could open the door to elections next year and to the possibility of the opposition   Movement gaining power in the heart of the single currency area."
+        ],
+        "tf-idf score": [
+            0.4450185434291687,
+            0.6114285115396609,
+            0.4407996523957111
+        ]
+    },
+    "0.15271897663116718-3-90": {
+        "average clique similarity": 0.15271897663116718,
+        "clique": [
+            "0-MARKETS RESILIENT  N",
+            "2-The referendum resul",
+            "3-A youth unemployment"
+        ],
+        "median tf-idf score": 0.6795740902418139,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "MARKETS RESILIENT \"No\" won an overwhelming 59. 1 percent of the vote in Sunday's vote. About 33 million Italians, or   of eligible voters, cast ballots following months of bitter campaigning that pitted Renzi against all major opposition parties, including the    .",
+            "The referendum results  --   59 percent of voters opposed the revisions  --   may have reflected enmity toward Renzi as much as a wave of populism washing over the Italian electorate.",
+            "A youth unemployment rate of close to 40 percent may be the reason why the \"no\" vote was highest among the young  --   70 percent of Italians under 35 years of age voted against Renzi's reforms."
+        ],
+        "tf-idf score": [
+            0.7784249455213578,
+            0.5676464618839496,
+            0.6795740902418139
+        ]
+    },
+    "0.1551675764638815-3-24": {
+        "average clique similarity": 0.1551675764638815,
+        "clique": [
+            "2-In    polling agains",
+            "0-Those groups have cr",
+            "1-And   parties are al"
+        ],
+        "median tf-idf score": 0.5344704388216238,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "In    polling against the ruling Democratic Party, it is the clear favorite, with an advantage of 53 percent to 47 percent, according to a survey from the EMG polling group released Sunday. Measured against all the parties in Italy, Five Star and the Democratic Party are in a dead heat.",
+            "Those groups have crowed that the referendum showed voters reject traditional elites, in the vein of the victories of Brexit and Trump, although mainstream opposition parties and even some leaders of Renzi's fractured   Democratic Party (PD) had also campaigned for \"no\".",
+            "And   parties are also seeking power in France. In Austria, the Green Party stalled the advance of populist forces on Sunday by defeating the presidential candidate of the Freedom Party, which was established by former Nazis."
+        ],
+        "tf-idf score": [
+            0.5344704388216238,
+            0.780422171177889,
+            0.4692601955087435
+        ]
+    },
+    "0.15545094986081412-3-136": {
+        "average clique similarity": 0.15545094986081412,
+        "clique": [
+            "2-Italy is no stranger",
+            "1- Populism is always ",
+            "3-Change is extremely "
+        ],
+        "median tf-idf score": 0.5712756844868857,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Italy is no stranger to political chaos, and the next government will be the 64th in 70 years.",
+            "\"Populism is always the offspring of fear,\" Mr Renzi said at the time. \"And in Italy, the answer to fear is the courage to not be defensive, to not be like all the others. \"",
+            "Change is extremely difficult in what is essentially a very conservative system that guarantees the status quo for all parties  --   from left to right. Analysts widely agree that Sunday's resounding \"no\" vote means no reforms of any kind are likely to be approved for many years to come."
+        ],
+        "tf-idf score": [
+            0.41801703162598314,
+            0.6504587610719558,
+            0.5712756844868857
+        ]
+    },
+    "0.16082891045397207-3-204": {
+        "average clique similarity": 0.16082891045397207,
+        "clique": [
+            "4-The   Movement  led ",
+            "3-Founded by comedian ",
+            "2- A lesson for everyo"
+        ],
+        "median tf-idf score": 0.6334170103999421,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The   Movement, led by   comic Beppe Grillo, spearheaded the No camp on the constitutional reforms, a package aimed at updating Italy's   Constitution that Renzi had depicted as vital to modernizing Italy and reviving its economy.",
+            "Founded by comedian Beppe Grillo, its platform causes nightmares in Brussels and other European capitals: It calls for a   universal income, abolishing Italy's fiscal commitments to the European Union and a referendum on Italy's membership in the euro  --   a prospect that could unravel the entire   eurozone.",
+            "\"A lesson for everyone: You can't always lie to the people without suffering the consequences,\" said Beppe Grillo, the caustic comedian who founded the Five Star movement."
+        ],
+        "tf-idf score": [
+            0.6421632069106521,
+            0.6334170103999421,
+            0.3597572738507622
+        ]
+    },
+    "0.16277216339544598-3-302": {
+        "average clique similarity": 0.16277216339544598,
+        "clique": [
+            "4-Another opposition l",
+            "0-In a moment of relie",
+            "1-But opposition to th"
+        ],
+        "median tf-idf score": 0.766175240516517,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "Another opposition leader, Matteo Salvini, of the   Northern League, hailed the referendum as a \"victory of the people against the strong powers of   of the world\". He urged elections straightaway. Many had read the referendum as an outlet for growing   populist sentiment in Europe.",
+            "In a moment of relief for mainstream Europe, Austrian voters on Sunday rejected Norbert Hofer, vying to become the first freely elected   head of state in Europe since World War Two, choosing a Greens leader as president instead. But elsewhere, the established order is in retreat. French President Francois Hollande said last week he would not seek   next year, and even German Chancellor Angela Merkel looks vulnerable as she seeks a fourth term in 2017.",
+            "But opposition to the proposals came from the same   sentiment  --   spiked with skepticism of globalization, open borders and the feasibility of an   European Union  --   that has transformed the politics of a growing list of European countries. Such movements have already smashed the traditional political structures in Greece and Spain, and forces skeptical of the European Union led Britain to vote in June to leave the union. In Germany, Chancellor Angela Merkel, once untouchable, now seems vulnerable in next year's elections."
+        ],
+        "tf-idf score": [
+            0.5778499610941943,
+            0.766175240516517,
+            0.7926649132640826
+        ]
+    },
+    "0.16431827730318524-3-63": {
+        "average clique similarity": 0.16431827730318524,
+        "clique": [
+            "1-The primary benefici",
+            "0-The referendum  inte",
+            "2- By simply being the"
+        ],
+        "median tf-idf score": 0.7958940419641798,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The primary beneficiary of Mr Renzi's defeat is Italy's   Five Star Movement, a party that advocates a referendum to determine whether Italy should give up the euro.",
+            "The referendum, intended to change rules to make Italy more governable, was opposed by   and populist parties, including groups that want Italy to ditch the euro.",
+            "\"By simply being there, they shape the political agenda, and they force the system to react to them,\" Piccoli said. If the Five Star movement does succeed in calling a referendum on the euro, the move could pressure Italy's shaky banking sector and rekindle the euro crisis."
+        ],
+        "tf-idf score": [
+            0.9055171699005797,
+            0.6642913140058344,
+            0.7958940419641798
+        ]
+    },
+    "0.16933279542742222-3-80": {
+        "average clique similarity": 0.16933279542742222,
+        "clique": [
+            "2-Mattarella asked Ren",
+            "0-Italy s largely cere",
+            "3-One scenario for the"
+        ],
+        "median tf-idf score": 0.610875527033843,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Mattarella asked Renzi on Monday to hold off on his resignation until the government passes next year's budget, a potential delay of a few days or a week that will buy some time for succession planning but does not significantly alter the political situation.",
+            "Italy's largely ceremonial head of state, President Sergio Mattarella, told the prime minister to stay on until parliament had approved the 2017 budget.",
+            "One scenario for the immediate future is that President Sergio Mattarella could appoint a caretaker government that would ensure passage of important commitments, such as next year's budget and reform of an electoral law that was premised on approval of the constitutional amendments."
+        ],
+        "tf-idf score": [
+            0.7177983386040326,
+            0.5037886523332562,
+            0.610875527033843
+        ]
+    },
+    "0.16996330121887296-3-239": {
+        "average clique similarity": 0.16996330121887296,
+        "clique": [
+            "1-But his support erod",
+            "3-A  yes  vote       f",
+            "2-The youthful     Ren"
+        ],
+        "median tf-idf score": 0.9622327986650142,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "But his support eroded, and world leaders anxiously watched the vote in Italy, the   economy in Europe, as a referendum on Mr Renzi's centrist government and as a barometer of the strength of   winds blowing across both sides of the Atlantic.",
+            "A \"yes\" vote  --   favored by Italy's business and banking world  --   would have been an added element of stability as the EU is called on to tackle urgent economic issues and the migration crisis, and as it faces crucial elections in 2017 in the Netherlands, France and Germany  --   all buffeted by the   wave.",
+            "The youthful,    Renzi had portrayed himself as a lone warrior against the Euroskepticism that fueled Britain's vote in June to break with the European Union and gave tail winds to   political leaders in France and elsewhere. \"This is something that is going on all over Europe, if you look at the momentum,\" said Manlio Di Stefano, a Five Star lawmaker in the lower house of Parliament."
+        ],
+        "tf-idf score": [
+            0.9622327986650142,
+            0.6225871566332852,
+            0.9644710696036679
+        ]
+    },
+    "0.1745339041853897-3-160": {
+        "average clique similarity": 0.1745339041853897,
+        "clique": [
+            "1-Holding back tears a",
+            "3- I take full respons",
+            "0- I take full respons"
+        ],
+        "median tf-idf score": 0.46635762711411866,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Holding back tears as he spoke in front of Italian and European Union flags, the usually brash and confident    said, \"I assume all the responsibility of the defeat,\" adding that \"my experience of government ends here. \" He said he would go later on Monday to the country's president, Sergio Mattarella, and \"tender my resignation. \"",
+            "\"I take full responsibility. In Italy, politicians never lose, they just hang on. But I lost and I say it loudly. This government,\" he added, \"is over.",
+            "\"I take full responsibility for the defeat,\" Renzi said in his emotional, midnight speech. \"I will greet my successor with a smile and a hug, whoever it might be,\" he said, struggling to contain his emotions when he thanked his wife and children for their support."
+        ],
+        "tf-idf score": [
+            0.6821782016653491,
+            0.3787049728180561,
+            0.46635762711411866
+        ]
+    },
+    "0.17462273919710347-3-22": {
+        "average clique similarity": 0.17462273919710347,
+        "clique": [
+            "2-The party has promis",
+            "0-But markets rebounde",
+            "4-When Renzi late last"
+        ],
+        "median tf-idf score": 0.7254694099407493,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "The party has promised to hold a referendum on Italy's membership in the euro zone if it captures office, criticizing the currency as a project of the elite that has harmed ordinary Italian workers.",
+            "But markets rebounded as European officials dismissed talk of a broader euro zone crisis. It was not immediately clear if Renzi would retain enough support in his PD to remain party leader   a role that could give him a say in who becomes the next prime minister.",
+            "When Renzi late last year promised to resign if the referendum was defeated, it was months before Britain's David Cameron had made his   bet that a referendum would cement the U K's membership in the European Union."
+        ],
+        "tf-idf score": [
+            0.7254694099407493,
+            0.9169222993289577,
+            0.6734688361965563
+        ]
+    },
+    "0.18112474113182206-3-50": {
+        "average clique similarity": 0.18112474113182206,
+        "clique": [
+            "1- The propaganda of t",
+            "4-The   are the chief ",
+            "2- The Italians are es"
+        ],
+        "median tf-idf score": 0.6526520975943727,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"The propaganda of the regime and all its lies are the first losers of this referendum,\" Beppe Grillo, the leader of Italy's   Five Star Movement, wrote on his widely read blog. \"Times have changed,\" he said.",
+            "The   are the chief rivals of Renzi's Democrats and are anxious to achieve national power for the first time.",
+            "\"The Italians are essentially unhappy with the establishment, with the establishment parties. They are looking at the Five Star movement, but they are still looking for credible faces,\" said Wolfango Piccoli,   of  Teneo Intelligence, a political risk consulting firm. Even if the insurgent populists never come to office, they are guiding the national political discussion by sending mainstream politicians scrambling to appeal to their   voters."
+        ],
+        "tf-idf score": [
+            0.6526520975943727,
+            0.34188720890988933,
+            0.9238688262027746
+        ]
+    },
+    "0.18208852019999086-3-101": {
+        "average clique similarity": 0.18208852019999086,
+        "clique": [
+            "3-The   Movement is th",
+            "0-FTIT8300  Shares in ",
+            "2-Shares in Italian ba"
+        ],
+        "median tf-idf score": 0.5691309800408627,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The   Movement is the elephant in the room  --   and the prospect of its coming to power may be sufficient to persuade all the other parties in Italy to sit down and draft a new electoral law.",
+            "FTIT8300] Shares in Monte dei Paschi di Siena, Italy's third largest lender, closed down 4. 2 percent after as a consortium of investment bankers met to discuss a capital increase to raise 5 billion euros which the bank needs by the end of the month to avoid being wound down.",
+            "Shares in Italian bank stocks were broadly down Monday; the nation's most troubled bank, Banca Monte dei Paschi di Siena, lost 3. 9 percent in   trading. But reflecting the overall   calm, Italy's main stock exchange in Milan was slightly down in   trading. Many other European markets, including London's FTSE and Germany's DAX, were up."
+        ],
+        "tf-idf score": [
+            0.5513466744492462,
+            0.5691309800408627,
+            0.7800355627388392
+        ]
+    },
+    "0.18309757410318894-3-144": {
+        "average clique similarity": 0.18309757410318894,
+        "clique": [
+            "0-His decision to quit",
+            "2-Much like the coalit",
+            "4-Renzi had been hopin"
+        ],
+        "median tf-idf score": 0.702699179047885,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "His decision to quit after less than three years in office deals a new blow to Western political establishments, still in shock from Britain's unexpected vote to leave the European Union and the U S election of outsider Donald Trump as president.",
+            "Much like the coalition of    voters and the   establishment that drove Donald Trump to victory in the United States, the forces that united to defeat Renzi came from across Italy's political spectrum.",
+            "Renzi had been hoping to beat off the rising populist forces that have gained traction across Europe, as well as with the U S presidential victory last month by billionaire political outsider Donald Trump."
+        ],
+        "tf-idf score": [
+            0.702699179047885,
+            0.7480642644990537,
+            0.5980887962768155
+        ]
+    },
+    "0.2025199073011332-3-13": {
+        "average clique similarity": 0.2025199073011332,
+        "clique": [
+            "0- From tomorrow  we w",
+            "1- We have the Italian",
+            "4- Arrogance lost  fro"
+        ],
+        "median tf-idf score": 0.5342975377568335,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"From tomorrow, we will start work on putting together  's future program and the team of people that will make up a future government,\" said Luigi Di Maio, tipped to be the group's prime ministerial candidate.",
+            "\"We have the Italian people behind us,\" Mr Di Maio, 30, said in a recent interview. \"And he is losing,\" he said of Mr Renzi.",
+            "\"Arrogance lost, from which we'll learn many things in forming our team for government and our platform,\" Di Maio said. \"Starting tomorrow we'll be working on a government of the   we'll involve the energies and the free persons who want to participate\"."
+        ],
+        "tf-idf score": [
+            0.5342975377568335,
+            0.624583784091299,
+            0.4355702072680283
+        ]
+    },
+    "0.21237547578673657-4-155": {
+        "average clique similarity": 0.21237547578673657,
+        "clique": [
+            "2-  ROME       Italy s",
+            "3-The    Prime Ministe",
+            "1-ROME       Italy plu",
+            "0- Italian Prime Minis"
+        ],
+        "median tf-idf score": 0.9628884757506797,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "  ROME  --   Italy's   parties vowed Monday to join forces with other insurgents around Europe as Prime Minister Matteo Renzi prepared to resign, but it was unclear whether an unlikely alliance of disaffected voters could propel the populists to office.",
+            "The    Prime Minister Matteo Renzi is slated to hand in his resignation Monday after only 2   years in office and after acknowledging his stinging defeat in Sunday's referendum.",
+            "ROME  --   Italy plunged into political and economic uncertainty early Monday as Prime Minister Matteo Renzi said he would resign after voters decisively rejected constitutional changes, a step certain to reverberate across a European Union already buffeted by   anger.",
+            " Italian Prime Minister Matteo Renzi announced on Monday that he would resign after suffering a resounding defeat in a referendum over constitutional reform, leaving the euro zone's   economy in political limbo."
+        ],
+        "tf-idf score": [
+            1.0392272383688548,
+            0.7183123805582914,
+            1.072110945172083,
+            0.8865497131325047
+        ]
+    },
+    "0.2575750781226867-3-99": {
+        "average clique similarity": 0.2575750781226867,
+        "clique": [
+            "3-The post that gets e",
+            "0-After the referendum",
+            "4- I lost  and the pos"
+        ],
+        "median tf-idf score": 0.47140270633350223,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "The post that gets eliminated is mine\". Renzi's midnight resignation announcement sent the euro lower and jolted stock and bond markets.",
+            "After the referendum the euro initially fell along with European stock and bond markets on concerns that early elections could follow, possibly paving the way for an   party to win power.",
+            "\"I lost, and the post that gets eliminated is mine,\" Renzi said early Monday about an hour after the polls closed."
+        ],
+        "tf-idf score": [
+            0.4257946850667379,
+            0.5569477219450629,
+            0.47140270633350223
+        ]
+    },
+    "0.2605245505819749-3-313": {
+        "average clique similarity": 0.2605245505819749,
+        "clique": [
+            "3-As soon as the  no  ",
+            "1-Luigi Di Maio  the d",
+            "4- Today the caste in "
+        ],
+        "median tf-idf score": 0.5229180139633349,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Fox News"
+        ],
+        "sentences": [
+            "As soon as the \"no\" victory was announced, the likely   candidate for the premiership, Luigi di Maio, said: \"Today, the arrogance of power has been defeated.",
+            "Luigi Di Maio, the deputy leader of the lower house of Parliament and a likely candidate for prime minister from the Five Star Movement, spoke about a coming \"Five Star government. \"",
+            "\"Today the caste in power lost,\" said a   leader, Luigi Di Maio."
+        ],
+        "tf-idf score": [
+            0.5229180139633349,
+            0.5869233463376047,
+            0.3419038983248184
+        ]
+    }
+}

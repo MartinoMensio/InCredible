@@ -1,0 +1,214 @@
+{
+    "0.2646133761773437-3-55": {
+        "average clique similarity": 0.2646133761773437,
+        "clique": [
+            "0-The nomination to be",
+            "3-Mulvaney  if confirm",
+            "2-He is a member of th"
+        ],
+        "median tf-idf score": 0.6464236796276195,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "The nomination to be director of the White House Office of Budget and Management will require Senate confirmation.",
+            "Mulvaney, if confirmed by the Senate, would manage the White House's annual proposed budget, program and policies.",
+            "He is a member of the House Financial Services Committee and the House Oversight and Government Reform Committee. The OMB produces the president's annual budget proposal to Congress and oversees major regulations. The director's post requires Senate confirmation."
+        ],
+        "tf-idf score": [
+            0.5380665869514693,
+            0.6464236796276195,
+            0.9886430220920349
+        ]
+    },
+    "0.324682333005685-5-47": {
+        "average clique similarity": 0.324682333005685,
+        "clique": [
+            "5-A founding member of",
+            "2-Mulvaney   of the Ho",
+            "0-The announcement was",
+            "3-Mulvaney is a member",
+            "4-Mulvaney is a promin"
+        ],
+        "median tf-idf score": 0.8682330806716853,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Reuters",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "A founding member of the House Freedom Caucus, a group of about three dozen conservative   that has used its leverage to push Republican leaders to the right, Mulvaney was among the group of lawmakers widely credited with pushing House Speaker John A Boehner ( ) out of power in 2015.",
+            "Mulvaney   of the House Freedom Caucus, a group that helped push former Speaker John Boehner out of office and has been a thorn in the side of current Speaker Paul Ryan.",
+            "The announcement was made as Trump, who takes office on Jan. 20, began his holiday vacation at    his oceanfront club in nearby Palm Beach, Florida. Mulvaney, 49, was an outspoken critic of former House of Representatives Speaker John Boehner, who resigned in 2015 amid opposition from fellow Republicans who were members of the House Freedom Caucus.",
+            "Mulvaney is a member of the House Financial Services Committee and is a   of the conservative House Freedom Caucus, a group of conservative lawmakers who have clashed with party leadership.",
+            "Mulvaney is a prominent member of the House Freedom Caucus, a group of around 40 conservatives that grew out of the Tea Party movement. The group often tangled with former Speaker John Boehner and backed Rep. Daniel Webster of Florida as his replacement."
+        ],
+        "tf-idf score": [
+            0.9794129184713247,
+            0.8682330806716853,
+            1.0934271820291415,
+            0.6700589862421288,
+            0.8191532221762441
+        ]
+    },
+    "0.43653942909696214-3-76": {
+        "average clique similarity": 0.43653942909696214,
+        "clique": [
+            "2-A Tea Party Republic",
+            "0-   Donald Trump said",
+            "5-Donald Trump named R"
+        ],
+        "median tf-idf score": 0.9169243021450184,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "A Tea Party Republican and fiscal   is Donald Trump's nominee as director of the Office of Management and Budget, the   announced Saturday.",
+            "   Donald Trump said on Saturday he has chosen U S Representative Mick Mulvaney of South Carolina to be his White House budget director, turning to a fiscal conservative to help pursue his policy agenda.",
+            "Donald Trump named Rep. Mick Mulvaney ( . C) as his director of the Office of Management and Budget."
+        ],
+        "tf-idf score": [
+            0.8038380995402408,
+            1.5046826800685438,
+            0.9169243021450184
+        ]
+    },
+    "0.469538241521243-3-76": {
+        "average clique similarity": 0.469538241521243,
+        "clique": [
+            "4- We are going to do ",
+            "5- We are going to do ",
+            "3- We are going to do "
+        ],
+        "median tf-idf score": 1.1348744932356896,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\"We are going to do great things for the American people with Mick Mulvaney leading the Office of Management and Budget,\" Trump said in a press release announcing his pick.",
+            "\"We are going to do great things for the American people with Mick Mulvaney leading the Office of Management and Budget,\" Trump said in a statement.",
+            "\"We are going to do great things for the American people with Mick Mulvaney leading the Office of Management and Budget,\" Trump said in a statement Saturday morning."
+        ],
+        "tf-idf score": [
+            1.1348744932356896,
+            1.125530305036667,
+            1.1752921376245837
+        ]
+    },
+    "0.5444173052462179-4-30": {
+        "average clique similarity": 0.5444173052462179,
+        "clique": [
+            "0- With Mick at the he",
+            "5-In a statement Ryan ",
+            "1- With Mick at the he",
+            "2- With Mick at the he"
+        ],
+        "median tf-idf score": 1.436820198574762,
+        "publications": [
+            "Breitbart",
+            "New York Post",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"With Mick at the head of OMB, my administration is going to make smart choices about America's budget, bring new accountability to our federal government, and renew the American taxpayer's trust in how their money is spent,\" Trump said.",
+            "In a statement Ryan praised Mulvaney's appointment to head OMB \"Mick Mulvaney is the absolute right choice,\" Ryan said.",
+            "\"With Mick at the head of OMB, my administration is going to make smart choices about America's budget, bring new accountability to our federal government, and renew the American taxpayer's trust in how their money is spent. \" Mulvaney was pleased to accept the position.",
+            "\"With Mick at the head of OMB, my administration is going to make smart choices about America's budget, bring new accountability to our federal government, and renew the American taxpayers' trust in how their money is spent,\" Trump said in an   statement."
+        ],
+        "tf-idf score": [
+            1.422682308683373,
+            0.7279332177627961,
+            1.4509580884661506,
+            1.468216524463339
+        ]
+    },
+    "0.5591338615231178-3-12": {
+        "average clique similarity": 0.5591338615231178,
+        "clique": [
+            "4-  Donald Trump is no",
+            "1-  Donald J Trump wil",
+            "3-Washington  CNN   Do"
+        ],
+        "median tf-idf score": 0.9842524860275077,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "  Donald Trump is nominating Rep. Mick Mulvaney,  . C to the   post of director of the Office of Management and Budget.",
+            "  Donald J Trump will make Congressman Mick Mulvaney the Director of the Office of Management and Budget.",
+            "Washington (CNN)  Donald Trump has nominated Republican South Carolina Rep. Mick Mulvaney to be the director of the Office of Management and Budget."
+        ],
+        "tf-idf score": [
+            0.9530095851569302,
+            0.9842524860275077,
+            1.2233001733324933
+        ]
+    },
+    "0.6099724712976707-3-43": {
+        "average clique similarity": 0.6099724712976707,
+        "clique": [
+            "0-Mulvaney said the Tr",
+            "1- It is a great honor",
+            "3- The Trump administr"
+        ],
+        "median tf-idf score": 1.4138069113439824,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Reuters"
+        ],
+        "sentences": [
+            "Mulvaney said the Trump administration \"will restore budgetary and fiscal sanity back in Washington\".",
+            "\"It is a great honor to be appointed Director of the Office of Management and Budget,\" he said, The Trump administration will restore budgetary and fiscal sanity back in Washington after eight years of an    tax and spend financial agenda, and will work with Congress to create policies that will be friendly to American workers and businesses.",
+            "\"The Trump administration will restore budgetary and fiscal sanity back in Washington after eight years of an    tax and spend financial agenda, and will work with Congress to create policies that will be friendly to American workers and businesses,\" Mulvaney said in a statement. The move was first reported by McClatchy newspapers."
+        ],
+        "tf-idf score": [
+            0.752243307689134,
+            1.46889638504455,
+            1.4138069113439824
+        ]
+    },
+    "0.9753437665096195-5-1": {
+        "average clique similarity": 0.9753437665096195,
+        "clique": [
+            "3- Right now  we are n",
+            "5- Right now we are ne",
+            "2-  Right now we are n",
+            "1- Right now we are ne",
+            "4- Right now we are ne"
+        ],
+        "median tf-idf score": 0.6646965464130602,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Post",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "\"Right now, we are nearly $20 trillion in debt, but Mick is a very   leader with deep convictions for how to responsibly manage our nation's finances and save our country from drowning in red ink\".",
+            "\"Right now we are nearly $20 trillion in debt, but Mick is a very   leader with deep convictions for how to responsibly manage our nation's finances and save our country from drowning in red ink.",
+            "'\"Right now we are nearly $20 trillion in debt, but Mick is a very   leader with deep convictions for how to responsibly manage our nation's finances and save our country from drowning in red ink,\" Trump said.",
+            "\"Right now we are nearly $20 trillion in debt, but Mick is a very   leader with deep convictions for how to responsibly manage our nation's finances and save our country from drowning in red ink,\" Trump says in a statement.",
+            "\"Right now we are nearly $20 trillion in debt, but Mick is a very   leader with deep convictions for how to responsibly manage our nation's finances and save our country from drowning in red ink\"."
+        ],
+        "tf-idf score": [
+            0.6646965464130602,
+            0.6646965464130602,
+            0.9581670709404123,
+            0.9230411298115531,
+            0.6646965464130602
+        ]
+    }
+}

@@ -1,0 +1,486 @@
+{
+    "0.15265831365565577-3-302": {
+        "average clique similarity": 0.15265831365565577,
+        "clique": [
+            "3-Weaver  who vowed to",
+            "1-Arguments about who ",
+            "2-The city had switche"
+        ],
+        "median tf-idf score": 1.369577111713454,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "Weaver, who vowed to fix the water crisis, beat out incumbent Dayne Walling in an election the previous month. MDEQ Director Dan Wyant and spokesperson Brad Wurfel resign, MLive reports. This comes a day after the Flint Water Advisory Task Force, created by the governor, releases a preliminary report on the crisis and concludes that primary responsibility rests with the MDEQ The report says that in the agency's interactions with the public about their concerns, its response \"was often one of aggressive dismissal, belittlement, and attempts to discredit these efforts and the individuals involved\". Michigan Gov.",
+            "Arguments about who's to blame for the Flint crisis have focused on the   emergency managers who oversaw the switch to river water; the state Department of Environmental Quality; and Gov. Rick Snyder himself, who pushed for stronger emergency manager laws that some say enabled the crisis. But the charges underline that there's a big difference between moral culpability, however you assign it, and criminal culpability.",
+            "The city had switched to the troubled water system while under the control of an emergency financial manager, appointed by the governor to sort out Flint's fiscal troubles. Last month, a panel appointed by the governor assigned most of the blame to state officials, citing \"government failure, intransigence, unpreparedness, delay, inaction and environmental injustice. \""
+        ],
+        "tf-idf score": [
+            1.369577111713454,
+            1.5017030897645938,
+            1.2508022356854447
+        ]
+    },
+    "0.15527061780525506-3-79": {
+        "average clique similarity": 0.15527061780525506,
+        "clique": [
+            "3-      It s regular  ",
+            "0-On April 17  2014  h",
+            "4- This is a road back"
+        ],
+        "median tf-idf score": 0.8040040618492433,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            ".. \" 'It's regular, good, pure drinking water, and it's right in our backyard,' said Mayor [Dayne] Walling, \"this is the first step in the right direction for Flint, and we take this monumental step forward in controlling the future of our community's most precious resource.'",
+            "On April 17, 2014, he wrote to Prysby and Busch, \"If water is distributed from this plant in the next couple of weeks, it will be against my direction. I need time to adequately train additional staff and to update our monitoring plans before I will feel we are ready.",
+            "\"This is a road back to restoring faith and confidence in all Michigan families in their government,\" Schuette said. \"We're on the road back, and I know this will take some time. \" The charges were approved earlier during a hearing by Judge Tracy L   in the 5th division of Genesee County Court on Wednesday morning. Busch and Prysby are each facing multiple felonies, including misconduct in office, which carries a   jail sentence."
+        ],
+        "tf-idf score": [
+            0.8040040618492433,
+            0.6645420949040981,
+            0.9142972672776696
+        ]
+    },
+    "0.15960332407131586-3-29": {
+        "average clique similarity": 0.15960332407131586,
+        "clique": [
+            "2-The disaster has lef",
+            "0-The names on the lis",
+            "3-Almost immediately  "
+        ],
+        "median tf-idf score": 0.8360434773070787,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "The disaster has left Flint residents fearful about the lasting effects of lead on the city's youngest children, distrustful of the promises of the authorities and reliant on filters and bottled water.",
+            "The names on the list don't include the governor, the former head of the state Department of Environmental Quality, the city's former emergency manager, or any of the other names that have appeared prominently in reports about the poisoning.",
+            "Almost immediately, residents of Flint  --   a   city where 40 percent of people live in poverty  --   started complaining about the quality of the water."
+        ],
+        "tf-idf score": [
+            1.0182847815224318,
+            0.5069354113763491,
+            0.8360434773070787
+        ]
+    },
+    "0.16478300994033504-3-125": {
+        "average clique similarity": 0.16478300994033504,
+        "clique": [
+            "4- Mr Bush and Mr Prys",
+            "0-But once the switch ",
+            "3-Liane   is the forme"
+        ],
+        "median tf-idf score": 1.0597212709859771,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"Mr Bush and Mr Prysby misled federal and local authorities, regulating officials, and failed to provide safe and clean water to the families of Flint,\" Schuette said.",
+            "But once the switch was in place, officials say, all three misled the public and other officials. In January 2013, Prysby expressed concern about complications from switching to the Flint River.",
+            "Liane   is the former director of the drinking water and municipal assistance office within the MDEQ She and two subordinates, Adam Rosenthal and Patrick Cook, allegedly misled officials about Flint's water treatment plant, which was not in compliance with lead and copper rules."
+        ],
+        "tf-idf score": [
+            1.0597212709859771,
+            0.7153609379304073,
+            1.0929502788745273
+        ]
+    },
+    "0.1770875432291202-3-128": {
+        "average clique similarity": 0.1770875432291202,
+        "clique": [
+            "3-Residents of Flint c",
+            "0-In addition to the c",
+            "2-The charges are link"
+        ],
+        "median tf-idf score": 0.7814705856193538,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "Residents of Flint concerned about the health of their community don't need more of that\". In a September interview with NPR, Edwards says: \"Flint is the only city in America that I'm aware of that does not have a corrosion control plan\".",
+            "In addition to the criminal charges Wednesday, Glasgow has said that Prysby told him the city of Flint did not need to use phosphate to coat the pipes and prevent corrosion.",
+            "The charges are linked to the handling of a change in the city's water supply two years ago and to the aftermath of that change, including a failure to add chemicals that reduce corrosion inside pipes."
+        ],
+        "tf-idf score": [
+            0.6337022445240457,
+            0.9680296388715426,
+            0.7814705856193538
+        ]
+    },
+    "0.18327212042176685-4-107": {
+        "average clique similarity": 0.18327212042176685,
+        "clique": [
+            "1-Immediately before F",
+            "3-The city switched ba",
+            "4-Flint s drinking wat",
+            "2-Not long before Flin"
+        ],
+        "median tf-idf score": 1.3529648048092096,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "Immediately before Flint switched to river water for its water source  --   the fateful decision that set the lead crisis in motion  --   Glasgow warned that the city was moving too fast: \"If water is distributed from this plant in the next couple weeks, it will be against my direction,\" he said eight days before the switch, according to MLive.",
+            "The city switched back to its original water supply late last year, but it was too late to reverse the damage to the pipes.",
+            "Flint's drinking water supply became contaminated in April 2014 when the city switched its source from Lake Huron, which is managed by Detroit, to the Flint River. Some of the city's nearly 100, 000 residents have since had high levels of lead found in their blood.",
+            "Not long before Flint switched to a new water supply in 2014, Mr Glasgow warned state officials that he believed the city was not fully ready to make the change and suggested, in an email  released as part of thousands of emails made public since the crisis began, that \"people above\" him were pushing to move too quickly."
+        ],
+        "tf-idf score": [
+            1.4929973651309347,
+            0.676873878082525,
+            1.230228774211864,
+            1.475700835406555
+        ]
+    },
+    "0.1844401109482767-3-341": {
+        "average clique similarity": 0.1844401109482767,
+        "clique": [
+            "3- EPA has determined ",
+            "0-The FBI and several ",
+            "2-The workers       an"
+        ],
+        "median tf-idf score": 1.2105527273017227,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"EPA has determined that the City of Flint's and the State of Michigan's responses to the drinking water crisis in Flint have been inadequate and that these failures continue,\" the emergency order reads.",
+            "The FBI and several other federal agencies have also launched investigations. Perhaps Schuette is starting with small fry in order to get to the big fish, but the fact remains that the indictments seem unlikely to sate the lust for revenge that many in Flint and beyond feel. If Schuette's allegations are true, then the early misgivings that Prysby, Busch, and Glasgow gave don't exculpate them --  in fact, they underscore the misconduct, because they demonstrate that the trio ought to have known better.",
+            "The workers  --   an employee of Flint and two state workers assigned to monitor water quality in cities  --   are the first to face criminal charges in connection with the failures that left residents of this city drinking foul and unsafe water for many months."
+        ],
+        "tf-idf score": [
+            1.2105527273017227,
+            0.7554977476991169,
+            1.2647783030677757
+        ]
+    },
+    "0.19928549045092372-3-120": {
+        "average clique similarity": 0.19928549045092372,
+        "clique": [
+            "0-What about the offic",
+            "2-Mr Snyder  a Republi",
+            "3-He seems to chalk up"
+        ],
+        "median tf-idf score": 0.7950942986469991,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "What about the officials in the governor's office who knew about problems with Flint's water, even if (as he says) they didn't tell him?",
+            "Mr Snyder, a Republican who has apologized repeatedly for what happened in Flint but has also indicated that staff members failed for months to tell him about the gravity and dangers of the mounting situation, has faced the most intense criticism of his two terms over the issue, as well as calls for his resignation or recall.",
+            "He seems to chalk up the lack of corrosion controls to a misunderstanding: \"What has become clear in recent weeks is that the staff believed they were handling the situation in accordance with the proper protocol for a water provider using a new source, but the federal Lead and Copper rule has a particular provision for communities over 50, 000 people that the system operator must continue treating with full corrosion control even as they test the water. \"What the staff did would have been the proper protocol for a community under 50, 000 people."
+        ],
+        "tf-idf score": [
+            0.7950942986469991,
+            0.649803803648573,
+            0.8891031617821281
+        ]
+    },
+    "0.19928904789993585-3-136": {
+        "average clique similarity": 0.19928904789993585,
+        "clique": [
+            "0-The other two are St",
+            "2-David M Uhlmann  who",
+            "4- Now we need to wait"
+        ],
+        "median tf-idf score": 0.5653080774131334,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "The other two are Stephen Busch, who was a district administrator for the   program at the DEQ, and Mike Prysby, who was an engineer at the department.",
+            "David M Uhlmann, who was chief of the environmental crimes section at the Justice Department from 2000 to 2007, and who is a law professor at the University of Michigan, said such charges were rare.",
+            "\"Now we need to wait and see due process work to see if it was actually criminal, or if it was poor decision making. \" In response to the charges, the Michigan Sierra Club called for anyone who broke the law to be held accountable. \"It's unconscionable that Governor Snyder   who made this crisis possible by dismantling protections, putting in place unaccountable emergency managers, perpetuating environmental injustice, and focusing only on the bottom line at the cost of a community's health   has avoided any accountability to date,\" club chair David Holtz said."
+        ],
+        "tf-idf score": [
+            0.39560066865727916,
+            0.5653080774131334,
+            1.2377635980664727
+        ]
+    },
+    "0.2044944749616934-3-312": {
+        "average clique similarity": 0.2044944749616934,
+        "clique": [
+            "3-The EPA says it was ",
+            "1-Busch  who was suspe",
+            "2-Mr Prysby was also c"
+        ],
+        "median tf-idf score": 1.342726569995605,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "The EPA says it was notified by the MDEQ on or about April 24 \"that the City did not have corrosion control treatment in place at the Flint Water Treatment Plant\". A leaked internal memo from the EPA expresses concern about lead levels, including the level at Lee Anne Walters' home. The ACLU picks up the report.",
+            "Busch, who was suspended in January, had assured the EPA in February 2015 that Flint was using corrosion control in its water, which would have prevented the river water from causing lead to leach into the water. He later said the city wasn't using corrosion control but was still complying with the EPA's requirements.",
+            "Mr Prysby was also charged with misconduct in office for authorizing use of the Flint plant, \"knowing that the Flint water treatment plant was deficient in its ability to provide clean and safe drinking water. \""
+        ],
+        "tf-idf score": [
+            1.3758156810720519,
+            1.342726569995605,
+            1.0924923826135315
+        ]
+    },
+    "0.21428406731565133-3-149": {
+        "average clique similarity": 0.21428406731565133,
+        "clique": [
+            "3-He adds that he hasn",
+            "1-Instead  the city sa",
+            "0-The result was artif"
+        ],
+        "median tf-idf score": 0.8809106677116314,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "He adds that he hasn't seen the memo, but that preliminary tests show the Walters test was an \"outlier\". Wurfel tells Michigan Radio, \"It does not look like there is any broad problem with the water supply freeing up lead as it goes to homes\". The MDEQ dropped two samples from its initial report on lead levels from the city, which put the result within federally mandated levels.",
+            "Instead, the city sampled homes mostly without lead pipes and told the EPA they were following the regulation. Glasgow also allegedly removed two homes with high lead levels from the final test results, he says at the behest of state employees.",
+            "The result was artificially low levels of lead from the tests."
+        ],
+        "tf-idf score": [
+            1.2171779355338308,
+            0.8809106677116314,
+            0.364243068399602
+        ]
+    },
+    "0.22814889004912475-3-72": {
+        "average clique similarity": 0.22814889004912475,
+        "clique": [
+            "0-The crux of the alle",
+            "2-Mr Busch and Mr Prys",
+            "1-But Glasgow also ove"
+        ],
+        "median tf-idf score": 1.0353094394400428,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "The crux of the allegation against Prysby and Busch is that they tried to impede investigations by the Genessee County Department of Health and by the U S Environmental Protection Agency.",
+            "Mr Busch and Mr Prysby, the state officials, were charged with misconduct in office, a felony, for \"willfully and knowingly misleading\" the federal Environmental Protection Agency and the Genesee County Health Department about dangers posed by the water.",
+            "But Glasgow also oversaw a slipshod water testing regimen that allowed the crisis to continue undetected. The federal Environmental Protection Agency requires that testing for lead be done on homes with lead pipes, which pose the highest risk. Flint didn't do that."
+        ],
+        "tf-idf score": [
+            0.33319503887569585,
+            1.0353094394400428,
+            1.11609856851991
+        ]
+    },
+    "0.2389892803438339-3-48": {
+        "average clique similarity": 0.2389892803438339,
+        "clique": [
+            "4-The MDEQ employees a",
+            "3-An action plan relea",
+            "2-Mr Prysby and Mr Bus"
+        ],
+        "median tf-idf score": 1.1593620125052357,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "The MDEQ employees are also facing two misdemeanor charges for allegedly violating the state's clean water laws by failing to require an   be added to Flint's water system, and manipulating the water testing system by telling residents to   their pipes before they could be examined.",
+            "An action plan released by Snyder says the city and state will provide free filters and water testing for Flint residents, among other things.",
+            "Mr Prysby and Mr Busch each face two misdemeanor charges of violating the state's Safe Drinking Water Act by failing to order anticorrosion treatment of the water, and for telling residents to run, or \"preflush,\" their taps before samples were taken for lead testing, creating misleadingly low readings."
+        ],
+        "tf-idf score": [
+            1.1593620125052357,
+            1.0528007274843074,
+            1.2143249879664981
+        ]
+    },
+    "0.24809859391280673-3-349": {
+        "average clique similarity": 0.24809859391280673,
+        "clique": [
+            "1-Michigan Public Radi",
+            "0-Busch and Prysby fac",
+            "4-At a press conferenc"
+        ],
+        "median tf-idf score": 1.1731759291202892,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Michigan Public Radio explained the effect this had:      Two state employees  --   Michael Prysby, an engineer with the state Department of Environmental Quality, and Stephen Busch, who supervised eight district water offices  --   will face charges for violating Michigan's Safe Drinking Water Act, tampering with evidence, conspiracy, and misconduct in office.",
+            "Busch and Prysby face the most serious charges. Prysby has been charged with six counts, each carrying maximums of between one and five years imprisonment.",
+            "At a press conference Wednesday, Michigan Attorney General Bill Schuette said felony and misdemeanor charges had been filed against Flint worker Michael Glasgow and Michigan Department of Environmental Quality (MDEQ) employees Steven Busch and Michael Prysby."
+        ],
+        "tf-idf score": [
+            1.3132607938121346,
+            0.4402712888033196,
+            1.1731759291202892
+        ]
+    },
+    "0.25038203303821666-3-228": {
+        "average clique similarity": 0.25038203303821666,
+        "clique": [
+            "0-   I want to receive",
+            "4-Gov  Rick Snyder on ",
+            "2-Mr Snyder  who annou"
+        ],
+        "median tf-idf score": 1.0830128126010232,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "   I want to receive updates from partners and sponsors. This week, Governor Rick Snyder announced he'll spend the month drinking water from Flint that's been run through a water filter.",
+            "Gov. Rick Snyder on Wednesday called the charges \"deeply troubling and extremely serious,\" but said his administration \"encouraged the investigations\" and was \"cooperating. \" Snyder has come under fire during the water crisis, facing calls from some critics that he should step down.",
+            "Mr Snyder, who announced this week that he would drink Flint water for a month, said at a news conference on Wednesday that the charges were \"deeply troubling and extremely serious. \""
+        ],
+        "tf-idf score": [
+            0.8541835390156322,
+            1.116519314627436,
+            1.0830128126010232
+        ]
+    },
+    "0.2527496734763967-3-225": {
+        "average clique similarity": 0.2527496734763967,
+        "clique": [
+            "3-Flint Mayor Karen We",
+            "1- Three people are fi",
+            "4- A city worker and t"
+        ],
+        "median tf-idf score": 1.4968703901473075,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Flint Mayor Karen Weaver declares a state of emergency over the elevated lead levels in the city's water.",
+            " Three people are finally facing criminal charges in the Flint water crisis: two state officials and one city employee who, according to Michigan's attorney general, covered up the high levels of lead in the city's water and stopped investigations into other   health risks.",
+            " A city worker and two state officials were charged Wednesday in connection with the Flint water crisis, Michigan's attorney general announced, making them the first people to face criminal charges over the city's water contamination emergency."
+        ],
+        "tf-idf score": [
+            1.0447404010064016,
+            1.6683992553087026,
+            1.4968703901473075
+        ]
+    },
+    "0.26019714593859894-3-349": {
+        "average clique similarity": 0.26019714593859894,
+        "clique": [
+            "0-On Wednesday  Michig",
+            "3-Michigan s attorney ",
+            "2-In announcing the ch"
+        ],
+        "median tf-idf score": 0.6614091152087705,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "On Wednesday, Michigan Attorney General Bill Schuette announced charges in connection with the scandal.",
+            "Michigan's attorney general, Bill Schuette, announces that three people will face charges  --   the first criminal charges leveled against officials over the lead crisis.",
+            "In announcing the charges, some of which are felonies carrying penalties of as much as five years in prison, Bill Schuette, the Michigan attorney general, answered skeptics in Flint and elsewhere who had openly doubted that anyone would ever be held accountable for the health crisis here."
+        ],
+        "tf-idf score": [
+            0.3669503103920686,
+            0.6614091152087705,
+            0.7754204920305675
+        ]
+    },
+    "0.272594003618077-3-43": {
+        "average clique similarity": 0.272594003618077,
+        "clique": [
+            "1-Prysby and Busch are",
+            "2-The resulting proble",
+            "0-Heavy use of chlorid"
+        ],
+        "median tf-idf score": 0.8400761301757314,
+        "publications": [
+            "Vox",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Prysby and Busch are the two accused of instructing Glasgow to drop homes with high lead levels from Flint's report to the EPA They're also accused of impeding an investigation into another problem with Flint water unrelated to lead: an outbreak of Legionnaire's disease.",
+            "The resulting problems led to Flint residents' exposure to water contaminated with lead and possibly linked to a deadly outbreak of Legionnaire's disease.",
+            "Heavy use of chloride to treat the water's smell and taste created additional corrosion problems. A Legionnaire's disease outbreak has also been traced to the water."
+        ],
+        "tf-idf score": [
+            1.2188799511905435,
+            0.8400761301757314,
+            0.558240573254597
+        ]
+    },
+    "0.29951793987667036-3-15": {
+        "average clique similarity": 0.29951793987667036,
+        "clique": [
+            "2-FLINT  Mich        T",
+            "0-Glasgow has been cha",
+            "1-The people charged s"
+        ],
+        "median tf-idf score": 1.119534920072129,
+        "publications": [
+            "Vox",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "FLINT, Mich.  --   Three government workers were charged with crimes on Wednesday for their roles in this city's water crisis, accused in part of covering up evidence of lead contamination.",
+            "Glasgow has been charged with willful neglect of office and with tampering with evidence by changing test results to show lower lead levels in city water than were actually present.",
+            "The people charged so far are mostly   employees who were closely involved as the water crisis unfolded. Three people are accused of crimes in covering up the Flint crisis Michael Glasgow, a Flint utilities administrator, will be charged with tampering with evidence and willful neglect of office."
+        ],
+        "tf-idf score": [
+            1.1384038935470535,
+            1.0121167334496182,
+            1.119534920072129
+        ]
+    },
+    "0.36972909777245816-3-290": {
+        "average clique similarity": 0.36972909777245816,
+        "clique": [
+            "3-Stephen Busch and Mi",
+            "2-The charges against ",
+            "4-Glasgow  the city s "
+        ],
+        "median tf-idf score": 1.4585294602471066,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "Stephen Busch and Michael Prysby are state officials at the MDEQ City employee Michael Glasgow is Flint's water quality supervisor. As the   reported, the three \"face felony charges including misconduct, neglect of duty and conspiracy to tamper with evidence.",
+            "The charges against the three defendants  --   Michael Prysby, a district engineer with the State Department of Environmental Quality Stephen Busch, a district supervisor in the same department and Michael Glasgow, the city's utilities manager  --   included tampering with evidence contained in reports on lead levels in city water, and the two state officials were also charged with conspiracy to tamper with evidence.",
+            "Glasgow, the city's water supervisor, is charged with willful neglect of evidence and tampering with evidence for allegedly changing test results and falsifying reports to show less lead had leaked into the city's water supply from its aging pipes."
+        ],
+        "tf-idf score": [
+            1.4585294602471066,
+            1.475162322965687,
+            1.007338399420563
+        ]
+    }
+}

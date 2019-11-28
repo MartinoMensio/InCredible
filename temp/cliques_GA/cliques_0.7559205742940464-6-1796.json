@@ -1,0 +1,414 @@
+{
+    "0.1758850012133731-3-93": {
+        "average clique similarity": 0.1758850012133731,
+        "clique": [
+            "5-As the case drew nat",
+            "2-         Shelby s at",
+            "1-CNN reached out to S"
+        ],
+        "median tf-idf score": 1.3621561637285784,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "As the case drew national interest, Shelby's attorney, Scott Wood, told the Tulsa World that the officer, who at 42 is a nearly   veteran of the Tulsa police force, believed Crutcher was reaching for something inside his car.",
+            "'  ' \"   Shelby's attorney, Scott Wood, said that the officer shot and   killed Crutcher after he failed to obey multiple commands and   then  which was   stopped in the middle of the road. \"",
+            "CNN reached out to Scott Wood, the attorney for Shelby, but has not received a response."
+        ],
+        "tf-idf score": [
+            1.486690843255776,
+            1.3621561637285784,
+            0.46419711221847504
+        ]
+    },
+    "0.18136593630377082-3-113": {
+        "average clique similarity": 0.18136593630377082,
+        "clique": [
+            "5-The district attorne",
+            "0-Her attorney has sai",
+            "1-It was not clear whe"
+        ],
+        "median tf-idf score": 1.3106275532428697,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "The district attorney's affidavit that was filed Thursday relays some of what Shelby told a homicide detective in an interview held days after the shooting: that she feared for her life and thought Crutcher \"was going to kill her,\" and that as she followed him to his SUV, \"she was yelling for him to stop and get on his knees repeatedly\".",
+            "Her attorney has said Crutcher was not following police commands and that Shelby opened fire when the man began to reach into his SUV window.",
+            "It was not clear when she would turn herself in. The criminal complaint against Shelby said her \"fear resulted in her unreasonable actions which led her to shooting\" Crutcher."
+        ],
+        "tf-idf score": [
+            1.3387423436542532,
+            1.3106275532428697,
+            1.0160548299963976
+        ]
+    },
+    "0.20028580676924865-3-44": {
+        "average clique similarity": 0.20028580676924865,
+        "clique": [
+            "1-Attorneys for Crutch",
+            "4-Attorneys for Crutch",
+            "0-If convicted  Shelby"
+        ],
+        "median tf-idf score": 0.935460522725018,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "Attorneys for Crutcher's family said they were \"happy charges have been brought\" against the officer and they will be seeking a \"vigorous prosecution\" of this case that results in a conviction.",
+            "Attorneys for Crutcher's family have said even if there were drugs in the SUV, it would not justify the shooting.",
+            "If convicted, Shelby faces between four years and life in prison. Crutcher's twin sister, Tiffany Crutcher, said her family is pleased with the charge, but she and her attorneys want to ensure a vigorous prosecution that leads to a conviction."
+        ],
+        "tf-idf score": [
+            0.935460522725018,
+            0.6823792245933972,
+            1.1291891217044054
+        ]
+    },
+    "0.210252785973115-3-59": {
+        "average clique similarity": 0.210252785973115,
+        "clique": [
+            "3-Crutcher  who was bl",
+            "4-Shelby s lawyer  Sco",
+            "5-Seconds before he wa"
+        ],
+        "median tf-idf score": 1.046295687122896,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Crutcher, who was black, was unarmed and had his hands up when he was shot.",
+            "Shelby's lawyer, Scott Wood, said the officer had completed   expert training and felt Crutcher was under the influence of PCP \"She felt like he had exhibited enough clues that he could have a gun in his pocket. \"",
+            "Seconds before he was shot, police dashcam and helicopter footage shows, he had walked to his car with his hands held over his head as Officer Betty Shelby walked behind him, her gun raised."
+        ],
+        "tf-idf score": [
+            0.7002263025194273,
+            1.133135148939676,
+            1.046295687122896
+        ]
+    },
+    "0.22446034345272362-3-130": {
+        "average clique similarity": 0.22446034345272362,
+        "clique": [
+            "1-There was no weapon ",
+            "4-Police Sgt Dave Walk",
+            "5-The day after the vi"
+        ],
+        "median tf-idf score": 0.7041941061533641,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "There was no weapon found in the car.",
+            "Police Sgt Dave Walker has said investigators found a vial of PCP in Crutcher's vehicle.",
+            "The day after the videos were released to the public, Tulsa police said that the drug PCP had been found in Crutcher's vehicle."
+        ],
+        "tf-idf score": [
+            0.32723018304913476,
+            0.7041941061533641,
+            0.8689482095327409
+        ]
+    },
+    "0.259252218608039-4-175": {
+        "average clique similarity": 0.259252218608039,
+        "clique": [
+            "2-    Tulsa County Dis",
+            "3-        For us to co",
+            "5-Betty Shelby  the Tu",
+            "0-Tulsa officer Betty "
+        ],
+        "median tf-idf score": 1.5429334766805929,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "'   Tulsa County District Attorney Stephen Kunzweiler announced the   charge Thursday, nearly one week after the shooting that killed   Terence Crutcher, a    father who encountered Shelby on   Friday while she was responding to an unrelated call. '",
+            "        For us to continue writing great stories, we need to display ads. Please select the extension that is blocking ads. Please follow the steps below, Tulsa Police Officer Betty Shelby, who on Friday shot and killed Terence Crutcher, has been charged with felony   manslaughter, the Tulsa County district attorney announced Thursday afternoon.",
+            "Betty Shelby, the Tulsa Police Department officer who shot and killed Terence Crutcher, is being charged with   manslaughter in the case, Tulsa County District Attorney Steve Kunzweiler says.",
+            "Tulsa officer Betty Shelby \"reacted unreasonably\" when she fatally shot    Terence Crutcher on Sept. 16, prosecutors wrote in an affidavit filed with the charge on Thursday."
+        ],
+        "tf-idf score": [
+            1.6150039838997967,
+            1.6368525771832159,
+            1.4708629694613888,
+            1.1971600066087016
+        ]
+    },
+    "0.2617678002809778-3-108": {
+        "average clique similarity": 0.2617678002809778,
+        "clique": [
+            "5-Here s how we descri",
+            "4-Shelby was charged i",
+            "1-Shelby fatally shot "
+        ],
+        "median tf-idf score": 0.8706867130585718,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Here's how we described the case earlier this week: \"Crutcher, who was black, died next to his SUV that had stopped in the middle of a   road in Tulsa, Okla.",
+            "Shelby was charged in relation to last week's killing of Terence Crutcher, who was unarmed.",
+            "Shelby fatally shot    Terence Crutcher after his SUV stopped in a roadway last week."
+        ],
+        "tf-idf score": [
+            0.9250587799334842,
+            0.8706867130585718,
+            0.6545317326862707
+        ]
+    },
+    "0.30644310023086657-3-194": {
+        "average clique similarity": 0.30644310023086657,
+        "clique": [
+            "4-An affidavit from Do",
+            "3-In an affidavit  Dis",
+            "5-As member station KG"
+        ],
+        "median tf-idf score": 1.3690027143508054,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "An affidavit from Doug Campbell, Kunzweiler's chief investigator, said Shelby \"reacted unreasonably by escalating the situation\" adding that she was \"emotionally involved to the point that she overreacted\".",
+            "In an affidavit, District Attorney Steve Kunzweiler wrote: Your affiant feels that Officer Shelby reacted unreasonably by escalating the situation from a confrontation with Mr Crutcher, who was not responding to verbal commands and was walking away from her with his hands held up, becoming emotionally involved to the point that she over reacted.",
+            "As member station KGOU reports, \"The affidavit states Shelby reacted unreasonably by escalating the situation, became emotionally involved, and overreacted\". Shortly after the manslaughter charge against Shelby was announced, the Tulsa Police Department said on its Facebook page that \"several demonstrations\" were taking place in the city."
+        ],
+        "tf-idf score": [
+            0.9018414482127388,
+            1.4793753245878742,
+            1.3690027143508054
+        ]
+    },
+    "0.30648360591625007-3-194": {
+        "average clique similarity": 0.30648360591625007,
+        "clique": [
+            "4-The police officer w",
+            "1-  CNN  Tulsa  Oklaho",
+            "2-         Betty Shelb"
+        ],
+        "median tf-idf score": 1.1838012406674987,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The police officer who fatally shot an unarmed black man in Tulsa, Oklahoma, was charged with   manslaughter and released early on Friday morning after posting a $50, 000 bond.",
+            " (CNN) Tulsa, Oklahoma, police officer Betty Shelby has been charged with felony manslaughter in the first degree, Tulsa County District Attorney Steve Kunzweiler told reporters Thursday.",
+            "'  ' \"   Betty Shelby, the Tulsa, Oklahoma, police officer who fatally   shot an unarmed black man,  with   manslaughter on Thursday,   according to the Tulsa County District Attorney's Office. \" \"   A warrant was issued for Shelby's arrest. \""
+        ],
+        "tf-idf score": [
+            1.061456562135511,
+            1.1838012406674987,
+            1.5663623794324826
+        ]
+    },
+    "0.3071735583310918-3-10": {
+        "average clique similarity": 0.3071735583310918,
+        "clique": [
+            "4-Shelby came across C",
+            "0-When she began follo",
+            "1-She was on her way t"
+        ],
+        "median tf-idf score": 0.71652072592682,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "Shelby came across Crutcher, who was standing next to his vehicle, which had apparently stalled, when she was on her way to a domestic violence call on 16 September.",
+            "When she began following Mr Crutcher to the vehicle with her duty weapon drawn, she was yelling for him to stop and get on his knees repeatedly\".",
+            "She was on her way to a domestic violence call when she saw Crutcher standing in the street, according to investigators."
+        ],
+        "tf-idf score": [
+            0.8877968775721444,
+            0.71652072592682,
+            0.6543130547066522
+        ]
+    },
+    "0.32877523392899427-3-79": {
+        "average clique similarity": 0.32877523392899427,
+        "clique": [
+            "0-Dashcam and aerial f",
+            "3-Tulsa Police on Mond",
+            "4-The affidavit filed "
+        ],
+        "median tf-idf score": 1.0707339288765003,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "Dashcam and aerial footage of the shooting and its aftermath showed Crutcher walking away from Shelby with his arms in the air.",
+            "Tulsa Police on Monday released footage of the shooting, which was captured by a police car's dash cam and which showed Crutcher walking away from officers with his arms raised over his head.",
+            "The affidavit filed on Thursday said Crutcher was walking away from officers toward his vehicle, with his hands up, and not following commands."
+        ],
+        "tf-idf score": [
+            0.6756694760727471,
+            1.248540412073713,
+            1.0707339288765003
+        ]
+    },
+    "0.34202021995981396-3-106": {
+        "average clique similarity": 0.34202021995981396,
+        "clique": [
+            "5-It added that there ",
+            "0- Not only for this f",
+            "4-Attorney Damario   s"
+        ],
+        "median tf-idf score": 0.8493664795017013,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "It added that there was \"no credible information\" to suggest that any of the gatherings, protests or rallies will not be peaceful. Noting that he had contacted the U S Attorney's Office about the case immediately after the shooting, Chief Jordan promised earlier this week, \"We will achieve justice in this case\".",
+            "\"Not only for this family, not only for Terence but to be a deterrent for law officers all around this nation to know that you cannot kill unarmed citizens\". Shelby's attorney, Scott Wood, did not immediately respond to telephone messages seeking comment on the charges.",
+            "Attorney Damario   said: \"We are happy that charges were brought, but let me be clear: the family wants and deserves full justice. \"Not only for this family, not only for Terence but to be a deterrent for law officers all around this nation to know that you cannot kill unarmed citizens. \""
+        ],
+        "tf-idf score": [
+            0.8327818141023157,
+            0.8545017009888103,
+            0.8493664795017013
+        ]
+    },
+    "0.40728517869733255-3-194": {
+        "average clique similarity": 0.40728517869733255,
+        "clique": [
+            "5- A warrant has been ",
+            "3-Kunzweiler said a wa",
+            "1-An arrest warrant wa"
+        ],
+        "median tf-idf score": 0.7320135543428229,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "\"A warrant has been issued for her arrest,\" and arrangements are being made with Shelby's attorney for Shelby's surrender, Kunzweiler said in announcing the felony charge (see video from local TV news KJRH).",
+            "Kunzweiler said a warrant had been issued for Shelby's arrest, and that negotiations were under way for her to surrender to the Tulsa County Sheriff.",
+            "An arrest warrant was issued for Shelby and arrangements have been made for her surrender, he said."
+        ],
+        "tf-idf score": [
+            0.8499839592630459,
+            0.7320135543428229,
+            0.698911453239093
+        ]
+    },
+    "0.4311848761008495-3-76": {
+        "average clique similarity": 0.4311848761008495,
+        "clique": [
+            "0-The affidavit filed ",
+            "1-Crutcher family atto",
+            "4-It also states Shelb"
+        ],
+        "median tf-idf score": 0.9473836275861436,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "The affidavit filed Thursday indicates that Shelby \"cleared the driver's side front\" of Crutcher's vehicle before she began interacting with Crutcher, suggesting she may have known there was no gun on the driver's side of the vehicle.",
+            "Crutcher family attorney Melvin Hall said the affidavit shows that Shelby had cleared the car of any threats before she tried to talk to Crutcher.",
+            "It also states Shelby had \"cleared the driver's side front\" of Crutcher's vehicle before she began interacting with Crutcher, suggesting she may have known there was no gun on the driver's side of the vehicle."
+        ],
+        "tf-idf score": [
+            1.0362022434439144,
+            0.9473836275861436,
+            0.9295910770111313
+        ]
+    },
+    "0.45400526717347284-3-137": {
+        "average clique similarity": 0.45400526717347284,
+        "clique": [
+            "0-Tulsa Mayor Dewey Ba",
+            "5-A medical examiner s",
+            "4-Tulsa s mayor  Dewey"
+        ],
+        "median tf-idf score": 1.0107127706885906,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Tulsa Mayor Dewey Bartlett praised the police department for quickly providing evidence to District Attorney Steve Kunzweiler's office. \"These are important steps to ensure that justice and accountability prevails,\" Bartlett said in a statement.",
+            "A medical examiner's autopsy findings and toxicology report are pending  --   but we'll note that when NPR's David Greene asked Tulsa Mayor Dewey Bartlett if the discovery of an illegal hallucinogen was relevant to the case, the mayor replied, \"No, it isn't,\" and said the police had already mentioned the discovery to Crutcher's family.",
+            "Tulsa's mayor, Dewey Bartlett, praised the police department for quickly providing evidence to the district attorney's office. \"These are important steps to ensure that justice and accountability prevail,\" Bartlett said in a statement."
+        ],
+        "tf-idf score": [
+            1.0107127706885906,
+            1.2598317655950715,
+            0.9268592427060988
+        ]
+    },
+    "0.45422647883312334-3-144": {
+        "average clique similarity": 0.45422647883312334,
+        "clique": [
+            "0-The swift action in ",
+            "4-If convicted  she fa",
+            "3-His death  paired wi"
+        ],
+        "median tf-idf score": 1.1611778983985428,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The swift action in Tulsa, a city with a long history of tense race relations, stood in in contrast to Charlotte, North Carolina, where police refused under mounting pressure Thursday to publicly release video of the shooting of another black man this week and the National Guard was called in after two nights of violent protests.",
+            "If convicted, she faces between four years and life in prison. The swift action in Tulsa stands in contrast to Charlotte, North Carolina, where police under mounting pressure refused on Thursday to publicly release video of this week's fatal shooting of Keith Lamont Scott, another black man, and the national guard was called in after violent protests.",
+            "His death, paired with the shooting of Keith Lamont Scott in Charlotte, North Carolina, has returned the matter of police killings of black people and particularly black men to the headlines. Tulsa has a long history of racial tensions, including one of the largest race riots in the nation, in 1921."
+        ],
+        "tf-idf score": [
+            1.1611778983985428,
+            1.228921142254141,
+            0.8874817988267623
+        ]
+    },
+    "0.5072454952893937-3-63": {
+        "average clique similarity": 0.5072454952893937,
+        "clique": [
+            "5-Saying that Crutcher",
+            "4- The tragic circumst",
+            "2-    Crutcher s death"
+        ],
+        "median tf-idf score": 1.0140986245066914,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Saying that Crutcher's death \"was on the hearts and minds of many people in this community,\" Kunzweiler praised the residents of Tulsa, saying the community \"has consistently demonstrated a willingness to respect the judicial process\".",
+            "\"The tragic circumstances surrounding the death of Mr Crutcher are on the hearts and minds of many people in this community,\" said the district attorney, Steve Kunzweiler, during brief remarks before he announced the charges.",
+            "\"   Crutcher's death, along with that of    has sparked protests nationwide. \" '   \"The tragic circumstances surrounding the death of Mr Crutcher   are on the hearts and minds of many people in this community,\"   Kunzweiler said as he announced the felony charge against Shelby. '"
+        ],
+        "tf-idf score": [
+            1.008519645289898,
+            1.0140986245066914,
+            1.1292556847196362
+        ]
+    }
+}

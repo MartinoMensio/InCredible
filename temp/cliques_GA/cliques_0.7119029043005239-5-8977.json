@@ -1,0 +1,542 @@
+{
+    "0.1392046482613105-3-34": {
+        "average clique similarity": 0.1392046482613105,
+        "clique": [
+            "3-The Senate voted dow",
+            "4- Plaintiffs have an ",
+            "2-Keep in mind that  b"
+        ],
+        "median tf-idf score": 0.5338064663895099,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "National Review"
+        ],
+        "sentences": [
+            "The Senate voted down opponents' motions against the bill. If the Senate had failed to clear the measure for Mr Obama's signature, it would have been the second time in two days that   legislation was blocked in the polarized Congress.",
+            "\"Plaintiffs have an absolute right to be paid first among all obligations of the Commonwealth, to be paid in full, and to be paid on time,\" the lawsuit states. As several senators remained uncommitted, some bondholder groups worked to turn them against the bill, arguing it did not sufficiently protect bondholders and was tantamount to a bailout for the territory.",
+            "Keep in mind that, by eliminating the data points at the bottom of the income earners' bell curve, any minimum wage, regardless of its effects, will artificially raise the median and average hourly wages. If you raised the minimum wage to some absurdly high level, say, $4, 000 an hour, the U S median wage would be higher than that, but almost everyone would be out of work, and the U S would instantly become one of the poorest countries in the world. Share article on FacebookshareTweet Something similar happened to Cuba, where Fidel Castro made all private transactions illegal in the early years of the revolution, bringing about one of the most vertiginous deteriorations in living standards ever to afflict an affluent society not at war."
+        ],
+        "tf-idf score": [
+            0.5338064663895099,
+            0.4959598292316579,
+            0.535003345797818
+        ]
+    },
+    "0.14742828677697337-3-51": {
+        "average clique similarity": 0.14742828677697337,
+        "clique": [
+            "1-The measure passed t",
+            "2-The real tragedy in ",
+            "3-In the case of the P"
+        ],
+        "median tf-idf score": 0.8347203459332896,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "National Review"
+        ],
+        "sentences": [
+            "The measure passed the Senate on a vote of   and President Obama said in a statement he looked forward to signing the bill into law. The House of Representatives has already approved the bill.",
+            "The real tragedy in this story is that, by the mid 1970s, the United States and Puerto Rico proved that the combination of property rights, rule of law, democratic government, and free markets could lift a poor Latin American society entirely out of poverty.",
+            "In the case of the Puerto Rico relief bill, the compromise was worked out between Republicans and the Obama administration, led by Mr Lew."
+        ],
+        "tf-idf score": [
+            0.6591426140587395,
+            0.8731385024676189,
+            0.8347203459332896
+        ]
+    },
+    "0.15503947095255954-3-188": {
+        "average clique similarity": 0.15503947095255954,
+        "clique": [
+            "1-But Reid said he was",
+            "4- I m just not sure w",
+            "0-An added complicatio"
+        ],
+        "median tf-idf score": 0.9409322646449688,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "But Reid said he was voting for passage because Puerto Rico needed the help by Friday. \"Otherwise we . .. turn them  over to the hedge funds and they will sue them to death,\" he said.",
+            "\"I'm just not sure we have enough in this bill to ensure they will make the difficult decisions they need to,\" Thom Tillis said of the Puerto Rican government.",
+            "An added complication was a bipartisan group of senators representing   states who said they would oppose closing debate on the Puerto Rico bill unless they won assurances from McConnell that the Senate would act to shore up health and pension funds for mine workers. Menendez, who called for amendments to the bill, played down the urgency of the situation."
+        ],
+        "tf-idf score": [
+            0.9409322646449688,
+            0.5913325815010452,
+            1.2492865427008057
+        ]
+    },
+    "0.16098625272149664-3-163": {
+        "average clique similarity": 0.16098625272149664,
+        "clique": [
+            "2-With approval of the",
+            "3-The rescue package w",
+            "0-This is not the begi"
+        ],
+        "median tf-idf score": 0.9841135440695378,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "National Review"
+        ],
+        "sentences": [
+            "With approval of the   board, the governor of Puerto Rico will be allowed to exempt Puerto Ricans under 25 from the minimum wage for their first jobs, and the Department of Labor's terrible new overtime rules will not apply to Puerto Rico.",
+            "The rescue package will not prevent Puerto Rico from missing the payment due on Friday on a $2 billion debt, and Republican congressional leaders labored to the end to reassure conservatives that the bill is not a bailout.",
+            "This is not the beginning of the end. \" In the near term, LeCompte said, the appointments to the oversight board will have significant bearing on Puerto Rico's path forward. Over the longer term, the island faces bigger questions about how it can reverse its economic decline and whether to revisit its status as a U S territory."
+        ],
+        "tf-idf score": [
+            0.8166643865812753,
+            0.9841135440695378,
+            1.1290813111196014
+        ]
+    },
+    "0.16457520763815073-3-224": {
+        "average clique similarity": 0.16457520763815073,
+        "clique": [
+            "4-Supporters warned th",
+            "3- The U S territory o",
+            "0- There is no precede"
+        ],
+        "median tf-idf score": 0.8352018340386613,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Supporters warned that if the measure failed to pass before 1 July, the island would face multiple lawsuits from unpaid creditors and could be forced to further cut essential services.",
+            "\"The U S territory of Puerto Rico is in crisis, it owes billions of dollars in debt, and it could be forced to leave residents without essential services like hospitals and public safety resources without prompt congressional action,\" he said.",
+            "\"There is no precedent to suggest that Puerto Rico would not be able to fund essential services while we worked to get the bill right over the next few days,\" he said."
+        ],
+        "tf-idf score": [
+            0.3298522744801114,
+            1.1184875355295187,
+            0.8352018340386613
+        ]
+    },
+    "0.1704280755888173-3-273": {
+        "average clique similarity": 0.1704280755888173,
+        "clique": [
+            "3-Crucially  given the",
+            "2-Late Wednesday  Cong",
+            "1-The   Congressional "
+        ],
+        "median tf-idf score": 0.9707557223034198,
+        "publications": [
+            "New York Times",
+            "National Review",
+            "Reuters"
+        ],
+        "sentences": [
+            "Crucially, given the imminent missed debt payment, the bill also would bar lawsuits by creditors for nonpayment retroactive to December  --   to provide Puerto Rico \"the breathing room,\" as Mr Lew put it, for its government and the control board to restructure the crippling debt and devise a new budget plan.",
+            "Late Wednesday, Congress voted to restructure Puerto Rico's $70 billion debt and establish a   board to help steer Puerto Rico out of its debt crisis.",
+            "The   Congressional Budget Office, which issued that estimate, said that about $350 million of the total \"would primarily cover fees of legal and financial consultants hired to restructure Puerto Rico's debt\"."
+        ],
+        "tf-idf score": [
+            1.1516612313551706,
+            0.960235964755908,
+            0.9707557223034198
+        ]
+    },
+    "0.17413777156114438-3-46": {
+        "average clique similarity": 0.17413777156114438,
+        "clique": [
+            "4-The House is out of ",
+            "3-The Senate  eager to",
+            "0- House passes Puerto"
+        ],
+        "median tf-idf score": 0.563444371886729,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The House is out of session until 5 July, so the Senate will have to pass the House bill unchanged for it to head to the president's desk for his signature before the Friday deadline.",
+            "The Senate, eager to follow the House out of town for a long Fourth of July weekend, voted 68 to 30 for the legislation on Wednesday evening after a test vote that morning showed by a wide margin that critics in both parties did not have the numbers to block passage.",
+            "[House passes Puerto Rico fiscal rescue bill ahead of July cliff]   The opposition did not fall neatly along party lines."
+        ],
+        "tf-idf score": [
+            0.30452142686457023,
+            0.563444371886729,
+            0.7312148731568068
+        ]
+    },
+    "0.18153634479244518-3-8": {
+        "average clique similarity": 0.18153634479244518,
+        "clique": [
+            "4-Democrats have also ",
+            "1-Neither political pa",
+            "2-A minimum wage set t"
+        ],
+        "median tf-idf score": 0.9707996836770769,
+        "publications": [
+            "Reuters",
+            "National Review",
+            "Guardian"
+        ],
+        "sentences": [
+            "Democrats have also opposed a provision that would allow the island's government to lower the minimum wage for some younger workers. Lew urged senators to vote for the bill even though it wasn't perfect.",
+            "Neither political party was entirely happy with the fix. Democrats bridled at a Republican provision that might lower the minimum wage for some young workers and weaken overtime pay rules while some Republicans were concerned the bill could amount to a bailout of the island, or set a precedent for states in fiscal trouble to seek a similar arrangement. \"They'll say if a territory can receive unprecedented authority from Congress, then why shouldn't a state?\" asked Republican Senator Chuck Grassley of Iowa. The legislation is geared toward U S territories.",
+            "A minimum wage set that high in relation to average wages is not protection for the poor, it is at best charity for the middle class at the expense of poor people, and a worst a disaster for the whole society. The introduction of the minimum wage in Puerto Rico marks the point in time at which Puerto Rico's Gross National Income per capita started to fall back, from 40 percent of the U S average to 30 percent, after decades of steady progress."
+        ],
+        "tf-idf score": [
+            0.5595971880970974,
+            0.9707996836770769,
+            1.0022282693519338
+        ]
+    },
+    "0.1830017110480243-3-70": {
+        "average clique similarity": 0.1830017110480243,
+        "clique": [
+            "0-Lew met with Democra",
+            "4- I m not going to le",
+            "3- I ve been having to"
+        ],
+        "median tf-idf score": 0.4427370027696394,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Lew met with Democratic members of the Senate Finance Committee Tuesday after having made dozens of phone calls to members of Congress over the past two weeks.",
+            "\"I'm not going to let the adequate be the enemy of the barely sufficient,\" said Ron Wyden, the top Democrat on the Senate finance committee.",
+            "\"I've been having town hall meetings in Oregon recently. No one has asked a question about Puerto Rico, and we have a very small population of Puerto Ricans,\" said Senator Ron Wyden of Oregon, the senior Democrat on the Senate Finance Committee. \"But I also think that Congress has a responsibility to back American citizens. That's what this is about, backing American citizens."
+        ],
+        "tf-idf score": [
+            0.3586330039309392,
+            0.4427370027696394,
+            1.2796583512531137
+        ]
+    },
+    "0.18412103978161734-3-169": {
+        "average clique similarity": 0.18412103978161734,
+        "clique": [
+            "3-Senator Robert Menen",
+            "2-On top of that  Demo",
+            "1-Puerto Rico is not c"
+        ],
+        "median tf-idf score": 0.7881373409556148,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "National Review"
+        ],
+        "sentences": [
+            "Senator Robert Menendez, Democrat of New Jersey, opposed much of the Puerto Rico bill, and other Democrats found fault with various provisions.",
+            "On top of that, Democrats had hoped to get retroactive Chapter 9 bankruptcy protection for Puerto Rico  --   in other words, an unconstitutional impairment of existing contracts  --   and a taxpayer bailout along with other subsidies, including an extension of the Earned Income Tax Credit to Puerto Rico.",
+            "Puerto Rico is not covered by current U S bankruptcy law under Chapter 9. Democratic Senator Robert Menendez of New Jersey, opposing the measure, argued that Friday was an arbitrary deadline for action that did not excuse a \"flawed\" bill."
+        ],
+        "tf-idf score": [
+            0.7881373409556148,
+            0.7733293653775078,
+            0.9657656799263813
+        ]
+    },
+    "0.18594242249042828-3-172": {
+        "average clique similarity": 0.18594242249042828,
+        "clique": [
+            "0-said Wednesday  befo",
+            "3- This bill won t cos",
+            "1- This is the best an"
+        ],
+        "median tf-idf score": 1.0177863625905579,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "said Wednesday, before arguing that it \"offers Puerto Rico the best chance to return to financial stability and economic growth over the long term so we can help prevent another financial crisis like this in the future. \"",
+            "\"This bill won't cost the taxpayers a dime,\" Mr McConnell added. \"What it will do is help Puerto Rico restructure its financial obligations and provide   oversight to put into place reforms. \"",
+            "\"This is the best and possibly the only action we can take to help Puerto Rico,\" Senate Majority Leader Mitch McConnell, a Republican, said."
+        ],
+        "tf-idf score": [
+            1.0325358287006243,
+            0.8531020049665885,
+            1.0177863625905579
+        ]
+    },
+    "0.1873636994072113-4-57": {
+        "average clique similarity": 0.1873636994072113,
+        "clique": [
+            "4-But it was strongly ",
+            "1-Some senators  inclu",
+            "3-Senator Bernie Sande",
+            "0- Bernie Sanders lead"
+        ],
+        "median tf-idf score": 0.7690153927408035,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "But it was strongly opposed by Bernie Sanders and several other Senate Democrats. Sanders called the bill \"disastrous\" and a victory for hedge funds.",
+            "Some senators, including Vermont independent Bernie Sanders, criticized the estimated $370 million cost of the legislation over five years, complaining that Puerto Rico will get stuck with the tab while it is struggling to reduce its debt. Sanders blasted this as \"colonialism at its worst\".",
+            "Senator Bernie Sanders, Democrat of Vermont, compared the board to \"a colonial master\" for the island. Democrats also objected to   provisions setting a lower minimum wage for young workers and limiting overtime pay on the island, attacking them as counterproductive to a stronger economy.",
+            "[Bernie Sanders leads liberals' fight against Puerto Rico rescue bill]   Also vowing to oppose the bill was Democratic presidential candidate Bernie Sanders (Vt.) who said he would \"do everything I can to defeat a horrific bill. \""
+        ],
+        "tf-idf score": [
+            0.38585545021419365,
+            0.9731747206970756,
+            0.6014505210753298,
+            0.9365802644062773
+        ]
+    },
+    "0.19441986928325175-3-97": {
+        "average clique similarity": 0.19441986928325175,
+        "clique": [
+            "2-But in Puerto Rico  ",
+            "0-Democrats raised a h",
+            "4-Several labor unions"
+        ],
+        "median tf-idf score": 0.6487264810006032,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "National Review"
+        ],
+        "sentences": [
+            "But in Puerto Rico, the same minimum wage is a staggering 75. 4 percent of the median wage.",
+            "Democrats raised a host of objections to the bill, including over the   nature of the oversight board, the relatively arcane restructuring process and a provision that could lower the minimum wage for young workers.",
+            "Several labor unions also lobbied against the measure, arguing in a letter sent to senators that the minimum wage provision could take money out of the Puerto Rican economy."
+        ],
+        "tf-idf score": [
+            0.6799715764862094,
+            0.44378208574353495,
+            0.6487264810006032
+        ]
+    },
+    "0.19472220952710959-3-14": {
+        "average clique similarity": 0.19472220952710959,
+        "clique": [
+            "0-It passed the House ",
+            "4- It s not perfect  b",
+            "1- This bill is not pe"
+        ],
+        "median tf-idf score": 0.6409963747730025,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It passed the House earlier this month, and President Obama has said he will sign it. \"Obviously, the bill isn't perfect,\" Senate Majority Leader Mitch McConnell ( .)",
+            "\"It's not perfect, but we need it,\" he said between visits with senators.",
+            "\"This bill is not perfect, but it is a critical first step toward economic recovery and restored hope for millions of Americans who call Puerto Rico home,\" Obama said."
+        ],
+        "tf-idf score": [
+            0.6409963747730025,
+            0.2852296134679571,
+            0.8875365534634759
+        ]
+    },
+    "0.19840861367286297-3-204": {
+        "average clique similarity": 0.19840861367286297,
+        "clique": [
+            "1-Puerto Rico s Govern",
+            "0- Puerto Rico   plan ",
+            "4-Puerto Rico is in a "
+        ],
+        "median tf-idf score": 0.9781805288244952,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Puerto Rico's Governor, Alejandro Garcia Padilla, has said the island will default some of the debt.",
+            "[Puerto Rico   plan engulfed in Great Recession 'bailout' politics]   After meeting with nine Democratic senators Tuesday, Garcia Padilla said in a statement that, while \"imperfect,\" the   bill offered \"an orderly debt restructuring process and a real opportunity of negotiation with creditors\" and that \"the crisis .",
+            "Puerto Rico is in a   recession and has $70bn in debt."
+        ],
+        "tf-idf score": [
+            0.9781805288244952,
+            1.2289096915190516,
+            0.6835389632526896
+        ]
+    },
+    "0.20374908951704843-4-176": {
+        "average clique similarity": 0.20374908951704843,
+        "clique": [
+            "3-Instead  the legisla",
+            "0-The bill passed by t",
+            "4-The bill  passed by ",
+            "1-The legislation woul"
+        ],
+        "median tf-idf score": 0.6588338215230709,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Instead, the legislation would allow the island's government to restructure its $72 billion total debt so it can manage payments, and create a bipartisan oversight board mostly of outsiders to guide what is sure to be a painful recovery process.",
+            "The bill passed by the Senate on a    vote opens a path for an orderly restructuring of the island's $72 billion in bond debt while creating a new federally appointed fiscal oversight board.",
+            "The bill, passed by the House earlier this month, would create a control board that would oversee the island's finances and could supervise some debt restructuring.",
+            "The legislation would create a federal oversight board, appointed by Washington, with power to restructure Puerto Rico's unmanageable debt load."
+        ],
+        "tf-idf score": [
+            0.6315429653836172,
+            0.6861246776625245,
+            0.4227328759044574,
+            0.9303797553451734
+        ]
+    },
+    "0.20954356607662605-3-72": {
+        "average clique similarity": 0.20954356607662605,
+        "clique": [
+            "3-Mr Lew said the bill",
+            "1-Supporters said inte",
+            "4- The fact that this "
+        ],
+        "median tf-idf score": 0.6077761456265465,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "Mr Lew said the bill's loss would mean \"descent into chaos. \" Top Democratic leaders announced publicly late Tuesday that they would support the legislation.",
+            "Supporters said intervention by Washington lawmakers was necessary to help the island's 3. 5 million U S citizens avert a \"descent into chaos,\" as U S Treasury Secretary Jack Lew on Tuesday.",
+            "\"The fact that this works and it gives Puerto Rico the ability to move forward is just an overwhelming reason to pass this in a timeframe that prevents the descent into chaos,\" Lew said."
+        ],
+        "tf-idf score": [
+            0.52046452931995,
+            0.6077761456265465,
+            0.8532312318760835
+        ]
+    },
+    "0.23863507009830262-3-87": {
+        "average clique similarity": 0.23863507009830262,
+        "clique": [
+            "0-Puerto Rico s fiscal",
+            "2-Even more staggering",
+            "1-Puerto Rico has been"
+        ],
+        "median tf-idf score": 0.9588312333964489,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "National Review"
+        ],
+        "sentences": [
+            "Puerto Rico's fiscal crisis goes deeper than its unsustainable public debt: Its economy has been stagnant for years, and its population has been steadily fleeing to the U S mainland  --   eroding the territorial tax base and threatening the delivery of basic services.",
+            "Even more staggering, Puerto Rico has lost 10 percent of its population in just the last five years, mostly from the   part of the labor pool. participation has plummeted to under 40 percent. With unemployment at double the national average, its true employment rate is under 30 percent.",
+            "Puerto Rico has been waiting for months for Congress to act as its economic crisis worsened. It has already defaulted on some of its debt. The Caribbean island territory is reeling from a 45 percent poverty rate, as well as a steady flow of migration to the U S mainland that shrinks its tax base and shuttering of essential services."
+        ],
+        "tf-idf score": [
+            0.9588312333964489,
+            0.8227359860982351,
+            1.1854524813970961
+        ]
+    },
+    "0.25769775147675894-3-141": {
+        "average clique similarity": 0.25769775147675894,
+        "clique": [
+            "1-Senate Democratic Le",
+            "0-Top Democratic leade",
+            "4-The Senate minority "
+        ],
+        "median tf-idf score": 0.5344386342554787,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Senate Democratic Leader Harry Reid said he shared the concerns of many Democrats with the \"excessive powers and appointment structure\" of the oversight board, and he was unhappy with some labor provisions.",
+            "Top Democratic leaders supported the bill  --   if grudgingly. \"If Democrats had written this bill, it would be very different than what we are voting on today,\" Senate Minority Leader Harry M Reid ( .) said Wednesday.",
+            "The Senate minority leader, Harry Reid, said he would vote for the legislation, though he criticized McConnell for not allowing amendments to the bill."
+        ],
+        "tf-idf score": [
+            0.7431969561994517,
+            0.5216927081328183,
+            0.5344386342554787
+        ]
+    },
+    "0.27674058791518447-4-273": {
+        "average clique similarity": 0.27674058791518447,
+        "clique": [
+            "2-The bipartisan compr",
+            "3-Yet  as the bill hun",
+            "4-Like Lew  Puerto Ric",
+            "0-Two key supporters o"
+        ],
+        "median tf-idf score": 0.7978205829893698,
+        "publications": [
+            "National Review",
+            "New York Times",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The bipartisan compromise is headed to the president's desk and he is likely to sign it quickly. Regardless, Governor Alejandro Garcia Padilla has announced that on Friday, Puerto Rico will default on its largest and most senior debt payment yet, $1 billion of a $2 billion payment due.",
+            "Yet, as the bill hung in the balance on Tuesday, both Mr Lew and Puerto Rico's governor, Alejandro Garcia Padilla, lobbied senators to urge their support.",
+            "Like Lew, Puerto Rico's governor, Alejandro Garcia Padilla, made a   visit to Capitol Hill to lobby for votes.",
+            "Two key supporters of the legislation  --   Treasury Secretary Jack Lew and Puerto Rico Gov. Alejandro Garcia Padilla  --   lobbied heavily to win over skeptics."
+        ],
+        "tf-idf score": [
+            1.0084820606618665,
+            0.831550168931257,
+            0.7640909970474825,
+            0.752337528077953
+        ]
+    },
+    "0.2872513874143761-3-62": {
+        "average clique similarity": 0.2872513874143761,
+        "clique": [
+            "4-The bill would provi",
+            "1- The U S Senate gave",
+            "3-WASHINGTON       Jus"
+        ],
+        "median tf-idf score": 1.2305927839165318,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "The bill would provide emergency debt relief to Puerto Rico, which is expected to default on a $2bn debt payment on Friday.",
+            " The U S Senate gave solid approval on Wednesday to a relief plan to help Puerto Rico address its $70 billion debt, sending the measure to President Obama for his signing into law just ahead of a possible default by the U S territory on its next debt payment.",
+            "WASHINGTON  --   Just two days before Puerto Rico plans to default on a large debt payment, the Senate on Wednesday passed and sent to the White House a relief measure to help the financially desperate island surmount its fiscal crisis, ending a grueling, monthslong effort to rescue the commonwealth."
+        ],
+        "tf-idf score": [
+            0.7694743531472183,
+            1.2305927839165318,
+            1.3325091273769598
+        ]
+    },
+    "0.36925794498754533-3-38": {
+        "average clique similarity": 0.36925794498754533,
+        "clique": [
+            "4- We re not going to ",
+            "2-With the repeal of S",
+            "0- We re not going to "
+        ],
+        "median tf-idf score": 0.7563588520567558,
+        "publications": [
+            "Guardian",
+            "National Review",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"We're not going to let Puerto Rico go off a cliff here  --   it's too important,\" said Marco Rubio.",
+            "With the repeal of Section 936, the chickens finally came home to roost, and the Puerto Rican economy went off the cliff.",
+            "\"We're not going to let Puerto Rico go off the cliff here,\" Sen. Marco Rubio ( .) said Monday."
+        ],
+        "tf-idf score": [
+            0.7563588520567558,
+            0.4047934221137222,
+            0.7591937481168629
+        ]
+    }
+}

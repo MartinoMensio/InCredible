@@ -1,0 +1,702 @@
+{
+    "0.1444814819322474-3-45": {
+        "average clique similarity": 0.1444814819322474,
+        "clique": [
+            "3- Her influence of th",
+            "4-The first time we me",
+            "2-But that was nothing"
+        ],
+        "median tf-idf score": 0.509221159027575,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"Her influence of the White House was complete and lasting,\" he wrote. \"When we moved into the White House, we benefitted from her work to make those historic rooms beautiful. \"",
+            "The first time we met, before I ran for mayor of New York, I had the honor of sitting next to her at a dinner. When I confessed to her that I was a Democrat, she replied, `Oh, that's okay.",
+            "But that was nothing compared with the criticism she faced when she came to Washington and decided to redecorate the White House and buy expensive new china."
+        ],
+        "tf-idf score": [
+            0.509221159027575,
+            0.4792037923789144,
+            0.5433013847962794
+        ]
+    },
+    "0.1482986199052241-3-103": {
+        "average clique similarity": 0.1482986199052241,
+        "clique": [
+            "2-Her voice cracked as",
+            "0-Her stepdaughter  Ma",
+            "1-Nancy Reagan acknowl"
+        ],
+        "median tf-idf score": 0.6691730225039869,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Her voice cracked as she noted that the last time she'd been in the room had been for her husband's state funeral.",
+            "Her stepdaughter, Maureen, died in 2001. In all, Nancy Reagan made 11 movies, the last, \"Hellcats of the Navy\" (1956) opposite her husband.",
+            "Nancy Reagan acknowledged she had the ear of her husband."
+        ],
+        "tf-idf score": [
+            0.21069431673560432,
+            0.7671240880444524,
+            0.6691730225039869
+        ]
+    },
+    "0.15033985377958362-3-173": {
+        "average clique similarity": 0.15033985377958362,
+        "clique": [
+            "1-President Reagan cal",
+            "3- Now she is at peace",
+            "0-In announcing his Al"
+        ],
+        "median tf-idf score": 0.9393500378161852,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "President Reagan called this view of his wife \"despicable fiction,\" saying in 1987: \"The idea that she is involved in governmental decisions and so forth and all of this, and being a kind of dragon lady   there is nothing to that\".",
+            "\"Now she is at peace,\" he wrote. President Barack Obama released a statement of condolences on behalf of him and his wife. \"Nancy Reagan once wrote that nothing could prepare you for living in the White House,\" the statement read.",
+            "In announcing his Alzheimer's diagnosis in 1994, Reagan wrote, \"I only wish there was some way I could spare Nancy from this painful experience\"."
+        ],
+        "tf-idf score": [
+            0.7042354295201123,
+            0.9694164859521712,
+            0.9393500378161852
+        ]
+    },
+    "0.1521281997394373-3-7": {
+        "average clique similarity": 0.1521281997394373,
+        "clique": [
+            "3-She underwent a mast",
+            "2-Later in life  Reaga",
+            "1-She was always a sti"
+        ],
+        "median tf-idf score": 0.7267198948259017,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "She underwent a mastectomy of her left breast, and began to openly discuss the diagnosis and operation in order to encourage women to have mammograms every year. She remained notoriously loyal and publicly protective of Ronald Reagan, throughout his struggle with Alzheimer's disease and up until his death in 2004.",
+            "Later in life, Reagan nursed the former president during his long struggle with Alzheimer's disease. She later became a strong advocate for   research, in the hope that it would lead to a cure.",
+            "She was always a stickler for protocol and detail and stoically presided over the former president's weeklong funeral and celebration of his life in June 2004."
+        ],
+        "tf-idf score": [
+            0.8031774568652068,
+            0.7267198948259017,
+            0.4505592763251219
+        ]
+    },
+    "0.16501786198395432-3-112": {
+        "average clique similarity": 0.16501786198395432,
+        "clique": [
+            "1-Former first lady Ba",
+            "4-Former Mayor Rudy Gi",
+            "2-But those initial co"
+        ],
+        "median tf-idf score": 1.2959140992333062,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Former first lady Barbara Bush said she and her husband, former President George H W Bush, who was vice president under Reagan, took comfort in knowing Nancy Reagan would be reunited with her husband, the late president.",
+            "Former Mayor Rudy Giuliani, who served in Reagan's Justice Department, said, \"Nancy Reagan was a full partner in all the historical achievements of her husband President Ronald Reagan's career.",
+            "But those initial controversies were soon overshadowed. The attempted assassination of President Reagan in March 1981 devastated the first lady, who saw all too clearly how quickly her husband could be taken away."
+        ],
+        "tf-idf score": [
+            1.2971485432536083,
+            1.2959140992333062,
+            0.7845208805400037
+        ]
+    },
+    "0.167137030433914-3-66": {
+        "average clique similarity": 0.167137030433914,
+        "clique": [
+            "1-President Barack Oba",
+            "3- Our former First La",
+            "0- George and I send o"
+        ],
+        "median tf-idf score": 0.9687230571584184,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "President Barack Obama, a Democrat, and first lady Michelle Obama said Nancy Reagan redefined the role of first lady.",
+            "\"Our former First Lady redefined the role in her time here,\" the Obamas' statement continued. \"Later, in her long goodbye with President Reagan, she became a voice on behalf of millions of families going through the depleting, aching reality of Alzheimer's, and took on a new role, as advocate, on behalf of treatments that hold the potential and the promise to improve and save lives. \"",
+            "\"George and I send our prayers and condolences to her family\". Although she initially worked as an actress, the former first lady was, first and foremost, Mrs Ronald Reagan."
+        ],
+        "tf-idf score": [
+            0.9030622667256907,
+            1.0396056469647867,
+            0.9687230571584184
+        ]
+    },
+    "0.170764209134451-3-130": {
+        "average clique similarity": 0.170764209134451,
+        "clique": [
+            "0-As a widow  Reagan r",
+            "1-When you are gone I ",
+            "2-She continued to hav"
+        ],
+        "median tf-idf score": 0.7767768816363152,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "As a widow, Reagan remained active within the Reagan Library and championed Alzheimer's patients, raising millions of dollars  for research and breaking with fellow conservative Republicans to  advocate for stem cell studies.",
+            "When you are gone I'm waiting for you to return so I can start living again\". 'RONNIE'S LONG JOURNEY' The former president's Alzheimer's struggle made Mrs Reagan a campaigner for broader human embryonic stem cell research, a stand that put her at odds with many Republicans. \"Ronnie's long journey has finally taken him to a distant place where I can no longer reach him. Because of this, I'm determined to do whatever I can to save other families from this pain,\" she said before his death in 2004.",
+            "She continued to have an impact long after leaving the White House. She became a strong advocate of   research  --   in the hope that it would lead to an Alzheimer's cure  --   even though it put her at odds with many Republicans. Still, she was clearly the party's matriarch  --   a reminder of a popular president and the woman who protected him."
+        ],
+        "tf-idf score": [
+            0.6195084793930368,
+            0.9275469281685413,
+            0.7767768816363152
+        ]
+    },
+    "0.17525576615388397-3-98": {
+        "average clique similarity": 0.17525576615388397,
+        "clique": [
+            "4-And Ed Cox  state GO",
+            "1-As Reagan s wife  po",
+            "2-Like most first ladi"
+        ],
+        "median tf-idf score": 0.9387554110203262,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "And Ed Cox, state GOP chairman and    of former President Richard Nixon, said: \"Nancy Reagan will go down as the one of the most influential First Ladies in the US because of the love between her and Ron. \"",
+            "As Reagan's wife, political partner and adviser, she became one of America's most potent first ladies, alongside the likes of Franklin Roosevelt's wife, Eleanor, Woodrow Wilson's wife, Edith, and Bill Clinton's wife, Hillary. \"I see the first lady as another means to keep a president from becoming isolated,\" she said in 1985.",
+            "Like most first ladies, Nancy Reagan was the target of both praise and criticism."
+        ],
+        "tf-idf score": [
+            0.9387554110203262,
+            0.8539233336993579,
+            0.9780638236951871
+        ]
+    },
+    "0.17619412484636124-3-120": {
+        "average clique similarity": 0.17619412484636124,
+        "clique": [
+            "4-We can have politica",
+            "2-She told NPR s Terry",
+            "3- Without Nancy  ther"
+        ],
+        "median tf-idf score": 0.646672572276408,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "We can have political differences but there is no doubt that she was a great first lady and she will be missed,\" Gov.",
+            "She told NPR's Terry Gross in 1989 that it was then she decided to consult an astrologer. \"When a friend called me and said I know this lady who said that if she only could have gotten to you she could have told you that he shouldn't have done anything that day,\" she said, \"and I thought, 'Oh my lord, I could have saved him maybe.'",
+            "\"Without Nancy, there would have been no Governor Reagan, no President Reagan,\" said Michael K Deaver, a close friend and longtime political aide of the Reagan's who died in 2007."
+        ],
+        "tf-idf score": [
+            0.4477880889691828,
+            0.646672572276408,
+            0.8990002973193236
+        ]
+    },
+    "0.17658808344728716-3-197": {
+        "average clique similarity": 0.17658808344728716,
+        "clique": [
+            "0-God Bless        Fol",
+            "1-Some critics dismiss",
+            "2-Reagan was criticize"
+        ],
+        "median tf-idf score": 0.7003010565226082,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "God Bless. ..... Following her husband's election to the presidency in 1980, Reagan launched a project fighting drug and alcohol abuse among young people and \"Just Say No\" became its byword.",
+            "Some critics dismissed her \"Just Say No\" efforts as simplistic but she became America's most visible   crusader at a time when the crack cocaine epidemic was raging.",
+            "Reagan was criticized for meddling in White House affairs, but she was also credited with her \"Just Say No\" campaign against drug abuse."
+        ],
+        "tf-idf score": [
+            0.7003010565226082,
+            0.42842648551848334,
+            0.892890233243496
+        ]
+    },
+    "0.1832817304756044-3-201": {
+        "average clique similarity": 0.1832817304756044,
+        "clique": [
+            "0-Ronald Reagan served",
+            "2-The two married in 1",
+            "1-Arnold Schwarzenegge"
+        ],
+        "median tf-idf score": 0.9212517522913019,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Ronald Reagan served as governor of California from   and as the state's first lady, Nancy became a champion of the Foster Grandparent Program, which brought together senior citizens and handicapped children.",
+            "The two married in 1952. In 1966, Ronald Reagan was elected governor of California.",
+            "Arnold Schwarzenegger, who like Ronald Reagan rode his Hollywood fame to the governor's office in California, said on Twitter that Nancy Reagan was \"one of my heroes\"."
+        ],
+        "tf-idf score": [
+            0.9212517522913019,
+            0.7869537350716942,
+            1.1155134210976934
+        ]
+    },
+    "0.19238432301212627-3-288": {
+        "average clique similarity": 0.19238432301212627,
+        "clique": [
+            "4-In 1988  Nancy Reaga",
+            "1-In 1988  she address",
+            "2-He notes  for exampl"
+        ],
+        "median tf-idf score": 0.694909914920724,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "In 1988, Nancy Reagan addressed the UN General Assembly and blamed addicts in the United States  --   more than narcotics producers overseas  --   for that era's drug epidemic.",
+            "In 1988, she addressed the U N General Assembly, saying the United States must do more with tougher law enforcement and   education efforts and should stop blaming the poor nations that produce most of the narcotics used by Americans. \"We will not get anywhere if we place a heavier burden of action on foreign governments than on America's own mayors, judges and legislators. You see, the cocaine cartel does not begin in Medellin, Colombia. It begins in the streets of New York, Miami, Los Angeles and every American city where crack is bought and sold,\" she told the General Assembly.",
+            "He notes, for example, that the first lady supported abortion rights in an   administration. He thinks she also grew with the job. \"You see a woman who, despite having been an actress, was at first slightly uncomfortable even giving the teacher of the year award. Then eight years later [she] is addressing the United Nations General Assembly,\" Anthony says."
+        ],
+        "tf-idf score": [
+            0.694909914920724,
+            0.4706037483530654,
+            0.8318146400604064
+        ]
+    },
+    "0.19851106687759504-3-277": {
+        "average clique similarity": 0.19851106687759504,
+        "clique": [
+            "3-Nancy Reagan was not",
+            "2-But Anthony says Nan",
+            "1-She was diminutive a"
+        ],
+        "median tf-idf score": 1.0025246345082464,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Nancy Reagan was notoriously involved in her husband's campaign and presidency. She was known by many as one of his most trusted advisors who often put his image, reputation, and   above her own.",
+            "But Anthony says Nancy Reagan had only one goal in mind  --   protecting her husband and his image.",
+            "She was diminutive and publicly   but Nancy Reagan's strong will,   tastes and clout with her husband made her a controversial figure during his presidency."
+        ],
+        "tf-idf score": [
+            1.043310816517017,
+            0.7758240973965472,
+            1.0025246345082464
+        ]
+    },
+    "0.1985270617175063-3-213": {
+        "average clique similarity": 0.1985270617175063,
+        "clique": [
+            "2-As the state s first",
+            "1-She then served as f",
+            "3-Nancy Reagan exercis"
+        ],
+        "median tf-idf score": 0.9718282347942541,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "As the state's first lady, Nancy Reagan got her first taste of political sniping, most often for the   adoring look she always gave her husband  --   something known as The Gaze.",
+            "She then served as first lady of California during her husband's stint as California governor from 1967 to 1975 before moving into the White House after his decisive victory over incumbent Democratic President Jimmy Carter in 1980. Her most publicized project as first lady was the \"Just Say No\"   campaign. After her husband developed Alzheimer's disease, she became an advocate for discovering a cure.",
+            "Nancy Reagan exercised power behind the scenes, helping to hire and fire the political consultants during both of her husband's campaigns for the Republican presidential bid, first in 1976 then successfully in 1980. Publicly, she pointedly portrayed herself as a chic first lady and devoted wife, often saying she had happily given up her career in acting to devote herself to her husband's career."
+        ],
+        "tf-idf score": [
+            0.9137204465965053,
+            0.9718282347942541,
+            1.1253918898347188
+        ]
+    },
+    "0.21003630738546275-3-163": {
+        "average clique similarity": 0.21003630738546275,
+        "clique": [
+            "2-Admirers and detract",
+            "4-She was his most imp",
+            "1-In a statement in Su"
+        ],
+        "median tf-idf score": 0.9386799872124224,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "Admirers and detractors alike marveled at their close relationship and how it sustained them during the sometimes grueling journey of public life. She was President Reagan's fiercest protector  --   and eventually his caregiver, as he was ravaged by Alzheimer's.",
+            "She was his most important confidante, advisor, friend and the love of his life.",
+            "In a statement in Sunday, Baker said Nancy Reagan was \"her husband's closest adviser, his constant protector, and most importantly the love of his life\"."
+        ],
+        "tf-idf score": [
+            0.9386799872124224,
+            0.3743227446805279,
+            1.182743970632612
+        ]
+    },
+    "0.21653911102304613-3-288": {
+        "average clique similarity": 0.21653911102304613,
+        "clique": [
+            "1-She was born Anne Fr",
+            "4-Long before she was ",
+            "3-She was named Anne F"
+        ],
+        "median tf-idf score": 1.0310900066579247,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "She was born Anne Frances Robbins into a crumbling marriage in New York on July 6, 1921. Her   father deserted the family soon after, and her mother, actress Edith Luckett Robbins, resumed her show business career two years later. In 1929, her mother married Loyal Davis, a neurosurgeon.",
+            "Long before she was America's glamorous first lady, Nancy Reagan was simply Anne Frances Robbins from Flushing.",
+            "She was named Anne Francis Robbins, but was always called \"Nancy\" by her family, according to the Reagan foundation. In the 1940s she moved to Hollywood to pursue a career in acting."
+        ],
+        "tf-idf score": [
+            0.7986725230270458,
+            1.0413936207229302,
+            1.0310900066579247
+        ]
+    },
+    "0.22323998567892503-4-58": {
+        "average clique similarity": 0.22323998567892503,
+        "clique": [
+            "1-She frequently clash",
+            "3-She was influential ",
+            "2-He says she was cons",
+            "0-She also was known a"
+        ],
+        "median tf-idf score": 0.9990937689282975,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "She frequently clashed with President Reagan's chief of staff, Donald Regan, who lambasted her in a 1988 \" \" book after he was ousted from the White House during the chaos of the   scandal in 1987. Regan disclosed that she had used astrology to decide the timing of presidential speeches and trips, and even her husband's 1985 cancer surgery.",
+            "She was influential in the decision to fire Donald Regan, Ronald Reagan's chief of staff, and in convincing her husband to issue a public apology, which he eventually did. She never sought and received little credit for the turnaround until years later.",
+            "He says she was constantly on the lookout for anyone she thought didn't have her husband's best interests at heart  --   most notably, White House Chief of Staff Don Regan, whose ouster she helped to orchestrate. It was telling that Regan's replacement, former Sen. Howard Baker, was grilled by reporters his first day on the job about his relationship with the first lady.",
+            "She also was known as a fierce protector of her husband, especially after the 1981 attempt on his life. To this end, she even consulted an astrologer about his schedule  --   a fact later revealed to some uproar by former chief of staff Donald Regan in his memoir."
+        ],
+        "tf-idf score": [
+            1.1755418334042953,
+            1.108176071911789,
+            0.890011465944806,
+            0.6805875833285084
+        ]
+    },
+    "0.22681041112711306-3-73": {
+        "average clique similarity": 0.22681041112711306,
+        "clique": [
+            "2-In Reagan s second t",
+            "1-She was first accuse",
+            "3-She received critici"
+        ],
+        "median tf-idf score": 0.9181742183101581,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "In Reagan's second term, the first lady was increasingly accused of interfering in White House affairs.",
+            "She was first accused of being a vacuous spendthrift interested chiefly in renovating and buying new china for the White House, lavish entertaining, her designer wardrobe and the like, then portrayed as a cunning manipulator of policy and people. Advocates of the latter view saw her influence as virtually unlimited in such matters as the dumping of presidential advisers, efforts to get a nuclear arms accord with the Soviet Union and her husband's decision to seek a second term in 1984.",
+            "She received criticism when in their first term, she replaced the White House China  --   which was paid for with private donations  --   in order to restore the White House to its   glamour. Former president George W Bush also released a statement of condolences, commending the first lady for her devotion to her husband and her taste in interior decoration."
+        ],
+        "tf-idf score": [
+            0.9181742183101581,
+            0.8799025357745246,
+            0.9348705218599138
+        ]
+    },
+    "0.2654110099288644-3-288": {
+        "average clique similarity": 0.2654110099288644,
+        "clique": [
+            "0- He said she d been ",
+            "1-Ronald and Nancy Rea",
+            "3-There she met   Rona"
+        ],
+        "median tf-idf score": 0.8410394423055803,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "(He said she'd been confused with another actress with the same name). They married on March 4, 1952 (it was his second marriage after divorcing actress Jane Wyman) and had two children who survive her, Patricia and Ron. She also is survived by Michael.",
+            "Ronald and Nancy Reagan got married in 1952 and had two children together   Patti Davis, an actress, and Ron Jr who pursued careers in ballet and television.",
+            "There she met   Ronald Reagan. In 1952, the two were married. Within three years the couple already had two children: daughter Patti Davis and son Ron Jr More than 10 years later  --   after starring in only one movie together called Hellcats of the Navy  --   Ronald Reagan began to become politically active."
+        ],
+        "tf-idf score": [
+            0.5821499932883095,
+            0.8571232952060434,
+            0.8410394423055803
+        ]
+    },
+    "0.26929908289114757-3-183": {
+        "average clique similarity": 0.26929908289114757,
+        "clique": [
+            "0-In 1987  the then   ",
+            "3-Nancy Reagan was dia",
+            "1-Mrs Reagan had her l"
+        ],
+        "median tf-idf score": 0.6994940626222836,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "In 1987, the then    first lady was diagnosed with breast cancer. After undergoing successful surgery, she raised awareness of the disease among many women and in her later memoir \"My Turn,\" she stressed the importance of annual mammograms.",
+            "Nancy Reagan was diagnosed with breast cancer in 1987.",
+            "Mrs Reagan had her left breast surgically removed in October 1987 after a cancerous tumor was discovered."
+        ],
+        "tf-idf score": [
+            0.5845469966429497,
+            0.850527867327357,
+            0.6994940626222836
+        ]
+    },
+    "0.2839944186596424-3-9": {
+        "average clique similarity": 0.2839944186596424,
+        "clique": [
+            "3- I am saddened by th",
+            "0-I am saddened by the",
+            "4-Cuomo said  Mayor de"
+        ],
+        "median tf-idf score": 0.8690449834624826,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"I am saddened by the passing of my   Nancy Reagan,\" her   Michael Reagan, the adopted son of Ronald Reagan and his first wife Jane Wyman, wrote on Twitter. \"Nancy is where she has always wanted to be with her Ronnie. \"",
+            "I am saddened by the passing of my step mother Nancy Reagan. ..She is once again with the man she loved.",
+            "Cuomo said. Mayor de Blasio added, \"New Yorkers are deeply saddened by the passing of First Lady Nancy Reagan, a warm and intelligent woman who loved this country and President Reagan with compassion and grace."
+        ],
+        "tf-idf score": [
+            0.8690449834624826,
+            0.6402354481394417,
+            1.0558146689442145
+        ]
+    },
+    "0.2979921806889579-3-178": {
+        "average clique similarity": 0.2979921806889579,
+        "clique": [
+            "4-Nancy Reagan was a f",
+            "0- Can t imagine life ",
+            "3-Nancy Reagan was bor"
+        ],
+        "median tf-idf score": 1.1341498235122447,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Nancy Reagan was a frequent visitor to New York City during the Reagan White House, including a famous moment with her hubby,   George H W Bush met Soviet leader Mikhail Gorbachev at the Statue of Liberty.",
+            "\"Can't imagine life without him\". \"The movies were custard compared to politics\". Nancy Reagan, Nancy Davis Reagan was born July 6, 1921 in New York City as Anne Frances Robbins.",
+            "Nancy Reagan was born in 1921 in New York City."
+        ],
+        "tf-idf score": [
+            1.1641319579329203,
+            1.1341498235122447,
+            0.9153324277745499
+        ]
+    },
+    "0.31296883082058286-3-224": {
+        "average clique similarity": 0.31296883082058286,
+        "clique": [
+            "0-She became known as ",
+            "2-I didn t want to sit",
+            "4-Her parents divorced"
+        ],
+        "median tf-idf score": 0.6057071833064651,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "She became known as Nancy as a child. Her parents divorced when she was young and her mother remarried Dr Loyal Davis, a Chicago neurosurgeon, who adopted her. She took his name and attended private school in Chicago, followed by Smith College, where she majored in drama.",
+            "I didn't want to sit in Chicago and do nothing, so I became an actress,\" she said. Her big break came in 1949, when, as Nancy Davis, she landed a   contract with MGM She went on to make a number of moderately successful films.",
+            "Her parents divorced, and she moved to Chicago with her mother, who got remarried to neurosurgeon Dr Loyal Davis. The doctor adopted Nancy. Not long after Nancy Davis graduated from Smith College in Massachusetts, she returned to the Big Apple as a young aspiring actress. She scored her first big acting break, cast in Broadway's \"Lute Song\" in 1946."
+        ],
+        "tf-idf score": [
+            0.7557898106597496,
+            0.5020148520592359,
+            0.6057071833064651
+        ]
+    },
+    "0.3140102172890744-3-288": {
+        "average clique similarity": 0.3140102172890744,
+        "clique": [
+            "0-Her father was Kenne",
+            "2-Initial Controversie",
+            "4-The daughter of stag"
+        ],
+        "median tf-idf score": 0.9483405782510212,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "Her father was Kenneth Seymour Robbins, a used car salesman, and her mother Edith P Luckett, was an actress.",
+            "Initial Controversies, Nancy Reagan was born in 1921 as Anne Frances Robbins. She became an actress, like her mother.",
+            "The daughter of stage actress Edith Luckett and car salesman Kenneth Seymour Robbins, Reagan was born July 6, 1921, and lived her early days at 417 Amity St.  --   now   Roosevelt Ave.  --   in what's currently a heavily immigrant block of Queens."
+        ],
+        "tf-idf score": [
+            0.44412539066239437,
+            1.000487494284653,
+            0.9483405782510212
+        ]
+    },
+    "0.323215394015762-3-251": {
+        "average clique similarity": 0.323215394015762,
+        "clique": [
+            "2-But as Ronald Reagan",
+            "1-At the time  Ronald ",
+            "0-In 1951  she met Rea"
+        ],
+        "median tf-idf score": 0.7495491580714406,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "But as Ronald Reagan's biographer Edmund Morris says, her real career began when she met the handsome president of the Screen Actors Guild.",
+            "At the time, Ronald Reagan headed the Screen Actors Guild. Davis was stunned when an industry newspaper published a list of communist sympathizers and her name was included (it turned out to be a reference to another actress of the same name).",
+            "In 1951, she met Reagan when she found her name on a newspaper list of supposed Communist sympathizers and she consulted the actor, then president of the Screen Actors Guild, to see what could be done about it."
+        ],
+        "tf-idf score": [
+            0.7495491580714406,
+            0.9419907459228596,
+            0.58484759869778
+        ]
+    },
+    "0.34179456026179417-3-34": {
+        "average clique similarity": 0.34179456026179417,
+        "clique": [
+            "1-A Republican debate ",
+            "3- Mrs Reagan will be ",
+            "0-She s set to be buri"
+        ],
+        "median tf-idf score": 0.8412421986672663,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "A Republican debate in September took place at the Reagan presidential library in Simi Valley, California, with an Air Force One jet providing a memorable backdrop.",
+            "\"Mrs Reagan will be buried at the Ronald Reagan Presidential Library in Simi Valley, California, next to her husband   ...     who died on June 5, 2004,\" Drake said.",
+            "She's set to be buried at the Ronald Reagan Presidential Library in Simi Valley, California, next to her husband. Prior to the funeral, there will be an opportunity for members of the public to pay their respects at the Library, the spokesperson said. Details had not yet been announced Sunday afternoon."
+        ],
+        "tf-idf score": [
+            0.5876835073871586,
+            0.8412421986672663,
+            0.9045411942679991
+        ]
+    },
+    "0.3452541340081039-3-288": {
+        "average clique similarity": 0.3452541340081039,
+        "clique": [
+            "4-Everyone in the neig",
+            "0-Reagan died at her h",
+            "1-She died at her Los "
+        ],
+        "median tf-idf score": 0.5812249758623521,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Everyone in the neighborhood knows the house that Nancy Reagan once called home.",
+            "Reagan died at her home in Los Angeles.",
+            "She died at her Los Angeles home. \"She is once again with the man she loved,\" her stepson Michael Reagan wrote on Twitter."
+        ],
+        "tf-idf score": [
+            0.6825832127211716,
+            0.4662210379545252,
+            0.5812249758623521
+        ]
+    },
+    "0.354437959400785-3-50": {
+        "average clique similarity": 0.354437959400785,
+        "clique": [
+            "1- She was right  of c",
+            "3- She was right  of c",
+            "2-When one reporter as"
+        ],
+        "median tf-idf score": 0.7781604356785061,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "\"She was right, of course. But we had a head start, because we were fortunate to benefit from her proud example, and her warm and generous advice\".",
+            "\"She was right, of course. But we had a head start, because we were fortunate to benefit from her proud example, and her warm and generous advice. \" \"We remain grateful for Nancy Reagan's life, thankful for her guidance, and prayerful that she and her beloved husband are together again. \"",
+            "When one reporter asked the president about U S  space weapons talks, she was overheard whispering, \"We're doing everything we can,\" something President Reagan promptly repeated."
+        ],
+        "tf-idf score": [
+            0.3615619162165562,
+            1.109534049107811,
+            0.7781604356785061
+        ]
+    },
+    "0.47460192772522714-3-162": {
+        "average clique similarity": 0.47460192772522714,
+        "clique": [
+            "0-    Nancy Reagan  th",
+            "2-Former first lady Na",
+            "3- Nancy Reagan  forme"
+        ],
+        "median tf-idf score": 0.927705164167097,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "    Nancy Reagan, the widow of President Ronald Reagan and passionately devoted keeper of his flame, died Sunday morning of congestive heart failure at 94, according to her spokesperson.",
+            "Former first lady Nancy Reagan died Sunday at her home in Los Angeles of congestive heart failure, according to the Reagan Foundation.",
+            " Nancy Reagan, former first lady of the United States and the widow of President Ronald Reagan, died in her Los Angeles home Sunday morning."
+        ],
+        "tf-idf score": [
+            0.927705164167097,
+            0.8528126502835776,
+            1.0067644958686108
+        ]
+    }
+}

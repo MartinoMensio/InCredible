@@ -1,0 +1,710 @@
+{
+    "0.14568851170150846-3-319": {
+        "average clique similarity": 0.14568851170150846,
+        "clique": [
+            "1- We need to develop ",
+            "3- We re really just e",
+            "4- A few seconds after"
+        ],
+        "median tf-idf score": 0.45113561564804266,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cWe need to develop better sensing tech to listen in on a lot more neurons and improve the signal quality,\u201d says Bouton.",
+            "\u201cWe\u2019re really just eavesdropping on a few conversations between those neurons and we\u2019re trying to figure out what they\u2019re talking about,\u201d said Chad Bouton, an author of the Nature paper who worked on the project while at the Battelle Memorial Institute in Columbus, Ohio.",
+            "\u201cA few seconds after the amazement, we said OK, we have much more work to do here."
+        ],
+        "tf-idf score": [
+            0.45113561564804266,
+            0.5249205188762958,
+            0.19343158372305985
+        ]
+    },
+    "0.15027125475857914-3-169": {
+        "average clique similarity": 0.15027125475857914,
+        "clique": [
+            "3-Researchers said the",
+            "2-The technology  whic",
+            "0- The recordings we g"
+        ],
+        "median tf-idf score": 0.5848453045198834,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Researchers said they hope to improve the technology by such steps as making the connections wireless, perhaps placing electrodes on or beneath the scalp rather than in the brain, and replacing the   forearm electrodes with implanted ones.",
+            "The technology, which for now can only be used in the laboratory, is being perfected with an eye toward a wireless system without the need for a cable running from the head to relay brain signals.",
+            "\u201cThe recordings we get from these electrodes in the brain can be quite unstable from day to day,\u201d Jackson said."
+        ],
+        "tf-idf score": [
+            0.6496874187758358,
+            0.5848453045198834,
+            0.447380674602567
+        ]
+    },
+    "0.15211056554487565-3-108": {
+        "average clique similarity": 0.15211056554487565,
+        "clique": [
+            "1-The sleeve  is   so ",
+            "0- It will be years un",
+            "4-This is important fo"
+        ],
+        "median tf-idf score": 0.3486595191738756,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "The sleeve \u201cis   so it makes good sense as a starting point,\u201d says Lee Miller from Northwestern University, but the surface electrodes have to be calibrated each time a patient puts them on.",
+            "\u201cIt will be years until a paralyzed patient will be able to control neural prostheses independently from caregivers, but there is nothing that should make this improvement impossible.",
+            "This is important for daily activities, such as feeding, and having the patient be able to clothe themselves."
+        ],
+        "tf-idf score": [
+            0.44669102839610253,
+            0.3486595191738756,
+            0.17662040530395395
+        ]
+    },
+    "0.15525011083165066-3-4": {
+        "average clique similarity": 0.15525011083165066,
+        "clique": [
+            "1- This is the first t",
+            "2- This study marks th",
+            "0-   This technology i"
+        ],
+        "median tf-idf score": 0.9641191025411847,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cThis is the first time that it\u2019s been done in humans.",
+            "\u201dThis study marks the first time that a person living with paralysis has regained movement by using signals recorded from within the brain,\u201d said bioelectronic medicine researcher Chad Bouton of the New   Feinstein Institute for Medical Research, who worked on the study at the Battelle Memorial Institute in Ohio.",
+            "\u201d \u201cThis technology is possible because there\u2019s about 50 years of basic neuroscience that has been looking at how signals in the brain encode information about movement,\u201d Dr Andrew Jackson, a neuroscientist at Newcastle University who was not involved with the work, told BuzzFeed News."
+        ],
+        "tf-idf score": [
+            0.06602290526885034,
+            1.2075341320380524,
+            0.9641191025411847
+        ]
+    },
+    "0.1637315203277114-3-66": {
+        "average clique similarity": 0.1637315203277114,
+        "clique": [
+            "1-              Like t",
+            "3-Burkhart said he d l",
+            "2-Burkhart said the te"
+        ],
+        "median tf-idf score": 0.4786633700616068,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d             Like this?",
+            "Burkhart said he\u2019d like to participate someday in testing a   version of the system that could be used outside the lab.",
+            "Burkhart said the technology lets him function like \u201da normal member of society\u201d."
+        ],
+        "tf-idf score": [
+            0.051520920400969436,
+            0.4786633700616068,
+            0.4899843675754964
+        ]
+    },
+    "0.1780145766857386-3-405": {
+        "average clique similarity": 0.1780145766857386,
+        "clique": [
+            "4-Burkhart  from Dubli",
+            "0-It was a struggle at",
+            "2-Burkhart first demon"
+        ],
+        "median tf-idf score": 0.49997255605146634,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "Burkhart, from Dublin, Ohio, was on a beach holiday to celebrate the end of his first year in college when he dived into a wave that dumped him onto a hidden sandbar.",
+            "It was a struggle at first, but by the end of the trial he was able to complete the action three out of five times in a   period.",
+            "Burkhart first demonstrated the \u201dneural bypass\u201d technology in 2014 when he was able simply to open and close his hand."
+        ],
+        "tf-idf score": [
+            0.49997255605146634,
+            0.2950790506517832,
+            0.6248184841505158
+        ]
+    },
+    "0.18337696465968342-3-104": {
+        "average clique similarity": 0.18337696465968342,
+        "clique": [
+            "1-On June 13th  2010  ",
+            "0-It was the summer af",
+            "2-Burkhart  a former l"
+        ],
+        "median tf-idf score": 0.4612560348970516,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "On June 13th, 2010, college freshman Ian Burkhart was goofing off in the ocean with his friends, when he dove into the wrong wave.",
+            "It was the summer after his freshman year of college when Burkhart lost the ability to move his arms and legs.",
+            "Burkhart, a former lacrosse goalie, suffered a broken neck and spinal cord damage at age 19 diving into a wave at North Carolina\u2019s Outer Banks in 2010, causing paralysis of his arms and legs."
+        ],
+        "tf-idf score": [
+            0.43052503997750186,
+            0.4612560348970516,
+            0.5890472378602386
+        ]
+    },
+    "0.1840107405498298-3-358": {
+        "average clique similarity": 0.1840107405498298,
+        "clique": [
+            "1-The electrodes on Bu",
+            "3-Electrical stimulati",
+            "4- Not only were we ab"
+        ],
+        "median tf-idf score": 0.581552188697591,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The electrodes on Burkhart\u2019s arm then recreated those movements by stimulating his muscles in preset sequences.",
+            "Electrical stimulation from those electrodes activates his hand and finger muscles.",
+            "\u201cNot only were we able to find those signals in the brain and decipher them for individual finger movements, but we were able to link those signals to Ian\u2019s muscles and allow that kind of movement to be regained."
+        ],
+        "tf-idf score": [
+            0.581552188697591,
+            0.43202950472190527,
+            0.777705712547491
+        ]
+    },
+    "0.19180509154516656-3-238": {
+        "average clique similarity": 0.19180509154516656,
+        "clique": [
+            "3-Now  it s gotten muc",
+            "4-But with more and mo",
+            "1- Surprisingly  it wo"
+        ],
+        "median tf-idf score": 0.15402158837744045,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Now \u201cit\u2019s gotten much easier,\u201d he said in an interview.",
+            "But with more and more practise it became much easier.",
+            "\u201cSurprisingly, it worked pretty much right away,\u201d says Burkhart."
+        ],
+        "tf-idf score": [
+            0.15402158837744045,
+            0.019826522138168098,
+            0.3235001744153663
+        ]
+    },
+    "0.195881382408592-3-415": {
+        "average clique similarity": 0.195881382408592,
+        "clique": [
+            "4-From the start  he w",
+            "1- I mentioned that I ",
+            "0- I was 19 years old "
+        ],
+        "median tf-idf score": 0.44557895215849985,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "From the start, he was hopeful that advances in medical technology would improve his quality of life.",
+            "\u201cI mentioned that I was interested in taking part in research because I knew that with the way science and technology were progressing, something would come along during my lifetime that would improve my quality of life,\u201d he says.",
+            "\u201cI was 19 years old, really independent, and I didn\u2019t think anything like this would happen in my life that would slow me down and set me back this much,\u201d Burkhart said during a press briefing."
+        ],
+        "tf-idf score": [
+            0.2887351271115172,
+            0.44557895215849985,
+            0.7113633774569136
+        ]
+    },
+    "0.20223188679159235-3-220": {
+        "average clique similarity": 0.20223188679159235,
+        "clique": [
+            "2- Things are kind of ",
+            "4-There are a lot of r",
+            "0-  There are still ma"
+        ],
+        "median tf-idf score": 0.3304453336863611,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201dThings are kind of moving along better than I imagined,\u201d Burkhart said.",
+            "There are a lot of risks,\u201d said Burkhart.",
+            "\u201d There are still many challenges to be overcome to bring this work out of the lab and into the lives of the millions of people who are paralysed."
+        ],
+        "tf-idf score": [
+            0.3949455146524964,
+            0.3304453336863611,
+            0.20268007186041598
+        ]
+    },
+    "0.2040592177876066-3-354": {
+        "average clique similarity": 0.2040592177876066,
+        "clique": [
+            "3-When Burkhart is in ",
+            "0-The study builds on ",
+            "1- The control signal "
+        ],
+        "median tf-idf score": 0.6939981173844416,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "When Burkhart is in the lab, a cable is attached to a small projection from his skull to carry signals from the sensor to a computer, which interprets what movement he is trying to accomplish.",
+            "The study builds on previous work in which humans have been able to move computer cursors and robotic arms using their own brain signals, and a study in which monkeys with paralysed arms were able to move them again thanks to a similar intervention.",
+            "\u201cThe control signal from the brain is of higher quality, which is a good move in the right direction,\u201d says Miller, \u201cbut they need to improve on their ability to stimulate muscles."
+        ],
+        "tf-idf score": [
+            0.6741314548540027,
+            0.6939981173844416,
+            0.735741893259101
+        ]
+    },
+    "0.210512168016567-3-146": {
+        "average clique similarity": 0.210512168016567,
+        "clique": [
+            "4-He could still move ",
+            "1-In theory  his arm w",
+            "0-He has some residual"
+        ],
+        "median tf-idf score": 0.23379161396858894,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "He could still move his arms to some extent, but his hands and legs were useless.",
+            "In theory, his arm would move.",
+            "He has some residual movement in his shoulders, and can use those working shoulder muscles to move his arms about."
+        ],
+        "tf-idf score": [
+            0.23379161396858894,
+            0.06476838373002879,
+            0.45736779865101573
+        ]
+    },
+    "0.21465571414494464-3-415": {
+        "average clique similarity": 0.21465571414494464,
+        "clique": [
+            "4-Burkhart had therapy",
+            "1-After his condition ",
+            "0-Details of the syste"
+        ],
+        "median tf-idf score": 0.3836874606124571,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Burkhart had therapy for the injury with a team of doctors at Ohio State University.",
+            "After his condition stabilized, Burkhart moved back home with his family in Columbus, Ohio and started doing rehabilitation therapy at Ohio State University.",
+            "Details of the system that allows him to do this, developed by scientists at Ohio State University and Battelle Memorial Institute, are published in the journal Nature today."
+        ],
+        "tf-idf score": [
+            0.4409213309081824,
+            0.3836874606124571,
+            0.29632001259841234
+        ]
+    },
+    "0.22204158035287716-3-415": {
+        "average clique similarity": 0.22204158035287716,
+        "clique": [
+            "1-And yet  in those fe",
+            "0-Burkhart s thoughts ",
+            "2- An Ohio man paralyz"
+        ],
+        "median tf-idf score": 0.9402639184452329,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "And yet, in those few hours, Burkhart could move his   hand, rotate his wrist, and pinch his fingers.",
+            "Burkhart\u2019s thoughts and brain signals work in the same way as they did before the accident, but his spinal cord injury means they never reach his hand, leaving him unable to move it.",
+            " An Ohio man paralyzed in an accident while diving in waves can now pick up a bottle or play the video game Guitar Hero thanks to a small computer chip in his brain that lets his mind guide his hands and fingers, bypassing his damaged spinal cord."
+        ],
+        "tf-idf score": [
+            0.48195741851114293,
+            0.9402639184452329,
+            1.0737505701650498
+        ]
+    },
+    "0.22397576282971152-3-205": {
+        "average clique similarity": 0.22397576282971152,
+        "clique": [
+            "1-What muscles do I us",
+            "0-Burkhart watches vid",
+            "4-The patterns of the "
+        ],
+        "median tf-idf score": 0.6977403778136841,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "What muscles do I use?\u201d Bouton\u2019s team used   algorithms to decode the patterns of brain activity that signified each movement.",
+            "Burkhart watches videos of different hand movements he\u2019s going to perform that day and thinks about the movements, so the computer learns what the brain signals for each movement looks like.",
+            "The patterns of the signals are tuned to produce the movements Burkhart thinks about making."
+        ],
+        "tf-idf score": [
+            0.6977403778136841,
+            1.0371976074156233,
+            0.5444888604998154
+        ]
+    },
+    "0.22501494093320795-3-326": {
+        "average clique similarity": 0.22501494093320795,
+        "clique": [
+            "2-The technology poten",
+            "4- We think this is an",
+            "1-In Burkhart s case  "
+        ],
+        "median tf-idf score": 0.6260763307888204,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The technology potentially could help people not only after spinal cord injuries but after strokes or traumatic brain injuries, Bouton added.",
+            "\u201cWe think this is an important result as we try and pave the way for other patients in the future, not only those with spinal injuries, but also those that have experienced a stroke, and potentially even traumatic brain injury,\u201d he said.",
+            "In Burkhart\u2019s case, \u201cwe not only decoded brain activity in the motor area of someone who\u2019s paralyzed, but we also linked those signals back to their body,\u201d says Bouton."
+        ],
+        "tf-idf score": [
+            0.5386908033735405,
+            0.6260763307888204,
+            0.7622706248136822
+        ]
+    },
+    "0.22898238568302867-3-214": {
+        "average clique similarity": 0.22898238568302867,
+        "clique": [
+            "3-But the brain implan",
+            "4-Burkhart performed t",
+            "0- But just like anyth"
+        ],
+        "median tf-idf score": 0.7618033578899226,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "But the brain implant approach could be useful for people with more severe injuries who can\u2019t control those other muscles, or who need a more complex signal to make particular movements, he said.",
+            "Burkhart performed the first movements using thoughts alone in 2014, but has since learned more complex actions and more precise control over his hand and fingers.",
+            "\u201cBut just like anything, with more and more practice it\u2019s become easier."
+        ],
+        "tf-idf score": [
+            0.9956617762280406,
+            0.7618033578899226,
+            0.0716903188904613
+        ]
+    },
+    "0.23633716682190034-3-100": {
+        "average clique similarity": 0.23633716682190034,
+        "clique": [
+            "3-But he can do these ",
+            "2-Scientists on Wednes",
+            "4-A    man who was par"
+        ],
+        "median tf-idf score": 1.1232387459994975,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "But he can do these things only for a few hours a week, in a laboratory where he is hooked up to an experimental device that interprets his brain signals and stimulates his muscles with electrodes on his forearm.",
+            "Scientists on Wednesday described accomplishments achieved by    quadriplegic Ian Burkhart using an implanted chip that relays signals from his brain through 130 electrodes on his forearm to produce muscle movement in his hands and fingers.",
+            "A    man who was paralysed in an accident six years ago has regained some control of his hand using an implant that sends signals from his brain directly to the muscles that move his wrist and fingers."
+        ],
+        "tf-idf score": [
+            0.6867551172041054,
+            1.3350312667131277,
+            1.1232387459994975
+        ]
+    },
+    "0.24156659428586544-3-178": {
+        "average clique similarity": 0.24156659428586544,
+        "clique": [
+            "3-Burkhart was a colle",
+            "4- Ten years ago we co",
+            "0-The    from Dublin  "
+        ],
+        "median tf-idf score": 0.37715414262163816,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "Burkhart was a college freshman when he broke his neck about six years ago.",
+            "\u201cTen years ago we couldn\u2019t do this.",
+            "The    from Dublin, Ohio, was in an accident six years ago that left his arms and legs paralysed."
+        ],
+        "tf-idf score": [
+            0.401843621072984,
+            0.071126437367932,
+            0.37715414262163816
+        ]
+    },
+    "0.24791349500794269-4-368": {
+        "average clique similarity": 0.24791349500794269,
+        "clique": [
+            "4-Known as a neural by",
+            "3-He can grab a credit",
+            "2-Burkhart  with six w",
+            "0-But now  thanks to c"
+        ],
+        "median tf-idf score": 0.7083587317642681,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Known as a neural bypass, the implant allows Ian Burkhart to swipe a credit card, play the video game, Guitar Hero, and perform actions such as picking up a bottle and pouring the contents, holding a phone to his ear, and stirring a cup.",
+            "He can grab a credit card and swipe it through a reader.",
+            "Burkhart, with six wrist and hand motions, could rotate his hand, make a fist, pinch his fingers together, grasp objects like a bottle, spoon and telephone, swipe a credit card and play the video game simulating guitar strumming.",
+            "But now, thanks to computer software that decodes his thoughts and sends the signal to his hands, he\u2019s been able to pick up small objects, swipe a credit card, and even play Guitar Hero  \u2014   albeit in a science lab."
+        ],
+        "tf-idf score": [
+            0.6617134518975281,
+            0.08091452641045975,
+            0.8536139485237105,
+            0.7550040116310082
+        ]
+    },
+    "0.24880804889176988-3-233": {
+        "average clique similarity": 0.24880804889176988,
+        "clique": [
+            "0- It was a flicker of",
+            "3-If and when the devi",
+            "4-Right now  it s only"
+        ],
+        "median tf-idf score": 0.5612776649378557,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cIt was a flicker of hope, knowing that this was something that was working, knowing I will be able to use my hand again,\u201d he said.",
+            "If and when the device can be used at home, \u201cit will really increase my quality of life and independence,\u201d said Burkhart, who is paralyzed over most of his body.",
+            "Right now, it\u2019s only in a clinical setting, but with enough people working on it, and enough attention, it can be something I can use outside of the hospital, at my home and outside my home, and really improve the quality of my life,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.5612776649378557,
+            0.587506658358458,
+            0.4868892820867732
+        ]
+    },
+    "0.24994659483499504-3-287": {
+        "average clique similarity": 0.24994659483499504,
+        "clique": [
+            "1-Over the following m",
+            "3-He can move individu",
+            "0-This is the first ti"
+        ],
+        "median tf-idf score": 0.12162217823003765,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Over the following months, he learned to move individual fingers.",
+            "He can move individual fingers and hold a toothbrush.",
+            "This is the first time a person with paralysis has regained movement in their hands and individual fingers using signals from their brain."
+        ],
+        "tf-idf score": [
+            0.12162217823003765,
+            0.10804284289737434,
+            0.882706484282186
+        ]
+    },
+    "0.25553314467264715-4-88": {
+        "average clique similarity": 0.25553314467264715,
+        "clique": [
+            "0-This signal is passe",
+            "4-The fuzz of brain ac",
+            "1-When Burkhart though",
+            "2-The chip  connected "
+        ],
+        "median tf-idf score": 0.693582871973866,
+        "publications": [
+            "Fox News",
+            "Buzzfeed News",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "This signal is passed to a computer that decodes it, and the resulting instruction is then sent to a sleeve he wears on his forearm that stimulates the muscles that move his wrist and fingers.",
+            "The fuzz of brain activity is fed into a computer and converted into electrical pulses that bypass the injured spinal cord and connect to a sleeve that Burkhart wears on his forearm.",
+            "When Burkhart thought about moving his arm, the implant would decode the activity in his neurons and feed the signals to a sleeve of electrodes on his forearm.",
+            "The chip, connected to a cable running from his head to a sleeve containing the electrodes wrapped around his forearm, sends brain signals that stimulate muscles controlling the hands and fingers."
+        ],
+        "tf-idf score": [
+            0.521514824339897,
+            0.6787433985174534,
+            0.7084223454302787,
+            0.9723001342399127
+        ]
+    },
+    "0.27108681899365494-4-17": {
+        "average clique similarity": 0.27108681899365494,
+        "clique": [
+            "3- This is taking one ",
+            "4- It was an amazing m",
+            "2-Ohio State Universit",
+            "1-  Burkhart learned t"
+        ],
+        "median tf-idf score": 0.5695636802245607,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cThis is taking one\u2019s thoughts and, within milliseconds, linking it to concrete movements,\u201d said Dr Ali Rezai, a study author and neurosurgeon at Ohio State University.",
+            "\u201cIt was an amazing moment for the team,\u201d said Ali Rezai, a neurosurgeon at Ohio State\u2019s Wexner Medical Center, recalling Burkhart\u2019s first hand movements.",
+            "Ohio State University Wexner Medical Center neurosurgeon Ali Rezai called the results a \u201dmilestone in the evolution of   interface technology\u201d.",
+            "\u201d Burkhart learned that a local team, led by engineer Chad Bouton and neurosurgeon Ali Rezai, were developing a technological bypass for injured spinal cords."
+        ],
+        "tf-idf score": [
+            0.5790866668469069,
+            0.9731798553278904,
+            0.38084698758259716,
+            0.5600406936022146
+        ]
+    },
+    "0.271501473259622-3-77": {
+        "average clique similarity": 0.271501473259622,
+        "clique": [
+            "1-It would be four yea",
+            "0-In June 2014  in the",
+            "4-   The first time I "
+        ],
+        "median tf-idf score": 0.4094317732425525,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "It would be four years before he moved his hand again.",
+            "In June 2014, in the early stages of the trial, Burkhart moved his hand again for the first time after his accident.",
+            "\u201d \u201cThe first time I moved my hand, I had that flicker of hope knowing that this is something that\u2019s working, I will be able to use my hand again."
+        ],
+        "tf-idf score": [
+            0.21050970773093858,
+            0.47258296648587667,
+            0.4094317732425525
+        ]
+    },
+    "0.3021967718331127-3-128": {
+        "average clique similarity": 0.3021967718331127,
+        "clique": [
+            "2-Surgeons implanted t",
+            "4-Here  the chip picke",
+            "1-In April 2014  the t"
+        ],
+        "median tf-idf score": 0.6138433288226263,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "Surgeons implanted the   chip into his motor cortex, which controls voluntary muscular activity.",
+            "Here, the chip picked up electrical signals from the part of the motor cortex that controls hand movements.",
+            "In April 2014, the team surgically implanted an array of microscopic electrodes in Burkhart\u2019s motor cortex \u2014  the part of the brain that governs his movements."
+        ],
+        "tf-idf score": [
+            0.2777484861752412,
+            0.6138433288226263,
+            0.7493841635309243
+        ]
+    },
+    "0.3357379855032234-3-8": {
+        "average clique similarity": 0.3357379855032234,
+        "clique": [
+            "0-   Initially  we d d",
+            "4- Initially we d do a",
+            "1-He couldn t feel his"
+        ],
+        "median tf-idf score": 0.19306454499156958,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201d \u201cInitially, we\u2019d do a short session and I\u2019d feel completely mentally fatigued and exhausted,\u201d said Burkhart.",
+            "\u201cInitially we\u2019d do a short session and I\u2019d feel mentally fatigued and exhausted, like I\u2019d been in a six or seven hour exam.",
+            "He couldn\u2019t feel his arms or legs."
+        ],
+        "tf-idf score": [
+            0.42143545927230713,
+            0.19306454499156958,
+            0.10087116180681158
+        ]
+    },
+    "0.44033743720419244-3-51": {
+        "average clique similarity": 0.44033743720419244,
+        "clique": [
+            "0-To test how useful t",
+            "3-Ian Burkhart of Dubl",
+            "1-He could even pick u"
+        ],
+        "median tf-idf score": 0.441312619584137,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "To test how useful this would be in a normal situation, the scientists had Burkhart pick up a container, empty its contents into a jar, then pick up a stick and stir the contents of the jar.",
+            "Ian Burkhart of Dublin, Ohio, can grasp a bottle, pour its contents into a jar, pick up a stick and stir the liquid.",
+            "He could even pick up a bottle, pour its contents into another jar, and stir it with a small stick \u2014  a complicated sequence that involves two kinds of grasps (a   one, and a delicate pinch) and several coordinated movements of hand, wrist, and arm."
+        ],
+        "tf-idf score": [
+            0.38098744189690487,
+            0.441312619584137,
+            0.6336002356971508
+        ]
+    }
+}

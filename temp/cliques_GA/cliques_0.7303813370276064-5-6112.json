@@ -1,0 +1,130 @@
+{
+    "0.33732317741222845-4-24": {
+        "average clique similarity": 0.33732317741222845,
+        "clique": [
+            "2-WASHINGTON       CNN",
+            "3- CNN cut ties with p",
+            "4-A new crisis for the",
+            "0- CNN has cut ties wi"
+        ],
+        "median tf-idf score": 1.763324155503617,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Breitbart",
+            "New York Post"
+        ],
+        "sentences": [
+            "WASHINGTON  --   CNN said Monday it's \"completely uncomfortable\" with new leaked emails that Donna Brazile fed debate questions to Hillary Clinton and announced it has accepted her resignation as contributor.",
+            " CNN cut ties with political commentator and interim Democratic National Committee Chairwoman Donna Brazile after leaked emails suggested she offered advisers to Hillary Clinton advance information about presidential debate questions, the news network reported on Monday.",
+            "A new crisis for the Clinton campaign, the Democratic National Committee, and CNN is emerging from WikiLeaks, which has published emails to Clinton campaign chairman John Podesta that clearly state interim DNC chairwoman Donna Brazile fed debate questions to Hillary Clinton in advance.",
+            " CNN has cut ties with commentator and interim Democratic National Committee chair Donna Brazile after WikiLeaks revealed that Brazile provided more primary debate questions to Hillary Clinton's campaign."
+        ],
+        "tf-idf score": [
+            1.6876548740168233,
+            1.8389934369904106,
+            1.8850350433559624,
+            1.5914770188909138
+        ]
+    },
+    "0.3598406518893409-4-38": {
+        "average clique similarity": 0.3598406518893409,
+        "clique": [
+            "0-In an email sent to ",
+            "4- Folks  I did a serv",
+            "1-See Predictions Map ",
+            "2-Brazile added   Her "
+        ],
+        "median tf-idf score": 1.1618592909026544,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "In an email sent to Podesta in early March, she wrote that a question would come from a Flint, Mich. woman who is dealing with that city's water crisis. \"Her family has lead poison and she will ask what, if anything, will Hillary do as president to help the ppl of Flint,\" Brazile wrote.",
+            "\"Folks, I did a service project today. It's so tragic. And what's worse, some homes have not been tested and it's important to encourage seniors to also get tested. \" As with the previous emails Brazile attempted to dismiss as fakes, this one includes an automatically inserted statement that it was \"sent from Donna's iPad. \" The next day, CNN's town hall debate did, indeed, include this question from a woman in the audience:  After my family, the city of Flint and the children in D C were poisoned by lead, will you make a personal promise to me right now that, as president, in your first 100 days in office, you will make it a requirement that all public water systems must remove all lead service lines throughout the entire United States, and notification made to the  --   the citizens that have said service lines.",
+            "See Predictions Map - \"After my family, the city of Flint and the children in D C were poisoned by lead, will you make a personal promise to me right now that, as president, in your first 100 days in office, you will make it a requirement that all public water systems must remove all lead service lines throughout the entire United States, and notification made to the  --   the citizens that have said service lines?\" Walters asked. Clinton responded with a lengthy answer that moderator Anderson Cooper had to twice interrupt in an attempt to keep to the   time limit.",
+            "Brazile added: \"Her family has lead poison and she will ask what, if anything, will Hillary do as president to help the ppl of Flint. \" That's close to the question that was actually asked by local resident Mikki Wade: \"If elected president, what course will you take to regain my trust in government?\""
+        ],
+        "tf-idf score": [
+            1.2399157592734429,
+            2.0673600374435632,
+            1.0838028225318659,
+            1.0742044658479493
+        ]
+    },
+    "0.39975892528393225-3-32": {
+        "average clique similarity": 0.39975892528393225,
+        "clique": [
+            "1-Thank you  CNN Honor",
+            "0-Brazile is also a co",
+            "3-Brazile  currently s"
+        ],
+        "median tf-idf score": 1.1162020734891933,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Thank you @CNN Honored to be a Democratic Strategist and commentator on the network. Godspeed to all my former colleagues. \"We are completely uncomfortable with what we have learned about her interactions with the Clinton campaign while she was a CNN contributor,\" the network said Monday in a statement.",
+            "Brazile is also a contributor to ABC News, which has not commented on her status at the network. In a tweet Monday, Brazile said: \"Thank you @CNN Honored to be a Democratic Strategist and commentator on the network.",
+            "Brazile, currently serving as interim head of the DNC, did not immediately respond to a request for comment but posted several tweets on Monday as the news broke. \"Thank you @CNN,\" Brazile tweeted. \"Honored to be a Democratic strategist and commentator on the network."
+        ],
+        "tf-idf score": [
+            1.2443848203637131,
+            1.1162020734891933,
+            1.1014975539351004
+        ]
+    },
+    "0.5887183993954453-3-0": {
+        "average clique similarity": 0.5887183993954453,
+        "clique": [
+            "1-According to documen",
+            "4-Now  WikiLeaks has p",
+            "2- One of the question"
+        ],
+        "median tf-idf score": 1.9313171807722114,
+        "publications": [
+            "Fox News",
+            "Breitbart",
+            "New York Post"
+        ],
+        "sentences": [
+            "According to documents released Monday by WikiLeaks, Brazile sent Clinton Communications Director Jennifer Palmieri an email titled, \"One of the questions directed to HRC tomorrow is from a woman with a rash,\" the night before the March 6 CNN primary debate in Flint, Mich.  \"Her family has lead poison and she will ask what, if anything, will Hillary do as president to help the ppl of Flint,\" Brazile wrote.",
+            "Now, WikiLeaks has produced another email from Podesta's account, in which Brazile says of the upcoming March CNN primary debate between Sanders and Clinton, \"One of the questions directed to HRC tomorrow is from a woman with a rash. \" \"Her family has lead poison and she will ask what, if anything, will Hillary do as president to help the ppl of Flint,\" Brazile wrote to Podesta and Clinton comms director Jennifer Palmieri.",
+            "\"One of the questions directed to HRC tomorrow is from a woman with a rash,\" Brazile wrote to Clinton's campaign chairman, John Podesta, and communications director, Jennifer Palmieri."
+        ],
+        "tf-idf score": [
+            1.9910503411927047,
+            1.9313171807722114,
+            1.0650114210086887
+        ]
+    },
+    "0.6352801823853093-3-9": {
+        "average clique similarity": 0.6352801823853093,
+        "clique": [
+            "0- The Washington Post",
+            "4-CNN has issued a sta",
+            "2- CNN never gave Braz"
+        ],
+        "median tf-idf score": 1.4249096016964844,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "(The Washington Post)   Pratapas disclaimed any involvement by CNN itself, saying the network \"never gave Brazile access to any questions, prep material, attendee list, background information or meetings in advance of a town hall or debate. \"",
+            "CNN has issued a statement on the new Brazile revelation: On October 14th, CNN accepted Donna Brazile's resignation as a CNN contributor. (Her deal had previously been suspended in July when she became the interim head of the DNC) CNN never gave Brazile access to any questions, prep material, attendee list, background information or meetings in advance of a town hall or debate.",
+            "\"CNN never gave Brazile access to any questions, prep material, attendee list, background information or meetings in advance of a town hall or debate,\" said CNN spokeswoman Lauren Pratapas in an email to The Post."
+        ],
+        "tf-idf score": [
+            1.2886064004024096,
+            1.7086224297875723,
+            1.4249096016964844
+        ]
+    }
+}

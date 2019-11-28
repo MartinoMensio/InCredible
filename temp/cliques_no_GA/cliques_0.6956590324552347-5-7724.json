@@ -1,0 +1,842 @@
+{
+    "0.12614793353379256-3-264": {
+        "average clique similarity": 0.12614793353379256,
+        "clique": [
+            "2-During the king s re",
+            "3-But just a few weeks",
+            "0-In the king s own bo"
+        ],
+        "median tf-idf score": 0.6853058322560052,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "During the king\u2019s reign, there have been close to 20 attempted or successful coups  \u2014   the last one in May 2014 when a military junta seized power  \u2014   but the monarchy has remained revered.",
+            "But just a few weeks later he returned to the hospital and had remained there since, receiving treatment for fluid on the lungs and surgery to widen the arteries in his heart.",
+            "In the king\u2019s own book \u201cThe Story of Tongdaeng\u201d (2002) about a street dog he had adopted, the message  \u2014   there was always a message in his writings  \u2014   was that affluent Thais should stop buying expensive foreign breeds when there were so many local strays to save."
+        ],
+        "tf-idf score": [
+            0.7115387264399629,
+            0.14904100809022988,
+            0.6853058322560052
+        ]
+    },
+    "0.12821604937358785-3-152": {
+        "average clique similarity": 0.12821604937358785,
+        "clique": [
+            "4-Because he ruled for",
+            "3-Human rights groups ",
+            "0-Bhumibol was the las"
+        ],
+        "median tf-idf score": 0.3436454446313542,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "Because he ruled for more than 70 years, the vast majority of Thai people have never lived under the rule of another monarch.",
+            "Human rights groups have criticized prison sentences handed down to people convicted of defaming or insulting the Thai royal family.",
+            "Bhumibol was the last family member to have seen him alive, but he never spoke publicly about the death or about rumors that the young king, a gun collector, may have committed suicide or killed himself accidentally."
+        ],
+        "tf-idf score": [
+            0.3436454446313542,
+            0.29822315962252893,
+            0.8002623145358156
+        ]
+    },
+    "0.13227430876079802-3-456": {
+        "average clique similarity": 0.13227430876079802,
+        "clique": [
+            "4-In heavily Buddhist ",
+            "0-Bhumibol was 2 when ",
+            "1-He was 88 "
+        ],
+        "median tf-idf score": 0.43914867473257707,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "In heavily Buddhist Thailand, he was also revered for his piousness and fidelity to religious teachings.",
+            "Bhumibol was 2 when his father died, and his mother, to whom he was very close, took her children to Switzerland for schooling.",
+            "He was 88."
+        ],
+        "tf-idf score": [
+            0.43914867473257707,
+            0.5172050668199467,
+            0.2163971899411146
+        ]
+    },
+    "0.13734559023174917-3-117": {
+        "average clique similarity": 0.13734559023174917,
+        "clique": [
+            "4-Bhumibol s death is ",
+            "1-His frail health was",
+            "2- Bhumibol was a towe"
+        ],
+        "median tf-idf score": 0.7407987823303778,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Bhumibol\u2019s death is no different, as Thailand\u2019s Prime Minister Prayuth   declared a   mourning period for government officials on Thursday evening, according to AP Bhumibol had been hospitalized for much of the past decade, but his health appeared to decline more quickly this year.",
+            "His frail health was closely watched in a country marked by frequent coup attempts and changes of prime minister, and his death was expected to plunge the national into further distress.",
+            "\u201cBhumibol was a towering presence whose contribution to Thailand, and the rest of the region, is beyond words,\u201d said Najib Razak, the prime minister of Thailand\u2019s southern neighbour Malaysia."
+        ],
+        "tf-idf score": [
+            0.7767349202007119,
+            0.6556126518066546,
+            0.7407987823303778
+        ]
+    },
+    "0.14178929766173828-3-337": {
+        "average clique similarity": 0.14178929766173828,
+        "clique": [
+            "3-Criticism against th",
+            "0-In an interview with",
+            "1-In a rare interview "
+        ],
+        "median tf-idf score": 0.5161687535562556,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "Criticism against the law, The King represented the country in his travels abroad, meeting with foreign leaders.",
+            "In an interview with The New York Times in 1988, the first he gave to a Western newspaper, King Bhumibol spoke with some bitterness of his early reign.",
+            "In a rare interview, the king told the BBC in 1979 that the crown tried to \u201ckeep in the middle, neutral, in peaceful coexistence with everybody."
+        ],
+        "tf-idf score": [
+            0.5161687535562556,
+            0.5602521056091312,
+            0.40823773928137835
+        ]
+    },
+    "0.14244065983813903-3-543": {
+        "average clique similarity": 0.14244065983813903,
+        "clique": [
+            "3-Even the King appear",
+            "0-The subject turned t",
+            "2-That Thailand s many"
+        ],
+        "median tf-idf score": 0.611517363825984,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "Even the King appeared to question the restrictive climate.",
+            "The subject turned to the legend of \u201cThe King and I,\u201d which had been banned in Thailand as being disrespectful to the monarchy, and to the West\u2019s image of the glittering life of a king of Siam, embodied in the musical most memorably by Yul Brynner.",
+            "That Thailand\u2019s many civilian and military leaders crawled on the floor in the presence of the king illustrated how Bhumibol kept the executive in check even with the country ostensibly in a continual state of flux."
+        ],
+        "tf-idf score": [
+            0.2995337240939489,
+            0.611517363825984,
+            0.936378921114644
+        ]
+    },
+    "0.14248150719016792-3-417": {
+        "average clique similarity": 0.14248150719016792,
+        "clique": [
+            "0-Thais came to see th",
+            "3-During the upheavals",
+            "1-Foreigners often vie"
+        ],
+        "median tf-idf score": 0.6024445257162189,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "Thais came to see this Buddhist king as a father figure wholly dedicated to their welfare, and as the embodiment of stability in a country where political leadership rose and fell through decades of military coups.",
+            "During the upheavals of the 20th century, he skilfully charted a course that put the monarchy at the center of Thai society, acting as a force for community and tradition even as the country lurched between political crises and military coups.",
+            "Foreigners often viewed his celebrity as bordering on cultlike, but among Thais he enjoyed a reputation as the very model of a virtuous Buddhist leader, even a  ."
+        ],
+        "tf-idf score": [
+            0.8293504401008613,
+            0.6024445257162189,
+            0.2505277369674537
+        ]
+    },
+    "0.14499511989982367-3-230": {
+        "average clique similarity": 0.14499511989982367,
+        "clique": [
+            "0-He said he found it ",
+            "2-He successfully nego",
+            "3-When the King left t"
+        ],
+        "median tf-idf score": 0.47085501365052645,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "He said he found it \u201cirking\u201d to have to live up to legends created by Western writers.",
+            "He successfully negotiated many times with military leaders to return democracy to the country, but finally left Thailand to the army.",
+            "When the King left the hospital in May 2015, he was greeted by crowds of   as he moved to the summer palace."
+        ],
+        "tf-idf score": [
+            0.12321883367469179,
+            0.47085501365052645,
+            0.6184679581364515
+        ]
+    },
+    "0.14528331436409872-3-114": {
+        "average clique similarity": 0.14528331436409872,
+        "clique": [
+            "0-King Bhumibol was a ",
+            "3-Analysts said the la",
+            "2-His death throws an "
+        ],
+        "median tf-idf score": 0.7355732768743526,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "King Bhumibol was a unifying figure in a deeply polarized country, and his death cast a pall of uncertainty across Thailand, raising questions about the future of the monarchy itself.",
+            "Analysts said the laws prevented public discussion in Thailand on what would happen after the King\u2019s death, deepening uncertainty and political tensions.",
+            "His death throws an already politically turbulent Thailand into a haze of uncertainty that is unprecedented in its modern history."
+        ],
+        "tf-idf score": [
+            1.0697984759392098,
+            0.7355732768743526,
+            0.26342511883245756
+        ]
+    },
+    "0.15715827828894383-3-189": {
+        "average clique similarity": 0.15715827828894383,
+        "clique": [
+            "0- At first it was all",
+            "3-Despite sometimes vi",
+            "4-They had monitored t"
+        ],
+        "median tf-idf score": 0.34603094534668494,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201cAt first it was all this rubbish about the half brother of the moon and the sun and master of the tide and all that,\u201d King Bhumibol said in his fluent English.",
+            "Despite sometimes violent factionalism, all sides claim allegiance to the King.",
+            "They had monitored the news all evening for word of the king\u2019s condition."
+        ],
+        "tf-idf score": [
+            0.8015006124563583,
+            0.303869873891449,
+            0.34603094534668494
+        ]
+    },
+    "0.16554567831402164-3-138": {
+        "average clique similarity": 0.16554567831402164,
+        "clique": [
+            "4-The power and presti",
+            "3-For much of the firs",
+            "2-  In a statement fro"
+        ],
+        "median tf-idf score": 0.912726483537301,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "The power and prestige of the monarchy in Thailand expanded in many ways during Bhumibol\u2019s reign, and he sometimes sought to protect civilians who fought back against the military in an effort to shield the country from violence, though he has also supported leaders of coups.",
+            "For much of the first few decades of Bhumibol\u2019s reign, the    running of the country was dominated by the Thai military and bureaucratic elite.",
+            "\u201d In a statement from the White House, Barack Obama said the king was a tireless champion of his country\u2019s development, who \u201cdemonstrated unflagging devotion to improving the standard of living of the Thai people\u201d."
+        ],
+        "tf-idf score": [
+            0.912726483537301,
+            0.7542867598894125,
+            0.9649687073500297
+        ]
+    },
+    "0.16562673072903897-3-303": {
+        "average clique similarity": 0.16562673072903897,
+        "clique": [
+            "0-Meanwhile a strain o",
+            "2-In August last year ",
+            "4-When members of the "
+        ],
+        "median tf-idf score": 0.4912280297693884,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Meanwhile a strain of republicanism emerged as the country broke into two camps: on one side, the establishment, with the palace at its core on the other, the disenfranchised, whose demand for a political voice threatened the traditional order.",
+            "In August last year, military courts jailed two people under the law, one for 30 years and the other for 28 years, the heaviest sentences for the crime in the country\u2019s history, for Facebook posts.",
+            "When members of the royal family have died in previous years, the country has mourned for months, with sales of alcohol halted, the flag flying at   and everyone in the country wearing black."
+        ],
+        "tf-idf score": [
+            0.2968829572209214,
+            0.49528226097937933,
+            0.4912280297693884
+        ]
+    },
+    "0.167110673458753-3-1": {
+        "average clique similarity": 0.167110673458753,
+        "clique": [
+            "0-The military junta  ",
+            "2-Some people were wea",
+            "4-The    king was wide"
+        ],
+        "median tf-idf score": 0.8057982299104994,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The military junta, which seized power in a coup two years ago, derives its authority from the king.",
+            "Some people were wearing yellow  \u2014   the king\u2019s colour  \u2014   but many more wore pink, which was named years ago by royal astrologers as a colour beneficial for the monarch\u2019s wellbeing.",
+            "The    king was widely revered and beloved by many in Thailand, which is a constitutional monarchy currently ruled by a military junta."
+        ],
+        "tf-idf score": [
+            0.619500558304526,
+            0.8057982299104994,
+            0.8895932840748965
+        ]
+    },
+    "0.1714822590139322-3-58": {
+        "average clique similarity": 0.1714822590139322,
+        "clique": [
+            "1-Dec  2  2005 Thai Ki",
+            "4-Thai people are expe",
+            "2-The royal anthem is "
+        ],
+        "median tf-idf score": 0.6986392924490284,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Dec. 2, 2005 Thai King Bhumibol Adulyadej and his wife, Queen Sirikit, are seen during the king\u2019s birthday parade in Bangkok.",
+            "Thai people are expected to kneel before the king and his portrait hangs high over many government buildings, and he had an almost   presence in the country, with titles like \u201cChao Chiwit\u201d or \u201cLord of Life.",
+            "The royal anthem is played in cinemas before films are shown and people are expected to stand."
+        ],
+        "tf-idf score": [
+            0.6986392924490284,
+            0.716098928727244,
+            0.1681929613864188
+        ]
+    },
+    "0.17158778472853983-3-389": {
+        "average clique similarity": 0.17158778472853983,
+        "clique": [
+            "2-Critics of the milit",
+            "0-The eldest is the da",
+            "3-Since Thaksin was to"
+        ],
+        "median tf-idf score": 0.7268681452159811,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "Critics of the military junta say it used its support for the monarchy as a pretext for grabbing power from the elected government of Yingluck Shinawatra, the sister of Thaksin Shinawatra, who was also deposed by the military in 2006 and fled the country.",
+            "The eldest is the daughter Ubol Ratana, who graduated from the Massachusetts Institute of Technology, married an American and lived mostly in California until separating from him and returning to the fold in Thailand in 2006.",
+            "Since Thaksin was toppled in 2006, Thailand has been riven by political instability, as the country divided into political groupings that drew their support from a complex network of associations: on one side, the generally   red shirts whose support comes mainly from rural communities in the north and east on the other, the urban and middle class elites, who largely favour a less populist, more paternalistic form of governance."
+        ],
+        "tf-idf score": [
+            0.7268681452159811,
+            0.23693077070148175,
+            0.8995621129154505
+        ]
+    },
+    "0.17165003767772022-3-48": {
+        "average clique similarity": 0.17165003767772022,
+        "clique": [
+            "4-The state of the kin",
+            "3-It remains one of th",
+            "0-He was 88 and one of"
+        ],
+        "median tf-idf score": 0.2892211902601641,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "The state of the king\u2019s health has been one of the palace\u2019s most closely guarded secrets, but in a series of unusual statements, palace authorities let on that he was suffering from kidney failure and had undergone hemodialysis treatment, leaving his condition unstable.",
+            "It remains one of the world\u2019s top rice producers and has become one of the most popular tourist destinations.",
+            "He was 88 and one of the   monarchs in history."
+        ],
+        "tf-idf score": [
+            0.8841001966875783,
+            0.16931072437875663,
+            0.2892211902601641
+        ]
+    },
+    "0.17176864782669035-3-165": {
+        "average clique similarity": 0.17176864782669035,
+        "clique": [
+            "2-Bhumibol later said ",
+            "3- If the King can do ",
+            "0-In his annual birthd"
+        ],
+        "median tf-idf score": 0.49273805326872755,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Bhumibol later said \u201cit was proved that it was not an accident or a suicide\u201d.",
+            "\u201dIf the King can do no wrong, it is akin to looking down upon him, because the King is not being treated as a human being,\u201d he said in his 2005 birthday speech.",
+            "In his annual birthday address in December 2001, King Bhumibol said, \u201cThere is an English saying that the king is always happy, or \u2018happy as the king\u2019  \u2014   which is not true at all."
+        ],
+        "tf-idf score": [
+            0.49273805326872755,
+            0.4279247958779355,
+            0.5720016336758518
+        ]
+    },
+    "0.17474390122912065-3-68": {
+        "average clique similarity": 0.17474390122912065,
+        "clique": [
+            "1-We could be crushed ",
+            "2- We join the Thai pe",
+            "0- We are fighting in "
+        ],
+        "median tf-idf score": 0.04704139018682841,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "We could be crushed by both sides, but we are impartial.",
+            "\u201cWe join the Thai people in mourning his loss.",
+            "\u201cWe are fighting in our own house,\u201d he scolded two warring politicians he had summoned to sit abjectly at his feet in 1992."
+        ],
+        "tf-idf score": [
+            0.026753091021173202,
+            0.1717959610725578,
+            0.04704139018682841
+        ]
+    },
+    "0.1837005225258733-3-545": {
+        "average clique similarity": 0.1837005225258733,
+        "clique": [
+            "0-He was a man of sobe",
+            "3-Strict laws  against",
+            "4-The country s tough "
+        ],
+        "median tf-idf score": 0.47331063763026776,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "He was a man of sober, serious mien, often isolated in his palaces, protected by the most stringent of   laws, which effectively prevent almost any public discussion of the royal family.",
+            "Strict laws, against criticizing the monarch restricted frank discussion of his life and personality.",
+            "The country\u2019s tough   laws mean discussion of who will succeed the king is banned in Thailand."
+        ],
+        "tf-idf score": [
+            0.47331063763026776,
+            0.1773360192336958,
+            0.6193964057377161
+        ]
+    },
+    "0.1851632323120467-3-209": {
+        "average clique similarity": 0.1851632323120467,
+        "clique": [
+            "1- King Bhumibol Aduly",
+            "0-King Bhumibol Adulya",
+            "2-On Thursday the Bang"
+        ],
+        "median tf-idf score": 1.142695108880676,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            " King Bhumibol Adulyadej of Thailand, the world\u2019s   monarch, a strong U S ally and a national unity symbol who acted as tiebreaker during   confrontations between his country\u2019s military leaders and democracy advocates, died Oct. 13 in Bangkok.",
+            "King Bhumibol Adulyadej of Thailand, who took the throne of the kingdom once known as Siam shortly after World War II and held it for more than 70 years, establishing himself as a revered personification of Thai nationhood, died on Thursday in Bangkok.",
+            "On Thursday the Bangkok Post\u2019s website was black and white in mourning, as world leaders offered condolences."
+        ],
+        "tf-idf score": [
+            1.1693725944594529,
+            1.142695108880676,
+            0.4680473219015141
+        ]
+    },
+    "0.1851693974777855-3-170": {
+        "average clique similarity": 0.1851693974777855,
+        "clique": [
+            "2-They had been chanti",
+            "1-Absolute monarchies ",
+            "0-King Bhumibol was ne"
+        ],
+        "median tf-idf score": 0.8344764419652354,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "They had been chanting \u201clong live the king\u201d for much of the day.",
+            "Absolute monarchies around the world had long been on the wane when Bhumibol  \u2014   also known as Rama IX  \u2014   was proclaimed king in 1946.",
+            "King Bhumibol was nearing the end of a long day of visiting projects in eastern Thailand in the summer of 1988 when he and Princess Sirindhorn agreed to be interviewed by The Times in a   chalet by a reservoir built by a donor in honor of the king."
+        ],
+        "tf-idf score": [
+            0.33101696255241164,
+            0.8344764419652354,
+            0.9826462462515018
+        ]
+    },
+    "0.18719198160294384-3-361": {
+        "average clique similarity": 0.18719198160294384,
+        "clique": [
+            "1-  That image was rei",
+            "2-However  open discus",
+            "4-It s difficult to te"
+        ],
+        "median tf-idf score": 0.5805094686083214,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d That image was reinforced by unremittingly adoring news coverage in Thailand and rigid enforcement of   laws that criminalized real or perceived criticism of the monarchy.",
+            "However, open discussion of the monarchy is restricted by a strict   law that makes criticism of the royal family punishable by years in jail, so it is hard to gauge the popularity of the son.",
+            "It\u2019s difficult to tell exactly how widely the king is revered because the country\u2019s   laws forbid public criticism of the monarchy."
+        ],
+        "tf-idf score": [
+            0.5805094686083214,
+            0.36750507708952046,
+            0.5996761710252547
+        ]
+    },
+    "0.1900450859972634-3-179": {
+        "average clique similarity": 0.1900450859972634,
+        "clique": [
+            "4-The family returned ",
+            "0-King Bhumibol  prono",
+            "1-Thailand s King Bhum"
+        ],
+        "median tf-idf score": 1.0595026097892515,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The family returned to Thailand a year later, and he was later schooled in Switzerland, along with his brother and sister, until the end of World War II Bhumibol\u2019s ascent to the throne in 1946 came after his older brother was found shot in the head in his palace bed in a case that remains shrouded in mystery.",
+            "King Bhumibol (pronounced   ) was an accidental monarch, thrust onto the throne at 18 by the violent death of his older brother in 1946.",
+            "Thailand\u2019s King Bhumibol Adulyadej, who was the world\u2019s   monarch, died in hospital Oct. 13, according to an announcement from the palace."
+        ],
+        "tf-idf score": [
+            1.0595026097892515,
+            0.8548706938892602,
+            1.1086284226820775
+        ]
+    },
+    "0.19811221264186188-3-20": {
+        "average clique similarity": 0.19811221264186188,
+        "clique": [
+            "0-The royal palace sai",
+            "2-52am BST  on Thursda",
+            "4-People gathered outs"
+        ],
+        "median tf-idf score": 0.2318960183778295,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The royal palace said he died at Siriraj Hospital but gave no further details.",
+            "52am BST) on Thursday at Siriraj hospital in Bangkok.",
+            "People gathered outside Siriraj Hospital in Bangkok, wiping away tears and phoning loved ones in a massive outpouring of emotion."
+        ],
+        "tf-idf score": [
+            0.2842214715713002,
+            0.12644411073098172,
+            0.2318960183778295
+        ]
+    },
+    "0.20194940023096333-3-237": {
+        "average clique similarity": 0.20194940023096333,
+        "clique": [
+            "3-Some observers of Th",
+            "4-But observers say an",
+            "1-In recent years  Tha"
+        ],
+        "median tf-idf score": 0.7255116708103599,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Some observers of Thailand, like the historian Charles Keyes of the University of Washington, have said the looming prospect of change in the monarchy has exacerbated political tensions in the country in recent years.",
+            "But observers say an alliance has formed in recent years between the king and the military junta that has held power since the 2014 coup.",
+            "In recent years, Thailand has become a strategic partner in   operations, with the palace remaining an influential background force in that relationship."
+        ],
+        "tf-idf score": [
+            0.7255116708103599,
+            0.7624894313295463,
+            0.47851168573244546
+        ]
+    },
+    "0.2063645979754389-3-93": {
+        "average clique similarity": 0.2063645979754389,
+        "clique": [
+            "4-Others visited Buddh",
+            "1-His charitable contr",
+            "3-The lese majeste law"
+        ],
+        "median tf-idf score": 0.14752401169388143,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Others visited Buddhist temples as well as Bangkok\u2019s grand palace.",
+            "His charitable contributions were   as well.",
+            "The lese majeste laws carry punishments of up to 15 years in prison, and ordinary Thai citizens, as well as the government, could bring charges on behalf of the King, so the laws were sometimes abused as a political weapon."
+        ],
+        "tf-idf score": [
+            0.14752401169388143,
+            0.02086554674583383,
+            0.6896266885415421
+        ]
+    },
+    "0.22305873191921877-3-298": {
+        "average clique similarity": 0.22305873191921877,
+        "clique": [
+            "2-Bhumibol s body will",
+            "1-One day it will be v",
+            "3-King Bhumibol will b"
+        ],
+        "median tf-idf score": 0.37650510794608977,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Bhumibol\u2019s body will be taken from hospital to the palace on Friday afternoon, officials said.",
+            "One day it will be very handy to have someone impartial.",
+            "King Bhumibol will be a hard act to follow."
+        ],
+        "tf-idf score": [
+            0.37650510794608977,
+            0.04596617212659497,
+            0.4472678222950941
+        ]
+    },
+    "0.22836575758055558-3-104": {
+        "average clique similarity": 0.22836575758055558,
+        "clique": [
+            "0-It was she who broke",
+            "2-His wife  Queen Siri",
+            "3-As well as the crown"
+        ],
+        "median tf-idf score": 0.3708087027319778,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "It was she who broke a royal silence about the health of her mother in the   by saying that Queen Sirikit, an insomniac, suffered from exhaustion.",
+            "His wife, Queen Sirikit, has also suffered declining health.",
+            "As well as the crown prince and his wife, Queen Sirikit, Bhumibol is survived by three other children: Ubolratana, Chulabhorn and Maha Chakri Sirindhorn."
+        ],
+        "tf-idf score": [
+            0.41074981187085824,
+            0.2005972450405507,
+            0.3708087027319778
+        ]
+    },
+    "0.2376858449760545-3-377": {
+        "average clique similarity": 0.2376858449760545,
+        "clique": [
+            "3-  CNN  King Bhumibol",
+            "4- BANGKOK      Thaila",
+            "2-Thailand s King Bhum"
+        ],
+        "median tf-idf score": 1.1652355958228062,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            " (CNN) King Bhumibol Adulyadej of Thailand, who died Thursday aged 88, reigned through an era of rising prosperity and frequent political turmoil.",
+            " BANGKOK  \u2014   Thailand\u2019s King Bhumibol Adulyadej, the world\u2019s   monarch and a unifying leader through decades of political tumult, has died after years of deteriorating health, the palace said Friday.",
+            "Thailand\u2019s King Bhumibol Adulyadej has died aged 88, ending seven decades on the throne during which he became a unifying father figure and rare source of stability in a country that has weathered more than a dozen coups since he came to power in 1946 aged just 18."
+        ],
+        "tf-idf score": [
+            0.7900192479192565,
+            1.2896702016504633,
+            1.1652355958228062
+        ]
+    },
+    "0.2708811701465753-3-160": {
+        "average clique similarity": 0.2708811701465753,
+        "clique": [
+            "0-Toward the end of th",
+            "2-During the closing y",
+            "3-Toward the end of hi"
+        ],
+        "median tf-idf score": 0.5112386691389925,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Toward the end of the king\u2019s life, Prince Vajiralongkorn was moving to the center of public life.",
+            "During the closing years of his life, he was mostly hidden from the public, occasionally wheeled out on a bespoke   chair to tour a new supermarket or visit a palace.",
+            "Toward the end of his reign, as his health declined, the King\u2019s presence in public life waned."
+        ],
+        "tf-idf score": [
+            0.6607704901799121,
+            0.5112386691389925,
+            0.4707659885949577
+        ]
+    },
+    "0.28448258092430995-3-545": {
+        "average clique similarity": 0.28448258092430995,
+        "clique": [
+            "3-Bhumibol inherited t",
+            "0-Their family life wa",
+            "2-The king ascended to"
+        ],
+        "median tf-idf score": 0.5805257042378402,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "Bhumibol inherited the throne after the death of his brother, King Ananda Mahidol, in 1946.",
+            "Their family life was interrupted in 1935 when Thailand\u2019s last absolute king, Prajadhipok, Prince Mahidol\u2019s half brother, abdicated after a military coup.",
+            "The king ascended to the throne after the still unexplained death of his older brother, Ananda Mahidol."
+        ],
+        "tf-idf score": [
+            0.5805257042378402,
+            0.9607871489405304,
+            0.44305204344950666
+        ]
+    },
+    "0.3020764360377261-3-545": {
+        "average clique similarity": 0.3020764360377261,
+        "clique": [
+            "4-But his presumed hei",
+            "0-But the king s heir ",
+            "2-They have three chil"
+        ],
+        "median tf-idf score": 0.26880688796469987,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "But his presumed heir is his son, Crown Prince Vajiralongkorn.",
+            "But the king\u2019s heir apparent, Crown Prince Vajiralongkorn, seen by many as a   playboy, is not held in the same regard as his father.",
+            "They have three children, but Crown Prince Maha Vajiralongkorn, their only son and heir, does not command the same affection as his father, causing fears of a rupture in the state\u2019s structure."
+        ],
+        "tf-idf score": [
+            0.14666781363145293,
+            0.4842149809206279,
+            0.26880688796469987
+        ]
+    },
+    "0.40515554463505526-3-226": {
+        "average clique similarity": 0.40515554463505526,
+        "clique": [
+            "0-  Bhumibol Adulyadej",
+            "4-Bhumibol was born in",
+            "3-Young King  Born in "
+        ],
+        "median tf-idf score": 0.8287584960732699,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201d Bhumibol Adulyadej was born in Cambridge on Dec. 5, 1927, the son of Prince Mahidol of Songkhla, a founder of modern medicine in Thailand the prince was studying public health at Harvard at the time.",
+            "Bhumibol was born in Cambridge, Massachusetts, in 1927 while his father was studying public health at Harvard.",
+            "Young King, Born in 1927 in Cambridge, Massachusetts, and raised outside Thailand, Prince Bhumibol Adulyadej of Songkla was a keen photographer and jazz saxophonist in his youth."
+        ],
+        "tf-idf score": [
+            0.8287584960732699,
+            0.5592919468238332,
+            0.9569447116031445
+        ]
+    },
+    "0.42019769913674504-3-545": {
+        "average clique similarity": 0.42019769913674504,
+        "clique": [
+            "3-His expected success",
+            "1-His only son  Crown ",
+            "0-The heir to the thro"
+        ],
+        "median tf-idf score": 0.19365128117220468,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "His expected successor and designated heir is Crown Prince Maha Vajiralongkorn.",
+            "His only son, Crown Prince Vajiralongkorn, a career military officer, is his heir apparent.",
+            "The heir to the throne, Prince Vajiralongkorn, is the only royal son."
+        ],
+        "tf-idf score": [
+            0.1563895763677741,
+            0.26332533247117024,
+            0.19365128117220468
+        ]
+    },
+    "0.42080804497386265-3-425": {
+        "average clique similarity": 0.42080804497386265,
+        "clique": [
+            "2-Any Thai can bring a",
+            "0-But the king can do ",
+            "3- The King can do wro"
+        ],
+        "median tf-idf score": 0.28773056640850364,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Any Thai can bring a legal case against a person under the   law.",
+            "But the king can do wrong.",
+            "\u201dThe King can do wrong\u201d."
+        ],
+        "tf-idf score": [
+            0.17630039565253067,
+            0.28773056640850364,
+            0.28773056640850364
+        ]
+    }
+}

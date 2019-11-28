@@ -1,0 +1,662 @@
+{
+    "0.14607463772973747-3-41": {
+        "average clique similarity": 0.14607463772973747,
+        "clique": [
+            "1-The    Labour politi",
+            "2-Labour Leader Jeremy",
+            "0-The thoughts of the "
+        ],
+        "median tf-idf score": 0.6378150548370618,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "The    Labour politician was attacked earlier Thursday in the village of Birstall, within the region she represents, and later died of her injuries.",
+            "Labour Leader Jeremy Corbyn said the whole country would be in shock at the \"horrific murder\" of a politician he said was \"universally liked at Westminster\".",
+            "The thoughts of the whole Labour Party are with her and her family at this time. @BorisJohnson Early reports suggesting she was attacked by a Leave voter. Great company you keep."
+        ],
+        "tf-idf score": [
+            0.6362860236164067,
+            0.6861095727361407,
+            0.6378150548370618
+        ]
+    },
+    "0.16715695987335324-3-129": {
+        "average clique similarity": 0.16715695987335324,
+        "clique": [
+            "3-Aamir Tahir  33  who",
+            "2-But one witness  Cla",
+            "0-10 54 a  m  Initial "
+        ],
+        "median tf-idf score": 0.6595162310941937,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Aamir Tahir, 33, who runs a   center about 100 yards from the scene of the attack, said in an interview that a female employee \"heard two loud pops. She was in the back, doing the ironing, and heard two loud pops and some shouting.",
+            "But one witness, Clarke Rothwell, who runs a cafe near the crime scene, told the Press Association: \"He was shouting 'Put Britain first.'",
+            "10:54 a. m. Initial eyewitness accounts of such incidents often vary from the final version, however multiple British news organizations are reporting that a witness at the scene heard Cox s attacker shout:  Britain first. A The Guardian is reporting that local police are talking to at least one witness who heard those words being shouted."
+        ],
+        "tf-idf score": [
+            0.6595162310941937,
+            0.5749354676949492,
+            0.8075628992498803
+        ]
+    },
+    "0.17096442934054376-3-354": {
+        "average clique similarity": 0.17096442934054376,
+        "clique": [
+            "1-The BBC reports that",
+            "3-The revelation came ",
+            "0-All updates are in E"
+        ],
+        "median tf-idf score": 1.2494447261663997,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The BBC reports that Cox was both stabbed and shot in the attack. The broadcaster says a man has been arrested and police are not looking for any other suspects.",
+            "The revelation came as police on Friday continued to investigate the motive behind the killing of the British lawmaker, Jo Cox, who was stabbed and shot midday Thursday in an attack that stunned the nation and led to a suspension of the European Union referendum campaign just a week before the vote.",
+            "All updates are in Eastern Standard Time. 1:15 p. m. West Yorkshire Police says the mental health of the man who killed Jo Cox as well as his alleged   links are clear lines of inquiry into the fatal attack on the Labour Party MP Here s more from Dee Collins, the temporary chief constable: We are aware of the speculation within the media in respect of the suspect s link to mental health services and this is a clear line of enquiry which we are pursuing."
+        ],
+        "tf-idf score": [
+            1.140443124921079,
+            1.3957150887805154,
+            1.2494447261663997
+        ]
+    },
+    "0.17761896116600154-3-413": {
+        "average clique similarity": 0.17761896116600154,
+        "clique": [
+            "3-The attack on Cox ec",
+            "1-In the wake of the a",
+            "0-Utterly shocked by t"
+        ],
+        "median tf-idf score": 0.5462714061873151,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The attack on Cox echoed the 2011 shooting of  .",
+            "In the wake of the attack on Cox, the intense campaigning over the issue has been suspended.",
+            "Utterly shocked by the news of the attack on Jo Cox."
+        ],
+        "tf-idf score": [
+            0.4362936396495178,
+            0.5462714061873151,
+            0.5561085203022073
+        ]
+    },
+    "0.178767761569847-3-52": {
+        "average clique similarity": 0.178767761569847,
+        "clique": [
+            "1-She closed by saying",
+            "2- For the first time ",
+            "3- Sarah and I were pr"
+        ],
+        "median tf-idf score": 0.780027542436424,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "She closed by saying, \"I am proud that I was made in Yorkshire and I am proud of the things we make in Yorkshire. Britain should be proud of that, too. I look forward to representing the great people of Batley and Spen here over the next five years\". You can watch that speech here. Cox leaves behind a husband and two young children.",
+            "\"For the first time in many many years we actually had an MP that was interested in Birstall, and interested in us, and  interested in the people and the businesses here\".",
+            "\"Sarah and I were privileged to work with Jo and her husband Brendan over many years and in her tireless efforts on behalf of poor and desolate children and mothers,\" Brown wrote. \"She went to some of the most dangerous places in the world. The last place she should have been in danger was in her home town. \""
+        ],
+        "tf-idf score": [
+            1.093942242431472,
+            0.5651740006008181,
+            0.780027542436424
+        ]
+    },
+    "0.18274770840506713-3-189": {
+        "average clique similarity": 0.18274770840506713,
+        "clique": [
+            "4-  Shortly after the ",
+            "3-Brendan Cox later re",
+            "1- Jo believed in a be"
+        ],
+        "median tf-idf score": 0.8323222457718791,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\" Shortly after the attack, Cox's husband, Brendan, tweeted   the following picture: \" '       --   Brendan Cox  (@MrBrendanCox)     ' '  ' ' He also issued this statement, : ' ' Labour Party leader Jeremy Corbyn has released the   following statement: ' '     't't'tThe whole of the Labour family, and indeed the whole country, is in shock and grief at the horrific murder of Jo Cox   --   Jeremy Corbyn MP  (@jeremycorbyn)     ' ' 't't'tThe whole of the Labour family, and indeed the whole country, is in shock and grief at the horrific murder of Jo Cox  ' '   Both Remain and Leave have suspended their European referendum   campaigns for the rest of the day.",
+            "Brendan Cox later released a statement saying his wife would have had no regrets about her life.",
+            "\"Jo believed in a better world,\" Cox's husband Brendan Cox said in a statement, shared by the BBC \"She fought for it every day of her life with an energy, and a zest for life that would exhaust most people."
+        ],
+        "tf-idf score": [
+            1.3620469433059021,
+            0.4396252705265815,
+            0.8323222457718791
+        ]
+    },
+    "0.18462180270569775-3-231": {
+        "average clique similarity": 0.18462180270569775,
+        "clique": [
+            "4-A    man is also   s",
+            "0-Here it is in full  ",
+            "2-A    man was assault"
+        ],
+        "median tf-idf score": 0.9089928109590207,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "A    man is also   sustained    injuries in the attack, which took   place about 1 p. m. local time. ' '   Cox was taken by air ambulance to Leeds General Infirmary, but   she was pronounced dead at 1.",
+            "Here it is in full: At 12. 53 today, police were called to a report of an incident on Market Street, Birstall, where a woman in her 40s had suffered serious injuries and is in a critical condition. A man in his late 40s to early 50s nearby also suffered slight injuries.",
+            "A    man was assaulted after the attack on Cox, but his injuries were not   Collins said."
+        ],
+        "tf-idf score": [
+            0.9529483432716503,
+            0.38004927255060594,
+            0.9089928109590207
+        ]
+    },
+    "0.1867188247780205-3-413": {
+        "average clique similarity": 0.1867188247780205,
+        "clique": [
+            "3-In Parliament  Cox h",
+            "0-10 05 a  m  Cox  in ",
+            "2- She s had a big imp"
+        ],
+        "median tf-idf score": 0.640865149246774,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "In Parliament, Cox had been outspoken about the need to do more to protect civilians in Syria, and had argued in the House of Commons for Britain to accept 3, 000 child refugees.",
+            "10:05 a. m. Cox, in an   last month in The Times, criticized the U S and U K s approach to Syria, but noted: I am a huge President Obama fan. I worked on his first campaign in North Carolina in 2008, I admire the leadership he has shown on everything from the financial crisis to climate change and the good advice he gave us recently on Europe. But on Syria both President Obama and the prime minister have been a huge disappointment.",
+            "\"She's had a big impact already,\" Gapes said. \"She's been one of the most outspoken people calling for more to be done to stop (Syrian President Bashar  's) barrel bombing in Syria and to get humanitarian corridors to help for the refugees from Syria\"."
+        ],
+        "tf-idf score": [
+            0.6463883871010055,
+            0.640865149246774,
+            0.3145578497906725
+        ]
+    },
+    "0.19018150776954315-3-376": {
+        "average clique similarity": 0.19018150776954315,
+        "clique": [
+            "3- He was fighting wit",
+            "4-It was unclear wheth",
+            "1-Colleagues knew her "
+        ],
+        "median tf-idf score": 0.8737351570650462,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"He was fighting with her and wrestling with her and then the gun went off twice and then she fell between two cars and I came and saw her bleeding on the floor,\" Abdallah said, according to Britain's Press Association.",
+            "It was unclear whether he was referring to   Britain First, the   political party. ' '   Clarke Rothwell, a local cafe owner, said the perpetrator shouted   \"Britain first, Britain first, Britain first\" as he stabbed Cox,   . ' '   Rothwell added: \"He shot this lady once, then shot her again and   she fell to the floor. He went over, shot her once more in the   face area .",
+            "Colleagues knew her as personable and   the FT writes. In her first speech on the Parliament floor last year, Cox celebrated immigration and diversity, praised her home community as a picturesque manufacturing hub and said she looked forward to passionately championing continued EU membership."
+        ],
+        "tf-idf score": [
+            0.7427211549046591,
+            1.13216549467514,
+            0.8737351570650462
+        ]
+    },
+    "0.1937580021242069-3-413": {
+        "average clique similarity": 0.1937580021242069,
+        "clique": [
+            "3-The BBC broadcast a ",
+            "0-9 30 a  m  The BBC i",
+            "4-48 p  m  West Yorksh"
+        ],
+        "median tf-idf score": 0.8736107467813862,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The BBC broadcast a photo that it said showed the moment the suspected assailant was arrested.",
+            "9:30 a. m. The BBC is now reporting that a    man has been arrested in connection with the attack. 9:28 a. m. The latest from Sky News: Here's what we know so far about the shooting of Labour MP Jo Cox in Birstall https:  .",
+            "48 p. m. West Yorkshire Police   confirmed. ' '  ' '   A    man, named locally as Tommy Mair, has been arrested   in connection to the attack, according to Sky News. ' '   The assailant shouted \"Britain first!\" while attacking the MP,   eyewitnesses say."
+        ],
+        "tf-idf score": [
+            0.5192390261153634,
+            1.04313686333664,
+            0.8736107467813862
+        ]
+    },
+    "0.2006324438257372-3-387": {
+        "average clique similarity": 0.2006324438257372,
+        "clique": [
+            "0-After her election i",
+            "3-People from around t",
+            "4-    The gun the atta"
+        ],
+        "median tf-idf score": 1.1365014814300223,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "After her election in 2015, she was one of   Labour MPs who nominated Jeremy Corbyn for the party s leadership. In the end, though, she voted for Liz Kendal, Corbyn s rival for the position, and later said she regretted nominating Corbyn, who now heads the party. She also strongly supported accepting 3, 000 child refugees from Syria.",
+            "People from around the world on Thursday and Friday paid tribute to the    Cox, a politician from the   Labour party who was   across the political spectrum for her fierce advocacy on behalf of Syrian war victims and who campaigned to allow 3, 000 child refugees to resettle in Britain.",
+            "'   The gun the attacker used was described as \"handmade\" by   eyewitness Ben Abdallah, . ' '   Cox, a    married mother of two who won her seat in   Parliament in the 2015 general election, has received threats in   the past for her criticism of Labour leader Jeremy Corbyn,   according to Sky."
+        ],
+        "tf-idf score": [
+            0.867917599906732,
+            1.1365014814300223,
+            1.1833557480322798
+        ]
+    },
+    "0.2061276036787502-3-97": {
+        "average clique similarity": 0.2061276036787502,
+        "clique": [
+            "4-    The Labour membe",
+            "0-She also provided a ",
+            "2-She continues to str"
+        ],
+        "median tf-idf score": 0.7912205027674011,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "'   The Labour member of parliament for Batley and Spen was meeting   with constituents at Birstall Library on Market Street before she   was shot at least twice and stabbed.",
+            "She also provided a timeline of the events that led to the attack on Cox: We have now confirmed that just before 1pm yesterday (Thursday   ) Jo arrived in a vehicle in company with two colleagues outside the Library on Market Street and whilst enroute to the library where she had a scheduled constituency meeting, she was attacked and sustained serious injuries from both a firearm and a knife and despite assistance from   the ambulance service and police officers who were quickly on the scene, she sadly died of her injuries.",
+            "She continues to struggle with the effects of the shooting. Today's shooting resonated for Giffords and she commented on it in a statement. \"I don't remember the constituent meeting where I was shot in the head and nearly lost my life, but the scores of such events I and so many others have hosted represent the importance of a democracy connected to its citizens."
+        ],
+        "tf-idf score": [
+            0.7912205027674011,
+            1.3101016827427758,
+            0.6877837770858437
+        ]
+    },
+    "0.2066461562902586-3-132": {
+        "average clique similarity": 0.2066461562902586,
+        "clique": [
+            "0-2 32 p  m   Watch Jo",
+            "1- She would have want",
+            "2- I and Jo s friends "
+        ],
+        "median tf-idf score": 0.9137485505593052,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "2:32 p. m.  Watch Jo Cox s maiden speech to Parliament in 2015: 2:07 p. m. Oxfam and Save the Children said: All @oxfamgb are devastated at the loss of our much loved and admired former @Oxfam colleague Jo Cox MP Deep condolences to Jo's family, Our heartfelt thoughts are with the family of Jo Cox. We're shocked and saddened by this horrific news.",
+            "\"She would have wanted two things above all else to happen now, one that our precious children are bathed in love and two, that we all unite to fight against the hatred that killed her\". In the past two decades, two other members of Parliament have been attacked during \"surgeries,\" the kind of open sessions with constituents Cox reportedly had been holding in Birstall, the AP writes.",
+            "\"I and Jo's friends and family are going to work every moment of our lives to love and nurture our kids and to fight against the hate that killed Jo\"."
+        ],
+        "tf-idf score": [
+            0.9674752968478814,
+            0.9137485505593052,
+            0.3145256621747619
+        ]
+    },
+    "0.20788473937860422-3-38": {
+        "average clique similarity": 0.20788473937860422,
+        "clique": [
+            "2-Her colleagues took ",
+            "1-In Parliament  she w",
+            "0-9 39 a  m  Cox broke"
+        ],
+        "median tf-idf score": 0.61559563281578,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Her colleagues took the news of the death hard. Alison McGovern, a Labour Party politician, praised Cox's influence and cited her role as a leading campaigner seeking a solution to the Syrian conflict.",
+            "In Parliament, she was vocal about the need to find an end to the Syrian Civil War and advocated greater British military involvement to protect civilians in that conflict.",
+            "9:39 a. m. Cox broke with her Labour s party leadership and supported military action to end the Syrian civil war."
+        ],
+        "tf-idf score": [
+            0.61559563281578,
+            0.6390885975752091,
+            0.4901559507613457
+        ]
+    },
+    "0.21705424791189556-3-413": {
+        "average clique similarity": 0.21705424791189556,
+        "clique": [
+            "2-Police search house ",
+            "1-A second person  a m",
+            "0-9 36 a  m  The West "
+        ],
+        "median tf-idf score": 0.3858876549481877,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Police search house of Tommy Mair, West Yorkshire police were seen searching Mair's home in Birstall on Thursday evening.",
+            "A second person, a man, was also injured in the attack and is expected to survive, The Associated Press reports, citing West Yorkshire Police.",
+            "9:36 a. m. The West Yorkshire Police have issued a statement on the attack and the arrest."
+        ],
+        "tf-idf score": [
+            0.3858876549481877,
+            0.7702099463581292,
+            0.3294921491312997
+        ]
+    },
+    "0.2193612532734589-3-73": {
+        "average clique similarity": 0.2193612532734589,
+        "clique": [
+            "2-British Prime Minist",
+            "0-Updated on June 17 a",
+            "4-Prime Minister David"
+        ],
+        "median tf-idf score": 1.0176623938561877,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "British Prime Minister David Cameron, who canceled a scheduled \"Stronger In\"   rally in Gibraltar on Thursday after the attack, described the killing as \"dreadful, dreadful news\".",
+            "Updated on June 17 at 8:49 a. m. British Prime Minister David Cameron and Jeremy Corbyn, the leader of the opposition Labour Party, appeared together in Bristall, just feet away where Jo Cox was killed on Thursday.",
+            "Prime Minister David Cameron   has cancelled his trip to Gibraltar, where he was also due to   campaign. ' ' A   vigil was held for Cox in Parliament Square   on Thursday evening. ' ' ' ' 't't'tStanding in vigil for  on Parliament Sq."
+        ],
+        "tf-idf score": [
+            0.5101393451326002,
+            1.1925254038720654,
+            1.0176623938561877
+        ]
+    },
+    "0.22336859196436123-3-166": {
+        "average clique similarity": 0.22336859196436123,
+        "clique": [
+            "3-She also was nationa",
+            "0-Immediately prior to",
+            "1-Cox  who had a   bac"
+        ],
+        "median tf-idf score": 0.7585838709343767,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "She also was national chair of Labour Women's Network and a senior adviser to the Freedom Fund, a group that campaigns against slavery and other domestic and workplace abuses. On her Twitter page, she described herself as \"mum, proud Yorkshire lass, boat dweller, mountain climber and former aid worker. \" She previously worked as an adviser to the   aid group Oxfam.",
+            "Immediately prior to standing for Parliament Jo was working with the Bill and Melinda Gates Foundation and The Freedom Fund, a charity working to end the scourge of modern slavery.",
+            "Cox, who had a   background and went to Cambridge, was a head of policy at Oxfam, an adviser to the Bill and Melinda Gates foundation and an adviser to an   campaign."
+        ],
+        "tf-idf score": [
+            0.7818832589411984,
+            0.6322906621570449,
+            0.7585838709343767
+        ]
+    },
+    "0.23285366136164928-3-413": {
+        "average clique similarity": 0.23285366136164928,
+        "clique": [
+            "4-The motive for the a",
+            "2-She didn t believe h",
+            "1-Cox held a     sessi"
+        ],
+        "median tf-idf score": 0.9396828104055199,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "The motive for the attack, however, has not yet   been established. ' '   A former aid worker, Cox set up and chaired the     Parliamentary Friends of Syria group, and she was also part of   the Stronger In campaign advocating that Britain vote to stay in   the European Union in the June 23 referendum. '",
+            "She didn't believe he had a regular job and she said she would see him around at odd hours. Tensions high in Britain ahead of referendum, The killing comes as the momentous and contentious public referendum on whether to stay or leave the European Union is just one week away, with passions running high and toxic political discourse elbowing out civil debate. Parliament members have been the objects of public ire, accused of lying and making up their arguments on both sides of the debate.",
+            "Cox held a     session where her constituents could meet with her, The Guardian reports, and the stabbing and shooting occurred nearby. Police have not commented on a motive for the attack. The U K is currently preparing for a   hotly contested referendum next week. Voters will choose whether to stay in the European Union or leave it  --   the   \"Brexit\"."
+        ],
+        "tf-idf score": [
+            1.1791701760322355,
+            0.7352904591159439,
+            0.9396828104055199
+        ]
+    },
+    "0.23380815698860458-3-152": {
+        "average clique similarity": 0.23380815698860458,
+        "clique": [
+            "2-Before entering Parl",
+            "0-Immediately before s",
+            "1-Before being elected"
+        ],
+        "median tf-idf score": 0.8924235468778702,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Before entering Parliament, Cox worked for aid agency Oxfam and for a   campaign organization, according to her website.",
+            "Immediately before she was elected to Parliament in May 2015, she worked at the Freedom Fund, an   organization, and at the Bill and Melinda Gates Foundation, according to a biography on her website. 4:26 p. m. Tributes are being paid in Bristall and London to Cox.",
+            "Before being elected to Parliament last year, Cox was an aid worker and charity campaigner, The Financial Times reports."
+        ],
+        "tf-idf score": [
+            0.5508227245200313,
+            0.8924235468778702,
+            0.8924605389619645
+        ]
+    },
+    "0.23969835803401363-4-4": {
+        "average clique similarity": 0.23969835803401363,
+        "clique": [
+            "4-A rising star  mothe",
+            "3-A rising star  mothe",
+            "2-A star for her const",
+            "0-She was young  coura"
+        ],
+        "median tf-idf score": 0.7328252574033348,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "A rising star, mother, and wife. 't't' '  ' '  ' \"   Cox is the first sitting member of parliament to be killed since   1990, when Conservative MP Ian Gow was killed by a car bomb at   his Sussex home.",
+            "A rising star, mother, and wife. \" [A British vote to leave the E U could shatter the United Kingdom]   Cox was leaving the library when, according to witnesses, the attack began suddenly.",
+            "A star for her constituents, a star in Parliament, and a star right across the House\".",
+            "She was young, courageous, and hardworking. A rising star, mother, and wife."
+        ],
+        "tf-idf score": [
+            1.0355222830314117,
+            1.0438548644412755,
+            0.2358136594381665,
+            0.4301282317752579
+        ]
+    },
+    "0.2449586936993208-4-29": {
+        "average clique similarity": 0.2449586936993208,
+        "clique": [
+            "1-Jo Cox  a member of ",
+            "0-9 16 a  m   Jo Cox  ",
+            "3-Police officials in ",
+            "2-U S State Department"
+        ],
+        "median tf-idf score": 1.1136330224152737,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Jo Cox, a member of the British parliament, has died after being shot in a village near Leeds.",
+            "9:16 a. m.  Jo Cox, a Labour Party member of Parliament, was reportedly shot and stabbed in Birstall, near Leeds, British news reports say.",
+            "Police officials in the northern English region of West Yorkshire said Cox was pronounced dead just before 2 p. m. local time, an hour after she was assaulted outside a library near the city of Leeds.",
+            "U S State Department spokesman John Kirby said, \"We are shocked and appalled that a member of the UK Parliament, Ms Jo Cox, was murdered today in Birstall, near Leeds, in northern England, while doing her public duty. \""
+        ],
+        "tf-idf score": [
+            0.8371334068903751,
+            1.315185502904152,
+            1.0754828547359514,
+            1.1517831900945963
+        ]
+    },
+    "0.24867189565237371-3-269": {
+        "average clique similarity": 0.24867189565237371,
+        "clique": [
+            "2-Slain MP s husband  ",
+            "0-twitter  Meanwhile  ",
+            "3-Floral tributes and "
+        ],
+        "median tf-idf score": 0.6106721249130628,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Slain MP's husband: 'Jo would have no regrets about her life' Vigils were held in Birstall and in Parliament Square, London, as people gathered to pay tribute to the slain politician.",
+            "twitter. Meanwhile, the U K s Parliament, which is on a break, is being recalled Monday to pay tributes to the slain Labour Party MP, as tributes continue to pour in for her, and flags flew at   over City Hall and Number 10 Downing Street, the prime minister s residence.",
+            "Floral tributes and candles are placed by a picture of slain Labour MP Jo Cox at a vigil in Parliament square in London."
+        ],
+        "tf-idf score": [
+            0.6106721249130628,
+            0.5015962567803274,
+            0.761121232791933
+        ]
+    },
+    "0.24886035972058837-3-222": {
+        "average clique similarity": 0.24886035972058837,
+        "clique": [
+            "2-Cox  elected a membe",
+            "0-She is also a campai",
+            "1-A member of parliame"
+        ],
+        "median tf-idf score": 0.9313228253180904,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Cox, elected a member of Parliament for Batley and Spen in Yorkshire last year, was a supporter of Britain voting to remain in the European Union.",
+            "She is also a campaigner for Britain s continued membership in the European Union. (Britons vote in a June 23 referendum on whether to remain in the bloc.) She isn t the first British MP to be attacked. In 2010 Stephen Timms, also a Labour MP, was stabbed twice by a woman for his vote to support the Iraq war.",
+            "A member of parliament was stabbed in 2010 by a constituent who said she wanted \"revenge\" for his vote in favor of the Iraq war he survived the attack."
+        ],
+        "tf-idf score": [
+            1.0208394146983675,
+            0.9313228253180904,
+            0.866893021232275
+        ]
+    },
+    "0.2912222558029821-3-81": {
+        "average clique similarity": 0.2912222558029821,
+        "clique": [
+            "0-debate have suspende",
+            "2-In the wake of the a",
+            "3-U camps announced th"
+        ],
+        "median tf-idf score": 0.5371851385009907,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "debate have suspended their campaigns in response to the attack on Cox. We are suspending all campaigning for the day.",
+            "In the wake of the attack, campaign groups on both sides of the debate on next week's referendum announced they were halting their operations Thursday.",
+            "U camps announced that they were suspending their campaigns at least until the weekend. Cox was a supporter of keeping Britain in the   bloc, but she was lauded Thursday by those on both sides of the debate."
+        ],
+        "tf-idf score": [
+            0.5371851385009907,
+            0.3459121202854775,
+            0.7971831790737378
+        ]
+    },
+    "0.2967248127847746-4-78": {
+        "average clique similarity": 0.2967248127847746,
+        "clique": [
+            "2- Jo Cox died doing h",
+            "3-Leading Democratic p",
+            "0-He said in a stateme",
+            "4-PM     spoke for us "
+        ],
+        "median tf-idf score": 0.8879829309809831,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\"Jo Cox died doing her public duty at the heart of our democracy, listening to and representing the people she was elected to serve. It is a profoundly important cause for us all,\" he said in a statement.",
+            "Leading Democratic presidential candidate Hillary Clinton said in a statement that Cox had \"celebrated the diversity of her beloved Yorkshire constituency, and passionately made the case that there is more that unites us than divides us.",
+            "He said in a statement: Jo died doing her public duty at the heart of our democracy, listening to and representing the people she was elected to serve. It is a profoundly important cause for us all.",
+            "PM  &  spoke for us. Please join us in grief for a brave friend't't' '     't't'tVigil in Parliament Sq for    --   Chris Ship  (@chrisshipitv)     ' ' 't't'tVigil in Parliament Sq for   ' ' Gabrielle Giffords, the former US congresswoman for   Arizona, who was the victim of an assassination attempt in 2011,   sent this tweet in tribute to Cox: ' ' ' ' 't't'tAbsolutely sickened to hear of the assassination of Jo Cox. She was young, courageous, and hardworking."
+        ],
+        "tf-idf score": [
+            1.0247917969650704,
+            0.5688721928583462,
+            0.7511740649968959,
+            1.1043291036740923
+        ]
+    },
+    "0.3090930054478171-3-2": {
+        "average clique similarity": 0.3090930054478171,
+        "clique": [
+            "2-Described as a risin",
+            "0-12 47 p  m  As our c",
+            "1-In 2000  a man attac"
+        ],
+        "median tf-idf score": 0.8385152473733504,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Described as a rising star of the opposition Labour Party, the    is the first British lawmaker to be killed in office since Conservative MP Ian Gow was assassinated by the IRA in a 1990 car bombing.",
+            "12:47 p. m. As our colleague Matt Ford notes, Cox is the first MP to be assassinated in office since Ian Gow, a Conservative lawmaker who was killed in a car bombing by the Irish Republican Army in 1990.",
+            "In 2000, a man attacked an MP with a sword, killing a political aide and injuring the MP A recent study found one in five British MPs has been the victim of an attack or attempted attack, The Guardian reports. But no member of parliament has been murdered in office since the violent days of The Troubles in Northern Ireland."
+        ],
+        "tf-idf score": [
+            0.8284445826282945,
+            0.8385152473733504,
+            0.9385916301165383
+        ]
+    },
+    "0.34074013510899115-3-413": {
+        "average clique similarity": 0.34074013510899115,
+        "clique": [
+            "0-Dee Collins  the chi",
+            "2-After the assault  a",
+            "4-    Labour Party MP "
+        ],
+        "median tf-idf score": 0.84376157142658,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Dee Collins, the chief constable of West Yorkshire police, said the MP was declared dead at 1:48 p. m. GMT by a doctor working with paramedics.",
+            "After the assault, a man was detained close to the scene of the attack, said Dee Collins, Temporary Chief Constable of West Yorkshire Police.",
+            "'   Labour Party MP Jo Cox has died after being shot and stabbed on   Thursday afternoon near the northern city of Leeds in West   Yorkshire, the chief constable of West Yorkshire Police, Dee   Collins,  in a press conference. '"
+        ],
+        "tf-idf score": [
+            0.7580456430205211,
+            0.84376157142658,
+            1.1470948920929829
+        ]
+    }
+}

@@ -1,0 +1,954 @@
+{
+    "0.1297615385810927-3-44": {
+        "average clique similarity": 0.1297615385810927,
+        "clique": [
+            "4- We re moving forwar",
+            "0-Clinton said she wan",
+            "2-Unless she really wa"
+        ],
+        "median tf-idf score": 0.5679213211845938,
+        "publications": [
+            "Reuters",
+            "National Review",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dWe\u2019re moving forward\u201d.",
+            "Clinton said she wants to improve on ObamaCare, but accused Sanders of moving to unravel the Obama administration\u2019s signature domestic policy.",
+            "Unless she really wants to test whether a Sanders win in the early states will translate to a second look elsewhere, she and her campaign will only get more aggressive from here forward.,"
+        ],
+        "tf-idf score": [
+            0.03083843696902266,
+            0.969249633554299,
+            0.5679213211845938
+        ]
+    },
+    "0.13309857241876508-3-6": {
+        "average clique similarity": 0.13309857241876508,
+        "clique": [
+            "1-This battle masks an",
+            "4-Sanders pushed back ",
+            "0-   Sanders fired bac"
+        ],
+        "median tf-idf score": 0.6578765822764431,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "This battle masks an essential consensus: Both Sanders and Clinton back universal health care.",
+            "Sanders pushed back at every turn.",
+            "\u201d  Sanders fired back, calling some of Clinton\u2019s criticism \u201cnonsense."
+        ],
+        "tf-idf score": [
+            0.7228953321070731,
+            0.3270070334135515,
+            0.6578765822764431
+        ]
+    },
+    "0.14274577125061086-3-230": {
+        "average clique similarity": 0.14274577125061086,
+        "clique": [
+            "3-This was the last ti",
+            "2- We always knew this",
+            "1-Given that he gave t"
+        ],
+        "median tf-idf score": 0.571597206818684,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "National Review"
+        ],
+        "sentences": [
+            "This was the last time these candidates will debate before the Iowa caucuses on Feb. 1.",
+            "\u201cWe always knew this race would get tight,\u201d Clinton campaign manager John Podesta wrote in a fundraising   the day before the debate.",
+            "Given that he gave the Clinton campaign a couple hours to look over the specs before the debate kicks off, expect a   response from Clinton."
+        ],
+        "tf-idf score": [
+            0.48150564067212576,
+            0.6228136497611308,
+            0.571597206818684
+        ]
+    },
+    "0.1504206083119466-3-128": {
+        "average clique similarity": 0.1504206083119466,
+        "clique": [
+            "2-The Clinton campaign",
+            "3-The payroll tax that",
+            "1-Clinton s attack on "
+        ],
+        "median tf-idf score": 0.8436712243935423,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "National Review"
+        ],
+        "sentences": [
+            "The Clinton campaign hopes that the phenomenon stops there and that Sanders fails to connect with the   and Latino voters he needs if he is to compete in South Carolina, Nevada, and other states where his polling is lackluster.",
+            "The payroll tax that now covers Social Security and Medicare would also be enlarged and extended to more income that is currently exempt, were Sanders to prevail.",
+            "Clinton\u2019s attack on Sanders is fairly implausible: She argues that because his attempt to pass a   health system (\u201cMedicare for all,\u201d he calls it) would supersede Obamacare, he is angling to tear down the recent reforms."
+        ],
+        "tf-idf score": [
+            0.9133942124578853,
+            0.419441164200165,
+            0.8436712243935423
+        ]
+    },
+    "0.15132160260806737-3-37": {
+        "average clique similarity": 0.15132160260806737,
+        "clique": [
+            "2-We have the momentum",
+            "4- I have to say I m n",
+            "0- We ve had one good "
+        ],
+        "median tf-idf score": 0.07783322043025724,
+        "publications": [
+            "National Review",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "We have the momentum, we\u2019re on the path to victory.",
+            "\u201dI have to say I\u2019m not sure whether we\u2019re talking about the plan you introduced tonight or the plan you introduced nine times over 20 years,\u201d she told Sanders.",
+            "\u201cWe\u2019ve had one good day over 36 years."
+        ],
+        "tf-idf score": [
+            0.036841027323767414,
+            0.4681554981726488,
+            0.07783322043025724
+        ]
+    },
+    "0.15507826719786735-3-197": {
+        "average clique similarity": 0.15507826719786735,
+        "clique": [
+            "3-Those arrangements  ",
+            "0-He then drew applaus",
+            "1-All three candidates"
+        ],
+        "median tf-idf score": 0.16206349311787843,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Those arrangements, and the easing of legal cases brought by the Justice Department against several Iranians, had been roundly criticized by several Republican candidates for president on Sunday.",
+            "He then drew applause from the audience by calling for a Justice Department investigation whenever someone is killed in police custody.",
+            "All three candidates agreed on the need for tougher accountability for police who shoot civilians and on racial justice in the   system."
+        ],
+        "tf-idf score": [
+            0.2928459118216913,
+            0.10756860755213644,
+            0.16206349311787843
+        ]
+    },
+    "0.1566520061513261-3-525": {
+        "average clique similarity": 0.1566520061513261,
+        "clique": [
+            "0-Clinton responded th",
+            "4-I don t get personal",
+            "2- But he s criticized"
+        ],
+        "median tf-idf score": 0.4811507386414328,
+        "publications": [
+            "National Review",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Clinton responded that O\u2019Malley raised money from Wall Street as head of the Democratic Governors Association.",
+            "I don\u2019t get personal speaking fees from Goldman Sachs,\u201d the U S senator from Vermont said, adding, \u201dI have huge doubts when people receive money from Wall Street\u201d.",
+            "\u201cBut he\u2019s criticized President Obama for taking donations from Wall Street, and President Obama has led our country out of the great recession."
+        ],
+        "tf-idf score": [
+            0.5806875163060723,
+            0.4242800472889088,
+            0.4811507386414328
+        ]
+    },
+    "0.15787594544795616-3-72": {
+        "average clique similarity": 0.15787594544795616,
+        "clique": [
+            "4-Sanders was noticeab",
+            "1-But more conspicuous",
+            "3-But the mood of this"
+        ],
+        "median tf-idf score": 0.7316612747194848,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "Sanders was noticeably more animated that in previous debates, sometimes grimacing and shaking his head during Clinton\u2019s answers.",
+            "But more conspicuous by absence was the kumbaya vibe of previous meetings.",
+            "But the mood of this meeting was more portentous than those of their previous three debates, if only because Iowa no longer looks like an easy win for Clinton."
+        ],
+        "tf-idf score": [
+            0.9113641620554117,
+            0.16114043254298346,
+            0.7316612747194848
+        ]
+    },
+    "0.15957685941988645-3-105": {
+        "average clique similarity": 0.15957685941988645,
+        "clique": [
+            "2-Privately  however  ",
+            "1-Their differences ar",
+            "3-Their supporters are"
+        ],
+        "median tf-idf score": 0.09717472379085336,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "National Review"
+        ],
+        "sentences": [
+            "Privately, however, close Clinton advisers are kicking themselves for their complacency in the face of Sanders\u2019s insurgent campaign.",
+            "Their differences are about how to achieve that.",
+            "Their supporters are then free to support others in the final vote."
+        ],
+        "tf-idf score": [
+            0.7550895400636355,
+            0.019422550186814797,
+            0.09717472379085336
+        ]
+    },
+    "0.1643037678722933-3-301": {
+        "average clique similarity": 0.1643037678722933,
+        "clique": [
+            "1-With the debate fall",
+            "3-All three candidates",
+            "0-Martin O Malley  too"
+        ],
+        "median tf-idf score": 0.24176330293736717,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Fox News"
+        ],
+        "sentences": [
+            "With the debate falling on the eve of Martin Luther King Day, one might have expected robust discussion of racial issues, but the topic was dispatched with surprising brevity.",
+            "All three candidates paid tribute to the Martin Luther King Jr holiday by citing King\u2019s influence on their lives.",
+            "Martin O\u2019Malley, took the stage for just their fourth debate of the season."
+        ],
+        "tf-idf score": [
+            0.4144167959988097,
+            0.15057776873926026,
+            0.24176330293736717
+        ]
+    },
+    "0.16963498906706653-3-325": {
+        "average clique similarity": 0.16963498906706653,
+        "clique": [
+            "3-Martin O Malley ques",
+            "1-Hillary Clinton  Ber",
+            "4-In their last televi"
+        ],
+        "median tf-idf score": 0.9912589395976181,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Martin O\u2019Malley questioned her veracity and intensified their criticism of her policy positions and campaign financing.",
+            "Hillary Clinton, Bernie Sanders, and Martin O\u2019Malley square off on the debate stage for the fourth time Sunday night \u2014  and it\u2019s their last chance to make a final impression on voters before the Iowa caucuses next month.",
+            "In their last televised debate before Iowa\u2019s caucuses launch the nominating race on Feb. 1, Clinton raised questions about the   democratic socialist\u2019s positions on Wall Street reform, healthcare and gun control."
+        ],
+        "tf-idf score": [
+            0.2085734742067335,
+            1.2305748844755933,
+            0.9912589395976181
+        ]
+    },
+    "0.17914478450744578-3-118": {
+        "average clique similarity": 0.17914478450744578,
+        "clique": [
+            "3- He voted to let gun",
+            "1-Clinton scored an ea",
+            "0-Sanders  though  acc"
+        ],
+        "median tf-idf score": 0.7068290369556836,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dHe voted to let guns go onto Amtrak, guns go into national parks.",
+            "Clinton scored an early direct hit on Sanders over guns.",
+            "Sanders, though, accused Clinton of being \u201cvery disingenuous\u201d on guns."
+        ],
+        "tf-idf score": [
+            0.12413589028315947,
+            0.7120630563638244,
+            0.7068290369556836
+        ]
+    },
+    "0.18051846771144264-3-306": {
+        "average clique similarity": 0.18051846771144264,
+        "clique": [
+            "1-She knows the limita",
+            "0-Clinton is stepping ",
+            "3-She has seen almost "
+        ],
+        "median tf-idf score": 0.20215732797853042,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "She knows the limitations of   politics better than almost anyone.",
+            "Clinton is stepping up her attacks as she tries to ensure she starts off the 2016 election cycle better than she did in 2008, when she lost Iowa to  .",
+            "She has seen almost all her polling advantage vanish in that state."
+        ],
+        "tf-idf score": [
+            0.039024936484586784,
+            0.5243830975225795,
+            0.20215732797853042
+        ]
+    },
+    "0.18406689759341735-3-346": {
+        "average clique similarity": 0.18406689759341735,
+        "clique": [
+            "2-Faced with a sudden ",
+            "4-Reflecting Sanders  ",
+            "1-But unlike in previo"
+        ],
+        "median tf-idf score": 1.2845515911967558,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "National Review"
+        ],
+        "sentences": [
+            "Faced with a sudden, sharp drop in the polls in the first half of January, a drop that left Clinton    with Sanders in Iowa and trailing him in New Hampshire, her campaign launched a   offensive against his   stance, his plans for   reform, and his rhetoric on Wall Street.",
+            "Reflecting Sanders\u2019 rise in opinion polls, the two battled with new urgency over who was best suited to lead Democrats in the November election.",
+            "But unlike in previous Democratic debates, there\u2019s a greater sense of urgency, at least for Clinton: Since their last encounter in New Hampshire, Sanders has been steadily closing in on her in national polls and in the   states of Iowa and New Hampshire."
+        ],
+        "tf-idf score": [
+            1.2845515911967558,
+            0.7399948466696582,
+            1.320212404338683
+        ]
+    },
+    "0.18684744241940476-3-123": {
+        "average clique similarity": 0.18684744241940476,
+        "clique": [
+            "4- I don t take money ",
+            "2- The comments that S",
+            "0- I m prepared and re"
+        ],
+        "median tf-idf score": 0.04462021229725892,
+        "publications": [
+            "Reuters",
+            "National Review",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dI don\u2019t take money from big banks.",
+            "\u201cThe comments that Senator Sanders has made don\u2019t just affect me, I can take that,\u201d she said.",
+            "\u201cI\u2019m prepared and ready to take it on."
+        ],
+        "tf-idf score": [
+            0.04462021229725892,
+            0.5931061752212479,
+            0.016221560013406577
+        ]
+    },
+    "0.1873504681271506-3-65": {
+        "average clique similarity": 0.1873504681271506,
+        "clique": [
+            "2-  Share article on F",
+            "0-O Malley countered b",
+            "1-On the eve of the de"
+        ],
+        "median tf-idf score": 0.5540446337411244,
+        "publications": [
+            "Fox News",
+            "National Review",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d Share article on FacebookshareTweet Inexplicably, however, Clinton failed to make hay over Sanders\u2019s   saying only that she was \u201cpleased to hear that Senator Sanders has reversed his position.",
+            "O\u2019Malley countered by saying that he was not using that money for his current campaign.",
+            "On the eve of the debate, the Vermont senator backed away from a 2005 vote on a law granting gun manufacturers legal immunity, saying that he was \u201cpleased\u201d about a proposed bill that would amend that legislation."
+        ],
+        "tf-idf score": [
+            1.0058747873961167,
+            0.2871845353297718,
+            0.5540446337411244
+        ]
+    },
+    "0.18971686928639753-3-384": {
+        "average clique similarity": 0.18971686928639753,
+        "clique": [
+            "4-He noted that when h",
+            "3-He was expected to d",
+            "2-  When Clinton attac"
+        ],
+        "median tf-idf score": 0.6657681886889576,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "National Review"
+        ],
+        "sentences": [
+            "He noted that when his presidential campaign began, Clinton was 50 percentage points ahead of him in the polls.",
+            "He was expected to do that in part because the Clinton campaign had sharpened its own attacks on him in recent days.",
+            "\u201d When Clinton attacked him for raising taxes on the middle class to fund his   plan, Sanders said he was \u201cdisappointed that Secretary Clinton\u2019s campaign has made this criticism, it\u2019s a Republican criticism."
+        ],
+        "tf-idf score": [
+            0.6657681886889576,
+            0.5979742380804748,
+            1.210066822329976
+        ]
+    },
+    "0.18981088269201118-5-438": {
+        "average clique similarity": 0.18981088269201118,
+        "clique": [
+            "2-  Perhaps Clinton s ",
+            "0-The candidates clash",
+            "4-Former Maryland Gove",
+            "1-She has  however  le",
+            "3-Sanders then took th"
+        ],
+        "median tf-idf score": 1.0274170444970563,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "National Review",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201d Perhaps Clinton\u2019s strongest sign of life came in response to Sanders\u2019s attack on her ties to Wall Street, when she combined her relentless praise of President Obama\u2019s legacy with an attack on Sanders\u2019s character.",
+            "The candidates clashed again over Wall Street ties, with O\u2019Malley accusing Clinton of having a \u201ccozy relationship\u201d with Wall Street, while Sanders criticized her for getting hundreds of thousands of dollars in speaking fees from Goldman Sachs.",
+            "Former Maryland Governor Martin O\u2019Malley, who lags badly in polls, was often a bystander although he joined Sanders in criticizing Clinton\u2019s Wall Street ties.",
+            "She has, however, learned to pull her opponents into the muck, ticking off O\u2019Malley\u2019s former fundraising from Wall Street and Sanders\u2019s 2000 vote to deregulate derivatives.",
+            "Sanders then took the fight to Clinton on a number of other issues  \u2014   especially the regulation of Wall Street, her ties to Wall Street banks, including $600, 000 in speaking fees from Goldman Sachs."
+        ],
+        "tf-idf score": [
+            1.0274170444970563,
+            1.075910031939674,
+            1.0543209717743194,
+            0.6711464004152723,
+            0.9356030466057617
+        ]
+    },
+    "0.1898792078535935-3-411": {
+        "average clique similarity": 0.1898792078535935,
+        "clique": [
+            "1-Clinton  seeing Sand",
+            "0-After a recent repor",
+            "2-  Clinton s attacks "
+        ],
+        "median tf-idf score": 0.9702412821503826,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "Fox News"
+        ],
+        "sentences": [
+            "Clinton, seeing Sanders gain on her in the polls, has attacked the Vermont senator as soft on guns.",
+            "After a recent report claimed a Clinton ally was preparing to seek the    Vermont senator\u2019s medical records, the Sanders campaign called the move a \u201cpersonal\u201d and unfounded attack.",
+            "\u201d Clinton\u2019s attacks on Sanders echoed the onslaught her scrambling campaign deployed against the Vermont senator over the last week."
+        ],
+        "tf-idf score": [
+            0.9702412821503826,
+            1.050337887600451,
+            0.8382897592570138
+        ]
+    },
+    "0.19511278778063088-3-244": {
+        "average clique similarity": 0.19511278778063088,
+        "clique": [
+            "1-But on health care  ",
+            "2-But it s not clear t",
+            "3-This enabled Obama t"
+        ],
+        "median tf-idf score": 0.18481768712890595,
+        "publications": [
+            "National Review",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "But on health care, she couldn\u2019t get the upper hand so easily.",
+            "But it\u2019s not clear that tying her mast to Obama\u2019s will be enough to get her through the Democratic primary.",
+            "This enabled Obama to gain the upper hand, fight her to a draw on the big primary day (Super Tuesday) and then outlast her through the spring."
+        ],
+        "tf-idf score": [
+            0.10282829895547849,
+            0.18481768712890595,
+            0.2541329656895172
+        ]
+    },
+    "0.19946984794478317-3-445": {
+        "average clique similarity": 0.19946984794478317,
+        "clique": [
+            "2-On Sunday night in C",
+            "1-He included those de",
+            "3-The Sunday night deb"
+        ],
+        "median tf-idf score": 0.388779073666328,
+        "publications": [
+            "NPR",
+            "National Review",
+            "Atlantic"
+        ],
+        "sentences": [
+            "On Sunday night in Charleston, for the first time this cycle, the Democratic presidential debate bore at least a slim resemblance to its raucous Republican counterpart.",
+            "He included those details in the plan released Sunday night.",
+            "The Sunday night debate was held in Charleston, S C which will hold its Democratic primary on Feb. 27."
+        ],
+        "tf-idf score": [
+            0.388779073666328,
+            0.16416784625826492,
+            0.4602457218328334
+        ]
+    },
+    "0.20594918230744122-3-482": {
+        "average clique similarity": 0.20594918230744122,
+        "clique": [
+            "1-He was only on stage",
+            "2-But like Obama in 20",
+            "4-He referred to his r"
+        ],
+        "median tf-idf score": 0.9587824951389072,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "Reuters"
+        ],
+        "sentences": [
+            "He was only on stage tonight thanks to rounding up of poll numbers, and while Iowa is unpredictable, this debate didn\u2019t look like the moment to vault him ahead of Sanders or Clinton.",
+            "But like Obama in 2008, Sanders plans to broaden his appeal in the wake of a win in Iowa or New Hampshire.",
+            "He referred to his rising poll numbers in the early voting states of Iowa and New Hampshire, where he has pulled even or ahead of Clinton, saying he believed he could expand his number of supporters to include more   voters."
+        ],
+        "tf-idf score": [
+            1.137985672679959,
+            0.7618682237296612,
+            0.9587824951389072
+        ]
+    },
+    "0.20624248922539642-3-16": {
+        "average clique similarity": 0.20624248922539642,
+        "clique": [
+            "2-  And when she did g",
+            "0-The issue did not co",
+            "3-And she did not leav"
+        ],
+        "median tf-idf score": 0.05760841698383047,
+        "publications": [
+            "National Review",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d And when she did go after Sanders on Sunday, he struck back forcefully.",
+            "The issue did not come up onstage.",
+            "And she did not leave it there."
+        ],
+        "tf-idf score": [
+            0.382668801511913,
+            0.05760841698383047,
+            0.00448401111536894
+        ]
+    },
+    "0.20793532145439853-3-517": {
+        "average clique similarity": 0.20793532145439853,
+        "clique": [
+            "3-The latest reading b",
+            "0-The debate was hoste",
+            "4- Additional reportin"
+        ],
+        "median tf-idf score": 0.2642083338146002,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "The latest reading by the respected tandem of NBC and The Wall Street Journal most recently found her ahead of Sanders by 25 points countrywide.",
+            "The debate was hosted by NBC News.",
+            "(Additional reporting by Alana Wise and Luciana Lopez; Writing by Steve Holland and John Whitesides; Editing by Mary Milliken and Jonathan Oatis) SAP is the sponsor of this coverage which is independently produced by the staff of Reuters News Agency."
+        ],
+        "tf-idf score": [
+            0.5569964599387698,
+            0.2642083338146002,
+            0.1589889932253655
+        ]
+    },
+    "0.2136891482644768-3-89": {
+        "average clique similarity": 0.2136891482644768,
+        "clique": [
+            "3- The comments that S",
+            "4-Clinton said she wou",
+            "1-Later  when Sanders "
+        ],
+        "median tf-idf score": 1.0741253968761144,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201dThe comments that Sen. Sanders has made,\u201d said Clinton, \u201d[they] don\u2019t just affect me, I can take that, but he\u2019s criticized President Obama for taking donations from Wall Street, and President Obama has led our country out of the Great Recession\u201d.",
+            "Clinton said she would build on Obama\u2019s agenda, accusing Sanders of voting to deregulate the financial market in 2000 in a way that led to the central causes of the financial collapse of 2008 that pitched the U S economy into a deep recession.",
+            "Later, when Sanders argued she was too close to Wall Street, Clinton replied that she could take the heat but that she would not brook Sanders criticizing the   financial reforms that Obama championed and signed into law."
+        ],
+        "tf-idf score": [
+            1.2341043511570968,
+            0.9911679429255428,
+            1.0741253968761144
+        ]
+    },
+    "0.21643508671862646-4-249": {
+        "average clique similarity": 0.21643508671862646,
+        "clique": [
+            "0-The Iowa caucuses ar",
+            "2-The Democrats  Leftw",
+            "4-Sanders has pulled i",
+            "1-But with the Iowa ca"
+        ],
+        "median tf-idf score": 0.7010660647386252,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "National Review",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The Iowa caucuses are Feb. 1.",
+            "The Democrats\u2019 Leftward MarchCompounding the anxiety are the similarities to Clinton\u2019s last foray into Iowa.",
+            "Sanders has pulled into a statistical tie with Clinton in recent polls in Iowa, whose caucuses are the first contest in the race to pick a nominee for the November election.",
+            "But with the Iowa caucuses just a couple weeks away and the polls looking tight, Sanders and Clinton are discovering that maybe the Republicans are on to something: Internecine warfare might just have some virtues."
+        ],
+        "tf-idf score": [
+            0.1574826917271552,
+            0.4659137142796917,
+            1.0930243956222059,
+            0.9362184151975588
+        ]
+    },
+    "0.22085361525449732-3-529": {
+        "average clique similarity": 0.22085361525449732,
+        "clique": [
+            "1-Expect that to come ",
+            "0-  Clinton and Sander",
+            "4-The debate was held "
+        ],
+        "median tf-idf score": 0.8581561267324864,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Expect that to come up, especially from Clinton, who on Sunday accused Sanders of   on gun control.",
+            "\u201d Clinton and Sanders also clashed over gun control, with Clinton accusing Sanders of siding with the gun lobby and only recently reversing his stance on a key piece of gun legislation.",
+            "The debate was held across the street from the Charleston church where a white gunman killed nine black worshippers in June, and Clinton made reference to the incident while accusing Sanders of being weak on gun control."
+        ],
+        "tf-idf score": [
+            0.8115041539700922,
+            0.8581561267324864,
+            1.1417583266500093
+        ]
+    },
+    "0.2216644382224046-3-524": {
+        "average clique similarity": 0.2216644382224046,
+        "clique": [
+            "3-She also continues t",
+            "4-He also leads Clinto",
+            "2-Maybe we re ahead in"
+        ],
+        "median tf-idf score": 0.29777853647985836,
+        "publications": [
+            "Reuters",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "She also continues to trail in polls in New Hampshire, which will hold a primary on Feb. 9.",
+            "He also leads Clinton in the next state to vote, Vermont neighbor New Hampshire, on Feb. 9, according to polls.",
+            "Maybe we\u2019re ahead in New Hampshire."
+        ],
+        "tf-idf score": [
+            0.29777853647985836,
+            0.692623893156868,
+            0.18352942342398815
+        ]
+    },
+    "0.223039117085417-3-177": {
+        "average clique similarity": 0.223039117085417,
+        "clique": [
+            "0-  He said he wants t",
+            "3-Sanders said he woul",
+            "4-Sanders said he want"
+        ],
+        "median tf-idf score": 0.6321517505514901,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d He said he wants to move to \u201cMedicare for all\u201d in order to provide health care \u201cas a right\u201d and extend insurance to the millions who still don\u2019t have it.",
+            "Sanders said he would be replacing existing government programs and private insurance with what Franklin D Roosevelt had wanted: \u201dhealth care for every man, woman and child as a right\u201d.",
+            "Sanders said he wanted to build on the Obama law by making health insurance more affordable."
+        ],
+        "tf-idf score": [
+            0.30182254008957465,
+            0.6321517505514901,
+            0.6586957603054021
+        ]
+    },
+    "0.23958694588614904-3-407": {
+        "average clique similarity": 0.23958694588614904,
+        "clique": [
+            "3-Clinton has a lead o",
+            "1-Earlier this week  a",
+            "0-While Clinton mainta"
+        ],
+        "median tf-idf score": 1.1280309063524743,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Clinton has a lead of four points when all Iowa polls are averaged, while Sanders has a   advantage by the same measure in New Hampshire.",
+            "Earlier this week, a Monmouth University poll showed him with a   lead in New Hampshire, while a Quinnipiac poll found him holding onto his lead in Iowa, up five points among likely   in Iowa.",
+            "While Clinton maintains her lead both nationally and in vital   southern states, Sanders has been closing the gap in Iowa and currently leads in most polls in New Hampshire  \u2014   which votes Feb. 9."
+        ],
+        "tf-idf score": [
+            1.1280309063524743,
+            0.4778648780277782,
+            1.2375685651023345
+        ]
+    },
+    "0.24600057116090177-3-53": {
+        "average clique similarity": 0.24600057116090177,
+        "clique": [
+            "1-The split over healt",
+            "4-The debate followed ",
+            "3-The candidates noted"
+        ],
+        "median tf-idf score": 0.1981422054519673,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The split over health care is a microcosm of the difference between the two candidates.",
+            "The debate followed a week of rising tension between the two leading candidates.",
+            "The candidates noted that several individuals with dual   citizenship who faced prison terms in Iran had been released over the weekend after 14 months of negotiations between the two countries."
+        ],
+        "tf-idf score": [
+            0.16703934852574584,
+            0.2587232574435214,
+            0.1981422054519673
+        ]
+    },
+    "0.28665818437069335-3-190": {
+        "average clique similarity": 0.28665818437069335,
+        "clique": [
+            "1-  Clinton has critic",
+            "4-HEALTHCARE SPAT Clin",
+            "2-Clinton called Sande"
+        ],
+        "median tf-idf score": 1.016566027328655,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "National Review"
+        ],
+        "sentences": [
+            "\u201d Clinton has criticized Sanders for not disclosing how he\u2019d pay for the program.",
+            "HEALTHCARE SPAT Clinton pounced on Sanders\u2019 \u201d  \u201d plan that was announced just hours before the debate after Clinton had criticized Sanders for refusing to explain how he would pay for the proposal.",
+            "Clinton called Sanders \u201ca pretty reliable vote for the gun lobby\u201d on Wednesday, the same day her campaign held a conference call slamming Sanders for refusing to detail how he\u2019d fund his \u201cMedicare for all\u201d proposal, and the day after her daughter Chelsea claimed that Sanders wanted to \u201cdismantle Obamacare."
+        ],
+        "tf-idf score": [
+            0.7642199259262694,
+            1.016566027328655,
+            1.0351919466354325
+        ]
+    },
+    "0.28854832123623564-4-21": {
+        "average clique similarity": 0.28854832123623564,
+        "clique": [
+            "2- Secretary Clinton k",
+            "3- He voted for immuni",
+            "0- He has voted with t",
+            "1- I have made it clea"
+        ],
+        "median tf-idf score": 0.7259320059928898,
+        "publications": [
+            "National Review",
+            "Fox News",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cSecretary Clinton knows what she says is very disingenuous,\u201d he said in response to her claim that he votes with the NRA He called her allegation that he plans to dismantle Obamacare \u201cnonsense  \u2014   no one is tearing this up, we are going to go forward.",
+            "\u201dHe voted for immunity from gun makers and sellers which the NRA said was the most important piece of gun legislation in 20 years,\u201d said Clinton.",
+            "\u201cHe has voted with the NRA, with the gun lobby numerous times,\u201d Clinton said.",
+            "\u201cI have made it clear, based on Senator Sanders\u2019s own record that he has voted with the NRA, with the gun lobby numerous times,\u201d she said, with a long list of votes he had cast."
+        ],
+        "tf-idf score": [
+            0.740278726966515,
+            0.7115852850192644,
+            0.6846181600731366,
+            0.8356064361482625
+        ]
+    },
+    "0.3019904315410252-3-316": {
+        "average clique similarity": 0.3019904315410252,
+        "clique": [
+            "1-It was a Sunday nigh",
+            "4- Democratic White Ho",
+            "0- Hillary Clinton sha"
+        ],
+        "median tf-idf score": 1.321210142986017,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "It was a Sunday night fight for Democrats in Charleston, South Carolina as Hillary Clinton and Bernie Sanders slugged it out on a series of issues in the party\u2019s final presidential debate before the Iowa caucuses.",
+            " Democratic White House candidate Bernie Sanders went on the offensive against   Hillary Clinton on Sunday in the most contentious of their four presidential debates, accusing her of cozying up to Wall Street and misrepresenting his stance on healthcare and guns.",
+            " Hillary Clinton sharpened her attacks on insurgent rival Bernie Sanders Sunday night at the final Democratic presidential debate before the Iowa caucuses, accusing him of trying to \u201ctear up\u201d ObamaCare and siding with the gun lobby  \u2014   as Sanders denied the claims and said he\u2019s the candidate with the \u201cmomentum\u201d in the race."
+        ],
+        "tf-idf score": [
+            1.321210142986017,
+            1.2787003584221353,
+            1.6183064853836961
+        ]
+    },
+    "0.3319366052223196-3-156": {
+        "average clique similarity": 0.3319366052223196,
+        "clique": [
+            "1-This is the subtext ",
+            "0-As for the existing ",
+            "4- But the fact is we "
+        ],
+        "median tf-idf score": 0.27574569505351365,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "Fox News"
+        ],
+        "sentences": [
+            "This is the subtext of her defense of the Affordable Care Act against Sanders\u2019s critiques.",
+            "As for the existing law, he said, \u201cWe\u2019re not going to tear up the Affordable Care Act    I helped write it.",
+            "\u201dBut the fact is we have the Affordable Care Act."
+        ],
+        "tf-idf score": [
+            0.41145941426268484,
+            0.27574569505351365,
+            0.08577100780702256
+        ]
+    },
+    "0.3860563812386448-3-176": {
+        "average clique similarity": 0.3860563812386448,
+        "clique": [
+            "2- As Secretary Clinto",
+            "0-  The two   rivals  ",
+            "3-Sanders found a mome"
+        ],
+        "median tf-idf score": 0.7219409598395161,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "National Review"
+        ],
+        "sentences": [
+            "\u201cAs Secretary Clinton well knows, when this campaign began she was 50 points ahead of me,\u201d he said.",
+            "\u201d The two   rivals, as well as former Maryland Gov.",
+            "Sanders found a moment to crow about this: \u201dAs Secretary Clinton well knows, when this campaign began she was 50 points ahead of me."
+        ],
+        "tf-idf score": [
+            0.7219409598395161,
+            0.034628289196718856,
+            0.9403626476774184
+        ]
+    },
+    "0.39245626999293964-3-442": {
+        "average clique similarity": 0.39245626999293964,
+        "clique": [
+            "4- Guess what  In Iowa",
+            "0- In Iowa  New Hampsh",
+            "3-Said Sanders in repl"
+        ],
+        "median tf-idf score": 0.74914461922893,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dGuess what: In Iowa, New Hampshire, the race is (now) very, very close,\u201d Sanders said.",
+            "\u201cIn Iowa, New Hampshire, the race is very, very close,\u201d he said, adding, \u201cWe have the momentum.",
+            "Said Sanders in reply, \u201dI think Secretary Clinton knows that what she says is very disingenuous,\u201d adding that he only had \u201da   rating from the NRA\u201d so he couldn\u2019t be that good a friend."
+        ],
+        "tf-idf score": [
+            0.74914461922893,
+            0.4538669221958467,
+            0.8949557597025081
+        ]
+    },
+    "0.4049103050347149-3-468": {
+        "average clique similarity": 0.4049103050347149,
+        "clique": [
+            "3- When the   communit",
+            "1-It is already causin",
+            "2- When the   communit"
+        ],
+        "median tf-idf score": 0.6172593175915861,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "National Review"
+        ],
+        "sentences": [
+            "\u201dWhen the   community becomes familiar with my congressional record,\u201d said Sanders, \u201dand with our agenda, and with our views on the economy, and criminal justice  \u2014   just as the general population has become more supportive, so will the   community, so will the Latino community\u201d.",
+            "It is already causing major problems, and if we don\u2019t move quickly and decisively, a bad situation will become worse.",
+            "\u201cWhen the   community becomes familiar with my congressional record and with our agenda, and with our views on the economy, and criminal justice  \u2014   just as the general population has become more supportive so will the   community, so will the Latino community,\u201d Sanders promised."
+        ],
+        "tf-idf score": [
+            0.721404359239856,
+            0.059866241326536895,
+            0.6172593175915861
+        ]
+    },
+    "0.4427475577887175-3-59": {
+        "average clique similarity": 0.4427475577887175,
+        "clique": [
+            "1-Clinton also tried t",
+            "4- Senator Sanders cal",
+            "3- He even  in 2011  p"
+        ],
+        "median tf-idf score": 0.6114558099953995,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Clinton also tried to portray Sanders as an enemy of Obama elsewhere, mentioning his suggestion in 2011 that the president have a primary challenge.",
+            "\u201dSenator Sanders called him weak, disappointing, he even in 2011 publicly sought someone to run in a primary against President Obama\u201d.",
+            "\u201dHe even, in 2011, publicly sought someone to run in a primary against President Obama\u201d."
+        ],
+        "tf-idf score": [
+            0.8237577137515493,
+            0.6114558099953995,
+            0.20325103223886906
+        ]
+    }
+}

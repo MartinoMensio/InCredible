@@ -1,0 +1,906 @@
+{
+    "0.1387768499787646-3-47": {
+        "average clique similarity": 0.1387768499787646,
+        "clique": [
+            "4-He remained in the m",
+            "3-Glenn  who was marri",
+            "2-The determination an"
+        ],
+        "median tf-idf score": 0.5967826189284451,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "He remained in the military through the 1950s, testing supersonic aircraft and other military models. In all, he earned the Distinguished Flying Cross five times.",
+            "Glenn, who was married to his wife, Annie, for 73 years, earned a treasure trove of honors and medals during his military, aviation and political career.",
+            "The determination and   that marked Glenn's military and space career did not save him from misjudgments and defeat in politics."
+        ],
+        "tf-idf score": [
+            0.17181193229094577,
+            0.9139482581501829,
+            0.5967826189284451
+        ]
+    },
+    "0.15036389345226947-3-347": {
+        "average clique similarity": 0.15036389345226947,
+        "clique": [
+            "2- VIEW IS TREMENDOUS ",
+            "3-In 1959  Glenn wrote",
+            "4-Any trip to space is"
+        ],
+        "median tf-idf score": 0.8142906005354332,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "'VIEW IS TREMENDOUS' \"  (gravity) and I feel fine,\" was Glenn's succinct assessment of weightlessness several minutes into his mission. \"Oh, and that view is tremendous\".",
+            "In 1959, Glenn wrote in Life magazine: \"Space travel is at the frontier of my profession. It is going to be accomplished, and I want to be in on it. There is also an element of simple duty involved. I am convinced that I have something to give this project. \"",
+            "Any trip to space is risky, and Glenn's mission was no exception."
+        ],
+        "tf-idf score": [
+            0.8142906005354332,
+            0.6679970590239879,
+            0.8692209522277573
+        ]
+    },
+    "0.15375961038144903-4-231": {
+        "average clique similarity": 0.15375961038144903,
+        "clique": [
+            "4- So there were some ",
+            "2-After splashdown and",
+            "0-He was greeted upon ",
+            "1-Shortly after landin"
+        ],
+        "median tf-idf score": 0.7802547804983049,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\"So there were some moments of doubt there as to whether the heat shield had been damaged and whether it might be tearing up itself. And this . .. this could have been a bad day all the way around if this had been the case\". After the flight, he became a national hero. He befriended President John F Kennedy and received a   parade in New York City.",
+            "After splashdown and recovery in the Atlantic, Glenn was treated as a hero, addressing a joint session of Congress and feted in a New York   parade.",
+            "He was greeted upon his return by President John F Kennedy and Vice President Lyndon B Johnson. After an estimated 1 million spectators crowded the streets of Washington, Mr Glenn insisted that the other six Mercury astronauts join him for a parade before 4 million people in New York.",
+            "Shortly after landing, Glenn was honored with an enormous ticker tape parade in New York City on March 1, 1962."
+        ],
+        "tf-idf score": [
+            0.5253912609242535,
+            0.7998321813749788,
+            1.186370404113456,
+            0.7606773796216308
+        ]
+    },
+    "0.1559130444717942-3-111": {
+        "average clique similarity": 0.1559130444717942,
+        "clique": [
+            "2- When John Glenn bla",
+            "0-As Friendship 7 was ",
+            "3-Glenn in later years"
+        ],
+        "median tf-idf score": 0.9997704914250114,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"When John Glenn blasted off from Cape Canaveral atop an Atlas rocket in 1962, he lifted the hopes of a nation,\" Obama said in a statement. \"And when his Friendship 7 spacecraft splashed down a few hours later, the first American to orbit the Earth reminded us that with courage and a spirit of discovery there's no limit to the heights we can reach together\".",
+            "As Friendship 7 was descending, all radio contact was lost. Shepard, acting as \"capsule communicator\" from Cape Canaveral, tried to reach Mr Glenn in his spacecraft, saying, \"How do you read? Over. \"",
+            "Glenn in later years regaled crowds with stories of NASA's testing of   astronauts, from psychological tests  --   come up with 20 answers to the   question \"I am\"  --   to surviving spinning that pushed 16 times normal gravity against his body, popping blood vessels. But it wasn't nearly as bad as coming to Cape Canaveral to see the first unmanned rocket test."
+        ],
+        "tf-idf score": [
+            1.0386144222867137,
+            0.9997704914250114,
+            0.8839076583664787
+        ]
+    },
+    "0.15955796167711553-3-57": {
+        "average clique similarity": 0.15955796167711553,
+        "clique": [
+            "4-A few minutes after ",
+            "3-You ve trained very ",
+            "1-A fascination with f"
+        ],
+        "median tf-idf score": 0.6044097187936163,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "A few minutes after liftoff, Glenn's Friendship 7 capsule reached orbit.",
+            "You've trained very hard for those flights. \" Glenn's ride in the cramped Friendship 7 capsule had its scary moments, however.",
+            "A fascination with flight, John Herschel Glenn Jr made history in 1962 when he completed a   flight in a cramped space capsule dubbed Friendship 7."
+        ],
+        "tf-idf score": [
+            0.5466603986614263,
+            0.6044097187936163,
+            0.8660418217791647
+        ]
+    },
+    "0.16265596543754-3-467": {
+        "average clique similarity": 0.16265596543754,
+        "clique": [
+            "1-Political career  Gl",
+            "0-When Metzenbaum ran ",
+            "4-Glenn campaigned in "
+        ],
+        "median tf-idf score": 0.6183941251172154,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Political career, Glenn's fame made him a natural candidate for political office, and shortly after his resignation from NASA, he announced he would run for the Democratic ticket for a US Senate seat in 1964.",
+            "When Metzenbaum ran for a full Senate term that year, Mr Glenn challenged him again in the primary.",
+            "Glenn campaigned in the Democratic primary for the 1984 presidential election, but ended up losing to Mondale. But he remained in the Senate, serving four   terms."
+        ],
+        "tf-idf score": [
+            0.6183941251172154,
+            0.6230257144908055,
+            0.5430162191531408
+        ]
+    },
+    "0.16856893207901744-3-80": {
+        "average clique similarity": 0.16856893207901744,
+        "clique": [
+            "3- We re watching this",
+            "0- When Bob died  I ha",
+            "2- I don t think of my"
+        ],
+        "median tf-idf score": 0.8372746654753389,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"We're watching this thing go up and up and up   ...     and all at once it blew up right over us, and that was our introduction to the Atlas,\" Glenn said in 2011. \"We looked at each other and wanted to have a meeting with the engineers in the morning. \"",
+            "\"When Bob died, I had to sit on the edge of the bed as each child was waking up and tell them their dad was not coming home,\" Mr Glenn told a Muskingum audience in 1997.",
+            "\"I don't think of myself that way,\" Glenn told the New York Times in 2012 to mark the 50th anniversary of his flight. \"I get up each day and have the same problems others have at my age. As far as trying to analyze all the attention I received, I will leave that to others\"."
+        ],
+        "tf-idf score": [
+            0.8372746654753389,
+            0.8598187712429152,
+            0.6977426101611833
+        ]
+    },
+    "0.17055325645836472-3-284": {
+        "average clique similarity": 0.17055325645836472,
+        "clique": [
+            "1-After a failed bid f",
+            "2-He was the author of",
+            "0-A senator in space O"
+        ],
+        "median tf-idf score": 0.9823941647042181,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "After a failed bid for a US Senate seat in 1970, Glenn won in 1974, beginning a   career representing Ohio on Capitol Hill. He was widely regarded as an effective legislator and moderate Democrat. He played a key role in weapons control, authoring the Nuclear Nonproliferation Act of 1978, which prohibited the sale of nuclear equipment to nations that currently have none.",
+            "He was the author of a law that forced the United States to impose sanctions on India and Pakistan in 1998 after both countries conducted nuclear tests. He also was a staunch advocate of a strong military and took a keen interest in strategic issues.",
+            "A senator in space On Capitol Hill, Mr Glenn was a strong supporter of the military and an authority on intelligence issues."
+        ],
+        "tf-idf score": [
+            1.0026378973936145,
+            0.5419856494546508,
+            0.9823941647042181
+        ]
+    },
+    "0.17781817401031397-3-306": {
+        "average clique similarity": 0.17781817401031397,
+        "clique": [
+            "1- Who knows what migh",
+            "3- I still can sort of",
+            "0-His return to space "
+        ],
+        "median tf-idf score": 0.7056811683557846,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"Who knows what might have happened if Bobby had been president,\" Glenn reflected shortly after his 90th birthday, in a 2011 interview with the Dayton Daily News. \"I know he had just about more compassion for the underdog, for the poor, the downtrodden than, I think, just about anybody that I ever knew\".",
+            "\"I still can sort of   some of those same sensations I had back in those days during launch and all. \" Glenn said he was often asked if he was afraid, and he replied, \"If you are talking about fear that overcomes what you are supposed to do, no.",
+            "His return to space was a reminder of what he had accomplished more than three decades earlier, when he soared into the heavens and gave renewed hope to a grateful nation. \"People are afraid of the future, of the unknown,\" he said in 1962. \"If a man faces up to it and takes the dare of the future, he can have some control over his destiny. \""
+        ],
+        "tf-idf score": [
+            0.5307355990356196,
+            0.834063329993101,
+            0.7056811683557846
+        ]
+    },
+    "0.17907512552578164-3-371": {
+        "average clique similarity": 0.17907512552578164,
+        "clique": [
+            "4-In 1958 he was one o",
+            "2-Glenn was credited w",
+            "1-It was a psychologic"
+        ],
+        "median tf-idf score": 0.5779529178953993,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "In 1958 he was one of 508 pilots tested for what became the Mercury program, an accelerated response to the Soviet Union's successful launch of the first satellite in 1957.",
+            "Glenn was credited with reviving U S pride after the Soviet Union's early domination of manned space exploration.",
+            "It was a psychological boost to a nation worried about the Soviet Union's early lead in the space race."
+        ],
+        "tf-idf score": [
+            0.4990019695541142,
+            0.9069024584551624,
+            0.5779529178953993
+        ]
+    },
+    "0.18105662065714404-3-19": {
+        "average clique similarity": 0.18105662065714404,
+        "clique": [
+            "4-A pioneer once again",
+            "2-As the third of seve",
+            "1-On October 29  1998 "
+        ],
+        "median tf-idf score": 0.991136573229319,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "A pioneer once again, But as his political career was ending, he wanted to go back into space. In 1998, he lobbied NASA to fly again.",
+            "As the third of seven astronauts in NASA's   Mercury program to venture into space, Glenn became more of a media fixture than the others and was known for his composure and willingness to promote the program.",
+            "On October 29, 1998, Glenn became the oldest human ever to venture into space, and his flight proved once again that he was a man who embraced a challenge. For most men and women, fame is fleeting and greatness is  ."
+        ],
+        "tf-idf score": [
+            0.5856846896839594,
+            1.1109662431434812,
+            0.991136573229319
+        ]
+    },
+    "0.18169968037716785-3-291": {
+        "average clique similarity": 0.18169968037716785,
+        "clique": [
+            "3-And as a test pilot ",
+            "1-That adventure seale",
+            "0-At Muskingum College"
+        ],
+        "median tf-idf score": 0.7740604923197476,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "And as a test pilot, he broke aviation records. The   telegenic Marine even won $25, 000 on the game show \"Name That Tune\" with a    partner. And that was before April 6, 1959, when his life changed by being selected as one of the Mercury 7 astronauts and he instantly started attracting more than his share of the spotlight.",
+            "That adventure sealed his destiny as a pilot. He also developed an early love for childhood playmate Anna Margaret Castor. By the time they got to high school, they were sweethearts. Both were in Muskingum College in New Concord, his mother's alma mater, when Japanese forces attacked Pearl Harbor on December 7, 1941. A short time later, Glenn enrolled in the Naval Aviation Cadet Program and graduated the following March.",
+            "At Muskingum College in New Concord, he was a reserve center on the football team. He took flying lessons in his teens and left college early in 1942 to enter a Navy pilot training program before transferring to the aviation branch of the Marine Corps. On April 6, 1943, he married Anna \"Annie\" Castor, whom he had known since childhood."
+        ],
+        "tf-idf score": [
+            0.7740604923197476,
+            0.884383026078934,
+            0.6942427612733892
+        ]
+    },
+    "0.18352905290020008-3-59": {
+        "average clique similarity": 0.18352905290020008,
+        "clique": [
+            "2-His failure was all ",
+            "4-During his Senate ca",
+            "1-Defense of its ideal"
+        ],
+        "median tf-idf score": 0.6836841894936839,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "His failure was all the more stinging because he had been touted as an early  . In the Senate, Glenn was respected as a thoughtful moderate with expertise in defense and foreign policy.",
+            "During his Senate career he was noted for his attention to NASA and to national defense.",
+            "Defense of its ideals was an obligation,\" Glenn wrote in his memoir."
+        ],
+        "tf-idf score": [
+            0.7973280303561299,
+            0.4671224040977065,
+            0.6836841894936839
+        ]
+    },
+    "0.1846524939442897-3-72": {
+        "average clique similarity": 0.1846524939442897,
+        "clique": [
+            "3- John Glenn is  and ",
+            "0- John always had the",
+            "1-John always had the "
+        ],
+        "median tf-idf score": 0.6722687967482813,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"John Glenn is, and always will be, Ohio's ultimate hometown hero, and his passing today is an occasion for all of us to grieve,\" said Ohio Gov.",
+            "\"John always had the right stuff,\" President Obama said in a statement, adding that Mr Glenn \"reminded us that with courage and a spirit of discovery there's no limit to the heights we can reach together. \"",
+            "John always had the right stuff, inspiring generations of scientists, engineers and astronauts who will take us to Mars and beyond    not just to visit, but to stay. .. \"The last of America's first astronauts has left us, but propelled by their example we know that our future here on Earth compels us to keep reaching for the heavens\"."
+        ],
+        "tf-idf score": [
+            0.6722687967482813,
+            0.8300150637228295,
+            0.41228369429711814
+        ]
+    },
+    "0.18912586430133194-3-385": {
+        "average clique similarity": 0.18912586430133194,
+        "clique": [
+            "0-Encouraged by the Ke",
+            "2-He lost his first bi",
+            "1-Glenn resigned from "
+        ],
+        "median tf-idf score": 0.6073095799372096,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Encouraged by the Kennedy family, Mr Glenn resigned from the astronaut corps in 1964 to run for the U S Senate in Ohio. He dropped out after slipping on a rug and striking his head on a bathtub, resulting in   problems that required extensive medical treatment.",
+            "He lost his first bid for the Senate from Ohio in 1970, after abandoning a race in 1964 because of a head injury suffered in a fall. He was elected in 1974 and was briefly considered as a running mate for Democratic presidential candidate Jimmy Carter in 1980.",
+            "Glenn resigned from the space agency in January 1964."
+        ],
+        "tf-idf score": [
+            0.7901763686558643,
+            0.6073095799372096,
+            0.5184932876304956
+        ]
+    },
+    "0.19364237744972426-3-39": {
+        "average clique similarity": 0.19364237744972426,
+        "clique": [
+            "3-After two suborbital",
+            "0-Not all of the astro",
+            "4-  French says Glenn "
+        ],
+        "median tf-idf score": 0.9142978664532887,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "After two suborbital flights by Alan Shepard Jr and Gus Grissom, it was up to Glenn to be the first American to orbit the Earth.",
+            "Not all of the astronauts were pleased with Mr Glenn's righteousness, however, and Shepard told him to mind his own business. \"His moralizing led to colorful and heated exchanges among the pilots, and it wasn't pleasant banter,\" Shepard and Slayton wrote in their 1995 book, \"Moon Shot. \" When the astronauts voted among themselves to confer the honor of being the first American in space, they chose Shepard.",
+            "\" French says Glenn was \"exactly at the right place at the right time for when America needed somebody to not only become the first American to orbit the Earth but to actually project what it meant for America to put a person into space\"."
+        ],
+        "tf-idf score": [
+            0.9142978664532887,
+            0.9029436887766366,
+            1.0891360469370677
+        ]
+    },
+    "0.19437939720410605-3-139": {
+        "average clique similarity": 0.19437939720410605,
+        "clique": [
+            "1-More than 20 years a",
+            "4-The president said  ",
+            "2-Glenn s experiences "
+        ],
+        "median tf-idf score": 0.48889459557236203,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "More than 20 years after their historic missions, the team was immortalized in the 1983 movie \"The Right Stuff\".",
+            "The president said, \"John always had the right stuff, inspiring generations of scientists, engineers and astronauts.",
+            "Glenn's experiences as a pioneer astronaut were chronicled in the book and movie \"The Right Stuff,\" along with the other Mercury pilots."
+        ],
+        "tf-idf score": [
+            0.48889459557236203,
+            0.3520254234782921,
+            0.617293027622463
+        ]
+    },
+    "0.19831945281940747-3-322": {
+        "average clique similarity": 0.19831945281940747,
+        "clique": [
+            "1-He was also a close ",
+            "0- Mr Glenn was    1  ",
+            "2-Glenn s historic fli"
+        ],
+        "median tf-idf score": 0.8712567691611542,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "He was also a close friend of the Kennedy family. On June 5, 1968, Glenn was with Sen. Robert Kennedy at the Ambassador Hotel in Los Angeles, hours before Kennedy was shot by Sirhan Sirhan. Kennedy died the next day.",
+            "(Mr Glenn was    1   2.) With their courage and   the Mercury astronauts embodied the spirit of the \"New Frontier\" espoused by Kennedy, and Mr Glenn became friends with the youthful president and his brother Robert F Kennedy, the attorney general.",
+            "Glenn's historic flight made him a favorite of President John F Kennedy and his brother Robert, who encouraged him to launch a political career that finally took off after a period as a businessman made him a millionaire."
+        ],
+        "tf-idf score": [
+            0.8712567691611542,
+            1.0554290811012335,
+            0.7447454788129594
+        ]
+    },
+    "0.20246160417015105-3-315": {
+        "average clique similarity": 0.20246160417015105,
+        "clique": [
+            "3-John Kasich about th",
+            "1-  CNN  John Glenn   ",
+            "0- John Glenn  who cap"
+        ],
+        "median tf-idf score": 1.054617692215661,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "John Kasich about the first man to orbit the Earth in space. \"As we bow our heads and share our grief with his beloved wife, Annie, we must also turn to the skies, to salute his remarkable journeys and his long years of service to our state and nation.",
+            " (CNN) John Glenn,  the first American to orbit the Earth and a longtime US senator, died Thursday, according to the Ohio State University. He was 95.",
+            " John Glenn, who captured the nation's attention in 1962 as the first American to orbit the Earth during a tense time when the United States sought supremacy over the Soviet Union in the space race, and who rocketed back into space 36 years later, becoming the oldest astronaut in history, died Dec. 8 at a hospital in Columbus, Ohio."
+        ],
+        "tf-idf score": [
+            0.6330712660649098,
+            1.054617692215661,
+            1.236697254929289
+        ]
+    },
+    "0.20960660389017224-3-467": {
+        "average clique similarity": 0.20960660389017224,
+        "clique": [
+            "1-  he said in a 1998 ",
+            "4-And so      you made",
+            "0-When he splashed dow"
+        ],
+        "median tf-idf score": 0.4736960286847134,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\" he said in a 1998 CNN interview. \"And the standard answer was, 'How do you think you'd feel if you knew you were on top of 2 million parts built by the lowest bidder on a government contract?'",
+            "And so . .. you made it as safe as you possibly could, and what little bit of risk was left, we accepted that\".",
+            "When he splashed down in the Atlantic Ocean after 4 hours 56 minutes aloft, Mr Glenn emerged as an almost mythic figure who had scaled heights no American had reached before. \"I was fully aware of the danger,\" he said in 1968. \"No matter what preparation you make, there comes the moment of truth. You're playing with big stakes  --   your life. But the important thing to me wasn't fear but what you can do to control it. \""
+        ],
+        "tf-idf score": [
+            0.4736960286847134,
+            0.3438837086091631,
+            1.082597204736481
+        ]
+    },
+    "0.21486012949870592-3-467": {
+        "average clique similarity": 0.21486012949870592,
+        "clique": [
+            "1-He later served for ",
+            "0-In 1996  he set a fl",
+            "2-He was 77 when he bl"
+        ],
+        "median tf-idf score": 0.42129903347685227,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "He later served for nearly a quarter century as a US senator. In 1998, he returned to space at age 77, becoming the oldest person to ever do so.",
+            "In 1996, he set a flying record by piloting a   plane from Dayton, Ohio, to Washington in 1 hour, 36 minutes. When Mr Glenn was named to the crew of the space shuttle Discovery, skeptics said NASA was awarding him a vanity flight to make him, at 77, the oldest person ever to go into space.",
+            "He was 77 when he blasted off as a mission specialist aboard the shuttle Discovery."
+        ],
+        "tf-idf score": [
+            0.2879380150117938,
+            1.3766569243910391,
+            0.42129903347685227
+        ]
+    },
+    "0.22181500762731354-3-63": {
+        "average clique similarity": 0.22181500762731354,
+        "clique": [
+            "3-But his career was a",
+            "0-He sponsored bills t",
+            "2-His luster was dulle"
+        ],
+        "median tf-idf score": 0.9955364757253583,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But his career was also touched by controversy, as he was one of the five US senators ensnared in the Lincoln Savings & Loan and Keating Five scandal after pocketing a $200, 000 contribution from Charles Keating.",
+            "He sponsored bills to improve the safety of nursing homes, reduce government paperwork and limit nuclear proliferation. As chairman of the Governmental Affairs Committee from 1988 to 1994, he helped create the Department of Veterans Affairs. In the late 1980s, Mr Glenn's political action committee accepted a contribution from financier Charles H Keating Jr who was at the center of a nationwide    scandal.",
+            "His luster was dulled, however, by a Senate investigation of the \"Keating Five\"   five senators suspected of doing favors for campaign contributor Charles Keating Jr The panel eventually found Glenn did nothing improper or illegal. BACK TO SPACE He took a leading role in seeking to prevent the spread of nuclear weapons, especially to Pakistan."
+        ],
+        "tf-idf score": [
+            0.464164743399149,
+            0.9955364757253583,
+            1.1119479044780811
+        ]
+    },
+    "0.22597214077355823-4-422": {
+        "average clique similarity": 0.22597214077355823,
+        "clique": [
+            "3-In 1998  at the age ",
+            "4-He would later have ",
+            "1-At age 77  a year af",
+            "0-Revered for his hero"
+        ],
+        "median tf-idf score": 0.922185478952182,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "In 1998, at the age of 77, he went back up, becoming the oldest man to travel in space as a crew member of the shuttle Discovery. \"To look out at this kind of creation out here and not believe in God is to me impossible,\" he said of the experience. That adventure came during the final year of his fourth term in the US Senate, the capstone of a political career that also included a brief run for the Democratic presidential nomination in 1984.",
+            "He would later have a long political career as a U S senator, but that didn't stop his pioneering ways. Glenn made history a second time in 1998, when he flew aboard the shuttle Discovery to become the oldest person to fly in space.",
+            "At age 77, a year after retiring from the Senate, Glenn accepted an invitation from NASA to rejoin the space program as a member of space shuttle Discovery on a   mission to study the aging process, which mirrors what astronauts experience during long durations in space.",
+            "Revered for his heroism as an astronaut, Mr Glenn remained close to the space program long after leaving NASA In 1986, immediately after the explosion of the space shuttle Challenger, he made a   trip to Cape Canaveral to comfort the families of astronauts killed in the disaster. Every year, he sent the results of his physical exams to NASA, just in case. At 75, he could still do 75  ."
+        ],
+        "tf-idf score": [
+            0.7546809075231168,
+            0.8723556843970729,
+            0.9720152735072909,
+            0.9900826298445342
+        ]
+    },
+    "0.23463202654998294-3-459": {
+        "average clique similarity": 0.23463202654998294,
+        "clique": [
+            "4-Two years later  Gle",
+            "2-Glenn sought the Dem",
+            "0-After he was elected"
+        ],
+        "median tf-idf score": 0.903642696563909,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Two years later, Glenn's name was among those mentioned as a running mate for Democratic presidential nominee Jimmy Carter, but Carter ended up picking Sen. Walter Mondale of Minnesota.",
+            "Glenn sought the Democratic presidential nomination himself in 1984 but was quickly eliminated by eventual nominee Walter Mondale, Carter's vice president.",
+            "After he was elected to the U S Senate from Ohio in 1974, Mr Glenn served on Capitol Hill for 24 years and made a halfhearted run for the Democratic presidential nomination in 1984."
+        ],
+        "tf-idf score": [
+            0.903642696563909,
+            0.8263683449446511,
+            1.0454833978350102
+        ]
+    },
+    "0.244386713915538-3-181": {
+        "average clique similarity": 0.244386713915538,
+        "clique": [
+            "0- It was one of the h",
+            "4-He left NASA in 1964",
+            "1-Kennedy reportedly o"
+        ],
+        "median tf-idf score": 0.4198975263073125,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "\"It was one of the hardest things I ever did. \" He was a pallbearer at Robert Kennedy's funeral at Arlington National Cemetery and handed the flag from the coffin to Sen. Edward M Kennedy ( . ).",
+            "He left NASA in 1964. Later he would learn that at the time, NASA and Kennedy had deemed him too valuable to fly in space again.",
+            "Kennedy reportedly ordered NASA not to fly Glenn again because he was too valuable as a national figure."
+        ],
+        "tf-idf score": [
+            0.4198975263073125,
+            0.34186208336612306,
+            0.7961645900506342
+        ]
+    },
+    "0.2531470610868711-3-467": {
+        "average clique similarity": 0.2531470610868711,
+        "clique": [
+            "2-Glenn s astronaut ca",
+            "0-During World War II ",
+            "3-He was a fighter pil"
+        ],
+        "median tf-idf score": 0.7802650869145397,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "Glenn's astronaut career, as well as his record as a fighter pilot in World War Two and the Korean War, helped propel him to the U S Senate in 1974, where he represented his home state of Ohio for 24 years as a moderate Democrat.",
+            "During World War II, Mr Glenn flew 59 missions as a fighter pilot and took part in the Marshall Islands campaign in the Pacific.",
+            "He was a fighter pilot in World War II and Korea who flew low, got his plane riddled with bullets, flew with baseball great Ted Williams and earned macho nicknames during 149 combat missions."
+        ],
+        "tf-idf score": [
+            0.9371007774936534,
+            0.7802650869145397,
+            0.6890749329962937
+        ]
+    },
+    "0.2662876739991102-3-83": {
+        "average clique similarity": 0.2662876739991102,
+        "clique": [
+            "1-He flew a Vought   C",
+            "3-He broke the transco",
+            "2-After Korea  Glenn b"
+        ],
+        "median tf-idf score": 0.8758709408515447,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "He flew a Vought   Crusader from Los Angeles to New York in three hours and 23 minutes    the first transcontinental flight to average supersonic speed. With that feat, Glenn became known as one of the top test pilots in the United States and a natural candidate for the country's emerging space program.",
+            "He broke the transcontinental flight speed record as a pilot with the US Marines  --   and flew 149 combat missions in World War II and the Korean War. In 1962, with the US scrambling to catch up to the Soviet Union in the race for space, he became an American hero when he successfully orbited our planet  --   a feat accomplished a year earlier by Soviet cosmonaut Yuri Gagarin.",
+            "After Korea, Glenn became a test pilot, setting a transcontinental speed record from Los Angeles to New York in 1957."
+        ],
+        "tf-idf score": [
+            1.00418819444898,
+            0.8758709408515447,
+            0.5813433066644562
+        ]
+    },
+    "0.2773006401673171-4-65": {
+        "average clique similarity": 0.2773006401673171,
+        "clique": [
+            "3-They included the Di",
+            "1-Glenn    along with ",
+            "0-In 2012  Mr Glenn wa",
+            "2-President Barack Oba"
+        ],
+        "median tf-idf score": 0.8968222521592759,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "They included the Distinguished Flying Cross, the   Campaign Medal, the World War II Victory Medal, the Korean Service Medal, the Congressional Gold Medal, the Presidential Medal of Freedom and the Congressional Space Medal of Honor.",
+            "Glenn    along with fellow Mercury 7 astronauts Grissom and Shepard    was awarded the Congressional Space Medal of Honor in 1978 by   Jimmy Carter.",
+            "In 2012, Mr Glenn was awarded the Presidential Medal of Freedom, the nation's highest civilian honor. In addition to his wife, of Columbus and Bethesda, Md. survivors include two children, J David Glenn of Berkeley, Calif. and Carolyn \"Lyn\" Glenn of St. Paul, Minn.; and two grandsons.",
+            "President Barack Obama, who in 2012 awarded Glenn the nation's highest civilian honor, the Presidential Medal of Freedom, said: \"With John's passing, our nation has lost an icon\"."
+        ],
+        "tf-idf score": [
+            0.49532277857680224,
+            1.131869108196057,
+            0.9977387598625523,
+            0.7959057444559996
+        ]
+    },
+    "0.2785869016055873-3-300": {
+        "average clique similarity": 0.2785869016055873,
+        "clique": [
+            "0-Mr Glenn had a strok",
+            "1-Glenn had heart valv",
+            "2-He had a knee replac"
+        ],
+        "median tf-idf score": 0.7916639743864697,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Mr Glenn had a stroke after   replacement surgery in 2014, but the immediate cause was not announced.",
+            "Glenn had heart valve replacement surgery in 2014.",
+            "He had a knee replacement operation in 2011 and heart surgery in 2014. Glenn is survived by his wife of 73 years, his childhood sweetheart, Annie Castor. They had two children, David and Lyn. (Reporting by Will Dunham in Washington; Additional reporting by Irene Klotz in Cape Canaveral, Fla. and Ben Klayman in Detroit; Editing by Bill Trott and Peter Cooney) LONDON Move over   dolls, the sex robots are here. MOUNT ETNA, Italy A robot wheels across a rocky, windswept landscape that looks like the surface of some distant planet from a science fiction film."
+        ],
+        "tf-idf score": [
+            0.7916639743864697,
+            0.3903677949176301,
+            0.8395081913270177
+        ]
+    },
+    "0.28202862984478966-4-258": {
+        "average clique similarity": 0.28202862984478966,
+        "clique": [
+            "0-Mr Glenn s turn came",
+            "4-An early explorer  O",
+            "2-His three laps aroun",
+            "3-At the time of that "
+        ],
+        "median tf-idf score": 0.667123230406561,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "Mr Glenn's turn came on Feb. 20, 1962.",
+            "An early explorer, On Feb. 20, 1962, when John Glenn rocketed into space, it was momentous and  .",
+            "His three laps around the world in the Friendship 7 capsule on Feb. 20, 1962, forged a powerful link between the former fighter pilot and the   quest to explore outer space as a \"New Frontier\".",
+            "At the time of that Feb. 20, 1962, flight, Glenn was 40 years old."
+        ],
+        "tf-idf score": [
+            0.49496937537221897,
+            0.9477936851860467,
+            0.47415175369152684,
+            0.839277085440903
+        ]
+    },
+    "0.2836781655662241-3-467": {
+        "average clique similarity": 0.2836781655662241,
+        "clique": [
+            "0-He flew 149 combat m",
+            "1-He joined the Marine",
+            "4-A life in flight and"
+        ],
+        "median tf-idf score": 0.8331965501685571,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "He flew 149 combat missions in two wars and was a test pilot in the 1950s, when    airplanes often veered out of control and crashed in smoking heaps. When he joined the astronaut corps in 1959, no one knew whether a human being could survive the ordeals of space travel.",
+            "He joined the Marine Corps in early 1943 and wed his childhood sweetheart on April 6 of that year. Glenn flew 149 combat missions in World War II and the Korean War.",
+            "A life in flight and politics, Glenn was a highly decorated Marine who flew 59 combat missions in the South Pacific during World War II During the Korean War, he flew 90 combat missions, using different models of new jet fighters."
+        ],
+        "tf-idf score": [
+            0.8331965501685571,
+            0.7917261765405802,
+            1.193903719519745
+        ]
+    },
+    "0.2995422759841889-3-121": {
+        "average clique similarity": 0.2995422759841889,
+        "clique": [
+            "4-Glenn was 95 when he",
+            "3-   John Glenn       ",
+            "2-Glenn had been hospi"
+        ],
+        "median tf-idf score": 0.8179022953646647,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "Glenn was 95 when he died he had been hospitalized in an Ohio State University medical center in Columbus since last week.",
+            "   John Glenn  --   the first American to orbit the Earth  --   died Thursday afternoon surrounded by his family at the Ohio State University Wexner Medical Center in Columbus after a brief illness.",
+            "Glenn had been hospitalized since Nov. 25. He \"died peacefully,\" according to a statement from his family and Ohio State University. \"He left this earth for the third time as a happy and fulfilled person,\" the statement said."
+        ],
+        "tf-idf score": [
+            0.8601010322298518,
+            0.8179022953646647,
+            0.7629009001977352
+        ]
+    },
+    "0.3003123558932061-3-228": {
+        "average clique similarity": 0.3003123558932061,
+        "clique": [
+            "0-Of the seven origina",
+            "4-John Glenn was the l",
+            "1- The Right Stuff  He"
+        ],
+        "median tf-idf score": 1.1954030203338442,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Of the seven original astronauts of the Mercury program  --   the others were M Scott Carpenter, L Gordon Cooper Jr Virgil I \"Gus\" Grissom, Walter M \"Wally\" Schirra Jr Alan B Shepard Jr and Donald K \"Deke\" Slayton  --   Mr Glenn was the oldest and the lone Marine. A lieutenant colonel at the time, he also had the highest rank and the most combat experience.",
+            "John Glenn was the last surviving member of the original Mercury astronauts.",
+            "'The Right Stuff' He eagerly volunteered when NASA requested pilots for its suborbital and orbital programs, and in 1959 he and six others    Alan Shepard, Gus Grissom, Scott Carpenter, Wally Schirra, Gordon Cooper and Deke Slayton    were selected as the first astronauts, known as the \"Mercury 7\". Glenn was the last living member of the group."
+        ],
+        "tf-idf score": [
+            1.274716940028608,
+            0.8829594259386286,
+            1.1954030203338442
+        ]
+    },
+    "0.30056385224441234-3-217": {
+        "average clique similarity": 0.30056385224441234,
+        "clique": [
+            "2- Glenn s extraordina",
+            "4-NASA Administrator C",
+            "1- Glenn s extraordina"
+        ],
+        "median tf-idf score": 0.692843910686415,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\"Glenn's extraordinary courage, intellect, patriotism and humanity were the hallmarks of a life of greatness. His missions have helped make possible everything our space program has since achieved and the human missions to an asteroid and Mars that we are striving toward now,\" NASA Administrator Charles Bolden said.",
+            "NASA Administrator Charles Bolden said, \"Senator Glenn's legacy is one of risk and accomplishment, of history created and duty to country carried out under great pressure with the whole world watching.",
+            "\"Glenn's extraordinary courage, intellect, patriotism and humanity were the hallmarks of a life of greatness,\" Bolden said."
+        ],
+        "tf-idf score": [
+            0.9668425358743193,
+            0.692843910686415,
+            0.5369813211500427
+        ]
+    },
+    "0.35429821218479746-3-66": {
+        "average clique similarity": 0.35429821218479746,
+        "clique": [
+            "2-John Herschel Glenn ",
+            "1-Born in the small ea",
+            "0- During his   parade"
+        ],
+        "median tf-idf score": 0.8771387125461447,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "John Herschel Glenn Jr was born on July 18, 1921, in  Cambridge, Ohio.",
+            "Born in the small eastern Ohio town of Cambridge on July 18, 1921, Glenn recounted an idyllic childhood where \"patriotism filled the air\". \"Love of country was a given.",
+            "\"During his   parade up Broadway,\" Wolfe wrote, \"you have never heard such cheers or seen so many thousands of people crying. \" From pilot to politics John Herschel Glenn Jr was born July 18, 1921, in Cambridge, Ohio, and grew up in New Concord, Ohio. His father ran a plumbing supply business and later had a Chevrolet dealership. His mother taught at an elementary school."
+        ],
+        "tf-idf score": [
+            0.8771387125461447,
+            0.8430611400146627,
+            1.3424051922951192
+        ]
+    },
+    "0.3635538828290939-3-467": {
+        "average clique similarity": 0.3635538828290939,
+        "clique": [
+            "1-It was announced Wed",
+            "2-Glenn  the last surv",
+            "3-Kasich said  Glenn s"
+        ],
+        "median tf-idf score": 0.8674903077711769,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "It was announced Wednesday that Glenn had been hospitalized \"more than a week ago,\" according to Ohio State University spokesman Hank Wilson.",
+            "Glenn, the last surviving member of the original seven American \"Right Stuff\" Mercury astronauts, died at the James Cancer Hospital at Ohio State University in Columbus, said Hank Wilson, a spokesman at the university's John Glenn College of Public Affairs, which Glenn helped found.",
+            "Kasich said. Glenn's body will lie in state at the Ohio Statehouse for a day, and a public memorial service will be held at Ohio State University's Mershon Auditorium, the Columbus Dispatch reported."
+        ],
+        "tf-idf score": [
+            0.8674903077711769,
+            1.1180978198828337,
+            0.7540660297944178
+        ]
+    },
+    "0.5481545685282112-3-190": {
+        "average clique similarity": 0.5481545685282112,
+        "clique": [
+            "0-The death was confir",
+            "2-In his latter years ",
+            "4-His death Thursday w"
+        ],
+        "median tf-idf score": 0.9693353387438947,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The death was confirmed by Hank Wilson, communications director at the John Glenn College of Public Affairs at Ohio State University.",
+            "In his latter years, he was an adjunct professor at the John Glenn College of Public Affairs.",
+            "His death Thursday was confirmed by Hank Wilson, communications director of the John Glenn College of Public Affairs at the Ohio State University."
+        ],
+        "tf-idf score": [
+            0.9693353387438947,
+            0.862015511499485,
+            0.9801245901388235
+        ]
+    }
+}

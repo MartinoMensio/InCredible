@@ -1,0 +1,342 @@
+{
+    "0.15917815710695812-3-94": {
+        "average clique similarity": 0.15917815710695812,
+        "clique": [
+            "4-Here s Mustafina usi",
+            "3-A   Olympic medalist",
+            "0-Yet there she was 10"
+        ],
+        "median tf-idf score": 0.7886798722191158,
+        "publications": [
+            "Vox",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Here's Mustafina using those skills in London four years ago, when she won the gold medal on the event:                                       Biles isn't bad on the bars.",
+            "A   Olympic medalist in London, Raisman appeared to be on the outside of the picture looking in after a shaky performance at the world championships that left her \"devastated. \"",
+            "Yet there she was 10 months later, standing on the podium with her fifth Olympic medal around her neck, the    called \"grandma\" by her teammates having the last laugh and getting a measure of revenge after losing bronze in the 2012   final to Mustafina on a tiebreaker."
+        ],
+        "tf-idf score": [
+            0.7979569455043123,
+            0.5019918591322833,
+            0.7886798722191158
+        ]
+    },
+    "0.17254028647561429-3-109": {
+        "average clique similarity": 0.17254028647561429,
+        "clique": [
+            "4-But Mustafina hit a ",
+            "2-Biles took gold ahea",
+            "1-After briefly ceding"
+        ],
+        "median tf-idf score": 0.9455944575560579,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But Mustafina hit a clean routine with a good landing, scoring a 15. 666. With one great performance, Mustafina closed the gap between her and the Americans, and briefly took the lead.",
+            "Biles took gold ahead of US teammate Aly Raisman and Russia's Aliya Mustafina after finishing off with a dazzling floor routine.",
+            "After briefly ceding the lead midway through the competition on her weakest event, the uneven bars, Biles charged back to claim Olympic   gold, her sport's most coveted prize, by more than two points over her U S teammate and role model Aly Raisman, who took silver."
+        ],
+        "tf-idf score": [
+            0.33650216752845225,
+            0.9455944575560579,
+            1.1758030652465423
+        ]
+    },
+    "0.22149927239438671-3-164": {
+        "average clique similarity": 0.22149927239438671,
+        "clique": [
+            "2-  CNN  There are som",
+            "3-She and Raisman join",
+            "1- U S women s gymnast"
+        ],
+        "median tf-idf score": 1.068020365690225,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            " (CNN) There are some athletes which struggle to live up to the hype    but in Rio it was the hype which failed to keep up with Simone Biles. The US star showed just why she's the talk of town with another sublime showing to win gold in the women's   final Thursday.",
+            "She and Raisman joined Nastia Liukin and Shawn Johnson in 2008 as the only U S gymnasts to win gold and silver in the same Olympic final.",
+            "[U S women's gymnasts place their names in history with Olympic team gold]  Biles made history for the United States, too, which became the first country to win four consecutive   Olympic golds in women's gymnastics  --   a streak that started with Carly Patterson in 2004 and was continued by Nastia Liukin in 2008 and Gabby Douglas in 2012."
+        ],
+        "tf-idf score": [
+            1.068020365690225,
+            0.6318657065583462,
+            1.2769859211831385
+        ]
+    },
+    "0.22201751901080846-3-107": {
+        "average clique similarity": 0.22201751901080846,
+        "clique": [
+            "4-Vault is a strength ",
+            "2- I m not a celebrity",
+            "3-That s because gold "
+        ],
+        "median tf-idf score": 0.564149965863483,
+        "publications": [
+            "Vox",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "Vault is a strength for Raisman and Biles, and a weak one for Mustafina.",
+            "\"I'm not a celebrity. I'm just Simone Biles, but it's amazing to be recognized for all of this success for myself and for team USA,\" she added.",
+            "That's because gold has been out of reach for everyone but Biles for three years and counting."
+        ],
+        "tf-idf score": [
+            0.547482373128228,
+            0.564149965863483,
+            0.5940741464943107
+        ]
+    },
+    "0.22389514258408036-3-173": {
+        "average clique similarity": 0.22389514258408036,
+        "clique": [
+            "4-665  The win gave Bi",
+            "2-Her triumph makes he",
+            "0-She and Raisman join"
+        ],
+        "median tf-idf score": 0.7950986974425835,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "665. The win gave Biles her second gold medal of these Olympics, and secured her place in the pantheon of the greatest gymnasts that the sport has ever seen.",
+            "Her triumph makes her the fourth American in succession to win the title    following the successes of Carly Patterson, Nastia Liukin and Gabby Douglas    which is the longest winning streak by a country in the Olympic discipline. But efforts to draw comparisons between her and other world stars were swiftly played down by the teenager despite her celebrity status.",
+            "She and Raisman joined Nastia Liukin and Shawn Johnson in 2008 as the only U S gymnasts to win gold and silver in the same Olympic final."
+        ],
+        "tf-idf score": [
+            0.887401474176373,
+            0.7950986974425835,
+            0.6318657065583462
+        ]
+    },
+    "0.2569455267310385-3-66": {
+        "average clique similarity": 0.2569455267310385,
+        "clique": [
+            "3-Maybe one day Biles ",
+            "0-She went back in fro",
+            "4-Biles scored a 15  9"
+        ],
+        "median tf-idf score": 0.5240870150737492,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "Maybe one day Biles will make them reconsider.",
+            "She went back in front with a 15. 433 on beam    and capped it with a 15. 933 on floor that Karolyi called \"very close to perfection\". Only the judges don't hand out perfect scores anymore. Maybe one day Biles will make them reconsider.",
+            "Biles scored a 15. 933, and cemented her place as one of the best and the most dominating female gymnasts the sport will see."
+        ],
+        "tf-idf score": [
+            0.40812595875069113,
+            0.774508241148891,
+            0.5240870150737492
+        ]
+    },
+    "0.25713905661810793-3-35": {
+        "average clique similarity": 0.25713905661810793,
+        "clique": [
+            "3-She ll have her chan",
+            "4-But in the 2016 Olym",
+            "1-With two golds drape"
+        ],
+        "median tf-idf score": 0.8904879011427682,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Vox"
+        ],
+        "sentences": [
+            "She'll have her chance next week when she can add three more golds during the event finals. Five trips to the top of the podium in one games is something gymnastics has never seen.",
+            "But in the 2016 Olympic women's   finals it was another event, the balance beam, that proved how talented Biles is and showcased the gifts you may not notice during one of her trademark   tumbling passes.",
+            "With two golds draped around her neck, Biles has a chance for three more in the coming week, when she competes in the event finals of vault, balance beam and floor exercise."
+        ],
+        "tf-idf score": [
+            0.5396747040882982,
+            0.8904879011427682,
+            1.004597033825747
+        ]
+    },
+    "0.2924797898321917-4-173": {
+        "average clique similarity": 0.2924797898321917,
+        "clique": [
+            "3-Her total of 62  198",
+            "4-Biles s teammate Aly",
+            "0-198 was well clear o",
+            "1-Rio 2016 Medal Count"
+        ],
+        "median tf-idf score": 0.6289361501889261,
+        "publications": [
+            "New York Post",
+            "Vox",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Her total of 62. 198 was well clear of Raisman, who finished her remarkable comeback with a silver medal, and Russia's Aliya Mustafina.",
+            "Biles's teammate Aly Raisman nabbed the silver with a 60. 098, and Russia's Aliya Mustafina won the bronze with a 58.",
+            "198 was well clear of Raisman, who finished her remarkable comeback with a silver medal, and Russia's Aliya Mustafina.",
+            "Rio 2016 Medal Count Who's winning the 2016 Olympics? Russia's Aliya Mustafina took a distant bronze. Olympic   gold was the only individual honor Biles hadn't claimed, too young to compete in the 2012 Olympics."
+        ],
+        "tf-idf score": [
+            0.5774246043854808,
+            0.6804476959923715,
+            0.5619440119099585,
+            1.1857073525088468
+        ]
+    },
+    "0.3327951114705247-3-173": {
+        "average clique similarity": 0.3327951114705247,
+        "clique": [
+            "0-Suddenly Biles was a",
+            "3-Suddenly Biles was a",
+            "1- It would be amazing"
+        ],
+        "median tf-idf score": 0.8122789102789534,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Suddenly Biles was alone in the spotlight, the normally giggly teenager fighting back tears as she waved to the family that raised her, the coaches that molded her and the sport she is redefining. The secret out. The pressure is gone.",
+            "Suddenly Biles was alone in the spotlight, the normally giggly teenager fighting back tears as she waved to the family that raised her, the coaches that molded her and the sport she is redefining.",
+            "\"It would be amazing!\" Biles gushed. \"But that's crazy to think about. \" Raisman was just as overjoyed with her silver and burst into tears almost the moment she threw her hands up to signal the end of a tremendous floor routine that clinched her finish."
+        ],
+        "tf-idf score": [
+            0.8122789102789534,
+            0.7606387853778975,
+            0.9835095312751838
+        ]
+    },
+    "0.3583475346274843-3-173": {
+        "average clique similarity": 0.3583475346274843,
+        "clique": [
+            "3-Balance beam and flo",
+            "0-Balance beam and flo",
+            "2-A   world champion i"
+        ],
+        "median tf-idf score": 0.722642377304848,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "Balance beam and floor exercise  --   where Biles is the defending world champion  --   lay in wait.",
+            "Balance beam and floor exercise    where Biles is the defending world champion    lay in wait.",
+            "A   world champion in the   and a   U S   champion, Biles has won 14 world medals (10 gold, two silver, two bronze) the most ever for a U S female gymnast."
+        ],
+        "tf-idf score": [
+            0.722642377304848,
+            0.722642377304848,
+            0.8871305763042651
+        ]
+    },
+    "0.3833107195432733-3-49": {
+        "average clique similarity": 0.3833107195432733,
+        "clique": [
+            "3- It made me not thin",
+            "0- I knew going into t",
+            "2- Every emotion hit m"
+        ],
+        "median tf-idf score": 0.6713472665171557,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"It made me not think about things too much and made me more confident,\" Raisman said. \"I knew going into tonight I was going to get the silver medal because I was going to hit four events. \"",
+            "\"I knew going into tonight I was going to get the silver medal because I was going to hit four events\".",
+            "\"Every emotion hit me at once so I was just kind of a train wreck,\" Biles told reporters. \"Everything was going through my head but mainly it was like I had finally done it and when that hits you, you can't really stop the emotions\"."
+        ],
+        "tf-idf score": [
+            0.6713472665171557,
+            0.4649313875439692,
+            0.7533532452865763
+        ]
+    },
+    "0.3899359990958244-3-22": {
+        "average clique similarity": 0.3899359990958244,
+        "clique": [
+            "0-Biles belongs to the",
+            "3-And history too  Dyn",
+            "4-866 on the vault  wa"
+        ],
+        "median tf-idf score": 0.6209894656111375,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "Biles belongs to the world now. And history too. Dynamic on vault. Effortless on beam. on floor. Brilliant as ever.",
+            "And history too. Dynamic on vault. Effortless on beam. on floor. Brilliant as ever. And now, finally, an Olympic champion.",
+            "866 on the vault (watch Biles's vault at NBC) Raisman scored a 15. 633, and Mustafina scored a 15. 200."
+        ],
+        "tf-idf score": [
+            0.6848917865036939,
+            0.4412143602479912,
+            0.6209894656111375
+        ]
+    },
+    "0.3986325796683241-3-127": {
+        "average clique similarity": 0.3986325796683241,
+        "clique": [
+            "1-Caption   Meet the 1",
+            "3-Biles soared to the ",
+            "0-And now  finally  an"
+        ],
+        "median tf-idf score": 0.7692263164677612,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Caption   Meet the 10 women and men who will represent the United States. Simone Biles won the   title at the U S trials, getting an automatic berth on the Olympic team.",
+            "Biles soared to the   title on Thursday night, putting the gap between herself and everyone else on full display for the whole world to see.",
+            "And now, finally, an Olympic champion. Biles soared to the   title on Thursday night, putting the gap between herself and everyone else on full display for the whole world to see. Her total of 62."
+        ],
+        "tf-idf score": [
+            0.7969170136525803,
+            0.5630184448581116,
+            0.7692263164677612
+        ]
+    },
+    "0.44537146064569705-3-70": {
+        "average clique similarity": 0.44537146064569705,
+        "clique": [
+            "2-The    not only conf",
+            "0-When the floor exerc",
+            "3-When the floor exerc"
+        ],
+        "median tf-idf score": 1.0586701608060352,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "The    not only confounded her opponents but appeared to do similar to the laws of gravity. Yes, there was a moment where she seemed human    her routine on the bar was below her best    but even that is beyond most. By the time she left the floor after recording the highest score of the night, 15.",
+            "When the floor exercise judges validated what Raisman and every other gymnast has known for years    that Biles is the greatest of her generation and perhaps of all time    the U S Olympic team captain let her good friend go.",
+            "When the floor exercise judges validated what Raisman and every other gymnast has known for years  --   that Biles is the greatest of her generation and perhaps of all time  --   the U S Olympic team captain let her good friend go."
+        ],
+        "tf-idf score": [
+            0.6230149797937243,
+            1.0586701608060352,
+            1.0586701608060352
+        ]
+    }
+}

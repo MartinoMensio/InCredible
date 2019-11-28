@@ -1,0 +1,522 @@
+{
+    "0.14188427391755484-3-25": {
+        "average clique similarity": 0.14188427391755484,
+        "clique": [
+            "1-  He also told Fox N",
+            "4-In fact  a top Carso",
+            "2-Even if the recounts"
+        ],
+        "median tf-idf score": 0.6376307284779947,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d He also told Fox News Channel\u2019s \u201cYour World with Neil Cavuto\u201d in an interview last month that the HUD position was \u201done of the offers [from Trump] that is on the table\u201d.",
+            "In fact, a top Carson aide, Armstrong Williams, told The Hill last month that the former GOP presidential hopeful wasn\u2019t interested in a Cabinet position, because \u201dDr Carson feels he has no government experience, he\u2019s never run a federal agency.",
+            "Even if the recounts were to proceed in all three states, there is almost no chance that they would overturn Trump\u2019s victory in last month\u2019s election."
+        ],
+        "tf-idf score": [
+            0.6376307284779947,
+            0.9489285310246628,
+            0.3823968579751316
+        ]
+    },
+    "0.14494988170117581-3-107": {
+        "average clique similarity": 0.14494988170117581,
+        "clique": [
+            "0-Trump filed a counte",
+            "4-Nonetheless  Carson ",
+            "2-But Carson said afte"
+        ],
+        "median tf-idf score": 0.7808737057327293,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Trump filed a counterclaim and after nearly two years of fighting, struck a deal with the government.",
+            "Nonetheless, Carson endorsed Trump less than a week after he ended his own White House bid just after Super Tuesday and said the two had \u201dburied the hatchet\u201d.",
+            "But Carson said after meeting with Trump he believed he could make a contribution."
+        ],
+        "tf-idf score": [
+            0.3603845159258493,
+            0.8470831263019831,
+            0.7808737057327293
+        ]
+    },
+    "0.1526058796935258-3-180": {
+        "average clique similarity": 0.1526058796935258,
+        "clique": [
+            "3-That was the inciden",
+            "2-In the past  Trump h",
+            "0-According to past st"
+        ],
+        "median tf-idf score": 0.4814913106086099,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "That was the incident that Trump mocked on the campaign trail, suggesting it would be unwise for voters to elect someone who had admitted to that kind of temper.",
+            "In the past, Trump has dismissed the idea of   climate change as a hoax and he said during the campaign that he would seek to get the United States out of the Paris Agreement to reduce global emissions of fossil fuels.",
+            "According to past statements, including on the 2016 campaign trail, he views being gay as a choice, doubts human activity contributes to global warming and believes abortion should be outlawed in all circumstances, including in cases of rape and incest."
+        ],
+        "tf-idf score": [
+            0.4814913106086099,
+            0.7154493499205352,
+            0.27561221476359704
+        ]
+    },
+    "0.17225157655700954-3-301": {
+        "average clique similarity": 0.17225157655700954,
+        "clique": [
+            "1-In his 1996 autobiog",
+            "4-Trump also brought u",
+            "2-But Trump went after"
+        ],
+        "median tf-idf score": 0.7877284109516496,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "In his 1996 autobiography \u201dGifted Hands,\u201d Carson wrote of the humiliation he felt using food stamps from his mom to pay for bread and milk, and said how he began to excel at school only after receiving a free pair of glasses that allowed him to see the lessons written on chalk boards.",
+            "Trump also brought up Carson\u2019s childhood temperament and anger, issues Carson had written about in his autobiography.",
+            "But Trump went after him, questioning his mental stability because of childhood incidents in which Carson said he attacked his mother with a hammer and tried to stab another boy."
+        ],
+        "tf-idf score": [
+            0.7877284109516496,
+            0.6728250330678853,
+            0.8370095283447433
+        ]
+    },
+    "0.18580428641735047-3-212": {
+        "average clique similarity": 0.18580428641735047,
+        "clique": [
+            "1- We have much work t",
+            "4- I grew up in the in",
+            "0-We re going to work "
+        ],
+        "median tf-idf score": 0.5849395155456709,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cWe have much work to do in strengthening every aspect of our nation and ensuring that both our physical infrastructure and our spiritual infrastructure is solid.",
+            "\u201dI grew up in the inner city and have spent a lot of time there, and have dealt with a lot of patients from that area and recognize that we cannot have a strong nation if we have weak inner cities,\u201d Carson said.",
+            "We\u2019re going to work with the African American community, and we\u2019re going to solve the problem of the inner city,\u201d Trump told a rally before the election."
+        ],
+        "tf-idf score": [
+            0.23860135043783695,
+            0.7514629040032553,
+            0.5849395155456709
+        ]
+    },
+    "0.18899090292419288-3-162": {
+        "average clique similarity": 0.18899090292419288,
+        "clique": [
+            "4-Carson was one of Tr",
+            "1-But after he dropped",
+            "2-Like many of the ini"
+        ],
+        "median tf-idf score": 0.8537421374202074,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Carson was one of Trump\u2019s many rivals for the Republican nomination for president, which was the retired   doctor\u2019s first foray into politics.",
+            "But after he dropped out of the White House race in March, the subdued doctor quickly endorsed the boisterous businessman and became one of Trump\u2019s most visible surrogates.",
+            "Like many of the initial field of 17 White House hopefuls who vied for the Republican Party\u2019s 2016 presidential nomination, Carson was a frequent target of Trump attacks during the campaign."
+        ],
+        "tf-idf score": [
+            0.8537421374202074,
+            0.43710232501273966,
+            0.9525968251440964
+        ]
+    },
+    "0.19258121725762425-3-13": {
+        "average clique similarity": 0.19258121725762425,
+        "clique": [
+            "2-Carson  65  is the f",
+            "3-  Carson is the firs",
+            "0-Carson      who ran "
+        ],
+        "median tf-idf score": 0.9183407352774422,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Carson, 65, is the first   picked for a Cabinet spot by Trump, who takes office on Jan. 20 and has been gradually filling out his administration since beating Democrat Hillary Clinton in the Nov. 8 presidential election.",
+            "\u201d Carson is the first African American to be named to Trump\u2019s Cabinet.",
+            "Carson  \u2014   who ran against Trump in the wide field of Republican presidential primary candidates and has never held political office  \u2014   is the  \u2019s   African American supporter and confidant."
+        ],
+        "tf-idf score": [
+            0.9183407352774422,
+            0.6672252070008304,
+            0.9564997659729125
+        ]
+    },
+    "0.19541430466747226-3-144": {
+        "average clique similarity": 0.19541430466747226,
+        "clique": [
+            "0-If confirmed by the ",
+            "3-Carson s selection i",
+            "1-TRUMP EXPANDS SECRET"
+        ],
+        "median tf-idf score": 1.0712578529102188,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "If confirmed by the Senate, Carson will be enlisted to serve as Trump\u2019s unofficial envoy to African Americans and to lead the charge to repair what Trump has described as America\u2019s blighted and dangerous inner cities, a dystopian, racially charged image criticized as frequently at odds with reality.",
+            "Carson\u2019s selection is an odd one chiefly because as a former chief of pediatric neurosurgery at Johns Hopkins, he would seem to be an obvious fit to lead the Department of Health and Human Services, which will be led by Tom Price if confirmed by the Senate, as opposed to the Cabinet federal housing policy, in which he has comparatively little experience.",
+            "TRUMP EXPANDS SECRETARY OF STATE SEARCH MORE INTERVIEWS THIS WEEK, Carson, who had previously been rumored to be a contender for a job heading Veteran\u2019s Affairs, Education or Health and Human Services, could appear at first glance as an odd choice for HUD However, Carson wrote and spoke about the department and issues affected by its actions numerous times during his time as a primary candidate, and he also addressed some of what may soon face him in a Facebook post last month that hinted at a HUD job offer from Trump."
+        ],
+        "tf-idf score": [
+            1.0712578529102188,
+            1.0588919572307165,
+            1.3530268655487827
+        ]
+    },
+    "0.199506022214886-3-301": {
+        "average clique similarity": 0.199506022214886,
+        "clique": [
+            "4-Carson told Fox News",
+            "0- She didn t like the",
+            "2-But last month he to"
+        ],
+        "median tf-idf score": 0.46946172365011885,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Carson told Fox News\u2019 Neil Cavuto last month his upbringing made him   for this particular role.",
+            "\u201cShe didn\u2019t like the idea of dependency,\u201d Carson told The Washington Post last year.",
+            "But last month he told the New York Times he had an open mind on this."
+        ],
+        "tf-idf score": [
+            0.5108223049056001,
+            0.46946172365011885,
+            0.17214583791758567
+        ]
+    },
+    "0.207499956619957-3-43": {
+        "average clique similarity": 0.207499956619957,
+        "clique": [
+            "2-  FORMER TARGET OF T",
+            "0- Carson s positions ",
+            "3-He went to Yale and "
+        ],
+        "median tf-idf score": 0.7094405662072572,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d FORMER TARGET OF TRUMP ATTACKS Carson, a respected neurosurgeon at Johns Hopkins Hospital in Baltimore, had been considered for U S surgeon general and head of Health and Human Services Department.",
+            "[Carson\u2019s positions on poverty create tension with    life story] Born into a struggling family on the southwest side of Detroit, Carson was educated at Yale University and the University of Michigan before he began a celebrated surgical career at Johns Hopkins University in Baltimore.",
+            "He went to Yale and then the University of Michigan medical school, and by the age of 33, he had become the youngest person ever to lead a major division at Johns Hopkins."
+        ],
+        "tf-idf score": [
+            0.8484311506626269,
+            0.7094405662072572,
+            0.2240465341910332
+        ]
+    },
+    "0.24132696645159468-3-5": {
+        "average clique similarity": 0.24132696645159468,
+        "clique": [
+            "3-And so  apparently  ",
+            "0- You have so many th",
+            "1-There have been so m"
+        ],
+        "median tf-idf score": 0.15071447413484254,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Fox News"
+        ],
+        "sentences": [
+            "And so, apparently, did Ben Carson.",
+            "\u201cYou have so many things, so many problems, so many horrible, horrible problems.",
+            "There have been so many promises made over the last several decades and nothing has been done, so it certainly is something that has been a   interest of mine\u201d."
+        ],
+        "tf-idf score": [
+            0.37667577769460947,
+            0.04219440949635189,
+            0.15071447413484254
+        ]
+    },
+    "0.2538446253484165-3-240": {
+        "average clique similarity": 0.2538446253484165,
+        "clique": [
+            "3-Carson s comes from ",
+            "1-Carson has often rec",
+            "4-Carson grew up in De"
+        ],
+        "median tf-idf score": 0.5937600245994349,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Carson\u2019s comes from his personal experience growing up poor in Detroit, where from the age of eight he was raised by a single mother who was a domestic worker and who relied, at times, on food stamps and public assistance.",
+            "Carson has often recounted his childhood as the son of a single mother in   Detroit in his books and motivational speeches.",
+            "Carson grew up in Detroit in a home headed by a single mother."
+        ],
+        "tf-idf score": [
+            0.7359322237200432,
+            0.5937600245994349,
+            0.42532057148409874
+        ]
+    },
+    "0.27154402342657696-3-197": {
+        "average clique similarity": 0.27154402342657696,
+        "clique": [
+            "4-Trump said Carson s ",
+            "3-During the heat of t",
+            "0-Noting Carson s admi"
+        ],
+        "median tf-idf score": 0.8975788773381921,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Trump said Carson\u2019s temperament was an incurable sickness that he compared to \u201dchild molesting\u201d.",
+            "During the heat of the GOP primary, Trump said Carson had \u201ca pathological temper\u201d that was as incurable as pedophilia.",
+            "Noting Carson\u2019s admissions in his 1996 autobiography, interviews and public statements that, growing up, he had tried to attack his mother with a hammer and almost stabbed a friend, Trump said Carson had a \u201cpathological temper\u201d that was incurable, comparing it to \u201cchild molesting."
+        ],
+        "tf-idf score": [
+            0.8810896177980103,
+            0.8975788773381921,
+            1.0937280366255462
+        ]
+    },
+    "0.29663333536373643-3-174": {
+        "average clique similarity": 0.29663333536373643,
+        "clique": [
+            "2-IVANKA TRUMP TO MEET",
+            "1-TRUMP SAYS HE LL NOM",
+            "0-Trump is also expect"
+        ],
+        "median tf-idf score": 0.8324878329619045,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "IVANKA TRUMP TO MEET AL GORE Other picks by Trump so far for his administration include: Marine Corps General James Mattis as defense secretary, U S  Representative Mike Pompeo as CIA director, Senator Jeff Sessions as attorney general, retired General Michael Flynn as national security adviser, Republican National Committee Chairman Reince Priebus as chief of staff and   media executive Steve Bannon as chief White House strategist.",
+            "TRUMP SAYS HE\u2019LL NOMINATE RETIRED MARINE GEN MATTIS AS SECRETARY OF DEFENSE, Carson ran against Trump during the Republican primary battle.",
+            "Trump is also expected on Monday to formally name retired Marine Gen. James N Mattis as his defense secretary."
+        ],
+        "tf-idf score": [
+            0.8501285422801835,
+            0.8324878329619045,
+            0.4395883242518548
+        ]
+    },
+    "0.29682268719630645-3-108": {
+        "average clique similarity": 0.29682268719630645,
+        "clique": [
+            "2-Carson said he was h",
+            "4-Carson said he was h",
+            "1-Carson also tweeted "
+        ],
+        "median tf-idf score": 0.6566396861767102,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Carson said he was honored to accept the post, which requires confirmation by the U S Senate.",
+            "Carson said he was honored to accept the opportunity to serve in Trump\u2019s administration.",
+            "Carson also tweeted that he would accept the position."
+        ],
+        "tf-idf score": [
+            0.6566396861767102,
+            0.9061066611126142,
+            0.39728554185441134
+        ]
+    },
+    "0.3218695907381619-4-124": {
+        "average clique similarity": 0.3218695907381619,
+        "clique": [
+            "0-            Donald T",
+            "2- Retired neurosurgeo",
+            "4-  Donald Trump has c",
+            "3-The   announced on M"
+        ],
+        "median tf-idf score": 1.0962703399393607,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "            Donald Trump has nominated retired neurosurgeon Ben Carson to run the Department of Housing and Urban Development, an unconventional choice that underscores Trump\u2019s willingness to forgo traditional policy expertise in some Cabinet positions to surround himself with allies.",
+            " Retired neurosurgeon Ben Carson, a    of Donald Trump, overcame his stated qualms about a lack of government experience on Monday to accept the  \u2019s nomination to lead the Department of Housing and Urban Development.",
+            "  Donald Trump has chosen Dr Ben Carson to lead the Department of Housing and Urban Development in his incoming administration.",
+            "The   announced on Monday morning his intention to nominate the   neurosurgeon to be secretary of the Department of Housing and Urban Development, putting a former Republican rival in charge of leading a revival of the nation\u2019s inner cities that Trump believes are \u201ca disaster."
+        ],
+        "tf-idf score": [
+            1.1705006275319207,
+            1.1198131508380071,
+            1.0727275290407143,
+            0.8560432871650586
+        ]
+    },
+    "0.3385308790148878-3-81": {
+        "average clique similarity": 0.3385308790148878,
+        "clique": [
+            "0-No  there s two     ",
+            "3-  Sometimes There Ar",
+            "4-The last thing he wo"
+        ],
+        "median tf-idf score": 0.2047127310317917,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "No, there\u2019s two  \u2014   there\u2019s death and the other thing.",
+            "\u201d Sometimes There Are More Important Goals Than Civility, \u201cThe last thing he would want to do was take a position that could cripple a presidency,\u201d Williams told The Hill.",
+            "The last thing he would want to do was take a position that could cripple the presidency\u201d."
+        ],
+        "tf-idf score": [
+            0.027661400532941444,
+            0.2982355149131965,
+            0.2047127310317917
+        ]
+    },
+    "0.34600484608621995-3-113": {
+        "average clique similarity": 0.34600484608621995,
+        "clique": [
+            "1- After serious discu",
+            "3-In a Facebook post j",
+            "0- I am thrilled to no"
+        ],
+        "median tf-idf score": 1.0679199499793188,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cAfter serious discussions with the Trump transition team, I feel that I can make a significant contribution particularly to making our inner cities great for everyone,\u201d Carson wrote.",
+            "In a Facebook post just before Thanksgiving, Carson briefly addressed his change of heart on joining the Cabinet: After serious discussions with the Trump transition team, I feel that I can make a significant contribution particularly to making our inner cities great for everyone.",
+            "\u201cI am thrilled to nominate Dr Ben Carson as our next Secretary of the U S Department of Housing and Urban Development,\u201d Trump is quoted as saying in a statement released by his transition team Monday."
+        ],
+        "tf-idf score": [
+            0.9758403119577321,
+            1.115987779215888,
+            1.0679199499793188
+        ]
+    },
+    "0.3582074674262323-4-2": {
+        "average clique similarity": 0.3582074674262323,
+        "clique": [
+            "0-   We have much work",
+            "1- Our inner cities ar",
+            "4- We have talked at l",
+            "3- We have talked at l"
+        ],
+        "median tf-idf score": 0.4325472304016813,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d \u201cWe have much work to do in strengthening every aspect of our nation and ensuring that both our physical infrastructure and our spiritual infrastructure is solid,\u201d Carson wrote Wednesday on Facebook.",
+            "\u201dOur inner cities are in terrible shape,\u201d Carson said.",
+            "\u201dWe have talked at length about my urban renewal agenda and our message of economic revival, very much including our inner cities\u201d.",
+            "\u201cWe have talked at length about my urban renewal agenda and our message of economic revival, very much including our inner cities."
+        ],
+        "tf-idf score": [
+            0.6245901322561767,
+            0.5809878392199188,
+            0.28410662158344374,
+            0.28410662158344374
+        ]
+    },
+    "0.47389044469993924-3-301": {
+        "average clique similarity": 0.47389044469993924,
+        "clique": [
+            "1-But in a statement o",
+            "4- I feel that I can m",
+            "2- I feel that I can m"
+        ],
+        "median tf-idf score": 0.4437030199720354,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "But in a statement on Monday, the retired pediatric neurosurgeon said he felt he could \u201dmake a significant contribution particularly by strengthening communities that are most in need\u201d.",
+            "\u201dI feel that I can make a significant contribution particularly by strengthening communities that are most in need,\u201d he said.",
+            "\u201dI feel that I can make a significant contribution particularly by strengthening communities that are most in need,\u201d he said in the statement."
+        ],
+        "tf-idf score": [
+            0.5408046588430723,
+            0.40124146569098096,
+            0.4437030199720354
+        ]
+    },
+    "0.6787464049216692-5-30": {
+        "average clique similarity": 0.6787464049216692,
+        "clique": [
+            "0- Ben Carson has a br",
+            "3- Ben Carson has a br",
+            "2-Trump  a real estate",
+            "4- Ben Carson has a br",
+            "1-Trump said in his st"
+        ],
+        "median tf-idf score": 1.1384795061635293,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "NPR",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cBen Carson has a brilliant mind and is passionate about strengthening communities and families within those communities.",
+            "\u201cBen Carson has a brilliant mind and is passionate about strengthening communities and families within those communities,\u201d the   said in a statement released by his transition team Monday.",
+            "Trump, a real estate magnate who also has no government experience and has never held public office, expressed confidence Carson could do the job, saying in a statement that he \u201dhas a brilliant mind and is passionate about strengthening communities and families within those communities\u201d.",
+            "\u201dBen Carson has a brilliant mind and is passionate about strengthening communities and families within those communities,\u201d Trump said in a statement released Monday.",
+            "Trump said in his statement that he was \u201cthrilled to nominate Carson,\u201d adding that he \u201chas a brilliant mind and is passionate about strengthening communities and families within those communiuties."
+        ],
+        "tf-idf score": [
+            0.6758571465641046,
+            0.9386994954453931,
+            1.144981222669718,
+            1.1384795061635293,
+            1.1981483452089903
+        ]
+    }
+}

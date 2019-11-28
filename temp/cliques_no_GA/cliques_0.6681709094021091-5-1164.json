@@ -1,0 +1,630 @@
+{
+    "0.16191955905066327-3-218": {
+        "average clique similarity": 0.16191955905066327,
+        "clique": [
+            "3-A spokeswoman for th",
+            "1-Later the bill was a",
+            "4-With Republicans hol"
+        ],
+        "median tf-idf score": 0.40921509948486273,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "A spokeswoman for the city said the repeal vote Monday had affected only the part of the ordinance dealing with public accommodations, such as bathrooms, which council members thought would \u201csufficiently [fulfill] the requests of the general assembly\u201d and lead to H B 2\u2019s repeal.",
+            "Later the bill was amended to extend the moratorium    called a \u201dcooling off period\u201d    until after the end of the 2017 General Assembly.",
+            "With Republicans holding a   majority in   the General Assembly, Democrats will need bipartisan support to   overturn the law."
+        ],
+        "tf-idf score": [
+            0.9624874512749598,
+            0.2773939447295704,
+            0.40921509948486273
+        ]
+    },
+    "0.1692859728265108-3-260": {
+        "average clique similarity": 0.1692859728265108,
+        "clique": [
+            "1-Cooper said he ll ke",
+            "3-Gay and transgender ",
+            "4-Numerous entertainer"
+        ],
+        "median tf-idf score": 0.5776031654146693,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Cooper said he\u2019ll keep trying to reduce the effects of HB2 and bring businesses and sporting events back to the state.",
+            "Gay and transgender rights groups immediately condemned the outcome of the   session, and criticized Republicans for preserving the \u201chateful\u201d legislation that had led to boycotts, cost the state millions of dollars in lost tourism revenue and prompted the NBA and the NCAA to move games.",
+            "Numerous entertainers have   cancelled events in the state, and the NBA, NCAA, and ACC have   relocated major sports events since the law\u2019s passage."
+        ],
+        "tf-idf score": [
+            0.5776031654146693,
+            0.7256753213956466,
+            0.43486298475359514
+        ]
+    },
+    "0.17003744093578718-3-4": {
+        "average clique similarity": 0.17003744093578718,
+        "clique": [
+            "4-      Crafted in a  ",
+            "0-It was passed in Mar",
+            "3-Protesters decrying "
+        ],
+        "median tf-idf score": 0.5013450282391169,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u2019 \u201d   Crafted in a   special session in March, House Bill 2 led   several businesses to withdraw expansions in North Carolina,   costing the state .",
+            "It was passed in March, in direct response to an expansion of a local   measure in Charlotte the previous month.",
+            "Protesters decrying the bill gathered outside the governor\u2019s mansion in March."
+        ],
+        "tf-idf score": [
+            0.6705803805239158,
+            0.5013450282391169,
+            0.08293776633068495
+        ]
+    },
+    "0.17161604565311975-3-329": {
+        "average clique similarity": 0.17161604565311975,
+        "clique": [
+            "0-Updated at 8 00 p  m",
+            "4-         North Carol",
+            "2-In a statement on We"
+        ],
+        "median tf-idf score": 1.0456461453229382,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "Updated at 8:00 p. m. ET, The North Carolina Legislature began a special session on Wednesday morning to vote on the repeal of a controversial state law that limits civil rights protections for LGBT people, but the effort failed by day\u2019s end as the Legislature adjourned without passing any bill.",
+            "\u2019  \u2019 \u2019   North Carolina Republicans issued an unusual statement early   Wednesday morning signaling that the repeal of the state\u2019\u2019s   contentious \u201dbathroom law\u201d may be in jeopardy.",
+            "In a statement on Wednesday morning, the lieutenant governor, Dan Forest, urged opponents of repeal to \u201ccontinue to stand strong\u201d."
+        ],
+        "tf-idf score": [
+            1.366885653590333,
+            1.0456461453229382,
+            0.4671753565960599
+        ]
+    },
+    "0.17476351086350572-3-49": {
+        "average clique similarity": 0.17476351086350572,
+        "clique": [
+            "2-The moratorium was i",
+            "1-The moratorium could",
+            "3-Republicans  meanwhi"
+        ],
+        "median tf-idf score": 0.797275239070812,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The moratorium was intended to prevent Charlotte from passing a similar measure again.",
+            "The moratorium could be renewed again and again, essentially making it impossible for cities to pass nondiscrimination laws, said state Rep. Chris Sgro, a Democrat and an openly gay legislator.",
+            "Republicans, meanwhile, blamed Democrats, who rejected a version of the repeal that would have included a   moratorium on cities passing nondiscrimination ordinances to protect gay and transgender people."
+        ],
+        "tf-idf score": [
+            0.388367118585423,
+            0.797275239070812,
+            0.903981376030139
+        ]
+    },
+    "0.18055546281785972-3-133": {
+        "average clique similarity": 0.18055546281785972,
+        "clique": [
+            "1-   What happened is ",
+            "3- It is unacceptable ",
+            "2- No economic  politi"
+        ],
+        "median tf-idf score": 0.07406059107762848,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            ".. What happened is they broke the deal\u201d.",
+            "\u201cIt is unacceptable.",
+            "\u201cNo economic, political or ideological pressure can convince me that what is wrong is right."
+        ],
+        "tf-idf score": [
+            0.07406059107762848,
+            0.005025572170232742,
+            0.1954127944058937
+        ]
+    },
+    "0.18115051129953574-3-223": {
+        "average clique similarity": 0.18115051129953574,
+        "clique": [
+            "2-Charlotte would have",
+            "0-The session was part",
+            "1-But the repeal actio"
+        ],
+        "median tf-idf score": 0.5583409231190991,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Charlotte would have not repealed its ordinance if this was the deal.",
+            "The session was part of a deal between state lawmakers and Charlotte officials.",
+            "But the repeal action in the   House and Senate was not to the liking of Democrats or opponents of HB2."
+        ],
+        "tf-idf score": [
+            0.4492430403356642,
+            0.6509988174131182,
+            0.5583409231190991
+        ]
+    },
+    "0.18539935745397684-3-1": {
+        "average clique similarity": 0.18539935745397684,
+        "clique": [
+            "2-Many Republican lawm",
+            "4- They and they alone",
+            "1- They said they had "
+        ],
+        "median tf-idf score": 0.3419229440450345,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "Many Republican lawmakers say they still support HB2, which they view as a stand for traditional values and the protection of women and children from predators.",
+            "\u201dThey and they alone created this   problem and have now seriously harmed HB2 repeal efforts\u201d.",
+            "\u201dThey said they had the votes as long as we had the Democrats."
+        ],
+        "tf-idf score": [
+            0.48508337542132934,
+            0.3419229440450345,
+            0.24445744890373045
+        ]
+    },
+    "0.20010255681413466-3-98": {
+        "average clique similarity": 0.20010255681413466,
+        "clique": [
+            "1-Pat McCrory  a Repub",
+            "0-Pat McCrory calling ",
+            "4-Pat McCrory and stat"
+        ],
+        "median tf-idf score": 0.5600705468398418,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Pat McCrory, a Republican, said in a statement, \u201dAs promised, I called a special session to reconsider a manufactured political issue that strategically targeted the city of Charlotte and our state by     interest groups.",
+            "Pat McCrory calling Charlotte\u2019s repeal \u201dall about politics\u201d but agreeing to call a special session \u201das promised\u201d.",
+            "Pat McCrory and state   Republicans, who say the bathroom provision protects women from   sexual predators."
+        ],
+        "tf-idf score": [
+            1.1278150208490456,
+            0.5600705468398418,
+            0.5450992063907796
+        ]
+    },
+    "0.2053159044827442-3-73": {
+        "average clique similarity": 0.2053159044827442,
+        "clique": [
+            "2-Outgoing governorPat",
+            "1-The Charlotte vote  ",
+            "0-Charlotte City Attor"
+        ],
+        "median tf-idf score": 1.2061945772393978,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Outgoing governorPat McCrory had called the special session after the Charlotte city council gutted a local bill that had prompted the law in the first place  \u2014   a nondiscrimination ordinance that expanded protections based on sexual orientation and gender identity in public accommodations.",
+            "The Charlotte vote, The state law was passed in response to a Charlotte city \u201dnondiscrimination ordinance\u201d that allowed transgender people to use bathrooms that correspond with their gender identity.",
+            "Charlotte City Attorney Bob Hagemann says those allegations are false, reports David Boraks of member station WFAE Boraks adds that Hagemann says the city did fully repeal the changes made to its   laws  \u2014   with a vote that took the city \u201dback to 1968,\u201d the first year Charlotte had any sort of   measure."
+        ],
+        "tf-idf score": [
+            1.2061945772393978,
+            1.2576302025093238,
+            0.9465775952256669
+        ]
+    },
+    "0.21476219970219715-3-31": {
+        "average clique similarity": 0.21476219970219715,
+        "clique": [
+            "3-Earlier Wednesday  t",
+            "4-      Later on Wedne",
+            "2-Lawmakers held a spe"
+        ],
+        "median tf-idf score": 1.0283947841337087,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Earlier Wednesday, the Charlotte City Council held an emergency meeting to repeal its own ordinance in full, a move meant to spur state lawmakers into action.",
+            "\u2019 \u2019   Later on Wednesday, an hour before state lawmakers gathered in   Raleigh to decide the fate of House Bill 2, the Charlotte council   voted to repeal its local ordinance in its entirety.",
+            "Lawmakers held a special session to repeal House Bill 2 (HB2) which had spurred extensive economic boycotts and protests in the state."
+        ],
+        "tf-idf score": [
+            1.0654817316776546,
+            1.0283947841337087,
+            0.7628354585752357
+        ]
+    },
+    "0.23106243397723328-3-138": {
+        "average clique similarity": 0.23106243397723328,
+        "clique": [
+            "1-And the NCAA said it",
+            "3-The NCAA took even m",
+            "2-Discussions about re"
+        ],
+        "median tf-idf score": 0.4537035244136616,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "And the NCAA said it would relocate several college athletic championship events for the   season that were scheduled to take place in North Carolina.",
+            "The NCAA took even more extensive action, relocating the seven championship games set to take place in North Carolina during this season, including two rounds of the lucrative men\u2019s Division I basketball tournament.",
+            "Discussions about repealing the law increased after decisions by the NCAA and Atlantic Coast Conference to move their championship events out of North Carolina."
+        ],
+        "tf-idf score": [
+            0.45817737569800415,
+            0.44226938935923527,
+            0.4537035244136616
+        ]
+    },
+    "0.2358900059978633-3-337": {
+        "average clique similarity": 0.2358900059978633,
+        "clique": [
+            "2-Plans to repeal the ",
+            "3-     North Carolina ",
+            "1-Raleigh  North Carol"
+        ],
+        "median tf-idf score": 0.9206441279777393,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Plans to repeal the controversial North Carolina law limiting LGBT protections fell apart late on Wednesday, after hours of   wrangling.",
+            "     North Carolina lawmakers failed Wednesday to repeal a law regulating transgender people\u2019s use of public restrooms, despite convening in a special legislative session for the express purpose of rescinding the controversial law.",
+            "Raleigh, North Carolina (CNN) North Carolina legislators failed to repeal the state\u2019s \u201dbathroom bill\u201d on Wednesday during a special session called for that purpose."
+        ],
+        "tf-idf score": [
+            0.7580609239435337,
+            1.0454446506749497,
+            0.9206441279777393
+        ]
+    },
+    "0.24272836266647188-3-54": {
+        "average clique similarity": 0.24272836266647188,
+        "clique": [
+            "2-PayPal abandoned its",
+            "3- Jill   News   Obser",
+            "1-Singers Bruce Spring"
+        ],
+        "median tf-idf score": 0.3209528877315554,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "PayPal abandoned its plan to bring 400 jobs to the state, entertainers such as Bruce Springsteen canceled dates in the state.",
+            "(Jill   News & Observer via AP)  After the bathroom bill was signed, musicians including Bruce Springsteen, Pearl Jam and Ringo Starr canceled shows in North Carolina, while Cirque de Soleil scrapped several performances in the state.",
+            "Singers Bruce Springsteen, Demi Lovato and Nick Jonas, as well as bands such as Pearl Jam and Boston,  canceled concerts in the state."
+        ],
+        "tf-idf score": [
+            0.3209528877315554,
+            0.7277427869800752,
+            0.29425907015280894
+        ]
+    },
+    "0.2440626697964294-3-194": {
+        "average clique similarity": 0.2440626697964294,
+        "clique": [
+            "3-   The Charlotte Cit",
+            "4-McCrory   about repe",
+            "2-  For months  the st"
+        ],
+        "median tf-idf score": 0.9589568707629484,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d \u201cThe Charlotte City Council acted in good faith to do everything it understood was needed to necessitate the state legislature repealing HB2,\u201d the statement said.",
+            "McCrory   about repealing the Charlotte City Council ordinance that caused   HB2,\u201d the statement read.",
+            "\u201d For months, the state\u2019s Republican leaders said they were willing to consider repealing the law if Charlotte acted first to undo its expanded   ordinance."
+        ],
+        "tf-idf score": [
+            1.1198869969461502,
+            0.803640085118863,
+            0.9589568707629484
+        ]
+    },
+    "0.2501387501768638-3-66": {
+        "average clique similarity": 0.2501387501768638,
+        "clique": [
+            "4-       The City Coun",
+            "3-  In a statement Wed",
+            "0-Charlotte said it ha"
+        ],
+        "median tf-idf score": 0.8490802151022784,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u2019 \u2019   \u201dThe City Council acted in good faith to do everything that it   understood was necessary to facilitate the repeal of HB2,\u201d the   city said in a statement.",
+            "\u201d In a statement Wednesday night, the city of Charlotte said officials there are \u201cdisappointed with this unfortunate outcome.",
+            "Charlotte said it has carried out its side of the deal  \u2014   but there are disputes about how the process worked, with Charlotte officials saying the City Council acted in good faith, and Republicans accusing them of lying."
+        ],
+        "tf-idf score": [
+            0.8490802151022784,
+            0.6458356684077566,
+            0.8717096273208386
+        ]
+    },
+    "0.25646530632497383-3-144": {
+        "average clique similarity": 0.25646530632497383,
+        "clique": [
+            "1-But on Monday  the C",
+            "0-Republican state law",
+            "3-Pat McCrory  R  who "
+        ],
+        "median tf-idf score": 1.1788823896801888,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "But on Monday, the City Council there rescinded its nondiscrimination ordinance    apparently in exchange for a special session by the legislature to repeal HB2.",
+            "Republican state lawmakers and Democratic leaders in Charlotte had apparently struck a deal under which the city would repeal the local ordinance, and in return, state lawmakers would repeal HB2.",
+            "Pat McCrory (R) who this month conceded to Cooper, had called the special session on Monday, hours after Charlotte city officials said they would repeal the nondiscrimination ordinance the city passed in February."
+        ],
+        "tf-idf score": [
+            0.8372371557538619,
+            1.2306189260336335,
+            1.1788823896801888
+        ]
+    },
+    "0.25942744799638157-3-137": {
+        "average clique similarity": 0.25942744799638157,
+        "clique": [
+            "1-It would have impose",
+            "0-All eyes turned to t",
+            "3- NCGA  NCPol      La"
+        ],
+        "median tf-idf score": 0.9293709218790379,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "It would have imposed a   moratorium on any local government that wants to \u201denact or amend an ordinance regulating employment practices or regulating public accommodations or access to restrooms, showers, or changing facilities\u201d.",
+            "All eyes turned to the state Legislature, where lawmakers debated a bill proposed by Senate Republicans that would repeal HB2 and institute a \u201d    period\u201d during which no local government could pass a new ordinance protecting people from employment discrimination or regulating access to \u201drestrooms, showers, or changing facilities\u201d.",
+            "#NCGA #NCPol  \u2014   Lambda Legal (@LambdaLegal) December 22, 2016   The ugly battle in North Carolina could be a deterrent for other states to either pass broad   measures or enact laws regulating bathroom use by transgender people."
+        ],
+        "tf-idf score": [
+            0.45716277854336146,
+            1.2096972421672383,
+            0.9293709218790379
+        ]
+    },
+    "0.267019776354362-3-177": {
+        "average clique similarity": 0.267019776354362,
+        "clique": [
+            "2-But the legislative ",
+            "3-After a series of at",
+            "0-But a repeal measure"
+        ],
+        "median tf-idf score": 0.43461567419125896,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "But the legislative body adjourned for the night without having voted on a proposal.",
+            "After a series of attempts to come to an agreement, the Senate voted down a bill to repeal the law and the House adjourned without acting.",
+            "But a repeal measure ultimately failed in the Senate, and the special session of the Legislature adjourned without passing any bill."
+        ],
+        "tf-idf score": [
+            0.10193517507690109,
+            0.43461567419125896,
+            0.46109347968344944
+        ]
+    },
+    "0.2806227379517447-3-94": {
+        "average clique similarity": 0.2806227379517447,
+        "clique": [
+            "1-Backlash against HB2",
+            "3-The NBA  which has a",
+            "2-The NBA also moved a"
+        ],
+        "median tf-idf score": 0.46593348649067295,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Backlash against HB2 caused huge economic losses for the state, such as businesses canceling plans to expand and the NBA moving its   game from Charlotte to another city.",
+            "The NBA, which has a franchise in Charlotte, moved this season\u2019s   Game from that city because of \u201cthe climate created by\u201d H B 2.",
+            "The NBA also moved an   Game out of Charlotte."
+        ],
+        "tf-idf score": [
+            0.8603091229695321,
+            0.46593348649067295,
+            0.24823822065405846
+        ]
+    },
+    "0.28666441237782064-4-337": {
+        "average clique similarity": 0.28666441237782064,
+        "clique": [
+            "2-HB2  known by some a",
+            "4-One   provision mand",
+            "3-The legislature adjo",
+            "0-The state law in que"
+        ],
+        "median tf-idf score": 0.6564795584505441,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "HB2, known by some as the \u201cbathroom bill\u201d because it required transgender individuals to use bathrooms that corresponded with the gender on their birth certificates, was passed nine months ago.",
+            "One   provision mandates that transgender residents use the public   bathrooms that correspond with their biological sex rather than   their gender identity.",
+            "The legislature adjourned Wednesday evening after a brutal day in which Republicans feuded over whether to fully or partially repeal the measure, and Democrats accused them of reneging on a pledge to eliminate completely the   \u201cbathroom bill,\u201d which requires people to use the public restroom that matches with the sex on their birth certificate regardless of their gender identity.",
+            "The state law in question is HB2  \u2014   also called the \u201dbathroom bill\u201d because, among other things, it requires transgender people to use bathrooms that match the sex on their birth certificate."
+        ],
+        "tf-idf score": [
+            0.5353688484229371,
+            0.36079416166521994,
+            0.95632876251021,
+            0.7775902684781509
+        ]
+    },
+    "0.3360131950810976-3-93": {
+        "average clique similarity": 0.3360131950810976,
+        "clique": [
+            "3-Dallas Woodhouse  ex",
+            "0-Around 1 a  m  ET on",
+            "4-      In a strongly "
+        ],
+        "median tf-idf score": 0.9986758916412781,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Dallas Woodhouse, executive director of the North Carolina Republican Party, posted a statement on Facebook saying that Cooper and the Charlotte City Council \u201clied to the public about a full repeal,\u201d and his group went on to call this a \u201cdishonest, disgraceful shame.",
+            "Around 1 a. m. ET on Wednesday, the executive director of the North Carolina Republican Party released a statement blasting Democrats in Charlotte, saying they \u201dlied directly to the people\u201d.",
+            "\u201d \u201d   In a strongly worded statement released at 1 a. m. on Wednesday,   North Carolina\u2019s Republican Party accused the Charlotte council   and   Roy Cooper, a Democrat, of lying about   fulfilling their end of the bargain."
+        ],
+        "tf-idf score": [
+            1.273673489464521,
+            0.9270280909511206,
+            0.9986758916412781
+        ]
+    },
+    "0.3472533196669112-3-109": {
+        "average clique similarity": 0.3472533196669112,
+        "clique": [
+            "3- Make no mistake  Ro",
+            "4-       Roy Cooper an",
+            "1-Roy Cooper  a Democr"
+        ],
+        "median tf-idf score": 0.6522192698490747,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cMake no mistake: Roy Cooper and Senate Democrats killed the repeal\u201d of the bill, Senate Leader Phil Berger (R) said in a statement.",
+            "\u201d \u2019   \u201dRoy Cooper and Charlotte City Council Democrats lied directly to   the people of North Carolina, the Legislature, and Gov.",
+            "Roy Cooper, a Democrat, and Senate Democrats."
+        ],
+        "tf-idf score": [
+            0.6522192698490747,
+            1.0025648493428698,
+            0.2240592910371775
+        ]
+    },
+    "0.3963926208937068-3-160": {
+        "average clique similarity": 0.3963926208937068,
+        "clique": [
+            "2-The names will chang",
+            "1-The NC Values Coalit",
+            "3-    The names will c"
+        ],
+        "median tf-idf score": 0.46267226810195067,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "The names will change, but the national groups who are pushing this agenda will not stop until their social engineering is accomplished.",
+            "The NC Values Coalition said the legislature got it right: \u201dWe are thankful for the members of the General Assembly who stood up for what is right, and represented the will of voters by stopping the move to cower and cave in to the city of Charlotte and the Human Rights Campaign\u201d.",
+            "\u201d  \u201cThe names will change, but the national groups who are pushing this agenda will not stop until their social engineering is accomplished,\u201d Forest, a supporter of H B 2, said in a statement Wednesday morning."
+        ],
+        "tf-idf score": [
+            0.17162040466335904,
+            0.7518069003080358,
+            0.46267226810195067
+        ]
+    },
+    "0.43518617571661106-3-69": {
+        "average clique similarity": 0.43518617571661106,
+        "clique": [
+            "1- Their action proves",
+            "2-McCrory  claimed Dem",
+            "3- Their action proves"
+        ],
+        "median tf-idf score": 0.9510081772792117,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dTheir action proves they only wanted a repeal in order to force radical social engineering and shared bathrooms across North Carolina, at the expense of our state\u2019s families, our reputation and our economy,\u201d Berger said.",
+            "McCrory, claimed Democrats had turned HB2 into an issue that \u201cwas all about politics at the expense of Charlotte and the entire state of North Carolina\u201d..",
+            "\u201cTheir action proves they only wanted a repeal in order to force radical social engineering and shared bathrooms across North Carolina, at the expense of our state\u2019s families, our reputation and our economy."
+        ],
+        "tf-idf score": [
+            0.9510081772792117,
+            0.9880535409411002,
+            0.8124004491432709
+        ]
+    },
+    "0.46434885291650496-3-42": {
+        "average clique similarity": 0.46434885291650496,
+        "clique": [
+            "2-The National Center ",
+            "4-What a dishonest  di",
+            "0-What a dishonest  di"
+        ],
+        "median tf-idf score": 0.4338382584431704,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "The National Center for Transgender Equality said the bill was what it had come to expect from these \u201cdishonest and underhanded extremist lawmakers\u201d.",
+            "What a dishonest, disgraceful shame by Roy Cooper and   Charlotte Democrats,\u201d it said.",
+            "What a dishonest, disgraceful shame by Roy Cooper and Charlotte Democrats\u201d."
+        ],
+        "tf-idf score": [
+            0.4338382584431704,
+            0.5360805815641047,
+            0.4221189739332812
+        ]
+    }
+}

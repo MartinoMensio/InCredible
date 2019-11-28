@@ -1,0 +1,654 @@
+{
+    "0.14176547411233126-3-387": {
+        "average clique similarity": 0.14176547411233126,
+        "clique": [
+            "4-Some in Mosul descri",
+            "0-Foreign Minister   A",
+            "3-How the battle for M"
+        ],
+        "median tf-idf score": 0.5979660455007002,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "Some in Mosul described how militants had begun going house to house to collect used tires that could be set on fire to generate smoke screens.",
+            "Foreign Minister   Ayrault said the militants were likely to retreat to their Syrian bastion Raqqa, so it was vital to consider how to retake that city too.",
+            "How the battle for Mosul could unfold, Setting fires to defend itself, ISIS militants have taken measures to combat coalition airstrikes."
+        ],
+        "tf-idf score": [
+            0.45060830547761116,
+            0.6805584624362296,
+            0.5979660455007002
+        ]
+    },
+    "0.14613757932854607-3-305": {
+        "average clique similarity": 0.14613757932854607,
+        "clique": [
+            "4-They saw the militan",
+            "0-The operation had be",
+            "2-Mosul is just one of"
+        ],
+        "median tf-idf score": 0.8428515244085134,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "They saw the militants as fellow Sunnis who would end corruption and abuse at the hands of the   Iraqi government and security services.",
+            "The operation had been planned since July with U S and other coalition forces and Western and Iraqi officials, mindful of the civil war that followed Saddam\u2019s fall, say plans for administering the mainly Sunni city and accommodating those who flee the fighting are in place.",
+            "Mosul is just one of several cities that Iraqi government forces and the U S military have recaptured time and again during the past 13 years of war."
+        ],
+        "tf-idf score": [
+            0.3325978516278531,
+            0.8575320309722302,
+            0.8428515244085134
+        ]
+    },
+    "0.14901626539785673-3-103": {
+        "average clique similarity": 0.14901626539785673,
+        "clique": [
+            "2-The capture of Mosul",
+            "0-A total of 20 villag",
+            "4-While the civilians "
+        ],
+        "median tf-idf score": 0.7103918077814635,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The capture of Mosul demonstrated the confidence of ISIS at the time and the threat it posed to all of Iraq and the wider region.",
+            "A total of 20 villages were taken from the militants east, south and southeast of Mosul by early Tuesday, according to statements from the two forces, fighting alongside one another for the first time.",
+            "While the civilians described stockpiling food in basement hiding places, the jihadists were said to be frantically making military preparations within Mosul, temporarily fleeing the streets  \u2014   most likely to an extensive tunnel network below  \u2014   at the first signs of an airstrike, according to the new accounts."
+        ],
+        "tf-idf score": [
+            0.5484590408618333,
+            0.7103918077814635,
+            0.7574289376267632
+        ]
+    },
+    "0.15541470632161525-3-213": {
+        "average clique similarity": 0.15541470632161525,
+        "clique": [
+            "2-In contrast  losing ",
+            "4-The girl survived an",
+            "3-For now  violence is"
+        ],
+        "median tf-idf score": 0.23116004144704821,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "In contrast, losing Mosul now would be a huge blow strategically and symbolically for the group.",
+            "The girl survived and is with her mother in the camp now.",
+            "For now, violence is limited to the villages on the city\u2019s outskirts."
+        ],
+        "tf-idf score": [
+            0.33960815237105074,
+            0.030323862006679882,
+            0.23116004144704821
+        ]
+    },
+    "0.15615452344977204-3-308": {
+        "average clique similarity": 0.15615452344977204,
+        "clique": [
+            "2-ISIS declared the ca",
+            "4-After months of mane",
+            "0-The leader of Islami"
+        ],
+        "median tf-idf score": 1.0709061009361274,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "ISIS declared the caliphate in Mosul: ISIS leader Abu Bakr   declared the caliphate, or Islamic state, at the Grand Mosque in Mosul shortly after the group took the city.",
+            "After months of maneuvering, the Iraqi government\u2019s battle to reclaim Mosul, the sprawling city whose   population lent the most credence to the Islamic State\u2019s claim to rule a fledgling nation, has finally begun.",
+            "The leader of Islamic State was reported to be among thousands of hardline militants still in the city, suggesting the group would go to great lengths to repel the coalition."
+        ],
+        "tf-idf score": [
+            1.0709061009361274,
+            1.129134204057189,
+            0.9219389094712445
+        ]
+    },
+    "0.16623349578345822-3-497": {
+        "average clique similarity": 0.16623349578345822,
+        "clique": [
+            "3-Near Mosul  Iraq  CN",
+            "4-Last month  a YouTub",
+            "1-5 million people sti"
+        ],
+        "median tf-idf score": 1.3183196948947689,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "Near Mosul, Iraq (CNN) Two years ago, Iraqi soldiers in Mosul threw down their weapons and fled the city in terror as armed militants overran the streets under the banner of the emerging threat of ISIS On Monday, invigorated Iraqi forces and their allies started back down the road to Mosul to try to reclaim the largest city under ISIS control and its last remaining stronghold in Iraq.",
+            "Last month, a YouTube video surfaced of Suraya Rimah fighters appealing to residents of Mosul to kill their Islamic State rulers when the offensive began.",
+            "5 million people still live in Mosul and the International Organization for Migration said Islamic State may use tens of thousands of residents as human shields to hold onto their last city stronghold in Iraq."
+        ],
+        "tf-idf score": [
+            1.3183196948947689,
+            0.8475244186039526,
+            1.369434622818188
+        ]
+    },
+    "0.18829950342498833-3-223": {
+        "average clique similarity": 0.18829950342498833,
+        "clique": [
+            "3-Most are working on ",
+            "4-There have also been",
+            "0-There was no indicat"
+        ],
+        "median tf-idf score": 0.35373368158155083,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "Most are working on logistics, although there are also special operations forces among that number.",
+            "There have also been a notable number of desertions from the Islamic State.",
+            "There was no indication of the number of military or civilian casualties in the Iraqi or Kurdish statements."
+        ],
+        "tf-idf score": [
+            0.20136628135391882,
+            0.35373368158155083,
+            0.4330339022617018
+        ]
+    },
+    "0.18939946161829704-3-158": {
+        "average clique similarity": 0.18939946161829704,
+        "clique": [
+            "1-The leader of Islami",
+            "2-If the Islamic State",
+            "4-In recent months  th"
+        ],
+        "median tf-idf score": 0.8783517755229864,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "The leader of Islamic State was reported to be among thousands of hardline militants still in the city, suggesting the group would go to great lengths to repel the coalition.",
+            "If the Islamic State\u2019s capture of Mosul marked the high point of the group\u2019s expansion, its expulsion would mark a major setback for a group that\u2019s steadily been losing territory in Iraq and Syria.",
+            "In recent months, the Islamic State lost control of oil fields near Raqqa in Syria and Qaiyara in Iraq, and trade with   parts of Syria was choked off because of the group\u2019s military reversals."
+        ],
+        "tf-idf score": [
+            0.9219389094712445,
+            0.8783517755229864,
+            0.7438331288938257
+        ]
+    },
+    "0.19508942439629173-3-243": {
+        "average clique similarity": 0.19508942439629173,
+        "clique": [
+            "3-Diverse coalition  B",
+            "4-That brings the Amer",
+            "0-With attacking force"
+        ],
+        "median tf-idf score": 0.7379406281912815,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "Diverse coalition, Before ISIS seized Mosul in June 2014, the   city had more than 2 million residents.",
+            "That brings the American forces in Iraq to more than 5, 000.",
+            "With attacking forces still between 20 and 50 km (  miles) away, residents reached by telephone said more than 100 families had started moving from southern and eastern suburbs most exposed to the offensive to more central parts of the city."
+        ],
+        "tf-idf score": [
+            0.7379406281912815,
+            0.2879885451593652,
+            0.8109191203737233
+        ]
+    },
+    "0.19591280022785726-3-87": {
+        "average clique similarity": 0.19591280022785726,
+        "clique": [
+            "4- All Mosul people  w",
+            "2-They are famously pr",
+            "0-Islamic State milita"
+        ],
+        "median tf-idf score": 0.6457737040119792,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201cAll Mosul people, whenever they have the chance to fight and kill ISIS terrorists, they do so,\u201d he said.",
+            "They are famously prepared to fight to the death.",
+            "Islamic State militants were preventing people fleeing Mosul, they said, and one said they directed some towards buildings they had recently used themselves."
+        ],
+        "tf-idf score": [
+            0.6457737040119792,
+            0.04938362741019905,
+            0.9707358195015895
+        ]
+    },
+    "0.20139540153064928-3-298": {
+        "average clique similarity": 0.20139540153064928,
+        "clique": [
+            "3-One by one  in the p",
+            "2-The Kurdish areas in",
+            "4-Over the past few we"
+        ],
+        "median tf-idf score": 0.4904628425163475,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "One by one, in the past two years, coalition forces have reclaimed those cities.",
+            "The Kurdish areas in northeastern Iraq are already packed with those who fled Mosul or other parts of the region over the past two years.",
+            "Over the past few weeks, coalition airstrikes began more intensively targeting the suspected homes of senior Islamic State figures in Mosul."
+        ],
+        "tf-idf score": [
+            0.4106277372058412,
+            0.4904628425163475,
+            0.7655239325653383
+        ]
+    },
+    "0.20968368281973673-3-501": {
+        "average clique similarity": 0.20968368281973673,
+        "clique": [
+            "0-It will be very caut",
+            "3-Shia paramilitaries ",
+            "2-But if defeated  ISI"
+        ],
+        "median tf-idf score": 0.33774717098177526,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "It will be very cautious.",
+            "Shia paramilitaries will not be involved in the assault on Mosul, but will be tasked with securing areas around the city instead.",
+            "But if defeated, ISIS will no longer control any large population centers in Iraq and will be reduced to a rural insurgency concentrated mostly in the west."
+        ],
+        "tf-idf score": [
+            0.009215135482551014,
+            0.5068435322553281,
+            0.33774717098177526
+        ]
+    },
+    "0.21453190397411226-3-144": {
+        "average clique similarity": 0.21453190397411226,
+        "clique": [
+            "0-Residents of Mosul s",
+            "3-Humanitarian crisis ",
+            "1- It s quite clear Da"
+        ],
+        "median tf-idf score": 1.1146096439867024,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Residents of Mosul said Islamic State was using civilians as human shields   in their advance on the jihadists\u2019 stronghold.",
+            "Humanitarian crisis looms, Mosul\u2019s residents remain in the clutches of a terror group known for exploiting civilians as human shields.",
+            "\u201cIt\u2019s quite clear Daesh (Islamic State) has started to use civilians as human shields by allowing families to stay in buildings likely to be targeted by air strikes,\u201d said Abu Mahir, who lives near the city\u2019s university."
+        ],
+        "tf-idf score": [
+            1.1146096439867024,
+            0.5961748873926813,
+            1.2071325991827666
+        ]
+    },
+    "0.21966647677424175-3-321": {
+        "average clique similarity": 0.21966647677424175,
+        "clique": [
+            "4- The United Nations ",
+            "0-5 million people sti",
+            "1- Residents of Mosul "
+        ],
+        "median tf-idf score": 1.369434622818188,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cThe United Nations is deeply concerned that in a   scenario, the operation in Mosul could be the most complex and largest in the world in 2016, and we fear as many as one million civilians may be forced to flee their homes,\u201d said Lise Grande, the United Nations\u2019 humanitarian coordinator for Iraq.",
+            "5 million people still live in Mosul and the International Organization for Migration said Islamic State may use tens of thousands of residents as human shields to hold onto their last city stronghold in Iraq.",
+            " Residents of Mosul said Islamic State was using civilians as human shields as Iraqi and Kurdish forces captured outlying villages in their advance on the jihadists\u2019 stronghold."
+        ],
+        "tf-idf score": [
+            0.8552004405266367,
+            1.369434622818188,
+            1.4693881067985464
+        ]
+    },
+    "0.22702519957101694-3-166": {
+        "average clique similarity": 0.22702519957101694,
+        "clique": [
+            "2-Critics have called ",
+            "1-The Iraqi army is at",
+            "4-The militants  secur"
+        ],
+        "median tf-idf score": 0.8023866411759851,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Critics have called for the U S effort to be stepped up and that\u2019s widely expected to happen in a coordinated assault on Mosul that will include the Iraqi army moving up from the south and allied Kurdish fighters advancing from the north and the east of the city.",
+            "The Iraqi army is attacking Mosul on the southern and southeastern fronts, while the Peshmerga carried out their operation to the east and are also deployed north and northwest.",
+            "The militants\u2019 security preparations have been directed not only at the city\u2019s borders  \u2014   particularly toward the south and east where Iraqi forces, allied militias and Kurdish pesh merga fighters are arrayed  \u2014   but also internally."
+        ],
+        "tf-idf score": [
+            0.9743478134885151,
+            0.6905369050078044,
+            0.8023866411759851
+        ]
+    },
+    "0.22785355828170573-3-390": {
+        "average clique similarity": 0.22785355828170573,
+        "clique": [
+            "1-Hoshiyar Zebari  a s",
+            "0-  Fighting is expect",
+            "3-The force includes 5"
+        ],
+        "median tf-idf score": 1.2025389847234627,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Hoshiyar Zebari, a senior Kurdish official, said initial operations succeeded due to close cooperation between the Iraqi government and Kurdish peshmerga fighters, allowing them to clear Islamic State from 9 or 10 villages east of Mosul.",
+            "\u201d Fighting is expected to take weeks, if not months, as 30, 000 government forces, Sunni tribal fighters and Kurdish Peshmerga first encircle the city then attempt to oust between 4, 000 and 8, 000 Islamic State militants.",
+            "The force includes 54, 000 members of the Iraqi Security Forces and 40, 000 Kurdish Peshmerga fighters."
+        ],
+        "tf-idf score": [
+            1.3963916528784575,
+            1.2025389847234627,
+            0.5780301294363435
+        ]
+    },
+    "0.2373275613984929-3-317": {
+        "average clique similarity": 0.2373275613984929,
+        "clique": [
+            "4-Some of Mosul s rema",
+            "2-Warnings of a major ",
+            "3-Today  about 1 milli"
+        ],
+        "median tf-idf score": 0.5977644347336144,
+        "publications": [
+            "CNN",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "Some of Mosul\u2019s remaining one million or more residents had grown bolder in showing resistance to the Islamic State force ruling the city  \u2014   numbering 3, 000 to 4, 500 fighters, the United States military estimated.",
+            "Warnings of a major civilian exodus: Mosul had about 2 million residents before ISIS took over and is still estimated to have a million or more.",
+            "Today, about 1 million residents of the   city remain."
+        ],
+        "tf-idf score": [
+            1.2503211674396355,
+            0.5977644347336144,
+            0.29376665205971414
+        ]
+    },
+    "0.3112951624251625-3-501": {
+        "average clique similarity": 0.3112951624251625,
+        "clique": [
+            "1-  Islamic State lead",
+            "0-  Islamic State lead",
+            "4-The local economic c"
+        ],
+        "median tf-idf score": 0.7493865022302567,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201d Islamic State leader Abu Bakr   and explosives expert Fawzi Ali Nouimeh were both in the city, according to what Zebari described as \u201dsolid\u201d intelligence reports.",
+            "\u201d Islamic State leader Abu Bakr   and explosives expert Fawzi Ali Nouimeh were both in the city, according to what Zebari described as \u201csolid\u201d intelligence reports.",
+            "The local economic crisis hit the militants as well, with reports that they cut the pay for their fighters to less than $100 a month, from $400 in 2014, said Abu Bakr Kanan, a former leader of the Sunni religious affairs office in Mosul, who said he was in regular touch with residents there."
+        ],
+        "tf-idf score": [
+            0.7493865022302567,
+            0.7493865022302567,
+            0.9829367699856726
+        ]
+    },
+    "0.3289560868604234-4-50": {
+        "average clique similarity": 0.3289560868604234,
+        "clique": [
+            "0-Davis described the ",
+            "1-Davis described the ",
+            "3-Why the battle for M",
+            "4-We have to prepare f"
+        ],
+        "median tf-idf score": 0.4680798362208733,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "Davis described the operation to retake Mosul as \u201can ugly fight\u201d adding: \u201cBut I will tell you we\u2019ve seen very good progress.",
+            "Davis described the operation to retake Mosul as \u201dan ugly fight\u201d adding: \u201dBut I will tell you we\u2019ve seen very good progress.",
+            "Why the battle for Mosul matters in the fight against ISIS, But, if Monday is any indication, \u201dISIS is showing that it\u2019s very willing to put up a fight,\u201d CNN\u2019s Nick Paton Walsh said.",
+            "We have to prepare for a very tough fight."
+        ],
+        "tf-idf score": [
+            0.4680798362208733,
+            0.4680798362208733,
+            0.7481327549093532,
+            0.03765454926552106
+        ]
+    },
+    "0.3743108300440197-3-501": {
+        "average clique similarity": 0.3743108300440197,
+        "clique": [
+            "3-It also involves 14 ",
+            "4-When fewer than 1  0",
+            "1-Fighting is expected"
+        ],
+        "median tf-idf score": 1.0069478930700881,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "It also involves 14, 000 members of paramilitary units    9, 000 Sunni fighters, and 5, 000 from other minorities including Christians, Turkmen and Yazidis.",
+            "When fewer than 1, 000 Islamic State fighters forced about 60, 000 Iraqi Army and police defenders to abandon Mosul in June 2014, many among its Sunni population cheered their arrival.",
+            "Fighting is expected to take weeks, if not months, as 30, 000 government forces, Sunni tribal fighters and Kurdish Peshmerga first encircle the city then attempt to oust between 4, 000 and 8, 000 Islamic State militants."
+        ],
+        "tf-idf score": [
+            0.27958177907322446,
+            1.0069478930700881,
+            1.2025389847234627
+        ]
+    },
+    "0.4063604763078241-3-57": {
+        "average clique similarity": 0.4063604763078241,
+        "clique": [
+            "1-DIFFICULT FIGHT Iraq",
+            "3-The     coalition gr",
+            "0-Iraqi Prime Minister"
+        ],
+        "median tf-idf score": 1.3767457969575565,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "DIFFICULT FIGHT Iraqi Prime Minister Haider   said safe routes had been secured for civilians who wanted to leave Mosul and it was the duty of the U S  coalition to prevent Islamic State fighters from escaping into nearby Syria.",
+            "The     coalition greatly outnumbers its opponents and has the benefit of air support from roughly 90 coalition and Iraqi planes.",
+            "Iraqi Prime Minister Haider   said safe routes had been secured for civilians who wanted to leave Mosul and it was the duty of the U S  coalition to prevent Islamic State fighters from escaping into nearby Syria."
+        ],
+        "tf-idf score": [
+            1.4206732920797813,
+            0.33711235577146825,
+            1.3767457969575565
+        ]
+    },
+    "0.42142253051325046-3-135": {
+        "average clique similarity": 0.42142253051325046,
+        "clique": [
+            "1- This has been going",
+            "4-Those forces will fi",
+            "0- This has been going"
+        ],
+        "median tf-idf score": 0.45996044038739703,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201dThis has been going on for several weeks where we\u2019ve seen civilians being forcibly detained and their movements being prevented where they can\u2019t get out of Mosul.",
+            "Those forces will fight to enter a city where for weeks the harsh authoritarian rule of the Islamic State, also known as ISIS, ISIL or Daesh, has sought to crack down on a population eager to either escape or rebel, according to interviews with roughly three dozen people from Mosul.",
+            "\u201cThis has been going on for several weeks where we\u2019ve seen civilians being forcibly detained and their movements being prevented where they can\u2019t get out of Mosul."
+        ],
+        "tf-idf score": [
+            0.45996044038739703,
+            1.3143406391112966,
+            0.45996044038739703
+        ]
+    },
+    "0.42415428373073466-3-112": {
+        "average clique similarity": 0.42415428373073466,
+        "clique": [
+            "1- I told Daesh fighte",
+            "3-Airdropped leaflets ",
+            "0- I told Daesh fighte"
+        ],
+        "median tf-idf score": 0.4137388081300259,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dI told Daesh fighters at a checkpoint \u2019I\u2019m going to stay at my sister\u2019s house\u2019,\u201d he said.",
+            "Airdropped leaflets told residents to tape up their windows, disconnect gas cylinders, and stay indoors.",
+            "\u201cI told Daesh fighters at a checkpoint \u2018I\u2019m going to stay at my sister\u2019s house\u2019,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.4137388081300259,
+            0.17052864977178078,
+            0.4137388081300259
+        ]
+    },
+    "0.439741824071171-3-169": {
+        "average clique similarity": 0.439741824071171,
+        "clique": [
+            "2-The fighting is cert",
+            "1-The Kurdish forces s",
+            "0-The Kurdish forces s"
+        ],
+        "median tf-idf score": 0.8117214452136501,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "The fighting is certain to drive out civilians, and the Iraqi government and aid groups are worried about a humanitarian crisis.",
+            "The Kurdish forces said they secured \u201da significant stretch\u201d of the 80 km (50 mile) road between Erbil, their capital, and Mosul, about an hour\u2019s drive to the west.",
+            "The Kurdish forces said they secured \u201ca significant stretch\u201d of the 80 km (50 mile) road between Erbil, their capital, and Mosul, about an hour\u2019s drive to the west."
+        ],
+        "tf-idf score": [
+            0.3933137159702391,
+            0.8117214452136501,
+            0.8117214452136501
+        ]
+    },
+    "0.4477468039331174-3-38": {
+        "average clique similarity": 0.4477468039331174,
+        "clique": [
+            "3-Outside Mosul  ISIS ",
+            "0-Islamic State said o",
+            "1-SUICIDE BOMBS Islami"
+        ],
+        "median tf-idf score": 0.9276611910980241,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "Outside Mosul, ISIS claimed responsibility for a suicide bombing at a military checkpoint in southern Baghdad that killed 10 people and wounded 17 on Monday, a security source said.",
+            "Islamic State said on Monday its fighters had targeted the attacking forces with 10 suicide bombs and that their foes had surrounded five villages but not taken them.",
+            "SUICIDE BOMBS Islamic State said on Monday its fighters had targeted the attacking forces with 10 suicide bombs and that their foes had surrounded five villages but not taken them."
+        ],
+        "tf-idf score": [
+            0.8410979654301532,
+            0.9276611910980241,
+            0.9276611910980241
+        ]
+    },
+    "0.45655484605159175-3-355": {
+        "average clique similarity": 0.45655484605159175,
+        "clique": [
+            "0-It s day one  don t ",
+            "2- The day after  will",
+            "1-It s day one  don t "
+        ],
+        "median tf-idf score": 0.05850560432777995,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "It\u2019s day one, don\u2019t get your hopes up, it\u2019s going to be a while.",
+            "\u201dThe day after\u201d will be crucial: The battles for Iraqi cities have a Groundhog Day quality about them.",
+            "It\u2019s day one, don\u2019t get your hopes up, it\u2019s going to be a while\u201d."
+        ],
+        "tf-idf score": [
+            0.05850560432777995,
+            0.3820806987652113,
+            0.05850560432777995
+        ]
+    },
+    "0.4574226265854095-3-362": {
+        "average clique similarity": 0.4574226265854095,
+        "clique": [
+            "0-U S President Barack",
+            "2-Just months earlier ",
+            "1-U S President Barack"
+        ],
+        "median tf-idf score": 0.8704029643104676,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "U S President Barack Obama said it would be a difficult fight but Islamic State \u201cwill be defeated in Mosul\u201d.",
+            "Just months earlier, President Obama had described ISIS as \u201dthe JV team\u201d.",
+            "U S President Barack Obama said it would be a difficult fight but Islamic State \u201dwill be defeated in Mosul\u201d."
+        ],
+        "tf-idf score": [
+            0.8704029643104676,
+            0.22979702948052094,
+            0.8704029643104676
+        ]
+    }
+}

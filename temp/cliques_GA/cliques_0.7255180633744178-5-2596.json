@@ -1,0 +1,422 @@
+{
+    "0.17425811033826508-3-274": {
+        "average clique similarity": 0.17425811033826508,
+        "clique": [
+            "2-I never wanted to do",
+            "4-Lewandowski turned h",
+            "0-I mean  if you look "
+        ],
+        "median tf-idf score": 1.67382914079924,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "I never wanted to do that,\" she told Megyn Kelly of Fox News on March 14. \"I needed a report to show people that this happened. \"",
+            "Lewandowski turned himself over to police just after 8 a. m. on Tuesday, according to the arrest report. He has a mandatory court appearance scheduled for May 4 at 8:30 a. m. Police obtained video that appears to definitively show the campaign manager grabbing Fields' arm on March 12 from Trump's security at the Trump National Golf Club, where the campaign hosted the press conference, the report also said.",
+            "I mean, if you look at her face, her expression doesn't even change. \" Earlier on Tuesday, while on his campaign plane, Trump said that Fields was seen running up and grabbing him after a news conference which he claimed she was \"never supposed to do,\" and that Lewandowski was trying to block Fields from \"grabbing and asking questions\"."
+        ],
+        "tf-idf score": [
+            0.2968853328477651,
+            1.9593666927336604,
+            1.67382914079924
+        ]
+    },
+    "0.1753007253124064-3-90": {
+        "average clique similarity": 0.1753007253124064,
+        "clique": [
+            "0-Lewandowski initiall",
+            "3-First he denied it e",
+            "2- Joe Raedle   Before"
+        ],
+        "median tf-idf score": 0.6396356777418082,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Lewandowski initially denied the incident had taken place, telling Fields over Twitter he had never even met her.",
+            "First he denied it ever happened. Then he denied the video footage existed.",
+            "(Joe Raedle)  Before, Trump and Lewandowski had both denied that Lewandowski touched the reporter at all."
+        ],
+        "tf-idf score": [
+            0.6396356777418082,
+            0.12295324993279601,
+            0.6516600819207544
+        ]
+    },
+    "0.18418307084440633-3-189": {
+        "average clique similarity": 0.18418307084440633,
+        "clique": [
+            "3- Corey Lewandowski i",
+            "0-Ted Cruz s campaign ",
+            "4-Trump s campaign sai"
+        ],
+        "median tf-idf score": 1.2355900480709265,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "\"Corey Lewandowski is gratified by the decision to drop the misdemeanor charge and appreciates the thoughtful consideration and professionalism by the Palm Beach State Attorney and his staff who carefully reviewed this matter, as well as Mr Trump's loyalty and the support of his colleagues and family during this time. The matter is now concluded,\" Trump's campaign said in a statement in light of the news.",
+            "Ted Cruz's campaign said the incident is indicative of the culture of the Trump campaign.",
+            "Trump's campaign said Lewandowski would plead not guilty and is \"absolutely innocent of this charge\" in a statement provided to Politico. \"He is completely confident that he will be exonerated,\" the statement said. Fields later retweeted a Trump tweet urging people to dig deeper into her allegations with the remark \"seriously, just stop lying\"."
+        ],
+        "tf-idf score": [
+            1.2355900480709265,
+            0.7698835947335794,
+            1.5196760511859955
+        ]
+    },
+    "0.1886306808186818-3-304": {
+        "average clique similarity": 0.1886306808186818,
+        "clique": [
+            "3-Fields recounted the",
+            "4-Fields and multiple ",
+            "2-The video appeared t"
+        ],
+        "median tf-idf score": 1.1605249041783492,
+        "publications": [
+            "Vox",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Fields recounted the incident in a post on Breitbart in her own words:  I wasn't called upon to ask a question during the televised press conference, but afterwards Trump wandered around, stopping at every reporter to take their questions. When he approached me, I asked him about his view on an aspect of affirmative action.",
+            "Fields and multiple other staffers resigned their posts at the conservative news site following the incident, saying Breitbart leaders were more concerned with appeasing the Trump campaign than supporting their employee. After Fields tweeted a photo of   bruises on her arm, Lewandowski responded by smearing Fields as \"delusional\" and an an \"attention seeker\".",
+            "The video appeared to show Lewandowski grabbing Breitbart News reporter Michelle Fields as she sought to ask Trump a question after a   news conference."
+        ],
+        "tf-idf score": [
+            0.9754130861817378,
+            1.595018305971593,
+            1.1605249041783492
+        ]
+    },
+    "0.18874584680902842-3-158": {
+        "average clique similarity": 0.18874584680902842,
+        "clique": [
+            "3-twitter       Donald",
+            "1-Update at 5 15 p  m ",
+            "0-Cruz said during a t"
+        ],
+        "median tf-idf score": 1.1611404305547814,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "twitter. --   Donald J Trump (@realDonaldTrump) March 29, 2016     Trump pushed this story home throughout his campaign rallies in Wisconsin and during his town hall with CNN's Anderson Cooper, where he said by Field's account he might press charges as well.",
+            "Update at 5:15 p. m. ET: Speaking to reporters on his plane in Wisconsin, Trump backed his campaign manager, saying Lewandowski was \"very seriously maligned,\" and said he would remain in his job.",
+            "Cruz said during a town hall Tuesday night that if Lewandowski was his campaign manage, he would ask him to resign."
+        ],
+        "tf-idf score": [
+            1.1611404305547814,
+            1.3406070819313567,
+            0.9196962692029953
+        ]
+    },
+    "0.19067787013439128-3-304": {
+        "average clique similarity": 0.19067787013439128,
+        "clique": [
+            "2-Fields said she file",
+            "3-Trump s campaign man",
+            "1-Lewandowski has prev"
+        ],
+        "median tf-idf score": 1.3088054521392827,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Fields said she filed the complaint in part because Lewandowski and the Trump campaign had denied that the incident occurred at all. \"I didn't want to file a criminal complaint.",
+            "Trump's campaign manager Lewandowski was served with a notice to appear from the Jupiter, Florida, Police Department last month after Fields filed a criminal report that he \"manhandled\" her at a campaign rally in early March.",
+            "Lewandowski has previously denied involvement in the incident, calling Fields \"totally delusional\" in a tweet: However video tape released by the Jupiter Police Department appears to show Lewandowski grabbing Fields as she walked along side Trump."
+        ],
+        "tf-idf score": [
+            1.2256754694912073,
+            1.5886572711458962,
+            1.3088054521392827
+        ]
+    },
+    "0.2085136960683831-3-171": {
+        "average clique similarity": 0.2085136960683831,
+        "clique": [
+            "0- She grabbed me and ",
+            "3-She took  Terris s  ",
+            "2- Wouldn t you think "
+        ],
+        "median tf-idf score": 0.265194248094959,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "\"She grabbed me and she had something in her hand, I don't know what it was,\" Trump told Hannity. \"It looked like it could have been a pen.",
+            "She took [Terris's] arm and squeezed it hard. \"I don't even want to do it as hard as he did,\" she said, \"because it would hurt\".",
+            "\"Wouldn't you think she would have yelled out a scream or something if she has bruises on her arm. \""
+        ],
+        "tf-idf score": [
+            0.7057966747225077,
+            0.265194248094959,
+            0.22882373643725978
+        ]
+    },
+    "0.21311569361794783-3-59": {
+        "average clique similarity": 0.21311569361794783,
+        "clique": [
+            "1-The Post reporter  B",
+            "4-Michelle Fields file",
+            "3-What Michelle has to"
+        ],
+        "median tf-idf score": 0.8917234648677614,
+        "publications": [
+            "Vox",
+            "Talking Points Memo",
+            "NPR"
+        ],
+        "sentences": [
+            "The Post reporter, Ben Terris, confirmed it was Lewandowski who had grabbed her arm. (Sections of the report containing contact information have been redacted by NPR above).",
+            "Michelle Fields filed a police report with Jupiter, Florida police on March 11 alleging that Lewandowski forcefully grabbed her by the arm, nearly pulling her to the ground, after a campaign press conference.",
+            "What Michelle has told us directly is that someone \"grabbed her arm\" and while she did not see who it was, Ben Terris of the Washington Post told her that it was Corey Lewandowski."
+        ],
+        "tf-idf score": [
+            0.886693025311467,
+            1.2422251625331275,
+            0.8917234648677614
+        ]
+    },
+    "0.27490402348688797-3-304": {
+        "average clique similarity": 0.27490402348688797,
+        "clique": [
+            "1-According to the arr",
+            "2-A   legal figure in ",
+            "0-The incident occurre"
+        ],
+        "median tf-idf score": 1.345711437129502,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "According to the arrest report, the reporter, Michelle Fields, told police that she asked Trump a question after the March 8 event, as he was making his way toward the exit of the ballroom at the Trump National Golf Club, and felt someone \"yank her left arm\".",
+            "A   legal figure in South Florida, Coffey was the U S attorney there in the 1990s, but he resigned after allegations that he bit an exotic dancer on the arm at a nightclub, according to press reports.",
+            "The incident occurred after a March 8 press conference at the Trump National Golf Club in Jupiter, Fla. where Corey Lewandowski was accused by Fields of grabbing her arm as she asked the Republican   a question."
+        ],
+        "tf-idf score": [
+            1.345711437129502,
+            0.5064056866978964,
+            1.492644786320618
+        ]
+    },
+    "0.2868954485113766-5-4": {
+        "average clique similarity": 0.2868954485113766,
+        "clique": [
+            "2-Donald Trump s campa",
+            "0- Donald Trump vowed ",
+            "4-This post has been u",
+            "1-Police in Jupiter  F",
+            "3-Trump has stood by h"
+        ],
+        "median tf-idf score": 1.3693785452578997,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News",
+            "Talking Points Memo",
+            "Vox"
+        ],
+        "sentences": [
+            "Donald Trump's campaign manager was charged with battery on March 29.",
+            " Donald Trump vowed Tuesday to stand by his campaign manager who was charged with misdemeanor battery over allegations he grabbed the arm of   reporter Michelle Fields, as the aide maintained his innocence.",
+            "This post has been updated. Local Florida police charged Donald Trump campaign manager Corey Lewandowski with misdemeanor battery Tuesday after a former reporter for Breitbart accused him of manhandling her.",
+            "Police in Jupiter, Fla. have charged Donald Trump's campaign manager with battery for allegedly grabbing a reporter for Breitbart news following a Trump campaign rally earlier this month.",
+            "Trump has stood by his campaign manager despite Fields's claims, a surveillance video corroborates her story, and a police report that had charged Lewandowski with battery."
+        ],
+        "tf-idf score": [
+            0.8758141219787396,
+            1.3693785452578997,
+            1.4375809382380262,
+            1.103309702593094,
+            1.3905383796451545
+        ]
+    },
+    "0.30539532790347146-3-84": {
+        "average clique similarity": 0.30539532790347146,
+        "clique": [
+            "2-Bujnowski also inter",
+            "3-According to Washing",
+            "1-She then asked a Was"
+        ],
+        "median tf-idf score": 0.46358358436678304,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Bujnowski also interviewed Washington Post reporter Ben Terris, who saw the incident and described it in print.",
+            "According to Washington Post reporter Ben Terris, who was there and witnessed the incident, Lewandowski grabbed Fields and yanked her out of the candidate's way.",
+            "She then asked a Washington Post reporter standing nearby \"if it was 'Corey' who grabbed her\"."
+        ],
+        "tf-idf score": [
+            0.3598500045275134,
+            1.0583235799677166,
+            0.46358358436678304
+        ]
+    },
+    "0.3184716117980337-3-16": {
+        "average clique similarity": 0.3184716117980337,
+        "clique": [
+            "1-Corey Lewandowski is",
+            "2-with  1  count of Si",
+            "0-He is completely con"
+        ],
+        "median tf-idf score": 0.45325005023751974,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Corey Lewandowski is charged with one count of simple battery.",
+            "with (1) count of Simple Battery. \" [Terris's story: Lewandowski, and other Trump staffers, willing to fight for him]  In a statement defending Lewandowski, Trump's campaign on Tuesday gave no indication that he would be suspended or otherwise removed from his duties as campaign manager.",
+            "He is completely confident that he will be exonerated. \" Lewandowski is due to appear in court on May 4th to face one count of simple battery."
+        ],
+        "tf-idf score": [
+            0.3862748890946009,
+            1.0938308248041533,
+            0.45325005023751974
+        ]
+    },
+    "0.3246561361219193-3-34": {
+        "average clique similarity": 0.3246561361219193,
+        "clique": [
+            "3-Fields was suspended",
+            "2-Fields did not reply",
+            "1-Fields resigned from"
+        ],
+        "median tf-idf score": 0.5417124551019545,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Fields was suspended from her post at Breitbart and later resigned.",
+            "Fields did not reply to a request for comment. She resigned from Breitbart on March 14 after the news organization raised questions about whether Lewandowski had actually grabbed her.",
+            "Fields resigned from her Breitbart post after the incident, saying the news outlet had not stood behind her."
+        ],
+        "tf-idf score": [
+            0.5417124551019545,
+            0.756730769159095,
+            0.5203050886627432
+        ]
+    },
+    "0.374020112824228-3-147": {
+        "average clique similarity": 0.374020112824228,
+        "clique": [
+            "2- It s a very sad dev",
+            "1-According to The Hil",
+            "0- Unfortunately  this"
+        ],
+        "median tf-idf score": 0.8586972559012216,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\"It's a very sad development,\" Cruz told reporters outside a restaurant in Milwaukee, where he was campaigning ahead of next week's Wisconsin GOP primary. \"This the consequence of the culture of the Trump campaign. The abusive culture.",
+            "According to The Hill, Ted Cruz told reporters in Wisconsin \"This is the consequence of the culture of the Trump campaign, the abusive culture, when you have a campaign that is built on personal insults, on attacks and now, physical violence\".",
+            "\"Unfortunately, this abusive behavior seems to be part of the culture of the Trump campaign."
+        ],
+        "tf-idf score": [
+            0.9642035601020884,
+            0.8586972559012216,
+            0.55184306897777
+        ]
+    },
+    "0.3914481413670661-3-304": {
+        "average clique similarity": 0.3914481413670661,
+        "clique": [
+            "1-He was not arrested ",
+            "2-He will enter a plea",
+            "3-Trump s case for Lew"
+        ],
+        "median tf-idf score": 0.7653385451306257,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "He was not arrested. Mr Lewandowski is absolutely innocent of this charge. He will enter a plea of not guilty and looks forward to his day in court. He is completely confident that he will be exonerated\".",
+            "He will enter a plea of not guilty and looks forward to his day in court,\" campaign spokeswoman Hope Hicks said in the statement. \"He is completely confident that he will be exonerated. \"",
+            "Trump's case for Lewandowski so blatantly denied evidence that it was hard to argue against The Trump campaign was \"completely confident [Lewandowski] will be exonerated,\" according to a statement released to Politico reporter Hadas Gold:   Trump Camp statement on Corey Lewandowksi charges pic. twitter."
+        ],
+        "tf-idf score": [
+            0.7653385451306257,
+            0.6354242644435599,
+            1.419838042011598
+        ]
+    },
+    "0.3953821396220263-4-107": {
+        "average clique similarity": 0.3953821396220263,
+        "clique": [
+            "3-Then Trump began twe",
+            "2- This was  in my opi",
+            "1-Trump had weighed in",
+            "0-Trump also backed Le"
+        ],
+        "median tf-idf score": 0.7956592450476035,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "Then Trump began tweeting his take on the evidence: that \"nothing\" questionable happened.",
+            "\"This was, in my opinion, made up,\" Trump told CNN then. \"Everybody said nothing happened. Perhaps she made the story up.",
+            "Trump had weighed in earlier this month as well, saying: \"This was, in my opinion, made up. Everybody said nothing happened. Perhaps she made the story up. I think that's what happened\".",
+            "Trump also backed Lewandowski, telling reporters a few days later that \"everybody said nothing happened. Perhaps she made the story up, I think that's what happened. \""
+        ],
+        "tf-idf score": [
+            0.3596441806409057,
+            0.7628928071199998,
+            0.8284256829752072,
+            0.9284759648008148
+        ]
+    },
+    "0.43918757161993066-3-100": {
+        "average clique similarity": 0.43918757161993066,
+        "clique": [
+            "1-John Kasich s campai",
+            "0-Meanwhile  John Kasi",
+            "2-John Kasich said he "
+        ],
+        "median tf-idf score": 0.8100397526489881,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "John Kasich's campaign adviser John Weaver tweeted that Lewandowski \"would have been fired long ago\" if he was working for the Kasich campaign.",
+            "Meanwhile, John Kasich's campaign strategist John Weaver called Lewandowski a \"bully\" and said he would have already been fired if he worked for the Ohio governor.",
+            "John Kasich said he would have fired Lewandowski if such an incident had happened in his campaign, according to press reports. Sen. Ted Cruz ( .)"
+        ],
+        "tf-idf score": [
+            0.8100397526489881,
+            0.7560051351940427,
+            0.9401032331212457
+        ]
+    }
+}

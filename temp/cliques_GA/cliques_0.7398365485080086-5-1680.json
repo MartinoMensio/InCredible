@@ -1,0 +1,274 @@
+{
+    "0.23386453842481436-3-35": {
+        "average clique similarity": 0.23386453842481436,
+        "clique": [
+            "1-The footage comes fr",
+            "4-Police said the shoo",
+            "2-  I want to assure o"
+        ],
+        "median tf-idf score": 0.9096876042004515,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The footage comes from the dashboard camera of a police car that responded to a report of a stalled SUV in the middle of the road in Tulsa.",
+            "Police said the shooting occurred after an officer stopped to investigate a vehicle in the middle of a road.",
+            "'\"I want to assure our community and I want to assure all of you and people across the nation watching this: We will achieve justice,\" Jordan said.' \"The police said the incident began Friday when officers found Crutcher's white SUV in the middle of a road while en route to an unrelated call."
+        ],
+        "tf-idf score": [
+            0.661997395047189,
+            0.9096876042004515,
+            1.4142519489620846
+        ]
+    },
+    "0.24587996644420665-3-72": {
+        "average clique similarity": 0.24587996644420665,
+        "clique": [
+            "0-Police spokeswoman J",
+            "3-Shelby did not activ",
+            "1-Police spokeswoman J"
+        ],
+        "median tf-idf score": 1.0947142171660953,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Police spokeswoman Jeanne MacKenzie had earlier told reporters that two officers were walking toward the stalled SUV when Crutcher approached them from the side of the road.",
+            "Shelby did not activate her patrol car's dashcam, said police spokeswoman Jeanne MacKenzie, and the   video released on Monday came from the car of a second officer who arrived at the scene.",
+            "Police spokeswoman Jeanne MacKenzie said Saturday that Crutcher refused the officers' commands to put his hands up."
+        ],
+        "tf-idf score": [
+            0.9331438126293433,
+            1.1408667326676634,
+            1.0947142171660953
+        ]
+    },
+    "0.28561617691638325-3-25": {
+        "average clique similarity": 0.28561617691638325,
+        "clique": [
+            "1-Crutcher then collap",
+            "0-a female voice can b",
+            "4-Crutcher s head then"
+        ],
+        "median tf-idf score": 0.7891060049799887,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "Crutcher then collapses to the ground. One of the officers' voices can be heard saying, \"Shots fired. \"",
+            "a female voice can be heard yelling. Based on the video alone, it appears unclear who fired the fatal shot or why it was fired. After Crutcher is hit, footage shows his limp and bloodied body lying on the roadway beside his vehicle.",
+            "Crutcher's head then drops, leaving him lying completely out in the street. After that a voice can be heard on the police radio saying, \"Shots fired."
+        ],
+        "tf-idf score": [
+            0.6705648159343299,
+            0.8858603086939494,
+            0.7891060049799887
+        ]
+    },
+    "0.2967079205296958-3-87": {
+        "average clique similarity": 0.2967079205296958,
+        "clique": [
+            "4- We will achieve jus",
+            "1- The video is very d",
+            "0- The first time I wa"
+        ],
+        "median tf-idf score": 1.275907189129349,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"We will achieve justice in this case,\" Jordan said. The police video shows Crutcher walking toward his SUV with his hands up and a female officer following him.",
+            "\"The video is very disturbing, it's very difficult to watch,\" Tulsa Police Chief Chuck Jordan said in a press conference Monday before the video's release. \"We will do the right thing --  we will not cover anything up. \"",
+            "\"The first time I watched it I watched it with the family   ...     we will do the right thing, we will not cover anything up. \" Jordan said investigators never found a weapon on Terence Crutcher or in his vehicle after the    was shot and killed Friday as he stood beside his stalled SUV Crutcher died in a hospital later that evening."
+        ],
+        "tf-idf score": [
+            1.3024027725839131,
+            1.005543260163348,
+            1.275907189129349
+        ]
+    },
+    "0.30871577352011637-3-144": {
+        "average clique similarity": 0.30871577352011637,
+        "clique": [
+            "2- The video  taken fr",
+            "1-The video shows the ",
+            "0-The video footage  h"
+        ],
+        "median tf-idf score": 0.9697436599143571,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "'The video, taken from a police dashcam, shows    Terence Crutcher walking away from several police officers with his hands up before the police used a stun gun and then fatally shot him, the .'",
+            "The video shows the car arriving at the scene, where another police car is stopped behind the disabled SUV Crutcher can be seen walking away from the cop cars and toward the driver's side of his car, with his hands raised over his head.",
+            "The video footage, however, shows him with hands in the air, he walks away from the police at a slow pace, leans against the car, and that is when he was shot. \""
+        ],
+        "tf-idf score": [
+            1.2716522741443024,
+            0.9697436599143571,
+            0.8474148185329538
+        ]
+    },
+    "0.34094208133388076-3-32": {
+        "average clique similarity": 0.34094208133388076,
+        "clique": [
+            "3-It s not clear from ",
+            "4-It s not clear from ",
+            "1-Members of Crutcher "
+        ],
+        "median tf-idf score": 0.8437027566717269,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "It's not clear from the footage what led Betty Shelby, the officer who fired the fatal shot, to draw her gun or what orders officers might have given Crutcher.",
+            "It's not clear from watching the video what other orders officers might have given him. \"We saw that Terence did not have any weapon. Terence did not make any sudden movements.",
+            "Members of Crutcher's family, who saw the video before to it was released to the public, said the footage contradicts that claim. \"We saw that Terence did not have any weapon."
+        ],
+        "tf-idf score": [
+            0.8437027566717269,
+            0.6041566804274364,
+            1.0818355041670236
+        ]
+    },
+    "0.3565566168901367-3-131": {
+        "average clique similarity": 0.3565566168901367,
+        "clique": [
+            "3- We will achieve jus",
+            "4-US Attorney Danny C ",
+            "1-MacKenzie said the c"
+        ],
+        "median tf-idf score": 0.9982129174325077,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"We will achieve justice in this case,\" Jordan said. Local and federal investigations are working to determine whether criminal charges are warranted in the shooting or if Crutcher's civil rights were violated. Crutcher's twin sister, Tiffany Crutcher, called for charges on Monday.",
+            "US Attorney Danny C Williams said the Department of Justice's civil rights investigation into the shooting will be separate from a local one into whether criminal charges should be filed.",
+            "MacKenzie said the county would investigate whether Crutcher's civil rights had been violated and if criminal charges should be brought against the officers responsible, assuring that \"we will achieve justice in this case. \""
+        ],
+        "tf-idf score": [
+            1.0519909361436888,
+            0.6967053620355576,
+            0.9982129174325077
+        ]
+    },
+    "0.3927559481745682-3-99": {
+        "average clique similarity": 0.3927559481745682,
+        "clique": [
+            "4-Tulsa Police Chief C",
+            "2- At a news conferenc",
+            "3-Probably on somethin"
+        ],
+        "median tf-idf score": 1.4333259653881016,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Tulsa Police Chief Chuck Jordan announced Monday before the department released the shooting footage that    Terence Crutcher had no weapon on him or in his SUV Police said local and federal investigators are looking into Friday's shooting to determine whether there should be criminal charges or if Crutcher's civil rights were violated.",
+            "'At a news conference on Monday, Tulsa Police Chief Chuck Jordan said Crutcher did not have a weapon during the Friday stop.' 'Local and federal investigators are weighing the possibility of filing criminal charges or   violations over the fatal shooting.'",
+            "Probably on something. \" Police chief Chuck Jordan announced before the video and audio recordings were released that Crutcher had no weapon on him or in his vehicle when he was shot on Friday."
+        ],
+        "tf-idf score": [
+            1.628041292414438,
+            1.4333259653881016,
+            1.1340337234646227
+        ]
+    },
+    "0.4126806972683282-3-129": {
+        "average clique similarity": 0.4126806972683282,
+        "clique": [
+            "2- The video footage  ",
+            "1-Terence did not make",
+            "4-We saw that Terence "
+        ],
+        "median tf-idf score": 1.2342979304436164,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "'The video footage, however, shows Crutcher walking away from the police with his hands on his head before stopping at a vehicle.' '\"We saw that Terence did not have any weapon,\" said Damario   an attorney representing Crutcher''s family.",
+            "Terence did not make any sudden movements. We saw that Terence was not being belligerent,\" Damario   an attorney for Crutcher's family, said in a press conference Monday.",
+            "We saw that Terence was not being belligerent,\" one of the attorneys for Crutcher's family, Damario   said at a news conference separate from one police held."
+        ],
+        "tf-idf score": [
+            1.3774028281255681,
+            1.0933601193287672,
+            1.2342979304436164
+        ]
+    },
+    "0.440602539918941-3-62": {
+        "average clique similarity": 0.440602539918941,
+        "clique": [
+            "3-An unarmed black man",
+            "2-    Video of the pol",
+            "4-TULSA  Okla        A"
+        ],
+        "median tf-idf score": 1.2981650822585347,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "New York Post"
+        ],
+        "sentences": [
+            "An unarmed black man killed by a white Oklahoma police officer can be seen on video walking away from officers and toward his SUV with his hands up before he approaches the driver's side door, where he drops to the ground after being shocked with a stun gun and then fatally shot.",
+            "'' 'Video of the police fatally shooting an unarmed black man in Tulsa, Oklahoma, was released Monday.'",
+            "TULSA, Okla.  --   An unarmed black man fatally shot by a white Tulsa, Oklahoma, officer responding to a stalled vehicle last week can be seen in police dashcam video walking toward his SUV with his hands up and officers following behind him before he's shocked with a stun gun and then fatally shot."
+        ],
+        "tf-idf score": [
+            1.2981650822585347,
+            1.0131675855296889,
+            1.410590343078738
+        ]
+    },
+    "0.46113096828727784-5-21": {
+        "average clique similarity": 0.46113096828727784,
+        "clique": [
+            "1-The first  Tyler Tur",
+            "3-Police say Tulsa off",
+            "4-Tulsa officer Betty ",
+            "2- Betty Shelby  a Tul",
+            "0-Officer Betty Shelby"
+        ],
+        "median tf-idf score": 1.230708073101712,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "Washington Post",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "The first, Tyler Turnbough, was said to have fired a stun gun at Crutcher.",
+            "Police say Tulsa officer Betty Shelby fired the fatal shot, while officer Tyler Turnbough used a stun gun on Crutcher.",
+            "Tulsa officer Betty Shelby fired the fatal shot, while officer Tyler Turnbough used a stun gun on Crutcher, police said. Turnbough also is white.",
+            "'Betty Shelby, a Tulsa police officer since December 2011, fired the shot that killed Crutcher, while Tyler Turnbough, on the force since January 2009, used the stun gun on him. Both officers are white.'",
+            "Officer Betty Shelby, who has been with the force since 2011, fired her service weapon, and officer Tyler Turnbough, who was hired in 2009, deployed his Taser, police said."
+        ],
+        "tf-idf score": [
+            0.8105796996900293,
+            1.230708073101712,
+            1.4662956042108584,
+            1.3343990658906044,
+            1.1664568153384598
+        ]
+    }
+}

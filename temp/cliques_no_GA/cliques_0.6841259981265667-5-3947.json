@@ -1,0 +1,658 @@
+{
+    "0.1398277483312762-3-335": {
+        "average clique similarity": 0.1398277483312762,
+        "clique": [
+            "2-The disaster has lef",
+            "1-Arguments about who ",
+            "0-Mike has not only co"
+        ],
+        "median tf-idf score": 1.0182847815224318,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "The disaster has left Flint residents fearful about the lasting effects of lead on the city\u2019s youngest children, distrustful of the promises of the authorities and reliant on filters and bottled water.",
+            "Arguments about who\u2019s to blame for the Flint crisis have focused on the   emergency managers who oversaw the switch to river water; the state Department of Environmental Quality; and Gov.",
+            "Mike has not only conducted tests on water provided to us by Detroit, but also on local water from nearby rivers, lakes and streams including the Flint River."
+        ],
+        "tf-idf score": [
+            1.0182847815224318,
+            1.0935887794528787,
+            0.7950319819841034
+        ]
+    },
+    "0.14280137689310446-3-548": {
+        "average clique similarity": 0.14280137689310446,
+        "clique": [
+            "2-The state workers ha",
+            "4-Rick Snyder on Wedne",
+            "0-Busch was suspended "
+        ],
+        "median tf-idf score": 0.4560047170768397,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The state workers have been suspended without pay, Mr Snyder said late Wednesday.",
+            "Rick Snyder on Wednesday called the charges \u201cdeeply troubling and extremely serious,\u201d but said his administration \u201cencouraged the investigations\u201d and was \u201ccooperating.",
+            "Busch was suspended from DEQ in January pending the investigations."
+        ],
+        "tf-idf score": [
+            0.4560047170768397,
+            0.5556460841950698,
+            0.2797789154628463
+        ]
+    },
+    "0.15139354919238318-3-528": {
+        "average clique similarity": 0.15139354919238318,
+        "clique": [
+            "2- This is the start t",
+            "3-In a September inter",
+            "4- This is one step to"
+        ],
+        "median tf-idf score": 0.32151897028493664,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cThis is the start to that.",
+            "In a September interview with NPR, Edwards says: \u201dFlint is the only city in America that I\u2019m aware of that does not have a corrosion control plan\u201d.",
+            "\u201cThis is one step toward justice for the people of Flint, but it\u2019s only a beginning."
+        ],
+        "tf-idf score": [
+            0.013276559219877946,
+            0.4993370469873542,
+            0.32151897028493664
+        ]
+    },
+    "0.16638236823316982-3-308": {
+        "average clique similarity": 0.16638236823316982,
+        "clique": [
+            "2-Researchers from Vir",
+            "3-A December email fro",
+            "0-In each case  the me"
+        ],
+        "median tf-idf score": 0.8202748602451189,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Researchers from Virginia Tech said recently that while Flint\u2019s system was \u201con the path to recovery,\u201d it remained a \u201c  zone for lead in water.",
+            "A December email from Snyder\u2019s communications director, Meegan Holland, also said that Flint never tested the impact of the Flint River water on the distribution system.",
+            "In each case, the men seem to have had misgivings about Flint\u2019s decision to switch away from the Detroit Water system and begin drawing water from the Flint River instead."
+        ],
+        "tf-idf score": [
+            0.9290847003577897,
+            0.8202748602451189,
+            0.7532855532515127
+        ]
+    },
+    "0.16763501203842043-3-91": {
+        "average clique similarity": 0.16763501203842043,
+        "clique": [
+            "3-The EPA issues an em",
+            "0-That panel  appointe",
+            "4- We re on the road b"
+        ],
+        "median tf-idf score": 0.5295642916659479,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "The EPA issues an emergency order to take action on the Flint water crisis.",
+            "That panel, appointed by Snyder, came back with scathing conclusion \u2014  placing some blame on EPA, but most of the blame on the state, from Earley, the emergency manager whom Snyder appointed, right up through the DEQ to the governor\u2019s office.",
+            "\u201cWe\u2019re on the road back, and I know this will take some time."
+        ],
+        "tf-idf score": [
+            0.7488056522424298,
+            0.5295642916659479,
+            0.05378993597937405
+        ]
+    },
+    "0.17519158145604077-3-508": {
+        "average clique similarity": 0.17519158145604077,
+        "clique": [
+            "1-Immediately before F",
+            "0-  As the switch near",
+            "2-Not long before Flin"
+        ],
+        "median tf-idf score": 1.475700835406555,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Immediately before Flint switched to river water for its water source  \u2014   the fateful decision that set the lead crisis in motion  \u2014   Glasgow warned that the city was moving too fast: \u201dIf water is distributed from this plant in the next couple weeks, it will be against my direction,\u201d he said eight days before the switch, according to MLive.",
+            "\u201d As the switch neared, Glasgow too had serious reservations.",
+            "Not long before Flint switched to a new water supply in 2014, Mr Glasgow warned state officials that he believed the city was not fully ready to make the change and suggested, in an email  released as part of thousands of emails made public since the crisis began, that \u201cpeople above\u201d him were pushing to move too quickly."
+        ],
+        "tf-idf score": [
+            1.4929973651309347,
+            0.11473452002937846,
+            1.475700835406555
+        ]
+    },
+    "0.17816858147192738-3-48": {
+        "average clique similarity": 0.17816858147192738,
+        "clique": [
+            "3-As the   has reporte",
+            "0-In addition to the c",
+            "1-Instead  the city sa"
+        ],
+        "median tf-idf score": 0.8760085049535014,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "As the   has reported, \u201din an unfortunate cycle, the water additives that would \u2019 \u2019 corroded pipes in the water system, thereby preventing lead from leaching into the water, are not reaching the pipes because people in Flint don\u2019t want to pay for contaminated water that they can\u2019t use\u201d.",
+            "In addition to the criminal charges Wednesday, Glasgow has said that Prysby told him the city of Flint did not need to use phosphate to coat the pipes and prevent corrosion.",
+            "Instead, the city sampled homes mostly without lead pipes and told the EPA they were following the regulation."
+        ],
+        "tf-idf score": [
+            0.8760085049535014,
+            0.9680296388715426,
+            0.40898853135252483
+        ]
+    },
+    "0.17844757661074637-3-27": {
+        "average clique similarity": 0.17844757661074637,
+        "clique": [
+            "4-Glasgow  the city s ",
+            "3-A team from Virginia",
+            "1-Prysby and Busch are"
+        ],
+        "median tf-idf score": 1.014519010781299,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Glasgow, the city\u2019s water supervisor, is charged with willful neglect of evidence and tampering with evidence for allegedly changing test results and falsifying reports to show less lead had leaked into the city\u2019s water supply from its aging pipes.",
+            "A team from Virginia Tech tests hundreds of homes for lead in Flint, and says that \u201dpreliminary tests show \u2019serious\u2019 levels of lead in city water\u201d.",
+            "Prysby and Busch are the two accused of instructing Glasgow to drop homes with high lead levels from Flint\u2019s report to the EPA They\u2019re also accused of impeding an investigation into another problem with Flint water unrelated to lead: an outbreak of Legionnaire\u2019s disease."
+        ],
+        "tf-idf score": [
+            1.007338399420563,
+            1.014519010781299,
+            1.2188799511905435
+        ]
+    },
+    "0.1875281283986243-3-557": {
+        "average clique similarity": 0.1875281283986243,
+        "clique": [
+            "2-  He said he had not",
+            "0-The major message of",
+            "3-Wyant adds that lime"
+        ],
+        "median tf-idf score": 0.4229226898406014,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d He said he had not yet been interviewed by the attorney general\u2019s team, but that his office was cooperating with the investigation.",
+            "The major message of that report was not that there had been a massive criminal conspiracy to poison city, but that there had been multiple, serious, systemic failures of government.",
+            "Wyant adds that lime had been added to the water but provided \u201dinsufficient corrosion control\u201d."
+        ],
+        "tf-idf score": [
+            0.3504821409852042,
+            0.4314396034608297,
+            0.4229226898406014
+        ]
+    },
+    "0.1895089631351462-3-76": {
+        "average clique similarity": 0.1895089631351462,
+        "clique": [
+            "4-Flint s drinking wat",
+            "3-The EPA says it was ",
+            "1-Busch  who was suspe"
+        ],
+        "median tf-idf score": 1.0497958920772552,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Vox"
+        ],
+        "sentences": [
+            "Flint\u2019s drinking water supply became contaminated in April 2014 when the city switched its source from Lake Huron, which is managed by Detroit, to the Flint River.",
+            "The EPA says it was notified by the MDEQ on or about April 24 \u201dthat the City did not have corrosion control treatment in place at the Flint Water Treatment Plant\u201d.",
+            "Busch, who was suspended in January, had assured the EPA in February 2015 that Flint was using corrosion control in its water, which would have prevented the river water from causing lead to leach into the water."
+        ],
+        "tf-idf score": [
+            0.9157578324553347,
+            1.0497958920772552,
+            1.0972639081988593
+        ]
+    },
+    "0.19319491938824537-3-52": {
+        "average clique similarity": 0.19319491938824537,
+        "clique": [
+            "1-Charging   state emp",
+            "3-That same day  Gov ",
+            "2-  Some residents poi"
+        ],
+        "median tf-idf score": 0.0885831444628068,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Charging   state employees seems likely to end the criticism Michigan Gov.",
+            "That same day, Gov.",
+            "\u201d Some residents pointedly alluded to Gov."
+        ],
+        "tf-idf score": [
+            0.29617763498290045,
+            0.0381849634942769,
+            0.0885831444628068
+        ]
+    },
+    "0.19356083128894608-3-286": {
+        "average clique similarity": 0.19356083128894608,
+        "clique": [
+            "0-What about the offic",
+            "2-  Nicole Woycik  a m",
+            "3-Michigan Radio reach"
+        ],
+        "median tf-idf score": 0.7950942986469991,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "What about the officials in the governor\u2019s office who knew about problems with Flint\u2019s water, even if (as he says) they didn\u2019t tell him?",
+            "\u201d Nicole Woycik, a mother who worries about her    son\u2019s behavioral changes and wonders about   effects the water may have on him, described the criminal charges as \u201ca start.",
+            "Michigan Radio reaches out to the MDEQ for comment about the memo, and spokesman Brad Wurfel says, \u201dLet me start here  \u2014   anyone who is concerned about lead in the drinking water in Flint can relax\u201d."
+        ],
+        "tf-idf score": [
+            0.7950942986469991,
+            0.5670672891692821,
+            0.9747356528352095
+        ]
+    },
+    "0.19577739417248954-3-109": {
+        "average clique similarity": 0.19577739417248954,
+        "clique": [
+            "2-I hope I gave them s",
+            "0-Who can blame them ",
+            "3- But dropping two sa"
+        ],
+        "median tf-idf score": 0.030227470164453568,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "I hope I gave them some.",
+            "Who can blame them?",
+            "\u201dBut dropping two samples put them below the action level\u201d."
+        ],
+        "tf-idf score": [
+            0.01254065493067573,
+            0.030227470164453568,
+            0.09961305932561638
+        ]
+    },
+    "0.22108834780145184-3-542": {
+        "average clique similarity": 0.22108834780145184,
+        "clique": [
+            "0-The result was artif",
+            "3-The MDEQ dropped two",
+            "1-Glasgow also alleged"
+        ],
+        "median tf-idf score": 0.43127618414528524,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "The result was artificially low levels of lead from the tests.",
+            "The MDEQ dropped two samples from its initial report on lead levels from the city, which put the result within federally mandated levels.",
+            "Glasgow also allegedly removed two homes with high lead levels from the final test results, he says at the behest of state employees."
+        ],
+        "tf-idf score": [
+            0.364243068399602,
+            0.43127618414528524,
+            0.6251128560452309
+        ]
+    },
+    "0.2219751540400761-3-630": {
+        "average clique similarity": 0.2219751540400761,
+        "clique": [
+            "0-The names on the lis",
+            "3-Others are also to b",
+            "4- It s unconscionable"
+        ],
+        "median tf-idf score": 0.5592367575523195,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The names on the list don\u2019t include the governor, the former head of the state Department of Environmental Quality, the city\u2019s former emergency manager, or any of the other names that have appeared prominently in reports about the poisoning.",
+            "Others are also to blame, the report says, including the state\u2019s Department of Health and Human Services, the city\u2019s emergency managers and the governor.",
+            "\u201cIt\u2019s unconscionable that Governor Snyder   who made this crisis possible by dismantling protections, putting in place unaccountable emergency managers, perpetuating environmental injustice, and focusing only on the bottom line at the cost of a community\u2019s health   has avoided any accountability to date,\u201d club chair David Holtz said."
+        ],
+        "tf-idf score": [
+            0.5069354113763491,
+            0.5592367575523195,
+            0.681763955645959
+        ]
+    },
+    "0.23162483700484984-3-179": {
+        "average clique similarity": 0.23162483700484984,
+        "clique": [
+            "0-For months  resident",
+            "2-That had the effect ",
+            "4-Some of the city s n"
+        ],
+        "median tf-idf score": 0.8477044419821278,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "For months, residents were told their water was safe, even as   levels of government came to know it was not \u2014  in fact, the water was contaminated by poisonous levels of lead.",
+            "That had the effect of making the levels of lead in the water supply appear far less dangerous than they were, and falsely reassured officials who could have intervened months earlier, as well as residents, that the water was safe.",
+            "Some of the city\u2019s nearly 100, 000 residents have since had high levels of lead found in their blood."
+        ],
+        "tf-idf score": [
+            0.8477044419821278,
+            0.9239237501041262,
+            0.4351104738193596
+        ]
+    },
+    "0.2390485917310808-3-389": {
+        "average clique similarity": 0.2390485917310808,
+        "clique": [
+            "2-  Mr Snyder  who ann",
+            "0-  Schuette  the stat",
+            "3- In Flint  Veolia an"
+        ],
+        "median tf-idf score": 0.5957921216526063,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d Mr Snyder, who announced this week that he would drink Flint water for a month, said at a news conference on Wednesday that the charges were \u201cdeeply troubling and extremely serious.",
+            "\u201d Schuette, the state\u2019s attorney general, said during a news conference Wednesday that the charges were the beginning and not the end of his investigation, and suggested that more individuals would be charged.",
+            "\u201dIn Flint, Veolia and LAN were hired to do a job and failed miserably,\u201d Schuette told reporters at a news conference."
+        ],
+        "tf-idf score": [
+            1.0830128126010232,
+            0.5957921216526063,
+            0.39443124121888024
+        ]
+    },
+    "0.24237697052156668-3-166": {
+        "average clique similarity": 0.24237697052156668,
+        "clique": [
+            "1-Rick Snyder is facin",
+            "0-This week  Governor ",
+            "3-Rick Snyder declares"
+        ],
+        "median tf-idf score": 0.8210235828980238,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Rick Snyder is facing.",
+            "This week, Governor Rick Snyder announced he\u2019ll spend the month drinking water from Flint that\u2019s been run through a water filter.",
+            "Rick Snyder declares a state of emergency in Genesee County due to the lead in Flint\u2019s drinking water."
+        ],
+        "tf-idf score": [
+            0.1316654770812472,
+            0.8210235828980238,
+            0.9693802310639366
+        ]
+    },
+    "0.24341013896261177-3-172": {
+        "average clique similarity": 0.24341013896261177,
+        "clique": [
+            "2-Mr Prysby was also c",
+            "3-Liane   is the forme",
+            "4- Mr Bush and Mr Prys"
+        ],
+        "median tf-idf score": 1.0924923826135315,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "Mr Prysby was also charged with misconduct in office for authorizing use of the Flint plant, \u201cknowing that the Flint water treatment plant was deficient in its ability to provide clean and safe drinking water.",
+            "Liane   is the former director of the drinking water and municipal assistance office within the MDEQ She and two subordinates, Adam Rosenthal and Patrick Cook, allegedly misled officials about Flint\u2019s water treatment plant, which was not in compliance with lead and copper rules.",
+            "\u201cMr Bush and Mr Prysby misled federal and local authorities, regulating officials, and failed to provide safe and clean water to the families of Flint,\u201d Schuette said."
+        ],
+        "tf-idf score": [
+            1.0924923826135315,
+            1.0929502788745273,
+            1.0597212709859771
+        ]
+    },
+    "0.24576151408935645-4-248": {
+        "average clique similarity": 0.24576151408935645,
+        "clique": [
+            "3-Fifteen parts per bi",
+            "2-Mr Busch and Mr Prys",
+            "1-The federal Environm",
+            "0-The crux of the alle"
+        ],
+        "median tf-idf score": 0.45256684108552825,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Fifteen parts per billion is the [Environmental Protection Agency]\u2019s limit for lead in drinking water\u201d.",
+            "Mr Busch and Mr Prysby, the state officials, were charged with misconduct in office, a felony, for \u201cwillfully and knowingly misleading\u201d the federal Environmental Protection Agency and the Genesee County Health Department about dangers posed by the water.",
+            "The federal Environmental Protection Agency requires that testing for lead be done on homes with lead pipes, which pose the highest risk.",
+            "The crux of the allegation against Prysby and Busch is that they tried to impede investigations by the Genessee County Department of Health and by the U S Environmental Protection Agency."
+        ],
+        "tf-idf score": [
+            0.5475892988671041,
+            1.0353094394400428,
+            0.35754438330395244,
+            0.33319503887569585
+        ]
+    },
+    "0.2486621163995849-3-487": {
+        "average clique similarity": 0.2486621163995849,
+        "clique": [
+            "2-Each of the tamperin",
+            "4-The pair are also fa",
+            "0-Four are felonies  t"
+        ],
+        "median tf-idf score": 0.22421220121446658,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "Each of the tampering charges is a felony punishable by up to four years and $10, 000.",
+            "The pair are also facing evidence tampering charges for allegedly altering water test results, and conspiracy charges for allegedly jointly agreeing to conceal the tampered evidence, each of which carries a maximum   sentence.",
+            "Four are felonies: two each of misconduct in office and one each of tampering with evidence and conspiring to do so."
+        ],
+        "tf-idf score": [
+            0.22421220121446658,
+            0.737644180693587,
+            0.15626188930167426
+        ]
+    },
+    "0.26550710212863504-3-630": {
+        "average clique similarity": 0.26550710212863504,
+        "clique": [
+            "3-Michigan s attorney ",
+            "2-In announcing the ch",
+            "0-On Wednesday  Michig"
+        ],
+        "median tf-idf score": 0.6614091152087705,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Michigan\u2019s attorney general, Bill Schuette, announces that three people will face charges  \u2014   the first criminal charges leveled against officials over the lead crisis.",
+            "In announcing the charges, some of which are felonies carrying penalties of as much as five years in prison, Bill Schuette, the Michigan attorney general, answered skeptics in Flint and elsewhere who had openly doubted that anyone would ever be held accountable for the health crisis here.",
+            "On Wednesday, Michigan Attorney General Bill Schuette announced charges in connection with the scandal."
+        ],
+        "tf-idf score": [
+            0.6614091152087705,
+            0.7754204920305675,
+            0.3669503103920686
+        ]
+    },
+    "0.29303522706003554-3-616": {
+        "average clique similarity": 0.29303522706003554,
+        "clique": [
+            "4-The MDEQ employees a",
+            "2-Mr Prysby and Mr Bus",
+            "0-He also faces two mi"
+        ],
+        "median tf-idf score": 1.1593620125052357,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "The MDEQ employees are also facing two misdemeanor charges for allegedly violating the state\u2019s clean water laws by failing to require an   be added to Flint\u2019s water system, and manipulating the water testing system by telling residents to   their pipes before they could be examined.",
+            "Mr Prysby and Mr Busch each face two misdemeanor charges of violating the state\u2019s Safe Drinking Water Act by failing to order anticorrosion treatment of the water, and for telling residents to run, or \u201cpreflush,\u201d their taps before samples were taken for lead testing, creating misleadingly low readings.",
+            "He also faces two misdemeanor counts of violating the Safe Drinking Water Act."
+        ],
+        "tf-idf score": [
+            1.1593620125052357,
+            1.2143249879664981,
+            0.49259319946218594
+        ]
+    },
+    "0.2943487824406799-4-169": {
+        "average clique similarity": 0.2943487824406799,
+        "clique": [
+            "0-Glasgow has been cha",
+            "1-Three people are acc",
+            "3-Rosenthal is also ch",
+            "2-FLINT  Mich       Th"
+        ],
+        "median tf-idf score": 0.8627634614693531,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Glasgow has been charged with willful neglect of office and with tampering with evidence by changing test results to show lower lead levels in city water than were actually present.",
+            "Three people are accused of crimes in covering up the Flint crisis Michael Glasgow, a Flint utilities administrator, will be charged with tampering with evidence and willful neglect of office.",
+            "Rosenthal is also charged with tampering with evidence, for allegedly requesting water tests that did not show elevated lead.",
+            "FLINT, Mich.  \u2014   Three government workers were charged with crimes on Wednesday for their roles in this city\u2019s water crisis, accused in part of covering up evidence of lead contamination."
+        ],
+        "tf-idf score": [
+            1.0121167334496182,
+            0.7134101894890882,
+            0.6276610730409694,
+            1.1384038935470535
+        ]
+    },
+    "0.32373600149102105-3-258": {
+        "average clique similarity": 0.32373600149102105,
+        "clique": [
+            "1- Three people are fi",
+            "4- A city worker and t",
+            "2-The workers      an "
+        ],
+        "median tf-idf score": 1.4968703901473075,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            " Three people are finally facing criminal charges in the Flint water crisis: two state officials and one city employee who, according to Michigan\u2019s attorney general, covered up the high levels of lead in the city\u2019s water and stopped investigations into other   health risks.",
+            " A city worker and two state officials were charged Wednesday in connection with the Flint water crisis, Michigan\u2019s attorney general announced, making them the first people to face criminal charges over the city\u2019s water contamination emergency.",
+            "The workers  \u2014   an employee of Flint and two state workers assigned to monitor water quality in cities  \u2014   are the first to face criminal charges in connection with the failures that left residents of this city drinking foul and unsafe water for many months."
+        ],
+        "tf-idf score": [
+            1.6683992553087026,
+            1.4968703901473075,
+            1.2647783030677757
+        ]
+    },
+    "0.32391578724603126-3-630": {
+        "average clique similarity": 0.32391578724603126,
+        "clique": [
+            "0-The other two are St",
+            "3-Stephen Busch and Mi",
+            "4-At a press conferenc"
+        ],
+        "median tf-idf score": 1.169351015137108,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The other two are Stephen Busch, who was a district administrator for the   program at the DEQ, and Mike Prysby, who was an engineer at the department.",
+            "Stephen Busch and Michael Prysby are state officials at the MDEQ City employee Michael Glasgow is Flint\u2019s water quality supervisor.",
+            "At a press conference Wednesday, Michigan Attorney General Bill Schuette said felony and misdemeanor charges had been filed against Flint worker Michael Glasgow and Michigan Department of Environmental Quality (MDEQ) employees Steven Busch and Michael Prysby."
+        ],
+        "tf-idf score": [
+            0.39560066865727916,
+            1.169351015137108,
+            1.1731759291202892
+        ]
+    },
+    "0.34769857962994216-3-380": {
+        "average clique similarity": 0.34769857962994216,
+        "clique": [
+            "1-Michigan Public Radi",
+            "2-  The charges agains",
+            "3-As the   reported  t"
+        ],
+        "median tf-idf score": 1.3132607938121346,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Michigan Public Radio explained the effect this had:      Two state employees  \u2014   Michael Prysby, an engineer with the state Department of Environmental Quality, and Stephen Busch, who supervised eight district water offices  \u2014   will face charges for violating Michigan\u2019s Safe Drinking Water Act, tampering with evidence, conspiracy, and misconduct in office.",
+            "\u201d The charges against the three defendants  \u2014   Michael Prysby, a district engineer with the State Department of Environmental Quality Stephen Busch, a district supervisor in the same department and Michael Glasgow, the city\u2019s utilities manager  \u2014   included tampering with evidence contained in reports on lead levels in city water, and the two state officials were also charged with conspiracy to tamper with evidence.",
+            "As the   reported, the three \u201dface felony charges including misconduct, neglect of duty and conspiracy to tamper with evidence."
+        ],
+        "tf-idf score": [
+            1.3132607938121346,
+            1.475162322965687,
+            0.28917844510999857
+        ]
+    }
+}

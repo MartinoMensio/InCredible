@@ -1,0 +1,226 @@
+{
+    "0.17589370564273113-3-123": {
+        "average clique similarity": 0.17589370564273113,
+        "clique": [
+            "4- Scalia refused to r",
+            "3- For someone on the ",
+            "2-Trump responded earl"
+        ],
+        "median tf-idf score": 0.5745993298713736,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "(Scalia refused to recuse himself in the case, and the supreme court remanded it to a lower court, which threw the lawsuit out entirely. The documents were leaked to the media in 2007.) \"And people thought that Bush v Gore would tarnish the court's reputation,\" Lubet added.",
+            "\"For someone on the Supreme Court who is going to be calling balls and strikes in the future based upon whatever the next president and Congress does, that strikes me as inherently biased and out of the realm\".",
+            "Trump responded earlier Tuesday to the Times in a phone interview, calling Ginsburg's comments and involvement in a political campaign \"highly inappropriate\" and \"a disgrace to the court\"."
+        ],
+        "tf-idf score": [
+            0.5745993298713736,
+            0.5025606837505231,
+            1.158640355080335
+        ]
+    },
+    "0.20899359147635108-3-140": {
+        "average clique similarity": 0.20899359147635108,
+        "clique": [
+            "3-  S he couldn t help",
+            "4- I think it s possib",
+            "1- I think it s a disg"
+        ],
+        "median tf-idf score": 0.5654996116083648,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"[S]he couldn't help but be surprised by what's happened in the last 72 hours with so much   from even folks who are her fans on the left,\" Biskupic said on CNN's \"At This Hour\" on Thursday morning. \"I think she felt like it was important for her to clear the air.",
+            "\"I think it's possible she profoundly believes that the legitimacy of the court and the country are at risk\" from a Trump presidency, Carmon said.",
+            "\"I think it's a disgrace to the court, and I think she should apologize to the court. I couldn't believe it when I saw it. \""
+        ],
+        "tf-idf score": [
+            0.5654996116083648,
+            0.7085193611721561,
+            0.3174000848544885
+        ]
+    },
+    "0.2559571925078353-3-73": {
+        "average clique similarity": 0.2559571925078353,
+        "clique": [
+            "1- For the country  it",
+            "3-Despite the statemen",
+            "2-And to The Associate"
+        ],
+        "median tf-idf score": 0.8702596132637079,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"For the country, it could be four years. For the court, it could be  --   I don't even want to contemplate that. \" She also told the Associated Press she assumed Democrat Hillary Clinton will win the November election.",
+            "Despite the statement, Trump will likely continue to use the comments to help excite the base and warn about the liberal leanings of the court and danger of a President Hillary Clinton adding more liberals to the bench should she win the White House.",
+            "And to The Associated Press, Ginsburg said, \"It's likely that the next president, whoever she will be, will have a few appointments to make,\" Ginsburg said, a clear nod to presumptive Democratic nominee Hillary Clinton. The AP noted that Ginsburg smiled as she made that comment."
+        ],
+        "tf-idf score": [
+            0.5327190183819934,
+            0.8702596132637079,
+            0.9188630190532562
+        ]
+    },
+    "0.2643405249871845-4-112": {
+        "average clique similarity": 0.2643405249871845,
+        "clique": [
+            "3-  CNN  Supreme Court",
+            "1-Justice Ruth Bader G",
+            "4-It turns out that th",
+            "0-Supreme Court Justic"
+        ],
+        "median tf-idf score": 1.5831477012512822,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            " (CNN) Supreme Court Justice Ruth Bader Ginsburg said Thursday she regrets remarks she made earlier this week to CNN and other news outlets criticizing presumptive Republican presidential nominee Donald Trump.",
+            "Justice Ruth Bader Ginsburg made clear that her criticism of Republican Donald Trump was not the result of an unguarded moment.",
+            "It turns out that the New York Times' editorial board, the Washington Post's editorial board and Donald Trump can find one thing on which to agree: they all believe that US supreme court justice Ruth Bader Ginsburg ought not to have openly criticized the presumptive Republican nominee  --   let alone, presumably, doubled down on her comments.",
+            "Supreme Court Justice Ruth Bader Ginsburg  --   who was appointed to the court by President Bill Clinton  --   issued a statement on Thursday saying she regrets her \" \" remarks about presumptive Republican nominee Donald Trump."
+        ],
+        "tf-idf score": [
+            1.5928125512945797,
+            1.0139062755795218,
+            1.5851664651374981,
+            1.5811289373650665
+        ]
+    },
+    "0.2860563314746953-4-77": {
+        "average clique similarity": 0.2860563314746953,
+        "clique": [
+            "4-But  he noted  there",
+            "1-The press seems to b",
+            "3-   How has he gotten",
+            "0-He really has an ego"
+        ],
+        "median tf-idf score": 0.8172849353607736,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "But, he noted, there have been other political controversies in modern times that in his view tarnished neither the court nor the justices. \"People thought that Scalia's duck hunt with   [Dick] Cheney would have some impact, but it did not,\" he argued, referring to the   justice's 2004 hunting trip with the   shortly before the court was due to rule on whether Cheney was entitled to keep secret the files on an energy task he headed in 2001.",
+            "The press seems to be very gentle with him on that. \" Trump got on the line with the New York Times's Maggie Haberman to respond.",
+            ".. How has he gotten away with not turning over his tax returns? The press seems to be very gentle with him on that\". Justice Stephen Breyer was asked about her comments Wednesday and according to the event organizers at the Sun Valley Writer's Conference he declined to comment  saying, \"If I had an opinion, I wouldn't express it\".",
+            "He really has an ego. ...     How has he gotten away with not turning over his tax returns? The press seems to be very gentle with him on that. \" \"I can't imagine what this place would be  --   I can't imagine what the country would be  --   with Donald Trump as our president,\" she stated in an interview with the New York Times on Monday."
+        ],
+        "tf-idf score": [
+            0.8307212900421008,
+            0.47197818807836345,
+            0.8038485806794463,
+            1.0201094912854756
+        ]
+    },
+    "0.2914532210529304-3-40": {
+        "average clique similarity": 0.2914532210529304,
+        "clique": [
+            "3-Her mind is shot   r",
+            "1-Trump responded by t",
+            "0-Trump reacted to Gin"
+        ],
+        "median tf-idf score": 1.099645733402594,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Her mind is shot   resign!\" Trump tweeted.",
+            "Trump responded by telling a New York Times reporter that Ginsburg's comments were \"highly inappropriate\" and she should leave her lifetime appointment sooner rather than later. Early Wednesday, a more pointed message was posted to his Twitter account: \"Her mind is shot  --   resign!\"",
+            "Trump reacted to Ginsburg's statement on Twitter Wednesday morning, saying, \"Justice Ginsburg of the U S Supreme Court has embarrassed all by making very dumb political statements about me. Her mind is shot  --   resign!\""
+        ],
+        "tf-idf score": [
+            0.2925334081988917,
+            1.099645733402594,
+            1.404780358452497
+        ]
+    },
+    "0.35594576493357316-3-88": {
+        "average clique similarity": 0.35594576493357316,
+        "clique": [
+            "0-Ginsburg had called ",
+            "3- He is a faker   she",
+            "2-He says whatever com"
+        ],
+        "median tf-idf score": 0.8554497245237948,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "Ginsburg had called Trump \"a faker,\" among other things. \"He has no consistency about him,\" the    previously stated about Trump. \"He says whatever comes into his head at the moment.",
+            "\"He is a faker,\" she told CNN, going point by point, as if presenting a legal brief. \"He has no consistency about him. He says whatever comes into his head at the moment. He really has an ego.",
+            "He says whatever comes into his head at the moment,\" she said. \"At first I thought it was funny,\" she continued, \"to think that there's a possibility that he could be president\". She also criticized the candidate for getting free publicity and not turning over his tax returns. Late last week, she told the Times: \"I don't even want to contemplate\" four years of a Trump presidency and the effect it could have on the high court."
+        ],
+        "tf-idf score": [
+            0.8554497245237948,
+            0.5181848139798289,
+            1.4357670776470304
+        ]
+    },
+    "0.37291078477793826-3-38": {
+        "average clique similarity": 0.37291078477793826,
+        "clique": [
+            "4-In an interview with",
+            "2-Especially because i",
+            "3-Earlier in the week "
+        ],
+        "median tf-idf score": 1.1691590161394374,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "In an interview with CNN legal analyst and court biographer Joan Biskupic published on Tuesday, Ginsburg called Trump \"a faker\" who has \"no consistency about him\" escalating a public battle between her and Trump.",
+            "Especially because it is an election year and the next president could affect the balance of the court, the Times writes, it is \"vital that the court remain outside the presidential process\". Ginsburg had called Trump \"a faker\" with an \"ego\" in an interview with CNN \"He has no consistency about him.",
+            "Earlier in the week, in an interview with Joan Biskupic, CNN's legal analyst and Supreme Court biographer, Ginsburg had extensively criticized Trump as a\" faker. \""
+        ],
+        "tf-idf score": [
+            1.1691590161394374,
+            1.3351811592237313,
+            1.0832244857032203
+        ]
+    },
+    "0.447306690736685-3-109": {
+        "average clique similarity": 0.447306690736685,
+        "clique": [
+            "3- On reflection  my r",
+            "0-  On reflection  my ",
+            "4- Litigants  the publ"
+        ],
+        "median tf-idf score": 0.9144703805721555,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"On reflection, my recent remarks in response to press inquiries were   and I regret making them,\" Ginsburg said in a statement. \"Judges should avoid commenting on a candidate for public office. In the future I will be more circumspect\".",
+            "[\"On reflection, my recent remarks in response to press inquiries were   and I regret making them,\" Ginsburg stated on Thursday. \"Judges should avoid commenting on a candidate for public office. In the future I will be more circumspect. \"",
+            "\"Litigants, the public, and the political branches respect the [US supreme] court's decisions because of the court's reputation for deciding cases based on the law rather than upon the justices' personal interests in outcomes,\" he said in an email. \"Accordingly, the justices typically avoid public comment on political activities outside of cases presented to them. \""
+        ],
+        "tf-idf score": [
+            0.9144703805721555,
+            0.7856434174679239,
+            1.000439512386206
+        ]
+    }
+}

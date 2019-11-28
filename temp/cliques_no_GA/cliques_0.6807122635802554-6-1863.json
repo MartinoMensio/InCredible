@@ -1,0 +1,518 @@
+{
+    "0.14032085600243413-3-274": {
+        "average clique similarity": 0.14032085600243413,
+        "clique": [
+            "2-After the trial  it ",
+            "3-  Despite their deca",
+            "5-Gawker Media declare"
+        ],
+        "median tf-idf score": 1.0886274434438363,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "After the trial, it was revealed that the Bollea suit was brought with the financial backing of billionaire PayPal founder and prominent Donald Trump supporter Peter Thiel, out of revenge for a   post on the Gawker Media site Valleywag, which both outed him and celebrated his sexual orientation.",
+            "\u201d Despite their decapitation of Gawker and Denton, Hogan and Thiel have yet to see any money from Hogan\u2019s suit; the judgment remains on appeal.",
+            "Gawker Media declared bankruptcy in June following a $115 million judgment against it in a violation of privacy lawsuit brought by former professional wrestler Hulk Hogan and funded by billionaire tech investor Peter Thiel."
+        ],
+        "tf-idf score": [
+            1.0886274434438363,
+            0.6663515750572934,
+            1.1158977573116458
+        ]
+    },
+    "0.1552666124171399-3-168": {
+        "average clique similarity": 0.1552666124171399,
+        "clique": [
+            "4-Denton s future at G",
+            "2-At the time of the b",
+            "1-It s a stunning reve"
+        ],
+        "median tf-idf score": 0.5851532155558873,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "Denton\u2019s future at Gawker with Univision as the owner is now uncertain.",
+            "At the time of the bankruptcy filing, Ziff Davis presented itself as the stalking horse bidder for the company\u2019s assets in bankruptcy court, but pointedly did not include Gawker.",
+            "It\u2019s a stunning reversal of fortune for the media company \u2014  and website \u2014  that not long ago was being hailed as the future of the media."
+        ],
+        "tf-idf score": [
+            0.5851532155558873,
+            0.7273247847234627,
+            0.4791558919910207
+        ]
+    },
+    "0.1576388376705383-3-136": {
+        "average clique similarity": 0.1576388376705383,
+        "clique": [
+            "5-staff email from Hea",
+            "2-com in its memo to s",
+            "0-It continued to publ"
+        ],
+        "median tf-idf score": 0.7735790216967604,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "staff email from Heather Dietrick, president and general counsel of Gawker Media, The banker who represented Gawker in its sale confirmed the price to Recode.",
+            "com in its memo to staff about how the Gawker Media sites would fit with Ziff Davis\u2019 current portfolio.",
+            "It continued to publish, pay its staff, and appeal   in the meantime."
+        ],
+        "tf-idf score": [
+            0.7735790216967604,
+            0.8536296794168448,
+            0.11459917890766158
+        ]
+    },
+    "0.16324008910057242-3-292": {
+        "average clique similarity": 0.16324008910057242,
+        "clique": [
+            "5-If the sale goes thr",
+            "3-Gawker Media said Th",
+            "2-com  the flagship si"
+        ],
+        "median tf-idf score": 0.8901211327650611,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "If the sale goes through, the Gawker Media sites will join the news and entertainment site Fusion as Univision properties.",
+            "Gawker Media said Thursday it will close its always brash and sometimes lacerating news and gossip site, Gawker.",
+            "com, the flagship site of Gawker Media, will cease publication on Monday, according to a statement by Gawker Media founder Nick Denton delivered to staff on Thursday and reported by the site."
+        ],
+        "tf-idf score": [
+            0.8901211327650611,
+            0.7991509897152367,
+            1.0458733149453463
+        ]
+    },
+    "0.1671348631328308-3-8": {
+        "average clique similarity": 0.1671348631328308,
+        "clique": [
+            "1-The news was announc",
+            "3-com s last before it",
+            "4-Univision s winning "
+        ],
+        "median tf-idf score": 1.0739399979934166,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The news was announced in a blog post by J K Trotter, a Gawker writer: Nick Denton, the company\u2019s outgoing CEO, informed current staffers of the site\u2019s fate on Thursday afternoon, just hours before a bankruptcy court in Manhattan will decide whether to approve Univision\u2019s bid for Gawker Media\u2019s other assets.",
+            "com\u2019s last before it is \u201cmothballed\u201d in the bankruptcy estate.",
+            "Univision\u2019s winning bid for Gawker, which will go before a U S bankruptcy judge on Thursday, shows how the U S   broadcaster is seeking to expand its digital media properties and is not shying away from a news brand that has often courted controversy to build a cult readership."
+        ],
+        "tf-idf score": [
+            1.4410505476733113,
+            0.17152407360326158,
+            1.0739399979934166
+        ]
+    },
+    "0.1695776533591845-3-196": {
+        "average clique similarity": 0.1695776533591845,
+        "clique": [
+            "1-It was later reveale",
+            "4-An investment banker",
+            "3-In any case  he said"
+        ],
+        "median tf-idf score": 0.6452094189383731,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It was later revealed that Thiel had financed his legal effort \u2014  and the billionaire appeared to revel in the role he played in Gawker\u2019s demise.",
+            "An investment banker representing Gawker said in court last month that he had a list of 40 potential buyers he planned to market the company to.",
+            "In any case, he said, he\u2019ll be \u201cout of the news and gossip business."
+        ],
+        "tf-idf score": [
+            0.7017904925615123,
+            0.6452094189383731,
+            0.1799356147535979
+        ]
+    },
+    "0.17125220422963727-3-200": {
+        "average clique similarity": 0.17125220422963727,
+        "clique": [
+            "0- We could not have p",
+            "1-com s coverage  as w",
+            "3- We have not been ab"
+        ],
+        "median tf-idf score": 0.2137237981651713,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dWe could not have picked an acquirer more devoted   to vibrant journalism\u201d.",
+            "com\u2019s coverage, as well as the site\u2019s archives, have not yet been finalized.",
+            "\u201cWe have not been able to find a single media company or investor willing also to take on Gawker."
+        ],
+        "tf-idf score": [
+            0.06673308387912409,
+            0.2137237981651713,
+            0.6390296693008353
+        ]
+    },
+    "0.17297786112764013-3-60": {
+        "average clique similarity": 0.17297786112764013,
+        "clique": [
+            "1-This week  Gawker Me",
+            "2- It sucks to see it ",
+            "0-This led to Gawker s"
+        ],
+        "median tf-idf score": 0.43552875783344225,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "This week, Gawker Media was sold to Univision.",
+            "\u201cIt sucks to see it end like this.",
+            "This led to Gawker\u2019s decision to file for   bankruptcy."
+        ],
+        "tf-idf score": [
+            0.7662766102547637,
+            0.03678234871306846,
+            0.43552875783344225
+        ]
+    },
+    "0.17948591640682618-3-292": {
+        "average clique similarity": 0.17948591640682618,
+        "clique": [
+            "2-com as part of the d",
+            "0-If any money is left",
+            "4-It also owns another"
+        ],
+        "median tf-idf score": 0.1542518838155338,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "com as part of the deal.",
+            "If any money is left   after the litigation concludes  \u2014   i. e. if Gawker wins  \u2014   then it   will go to Denton as well as Gawker\u2019s investors.",
+            "It also owns another broadcast channel called UniMas, as well as several cable networks and a stable of Spanish radio stations."
+        ],
+        "tf-idf score": [
+            0.09578900295725014,
+            0.5182658224374836,
+            0.1542518838155338
+        ]
+    },
+    "0.18273814373343292-3-78": {
+        "average clique similarity": 0.18273814373343292,
+        "clique": [
+            "1-And it also became a",
+            "0-      It will also b",
+            "2-   It ll also be int"
+        ],
+        "median tf-idf score": 0.34043910880799383,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "And it also became among the first media online companies whose workers voted to unionize, setting the scene for others to follow.",
+            "\u2019 \u2019   It will also be interesting to see how Gawker fits into   Univision, whose new media enterprise, Fusion, Gawker has   .",
+            "\u201d \u201cIt\u2019ll also be interesting to see who does the first tough piece on Peter Thiel after this,\u201d she added."
+        ],
+        "tf-idf score": [
+            0.34043910880799383,
+            0.7749983360129983,
+            0.12585720545024873
+        ]
+    },
+    "0.19838048058042293-3-159": {
+        "average clique similarity": 0.19838048058042293,
+        "clique": [
+            "2-Univision won the au",
+            "5-As first reported by",
+            "4- Univision Holdings "
+        ],
+        "median tf-idf score": 1.1094549374213758,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Univision won the auction for Gawker Media in bankruptcy court earlier this week for a reported $135m Ziff Davis, which had said it would keep Denton on as a consultant had they been successful, dropped out \u201conce we felt the price and terms exceeded our threshold\u201d they told their staff.",
+            "As first reported by Recode, Univision, known for its Spanish language television station of the same name, has won the auction to buy the distressed property, beating out a $90 million bid from Ziff Davis.",
+            " Univision Holdings Inc won a bankruptcy auction on Tuesday to acquire U S internet publisher Gawker Media LLC for $135 million, outbidding media company Ziff Davis LLC, which had made an initial offer of $90 million."
+        ],
+        "tf-idf score": [
+            1.1993382944882027,
+            0.6988988942434039,
+            1.1094549374213758
+        ]
+    },
+    "0.22854947426890626-3-292": {
+        "average clique similarity": 0.22854947426890626,
+        "clique": [
+            "5- Univision Communica",
+            "0-         Univision w",
+            "3-His claim on Gawker "
+        ],
+        "median tf-idf score": 0.8288483124128139,
+        "publications": [
+            "Buzzfeed News",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            " Univision Communications will buy the bankrupt Gawker Media network for $135 million dollars.",
+            "\u2019  \u2019 \u2019   Univision will buy Gawker Media for $135 million, Gawker   confirmed to Business Insider, as first reported by .",
+            "His claim on Gawker Media\u2019s assets  \u2014   which now consist almost entirely of Univision\u2019s $135 million purchase price  \u2014   is secondary to the company\u2019s secured creditors, who are owed about $40 million, Gorman said."
+        ],
+        "tf-idf score": [
+            0.8258736653308024,
+            0.8288483124128139,
+            1.0002585242952684
+        ]
+    },
+    "0.24757258432905882-3-261": {
+        "average clique similarity": 0.24757258432905882,
+        "clique": [
+            "2-  The demise of the ",
+            "0-      In June  Gawke",
+            "1-In June  Gawker Medi"
+        ],
+        "median tf-idf score": 0.6674516779957342,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d The demise of the eponymous site had been rumored since the company filed for bankruptcy in June following the loss.",
+            "\u201d \u2019   In June, Gawker Media filed for Chapter 11 in a move that allowed   it to avoid having its assets seized while it continued to   appeal the verdict.",
+            "In June, Gawker Media filed for Chapter 11 bankruptcy, and Denton followed suit earlier this month."
+        ],
+        "tf-idf score": [
+            0.3598289996351194,
+            0.6674516779957342,
+            0.7773055991430126
+        ]
+    },
+    "0.25072410265614814-3-121": {
+        "average clique similarity": 0.25072410265614814,
+        "clique": [
+            "0-           Hogan  wh",
+            "2-The jury eventually ",
+            "1-Bollea sued  and in "
+        ],
+        "median tf-idf score": 0.7642969482302616,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d \u2019  \u2019 \u2019   Hogan, whose real name is Terry Bollea, was awarded $140 million   in damages in March stemming from a Gawker news article published   in 2012 that included a clip of him having sex.",
+            "The jury eventually awarded Bollea $115m in the suit, and then tacked on another $25m in punitive damages against Gawker Media, $10m against Denton, and $100, 000 against   AJ Daulerio.",
+            "Bollea sued, and in March a Florida jury awarded him $140 million."
+        ],
+        "tf-idf score": [
+            0.82343635579173,
+            0.7642969482302616,
+            0.18892430268908006
+        ]
+    },
+    "0.2580235357230662-4-292": {
+        "average clique similarity": 0.2580235357230662,
+        "clique": [
+            "3-But the  140 million",
+            "0-      It was reveale",
+            "4-Hogan s lawsuit was ",
+            "1-The news comes days "
+        ],
+        "median tf-idf score": 0.8401000270431049,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "But the $140 million judgment that Hogan won in March was merely the explosive edge of the legal war against the site and its parent company that was quietly funded by Silicon Valley investor Peter Thiel, the   of PayPal.",
+            "\u2019 \u2019   It was revealed in late May that billionaire Silicon Valley   investor Peter Thiel had  and others against Gawker Media   to try to put the website out of business.",
+            "Hogan\u2019s lawsuit was bankrolled by billionaire investor Peter Thiel, an early backer of Facebook Inc and a   of PayPal.",
+            "The news comes days after Univision announced it was buying Gawker Media, the website\u2019s parent company and six affiliated websites, for $135 million, and months after Peter Thiel, the Silicon Valley billionaire investor, revealed that he financed a lawsuit that ultimately bankrupted Gawker Media and its founder, Nick Denton."
+        ],
+        "tf-idf score": [
+            0.7749290197854175,
+            0.9052710343007925,
+            0.39494791467697,
+            1.5046886763829783
+        ]
+    },
+    "0.2675290577584044-3-109": {
+        "average clique similarity": 0.2675290577584044,
+        "clique": [
+            "4-Gawker founder Nick ",
+            "3-In a statement Thurs",
+            "2-Univision confirmed "
+        ],
+        "median tf-idf score": 0.5506166944015756,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Gawker founder Nick Denton said in a prepared statement that the company \u201dcould not have picked an acquirer more devoted to vibrant journalism\u201d.",
+            "In a statement Thursday, Denton said Gawker.",
+            "Univision confirmed in a statement that it would not be acquiring Gawker."
+        ],
+        "tf-idf score": [
+            0.7280464838814217,
+            0.5506166944015756,
+            0.5095375178203223
+        ]
+    },
+    "0.26898092652062305-3-72": {
+        "average clique similarity": 0.26898092652062305,
+        "clique": [
+            "0-Denton  who was forc",
+            "4-Denton filed for per",
+            "3-  Denton  who has a "
+        ],
+        "median tf-idf score": 0.465320163660949,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Denton, who was forced to file personal bankruptcy because of the   case, has been vocal about Gawker\u2019s plans to appeal  \u2014   using the   funds set aside from the sale.",
+            "Denton filed for personal bankruptcy this month to also seek protection from the judgment.",
+            "\u201d Denton, who has a $10 million judgment pending against him from the Hogan suit, has filed personal bankruptcy."
+        ],
+        "tf-idf score": [
+            0.8647223678051268,
+            0.2656376799442986,
+            0.465320163660949
+        ]
+    },
+    "0.28499166077610333-3-292": {
+        "average clique similarity": 0.28499166077610333,
+        "clique": [
+            "0-Univision and Ziff  ",
+            "4-Univision was the on",
+            "1-Gawker and its websi"
+        ],
+        "median tf-idf score": 0.6773688374277216,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Univision and Ziff   Davis were the only two companies that put in a bid for   Gawker, .",
+            "Univision was the only challenger to Ziff Davis, whose stalking horse bid had set the floor for others in the auction.",
+            "Gawker and its websites were put up for sale: Ziff Davis, the publisher of PC Magazine, and Univision were the only two bidders."
+        ],
+        "tf-idf score": [
+            0.6773688374277216,
+            0.462774504819544,
+            0.6982199748823131
+        ]
+    },
+    "0.2868656082993234-4-292": {
+        "average clique similarity": 0.2868656082993234,
+        "clique": [
+            "3-Gawker was ostensibl",
+            "2-But the reorientatio",
+            "1-Ultimately  it was o",
+            "4-Gawker sought bankru"
+        ],
+        "median tf-idf score": 0.8150336742705786,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "Gawker was ostensibly brought low by an    lawsuit by former pro wrestler Hulk Hogan over a sex tape of Hogan that Gawker posted in 2012.",
+            "But the reorientation of the site came too late for the company which, by then, was preparing for a trial in which Terry \u201cHulk Hogan\u201d Bollea was suing for invasion of privacy over Gawker.",
+            "Ultimately, it was one such story that was the beginning of the end for Gawker: Its decision in 2012 to publish a sex tape featuring Hulk Hogan, the pro wrestler who was born Terry Bollea.",
+            "Gawker sought bankruptcy in June after facing a $140 million court judgment following an invasion of privacy lawsuit from former professional wrestler Hulk Hogan over the publication of excerpts from a sex tape."
+        ],
+        "tf-idf score": [
+            0.6612980945356677,
+            0.861546998369692,
+            0.7724301050419071,
+            0.85763724349925
+        ]
+    },
+    "0.29256309986061674-4-82": {
+        "average clique similarity": 0.29256309986061674,
+        "clique": [
+            "2-The other Gawker Med",
+            "3-Also Thursday  a ban",
+            "4-Bids for Gawker  whi",
+            "1-Gawker Media s other"
+        ],
+        "median tf-idf score": 0.6751990586193196,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The other Gawker Media publications, including Jezebel (women\u2019s issues) Gizmodo (tech) io9 (science fiction, fantasy and science) Kotaku (gaming) Deadspin (sports) Jalopnik (all things automotive) and Lifehacker, are expected to continue publication after Univision\u2019s acquisition of the company.",
+            "Also Thursday, a bankruptcy court cleared Univision\u2019s takeover of the company, which will include its six remaining sites  \u2014   Deadspin (sports) Lifehacker (personal productivity) Jezebel (women) Gizmodo (technology) Kotaku (games) and Jalopnik (cars).",
+            "Bids for Gawker, which also includes popular women\u2019s website Jezebel, sports site Deadspin and automobile enthusiast site Jalopnik, were due on Monday.",
+            "Gawker Media\u2019s other brands \u2014  Jezebel, Lifehacker, Kotaku, Deadspin, Gizmodo, and Jalopnik \u2014  will continue operations."
+        ],
+        "tf-idf score": [
+            1.0066221727475122,
+            0.6763456902360403,
+            0.6740524270025989,
+            0.6633967144347664
+        ]
+    },
+    "0.3971662222339824-3-245": {
+        "average clique similarity": 0.3971662222339824,
+        "clique": [
+            "5-The sale will includ",
+            "4- I am pleased that o",
+            "0-       I am pleased "
+        ],
+        "median tf-idf score": 0.8380256276471569,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The sale will include all seven of the sites under the Gawker Media banner, and will be subject to the approval of a US bankruptcy judge.",
+            "\u201dI am pleased that our employees are protected and will continue their work under new ownership   disentangled from the legal campaign against the company,\u201d he said.",
+            "\u2019 \u2019   \u201dI am pleased that our employees are protected and will continue   their work under new ownership  \u2014   disentangled from the legal   campaign against the company,\u201d Gawker founder Nick Denton said in   a statement."
+        ],
+        "tf-idf score": [
+            0.8380256276471569,
+            0.3778937664595205,
+            0.869991274536895
+        ]
+    }
+}

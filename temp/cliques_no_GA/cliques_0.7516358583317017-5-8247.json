@@ -1,0 +1,478 @@
+{
+    "0.1974963237661935-3-106": {
+        "average clique similarity": 0.1974963237661935,
+        "clique": [
+            "3-9 million to fund re",
+            "4-Stein subsequently f",
+            "2-Trump disagreed  twe"
+        ],
+        "median tf-idf score": 0.9652053256722996,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "9 million to fund recount efforts in Wisconsin, Michigan and Pennsylvania.",
+            "Stein subsequently filed her request for a statewide recount in Pennsylvania on Monday, just days after she officially requested a recount in Wisconsin.",
+            "Trump disagreed, tweeting Sunday afternoon, \u201dThe Green Party just dropped its recount suit in Pennsylvania and is losing votes in Wisconsin recount."
+        ],
+        "tf-idf score": [
+            0.7664715503621334,
+            0.9949632845794651,
+            0.9652053256722996
+        ]
+    },
+    "0.20356993424055622-3-10": {
+        "average clique similarity": 0.20356993424055622,
+        "clique": [
+            "0- Make no mistake    ",
+            "4-Stein elaborated on ",
+            "2- Over the past sever"
+        ],
+        "median tf-idf score": 1.4392993134608176,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cMake no mistake  \u2014   the Stein campaign will continue to fight for a statewide recount in Pennsylvania,\u201d recount campaign lawyer Jonathan Abady said in a statement issued around 11:30 p. m. \u201cWe are committed to this fight to protect the civil and voting rights of all Americans.",
+            "Stein elaborated on Twitter, asking: \u201dHow odd is it that we must jump through bureaucratic hoops and raise millions of dollars so we can trust our election results?\u201d In addition, the Stein campaign will pursue the    recount effort in Pennsylvania, Stein\u2019s lawyer, Lawrence Otter, tells The Philadelphia Inquirer.",
+            "\u201dOver the past several days, it has become clear that the barriers to verifying the vote in Pennsylvania are so pervasive and that the state court system is so   to address this problem that we must seek federal court intervention,\u201d said Jonathan Abady, lead counsel to the Stein recount efforts."
+        ],
+        "tf-idf score": [
+            1.420408231408741,
+            1.4392993134608176,
+            1.6751444727530866
+        ]
+    },
+    "0.22423910730894403-3-139": {
+        "average clique similarity": 0.22423910730894403,
+        "clique": [
+            "0- HARRISBURG  Pa     ",
+            "2-A statement from the",
+            "1-This report was revi"
+        ],
+        "median tf-idf score": 1.5093195153242907,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            " HARRISBURG, Pa.  \u2014   A Green   campaign changed its strategy to force a statewide recount of Pennsylvania\u2019s Nov. 8 presidential election, won by Republican Donald Trump, and said late Saturday night that it will seek help in the federal courts, rather than the state courts.",
+            "A statement from the Stein campaign shortly after said it will file a lawsuit in federal court Monday seeking a statewide recount.",
+            "This report was revised and extended after Jill Stein\u2019s campaign announced plans late Saturday to go to federal court on Monday seeking a statewide recount in Pennsylvania."
+        ],
+        "tf-idf score": [
+            1.8030633341811266,
+            1.2069842350660722,
+            1.5093195153242907
+        ]
+    },
+    "0.24961262167345952-3-91": {
+        "average clique similarity": 0.24961262167345952,
+        "clique": [
+            "3-The campaign announc",
+            "4-Jonathan Abady  lead",
+            "1-On Saturday afternoo"
+        ],
+        "median tf-idf score": 1.4212995433661602,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "The campaign announced that it would seek an emergency federal court order on Monday for a recount.",
+            "Jonathan Abady, lead counsel to Stein\u2019s recount efforts, said in a statement late Saturday that starting Monday, the campaign will \u201dfile for emergency relief in federal court, demanding a statewide recount on constitutional grounds\u201d.",
+            "On Saturday afternoon, the Green Party filed a motion to withdraw their statewide recount request  \u2014   which the court granted in an order later Saturday  \u2014   although individual   recount requests will continue, in an attempt to force an automatic statewide recount, and a lawyer familiar with ongoing efforts noted that an appeal seeking a forensic audit of the Philadelphia voting machines remains pending."
+        ],
+        "tf-idf score": [
+            0.8170148869675025,
+            1.5079557061346973,
+            1.4212995433661602
+        ]
+    },
+    "0.2714906272289404-3-32": {
+        "average clique similarity": 0.2714906272289404,
+        "clique": [
+            "3-Green Party presiden",
+            "2-Washington  CNN  Gre",
+            "1-Then  late Saturday "
+        ],
+        "median tf-idf score": 1.3699946851767666,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Green Party presidential candidate Jill Stein, raised over $6.",
+            "Washington (CNN) Green Party presidential nominee Jill Stein said early Sunday she would \u201descalate\u201d her statewide recount efforts in Pennsylvania through a federal lawsuit, after announcing she would drop it.",
+            "Then, late Saturday night, Green Party presidential candidate Jill Stein tweeted out that her campaign would continue to seek a statewide recount  \u2014   but would be going to federal court to do so."
+        ],
+        "tf-idf score": [
+            0.47942248454521913,
+            1.4070867292748133,
+            1.3699946851767666
+        ]
+    },
+    "0.2780638477111077-3-159": {
+        "average clique similarity": 0.2780638477111077,
+        "clique": [
+            "0-Copyright 2016 The A",
+            "3-The Associated Press",
+            "4-At this time  there "
+        ],
+        "median tf-idf score": 0.08093988322894993,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Copyright 2016 The Associated Press.",
+            "The Associated Press contributed to this report.",
+            "At this time, there is no indication that Stein\u2019s campaign plans to drop its efforts in Wisconsin  \u2014   where The Associated Press reports a recount is already underway  \u2014   or in Michigan."
+        ],
+        "tf-idf score": [
+            0.05633826330282188,
+            0.08093988322894993,
+            0.9407102064223721
+        ]
+    },
+    "0.28621481589017694-3-38": {
+        "average clique similarity": 0.28621481589017694,
+        "clique": [
+            "4-The Jill Stein campa",
+            "3- Make no mistake    ",
+            "1-Then  a little befor"
+        ],
+        "median tf-idf score": 1.228573621980988,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The Jill Stein campaign plans to bring her fight for a statewide ballot recount in Pennsylvania to federal court.",
+            "\u201dMake no mistake  \u2014   the Stein campaign will continue to fight for a statewide recount in Pennsylvania,\u201d recount campaign lawyer Jonathan Abady said in a statement issued a little before midnight.",
+            "Then, a little before midnight, Stein announced the federal court plans."
+        ],
+        "tf-idf score": [
+            1.228573621980988,
+            1.2861984919016038,
+            0.5180286847555944
+        ]
+    },
+    "0.2963328015125472-4-51": {
+        "average clique similarity": 0.2963328015125472,
+        "clique": [
+            "2-Just a Stein scam to",
+            "0-The case in Pennsylv",
+            "1-Most      including ",
+            "4-Last month  Stein la"
+        ],
+        "median tf-idf score": 1.4436606178800688,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Just a Stein scam to raise money!\u201d Stein has spearheaded a recount effort in Michigan, Pennsylvania and Wisconsin    three battleground states where Donald Trump narrowly defeated Hillary Clinton.",
+            "The case in Pennsylvania court has been part of an effort spearheaded by Stein to force recounts in Michigan, Pennsylvania and Wisconsin, three states with a history of backing Democrats for president that were narrowly and unexpectedly won by Trump over Democrat Hillary Clinton.",
+            "Most  \u2014   including Hillary Clinton\u2019s campaign  \u2014   expect Green Party presidential candidate Jill Stein\u2019s recount efforts in Michigan, Pennsylvania, and Wisconsin not to change the result  \u2014   a Donald Trump win  \u2014   in any of those states.",
+            "Last month, Stein launched a fundraising campaign to pursue a recount in Pennsylvania, as well as in Michigan and Wisconsin  \u2014   three states   Donald Trump narrowly won en route to his Electoral College victory."
+        ],
+        "tf-idf score": [
+            1.327033009548242,
+            1.5602882262118956,
+            1.6971774283337921,
+            1.309973768241636
+        ]
+    },
+    "0.30074603572608866-5-146": {
+        "average clique similarity": 0.30074603572608866,
+        "clique": [
+            "3-Pennsylvania law doe",
+            "4-Just hours earlier  ",
+            "2- It s clear that the",
+            "0-Further  Pennsylvani",
+            "1-Lawyers for the Gree"
+        ],
+        "median tf-idf score": 0.9969733124892559,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Pennsylvania law does not allow a   recount, they argued, and a lawyer for the Green Party had acknowledged that the effort was without precedent in Pennsylvania.",
+            "Just hours earlier, Lawrence M Otter, a lawyer for the former Green Party presidential candidate, had withdrawn the lawsuit filed with the Commonwealth Court of Pennsylvania early Saturday evening.",
+            "\u201dIt\u2019s clear that the fix was in against a verified vote in the state of Pennsylvania,\u201d the Green Party candidate said.",
+            "Further, Pennsylvania law does not allow a   recount, they argued, and a lawyer for the Green Party had acknowledged that the effort was without precedent in Pennsylvania.",
+            "Lawyers for the Green Party told the Associated Press on Saturday afternoon that they would not be able to meet the Monday deadline for a $1 million bond that the Pennsylvania court had ordered in the case."
+        ],
+        "tf-idf score": [
+            1.0011789949389005,
+            0.9235303055323142,
+            0.8495896272209643,
+            1.0011789949389005,
+            0.9969733124892559
+        ]
+    },
+    "0.31444527690814744-4-175": {
+        "average clique similarity": 0.31444527690814744,
+        "clique": [
+            "0-A recount began Thur",
+            "4-After the state s Bo",
+            "2-Michigan s attorney ",
+            "3-The Wisconsin recoun"
+        ],
+        "median tf-idf score": 0.5818559483472387,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "A recount began Thursday in Wisconsin, while a recount could begin next week in Michigan.",
+            "After the state\u2019s Board of State Canvassers deadlocked on the issue Friday, the Detroit Free Press reports a hand recount in Michigan appears set to proceed next week.",
+            "Michigan\u2019s attorney general, a Republican, filed a suit to stop a recount in his state Friday and Trump supporters in Wisconsin this week have also tried to stop the recount in progress there.",
+            "The Wisconsin recount began on Thursday, while a potential recount could begin in Michigan next week."
+        ],
+        "tf-idf score": [
+            0.45992832018193713,
+            0.6945189369888067,
+            0.8415202804626493,
+            0.46919295970567076
+        ]
+    },
+    "0.3652936754566662-3-42": {
+        "average clique similarity": 0.3652936754566662,
+        "clique": [
+            "0-Lawyers for Trump an",
+            "3-Trump s lawyers and ",
+            "2-Despite the fact the"
+        ],
+        "median tf-idf score": 0.8779415678309365,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Lawyers for Trump and the state Republican Party argued there was no evidence, or even an allegation, that tampering with Pennsylvania\u2019s voting systems had occurred.",
+            "Trump\u2019s lawyers and the state Republican Party claimed there was no evidence or allegations that tampering occurred with Pennsylvania\u2019s voting systems.",
+            "Despite the fact there\u2019s been no credible evidence so far of election tampering, Stein has maintained in recent interviews    including with CNN    \u201dyou cannot tell unless you\u2019re actually counting paper votes\u201d."
+        ],
+        "tf-idf score": [
+            0.9021060791257888,
+            0.8779415678309365,
+            0.6216731811661448
+        ]
+    },
+    "0.37846193346528695-3-212": {
+        "average clique similarity": 0.37846193346528695,
+        "clique": [
+            "3-Saturday s court fil",
+            "2-Stein on Saturday ci",
+            "0-Saturday s court fil"
+        ],
+        "median tf-idf score": 0.8293438861666519,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Saturday\u2019s court filing to withdraw the case said the Green   voters who filed it \u201dare regular citizens of ordinary means\u201d and cannot afford the $1 million bond ordered by the court by 5 p. m. Monday.",
+            "Stein on Saturday cited a major cost placed on voters due to a state court ruling that says the voters requesting the recount must pay a $1 million bond.",
+            "Saturday\u2019s court filing to withdraw the case said the Green   voters who filed it \u201care regular citizens of ordinary means\u201d and cannot afford the $1 million bond ordered by the court by 5 p. m. Monday."
+        ],
+        "tf-idf score": [
+            0.8293438861666519,
+            1.050423743080402,
+            0.8293438861666519
+        ]
+    },
+    "0.3861815777020577-3-162": {
+        "average clique similarity": 0.3861815777020577,
+        "clique": [
+            "4-Stein plans to hold ",
+            "3-Stein announced Sund",
+            "2-At press conference "
+        ],
+        "median tf-idf score": 0.5474446153828557,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Stein plans to hold a rally and press conference Monday outside Trump Tower in New York City.",
+            "Stein announced Sunday morning that she plans to hold a rally on Monday morning outside of Trump Tower in New York.",
+            "At press conference on Monday in New York City, the Stein camp defended its efforts to press forward with the recounts, saying they were taking their suit to federal court because of the \u201dabsolutely ridiculous and obscene form of bureaucratic obstruction\u201d  that Stein said was occurring in Pennsylvania."
+        ],
+        "tf-idf score": [
+            0.5236289269224361,
+            0.5474446153828557,
+            1.4491949222636342
+        ]
+    },
+    "0.4243021590586449-3-187": {
+        "average clique similarity": 0.4243021590586449,
+        "clique": [
+            "0-They have sought uns",
+            "3-They have unsuccessf",
+            "2-The campaign is also"
+        ],
+        "median tf-idf score": 0.31222341535367726,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "They have sought unsuccessfully in recent days to get various counties to allow a forensic examination of their election system software.",
+            "They have unsuccessfully sought to get various counties to allow a forensic examination of their election system software.",
+            "The campaign is also still pushing for forensic audits of voting machine software in the state."
+        ],
+        "tf-idf score": [
+            0.31222341535367726,
+            0.27865667305966924,
+            0.419789455475577
+        ]
+    },
+    "0.4265441173670492-3-68": {
+        "average clique similarity": 0.4265441173670492,
+        "clique": [
+            "3- We are committed to",
+            "1-Explaining the move ",
+            "0-All rights reserved "
+        ],
+        "median tf-idf score": 0.18876392666386552,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dWe are committed to this fight to protect the civil and voting rights of all Americans\u201d.",
+            "Explaining the move to federal court further, Abady said in the statement, \u201cWe are committed to this fight to protect the civil and voting rights of all Americans.",
+            "All rights reserved."
+        ],
+        "tf-idf score": [
+            0.18876392666386552,
+            0.5920836340594415,
+            0.03725349392691004
+        ]
+    },
+    "0.4300528766130672-3-63": {
+        "average clique similarity": 0.4300528766130672,
+        "clique": [
+            "3-Cortes predicted tha",
+            "2- Whether it will cha",
+            "0-Any recount would ch"
+        ],
+        "median tf-idf score": 0.4578141436416475,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "Cortes predicted that a recount would change few votes.",
+            "\u201dWhether it will change the outcome, we don\u2019t know, and it would be unfair to raise expectations that the outcome will change.",
+            "Any recount would change few votes, Cortes predicted."
+        ],
+        "tf-idf score": [
+            0.4578141436416475,
+            0.11548112039008114,
+            0.4578141436416475
+        ]
+    },
+    "0.43080142460914533-3-30": {
+        "average clique similarity": 0.43080142460914533,
+        "clique": [
+            "3-Stein framed the iss",
+            "2-Still  Stein downpla",
+            "0-Green Party presiden"
+        ],
+        "median tf-idf score": 0.9948672292808252,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Stein framed the issue as an effort to explore whether voting machines and systems had been hacked and the election result manipulated.",
+            "Still, Stein downplayed expectations that the recount effort would change the outcome of Pennsylvania\u2019s vote in the 2016 election, saying instead that the effort was primarily aimed at ensuring the integrity of the voting process, discovering any irregularities, and sparking voting rights and voting infrastructure reforms.",
+            "Green Party presidential candidate Jill Stein has framed the campaign as an effort to explore whether voting machines and systems had been hacked and the election result manipulated."
+        ],
+        "tf-idf score": [
+            0.5659391604185653,
+            1.337884258321407,
+            0.9948672292808252
+        ]
+    },
+    "0.4477580556117644-3-212": {
+        "average clique similarity": 0.4477580556117644,
+        "clique": [
+            "1-  O n Monday the Ste",
+            "2- As a result  on Mon",
+            "0-The announcement tha"
+        ],
+        "median tf-idf score": 1.3458220228601,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201c[O]n Monday the Stein campaign will escalate our campaign in Pennsylvania and file for emergency relief in federal court, demanding a statewide recount on constitutional grounds,\u201d he continued.",
+            "\u201dAs a result, on Monday the Stein campaign will escalate our campaign in Pennsylvania and file for emergency relief in federal court, demanding a statewide recount on constitutional grounds\u201d.",
+            "The announcement that it would seek an emergency federal court order on Monday for a recount came hours after it dropped a case in the state courts."
+        ],
+        "tf-idf score": [
+            1.3458220228601,
+            1.3680274988645404,
+            0.9395075706786253
+        ]
+    },
+    "0.7012858896390267-4-212": {
+        "average clique similarity": 0.7012858896390267,
+        "clique": [
+            "0-  In the statement  ",
+            "1-Over the past severa",
+            "4- It has become clear",
+            "3-Abady said barriers "
+        ],
+        "median tf-idf score": 1.0241087871405912,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d In the statement, Abady said barriers to a recount in Pennsylvania are pervasive and the state court system is   to address the problem.",
+            "Over the past several days, it has become clear that the barriers to verifying the vote in Pennsylvania are so pervasive and that the state court system is so   to address this problem that we must seek federal court intervention.",
+            "\u201dIt has become clear that the barriers to verifying the vote in Pennsylvania are so pervasive and that the state court system is so   to address this problem that we must seek federal court intervention,\u201d Abady said.",
+            "Abady said barriers to a recount in Pennsylvania are pervasive and the state court system is   to address the problem."
+        ],
+        "tf-idf score": [
+            1.0509552004506424,
+            0.9240805401588912,
+            1.026401203478001,
+            1.0218163708031813
+        ]
+    }
+}

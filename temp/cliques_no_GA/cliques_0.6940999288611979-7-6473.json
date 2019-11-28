@@ -1,0 +1,486 @@
+{
+    "0.17620178891797342-3-41": {
+        "average clique similarity": 0.17620178891797342,
+        "clique": [
+            "2-Yahoo says it discov",
+            "5-Six US senators dema",
+            "4-In both cases  Yahoo"
+        ],
+        "median tf-idf score": 0.9564869767829098,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Yahoo says it discovered the   breach with the help of law enforcement, which shared with the company a trove of stolen user data that it had uncovered.",
+            "Six US senators demanded Yahoo explain exactly when it had detected the theft of user data in a letter to the company after the September revelations the company did not comply in its response.",
+            "In both cases, Yahoo said its outside forensics experts had connected at least some elements of the hacking to a \u201d  actor\u201d but did not say which foreign government it believed had supported the hack."
+        ],
+        "tf-idf score": [
+            1.1166758833512613,
+            0.9564869767829098,
+            0.7258429127806676
+        ]
+    },
+    "0.17866538211520125-3-110": {
+        "average clique similarity": 0.17866538211520125,
+        "clique": [
+            "5-With the  forged coo",
+            "3-Yahoo also reported ",
+            "6-Yahoo is notifying t"
+        ],
+        "median tf-idf score": 0.8831192979424438,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "With the \u201cforged cookies\u201d as Yahoo chief information security officer put it on the company blog, the hackers could peer into emails without a password.",
+            "Yahoo also reported a separate incident Wednesday in which hackers used what the company called \u201dforged cookies\u201d to gain access to some accounts, though it did not give the number.",
+            "Yahoo is notifying the affected account holders, and has invalidated the forged cookies."
+        ],
+        "tf-idf score": [
+            0.8831192979424438,
+            1.0089308094866662,
+            0.6684969820739498
+        ]
+    },
+    "0.20554719936060142-3-102": {
+        "average clique similarity": 0.20554719936060142,
+        "clique": [
+            "5-The attack on Yahoo ",
+            "3-Law enforcement offi",
+            "0-The number of affect"
+        ],
+        "median tf-idf score": 0.8382084064144104,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The attack on Yahoo\u2019s systems took place in 2013 but was only revealed on Wednesday Yahoo discovered it after investigating another breach of 500m accounts in 2014, which the company revealed in September.",
+            "Law enforcement officials believe that breach, which happened in 2014, was likely the work of Russian hackers.",
+            "The number of affected accounts was double the number implicated in a 2014 breach that the internet company disclosed in September and blamed on hackers working on behalf of a government."
+        ],
+        "tf-idf score": [
+            1.071151533845344,
+            0.3931828503442562,
+            0.8382084064144104
+        ]
+    },
+    "0.21874895713635187-3-84": {
+        "average clique similarity": 0.21874895713635187,
+        "clique": [
+            "4-Earlier this year  V",
+            "3-Both have been annou",
+            "5-US telecoms giant Ve"
+        ],
+        "median tf-idf score": 0.48829403692089324,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Earlier this year, Verizon agreed to buy Yahoo for $4.",
+            "Both have been announced since Yahoo agreed to sell its core businesses to telecommunications giant Verizon in July for $4.",
+            "US telecoms giant Verizon has signed a deal to acquire Yahoo for $4."
+        ],
+        "tf-idf score": [
+            0.44719488743554403,
+            0.5225968669210254,
+            0.48829403692089324
+        ]
+    },
+    "0.2267442891581636-3-142": {
+        "average clique similarity": 0.2267442891581636,
+        "clique": [
+            "5-Speaking to reporter",
+            "2-At the time  that lo",
+            "3-News of the hack  co"
+        ],
+        "median tf-idf score": 1.039830415031817,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Speaking to reporters at the daily White House press briefing on Thursday, spokesman Josh Earnest said he could not comment on the scope of material that may have been compromised in the hack, the largest data breach in history, which Yahoo believes was  .",
+            "At the time, that looked like one of the largest single data breaches in existence \u2014  but it\u2019s now been eclipsed in scale by the latest hack.",
+            "News of the hack, coming after the announcement in September of a separate hack affecting 500 million accounts, means that Yahoo has been the victim of the two largest data breaches ever reported."
+        ],
+        "tf-idf score": [
+            1.0723692133708416,
+            0.4326999197335368,
+            1.039830415031817
+        ]
+    },
+    "0.22930771175231981-3-70": {
+        "average clique similarity": 0.22930771175231981,
+        "clique": [
+            "2-A Yahoo spokesperson",
+            "6-    More than 1 bill",
+            "4-Based on further ana"
+        ],
+        "median tf-idf score": 1.1158256824031714,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "A Yahoo spokesperson said Wednesday that there are more than a billion Yahoo users.",
+            "\u2019\u2019 \u2019More than 1 billion Yahoo user accounts  \u2014   including phone numbers, birthdates, and security questions  \u2014   may have been stolen by hackers during an attack that took place in August 2013, the  on Wednesday.\u2019 \u2019The announcement of what could represent the largest hack of all time is a .",
+            "Based on further analysis of this data by the forensic experts, Yahoo believes an unauthorized third party, in August 2013, stole data associated with more than one billion user accounts."
+        ],
+        "tf-idf score": [
+            0.737602364474063,
+            1.2497888973246158,
+            1.1158256824031714
+        ]
+    },
+    "0.24925715396595619-3-289": {
+        "average clique similarity": 0.24925715396595619,
+        "clique": [
+            "0-News of that attack ",
+            "4-In September  the co",
+            "6-In that hack  Yahoo "
+        ],
+        "median tf-idf score": 0.9131888334600228,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Business Insider"
+        ],
+        "sentences": [
+            "News of that attack, which affected at least 500 million accounts, prompted Verizon Communication Inc to say in October that it might withdraw from an agreement to buy Yahoo\u2019s core internet business for $4.",
+            "In September, the company said information associated with at least 500 million user accounts had been stolen in 2014, as we reported.",
+            "In that hack, Yahoo said that at least 500 million user accounts were compromised.\u2019 \u2019\u201dThe company has not been able to identify the intrusion associated with this theft,\u201d Yahoo said on Wednesday about the new incident.\u2019 \u2019News of the breach sent Yahoo shares sliding about 2."
+        ],
+        "tf-idf score": [
+            0.8458909959973757,
+            0.9131888334600228,
+            1.5047385290064288
+        ]
+    },
+    "0.2690845825818691-3-289": {
+        "average clique similarity": 0.2690845825818691,
+        "clique": [
+            "6-5  in   trading on W",
+            "2-The company says the",
+            "4-The company said tha"
+        ],
+        "median tf-idf score": 0.8019118595615836,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "5% in   trading on Wednesday.\u2019 \u2019\u2019 \u2019\u2019 \u2019\u2019 \u2019Yahoo said that   data and   information were not stored on the system the company \u201dbelieves\u201d was affected.",
+            "The company says the data breach it announced Wednesday is separate from the one it notified users about in September.",
+            "The company said that it believes the two incidents were distinct."
+        ],
+        "tf-idf score": [
+            1.084378844444019,
+            0.8019118595615836,
+            0.39232788473752117
+        ]
+    },
+    "0.27105400843080435-3-289": {
+        "average clique similarity": 0.27105400843080435,
+        "clique": [
+            "5-Yahoo now believes t",
+            "2-The attacker was abl",
+            "6-Based on the ongoing"
+        ],
+        "median tf-idf score": 1.143968792646845,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Yahoo now believes the hackers stole proprietary code from the company and used it to build falsified \u201csession cookies\u201d  \u2014   bits of code that tell Yahoo\u2019s servers that a computer has already logged in, so that users don\u2019t have to keep entering passwords every time they open a new window.",
+            "The attacker was able to \u201cforge\u201d cookies \u2014  small packages of data that track users and tell browsers which accounts a user is signed into, among other things \u2014  by accessing and dissecting Yahoo\u2019s \u201cproprietary code,\u201d the company said.",
+            "Based on the ongoing investigation, the company believes an unauthorized third party accessed the company\u2019\u2019s proprietary code to learn how to forge cookies."
+        ],
+        "tf-idf score": [
+            1.143968792646845,
+            1.3916287907618996,
+            0.43262628103540823
+        ]
+    },
+    "0.28396354313720135-4-159": {
+        "average clique similarity": 0.28396354313720135,
+        "clique": [
+            "2-Updated at 6 30 p  m",
+            "3-The company  in conj",
+            "6-Based on further ana",
+            "1- Yahoo believes  bas"
+        ],
+        "median tf-idf score": 1.0824325955081135,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Updated at 6:30 p. m. A hacker stole information from more than one billion Yahoo email accounts in August 2013, the company announced Wednesday.",
+            "The company, in conjunction with outside experts, verified that it was data stolen in August 2013, the company said in a statement.",
+            "Based on further analysis of this data by the forensic experts, Yahoo believes an unauthorized third party, in August 2013, stole data associated with more than one billion user accounts.",
+            " Yahoo believes, based on   forensic evidence, that someone stole user data from 1 billion Yahoo accounts in 2013, according to a press release from the company."
+        ],
+        "tf-idf score": [
+            1.0490395086130557,
+            0.7172234539711801,
+            1.1158256824031714,
+            1.2225576043106514
+        ]
+    },
+    "0.3050678895764607-3-51": {
+        "average clique similarity": 0.3050678895764607,
+        "clique": [
+            "2-Some people may have",
+            "0-Yahoo also said Wedn",
+            "6-Yahoo has also inval"
+        ],
+        "median tf-idf score": 1.2608580986976141,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Some people may have also had answers to their security questions stolen, which, if published, could make it easier for hackers to gain access to other accounts that use the same security answers.",
+            "Yahoo also said Wednesday that it believes hackers responsible for the previous breach had also accessed the company\u2019s proprietary code to learn how to forge \u201dcookies\u201d that would allow hackers to access an account without a password.",
+            "Yahoo has also invalidated unencrypted security questions and answers so that they cannot be used to access an account.\u2019 \u2019\u201dSeparately, Yahoo previously disclosed that its outside forensic experts were investigating the creation of forged cookies that could allow an intruder to access users\u2019\u2019 accounts without a password."
+        ],
+        "tf-idf score": [
+            0.5436962215539588,
+            1.2608580986976141,
+            1.2885275260059164
+        ]
+    },
+    "0.33732821977674704-6-8": {
+        "average clique similarity": 0.33732821977674704,
+        "clique": [
+            "6-Yahoo has taken step",
+            "3-The latest Yahoo bre",
+            "1-The company received",
+            "0-Yahoo said it discov",
+            "5-In its November quar",
+            "4-The statement contin"
+        ],
+        "median tf-idf score": 1.2369220726427164,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Reuters",
+            "NPR",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Yahoo has taken steps to secure user accounts and is working closely with law enforcement.\u2019 \u2019\u201dAs Yahoo previously disclosed in November, law enforcement provided the company with data files that a third party claimed was Yahoo user data.",
+            "The latest Yahoo breach was discovered after law enforcement officials shared with the company data that \u201da third party\u201d claimed was from Yahoo user accounts.",
+            "The company received information about the breach from law enforcement on Nov. 7, 2016, according to a spokesperson.",
+            "Yahoo said it discovered the breach while reviewing data provided to the company by law enforcement.",
+            "In its November quarterly results report, though, Yahoo hinted that there was worse to come: \u201cOn November 7, 2016, law enforcement authorities began sharing certain data that they indicated was provided by a hacker who claimed the information was Yahoo user account data,\u201d company spokespeople told investors.",
+            "The statement continued: \u201dAs Yahoo previously disclosed in November, law enforcement provided the company with data files that a third party claimed was Yahoo user data."
+        ],
+        "tf-idf score": [
+            1.3923481170237244,
+            1.3251917277957463,
+            0.500767251976073,
+            0.9360973390239902,
+            1.4322870393903848,
+            1.1486524174896864
+        ]
+    },
+    "0.34683387135515-3-277": {
+        "average clique similarity": 0.34683387135515,
+        "clique": [
+            "5- This   revelation w",
+            "3-Yahoo has said it ha",
+            "1-Senator Mark Warner "
+        ],
+        "median tf-idf score": 1.0230389209095467,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cThis   revelation warrants a separate   and I plan to press the company on why its cyber defenses have been so weak as to have compromised over a billion users,\u201d Warner wrote in a statement.",
+            "Yahoo has said it has more than 1 billion users worldwide, though the company\u2019s fortunes have been sagging for years as other tech companies have snatched away pieces of the company\u2019s search, email and other   businesses.",
+            "Senator Mark Warner, founder of the Senate Cybersecurity Caucus, said in a statement, \u201cWhile I have repeatedly asked for briefings from Yahoo on the disclosure of its 2014 breach and have yet to receive a response, this most recent revelation warrants a separate follow up and I plan to press the company on why its cyber defenses have been so weak as to have compromised over a billion users."
+        ],
+        "tf-idf score": [
+            0.6179124853108237,
+            1.0230389209095467,
+            1.293223344317226
+        ]
+    },
+    "0.3591762769892623-3-88": {
+        "average clique similarity": 0.3591762769892623,
+        "clique": [
+            "3-That incident  the c",
+            "0-Yahoo was tentative ",
+            "6-Yahoo believes this "
+        ],
+        "median tf-idf score": 1.273304318862929,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "That incident, the company said, appeared to have links to the one announced in September.",
+            "Yahoo was tentative in its description of new problems, saying the incident was \u201dlikely\u201d distinct from the one it reported in September and that stolen information \u201dmay have included\u201d names,   addresses, telephone numbers, dates of birth, hashed passwords and, in some cases, encrypted or unencrypted security questions and answers.",
+            "Yahoo believes this incident is likely distinct from the incident the company disclosed on September 22, 2016.\u2019 \u2019\u201dFor potentially affected accounts, the stolen user account information may have included names, email addresses, telephone numbers, dates of birth, hashed passwords (using MD5) and, in some cases, encrypted or unencrypted security questions and answers."
+        ],
+        "tf-idf score": [
+            0.44804341639984807,
+            1.273304318862929,
+            1.7749797820615902
+        ]
+    },
+    "0.38205096318049186-5-289": {
+        "average clique similarity": 0.38205096318049186,
+        "clique": [
+            "1-The data may have in",
+            "6-But the hackers may ",
+            "4-Updated at 7 00 p  m",
+            "3-  Yahoo said Wednesd",
+            "2-The data included na"
+        ],
+        "median tf-idf score": 1.0594882387645896,
+        "publications": [
+            "Buzzfeed News",
+            "Business Insider",
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The data may have included \u201cnames, email addresses, telephone numbers, dates of birth, hashed passwords (using MD5) and, in some cases, encrypted or unencrypted security questions and answers.",
+            "But the hackers may have collected a trove of other valuable personal information, such as user names, email addresses, telephone numbers, dates of birth, hashed passwords, and, in some cases, encrypted or unencrypted security questions and answers.\u2019 \u2019\u2019 \u2019\u201dYahoo!",
+            "Updated at 7:00 p. m. ET, Yahoo says hackers stole names, email addresses, phone numbers, dates of birth and encrypted or unencrypted security questions and answers from more than 1 billion accounts.",
+            "  Yahoo said Wednesday that 1 billion user accounts    meaning most of the Internet giant\u2019s customers worldwide    were hacked in 2013, leading to the release of user names, telephone numbers, dates of birth and other personal information.",
+            "The data included names, email addresses, telephone numbers, dates of birth, and password hashes, which are strings of characters that help a website check whether or not an entered password is correct."
+        ],
+        "tf-idf score": [
+            0.6790647118297972,
+            1.1651953855902262,
+            1.0594882387645896,
+            1.2103601852597659,
+            0.5017651585826891
+        ]
+    },
+    "0.3901367127433517-3-271": {
+        "average clique similarity": 0.3901367127433517,
+        "clique": [
+            "3-Verizon spokesman Bo",
+            "0-Following the latest",
+            "1-Verizon reiterated i"
+        ],
+        "median tf-idf score": 0.6080999810374184,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Verizon spokesman Bob Varettoni said, \u201cAs we\u2019ve said all along, we will evaluate the situation as Yahoo continues its investigation.",
+            "Following the latest disclosure, Verizon said, \u201dwe will review the impact of this new development before reaching any final conclusions\u201d.",
+            "Verizon reiterated its statement from the September hack: \u201cAs we\u2019ve said all along, we will evaluate the situation as Yahoo continues its investigation."
+        ],
+        "tf-idf score": [
+            0.6080999810374184,
+            0.3793599607355276,
+            0.7308137516412987
+        ]
+    },
+    "0.4361809832547525-4-92": {
+        "average clique similarity": 0.4361809832547525,
+        "clique": [
+            "4-Payment card data an",
+            "6-Payment card data an",
+            "0-It said it had not y",
+            "3-   In the 2013 incid"
+        ],
+        "median tf-idf score": 1.2110528365329403,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Payment card data and bank account information are not stored in the system the company believes was affected\u201d.",
+            "Payment card data and bank account information are not stored in the system the company believes was affected.\u2019 \u2019\u201dYahoo is notifying potentially affected users and has taken steps to secure their accounts, including requiring users to change their passwords.",
+            "It said it had not yet identified the intrusion that led to the massive data theft and noted that   data and bank account information were not stored in the system the company believes was affected.",
+            "\u201d  In the 2013 incident, Yahoo said that credit card and bank account numbers, which are stored separately, were not affected, but the breach did include some unencrypted \u201dsecurity questions\u201d that the company uses to verify the identities of users."
+        ],
+        "tf-idf score": [
+            0.8276570043721311,
+            1.584126271509044,
+            0.9842505504597641,
+            1.4378551226061163
+        ]
+    },
+    "0.4361842369302216-3-128": {
+        "average clique similarity": 0.4361842369302216,
+        "clique": [
+            "6-The investigation in",
+            "4-    The investigatio",
+            "2-Earlier this year  Y"
+        ],
+        "median tf-idf score": 0.671295122055132,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The investigation indicates that the stolen information did not include passwords in clear text, payment card data, or bank account information.",
+            ".. \u201dThe investigation indicates that the stolen information did not include passwords in clear text, payment card data, or bank account information.",
+            "Earlier this year, Yahoo announced that information from 500 million user accounts was stolen."
+        ],
+        "tf-idf score": [
+            0.671295122055132,
+            0.671295122055132,
+            1.0021266013722876
+        ]
+    },
+    "0.49156029197684586-3-2": {
+        "average clique similarity": 0.49156029197684586,
+        "clique": [
+            "6-The company has conn",
+            "1-Yahoo is requiring a",
+            "3- Yahoo encourages us"
+        ],
+        "median tf-idf score": 1.4525758554577235,
+        "publications": [
+            "Buzzfeed News",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The company has connected some of this activity to the same   actor believed to be responsible for the data theft the company disclosed on September 22, 2016.\u2019 \u2019\u201dYahoo encourages users to review all of their online accounts for suspicious activity and to change their passwords and security questions and answers for any other accounts on which they use the same or similar information used for their Yahoo account.",
+            "Yahoo is requiring all potentially affected users to change their passwords and password recovery questions.",
+            "\u201dYahoo encourages users to review all of their online accounts for suspicious activity and to change their passwords and security questions and answers for any other accounts on which they use the same or similar information used for their Yahoo account,\u201d the company said in a statement."
+        ],
+        "tf-idf score": [
+            1.6260092521165268,
+            0.7150208376550544,
+            1.4525758554577235
+        ]
+    }
+}

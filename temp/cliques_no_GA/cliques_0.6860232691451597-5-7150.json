@@ -1,0 +1,618 @@
+{
+    "0.16507139100031934-3-251": {
+        "average clique similarity": 0.16507139100031934,
+        "clique": [
+            "2- It is time that the",
+            "3-Now  more than 8  00",
+            "4- But let s be clear "
+        ],
+        "median tf-idf score": 0.6097245866623988,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cIt is time that the President level with the American people about what it will really take to achieve our goals in Afghanistan, and how much it will cost,\u201d Rep. Mac Thornberry ( .)",
+            "Now, more than 8, 000 troops will remain, and it will be up to Mr Obama\u2019s successor to order any further reductions.",
+            "\u201dBut let\u2019s be clear    this troop reduction, while it will seem small to many, will have a negative impact on the security situation in Afghanistan\u201d."
+        ],
+        "tf-idf score": [
+            0.5990780270525122,
+            0.6097245866623988,
+            0.619348806767268
+        ]
+    },
+    "0.18250746909534452-3-229": {
+        "average clique similarity": 0.18250746909534452,
+        "clique": [
+            "1-Since  the Special I",
+            "3-There have been othe",
+            "0-U S troops have been"
+        ],
+        "median tf-idf score": 1.0864213489948875,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Since, the Special Inspector General for Afghanistan Reconstruction (SIGAR) has conceded that American troops have been drawn into combat in support of the Afghan security forces against the Taliban.",
+            "There have been other signs that the United States is preparing for a   counterterrorism campaign.",
+            "U S troops have been in Afghanistan since the 2001 invasion launched by Obama\u2019s predecessor, George W Bush, that toppled the Taliban leaders who harbored the al Qaeda organization responsible for the Sept. 11 attacks on the United States that killed about 3, 000 people."
+        ],
+        "tf-idf score": [
+            1.0864213489948875,
+            0.1733076995684498,
+            1.1860165892417625
+        ]
+    },
+    "0.18516398601455167-3-1": {
+        "average clique similarity": 0.18516398601455167,
+        "clique": [
+            "3-When he last tinkere",
+            "1-Initially  Obama s p",
+            "2- U S was supposed to"
+        ],
+        "median tf-idf score": 0.5657186578925901,
+        "publications": [
+            "New York Times",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "When he last tinkered with the drawdown schedule, Mr Obama said he hoped to reduce that number to 5, 500 by early 2017.",
+            "Initially, Obama\u2019s plan was to reduce the U S military presence in Afghanistan to 5, 500 by the end of this year, from the approximately 9, 800 who are there now.",
+            "[U S was supposed to leave Afghanistan by 2017."
+        ],
+        "tf-idf score": [
+            0.5657186578925901,
+            0.8294721550272942,
+            0.366104532458758
+        ]
+    },
+    "0.18810589790461263-3-52": {
+        "average clique similarity": 0.18810589790461263,
+        "clique": [
+            "3-  But Representative",
+            "2-not about calibratin",
+            "0- It is time that the"
+        ],
+        "median tf-idf score": 0.7938900636396516,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d But Representative Jim McGovern, Democrat of Massachusetts and a critic of the war, said, \u201cWe are engaged in what appears to be an endless war, with no strategy about how to end the conflict and disengage our troops.",
+            "not about calibrating how many troops we could afford to reduce  \u2014   it was about designing the best possible presence to carry out those missions through the end of the year,\u201d the official said.",
+            "\u201dIt is time that the president level with the American people about what it will really take to achieve our goals in Afghanistan, and how much it will cost,\u201d Thornberry said in a statement."
+        ],
+        "tf-idf score": [
+            0.6091924534928584,
+            0.805750577913179,
+            0.7938900636396516
+        ]
+    },
+    "0.20940141695942194-3-313": {
+        "average clique similarity": 0.20940141695942194,
+        "clique": [
+            "2-Obama said his decis",
+            "1-WASHINGTON  D C     ",
+            "4-The decision means t"
+        ],
+        "median tf-idf score": 1.1426877545181635,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "Obama said his decision to leave a larger force in Afghanistan signaled to Taliban militants their inability to prevail after almost 15 years of war.",
+            "WASHINGTON, D C  \u2014   President Barack Obama announced changes to his plans to draw down the number of U S forces in Afghanistan, saying the United States will maintain 8, 400 troops in the country into 2017 as he  acknowledged that after more than 14 years of war \u201cthe security situation in Afghanistan remains precarious.",
+            "The decision means that Obama, who came to power vowing to concentrate on winning the war in Afghanistan, after what he saw as a diversion by the Bush administration into Iraq, will hand responsibility for America\u2019s longest war to his successor."
+        ],
+        "tf-idf score": [
+            1.1426877545181635,
+            1.5625146963900562,
+            0.865245500453779
+        ]
+    },
+    "0.22049405753481996-3-168": {
+        "average clique similarity": 0.22049405753481996,
+        "clique": [
+            "3-  Besides fragile se",
+            "1-  The changes come a",
+            "0-The Islamic State gr"
+        ],
+        "median tf-idf score": 0.4948044792166415,
+        "publications": [
+            "New York Times",
+            "Breitbart",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201d Besides fragile security, the decision reflected American worries that Al Qaeda was regrouping in Afghanistan, and that the Islamic State had established a foothold there.",
+            "\u201d[The changes come amid deteriorating security conditions fueled by a Taliban resurgence and an Islamic State ( ) branch eager to expand its presence in the country.",
+            "The Islamic State group has also established a small presence in Afghanistan."
+        ],
+        "tf-idf score": [
+            0.7556813189463641,
+            0.4948044792166415,
+            0.4788144774969215
+        ]
+    },
+    "0.22374628282592116-3-135": {
+        "average clique similarity": 0.22374628282592116,
+        "clique": [
+            "1-In the first year af",
+            "4- In January  the nex",
+            "2- Senior U S general "
+        ],
+        "median tf-idf score": 0.5981298591991646,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In the first year after the president announced the end to the combat mission, the Taliban surpassed ISIS as the world\u2019s most prolific terrorist organization, with 1, 093 individual attacks between January and December of 2015.",
+            "\u201dIn January, the next U S president will assume the most solemn responsibility of the commander in chief, security of the United States and the safety of the American people.",
+            "[Senior U S general wants to start striking the Taliban again]  Obama\u2019s announcement tees up additional decisions for the next U S president, who will also have to grapple with the wars in Iraq and Syria and the growth of the Islamic State."
+        ],
+        "tf-idf score": [
+            0.5981298591991646,
+            0.49249426591170964,
+            0.7476088463860233
+        ]
+    },
+    "0.22942397474175358-3-313": {
+        "average clique similarity": 0.22942397474175358,
+        "clique": [
+            "3-  Mr Obama announced",
+            "0-Obama spoke in advan",
+            "2-The announcement com"
+        ],
+        "median tf-idf score": 0.4644687287322089,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d Mr Obama announced the decision a day before leaving for a NATO summit meeting in Warsaw.",
+            "Obama spoke in advance of a NATO summit on Friday and Saturday in Warsaw, Poland, where alliance members are expected to confirm their support for the Kabul government.",
+            "The announcement comes several days before Obama attends a NATO summit in Poland that had imposed something of a deadline on the White House."
+        ],
+        "tf-idf score": [
+            0.47297412909904396,
+            0.4644687287322089,
+            0.43301635822523815
+        ]
+    },
+    "0.2494858706390818-4-27": {
+        "average clique similarity": 0.2494858706390818,
+        "clique": [
+            "0-They ve gained groun",
+            "4- In short  even as w",
+            "1-They ve gained groun",
+            "3- I welcome it as a d"
+        ],
+        "median tf-idf score": 0.391113594794686,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "They\u2019ve gained ground in some places\u201d.",
+            "\u201dIn short, even as we\u2019ve maintained a relentless, you know, case against those who are threatening us, we are no longer engaged in a major ground war in Afghanistan\u201d.",
+            "They\u2019ve gained ground in some cases  \u2026     We can\u2019t forget what\u2019s at stake in Afghanistan.",
+            "\u201cI welcome it as a demonstration, not only of the administration\u2019s flexibility in best advancing our national security interests in Afghanistan, but of the   commitment we\u2019ve said we\u2019ve had to Afghanistan, but which was being questioned there."
+        ],
+        "tf-idf score": [
+            0.05186642495470145,
+            0.453051355213877,
+            0.329175834375495,
+            0.740920383485941
+        ]
+    },
+    "0.2538360813690566-3-265": {
+        "average clique similarity": 0.2538360813690566,
+        "clique": [
+            "1-An estimated 2  215 ",
+            "0-Obama  who took offi",
+            "4-In his remarks on We"
+        ],
+        "median tf-idf score": 0.9117897432729416,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "An estimated 2, 215 U S troops had been killed in Afghanistan by the time Obama ended the combat mission at the end of 2014.",
+            "Obama, who took office in 2009 pledging to wind down the U S wars in Iraq and Afghanistan, said he had ended America\u2019s combat mission in Afghanistan.",
+            "In his remarks on Wednesday, the President also sought to make a distinction between the training and support mission that U S troops are now engaged in and the mission that he escalated when he took over from President George W Bush in 2009 in an apparent attempt to square the political circle of his promises to end costly U S wars abroad but to leave thousands of American troops behind."
+        ],
+        "tf-idf score": [
+            0.8908105398529306,
+            0.9188044941514921,
+            0.9117897432729416
+        ]
+    },
+    "0.2550778987676726-5-7": {
+        "average clique similarity": 0.2550778987676726,
+        "clique": [
+            "0-In addition to the U",
+            "1-He added  Compared t",
+            "2-That compares with a",
+            "4-FBI director  Hillar",
+            "3-The deployment  Mr O"
+        ],
+        "median tf-idf score": 0.5747271310235282,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "In addition to the U S forces, there are about 3, 000 other international troops in Afghanistan.",
+            "He added: Compared to the 100, 000 troops we once had there, today, fewer than 10, 000 remain.",
+            "That compares with a force of about 100, 000 stationed there during Obama\u2019s 2010 troop surge.",
+            "FBI director: Hillary Clinton \u2019extremely careless\u2019 but no charges recommended, \u201dCompared to the 100, 000 troops we once had there, today, fewer than 10, 000 remain.",
+            "The deployment, Mr Obama noted, was a far cry from the 100, 000 combat troops once there."
+        ],
+        "tf-idf score": [
+            0.6263281771522615,
+            0.3332649921319791,
+            0.5747271310235282,
+            0.3730163498751954,
+            0.682624027460079
+        ]
+    },
+    "0.2592979464477934-3-279": {
+        "average clique similarity": 0.2592979464477934,
+        "clique": [
+            "4-  CNN  President Bar",
+            "3-WASHINGTON      Pres",
+            "0- President Barack Ob"
+        ],
+        "median tf-idf score": 1.366343013823388,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            " (CNN) President Barack Obama said Wednesday that he will leave behind 3, 000 more troops in Afghanistan than originally planned, effectively handing involvement in a raging civil war the United States joined after the   attacks to his successor.",
+            "WASHINGTON  \u2014   President Obama said Wednesday that he planned to leave 8, 400 American troops in Afghanistan until the end of his term, further slowing the drawdown in a   war that Mr Obama pledged to end on his watch but now seems likely to grind on indefinitely.",
+            " President Barack Obama, calling Afghanistan\u2019s security situation precarious, said on Wednesday he will keep U S troop levels there at 8, 400 through the end of his administration rather than reducing them to 5, 500 by year\u2019s end as previously planned."
+        ],
+        "tf-idf score": [
+            1.366343013823388,
+            1.353320598214256,
+            1.4073428489620379
+        ]
+    },
+    "0.26510952868998444-3-131": {
+        "average clique similarity": 0.26510952868998444,
+        "clique": [
+            "2-Sen  John McCain    ",
+            "4-South Carolina Sen  ",
+            "3-Two prominent Republ"
+        ],
+        "median tf-idf score": 0.13260803422535555,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "Sen. John McCain ( .)",
+            "South Carolina Sen. Lindsey Graham said it was a more of a political decision than a military one.",
+            "Two prominent Republican senators, John McCain of Arizona and Lindsey Graham of South Carolina, added their voices to that call."
+        ],
+        "tf-idf score": [
+            0.048068695076957185,
+            0.44501353902610985,
+            0.13260803422535555
+        ]
+    },
+    "0.2706571009306707-3-32": {
+        "average clique similarity": 0.2706571009306707,
+        "clique": [
+            "2-chair of the House A",
+            "4-Tennessee Sen  Bob C",
+            "0-Mac Thornberry  the "
+        ],
+        "median tf-idf score": 0.7249937212991229,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "chair of the House Armed Services Committee, said in a statement.",
+            "Tennessee Sen. Bob Corker, chairman of the Senate Foreign Relations Committee, said he thought the troop levels should remain the same, but praised the timing of Obama\u2019s announcement.",
+            "Mac Thornberry, the Republican chairman of the House of Representatives Armed Services Committee, criticized what he said was a new cap on U S troop levels."
+        ],
+        "tf-idf score": [
+            0.31765272128168426,
+            0.8035708938315567,
+            0.7249937212991229
+        ]
+    },
+    "0.2806547927292406-3-313": {
+        "average clique similarity": 0.2806547927292406,
+        "clique": [
+            "4-Speaking from the Wh",
+            "2- President Obama ann",
+            "1- Instead of going do"
+        ],
+        "median tf-idf score": 1.0916331622826516,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Speaking from the White House, Obama said he would draw down troops to 8, 400 by the end of his administration, a change from the initial target of 5, 500.",
+            " President Obama announced revised troop plans for Afghanistan on Wednesday, keeping 8, 400 U S troops in the country when he steps down early next year, the clearest indication yet of his inability to end the long war there.",
+            "\u201cInstead of going down to 5, 500 troops by the end of this year, the United States will maintain approximately 8400 troops in Afghanistan into next year through the end of my administration,\u201d declared Obama on Wednesday."
+        ],
+        "tf-idf score": [
+            0.8411711266482514,
+            1.1200089105897182,
+            1.0916331622826516
+        ]
+    },
+    "0.33180448172766713-3-219": {
+        "average clique similarity": 0.33180448172766713,
+        "clique": [
+            "1-  Obama noted that h",
+            "4-Currently there are ",
+            "2-In a conference call"
+        ],
+        "median tf-idf score": 1.5604517475348922,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201d Obama noted that his decision was driven by the results of a review of the security conditions in Afghanistan conducted by Gen. John Nicholson, Jr the top commander of U S and NATO troops in the country, and recommendations from Defense Secretary Ash Carter, Chairman of the Joint Chiefs of Staff Gen. Joseph Dunford, Congress, the Afghan government, and America\u2019s international partners.",
+            "Currently there are 9, 800 troops supporting the Afghanistan government in its fight against the Taliban, attempts by al Qaeda to regroup and a nascent threat from ISIS \u201dThe security situation in Afghanistan remains precarious,\u201d Obama said, with Secretary of Defense Ash Carter and Chairman of the Joint Chiefs of Staff Gen. Joseph Dunford at his side, a day before leaving for the NATO summit in Poland where he will meet allies also engaged in the Afghan operation.",
+            "In a conference call with reporters to discuss the announcement, senior administration officials said the revised troop number, a slight decrease from the current level, reflected recommendations from the U S commander in Afghanistan, Gen. John W \u201cMick\u201d Nicholson Jr The changes were approved by Carter and Dunford, they said."
+        ],
+        "tf-idf score": [
+            1.5604517475348922,
+            1.789589986845303,
+            1.1353902445795025
+        ]
+    },
+    "0.3570720819263166-4-110": {
+        "average clique similarity": 0.3570720819263166,
+        "clique": [
+            "1- The decision I m ma",
+            "2- Even as we work for",
+            "4-The decision I m mak",
+            "3-Mr Obama cast his de"
+        ],
+        "median tf-idf score": 0.7905710799448511,
+        "publications": [
+            "New York Times",
+            "Breitbart",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            ".The decision I\u2019m making today ensures that my successor has a solid foundation for continued progress in Afghanistan as well as the flexibility to address the threat of terrorism as it evolves.",
+            "\u201cEven as we work for peace, we have to deal with the realities of the world as it is,\u201d Obama said.",
+            "The decision I\u2019m making today ensures that my successor has a solid foundation for continued progress in Afghanistan as well as the flexibility to address the threat of terrorism as it evolves,\u201d Obama said.",
+            "Mr Obama cast his decision as a vote of confidence in Afghanistan\u2019s government, led by President Ashraf Ghani, as well as in the support of NATO members and other partners, who have contributed 6, 000 troops."
+        ],
+        "tf-idf score": [
+            0.5984670873247233,
+            0.45510297614460127,
+            0.9826750725649789,
+            1.1143390165054299
+        ]
+    },
+    "0.35816666459380686-3-313": {
+        "average clique similarity": 0.35816666459380686,
+        "clique": [
+            "1-Even as they improve",
+            "0-Obama s plan still c",
+            "3- Even as they improv"
+        ],
+        "median tf-idf score": 0.35551363093476246,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "Even as they improve, Afghan security forces are still not as strong as they need to be.",
+            "Obama\u2019s plan still calls for a reduction in U S troop levels from the current roughly 9, 800, but not as much as previously planned.",
+            "\u201cEven as they improve, Afghan security forces are still not as strong as they need to be."
+        ],
+        "tf-idf score": [
+            0.35551363093476246,
+            0.5663433202917232,
+            0.35551363093476246
+        ]
+    },
+    "0.3755193635344131-3-180": {
+        "average clique similarity": 0.3755193635344131,
+        "clique": [
+            "0- The Taliban remains",
+            "1-At the same time  th",
+            "3- The security situat"
+        ],
+        "median tf-idf score": 0.18105807237129976,
+        "publications": [
+            "Reuters",
+            "Breitbart",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201dThe Taliban remains a threat.",
+            "At the same time, the Taliban remains a threat.",
+            "\u201cThe security situation in Afghanistan remains precarious,\u201d Mr Obama said from the Roosevelt Room of the White House."
+        ],
+        "tf-idf score": [
+            0.14540148970449004,
+            0.18105807237129976,
+            1.013230840481163
+        ]
+    },
+    "0.3781287571407541-3-313": {
+        "average clique similarity": 0.3781287571407541,
+        "clique": [
+            "1-Obama noted  The sec",
+            "0- The security situat",
+            "2- When the President "
+        ],
+        "median tf-idf score": 0.8287995839134594,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Obama noted: The security situation in Afghanistan remains precarious.",
+            "\u201dThe security situation in Afghanistan remains precarious,\u201d Obama said.",
+            "\u201cWhen the President himself describes the security situation in Afghanistan as \u2018precarious,\u2019 it is difficult to discern any strategic rationale for withdrawing 1, 400 U S troops by the end of the year,\u201d he said in a statement."
+        ],
+        "tf-idf score": [
+            0.6700264029004511,
+            0.8287995839134594,
+            1.0450001043661703
+        ]
+    },
+    "0.40556855407005576-3-313": {
+        "average clique similarity": 0.40556855407005576,
+        "clique": [
+            "3- We have to deal wit",
+            "2- U S widens war in A",
+            "0-During his announcem"
+        ],
+        "median tf-idf score": 1.0363138793258257,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cWe have to deal with the realities of the world as it is,\u201d said Mr Obama, who was flanked by Defense Secretary Ashton B Carter and the chairman of the Joint Chiefs of Staff, Gen. Joseph F Dunford Jr \u201cIt is going to continue to take time to build up military capacity that we sometimes take for granted.",
+            "[U S widens war in Afghanistan, authorizes new action against Taliban]    President Obama, flanked by Defense Secretary Ashton B Carter, center, and Gen. Joseph Dunford, chairman of the Joint Chiefs of Staff, delivers a statement Wednesday at the White House on the deployment of U S troops in Afghanistan.",
+            "During his announcement at the White House, Obama was flanked by Defense Secretary Ash Carter and the top U S military officer, General Joe Dunford, chairman of the Joint Chiefs of Staff."
+        ],
+        "tf-idf score": [
+            1.0363138793258257,
+            1.3348934526865102,
+            0.712174998779709
+        ]
+    },
+    "0.45709782485694855-3-193": {
+        "average clique similarity": 0.45709782485694855,
+        "clique": [
+            "4- And given the enorm",
+            "3-Given the enormous c",
+            "2-It is also a reminde"
+        ],
+        "median tf-idf score": 0.4341817711523392,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dAnd given the enormous challenges they face, the Afghan people will need the partnership of the world, led by the United States, for many years to come\u201d.",
+            "Given the enormous challenges they face, the Afghan people will need the partnership of the world, led by the United States, for many years to come.",
+            "It is also a reminder of the same point to the United States."
+        ],
+        "tf-idf score": [
+            0.4341817711523392,
+            0.4341817711523392,
+            0.14755836494548835
+        ]
+    },
+    "0.5395626946767527-3-141": {
+        "average clique similarity": 0.5395626946767527,
+        "clique": [
+            "0-Obama  in a statemen",
+            "1-And compared to thei",
+            "4-And compared to thei"
+        ],
+        "median tf-idf score": 1.4615050147405644,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "Obama, in a statement at the White House, said the role of U S forces in Afghanistan will remain unchanged: training and advising Afghan police and troops, and supporting counterterrorism missions against the Taliban and other groups.",
+            "And compared to their previous mission, helping to lead the fight, our forces are now focused on two narrow missions: training and advising Afghan forces and supporting counterterrorist operations against the remnants of Al Qaida as well as other terrorist groups, including ISIL Since Obama declared an end to the U S combat mission in Afghanistan in December 2014, Afghan civilians and security forces have suffered a record number of casualties, primarily at the hands of the Taliban.",
+            "And compared to their previous mission, helping to lead the fight, our forces are now focused on two narrow missions: training and advising Afghan forces and supporting counterterrorist operations against the remnants of al Qaeda as well as other terrorist groups, including ISIL,\u201d Obama said."
+        ],
+        "tf-idf score": [
+            1.4615050147405644,
+            1.5324628564517502,
+            1.0351818418964132
+        ]
+    },
+    "0.5512657201508535-3-269": {
+        "average clique similarity": 0.5512657201508535,
+        "clique": [
+            "1-This is where Al Qai",
+            "4-This is where al Qae",
+            "3-This is where ISIL c"
+        ],
+        "median tf-idf score": 0.4555650173871633,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Breitbart"
+        ],
+        "sentences": [
+            "This is where Al Qaida is trying to regroup, this is where ISIL continues to try to expand its presence.",
+            "This is where al Qaeda is trying to regroup, this is where ISIL continues to try to expand its presence,\u201d Obama said, using another name for ISIS The tone of that comment contrasted with the President\u2019s repeated vows to end the Afghan war, including a declaration in December 2014 at the end of U S combat operations that \u201dthe longest war in American history is coming to a responsible conclusion\u201d.",
+            "This is where ISIL continues to try to expand is presence,\u201d he said, using the administration\u2019s preferred acronym for the Islamic State."
+        ],
+        "tf-idf score": [
+            0.1828181116486288,
+            1.1742779593347494,
+            0.4555650173871633
+        ]
+    },
+    "0.7838633658743775-3-313": {
+        "average clique similarity": 0.7838633658743775,
+        "clique": [
+            "4-We can t forget what",
+            "2- And we can t forget",
+            "3- We can t forget wha"
+        ],
+        "median tf-idf score": 0.28034978927465376,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "We can\u2019t forget what\u2019s at stake in Afghanistan.",
+            "\u201cAnd we can\u2019t forget what\u2019s at stake in Afghanistan.",
+            "\u201cWe can\u2019t forget what\u2019s at stake in Afghanistan,\u201d Mr Obama said."
+        ],
+        "tf-idf score": [
+            0.28034978927465376,
+            0.28034978927465376,
+            0.7550317020422984
+        ]
+    }
+}

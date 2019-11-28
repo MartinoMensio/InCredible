@@ -1,0 +1,606 @@
+{
+    "0.1596868441055804-3-252": {
+        "average clique similarity": 0.1596868441055804,
+        "clique": [
+            "3-While the EU has fou",
+            "2-That s the amount in",
+            "1-The tech giant has r"
+        ],
+        "median tf-idf score": 0.7598207223469569,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "While the EU has found that certain tax regulations are   it has never before ruled whether countries have applied tax regulations fairly in the way it has with Apple, Starbucks and others.",
+            "That\u2019s the amount in back taxes that the European Commission has    \u2014   except the host country for the iPhone maker\u2019s   operations doesn\u2019t want it.",
+            "The tech giant has repeatedly denied that it received unfair tax treatment from Irish authorities, saying that it complies with all tax laws wherever it operates."
+        ],
+        "tf-idf score": [
+            0.8806937712489035,
+            0.7598207223469569,
+            0.6948852798058408
+        ]
+    },
+    "0.16708016217956467-3-90": {
+        "average clique similarity": 0.16708016217956467,
+        "clique": [
+            "1-They have accused th",
+            "0-Apple said the decis",
+            "3-Apple and Dublin sai"
+        ],
+        "median tf-idf score": 0.6760084763219113,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "They have accused the European Commission of leading a campaign against American corporate success and suggested that it would be overstepping its authority by issuing a formal tax order.",
+            "Apple said the decision would have a \u201cprofound and harmful effect on investment and job creation in Europe,\u201d but that they were \u201cconfident the decision will be overturned.",
+            "Apple and Dublin said the U S company\u2019s tax treatment was in line with Irish and European Union law and they would appeal the ruling, which is part of a drive against what the EU says are sweetheart tax deals that usually smaller states in the bloc offer multinational companies to lure jobs and investment."
+        ],
+        "tf-idf score": [
+            0.6760084763219113,
+            0.6114827421825525,
+            1.6255157002749308
+        ]
+    },
+    "0.16835333798057514-3-17": {
+        "average clique similarity": 0.16835333798057514,
+        "clique": [
+            "1-It was prompted in p",
+            "2-The harsh tax ruling",
+            "0- The first in 1991  "
+        ],
+        "median tf-idf score": 1.0954678623770966,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "It was prompted in part by a United States Senate investigation in 2013 that found that Apple, the world\u2019s largest public company by market capitalization, sheltered tens of billions of dollars in profit from tax in offshore entities including in Ireland.",
+            "The harsh tax ruling  \u2014   40 times larger than the previous record ordered by the commission  \u2014   ended a   investigation in which Apple and Ireland were found to be in cahoots.",
+            "\u201cThe first in 1991, it was replaced in 2007, by a similar second ruling."
+        ],
+        "tf-idf score": [
+            1.2707675860299268,
+            1.0954678623770966,
+            0.15510040879518622
+        ]
+    },
+    "0.17173812376169204-3-41": {
+        "average clique similarity": 0.17173812376169204,
+        "clique": [
+            "4-But it can order rec",
+            "3- Tax rulings granted",
+            "2-Ireland s unusual ta"
+        ],
+        "median tf-idf score": 1.0046136717012308,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "But it can order recovery only of \u201dillegal state aid\u201d  \u2014   which is what the EU considers those tax breaks to be  \u2014   from 2003 to 2014.",
+            "\u201dTax rulings granted by Ireland have artificially reduced Apple\u2019s tax burden for over two decades, in breach of the EU state aid rules.",
+            "Ireland\u2019s unusual tax treatment reduced Apple\u2019s effective corporate tax rate in the republic from 1 percent in 2003 to 0."
+        ],
+        "tf-idf score": [
+            0.5554766421937106,
+            1.0416138404766269,
+            1.0046136717012308
+        ]
+    },
+    "0.17430490535605825-3-114": {
+        "average clique similarity": 0.17430490535605825,
+        "clique": [
+            "3-The U S feels its fi",
+            "0-  During a call with",
+            "2-  Cook also addresse"
+        ],
+        "median tf-idf score": 0.6752545519468628,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The U S feels its firms are being targeted by the EU and a U S Treasury spokesperson warned the move threatens to undermine U S investment in Europe and \u201dthe important spirit of economic partnership between the U S and the EU\u201d.",
+            "\u201d During a call with reporters on Tuesday morning, Apple CFO Luca Maestri said: \u201cThis decision by the Commission seriously threatens the sovereignty of individual EU states and the rule of law.",
+            "\u201d Cook also addressed the ruling\u2019s implications for more   withdrawals from the EU, calling the penalty \u201ca devastating blow to the sovereignty of EU member states over their own tax matters."
+        ],
+        "tf-idf score": [
+            0.2622735045212798,
+            0.9152594752879902,
+            0.6752545519468628
+        ]
+    },
+    "0.1743582740161523-3-73": {
+        "average clique similarity": 0.1743582740161523,
+        "clique": [
+            "3-On Tuesday the compa",
+            "1-The amount is antici",
+            "0- In the same call  A"
+        ],
+        "median tf-idf score": 0.33989404409518004,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "On Tuesday the company said it expects to place \u201dsome amount of cash\u201d in an escrow account.",
+            "The amount is anticipated to be in the hundreds of millions of dollars, one of these people said.",
+            "\u201dIn the same call, Apple General Counsel Bruce Sewell said that the company will be an active participant in the appeal following Ireland\u2019s lead and the company is developing its legal briefs, expects the appeal to be a   process."
+        ],
+        "tf-idf score": [
+            0.33989404409518004,
+            0.20788624430176814,
+            0.839667192451907
+        ]
+    },
+    "0.19080938588889382-3-234": {
+        "average clique similarity": 0.19080938588889382,
+        "clique": [
+            "1-The European Commiss",
+            "4-The European Union s",
+            "2-005 percent in 2014 "
+        ],
+        "median tf-idf score": 1.1610298572323603,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "The European Commission opened a formal investigation in June 2014 into whether the tax deals granted to Apple in Ireland amounted to illegal state support.",
+            "The European Union\u2019s executive branch has found that Ireland granted unfair and illegal tax breaks to the tech giant Apple, and ruled that Apple now owes more than $14.",
+            "005 percent in 2014, according to the commission, which serves as the executive body of the European Union."
+        ],
+        "tf-idf score": [
+            1.1610298572323603,
+            1.1912842579122693,
+            0.3613967946982064
+        ]
+    },
+    "0.19249792446765457-3-211": {
+        "average clique similarity": 0.19249792446765457,
+        "clique": [
+            "1-In an interview last",
+            "2- We now find ourselv",
+            "0-  He added   We are "
+        ],
+        "median tf-idf score": 0.6089056272114886,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "In an interview last week with The Washington Post, Timothy D Cook, Apple\u2019s chief executive, said that he hoped his company would get a fair hearing in Europe on the tax issue and that \u201cif we don\u2019t, then we would obviously appeal it.",
+            "\u201cWe now find ourselves in the unusual position of being ordered to retroactively pay additional taxes to a government that says we don\u2019t owe them any more than we\u2019ve already paid.",
+            "\u201d He added: \u201cWe are committed to Ireland and we plan to continue investing there, growing and serving our customers with the same level of passion and commitment."
+        ],
+        "tf-idf score": [
+            1.0910045360089209,
+            0.6089056272114886,
+            0.25784322594294723
+        ]
+    },
+    "0.19633462960639772-3-306": {
+        "average clique similarity": 0.19633462960639772,
+        "clique": [
+            "3-But any tax paid in ",
+            "1-While Apple has a la",
+            "0-  In its statement o"
+        ],
+        "median tf-idf score": 1.2729451778933196,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "But any tax paid in Europe is reduced from the tax due in the United States.",
+            "While Apple has a large operation in Ireland, the company said its main corporate tax liabilities remain within the United States where it is based and conducts the majority of its research and development.",
+            "\u201d In its statement on the investigation into Apple and Ireland\u2019s tax arrangements, the European Commission said that two Irish tax rulings issued to Apple had \u201csubstantially and artificially lowered the tax paid by Apple in Ireland since 1991."
+        ],
+        "tf-idf score": [
+            0.47940558227942087,
+            1.2729451778933196,
+            1.399649472419768
+        ]
+    },
+    "0.2048414431840738-3-4": {
+        "average clique similarity": 0.2048414431840738,
+        "clique": [
+            "1-For Apple  the poten",
+            "4-Reuters reports that",
+            "0-He also emphasized t"
+        ],
+        "median tf-idf score": 1.0961719830631096,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "For Apple, the potential tax clawback would be a blow to the company\u2019s approximately 30 years of activity in Ireland, where it currently employs around 5, 500 people, mostly in Cork, a city in the south of the country.",
+            "Reuters reports that in a statement, the company describes the ruling as \u201dan effort to rewrite Apple\u2019s history in Europe, ignore Ireland\u2019s tax laws and upend the international tax system in the process\u201d.",
+            "He also emphasized the company\u2019s history in the southern Irish city of Cork, where it first opened a factory in 1980."
+        ],
+        "tf-idf score": [
+            1.0961719830631096,
+            1.1931809281534056,
+            0.2980592943577481
+        ]
+    },
+    "0.2083603425012991-3-85": {
+        "average clique similarity": 0.2083603425012991,
+        "clique": [
+            "2-However  the EC clai",
+            "4-On top of that  the ",
+            "0-Speaking at a news c"
+        ],
+        "median tf-idf score": 0.8804796292676029,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "However, the EC claims Apple further benefited from the setup by attributing sales made in Europe, Africa, India and the Middle East to Apple Sales International in Ireland rather than to the stores that physically moved the goods.",
+            "On top of that, the commission says, Apple chose to record all sales in the EU as sales in Ireland, allowing that low rate to apply to all sales in the entire EU single market.",
+            "Speaking at a news conference in Brussels on Tuesday morning, Vestager said: \u201cOur investigation focused on the allocation of profits recorded in Ireland within Apple Sales International."
+        ],
+        "tf-idf score": [
+            0.727716886198557,
+            0.8804796292676029,
+            0.9187996965650675
+        ]
+    },
+    "0.2088306312592132-3-66": {
+        "average clique similarity": 0.2088306312592132,
+        "clique": [
+            "4-5 billion  plus inte",
+            "2-5 billion from Apple",
+            "1-6 billion  from    l"
+        ],
+        "median tf-idf score": 0.45911920073580015,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "5 billion) plus interest, from Apple.",
+            "5 billion from Apple that Ireland doesn\u2019t want?",
+            "6 billion, from   \u00c9lectricit\u00e9 de France for failing to pay enough corporation tax in 1997."
+        ],
+        "tf-idf score": [
+            0.3373379272944307,
+            0.5235955401276117,
+            0.45911920073580015
+        ]
+    },
+    "0.2228748171280656-3-157": {
+        "average clique similarity": 0.2228748171280656,
+        "clique": [
+            "1- Profits should be t",
+            "3-S profits flowed ",
+            "0-Nearly all of the tw"
+        ],
+        "median tf-idf score": 0.06678243694372654,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cProfits should be taxed where profits are made.",
+            "S profits flowed.",
+            "Nearly all of the two companies\u2019 recorded profits were internally attributed to a \u201chead office,\u201d which the commission found existed only on paper and \u201ccould not have generated such profits."
+        ],
+        "tf-idf score": [
+            0.06678243694372654,
+            0.06292570566660773,
+            0.4442110985250634
+        ]
+    },
+    "0.22386787606156902-3-291": {
+        "average clique similarity": 0.22386787606156902,
+        "clique": [
+            "0- It has no employees",
+            "2-But even if it paid ",
+            "3-Apple has said it pa"
+        ],
+        "median tf-idf score": 0.6581499261925878,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cIt has no employees, it has no premises, and it has no real activities.",
+            "But even if it paid today, Apple has 16 times the amount of cash and   on hand to pay the commission.",
+            "Apple has said it paid Ireland\u2019s 12."
+        ],
+        "tf-idf score": [
+            0.11339531935497767,
+            0.6581499261925878,
+            0.6834118787262571
+        ]
+    },
+    "0.23081948569690244-3-319": {
+        "average clique similarity": 0.23081948569690244,
+        "clique": [
+            "1-The ruling is likely",
+            "4-The country s corpor",
+            "3-Ireland s low corpor"
+        ],
+        "median tf-idf score": 0.8494965220839871,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "The ruling is likely to be a hard pill to swallow for the country, which has spent decades championing its low corporate tax rate and other tax breaks to entice American companies to its shores.",
+            "The country\u2019s corporate tax rate, in general, is 12.",
+            "Ireland\u2019s low corporate tax rate has been a cornerstone of the country\u2019s economic policy for decades, drawing investors from multinational companies whose staff account for almost one in 10 of the country\u2019s workers."
+        ],
+        "tf-idf score": [
+            0.8494965220839871,
+            0.4440404898076951,
+            0.9258890513053191
+        ]
+    },
+    "0.24306560964666032-3-213": {
+        "average clique similarity": 0.24306560964666032,
+        "clique": [
+            "4-Apple also promises ",
+            "1-At the time  E D F s",
+            "3-Apple said it was co"
+        ],
+        "median tf-idf score": 0.4546852196149619,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Apple also promises an appeal.",
+            "At the time, E D F said it would make the reimbursement but was considering an appeal to the Court of Justice of the European Union.",
+            "Apple said it was confident of winning an appeal."
+        ],
+        "tf-idf score": [
+            0.339907516789006,
+            0.4546852196149619,
+            0.540803206433813
+        ]
+    },
+    "0.2583746114783892-3-225": {
+        "average clique similarity": 0.2583746114783892,
+        "clique": [
+            "0-  These rulings allo",
+            "1-The decision is set ",
+            "4-But the European Com"
+        ],
+        "median tf-idf score": 1.419976831170715,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d These rulings allowed Apple to essentially set up shell companies in Ireland  \u2014   Apple Sales International and Apple Operations Europe  \u2014   which did \u201cnot correspond to [the] economic reality\u201d of how much money the computer giant was actually making in Europe, the commission said.",
+            "The decision is set to further stoke tensions between American officials and their European counterparts, with Europe claiming the right to oversee tax policies for companies like Apple and Amazon, among others, that have used complicated tax structures in nations like Ireland and Luxembourg to reduce the amount of corporate tax they pay in other countries.",
+            "But the European Commission found that Ireland allowed Apple  \u2014   which has two companies incorporated in Ireland, Apple Sales International and Apple Operations Europe  \u2014   to pay far less in taxes than other companies did."
+        ],
+        "tf-idf score": [
+            1.21136693010898,
+            1.446787945772503,
+            1.419976831170715
+        ]
+    },
+    "0.258916522125719-3-23": {
+        "average clique similarity": 0.258916522125719,
+        "clique": [
+            "1-Both Luxembourg and ",
+            "4-5 million  to the Ne",
+            "0-Shortly after Tuesda"
+        ],
+        "median tf-idf score": 0.2139828766882852,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "Both Luxembourg and the Netherlands have appealed those decisions.",
+            "5 million) to the Netherlands, and McDonald\u2019s and Amazon are both waiting for decisions about deals they struck with Luxembourg.",
+            "Shortly after Tuesday\u2019s ruling, both Apple and the Irish government announced they would appeal."
+        ],
+        "tf-idf score": [
+            0.10871723666368668,
+            0.2139828766882852,
+            0.607244475669236
+        ]
+    },
+    "0.25981182906186806-3-258": {
+        "average clique similarity": 0.25981182906186806,
+        "clique": [
+            "4-In 2003  Apple paid ",
+            "0-  In a statement iss",
+            "3-However  the Irish t"
+        ],
+        "median tf-idf score": 1.2261920522211058,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "In 2003, Apple paid Ireland an effective tax rate of 1 percent on European profits, the commission says.",
+            "\u201d In a statement issued on the European Commission\u2019s website, Vestager added: The commission revealed that in 2014 Apple\u2019s Ireland operation paid just \u20ac50 in tax for every \u20ac1 million in profit the company made  \u2014   giving it an effective 0.",
+            "However, the Irish tax authority agreed only 50 million euros of this was taxable in Ireland, the European Commission said."
+        ],
+        "tf-idf score": [
+            1.2261920522211058,
+            1.4187290059673077,
+            1.0908162100577177
+        ]
+    },
+    "0.2838887583453595-3-278": {
+        "average clique similarity": 0.2838887583453595,
+        "clique": [
+            "3-In 2011  it earned  ",
+            "4-5 billion in back ta",
+            "1-4 billion  or  1 "
+        ],
+        "median tf-idf score": 0.3588168247025385,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "In 2011, it earned $22 billion after paying $2 billion to its U S parent in relation to the rights to Apple intellectual property.",
+            "5 billion in back taxes.",
+            "4 billion, or $1."
+        ],
+        "tf-idf score": [
+            0.38235972146175184,
+            0.3588168247025385,
+            0.05152729266018054
+        ]
+    },
+    "0.2905782167546909-3-194": {
+        "average clique similarity": 0.2905782167546909,
+        "clique": [
+            "0-Speaking at a press ",
+            "3-EU Competition Commi",
+            "4-The commissioner in "
+        ],
+        "median tf-idf score": 0.8205755063267766,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Speaking at a press conference in Brussels on Tuesday morning, Margrethe Vestager, the commissioner in charge of competition policy, said: \u201cThis is not a penalty.",
+            "EU Competition Commissioner Margrethe Vestager questioned how anyone might think an arrangement that allowed Apple to pay a tax rate of 0.",
+            "The commissioner in charge of competition policy, Margrethe Vestager, says that under EU rules, \u201dMember states cannot give tax benefits to selected companies\u201d."
+        ],
+        "tf-idf score": [
+            0.38648641852279714,
+            0.9218373934985067,
+            0.8205755063267766
+        ]
+    },
+    "0.2916681126904391-3-170": {
+        "average clique similarity": 0.2916681126904391,
+        "clique": [
+            "2- The decision leaves",
+            "1-Ireland can appeal a",
+            "0-  He added that the "
+        ],
+        "median tf-idf score": 0.4577431123058536,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cThe decision leaves me with no choice but to seek cabinet approval to appeal,\u201d he said in a statement.",
+            "Ireland can appeal any judgment by suing in the Court of Justice of the European Union to stop any resulting penalty, and Apple could seek to support such an appeal.",
+            "\u201d He added that the government \u201cwill now seek cabinet approval to appeal the commission decision to the European Courts."
+        ],
+        "tf-idf score": [
+            0.34249312012002214,
+            0.7035516891439727,
+            0.4577431123058536
+        ]
+    },
+    "0.3386929888658481-4-6": {
+        "average clique similarity": 0.3386929888658481,
+        "clique": [
+            "3-Irish Finance Minist",
+            "4-Ireland s finance mi",
+            "0-Ireland s Finance Mi",
+            "2- It would be like ea"
+        ],
+        "median tf-idf score": 0.5587210513309105,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Irish Finance Minister Michael Noonan said he profoundly disagreed with the decision and in order to preserve Ireland\u2019s attractiveness for investment he would appeal.",
+            "Ireland\u2019s finance minister, Michael Noonan, says in a statement that he \u201dprofoundly\u201d disagrees with the decision and plans to appeal.",
+            "Ireland\u2019s Finance Minister Michael Noonan said in a statement, \u201cIreland\u2019s position remains that the full amount of tax was paid in this case and no state aid was provided.",
+            "\u201cIt would be like eating the seed potatoes,\u201d Irish Finance Minister Michael Noonan said Tuesday on Irish national broadcaster RT\u00c9."
+        ],
+        "tf-idf score": [
+            0.6448579617306031,
+            0.472584140931218,
+            0.936968076736575,
+            0.4619647972707035
+        ]
+    },
+    "0.39069667434942107-3-126": {
+        "average clique similarity": 0.39069667434942107,
+        "clique": [
+            "4-The commission says ",
+            "3- The European Commis",
+            "0- The European Commis"
+        ],
+        "median tf-idf score": 1.1859480524389387,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The commission says Ireland must now collect 13 billion euros (some $14.",
+            " The European Commission ordered Apple Inc to pay Ireland unpaid taxes of up to 13 billion euros ($14.",
+            " The European Commission on Tuesday ruled that Ireland gave Apple illegal tax benefits of \u20ac13 billion ($14."
+        ],
+        "tf-idf score": [
+            0.48494524667493244,
+            1.1859480524389387,
+            1.1912353252948777
+        ]
+    },
+    "0.5787686421342207-3-106": {
+        "average clique similarity": 0.5787686421342207,
+        "clique": [
+            "1-Ms Vestager has alre",
+            "4-Starbucks has been o",
+            "3-Starbucks Corp has b"
+        ],
+        "median tf-idf score": 0.3494903006227605,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "Ms Vestager has already ordered Luxembourg to claw back 30 million euros, or $33 million, from Fiat, the Italian carmaker, and the Netherlands to recover a similar amount from Starbucks.",
+            "Starbucks has been ordered to pay up to 30 million euros ($33.",
+            "Starbucks Corp has been ordered to pay up to 30 million euros ($33 million) to the Dutch state, while Amazon."
+        ],
+        "tf-idf score": [
+            0.3662406555096681,
+            0.26941330005614944,
+            0.3494903006227605
+        ]
+    }
+}

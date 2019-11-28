@@ -1,0 +1,382 @@
+{
+    "0.2610885589884849-3-36": {
+        "average clique similarity": 0.2610885589884849,
+        "clique": [
+            "4-Graham added   Would",
+            "2-  The House Intellig",
+            "3- If the Obama admini"
+        ],
+        "median tf-idf score": 0.9233160926648322,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "New York Post"
+        ],
+        "sentences": [
+            "Graham added, \u201dWould the U S government have kept information that was just speculation away from American people for 14 years if somebody didn\u2019t think it was going to make a difference?\u201d Rep. Adam Schiff, a member of the House Intelligence Committee, said the report will be posted on line soon.",
+            "[\u201cThe House Intelligence Committee will get the redacted report today or tomorrow,\u201d said Rep. Adam Schiff ( ) a member of that committee.",
+            "\u201cIf the Obama administration does not move forward, then we need to pass (the legislation) to have the House Intelligence Committee publish the pages,\u201d said Rep. Stephen Lynch ( ."
+        ],
+        "tf-idf score": [
+            1.3212879546245029,
+            0.7224519239971249,
+            0.9233160926648322
+        ]
+    },
+    "0.266609343335629-3-4": {
+        "average clique similarity": 0.266609343335629,
+        "clique": [
+            "1- Read the    28 page",
+            "2-But now CNN s source",
+            "3-Intelligences agenci"
+        ],
+        "median tf-idf score": 1.154118141813806,
+        "publications": [
+            "New York Post",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "[Read the   \u201828 pages\u2019 on alleged Saudi ties to  ]  All of the Saudis named in the pages released Friday, including several who had been in direct contact with two of the hijackers during their time in the United States prior to the attacks, were investigated by the FBI and CIA, with results detailed in later reports.",
+            "But now CNN\u2019s sources said all of the relevant agencies have agreed to release the 28 pages with \u201cminimal redactions.",
+            "Intelligences agencies, law enforcement and the State Department have reviewed and approved the release of the material with \u201cminimal redactions,\u201d sources told CNN Much of what\u2019s in the 28 pages was quietly released by the government last summer as the 17th file in a cache of FBI documents related to  ."
+        ],
+        "tf-idf score": [
+            1.154118141813806,
+            0.7783094360625501,
+            1.3643902528572316
+        ]
+    },
+    "0.2734397530882588-3-66": {
+        "average clique similarity": 0.2734397530882588,
+        "clique": [
+            "1- There is no excuse ",
+            "4- They will show ever",
+            "0-He has said there is"
+        ],
+        "median tf-idf score": 0.42099074361461686,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cThere is no excuse for keeping these 28 pages secret for more than a decade, so this release is welcome and long overdue,\u201d said Senate Select Committee on Intelligence member Ron Wyden ( .)",
+            "\u201dThey will show everyone that there is no there there\u201d.",
+            "He has said there is no security reason for the U S government to keep them secret."
+        ],
+        "tf-idf score": [
+            0.9168593390794618,
+            0.0,
+            0.42099074361461686
+        ]
+    },
+    "0.29566449047205623-3-148": {
+        "average clique similarity": 0.29566449047205623,
+        "clique": [
+            "0-As our colleague Dav",
+            "2-It seemed for a whil",
+            "1-  Former Sen  Bob Gr"
+        ],
+        "median tf-idf score": 0.7687560613457668,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "As our colleague David Graham reported, former Senator Bob Graham of Florida, who chaired the Senate side of the congressional investigation, has tried to get the pages released for years.",
+            "It seemed for a while as if the Administration might change its mind, as former Senate committee chair Bob Graham ( ) said the White House stopped returning his phone calls in June, after the original deadline for a decision on releasing the pages had passed.",
+            "\u201d Former Sen. Bob Graham ( .)"
+        ],
+        "tf-idf score": [
+            0.7687560613457668,
+            1.0550353481172554,
+            0.11387630306660834
+        ]
+    },
+    "0.29930892369468376-4-148": {
+        "average clique similarity": 0.29930892369468376,
+        "clique": [
+            "3-The infamous  28 pag",
+            "4-Known as the  28 pag",
+            "1-  Abdullah   Saudi A",
+            "0-  In a statement  th"
+        ],
+        "median tf-idf score": 0.9589068021467828,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The infamous \u201c28 pages\u201d is a redacted section from a 2002 congressional investigation of the   attacks.",
+            "Known as the \u201d28 pages,\u201d the secret document was part of a 2002 congressional investigation of the Sept. 11 attacks and has been classified since the report\u2019s completion.",
+            "\u201d Abdullah   Saudi Arabai\u2019s ambassador to the United States, said in a statement: \u201cThe Kingdom of Saudi Arabia welcomes the release of the redacted pages from the 2002 Congressional Joint Inquiry.",
+            "\u201d In a statement, the Saudi Embassy in Washington, said: The Kingdom of Saudi Arabia welcomes the release of the redacted pages from the 2002 Congressional Joint Inquiry."
+        ],
+        "tf-idf score": [
+            0.4952179253782161,
+            0.8163346613499712,
+            1.1489532159718625,
+            1.1014789429435945
+        ]
+    },
+    "0.3297694288636854-4-114": {
+        "average clique similarity": 0.3297694288636854,
+        "clique": [
+            "3-Terry Strada  whose ",
+            "4-One of those who wan",
+            "1-  That may not be th",
+            "2-One consequence of r"
+        ],
+        "median tf-idf score": 0.875774254838275,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "Terry Strada, whose husband was working on the 104th floor of the North Tower when the planes struck on   has been pushing for the right to sue Saudi Arabia over its alleged involvement in the attack.",
+            "One of those who wants to read the pages is Terry Strada, who has been pushing for the right to sue Saudi Arabia over its alleged involvement in the attack.",
+            "\u201d That may not be the most welcome news to certain relatives of Sept. 11 victims, who are presently pushing for the House to take up a   bill they hoped would let them sue Saudi Arabia over alleged support for terrorism.",
+            "One consequence of releasing the pages would be making it possible for the families of   victims to sue Saudi Arabia for its involvement in the attack."
+        ],
+        "tf-idf score": [
+            0.8828937202579221,
+            0.9246939918805175,
+            0.6572538908276734,
+            0.8686547894186277
+        ]
+    },
+    "0.34188248600248955-3-148": {
+        "average clique similarity": 0.34188248600248955,
+        "clique": [
+            "1- It is going to incr",
+            "0-But the   Families i",
+            "4- It is going to incr"
+        ],
+        "median tf-idf score": 0.9332186789394395,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cIt is going to increase the questioning of the Saudis\u2019 role supporting the hijackers,\u201d Graham told CNN \u201cI think of this almost as the 28 pages are sort of the cork in the wine bottle.",
+            "But the   Families in response said: \u201cThe Saudis are exerting extreme pressure on the Administration to protect themselves and to cajole Congress in hopes of avoiding the restoration of the   understanding of our law and setting good policy.",
+            "\u201dIt is going to increase the questioning of the Saudis\u2019 role supporting the hijackers,\u201d Graham told CNN \u201dI think of this almost as the 28 pages are sort of the cork in the wine bottle."
+        ],
+        "tf-idf score": [
+            0.9332186789394395,
+            0.713777023401367,
+            0.9332186789394395
+        ]
+    },
+    "0.4299856691362997-3-105": {
+        "average clique similarity": 0.4299856691362997,
+        "clique": [
+            "3-The Saudi government",
+            "4-For its part  the Sa",
+            "1- Saudi Arabia has lo"
+        ],
+        "median tf-idf score": 0.8665697848377334,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Saudi government also is calling for the pages to be released so it can address any allegations, which it has long denied.",
+            "For its part, the Saudi government is also calling for the pages to be made public so that it can respond to any allegations, which it has long called unfounded.",
+            "\u201cSaudi Arabia has long called for the release of the classified \u201828 Pages,\u2019\u201d the statement said."
+        ],
+        "tf-idf score": [
+            0.8665697848377334,
+            0.841338737165067,
+            1.017373277293531
+        ]
+    },
+    "0.43331579224547595-4-58": {
+        "average clique similarity": 0.43331579224547595,
+        "clique": [
+            "3-Former Sen  Bob Grah",
+            "1-  been in the forefr",
+            "2-By June 30  Graham h",
+            "4-Former Senator Bob G"
+        ],
+        "median tf-idf score": 1.2387907614901548,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Former Sen. Bob Graham, who chaired the committee that carried out the probe, recently said he was told the decision about whether to release the pages would be made by June 12.",
+            "\u201d been in the forefront of the  Former Sen. Bob Graham, who chaired the committee that carried out the investigation and has been pushing the White House to release the pages, said Thursday he was \u201cvery pleased\u201d that the documents would be released.",
+            "By June 30, Graham had grown pessimistic that the documents would be released by the 15th anniversary of the   attack this September, but he told the Daily Beast he was gearing up for   war against Saudi Arabia, in the event the pages were released and the Saudis attempted to discredit them.",
+            "Former Senator Bob Graham, who chaired the committee that carried out the investigation and has been pushing the White House to release the pages, said Thursday he was \u201dvery pleased\u201d by the news."
+        ],
+        "tf-idf score": [
+            1.1094496053099754,
+            1.3796124769696485,
+            1.239291445350603,
+            1.2382900776297068
+        ]
+    },
+    "0.4355392282234349-3-45": {
+        "average clique similarity": 0.4355392282234349,
+        "clique": [
+            "2-   Such a release wo",
+            "4-Under pressure from ",
+            "3-Facing pressure from"
+        ],
+        "median tf-idf score": 0.7682566188675101,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201d  Such a release would be about a month behind the timetable envisioned in April, when President Obama said the pages would be released.",
+            "Under pressure from the victims\u2019 families and lawmakers, President Barack Obama said in April his administration would declassify the pages.",
+            "Facing pressure from victims\u2019 families and lawmakers, President Obama has said his administration would declassify the    pages."
+        ],
+        "tf-idf score": [
+            0.7682566188675101,
+            0.7250289600004546,
+            0.7829024713838509
+        ]
+    },
+    "0.47665104041825185-3-32": {
+        "average clique similarity": 0.47665104041825185,
+        "clique": [
+            "3-Congress will releas",
+            "4-  CNN  The   pages d",
+            "2-Sources told CNN tha"
+        ],
+        "median tf-idf score": 1.2527263480457198,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Congress will release classified pages detailing alleged Saudi Arabian government ties to the   hijackers as early as Friday, a law enforcement source told The Post.",
+            " (CNN) The   pages detailing alleged ties of the Saudi Arabian government to the   hijackers will be released by Congress as early as Friday, sources told CNN Thursday.",
+            "Sources told CNN that the famed \u201c28 pages\u201d from the congressional   report, detailing Saudi involvement in the terrorist attack, may be released to the public as early as Friday, ending 14 years of secrecy."
+        ],
+        "tf-idf score": [
+            1.2527263480457198,
+            1.2011574435913772,
+            1.2552327173103237
+        ]
+    },
+    "0.5335589145746281-4-34": {
+        "average clique similarity": 0.5335589145746281,
+        "clique": [
+            "2- The Senate and Hous",
+            "1-The document  referr",
+            "3- The House Intellige",
+            "4- The Senate and Hous"
+        ],
+        "median tf-idf score": 0.6141425893776395,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cThe Senate and House intel committees should then give the formal go ahead to release the report since they originally produced it.",
+            "The document, referred to as the \u201c \u201d throughout a   battle over whether it should be made public, was part of a 2002 joint inquiry by the Senate and House Intelligence Committees into the   attacks.",
+            "\u201cThe House Intelligence Committee will get the redacted report today or tomorrow,\u201d Schiff told CNN \u201cThe Senate and House intel committees should then give the formal   to release the report since they originally produced it.",
+            "\u201dThe Senate and House intel committees should then give the formal go ahead to release the report since they originally produced it\u201d."
+        ],
+        "tf-idf score": [
+            0.5553408108641279,
+            0.6729443678911512,
+            0.8741427477309067,
+            0.5553408108641279
+        ]
+    },
+    "0.5497469164753687-4-18": {
+        "average clique similarity": 0.5497469164753687,
+        "clique": [
+            "1-Since 2002  the   Co",
+            "3- If it was just this",
+            "2-If it was just this ",
+            "4-   government offici"
+        ],
+        "median tf-idf score": 0.5683501310953278,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Since 2002, the   Commission and several government agencies, including the CIA and the FBI, have investigated the contents of the \u201828 Pages\u2019 and have confirmed that neither the Saudi government, nor senior Saudi officials, nor any person acting on behalf of the Saudi government provided any support or encouragement for these attacks.",
+            "\u201cIf it was just this     \u2026     government officials in the Saudi Arabian government, then they have nothing to worry about.",
+            "If it was just this    \u2026     government officials in the Saudi Arabian government, then they have nothing to worry about.",
+            ".. government officials in the Saudi Arabian government, then they have nothing to worry about,\u201d she added."
+        ],
+        "tf-idf score": [
+            1.0606186925116625,
+            0.5683501310953278,
+            0.5683501310953278,
+            0.4740283029461032
+        ]
+    },
+    "0.8655035863635622-3-11": {
+        "average clique similarity": 0.8655035863635622,
+        "clique": [
+            "3-The American people ",
+            "4- The American people",
+            "2-The American people "
+        ],
+        "median tf-idf score": 0.5761745990004326,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The American people deserve this just as much as the   families deserve it, but we\u2019re the ones that are suffering by not having them released,\u201d she said, CNN reported.",
+            "\u201dThe American people deserve this just as much as the   families deserve it, but we\u2019re the ones that are suffering by not having them released\u201d.",
+            "The American people deserve this just as much as the   families deserve it, but we\u2019re the ones that are suffering by not having them released,\u201d once such family member, Terry Strada, told CNN"
+        ],
+        "tf-idf score": [
+            0.5891184078941244,
+            0.3227219793529191,
+            0.5761745990004326
+        ]
+    },
+    "0.9691380535185085-3-14": {
+        "average clique similarity": 0.9691380535185085,
+        "clique": [
+            "3- All of this could b",
+            "2- All of this could b",
+            "4- All of this could b"
+        ],
+        "median tf-idf score": 0.6319824023412223,
+        "publications": [
+            "New York Post",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cAll of this could be settled, if we would just release the 28 pages and let everyone see what\u2019s in there,\u201d said Strada.",
+            "\u201cAll of this could be settled, if we would just release the 28 pages and let everyone see what\u2019s in there.",
+            "\u201dAll of this could be settled if we would just release the 28 pages and let everyone see what\u2019s in there,\u201d Strada said."
+        ],
+        "tf-idf score": [
+            0.6319824023412223,
+            0.4280128880771896,
+            0.6319824023412223
+        ]
+    }
+}

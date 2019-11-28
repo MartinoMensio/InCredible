@@ -1,0 +1,950 @@
+{
+    "0.12345504988269618-3-174": {
+        "average clique similarity": 0.12345504988269618,
+        "clique": [
+            "3-Still  it s hard to ",
+            "0- Fox has dominated n",
+            "1-Kelly has not been a"
+        ],
+        "median tf-idf score": 0.3793355522633834,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "Still, it\u2019s hard to shake the sense that something has changed, and is changing  \u2014   and not just at Fox.",
+            "\u201cFox has dominated not just conservative viewers but has shaped the modern Republican Party,\u201d Donna Brazile, a CNN commentator and Democratic Party strategist, said outside the convention hall.",
+            "Kelly has not been among them."
+        ],
+        "tf-idf score": [
+            0.3793355522633834,
+            0.640423619966099,
+            0.15368013232178349
+        ]
+    },
+    "0.13352427539377507-3-463": {
+        "average clique similarity": 0.13352427539377507,
+        "clique": [
+            "2-The Murdoch family i",
+            "4-  Her description of",
+            "3-It seems the allegat"
+        ],
+        "median tf-idf score": 0.8854110574470427,
+        "publications": [
+            "Vox",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "The Murdoch family is moving to oust the chairman of Fox News Channel after multiple women have accused him of sexual harassment, NPR\u2019s David Folkenflik reports.",
+            "\u201d Her description of sexual harassment and retaliation was followed by accounts of other women who said Mr Ailes acted inappropriately in professional settings from the   to the late 1980s.",
+            "It seems the allegations against Ailes and O\u2019Reilly are not Fox\u2019s only sexual harassment claims: Sherman\u2019s reporting revealed a pervasive culture at Fox where sexual harassment was tolerated and even encouraged, and where the women who were harassed felt pressured to keep quiet if they valued their jobs."
+        ],
+        "tf-idf score": [
+            0.8854110574470427,
+            0.8645626020101005,
+            1.0918764743759786
+        ]
+    },
+    "0.13643020583861978-3-226": {
+        "average clique similarity": 0.13643020583861978,
+        "clique": [
+            "0- Roger Ailes  the fo",
+            "3-This is a story of a",
+            "4- Nobody is more comm"
+        ],
+        "median tf-idf score": 0.44901968023200334,
+        "publications": [
+            "Vox",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            " Roger Ailes, the former GOP political operative who oversaw the creation of the Fox News Channel and turned it into the leading voice of American conservatism, is in final negotiations to leave as chief executive of the network amid a budding sexual harassment scandal, according to a person with knowledge of the negotiations.",
+            "This is a story of an entire news network, not just one man, that seems to have enabled harassment as part of a toxic work culture.",
+            "\u201cNobody is more committed to Fox News than the man who built it."
+        ],
+        "tf-idf score": [
+            1.2922305247874588,
+            0.34600220265057025,
+            0.44901968023200334
+        ]
+    },
+    "0.14677345238662778-3-490": {
+        "average clique similarity": 0.14677345238662778,
+        "clique": [
+            "3-It s also likely tha",
+            "4-Though more than a d",
+            "2-Since her lawsuit be"
+        ],
+        "median tf-idf score": 0.5154867210860709,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "It\u2019s also likely that even more women want to come forward against Ailes, but face legal restrictions in doing so.",
+            "Though more than a dozen   personalities have come forward in the last two weeks to publicly support Mr Ailes  \u2014   with several questioning Ms Carlson\u2019s motivations  \u2014   Ms Kelly was, noticeably, not among them.",
+            "Since her lawsuit became public, a   have come forward with similar allegations, which Ailes also denies."
+        ],
+        "tf-idf score": [
+            0.46106969240648943,
+            0.7905357799662649,
+            0.5154867210860709
+        ]
+    },
+    "0.14770100661984073-3-380": {
+        "average clique similarity": 0.14770100661984073,
+        "clique": [
+            "4-And though 21st Cent",
+            "3-Victims of harassmen",
+            "1-  While it is imposs"
+        ],
+        "median tf-idf score": 0.28752492587212286,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "And though 21st Century Fox executives are aware of those clauses, they are prepared to take on that risk, a person familiar with the discussions said.",
+            "Victims of harassment are often driven out of their jobs, Barnes said, and our legal system makes it \u201dalmost impossible\u201d for women to get justice for this, since court cases can take so long and cost so much.",
+            "\u201d While it is impossible to predict the outcome of negotiations, I can confirm that such discussions are under way."
+        ],
+        "tf-idf score": [
+            0.6188420530728691,
+            0.28752492587212286,
+            0.1224945732542215
+        ]
+    },
+    "0.15802659445419295-3-86": {
+        "average clique similarity": 0.15802659445419295,
+        "clique": [
+            "1-  A number of female",
+            "3-Brian Stelter of CNN",
+            "0-And a number of prom"
+        ],
+        "median tf-idf score": 0.7965809014772706,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201d A number of female anchors at Fox \u2014  including Kimberly Guilfoyle, Martha MacCallum and Harris Faulkner \u2014  have said in interviews that Ailes treated them professionally and that they do not believe the allegations against him.",
+            "Brian Stelter of CNN Money heard from several women who had   jobs at Fox and have Ailes stories of their own, but who are reluctant to come forward because of unusually restrictive language in the   clauses they signed when they left Fox.",
+            "And a number of prominent women at Fox have issued statements supportive of Ailes."
+        ],
+        "tf-idf score": [
+            0.9727584936148235,
+            0.7965809014772706,
+            0.7309714988470358
+        ]
+    },
+    "0.16506166843529302-3-166": {
+        "average clique similarity": 0.16506166843529302,
+        "clique": [
+            "4-Fox News has long be",
+            "3-Other Fox executives",
+            "2-In her lawsuit  Carl"
+        ],
+        "median tf-idf score": 0.7147871072950898,
+        "publications": [
+            "NPR",
+            "Vox",
+            "New York Times"
+        ],
+        "sentences": [
+            "Fox News has long been controversial, and an occasional source of embarrassment to other parts of 21st Century Fox, but it has been good for business.",
+            "Other Fox executives may have helped Ailes keep things under wraps Sherman\u2019s reporting casts a suspicious light on at least two other   Fox executives  \u2014   including Bill Shine, who was recently promoted to   of Fox News, and Dianne Brandi, Fox News\u2019s executive vice president of legal and business affairs.",
+            "In her lawsuit, Carlson implied that other women at Fox News have been treated similarly and remained silent to protect their careers."
+        ],
+        "tf-idf score": [
+            0.7147871072950898,
+            1.0712261308636641,
+            0.7029014041999218
+        ]
+    },
+    "0.1672325386679118-3-583": {
+        "average clique similarity": 0.1672325386679118,
+        "clique": [
+            "4-Roger Ailes s tenure",
+            "3-Ailes won t be allow",
+            "0-With Fox  Ailes prov"
+        ],
+        "median tf-idf score": 0.7994221701438623,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "New York Times"
+        ],
+        "sentences": [
+            "Roger Ailes\u2019s tenure as the head of Fox News appears to be over.",
+            "Ailes won\u2019t be allowed to start a Fox competitor and won\u2019t be directly involved with Fox or Fox News anymore.",
+            "With Fox, Ailes proved himself to be an innovator."
+        ],
+        "tf-idf score": [
+            0.8284479402036503,
+            0.7994221701438623,
+            0.62029925072031
+        ]
+    },
+    "0.168175364346315-3-202": {
+        "average clique similarity": 0.168175364346315,
+        "clique": [
+            "0-Matthews joined MSNB",
+            "3-After Gretchen Carls",
+            "4-cable news station f"
+        ],
+        "median tf-idf score": 0.723728938003945,
+        "publications": [
+            "Vox",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Matthews joined MSNBC when it succeeded America\u2019s Talking in 1996  \u2014   the same year Ailes launched Fox.",
+            "After Gretchen Carlson sued Ailes for sexual harassment, it opened the floodgates for other women to come forward Carlson was a   Fox news personality until June 23 of this year, when her contract wasn\u2019t renewed.",
+            "cable news station for 15 years, and it has never done better than this year: Through June, it is having its   year."
+        ],
+        "tf-idf score": [
+            0.723728938003945,
+            1.3403684210220193,
+            0.34522419581713193
+        ]
+    },
+    "0.1703949160202327-3-399": {
+        "average clique similarity": 0.1703949160202327,
+        "clique": [
+            "2-Carlson says in the ",
+            "3-But the  20 million ",
+            "0-Carlson  a former Mi"
+        ],
+        "median tf-idf score": 0.9992939496059726,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Carlson says in the suit that she attempted to complain to Ailes about sexist treatment from her colleagues on Fox  Friends, to which Ailes replied, \u201dI think you and I should have had a sexual relationship a long time ago\u201d.",
+            "But the $20 million settlement from 21st Century Fox suggested that the network wasn\u2019t willing to stand behind Ailes on that count  \u2014   and that Carlson had strong evidence against Ailes, whom she spend a year secretly recording.",
+            "Carlson, a former Miss America, claimed that Ailes suggested that they have a sexual relationship during a meeting, according to her lawsuit."
+        ],
+        "tf-idf score": [
+            1.0121246770110264,
+            0.9992939496059726,
+            0.630072662960762
+        ]
+    },
+    "0.17439520761179592-3-281": {
+        "average clique similarity": 0.17439520761179592,
+        "clique": [
+            "4-Mr Ailes is named in",
+            "3-Fox is arguably lett",
+            "1-And the only agreeme"
+        ],
+        "median tf-idf score": 0.8439687022429115,
+        "publications": [
+            "New York Times",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "Mr Ailes is named in the suit but Fox News is not.",
+            "Fox is arguably letting Ailes off easy  \u2014   and paying him twice the $20 million that Carlson is reportedly getting in her settlement  \u2014   although the full consequences of the investigations and lawsuits are yet to be seen.",
+            "And the only agreement that is in place is his existing employment agreement."
+        ],
+        "tf-idf score": [
+            0.8785254203832782,
+            0.8439687022429115,
+            0.1010039604357395
+        ]
+    },
+    "0.17836116575824715-3-183": {
+        "average clique similarity": 0.17836116575824715,
+        "clique": [
+            "3-When she had finishe",
+            "2-She alleges that Ail",
+            "4-In fact  he has spen"
+        ],
+        "median tf-idf score": 0.4832040932277596,
+        "publications": [
+            "Vox",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "When she had finished dancing, Ailes told her to get down on her knees in front of him, she said, and put his hands on her temples.",
+            "She alleges that Ailes repeatedly ogled her and commented on her body and that she was punished professionally for refusing Ailes\u2019 advances.",
+            "In fact, he has spent much of the last decade promoting and helping her to achieve the stardom she earned, for which she has repeatedly and publicly thanked him."
+        ],
+        "tf-idf score": [
+            0.4832040932277596,
+            0.5542077212642814,
+            0.23731643919477452
+        ]
+    },
+    "0.1786541429744493-3-499": {
+        "average clique similarity": 0.1786541429744493,
+        "clique": [
+            "2-Lachlan and James se",
+            "4-  Mr Ailes s exit wo",
+            "0-Such allegations pro"
+        ],
+        "median tf-idf score": 1.078897145699889,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "Lachlan and James serve as News Corp.   and CEO of 21st Century Fox, respectively, and they have little affection for Ailes, who treated them with contempt earlier in their careers.",
+            "\u201d Mr Ailes\u2019s exit would be a humbling and startlingly sudden fall from power for a man who started Fox News from scratch 20 years ago and built it into a   cable news network and a critical profit center for 21st Century Fox.",
+            "Such allegations provided a foundation for Lachlan, 44, and James, 43, to press for Ailes\u2019s ouster, according to people at Fox and 21st Century Fox."
+        ],
+        "tf-idf score": [
+            1.078897145699889,
+            1.2255891637372476,
+            0.8852535835559914
+        ]
+    },
+    "0.17922389727922153-3-326": {
+        "average clique similarity": 0.17922389727922153,
+        "clique": [
+            "3-They say that not on",
+            "0-  If Carlson and oth",
+            "4-Other employees also"
+        ],
+        "median tf-idf score": 0.6555448264995289,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "They say that not only was Roger Ailes a serial harasser of women, others around him also enabled him, and he set the tone for a toxic culture at Fox News wherein women were consistently mistreated, often by more than one perpetrator.",
+            "\u201d If Carlson and other female employees of the network are to be believed, Ailes was a serial harasser.",
+            "Other employees also told the investigators that they had been harassed by Mr Ailes, one of the people briefed on the matter said."
+        ],
+        "tf-idf score": [
+            1.0421347764294475,
+            0.6428837311663455,
+            0.6555448264995289
+        ]
+    },
+    "0.18013654267937998-3-249": {
+        "average clique similarity": 0.18013654267937998,
+        "clique": [
+            "0-Kelly will come to t",
+            "1-In fact  he has spen",
+            "4-In part  that is bec"
+        ],
+        "median tf-idf score": 0.32082016427100013,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Kelly will come to the end of her current contract next year and has indicated that she may leave.",
+            "In fact, he has spent much of the last decade promoting and helping her to achieve the stardom she earned, for which she has repeatedly and publicly thanked him.",
+            "In part, that is because of her high ratings (she has the    show in cable news, behind only Mr O\u2019Reilly\u2019s) but she is also well liked by the Murdoch family, which has indicated it would like her to be an important part of Fox\u2019s future."
+        ],
+        "tf-idf score": [
+            0.32082016427100013,
+            0.23731643919477452,
+            0.8294665501458125
+        ]
+    },
+    "0.18412061376918865-3-107": {
+        "average clique similarity": 0.18412061376918865,
+        "clique": [
+            "3-Former Fox News repo",
+            "0-Roger Ailes is repor",
+            "2-As we ve reported  f"
+        ],
+        "median tf-idf score": 1.1131636287186684,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Former Fox News reporter Rudi Bakhtiar said she was fired after complaining about harassment both from Ailes and from former Fox News Washington bureau chief Brian Wilson.",
+            "Roger Ailes is reportedly on his way out at Fox just two weeks after a lawsuit was brought against him by former Fox News host Gretchen Carlson.",
+            "As we\u2019ve reported, former Fox news anchor Gretchen Carlson sued Ailes for sexual harassment earlier this month."
+        ],
+        "tf-idf score": [
+            1.0948275870142052,
+            1.1845487912717654,
+            1.1131636287186684
+        ]
+    },
+    "0.19162705092339763-3-11": {
+        "average clique similarity": 0.19162705092339763,
+        "clique": [
+            "1-When Fox News did no",
+            "3-At any time  at any ",
+            "4-She has the stature "
+        ],
+        "median tf-idf score": 0.5977408495861539,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "New York Times"
+        ],
+        "sentences": [
+            "When Fox News did not commence any negotiations to renew her contract, Ms Carlson became aware that her career with the network was likely over and conveniently began to pursue a lawsuit.",
+            "At any time, at any place when I call.",
+            "She has the stature within the network to withstand any pressure to support Mr Ailes."
+        ],
+        "tf-idf score": [
+            0.9284799293538871,
+            0.04521304062529799,
+            0.5977408495861539
+        ]
+    },
+    "0.1962588215534924-3-273": {
+        "average clique similarity": 0.1962588215534924,
+        "clique": [
+            "1-Roger has taken very",
+            "3-Dance for me   she r",
+            "4-   The number of tim"
+        ],
+        "median tf-idf score": 0.17780120806507727,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "Roger has taken very good care of me for 12 years.",
+            "Dance for me,\u201d she recalled him saying.",
+            "\u201d \u201cThe number of times he\u2019s had my back, given me opportunities, stuck his own neck out there to protect me, I feel very grateful to him,\u201d she said."
+        ],
+        "tf-idf score": [
+            0.23668263798714587,
+            0.02217355320172125,
+            0.17780120806507727
+        ]
+    },
+    "0.1985352425791218-3-74": {
+        "average clique similarity": 0.1985352425791218,
+        "clique": [
+            "0-In an interview with",
+            "4-When asked about the",
+            "1-In an interview with"
+        ],
+        "median tf-idf score": 1.0446254610875985,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In an interview with the Hollywood Reporter on Tuesday, Ailes attorney Susan Estrich  \u2014   a former Fox commentator  \u2014   said \u201cexit\u201d negotiations between Ailes and 21st Century Fox were ongoing.",
+            "When asked about the culture at Fox News in an interview with The New York Times last week, Ms Carlson, 50, said: \u201cEveryone knew how powerful Roger Ailes was.",
+            "In an interview with the Associated Press in May, Kelly said: \u201cI\u2019m very happy with Fox."
+        ],
+        "tf-idf score": [
+            1.0446254610875985,
+            1.3028242740688032,
+            0.495864591257497
+        ]
+    },
+    "0.20562780967320415-3-387": {
+        "average clique similarity": 0.20562780967320415,
+        "clique": [
+            "2-Ailes denies the cha",
+            "3-The New York Times r",
+            "0-Ailes was only a few"
+        ],
+        "median tf-idf score": 0.6380465794913082,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Ailes denies the charges and accuses Carlson of retaliating against the end of her contract, as David reported last week.",
+            "The New York Times reported that Ailes received about $40 million as part of a settlement agreement  \u2014   basically the salary he would have made through the end of his contract in 2018.",
+            "Ailes was only a few months from the end of his current contract and probably could have retired if the Murdochs had not pressed for his early exit."
+        ],
+        "tf-idf score": [
+            0.6380465794913082,
+            0.6051937469304672,
+            0.6425110959587628
+        ]
+    },
+    "0.2276271467447386-4-81": {
+        "average clique similarity": 0.2276271467447386,
+        "clique": [
+            "4- Roger Ailes is comm",
+            "3-Kelly s allegations ",
+            "2- Rupert Murdoch is t",
+            "0-The lawsuit  which i"
+        ],
+        "median tf-idf score": 0.8575752460157761,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201cRoger Ailes is committed to the future and success of Fox News, and he\u2019s devoted the last 20 years of his life to building it and he hopes it will survive long past his time and Rupert\u2019s time,\u201d she said.",
+            "Kelly\u2019s allegations appear to have been the last straw that forced Ailes out: Rupert Murdoch and his sons James and Lachlan, the top three executives at 21st Century Fox, reportedly thought Kelly was the future of the network and was too valuable to lose.",
+            "\u201dRupert Murdoch is the man who founded it, and he is in the slow process of transitioning the control of the parent company over to his sons.",
+            "The lawsuit, which is pending, appears to have set off a chain of events that led to demands for Ailes\u2019s resignation from his bosses, media baron Rupert Murdoch and his sons, Lachlan and James."
+        ],
+        "tf-idf score": [
+            1.0857249387584933,
+            1.2433047855064818,
+            0.21717601536635708,
+            0.6294255532730588
+        ]
+    },
+    "0.22805006289355703-3-9": {
+        "average clique similarity": 0.22805006289355703,
+        "clique": [
+            "3- There was no subtex",
+            "4-Fox News has been th",
+            "2-    There is no clea"
+        ],
+        "median tf-idf score": 0.4361442334912492,
+        "publications": [
+            "Vox",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dThere was no subtext.",
+            "Fox News has been the No.",
+            ".. \u201dThere is no clear successor to run the network once Ailes leaves."
+        ],
+        "tf-idf score": [
+            0.10756231237941312,
+            0.5180216736165494,
+            0.4361442334912492
+        ]
+    },
+    "0.23107945035388758-3-24": {
+        "average clique similarity": 0.23107945035388758,
+        "clique": [
+            "3- On Tuesday  the New",
+            "1-  The New York Times",
+            "2-Roger Ailes is the  "
+        ],
+        "median tf-idf score": 1.4399696966601374,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            " On Tuesday, the New York Times published the startling revelation that in the weeks after Roger Ailes was ousted as CEO of Fox News for sexual harassment, Fox secretly paid off another   Fox personality, Juliet Huddy  \u2014   who said she was sexually harassed in 2011 by Bill O\u2019Reilly, the network\u2019s top host.",
+            "\u201d The New York Times reported late Tuesday that Ailes and 21st Century Fox, now managed on a daily basis by Rupert Murdoch\u2019s sons, James and Lachlan Murdoch, \u201dare in the advanced stages of discussions that would lead to the departure of Mr Ailes as chairman of Fox News.",
+            "Roger Ailes is the   chairman and CEO of the news channel."
+        ],
+        "tf-idf score": [
+            1.5361144134726556,
+            1.4399696966601374,
+            0.6156991256362665
+        ]
+    },
+    "0.24427304041968134-3-627": {
+        "average clique similarity": 0.24427304041968134,
+        "clique": [
+            "4- Ms Kelly s accusati",
+            "0-Among them was Megyn",
+            "2-New York Magazine re"
+        ],
+        "median tf-idf score": 0.6315318367351906,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "(Ms Kelly\u2019s accusations were first reported by New York magazine.)",
+            "Among them was Megyn Kelly, a star Fox host, according to New York magazine.",
+            "New York Magazine reports that   Fox News anchor Megyn Kelly, too, may have been harassed and might be involved with an outside investigation into Ailes\u2019 behavior."
+        ],
+        "tf-idf score": [
+            0.17606831477443016,
+            0.6315318367351906,
+            1.0789137217179894
+        ]
+    },
+    "0.2485025589378641-4-450": {
+        "average clique similarity": 0.2485025589378641,
+        "clique": [
+            "4-Mr Ailes and his law",
+            "1-This is a retaliator",
+            "0-Carlson alleged that",
+            "2-Ailes maintains that"
+        ],
+        "median tf-idf score": 0.7600294593444863,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Mr Ailes and his lawyers have been unequivocal in their response to the accusations: He said that Ms Carlson\u2019s contract was not renewed because it had low ratings, and his lawyers said that all of the allegations were false.",
+            "This is a retaliatory suit for the network\u2019s decision not to renew her contract, which was due to the fact that her disappointingly low ratings were dragging down the afternoon lineup.",
+            "Carlson alleged that Ailes terminated her employment in June after she spurned his advances; Ailes denied the claims and Fox maintained that Carlson\u2019s contract wasn\u2019t renewed because the ratings of her afternoon program had declined.",
+            "Ailes maintains that Carlson\u2019s contract ended because of her ratings  \u2014   not because she resisted his sexual overtures."
+        ],
+        "tf-idf score": [
+            0.913333722073675,
+            0.3833931301532,
+            0.9380592572518628,
+            0.6067251966152974
+        ]
+    },
+    "0.24948005959631542-3-627": {
+        "average clique similarity": 0.24948005959631542,
+        "clique": [
+            "4-The development foll",
+            "1-The review grows out",
+            "3-According to two Fox"
+        ],
+        "median tf-idf score": 1.0038451014474925,
+        "publications": [
+            "New York Times",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "The development follows a sexual harassment suit filed on July 6 against Mr Ailes by a former anchor, Gretchen Carlson.",
+            "The review grows out of a lawsuit against Ailes by Gretchen Carlson, filed after Fox declined to renew her contract as a daytime host last month.",
+            "According to two Fox sources, Fox News has secretly settled sexual harassment complaints with at least 4 women since Ailes left\r  \u2014   Gabriel Sherman (@gabrielsherman) January 10, 2017     Fox anchor Gretchen Carlson filed a sexual harassment lawsuit against Ailes in early July, which was later settled for a reported $20 million."
+        ],
+        "tf-idf score": [
+            0.7615279812085287,
+            1.0038451014474925,
+            1.5137039868155429
+        ]
+    },
+    "0.2519218610267883-3-627": {
+        "average clique similarity": 0.2519218610267883,
+        "clique": [
+            "2-Multiple sources at ",
+            "4-Mr Ailes and 21st Ce",
+            "3-One of the   who spo"
+        ],
+        "median tf-idf score": 1.1940882147193954,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "Multiple sources at Fox News tell David that the Murdochs, who are controlling owners of parent company 21st Century Fox, are moving to push Ailes out of his prominent, powerful role.",
+            "Mr Ailes and 21st Century Fox, Fox News\u2019s parent company, are in the advanced stages of discussions that would lead to his departure as chairman, Susan Estrich, one of Mr Ailes\u2019s lawyers, said in an interview on Tuesday.",
+            "One of the   who spoke to the Daily Beast said there is a \u201dconspiracy of silence\u201d on this issue because Ailes\u2019s victims are afraid to speak out."
+        ],
+        "tf-idf score": [
+            1.1940882147193954,
+            1.3468402928596384,
+            0.4969127791355022
+        ]
+    },
+    "0.2713480522440975-3-627": {
+        "average clique similarity": 0.2713480522440975,
+        "clique": [
+            "3-Ailes retaliating ag",
+            "1-Carlson alleged that",
+            "4-  She said that duri"
+        ],
+        "median tf-idf score": 0.9309252317688124,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "New York Times"
+        ],
+        "sentences": [
+            "Ailes retaliating against Carlson by cutting her pay \u201dto a level that was disproportionate to that of similarly situated male employees and others who had not complained about discrimination and harassment\u201d; giving her fewer   interviews and shifting her to less desirable time slots; firing her from Fox & Friends in 2013 and failing to properly promote her new show; and cutting back on her appearances as a guest commentator and substitute host.",
+            "Carlson alleged that Ailes made comments about her physical appearance, and once told her that he would pick her to be stranded with on a desert island and that they should have had a sexual relationship long ago.",
+            "\u201d She said that during a meeting last fall to discuss her concerns that she was being treated unfairly, Mr Ailes told her, \u201cI think you and I should have had a sexual relationship a long time ago, and then you\u2019d be good and better and I\u2019d be good and better."
+        ],
+        "tf-idf score": [
+            1.1482061629025448,
+            0.7115465799307789,
+            0.9309252317688124
+        ]
+    },
+    "0.27276697698206226-3-348": {
+        "average clique similarity": 0.27276697698206226,
+        "clique": [
+            "4-  She also said she ",
+            "3-She   Fox   Friends ",
+            "0-Doocy later joined F"
+        ],
+        "median tf-idf score": 0.4585888912077158,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201d She also said she had been sexually harassed by her former \u201cFox and Friends\u201d   Steve Doocy.",
+            "She   Fox & Friends with Steve Doocy and Brian Kilmeade from 2005 to 2013 before hosting her own show, The Real Story With Gretchen Carlson.",
+            "Doocy later joined Fox, where he   the \u201cFox and Friends\u201d morning program with Carlson."
+        ],
+        "tf-idf score": [
+            0.4585888912077158,
+            0.47924848672385817,
+            0.4404865372980679
+        ]
+    },
+    "0.3071943580538903-3-156": {
+        "average clique similarity": 0.3071943580538903,
+        "clique": [
+            "3-Fox anchor Megyn Kel",
+            "4-She told investigato",
+            "1-A New York magazine "
+        ],
+        "median tf-idf score": 1.0570669067334693,
+        "publications": [
+            "Vox",
+            "New York Times",
+            "Fox News"
+        ],
+        "sentences": [
+            "Fox anchor Megyn Kelly told attorneys investigating Carlson\u2019s claims that Ailes had also made unwanted sexual advances toward her about 10 years ago.",
+            "She told investigators that Mr Ailes had made advances toward her multiple times in the past, according to two people briefed on the matter.",
+            "A New York magazine story, citing sources familiar with a review being conducted by the network\u2019s parent company, said Kelly has told those looking into the matter that Ailes made unwanted sexual advances toward her about 10 years ago when she was a young correspondent at Fox."
+        ],
+        "tf-idf score": [
+            1.0570669067334693,
+            0.6073698658573513,
+            1.5609039207016626
+        ]
+    },
+    "0.3196997092572262-4-123": {
+        "average clique similarity": 0.3196997092572262,
+        "clique": [
+            "3-Ailes has vigorously",
+            "0-Ailes has repeatedly",
+            "2-Ailes has denied the",
+            "1-Ailes said in a stat"
+        ],
+        "median tf-idf score": 0.579556464040237,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Ailes has vigorously denied all of these allegations in statements and through spokespeople, calling them \u201dfalse\u201d and \u201dretaliatory\u201d  \u2014   basically claiming that Carlson filed the suit out of revenge for being fired.",
+            "Ailes has repeatedly denied the allegations.",
+            "Ailes has denied the allegations.",
+            "Ailes said in a statement then: \u201cGretchen Carlson\u2019s allegations are false."
+        ],
+        "tf-idf score": [
+            0.7110899409700286,
+            0.508422839720717,
+            0.4938221161104798,
+            0.650690088359757
+        ]
+    },
+    "0.32332311473541314-3-5": {
+        "average clique similarity": 0.32332311473541314,
+        "clique": [
+            "0-Amid an investigatio",
+            "4-The suit prompted 21",
+            "3-Megyn Kelly came for"
+        ],
+        "median tf-idf score": 1.1324759776048916,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "New York Times"
+        ],
+        "sentences": [
+            "Amid an investigation of Ailes\u2019s conduct by an outside law firm, other Fox employees came forward with   allegations against Ailes.",
+            "The suit prompted 21st Century Fox to conduct an internal review and it set off an intense round of speculation in the news media and the television industry about Mr Ailes\u2019s future at Fox News.",
+            "Megyn Kelly came forward with her own story after Fox News\u2019s parent company, 21st Century Fox, hired the law firm Paul, Weiss to conduct an internal investigation into Ailes\u2019s conduct."
+        ],
+        "tf-idf score": [
+            0.7854888932458766,
+            1.1324759776048916,
+            1.183423657726172
+        ]
+    },
+    "0.331277422445491-3-541": {
+        "average clique similarity": 0.331277422445491,
+        "clique": [
+            "4-  Ms Kelly s lawyer ",
+            "3-No matter where I ca",
+            "1-  Kelly has made no "
+        ],
+        "median tf-idf score": 0.22600814121380342,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201d Ms Kelly\u2019s lawyer, Willis J Goldsmith, said in a statement, \u201cMegyn Kelly has made no public comment on the matter, nor will she while the review is pending, other than to say she has cooperated with the inquiry fully and truthfully.",
+            "No matter where I call you, no matter where you are.",
+            "\u201d Kelly has made no public comment on the matter."
+        ],
+        "tf-idf score": [
+            0.5099123258354537,
+            0.027415677562012273,
+            0.22600814121380342
+        ]
+    },
+    "0.3592173797024128-3-627": {
+        "average clique similarity": 0.3592173797024128,
+        "clique": [
+            "4-On the day Ms Carlso",
+            "1-The law firm hired b",
+            "2- If Megyn Kelly is t"
+        ],
+        "median tf-idf score": 0.6382489405724621,
+        "publications": [
+            "New York Times",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "On the day Ms Carlson filed her suit, 21st Century Fox said it would conduct an internal review, and the company retained the law firm Paul, Weiss, Rifkind, Wharton  Garrison to lead the investigation.",
+            "The law firm hired by 21st Century Fox is Paul, Weiss.",
+            "\u201dIf Megyn Kelly is testifying to this outside inquiry conducted by a major New York City law firm, Paul, Weiss, and she says he sexually harassed her, I think it\u2019s ballgame over,\u201d David said on NPR\u2019s Here and Now earlier Tuesday."
+        ],
+        "tf-idf score": [
+            0.8277380754192872,
+            0.4732295172338873,
+            0.6382489405724621
+        ]
+    },
+    "0.3882130068533716-3-373": {
+        "average clique similarity": 0.3882130068533716,
+        "clique": [
+            "4-In a statement  Ms E",
+            "3-And at least 20 othe",
+            "1-His lawyer  Susan Es"
+        ],
+        "median tf-idf score": 0.8079867508710575,
+        "publications": [
+            "New York Times",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "In a statement, Ms Estrich, Mr Ailes\u2019s lawyer, said: \u201cRoger Ailes has never sexually harassed Megyn Kelly.",
+            "And at least 20 other women have come forward to tell reporters that Ailes has sexually harassed them at some point over the last several decades.",
+            "His lawyer, Susan Estrich, said in a statement: \u201cRoger Ailes has never sexually harassed Megyn Kelly."
+        ],
+        "tf-idf score": [
+            0.8873443423746877,
+            0.6207774897517232,
+            0.8079867508710575
+        ]
+    },
+    "0.41275457170912117-3-486": {
+        "average clique similarity": 0.41275457170912117,
+        "clique": [
+            "3- You can t just have",
+            "4- Roger is at work   ",
+            "1-In a statement  21st"
+        ],
+        "median tf-idf score": 0.600091024439721,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201dYou can\u2019t just have one villain, not even Roger Ailes,\u201d Ross wrote at the Daily Beast.",
+            "\u201cRoger is at work,\u201d 21st Century Fox said in a statement.",
+            "In a statement, 21st Century Fox said: \u201cRoger is at work."
+        ],
+        "tf-idf score": [
+            0.4247202090599425,
+            0.600091024439721,
+            0.600091024439721
+        ]
+    },
+    "0.44058478543984486-3-627": {
+        "average clique similarity": 0.44058478543984486,
+        "clique": [
+            "0-Shortly afterward  2",
+            "2-21st Century Fox rel",
+            "4-Fox News represents "
+        ],
+        "median tf-idf score": 0.5281130433186104,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "Shortly afterward, 21st Century Fox released a statement reading: \u201cRoger is at work.",
+            "21st Century Fox released this statement: \u201dRoger is at work.",
+            "Fox News represents about 20 percent of all earnings at 21st Century Fox, generating more than $1 billion."
+        ],
+        "tf-idf score": [
+            0.5281130433186104,
+            0.5081711236903784,
+            0.5625456122577832
+        ]
+    },
+    "0.5110650714687047-3-229": {
+        "average clique similarity": 0.5110650714687047,
+        "clique": [
+            "0-The agreement is exp",
+            "2-The only agreement t",
+            "4-And the only agreeme"
+        ],
+        "median tf-idf score": 0.1010039604357395,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The agreement is expected to be completed shortly, the person said.",
+            "The only agreement that is in place is his existing employment agreement\u201d.",
+            "And the only agreement that is in place is his existing employment agreement."
+        ],
+        "tf-idf score": [
+            0.1961263585801647,
+            0.1010039604357395,
+            0.1010039604357395
+        ]
+    },
+    "0.6020843673346823-3-212": {
+        "average clique similarity": 0.6020843673346823,
+        "clique": [
+            "4- The review is ongoi",
+            "2-The review is ongoin",
+            "0-  She added   There "
+        ],
+        "median tf-idf score": 0.055978358813264614,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cThe review is ongoing.",
+            "The review is ongoing.",
+            "\u201d She added, \u201cThere is no term sheet, there is no agreement, there is no deal, and the review is ongoing."
+        ],
+        "tf-idf score": [
+            0.055978358813264614,
+            0.055978358813264614,
+            0.12898826217933426
+        ]
+    }
+}

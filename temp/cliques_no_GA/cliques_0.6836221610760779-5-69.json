@@ -1,0 +1,390 @@
+{
+    "0.18819939816364642-3-133": {
+        "average clique similarity": 0.18819939816364642,
+        "clique": [
+            "1-In both cases  the g",
+            "4-The 1789 law  the Al",
+            "3-An unsettling aspect"
+        ],
+        "median tf-idf score": 0.7588358035400011,
+        "publications": [
+            "National Review",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In both cases, the government relies on the All Writs Act, a broad 1789 law which enables judges to require actions necessary to enforce their own orders.",
+            "The 1789 law, the All Writs Act, is also the cornerstone of the government\u2019s argument in a related case in San Bernardino, California, where the FBI and Apple have faced off in an uncharacteristically public manner.",
+            "An unsettling aspect of the cases on both coasts is the Justice Department\u2019s urging of the All Writs Act on the courts as a capacious source of power to coerce assistance from third parties."
+        ],
+        "tf-idf score": [
+            0.7588358035400011,
+            1.1498582279086746,
+            0.6046634668514915
+        ]
+    },
+    "0.19308393940198787-3-153": {
+        "average clique similarity": 0.19308393940198787,
+        "clique": [
+            "2- As our prior court ",
+            "1-When fighting the go",
+            "3-Only when the court "
+        ],
+        "median tf-idf score": 1.0027052635614493,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "National Review"
+        ],
+        "sentences": [
+            "\u201cAs our prior court filings make clear, Apple expressly agreed to assist the government in accessing the data on this iPhone  \u2014   as it had many times before in similar circumstances  \u2014   and only changed course when the government\u2019s application for assistance was made public by the court,\u201d spokeswoman Emily Pierce said in a statement.",
+            "When fighting the government\u2019s order to help extract data from the iPhone, Apple had argued that being forced to do so \u201dcould threaten the trust between Apple and its customers and substantially tarnish the Apple brand,\u201d according to court records.",
+            "Only when the court hesitated and asked for more briefing on the AWA did Apple do an   and oppose the issuance."
+        ],
+        "tf-idf score": [
+            1.1507564743664318,
+            1.0027052635614493,
+            0.4637576875637465
+        ]
+    },
+    "0.199421996319279-3-82": {
+        "average clique similarity": 0.199421996319279,
+        "clique": [
+            "3-In a ruling that cou",
+            "1-The iPhone 5s at iss",
+            "0-NEW YORK  AP       T"
+        ],
+        "median tf-idf score": 1.1977835542157296,
+        "publications": [
+            "Reuters",
+            "National Review",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "In a ruling that could have ramifications for Apple\u2019s battle with the FBI over the iPhone of the San Bernardino terrorist, a federal   in Brooklyn yesterday denied the government\u2019s request in a similar case to compel Apple to assist the government in searching the iPhone of a suspected narcotics trafficker.",
+            "The iPhone 5s at issue in the case was seized by the U S Drug Enforcement Administration during a 2014 search of the Queens, New York, residence of Jun Feng, who authorities suspected of being involved in drug trafficking.",
+            "NEW YORK (AP)  \u2014   The U S Justice Department cannot force Apple to provide the FBI with access to a locked iPhone data in a routine Brooklyn drug case, a magistrate judge ruled Monday."
+        ],
+        "tf-idf score": [
+            1.1977835542157296,
+            0.6729056480340314,
+            1.2048730579596743
+        ]
+    },
+    "0.21199585695516002-3-186": {
+        "average clique similarity": 0.21199585695516002,
+        "clique": [
+            "2-Apple has said that ",
+            "0-In October  Orenstei",
+            "1-But since October  w"
+        ],
+        "median tf-idf score": 1.139927900130017,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Apple has said that since last October, it has received federal requests to extract data in cases pertaining to at least 15 devices, some of them using the older operating systems, and some of them running on iOS8 or iOS9.",
+            "In October, Orenstein invited Apple to challenge the government\u2019s use of a    law to compel Apple to help it recover iPhone data in criminal cases.",
+            "But since October, when Apple first asked Orenstein to deny the government\u2019s request, Apple has objected to helping law enforcement access at least 12 devices for which the U S Justice Department has sought its help, according to a letter from Apple to Orenstein that was unsealed earlier this month."
+        ],
+        "tf-idf score": [
+            0.8926860465929499,
+            1.139927900130017,
+            1.348607401927522
+        ]
+    },
+    "0.22293553473353178-3-57": {
+        "average clique similarity": 0.22293553473353178,
+        "clique": [
+            "4-Apple makes a persua",
+            "2-Because of the natur",
+            "1-He said that the gov"
+        ],
+        "median tf-idf score": 0.7242058071839891,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Apple makes a persuasive case that the government\u2019s ask in California is more burdensome.",
+            "Because of the nature of the request, the outcome of the California case is more significant than the Brooklyn case, analysts say.",
+            "He said that the government\u2019s demands in the San Bernardino case, which include compelling Apple to alter its operating system, were even more   than in the NY case."
+        ],
+        "tf-idf score": [
+            0.7242058071839891,
+            0.3477500840847784,
+            0.9108752912802242
+        ]
+    },
+    "0.2474197394005647-3-106": {
+        "average clique similarity": 0.2474197394005647,
+        "clique": [
+            "1-His ruling echoed ma",
+            "4-One of the points th",
+            "3-RELATED  Unlock the "
+        ],
+        "median tf-idf score": 0.9860796807042389,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "National Review"
+        ],
+        "sentences": [
+            "His ruling echoed many of the arguments that Apple has made in the San Bernardino case, particularly his finding that a 1789 law called the All Writs Act cannot be used to force Apple to open the phone.",
+            "One of the points that Orenstein made in his order \u2014  that CALEA essentially exempts Apple from being subject to an order under the All Writs Act \u2014  is the exact same one Apple lawyers made in the San Bernardino case last week.",
+            "RELATED: Unlock the Terrorist\u2019s Phone, It is noteworthy that the Brooklyn narcotics case involves an iPhone 5 that uses Apple\u2019s operating system iOS7  \u2014   the same as the phone in the San Bernardino terrorism case."
+        ],
+        "tf-idf score": [
+            1.0436212895044998,
+            0.9860796807042389,
+            0.9075693978581505
+        ]
+    },
+    "0.24823000273805632-3-48": {
+        "average clique similarity": 0.24823000273805632,
+        "clique": [
+            "3- The Justice Departm",
+            "2-  A Justice Departme",
+            "1-The Justice Departme"
+        ],
+        "median tf-idf score": 0.41646489600357184,
+        "publications": [
+            "Washington Post",
+            "National Review",
+            "Reuters"
+        ],
+        "sentences": [
+            "(The Justice Department now claims this technology is \u201cfinicky,\u201d which did not impress Orenstein.)",
+            "\u201d A Justice Department spokeswoman said the department was disappointed in the ruling and would appeal.",
+            "The Justice Department is \u201ddisappointed\u201d in Orenstein\u2019s ruling and plans to ask a higher judge within the same federal district to review the matter in coming days, a department representative said."
+        ],
+        "tf-idf score": [
+            0.3128555783204961,
+            0.41646489600357184,
+            0.6298044713605437
+        ]
+    },
+    "0.24959875922249677-3-32": {
+        "average clique similarity": 0.24959875922249677,
+        "clique": [
+            "2-In fact  a 1994 law ",
+            "1-The case before Broo",
+            "4-He s referring here "
+        ],
+        "median tf-idf score": 0.5479485251278853,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In fact, a 1994 law, the Communications Assistance to Law Enforcement Act, was a compromise that applied only to phone companies and later to broadband carriers, but it expressly carved out Internet companies.",
+            "The case before Brooklyn was, according to prosecutors, the first time Apple had objected to law enforcement efforts to utilize search warrants to get the tech company to provide assistance and unlock iPhones seized during investigations.",
+            "He\u2019s referring here a proposed extension to CALEA, a 1994 law that requires telecommunications companies to provide certain information and assistance to law enforcement."
+        ],
+        "tf-idf score": [
+            0.5479485251278853,
+            1.0321151835902391,
+            0.3035530685838018
+        ]
+    },
+    "0.25039976395117786-3-64": {
+        "average clique similarity": 0.25039976395117786,
+        "clique": [
+            "4-In New York  the gov",
+            "0-U S Magistrate Judge",
+            "2-In Riverside  Calif "
+        ],
+        "median tf-idf score": 1.0445948610871036,
+        "publications": [
+            "Talking Points Memo",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In New York, the government wanted Apple to extract data from an iPhone running an older operating system in California, the government asked Apple to create new software that would help the FBI break into an encrypted iPhone.",
+            "U S Magistrate Judge James Orenstein\u2019s written decision gives support to the company\u2019s position in its fight against a California judge\u2019s order that it create specialized software to help the FBI hack into an iPhone linked to the San Bernardino terrorism investigation.",
+            "In Riverside, Calif. Magistrate Judge Sheri Pym, at the Justice Department\u2019s request, last month issued an order requiring Apple to build software to override a safety feature in a different iPhone operating system to enable the FBI to try its hand at cracking the phone\u2019s password."
+        ],
+        "tf-idf score": [
+            1.0445948610871036,
+            1.0417427177517378,
+            1.1358006054527863
+        ]
+    },
+    "0.25108693352286215-3-77": {
+        "average clique similarity": 0.25108693352286215,
+        "clique": [
+            "3-Interestingly  while",
+            "1-The government sough",
+            "2-The ruling is not bi"
+        ],
+        "median tf-idf score": 1.1977876433796961,
+        "publications": [
+            "National Review",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Interestingly, while Apple has vigorously contested the AWA order in California, the tech giant itself suggested that the Justice Department seek one in Brooklyn.",
+            "The government sought access to the phone in the Brooklyn case in October, months before a judge in California ordered Apple to take special measures to give the government access to the phone used by one of the shooters in the San Bernardino, California, attacks.",
+            "The ruling is not binding in any other court, but it takes on an outsize importance as the U S government battles Apple in a separate case in California over whether the tech firm should help unlock a phone used by one of the shooters in the San Bernardino terrorist attack in December."
+        ],
+        "tf-idf score": [
+            0.7669835898982922,
+            1.1977876433796961,
+            1.2853554834856276
+        ]
+    },
+    "0.25239591049757215-3-229": {
+        "average clique similarity": 0.25239591049757215,
+        "clique": [
+            "4-The Monday decision ",
+            "2-Magistrate Judge Jam",
+            "3-Magistrate Judge Jam"
+        ],
+        "median tf-idf score": 1.079679560581297,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "National Review"
+        ],
+        "sentences": [
+            "The Monday decision came from James Orenstein, a magistrate judge in Brooklyn, who had previously expressed doubt that the All Writs Act sanctions the government\u2019s request of Apple.",
+            "Magistrate Judge James Orenstein in Brooklyn, who sits in the Eastern District of New York, has become the first federal judge to rule that the act does not permit a court to order companies to pull encrypted data off a customer\u2019s phone or tablet.",
+            "Magistrate Judge James Orenstein rejected the Justice Department\u2019s claim that the All Writs Act authorizes the court to coerce Apple\u2019s cooperation."
+        ],
+        "tf-idf score": [
+            1.0994687115809307,
+            1.079679560581297,
+            0.9819267324296038
+        ]
+    },
+    "0.26925848923610846-3-42": {
+        "average clique similarity": 0.26925848923610846,
+        "clique": [
+            "4-Orenstein said that ",
+            "3-Significantly  he ad",
+            "0-Orenstein concluded "
+        ],
+        "median tf-idf score": 0.7840382522671018,
+        "publications": [
+            "Atlantic",
+            "Talking Points Memo",
+            "National Review"
+        ],
+        "sentences": [
+            "Orenstein said that Congress already considered legislation that would grant the government the power to ask for the assistance it seeks \u2014  but did not end up adopting it.",
+            "Significantly, he added that Congress had considered legislation to give courts the authority to issue orders of the type the government is seeking but had not enacted such legislation  \u2014   meaning, in Orenstein\u2019s view, that issuing such an order would be a judicial usurpation of Congress\u2019s power.",
+            "Orenstein concluded that Apple is not obligated to assist government investigators against its will and noted that Congress has not adopted legislation that would achieve the result sought by the government."
+        ],
+        "tf-idf score": [
+            0.6258646151205967,
+            0.7840382522671018,
+            0.907504134534916
+        ]
+    },
+    "0.29143466518390904-3-19": {
+        "average clique similarity": 0.29143466518390904,
+        "clique": [
+            "1-Although U S Magistr",
+            "0-Apple s filing to op",
+            "4-While Sheri Pym  the"
+        ],
+        "median tf-idf score": 0.8932040299204101,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Although U S Magistrate Judge Sheri Pym, the judge in the San Bernardino case, will not be bound by Orenstein\u2019s decision, the senior Apple executive said it will likely be influential.",
+            "Apple\u2019s filing to oppose the order by Magistrate Judge Sheri Pym in California is due by Friday.",
+            "While Sheri Pym, the magistrate judge in the San Bernardino case, will arrive at her own, independent decision there, Apple\u2019s win in New York won\u2019t go unnoticed."
+        ],
+        "tf-idf score": [
+            1.0686374741329026,
+            0.6424515905273352,
+            0.8932040299204101
+        ]
+    },
+    "0.29350021148958505-4-100": {
+        "average clique similarity": 0.29350021148958505,
+        "clique": [
+            "1-Orenstein said his r",
+            "2-Apple fears that if ",
+            "0- Ultimately  the que",
+            "3-Share article on Fac"
+        ],
+        "median tf-idf score": 1.2300941006431612,
+        "publications": [
+            "Talking Points Memo",
+            "Reuters",
+            "National Review",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Orenstein said his ruling in Apple\u2019s favor was not a decision on \u201dwhether the government should be able to force Apple to help it unlock a specific device; it is instead whether the All Writs Act (AWA) resolves that issue and many others like it yet to come\u201d.",
+            "Apple fears that if it is forced to comply with that request, countless more will follow to help it unlock phones in even routine criminal investigations.",
+            "\u201dUltimately, the question to be answered in this matter, and in others like it across the country, is not whether the government should be able to force Apple to help it unlock a specific device it is instead whether the All Writs Act resolves that issue and many others like it yet to come,\u201d Orenstein wrote.",
+            "Share article on FacebookshareTweet Finally, the magistrate judge reasoned that, even if the AWA theoretically vests courts with the power to issue such orders, it would be inappropriate to compel Apple, for three reasons: The company has nothing to do with the criminal conduct alleged the requested order would be burdensome and the government failed to prove that Apple\u2019s assistance is necessary, since   agents represented, in yet another Brooklyn case, that they have the technology needed to override PINs."
+        ],
+        "tf-idf score": [
+            1.351758426921189,
+            0.6340057602901603,
+            1.1084297743651335,
+            1.5432673748678258
+        ]
+    },
+    "0.29960945727877825-3-229": {
+        "average clique similarity": 0.29960945727877825,
+        "clique": [
+            "3-It was Magistrate Ju",
+            "2-  Thus  he said  the",
+            "4-That precedent requi"
+        ],
+        "median tf-idf score": 0.5627082582481249,
+        "publications": [
+            "National Review",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "It was Magistrate Judge Orenstein who was troubled about whether he had the authority to issue the order.",
+            "\u201d Thus, he said, the question was whether the government was seeking to fill a gap that Congress had failed to consider, or instead sought to have the court give it authority that Congress chose not to confer.",
+            "That precedent requires a judge to consider three specific factors when deciding whether or not to issue an order under the All Writs Act."
+        ],
+        "tf-idf score": [
+            0.5627082582481249,
+            0.7135835512408246,
+            0.4300515013848362
+        ]
+    },
+    "0.30355801127015397-3-229": {
+        "average clique similarity": 0.30355801127015397,
+        "clique": [
+            "2- A federal judge in ",
+            "4-A federal judge in N",
+            "1-U S Magistrate Judge"
+        ],
+        "median tf-idf score": 1.090008818302051,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            " A federal judge in New York ruled in favor of Apple on Monday, saying that an obscure   law did not authorize him to force the firm to lift data from an iPhone at the government\u2019s request.",
+            "A federal judge in New York ruled Monday that the government can\u2019t use a    law to compel Apple to unlock an iPhone that may contain information useful to a criminal investigation.",
+            "U S Magistrate Judge James Orenstein in Brooklyn ruled that he did not have the legal authority to order Apple to disable the security of an iPhone that was seized during a drug investigation."
+        ],
+        "tf-idf score": [
+            1.1119220958572698,
+            1.0646746192860965,
+            1.090008818302051
+        ]
+    }
+}

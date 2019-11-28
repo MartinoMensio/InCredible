@@ -1,0 +1,882 @@
+{
+    "0.14039145920864501-3-119": {
+        "average clique similarity": 0.14039145920864501,
+        "clique": [
+            "4-   advocates thrille",
+            "3-This is the second t",
+            "2-Kennedy s opinion di"
+        ],
+        "median tf-idf score": 0.790237097170999,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "[  advocates thrilled  \u2014   and surprised  \u2014   by court ruling]  \u201cA university is in large part defined by those \u2018intangible qualities which are incapable of objective measurement but which make for greatness,\u2019\u2009\u201d Kennedy wrote in an opinion joined by the court\u2019s liberals.",
+            "This is the second time the Court has considered Fisher\u2019s case in 2012, the justices sent the case back down to a lower court for review    after which the Supreme Court took the case up again.",
+            "Kennedy\u2019s opinion dismissed \u201cthe extrarecord materials the dissent relies upon, many of which are tangential to this case at best."
+        ],
+        "tf-idf score": [
+            0.8222963620761925,
+            0.790237097170999,
+            0.3475060472877692
+        ]
+    },
+    "0.1551629876206886-3-163": {
+        "average clique similarity": 0.1551629876206886,
+        "clique": [
+            "1-University officials",
+            "2-  This argument  in ",
+            "4-Alito sharply questi"
+        ],
+        "median tf-idf score": 0.6349125478322754,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "University officials contend that having a sizable number of minorities enrolled exposes students to varied perspectives and enhances the educational experience for all students.",
+            "\u201d This argument, in effect, asked the court to set a kind of constitutional ceiling to the number of minority students a school can seek to enroll.",
+            "Alito sharply questioned the university\u2019s efforts to admit minorities from more privileged backgrounds and to increase the number of African American and Latino students on campus to counteract feelings of isolation and loneliness."
+        ],
+        "tf-idf score": [
+            0.5454588115093412,
+            0.6349125478322754,
+            0.635549272185951
+        ]
+    },
+    "0.1578041385038528-3-25": {
+        "average clique similarity": 0.1578041385038528,
+        "clique": [
+            "4-  But he said that U",
+            "2-  But here  Kennedy ",
+            "1-In the Texas case  t"
+        ],
+        "median tf-idf score": 0.629848950584354,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d But he said that UT faced a \u201cheavy burden\u201d in justifying its specific program and that the majority accepted the university\u2019s explanation even though it \u201crelies on a series of unsupported and noxious racial assumptions.",
+            "\u201d But here, Kennedy wrote, UT had done exactly that, in its initial proposal, the   educational study that preceded it, and its continuing monitoring of the program.",
+            "In the Texas case, the challengers had failed to show that the university could have met its needs with another process, he said."
+        ],
+        "tf-idf score": [
+            0.629848950584354,
+            0.350848396743769,
+            0.6355799805536365
+        ]
+    },
+    "0.16150555559162058-3-210": {
+        "average clique similarity": 0.16150555559162058,
+        "clique": [
+            "2-Instead  Kennedy not",
+            "4-Scalia had openly qu",
+            "0-He was criticized fo"
+        ],
+        "median tf-idf score": 0.6661291781377998,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Instead, Kennedy noted that the university had studied how the 10 percent plan had affected campus atmosphere, and the degree to which some minority students in some of the institution\u2019s schools still felt, and were, isolated in their field of study.",
+            "Scalia had openly questioned the benefit of trying to include more minority students at the nation\u2019s selective universities.",
+            "He was criticized for suggesting at arguments in December that some black students would benefit from being at a \u201c  school,\u201d instead of Texas\u2019 flagship campus in Austin."
+        ],
+        "tf-idf score": [
+            0.8365043924724376,
+            0.5248702755963657,
+            0.6661291781377998
+        ]
+    },
+    "0.16236272270012522-3-196": {
+        "average clique similarity": 0.16236272270012522,
+        "clique": [
+            "2-Opponents of affirma",
+            "1-He said that while t",
+            "4-  Opponents of affir"
+        ],
+        "median tf-idf score": 0.5262162589577885,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Opponents of affirmative action have argued for years that educational administrators cannot be trusted to use race, because they will employ hidden quotas.",
+            "He said that while the university\u2019s stated goals are laudable, \u201cthey are not concrete or precise, and they offer no limiting principle for the use of racial preferences\u201d.",
+            "\u201d Opponents of affirmative action looked for a silver lining, and they pointed to Kennedy\u2019s warning that all university plans must be continually reevaluated and that not all might be found constitutional."
+        ],
+        "tf-idf score": [
+            0.4535590783890471,
+            0.5262162589577885,
+            0.6020499804334575
+        ]
+    },
+    "0.1700857174179874-3-413": {
+        "average clique similarity": 0.1700857174179874,
+        "clique": [
+            "3-Fisher had a couple ",
+            "2-But  Kennedy wrote  ",
+            "4-But university admin"
+        ],
+        "median tf-idf score": 0.8939929378393439,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Fisher had a couple of ways to get in to the University of Texas, which \u2014  along with all other public universities in Texas \u2014  admits high school students who graduate in the top ten percent of their class.",
+            "But, Kennedy wrote, \u201cto compel universities to admit students based on class rank alone is in deep tension with the goal of educational diversity as this court\u2019s cases have defined it.",
+            "But university administrators said it is important to be able to at least consider race in admitting the rest of the freshman class, to ensure the kind of diversity that they said is crucial to creating a learning environment that can benefit all students."
+        ],
+        "tf-idf score": [
+            0.8939929378393439,
+            1.036620627897426,
+            0.8446508176077505
+        ]
+    },
+    "0.17089690393651827-3-149": {
+        "average clique similarity": 0.17089690393651827,
+        "clique": [
+            "3-His opinion for the ",
+            "2-For the first time i",
+            "0-Justice Anthony Kenn"
+        ],
+        "median tf-idf score": 1.1494761070063682,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "His opinion for the majority in this case    which said courts should give universities significant but not total discretion in devising admissions policies     is a departure from his argument in the earlier Fisher case, when he argued that the lower court should have set a stricter standard to uphold the admissions policy.",
+            "For the first time in his judicial career, Kennedy gave his approval to a     program.",
+            "Justice Anthony Kennedy said in his majority opinion that the Texas plan complied with earlier court rulings that allow colleges to consider race in pursuit of diversity on campus."
+        ],
+        "tf-idf score": [
+            1.2448922059971435,
+            0.2199846451905099,
+            1.1494761070063682
+        ]
+    },
+    "0.1717314845319401-3-128": {
+        "average clique similarity": 0.1717314845319401,
+        "clique": [
+            "0-Scalia  long opposed",
+            "1-Kennedy  a conservat",
+            "4-The    decision was "
+        ],
+        "median tf-idf score": 0.7644960143918663,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "Scalia, long opposed to affirmative action, almost certainly would have voted with his fellow conservatives.",
+            "Kennedy, a conservative who has previously voted against university affirmative action, was joined by three of the court\u2019s liberals in the ruling.",
+            "The    decision was a surprising win for advocates of affirmative action, who had entered the term simply hoping the court would not use the case to ban all uses of affirmative action."
+        ],
+        "tf-idf score": [
+            0.29644777891569535,
+            1.0208352573067563,
+            0.7644960143918663
+        ]
+    },
+    "0.17865361685390369-3-198": {
+        "average clique similarity": 0.17865361685390369,
+        "clique": [
+            "3-That grieves me far ",
+            "2-There is no   paean ",
+            "0-At the very least  S"
+        ],
+        "median tf-idf score": 0.23723425193357153,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "That grieves me far more than the Fisher ruling could have made me happy.",
+            "There is no   paean to the nation\u2019s greatness but it is a careful refutation of arguments that have, to me at least, seemed grossly flawed from the beginning of the case.",
+            "At the very least, Scalia\u2019s vote could have made the result a tie and limited the high court to issuing a   opinion upholding the lower court ruling in favor of Texas."
+        ],
+        "tf-idf score": [
+            0.22268778571374537,
+            0.23723425193357153,
+            0.6511546588605265
+        ]
+    },
+    "0.17938201822190267-3-172": {
+        "average clique similarity": 0.17938201822190267,
+        "clique": [
+            "3-In today s opinion  ",
+            "0-Vanderbilt Universit",
+            "4-  Justin Driver  a l"
+        ],
+        "median tf-idf score": 0.6802718814172403,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "In today\u2019s opinion, he went so far as to link the case to previous desegregation rulings, including quoting from a 1950 case that invalidated a Texas state law barring African Americans from law schools.",
+            "Vanderbilt University law professor Suzanna Sherry said the outcome of the Texas case \u201cmakes the universities\u2019 cases a lot stronger.",
+            "\u201d Justin Driver, a law professor at the University of Chicago who closely followed the case during his previous tenure in Austin, said the decision \u201csignals that affirmative action is safe not only at the University of Texas but around the country."
+        ],
+        "tf-idf score": [
+            0.6553777995207702,
+            0.6802718814172403,
+            0.9445719904059647
+        ]
+    },
+    "0.18342002107228772-3-176": {
+        "average clique similarity": 0.18342002107228772,
+        "clique": [
+            "2-The lower court appr",
+            "0-The Supreme Court he",
+            "1-WASHINGTON The U S S"
+        ],
+        "median tf-idf score": 0.7114432133438001,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "The lower court approved those means, and Thursday the Supreme Court did as well.",
+            "The Supreme Court heard Fisher\u2019s case once before and issued an inconclusive ruling in 2013 that   and set the stage for Thursday\u2019s decision.",
+            "WASHINGTON The U S Supreme Court on Tuesday threw out a lower court\u2019s ruling prohibiting the use of public funds to pay for children to attend private religious schools, a day after it issued a major ruling narrowing the separation of church and state."
+        ],
+        "tf-idf score": [
+            0.3640983866162723,
+            0.7594595972069507,
+            0.7114432133438001
+        ]
+    },
+    "0.19463249036528144-3-226": {
+        "average clique similarity": 0.19463249036528144,
+        "clique": [
+            "0-Kennedy noted the lo",
+            "2-  Properly read  the",
+            "4- Deadlocked justices"
+        ],
+        "median tf-idf score": 0.6729892417786345,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Kennedy noted the long duration of Fisher\u2019s lawsuit in rejecting calls to send the case back to lower courts again.",
+            "\u201d Properly read, the majority opinion tells lower courts to give significant weight to the opinions of educational administrators.",
+            "[Deadlocked justices block Obama on immigration]  When the court considered the case in 2013, Kennedy wrote the opinion that sent it back to lower courts for a closer examination."
+        ],
+        "tf-idf score": [
+            0.6729892417786345,
+            0.4179689245254936,
+            0.7430956443269718
+        ]
+    },
+    "0.19993270372124838-3-174": {
+        "average clique similarity": 0.19993270372124838,
+        "clique": [
+            "4- Today s decision tr",
+            "2-Fisher s also argued",
+            "0- The university has "
+        ],
+        "median tf-idf score": 0.7498205858387812,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cToday\u2019s decision truly represents a clear and resounding message that UT and other institutions of higher education may consider race in the admissions process as long as they can show a very limited use of race that is narrowly tailored to achieve diversity,\u201d she said.",
+            "Fisher\u2019s also argued that only a relatively few students were affected by the   admissions program because of this \u201cminimal impact,\u201d she argued, \u201cconsidering race was not necessary,\u201d and thus the program was not \u201cnarrowly tailored.",
+            "\u201cThe university has thus met its burden of showing that the admissions policy it used   \u2026     was narrowly tailored,\u201d Kennedy wrote."
+        ],
+        "tf-idf score": [
+            0.7450990940130217,
+            0.7498205858387812,
+            0.7527753878728114
+        ]
+    },
+    "0.20120911051423618-3-481": {
+        "average clique similarity": 0.20120911051423618,
+        "clique": [
+            "2-The Court remanded F",
+            "1-The justices upheld ",
+            "4-Alito said the unive"
+        ],
+        "median tf-idf score": 0.7919227060343961,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Court remanded Fisher to the Court of Appeals with instructions to look closely at the university\u2019s chosen means of achieving its diversity goals.",
+            "The justices upheld a 2014 ruling by the New   5th U S Circuit Court of Appeals that had endorsed the school\u2019s \u201dlimited use of race in its search for holistic diversity\u201d.",
+            "Alito said the university \u201cnever came close\u201d to complying with the court\u2019s orders, issued after its first review of the school\u2019s policies, that it show that the use of race in admissions decisions is necessary."
+        ],
+        "tf-idf score": [
+            0.7326962656012234,
+            0.7919227060343961,
+            1.0828661105459159
+        ]
+    },
+    "0.20224550414348405-3-288": {
+        "average clique similarity": 0.20224550414348405,
+        "clique": [
+            "2-Thomas in a   dissen",
+            "0-  In a separate diss",
+            "4-Alito emphasized in "
+        ],
+        "median tf-idf score": 0.5274406824531517,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Thomas in a   dissent reaffirmed his conviction that all affirmative action is unconstitutional.",
+            "\u201d In a separate dissent, Justice Clarence Thomas repeated his view that the Constitution outlaws any use of race in higher education admissions.",
+            "Alito emphasized in his dissent that \u201cwhat is not at stake\u201d is whether UT or any university may adopt an admissions plan that results in a student body \u201cwith a broad representation of students from all racial and ethnic groups."
+        ],
+        "tf-idf score": [
+            0.26491148351751276,
+            0.5274406824531517,
+            0.7796320613189609
+        ]
+    },
+    "0.2038794577838243-3-159": {
+        "average clique similarity": 0.2038794577838243,
+        "clique": [
+            "1- As long as universi",
+            "4-  Edward Blum  direc",
+            "3-In her mind  and in "
+        ],
+        "median tf-idf score": 0.5849393834458159,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dAs long as universities like the University of Texas continue to treat applicants differently by race and ethnicity, the social fabric that holds us together as a nation will be weakened,\u201d added Blum, president of the Project on Fair Representation.",
+            "\u201d Edward Blum, director of the group that supported Fisher, the Project on Fair Representation, called the decision a \u201csad step backward for the original, colorblind principles to our civil rights laws.",
+            "In her mind, and in the minds of those who backed her (namely the Project on Fair Representation, a conservative group behind a 2013 case that invalidated a portion of the Voting Rights Act) the only process that should pass muster is one that makes sure an even higher percentage of white people will be admitted to elite schools."
+        ],
+        "tf-idf score": [
+            0.7438271083643819,
+            0.3970215888755969,
+            0.5849393834458159
+        ]
+    },
+    "0.20650778264476863-3-232": {
+        "average clique similarity": 0.20650778264476863,
+        "clique": [
+            "4-  The case was broug",
+            "1-Edward Blum  a conse",
+            "0-Fisher was recruited"
+        ],
+        "median tf-idf score": 1.0417711689963167,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201d The case was brought in 2008 by Abigail Fisher, a white woman who was denied admission to UT Her lawsuit was organized and funded by a conservative legal organization that opposes racial preferences in government and brought the challenge that resulted in the justices striking a key provision of the Voting Rights Act in 2013.",
+            "Edward Blum, a conservative activist who engineered Fisher\u2019s challenge, said racial classifications and preferences are among the most polarizing policies in America today.",
+            "Fisher was recruited for the suit by Edward Blum, an opponent of racial preferences who has been remarkably successful in persuading the Supreme Court to hear cases challenging the use of race in education and politics."
+        ],
+        "tf-idf score": [
+            1.0417711689963167,
+            0.5203836717706283,
+            1.0511153471469177
+        ]
+    },
+    "0.2066973002602965-3-247": {
+        "average clique similarity": 0.2066973002602965,
+        "clique": [
+            "0-In that instance  th",
+            "2-Kennedy noted what s",
+            "3-He did sit for oral "
+        ],
+        "median tf-idf score": 0.8111016215718854,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "In that instance, the result would have been the same but without the Supreme Court endorsement offered by Kennedy Thursday.",
+            "Kennedy noted what should have been obvious: Fisher wanted the court to strike down the program for lack of a number, and if the university gave a number, the court would also be obligated to strike it down as a numerical quota.",
+            "He did sit for oral arguments in the case before his death, and had he lived, the decision would have likely been      meaning that (as in the controversial U S v. Texas immigration case, also decided today) the lower court ruling would still have been affirmed by an equally divided court."
+        ],
+        "tf-idf score": [
+            0.4463858667568383,
+            0.8532769939455209,
+            0.8111016215718854
+        ]
+    },
+    "0.21039387438712198-3-95": {
+        "average clique similarity": 0.21039387438712198,
+        "clique": [
+            "0- The most important ",
+            "2-And he did so in an ",
+            "4-  What made Kennedy "
+        ],
+        "median tf-idf score": 0.9269767763737471,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cThe most important part of this case is that the court reaffirmed what it said in 2003 which is that diversity can be a compelling interest of a university in fulfilling its educational mission,\u201d said Sherrilyn Ifill, president and   of the NAACP Legal Defense and Educational Fund.",
+            "And he did so in an opinion that clearly reaffirmed the constitutional rationale for such programs first enunciated by Justice Lewis F Powell Jr in the 1978 case of Regents of University of California v. Bakke and reaffirmed by the court majority in the 2003 case of Grutter v. Bollinger.",
+            "\u201d What made Kennedy\u2019s Thursday decision so significant is that he was a dissenter in the 2003 precedent, Grutter v. Bollinger, to which he was referring."
+        ],
+        "tf-idf score": [
+            0.9269767763737471,
+            0.9550482863694361,
+            0.38436494661102755
+        ]
+    },
+    "0.2344520988379322-3-481": {
+        "average clique similarity": 0.2344520988379322,
+        "clique": [
+            "1-The court  in a   ru",
+            "2-Justice Anthony Kenn",
+            "4-Instead  the majorit"
+        ],
+        "median tf-idf score": 0.931569431036106,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The court, in a   ruling written by Justice Anthony Kennedy, decided in favor of the university and turned aside the conservative challenge to a policy intended to foster racial and ethnic diversity on campus.",
+            "Justice Anthony Kennedy wrote for a   majority in Thursday\u2019s decision, Fisher v. University of Texas at Austin.",
+            "Instead, the majority opinion written by Justice Anthony M Kennedy reiterated previous   rulings that diversity justifies some intrusion on the Constitution\u2019s guarantee of equal protection, which generally forbids the government from making decisions based on race."
+        ],
+        "tf-idf score": [
+            1.0718741038248991,
+            0.931569431036106,
+            0.8189378551207785
+        ]
+    },
+    "0.23865526881069077-3-39": {
+        "average clique similarity": 0.23865526881069077,
+        "clique": [
+            "2-Justice Antonin Scal",
+            "4-Justice Antonin Scal",
+            "3-But even though the "
+        ],
+        "median tf-idf score": 0.5893167094762887,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Justice Antonin Scalia left little doubt how he felt at oral argument in December (African American students, he suggested, belonged at \u201clesser schools\u201d than UT).",
+            "Justice Antonin Scalia, who died four months ago, raised a storm of controversy with his comments during oral argument of the case in December.",
+            "But even though the result would have been the same, today\u2019s decision is significant even in Scalia\u2019s absence   because of comments he made during that oral argument in December,  when he suggested minority students might not be equipped to succeed in such a challenging environment and maybe shouldn\u2019t try to attend elite schools."
+        ],
+        "tf-idf score": [
+            0.5893167094762887,
+            0.40414118687318146,
+            0.6573614513718052
+        ]
+    },
+    "0.2425011885257717-3-18": {
+        "average clique similarity": 0.2425011885257717,
+        "clique": [
+            "2-  Fisher  he noted  ",
+            "1-Fisher  now 26  grad",
+            "0-Instead  she went to"
+        ],
+        "median tf-idf score": 0.5040676666738211,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201d Fisher, he noted, \u201clong since has graduated from another college, and the University\u2019s policy .",
+            "Fisher, now 26, graduated from her   college, Louisiana State University, and now works as a financial analyst in Austin.",
+            "Instead, she went to Louisiana State University, from which she graduated in 2012, and pursued her lawsuit."
+        ],
+        "tf-idf score": [
+            0.5536205142304229,
+            0.5040676666738211,
+            0.3590073110190747
+        ]
+    },
+    "0.24432052881542307-4-316": {
+        "average clique similarity": 0.24432052881542307,
+        "clique": [
+            "0-WASHINGTON      In a",
+            "3-  CNN  In a bit of a",
+            "1- The U S Supreme Cou",
+            "4- The Supreme Court o"
+        ],
+        "median tf-idf score": 1.3778061495144747,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "WASHINGTON  \u2014   In a narrow victory for affirmative action, the Supreme Court on Thursday upheld a University of Texas program that takes account of race in deciding whom to admit, an important national decision that was cemented by the death of Justice Antonin Scalia.",
+            " (CNN) In a bit of a surprise, the Supreme Court, on a   vote, upheld a lower court ruling allowing the University of Texas to use race as one of many factors in its admissions process.",
+            " The U S Supreme Court on Thursday upheld the consideration of race in college admissions, rejecting a white woman\u2019s challenge to a University of Texas program designed to boost the enrollment of minority students.",
+            " The Supreme Court on Thursday reaffirmed that the value of creating a diverse student body allows university officials to consider race in making admission decisions, upholding a University of Texas plan that has been the subject of years of legal battles."
+        ],
+        "tf-idf score": [
+            1.5246512898892266,
+            1.0923696614696872,
+            1.363152659422212,
+            1.3924596396067372
+        ]
+    },
+    "0.2576633972892739-4-313": {
+        "average clique similarity": 0.2576633972892739,
+        "clique": [
+            "2-Justice Samuel Alito",
+            "4- Something strange h",
+            "1-Writing in dissent  ",
+            "0-The court s three   "
+        ],
+        "median tf-idf score": 0.6843252583590882,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Justice Samuel Alito wrote a sharp dissent, joined by Chief Justice John Roberts and Justice Clarence Thomas.",
+            "\u201cSomething strange has happened since our prior decision in this case,\u201d is how Justice Samuel A Alito Jr on Thursday began his   dissent, more than twice as long as Kennedy\u2019s opinion.",
+            "Writing in dissent, Justice Samuel Alito described the university\u2019s program as \u201daffirmative action gone wild\u201d because of the way it can benefit minorities from wealthy backgrounds.",
+            "The court\u2019s three   justices dissented, and Justice Samuel Alito read portions of his   dissent, more than twice as long as Kennedy\u2019s opinion, from the bench."
+        ],
+        "tf-idf score": [
+            0.3427891727895714,
+            0.7190974676656068,
+            0.8632927130824438,
+            0.6495530490525696
+        ]
+    },
+    "0.2645967768091894-3-481": {
+        "average clique similarity": 0.2645967768091894,
+        "clique": [
+            "0-With the death of Sc",
+            "4-  With Kagan s recus",
+            "2-But Scalia died in F"
+        ],
+        "median tf-idf score": 0.4567345876950482,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "With the death of Scalia in February and with Justice Elena Kagan sitting out the case because she worked on it while serving in the Justice Department, just seven justices participated in the decision.",
+            "\u201d With Kagan\u2019s recusal, the court considered the case with only seven justices.",
+            "But Scalia died in February, and the case was decided by the seven remaining justices."
+        ],
+        "tf-idf score": [
+            0.4567345876950482,
+            0.47605181016205417,
+            0.43116652396731764
+        ]
+    },
+    "0.27304079786168156-3-135": {
+        "average clique similarity": 0.27304079786168156,
+        "clique": [
+            "1-It uses other factor",
+            "3-For the remainder of",
+            "4- This proposal ignor"
+        ],
+        "median tf-idf score": 0.5099398739888338,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "It uses other factors including race to admit the remainder.",
+            "For the remainder of students, Texas considers race and other factors for admission.",
+            "\u201cThis proposal ignores the fact that the University tried, and failed, to increase diversity through enhanced consideration of socioeconomic and other factors,\u201d Kennedy wrote."
+        ],
+        "tf-idf score": [
+            0.18403129564435866,
+            0.5099398739888338,
+            0.5731474607670909
+        ]
+    },
+    "0.30311929646958996-4-9": {
+        "average clique similarity": 0.30311929646958996,
+        "clique": [
+            "1-The ruling ended an ",
+            "3-The decision  author",
+            "0-The justices    deci",
+            "4-The legal challenge "
+        ],
+        "median tf-idf score": 1.1004284994173847,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "The ruling ended an   legal challenge to the affirmative action admissions system used by the University of Texas at Austin brought by Abigail Fisher, who was denied a place in 2008.",
+            "The decision, authored by Justice Anthony Kennedy, beat back a claim by Abigail Fisher, a white woman who argued she was unfairly not admitted to the university because of her race.",
+            "The justices\u2019   decision in favor of the Texas program ends an    lawsuit that included a previous trip to the Supreme Court, filed by a white Texan who was denied admission to the university.",
+            "The legal challenge to the policy was led by Abigail Fisher, a white applicant who was denied entry to the University of Texas at Austin."
+        ],
+        "tf-idf score": [
+            1.1178133361913047,
+            1.083043662643465,
+            1.3114745400362453,
+            0.8800028117768126
+        ]
+    },
+    "0.3204572593226737-3-185": {
+        "average clique similarity": 0.3204572593226737,
+        "clique": [
+            "2-That s because the T",
+            "1-The university admit",
+            "3-Today s decision rej"
+        ],
+        "median tf-idf score": 0.8520714801220887,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "That\u2019s because the Texas legislature in 1998 adopted the \u201ctop 10 percent\u201d plan, which guarantees admission to a UT school to any Texas student who graduates from a public high school in the top 10 percent of the class.",
+            "The university admits most freshmen through a program that guarantees a place to students in the top 10 percent of their Texas high school graduating classes.",
+            "Today\u2019s decision rejects Fisher\u2019s argument that since Texas\u2019s admission of the top 10 percent was   the school shouldn\u2019t be allowed to apply race as a factor with the remainder of applicants."
+        ],
+        "tf-idf score": [
+            0.7191457440160418,
+            0.8520714801220887,
+            0.9706275541244929
+        ]
+    },
+    "0.3414713145993355-3-481": {
+        "average clique similarity": 0.3414713145993355,
+        "clique": [
+            "1-Fisher was not in th",
+            "3-Fisher could have gr",
+            "0-The school said Fish"
+        ],
+        "median tf-idf score": 0.5951400373046021,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "Fisher was not in the top 10 percent of her high school class, and the university disputed whether she would have gained entry under any circumstance.",
+            "Fisher could have graduated in the top 10 percent of her class and received automatic admission, a policy that accounted for 92 percent of those admitted that year.",
+            "The school said Fisher, who did not graduate in the top 10 percent of her class, would not have been admitted with or without race as a factor."
+        ],
+        "tf-idf score": [
+            0.7184501183831814,
+            0.44033110026390104,
+            0.5951400373046021
+        ]
+    },
+    "0.3594094704634419-3-291": {
+        "average clique similarity": 0.3594094704634419,
+        "clique": [
+            "1-Blum has separately ",
+            "4-  Blum is sponsoring",
+            "0-  Separate legal cha"
+        ],
+        "median tf-idf score": 0.8839385884253894,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Blum has separately challenged the 1978 Supreme Court precedent that first allowed affirmative action, with new lawsuits against Harvard and the University of North Carolina.",
+            "\u201d Blum is sponsoring challenges to admissions policies at Harvard University and the University of North Carolina and said the court\u2019s ruling Thursday was narrow enough that the other lawsuits could still be successful.",
+            "\u201d Separate legal challenges have been filed to affirmative action plans at the University of North Carolina and Harvard University."
+        ],
+        "tf-idf score": [
+            0.8839385884253894,
+            1.0665604086156126,
+            0.6050029522712023
+        ]
+    },
+    "0.3814349877972911-3-481": {
+        "average clique similarity": 0.3814349877972911,
+        "clique": [
+            "2-Justice Elena Kagan ",
+            "4-Justice Elena Kagan ",
+            "1-Justice Elena Kagan "
+        ],
+        "median tf-idf score": 0.4121375365851256,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Justice Elena Kagan, whose office participated in the case when she was Solicitor General, recused herself.",
+            "Justice Elena Kagan recused herself because she had worked on the issue as President Obama\u2019s solicitor general.",
+            "Justice Elena Kagan, who was U S solicitor general in the Obama administration when it backed the university in   litigation, took no part in the decision."
+        ],
+        "tf-idf score": [
+            0.4121375365851256,
+            0.24667742734958414,
+            0.6733184571036858
+        ]
+    },
+    "0.4076395255927381-3-71": {
+        "average clique similarity": 0.4076395255927381,
+        "clique": [
+            "4- We are not a countr",
+            "2-This the Court refus",
+            "1- We are not a countr"
+        ],
+        "median tf-idf score": 0.18856753322731634,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cWe are not a country that guarantees equal outcomes, but we do strive to provide an equal shot to everybody.",
+            "This the Court refused to do.",
+            "\u201dWe are not a country that guarantees equal outcomes, but we do strive to provide an equal shot to everybody,\u201d Obama added."
+        ],
+        "tf-idf score": [
+            0.14345380342984868,
+            0.20722029883224966,
+            0.18856753322731634
+        ]
+    },
+    "0.40897033189983323-3-426": {
+        "average clique similarity": 0.40897033189983323,
+        "clique": [
+            "1- I m pleased that th",
+            "4- The Supreme Court u",
+            "3-Hers was a specious "
+        ],
+        "median tf-idf score": 0.7541320589565647,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dI\u2019m pleased that the Supreme Court upheld the basic notion that diversity is an important value in our society and that this country should provide a   education to all our young people regardless of their background,\u201d Obama said at the White House.",
+            "\u201cThe Supreme Court upheld the basic notion that diversity is an important value in our society and that this country should provide a   education to all our young people, regardless of their background,\u201d he said.",
+            "Hers was a specious argument from the beginning, given that top universities, like the University of Texas, have struggled since their founding to construct their own student bodies in relation to our nation\u2019s increasing diversity."
+        ],
+        "tf-idf score": [
+            0.7541320589565647,
+            0.6504157667958395,
+            0.8406435710352324
+        ]
+    },
+    "0.41746922509577195-3-364": {
+        "average clique similarity": 0.41746922509577195,
+        "clique": [
+            "0-In a statement  Fish",
+            "2- Since the Universit",
+            "4- I am disappointed t"
+        ],
+        "median tf-idf score": 1.2466083331051045,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In a statement, Fisher said \u201cI am disappointed that the Supreme Court has ruled that students applying to the University of Texas can be treated differently because of their race or ethnicity.",
+            "\u201cSince the University is prohibited from seeking a particular number or quota of minority students, it cannot be faulted for failing to specify the particular level of minority enrollment\u201d that would fulfill its goal.",
+            "\u201cI am disappointed that the Supreme Court has ruled that students applying to the University of Texas can be treated differently because of their race or ethnicity,\u201d Fisher said in a statement."
+        ],
+        "tf-idf score": [
+            1.2466083331051045,
+            0.5451002286151462,
+            1.2466083331051045
+        ]
+    },
+    "0.426165984144287-3-35": {
+        "average clique similarity": 0.426165984144287,
+        "clique": [
+            "4- But still  it remai",
+            "1-He said that  it rem",
+            "2-Of course not the co"
+        ],
+        "median tf-idf score": 0.3967861462543289,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cBut still, it remains an enduring challenge to our Nation\u2019s education system to reconcile the pursuit of diversity with the constitutional promise of equal treatment and dignity.",
+            "He said that \u201dit remains an enduring challenge to our nation\u2019s education system to reconcile the pursuit of diversity with the constitutional promise of equal treatment and dignity\u201d.",
+            "Of course not the court\u2019s precedents make clear that the bigger the role race plays in an admissions system, the more suspect the system will be."
+        ],
+        "tf-idf score": [
+            0.2994666987860023,
+            0.3967861462543289,
+            0.48201360698316104
+        ]
+    },
+    "0.5624167453354628-4-131": {
+        "average clique similarity": 0.5624167453354628,
+        "clique": [
+            "4- I hope that the nat",
+            "1-I hope that the nati",
+            "2-  Fisher v  Universi",
+            "0-I hope that the nati"
+        ],
+        "median tf-idf score": 0.3397809900580083,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cI hope that the nation will one day move beyond affirmative action.",
+            "I hope that the nation will one day move beyond affirmative action,\u201d Fisher said in a statement.",
+            "\u201d Fisher v. University of Texas will not end the legal battle over affirmative action in higher education.",
+            "I hope that the nation will one day move beyond affirmative action."
+        ],
+        "tf-idf score": [
+            0.2195189300998339,
+            0.46004305001618273,
+            0.7511546619890439,
+            0.2195189300998339
+        ]
+    }
+}

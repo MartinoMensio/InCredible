@@ -1,0 +1,330 @@
+{
+    "0.18529185181038943-3-63": {
+        "average clique similarity": 0.18529185181038943,
+        "clique": [
+            "2- The Director owes i",
+            "3-Donald Trump spoke a",
+            "1-Therefore it s imper"
+        ],
+        "median tf-idf score": 0.9850894907791894,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"The Director owes it to the American people to immediately provide the full details of what he is now examining\". This is some good news for Donald Trump Clinton's emails have long been a political vulnerability for her  --   it's an issue she's had to respond to at length in interviews and debates  --   and so Trump's campaign is understandably thrilled by the prospect of yet more bad news about emails.",
+            "Donald Trump spoke about the FBI request shortly after it broke at his rally in Manchester, N H \"Hillary Clinton's corruption is on a scale we have never seen before,\" he said. \"We must not let her take her criminal scheme into the Oval Office\". The Republican National Committee said the FBI's decision ahead of the election \"shows how serious this discovery must be\" and \"raises serious questions about what records may have been turned over and why\".",
+            "Therefore it's imperative that the bureau explain this issue in question, whatever it is, without any delay. Asked about Abedin's connection to the FBI review, Clinton didn't confirm her aide's potential involvement. We've heard these rumors. We don't know what to believe and I'm sure there will be even more rumors. That's why it's incumbent upon the FBI to tell us what they're talking about, Jeff [referring to the reporter]. Because right now, your guess is as good as mine, and I don't think that's good enough."
+        ],
+        "tf-idf score": [
+            0.9850894907791894,
+            1.1693867018374566,
+            0.942180758417813
+        ]
+    },
+    "0.20329334246396946-3-284": {
+        "average clique similarity": 0.20329334246396946,
+        "clique": [
+            "1-We are 11 days out f",
+            "3-State Department spo",
+            "0-In his letter  he re"
+        ],
+        "median tf-idf score": 1.1014884784855474,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "We are 11 days out from perhaps the most important national election of our lifetimes. Voting is already under way in our country. So the American people deserve to get the full and complete facts immediately. The director himself has said he doesn't know whether the emails referenced in his letter are significant or not. I'm confident whatever they are will not change the conclusion reached in July.",
+            "State Department spokesman Mark Toner says his agency has not received a letter from the FBI that he is aware of. He says the department learned of the letter from news reports, per NPR's Michele Kelemen, and he doesn't know whether the emails are from her time at State.",
+            "In his letter, he referenced the fact that he had testified that the probe into Clinton's email server had been completed, and he wanted to update his testimony. (About our rating scale)             The emails are being screened and released in batches."
+        ],
+        "tf-idf score": [
+            1.1014884784855474,
+            1.1229511560162049,
+            0.847889992841086
+        ]
+    },
+    "0.21328966328852003-4-122": {
+        "average clique similarity": 0.21328966328852003,
+        "clique": [
+            "2-Comey should provide",
+            "4-That in turn has rai",
+            "0-The announcement cam",
+            "1- Why is FBI doing th"
+        ],
+        "median tf-idf score": 0.478529500872505,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Comey should provide more information \"immediately,\" Podesta said, saying that the letter revealed no information about what emails came to light or whether they were significant. \"It is extraordinary that we would see something like this just 11 days out from a presidential election,\" Podesta said.",
+            "That in turn has raised more questions about director Comey from his colleagues in law enforcement circles, to take this extraordinary step just 11 days out from a presidential election. \"",
+            "The announcement came 11 days before a highly charged presidential election, leading to political spin on both sides. Here are answers to some key questions. We will update this as additional, credible information emerges.",
+            "\"Why is FBI doing this just 11 days before the election,\" he asked in a tweet."
+        ],
+        "tf-idf score": [
+            1.0930025690452918,
+            0.558441510218531,
+            0.3986174915264791,
+            0.3384890247823707
+        ]
+    },
+    "0.22390096962875053-3-127": {
+        "average clique similarity": 0.22390096962875053,
+        "clique": [
+            "3-Two sources familiar",
+            "2-The Clinton campaign",
+            "1-An FBI official  spe"
+        ],
+        "median tf-idf score": 1.2687458538848957,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Two sources familiar with the investigation also told Carrie that the matter does not relate to the WikiLeaks email release, which has been releasing hacked emails from Clinton campaign Chairman John Podesta's account.",
+            "The Clinton campaign called on the FBI to release more information John Podesta, the chairman of the Clinton campaign, called the FBI's decision to release the vague letter \"extraordinary\" and implied that Comey might be bowing to politcial pressure, saying Trump has been \"baselessly   the FBI and, in both public and private, browbeating the career officials there to revisit their conclusion in a desperate attempt to harm Hillary Clinton's presidential campaign. \"",
+            "An FBI official, speaking on the condition of anonymity, would not confirm NBC's reporting other than to say Friday's letter was not related to the hack of Clinton campaign chairman John Podesta's emails."
+        ],
+        "tf-idf score": [
+            1.1358219199351993,
+            1.4882032057965522,
+            1.2687458538848957
+        ]
+    },
+    "0.23240713794665904-3-12": {
+        "average clique similarity": 0.23240713794665904,
+        "clique": [
+            "0-FBI Director James B",
+            "3-Earlier Friday  FBI ",
+            "1-The FBI is reviewing"
+        ],
+        "median tf-idf score": 1.319942349384088,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "FBI Director James B Comey's announcement Friday that new emails had been found that might be relevant to the Hillary Clinton investigation is a good example.",
+            "Earlier Friday, FBI Director James Comey notified members of Congress that the FBI had reopened its investigation into the handling of classified information in connection with the Democratic presidential candidate's use of a private email server while secretary of state.",
+            "The FBI is reviewing a new set of emails \"to determine whether they contain classified information,\" the bureau's director, James Comey, told congressional committee chairmen in a letter on Friday."
+        ],
+        "tf-idf score": [
+            1.3047276153049905,
+            1.4075103702474603,
+            1.319942349384088
+        ]
+    },
+    "0.23635297861049934-4-118": {
+        "average clique similarity": 0.23635297861049934,
+        "clique": [
+            "1-Comey said he didn t",
+            "2-For instance  it doe",
+            "3-He added   the FBI c",
+            "4-In a carefully worde"
+        ],
+        "median tf-idf score": 1.2039211148976052,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "Comey said he didn't know how long it would take to review, but the mere announcement that the FBI was revisiting a case it appeared to have closed without charges this summer had the potential to shake up a presidential race that has been trending decidedly in Clinton's favor.",
+            "For instance, it does not make clear what new emails have been discovered, and doesn't indicate \"whether this material may be significant,\" how they relate to Clinton's case, or how long it will take the FBI to conduct its investigation.",
+            "He added, \"the FBI cannot yet assess whether or not this material may be significant, and I cannot predict how long it will take us to complete this additional work\". Clinton addressed the latest developments in a brief press conference Friday night in Des Moines, Iowa, saying it was \"imperative that the bureau explain this issue in question  --   whatever it is  --   without any delay\" with just 11 days to go until Election Day.",
+            "In a carefully worded letter, the director said he wanted to \"supplement my previous testimony\" about the original Clinton email investigation, which he told Congress had closed this summer, and said: \"The FBI cannot yet assess whether or not this material may be significant. \""
+        ],
+        "tf-idf score": [
+            1.2354216213580544,
+            1.172420608437156,
+            1.1299770865588163,
+            1.3607721558567993
+        ]
+    },
+    "0.2409003134505381-3-284": {
+        "average clique similarity": 0.2409003134505381,
+        "clique": [
+            "4- They know what a fi",
+            "0-What do we know abou",
+            "2-What anonymous gover"
+        ],
+        "median tf-idf score": 0.397052483576786,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "\"They know what a fighter she is   ... They're as upset and concerned as we are here   ... This has only increased the momentum that we're feeling among our activists on the ground. \"",
+            "What do we know about the new emails?",
+            "What anonymous government sources are telling reporters about the new emails We don't yet have any public confirmation from Comey or the FBI about just what these new emails are, what they say, what they might show, or how they turned up."
+        ],
+        "tf-idf score": [
+            0.18637893981235015,
+            0.397052483576786,
+            0.9216622174004537
+        ]
+    },
+    "0.2525345257104464-3-273": {
+        "average clique similarity": 0.2525345257104464,
+        "clique": [
+            "2-Though Clinton was c",
+            "4-The latest twist in ",
+            "0-On Friday  Oct  28  "
+        ],
+        "median tf-idf score": 1.6006196618017665,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Though Clinton was cleared of criminal charges by the FBI in July, Director James Comey sent a letter to members of Congress on Friday that it has come across new emails in \"an unrelated case,\" and that the bureau will review them \"to determine whether they contain classified information, as well as to assess their importance to our investigation. \"",
+            "The latest twist in a topsy turvy election arrived on Friday afternoon, when Comey said in a letter to Congress the FBI would review whether there was any classified information in new \"emails that appear to be pertinent to the investigation\".",
+            "On Friday, Oct. 28, Comey sent a letter to Congress saying additional emails that might be relevant to the investigation had been found."
+        ],
+        "tf-idf score": [
+            2.052142494653874,
+            1.6006196618017665,
+            0.8198037950736993
+        ]
+    },
+    "0.2764525627368912-3-96": {
+        "average clique similarity": 0.2764525627368912,
+        "clique": [
+            "3- We don t know the f",
+            "1-In the message  whic",
+            "2-And NBC s Pete Willi"
+        ],
+        "median tf-idf score": 1.4747351672919007,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "\"We don't know the facts, which is why we are calling on the FBI to release all of the information that it has,\" Clinton said, noting that Comey himself \"has said he doesn't know whether the emails referenced in his letter are significant or not\".",
+            "In the message, which was reported by the Washington Post, he acknowledged there is \"significant risk in being misunderstood\": Of course, we don't ordinarily tell Congress about ongoing investigations, but here I feel an obligation to do so given that I testified repeatedly in recent months that our investigation was completed. I also think it would be misleading to the American people were we not to supplement the record. At the same time, however, given that we don't know the significance of this newly discovered collection of emails, I don't want to create a misleading impression.",
+            "And NBC's Pete Williams reported during a TV segment that, according to his sources, the new emails are not from Hillary Clinton herself and they don't appear to involve evidence that she or her people deliberately withheld from the FBI As to why the letter was sent and just how important the new emails are, Williams says: \"It looks at this point like being very thorough and very careful, not that this is going to be  --   again, we don't know all the facts here  --   but not that it's going to be a  ."
+        ],
+        "tf-idf score": [
+            1.4747351672919007,
+            1.0587935608738621,
+            1.5178472946942403
+        ]
+    },
+    "0.28379055358390265-4-74": {
+        "average clique similarity": 0.28379055358390265,
+        "clique": [
+            "1-The letter did not s",
+            "3-Weiner is the estran",
+            "4- It s now up to him ",
+            "2-But both the New Yor"
+        ],
+        "median tf-idf score": 1.1762333415124466,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "The letter did not specify who sent the emails, who received them, or where they were found. The New York Times on Friday afternoon reported that the emails \"were discovered after the F B I seized electronic devices belonging to Huma Abedin, an aide to Mrs Clinton, and her husband, Anthony Weiner. \"",
+            "Weiner is the estranged husband of close Clinton aide Huma Abedin he has been under scrutiny for sending illicit text messages to an underage girl. Sources said authorities seized electronic devices in their home, which led them to this new information.",
+            "\"It's now up to him, who owes the public answers to the questions that are now on the table, and we're calling on him to come forward and give those answers to the American public. \" Law enforcement sources speaking anonymously told news outlets the new emails came from devices belonging to Anthony Weiner, the disgraced former congressman and estranged husband of Huma Abedin, one of Clinton's closest aides.",
+            "But both the New York Times and CNN are reporting, from anonymous government sources, that the new emails came from devices seized during an FBI investigation into Anthony Weiner, who is married to a close Hillary Clinton aide, Huma Abedin."
+        ],
+        "tf-idf score": [
+            1.1716721292174546,
+            1.078931774127374,
+            1.1807945538074385,
+            1.3544456056321352
+        ]
+    },
+    "0.29480434881120876-4-284": {
+        "average clique similarity": 0.29480434881120876,
+        "clique": [
+            "2-But Comey does sugge",
+            "4-It is  entirely poss",
+            "1-In July  Comey annou",
+            "0-I haven t paid much "
+        ],
+        "median tf-idf score": 1.1894933334847035,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But Comey does suggest the FBI will be looking to see if Clinton or her aides broke the law by sending classified information over the private server she used exclusively while secretary of state.",
+            "It is \"entirely possible\" that the emails are duplicates of those already studied by the FBI in its earlier investigation into Clinton's use of a private server while secretary of state, Podesta told reporters on a conference call, adding that Clinton would not be distracted in the final days of the campaign.",
+            "In July, Comey announced that the government would not bring charges against Clinton over the private email server she maintained as secretary of state, but he called her handling of sensitive information \"extremely careless. \"",
+            "I haven't paid much attention to the news. What happened? The FBI announced in July that it had completed its investigation into Hillary Clinton's use of a private email server when she was secretary of state, concluding that although she and her aides were \"extremely careless\" with the handling of classified information, there was no case for criminal prosecution."
+        ],
+        "tf-idf score": [
+            1.0909498412221215,
+            1.2880368257472856,
+            1.0600315481690785,
+            1.5647385223419619
+        ]
+    },
+    "0.38483672522418516-3-284": {
+        "average clique similarity": 0.38483672522418516,
+        "clique": [
+            "1- I am writing to inf",
+            "4- The department goes",
+            "3-I am writing to info"
+        ],
+        "median tf-idf score": 1.0921412290100059,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\"I am writing to inform you that the investigative team briefed me on this yesterday, and I agreed that the FBI should take appropriate investigative steps designed to allow investigators to review these emails to determine whether they contain classified information, as well as to assess their importance to our investigation. \"",
+            "\"The department goes out of its way not to take any action close to an election that could influence the outcome of that election. The FBI's reputation for independence and integrity is really at the core to their ability to do their job effectively. \"",
+            "I am writing to inform you that the investigative team briefed me on this yesterday, and I agreed that the FBI should take appropriate investigative steps designed to allow investigators to review these emails to determine whether they contain classified information, as well as to assess their importance to our investigation\"."
+        ],
+        "tf-idf score": [
+            1.0921412290100059,
+            0.4122487088213684,
+            1.0921412290100059
+        ]
+    },
+    "0.48456199777573267-3-284": {
+        "average clique similarity": 0.48456199777573267,
+        "clique": [
+            "1- In connection with ",
+            "0-Comey  in his letter",
+            "3-In a letter to the l"
+        ],
+        "median tf-idf score": 1.1548680359058614,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\"In connection with an unrelated case, the FBI has learned of the existence of emails that appear to be pertinent to the investigation,\" Comey wrote in the   letter.",
+            "Comey, in his letter, said the new emails \"appear to be pertinent\" to the earlier investigation.",
+            "In a letter to the leaders of congressional oversight committees, Comey wrote: \"In connection with an unrelated case, the FBI has learned of the existence of emails that appear to be pertinent to the investigation."
+        ],
+        "tf-idf score": [
+            1.1548680359058614,
+            0.9157097682884605,
+            1.2330099966829031
+        ]
+    }
+}

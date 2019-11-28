@@ -1,0 +1,638 @@
+{
+    "0.1702545608441718-3-223": {
+        "average clique similarity": 0.1702545608441718,
+        "clique": [
+            "1-He said that the dis",
+            "5-The state s investig",
+            "0-Abbott said the indi"
+        ],
+        "median tf-idf score": 0.7398981632887821,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "He said that the dismissal is \u201da vindication for the First Amendment rights of all citizen journalists, and also a clear warning to any of Planned Parenthood\u2019s political cronies who would attack whistleblowers to protect Planned Parenthood from scrutiny\u201d.",
+            "The state\u2019s investigation of Planned Parenthood is ongoing\u201d.",
+            "Abbott said the indictments will not impact the state\u2019s investigation, \u201cThe State of Texas will continue to protect life, and I will continue to support legislation prohibiting the sale or transfer of fetal tissue,\u201d he said in a statement."
+        ],
+        "tf-idf score": [
+            0.827616721270614,
+            0.7307850905361624,
+            0.7398981632887821
+        ]
+    },
+    "0.17711150645085907-3-79": {
+        "average clique similarity": 0.17711150645085907,
+        "clique": [
+            "2-Before its release  ",
+            "5-The investigation st",
+            "4-Linton said the foot"
+        ],
+        "median tf-idf score": 1.3472077491536383,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Before its release, Melaney Linton, president of the Houston Planned Parenthood clinic, told state lawmakers last summer that it was likely to feature actors  \u2014   pretending to be from a company called BioMax  \u2014   asking leading questions about how to select potential donors for a supposed study of sickle cell anemia.",
+            "The investigation stemmed from an undercover video released last summer, in which the activists, posing as potential buyers for a human biologics company, talk with a Planned Parenthood executive about how the organization provides human tissue for research.",
+            "Linton said the footage could feature several interactions initiated by BioMax about how and whether a doctor could adjust an abortion if the patient has offered to donate tissue for medical research."
+        ],
+        "tf-idf score": [
+            1.3931834007298896,
+            1.3472077491536383,
+            0.6988919413086211
+        ]
+    },
+    "0.20263529530039615-3-300": {
+        "average clique similarity": 0.20263529530039615,
+        "clique": [
+            "4-Planned Parenthood a",
+            "5-Earlier this month  ",
+            "3-It alleged that the "
+        ],
+        "median tf-idf score": 1.1359975013394135,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Planned Parenthood announced on Jan. 14 it is suing the Center for Medical Progress, the group responsible for heavily edited and secretly filmed videos claiming the abortion provider illegally sells fetal tissue.",
+            "Earlier this month, NPR\u2019s Jennifer Ludden reported that Planned Parenthood filed a civil lawsuit against the   group with which the activists were affiliated  \u2014   called the Center for Medical Progress  \u2014   accusing it of conspiracy and fraud.",
+            "It alleged that the clips were misleadingly edited \u2014  a charge the Center for Medical Progress cleverly defused by posting the full raw footage."
+        ],
+        "tf-idf score": [
+            1.4034455859190584,
+            1.1359975013394135,
+            0.42042481154742695
+        ]
+    },
+    "0.2196527974708851-3-272": {
+        "average clique similarity": 0.2196527974708851,
+        "clique": [
+            "2-Planned Parenthood s",
+            "3-Federal law allows m",
+            "0-It showed people pre"
+        ],
+        "median tf-idf score": 0.3705058636413154,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Planned Parenthood says it abides by a law that allows providers to be reimbursed for the costs of processing tissue donated by women who have had abortions.",
+            "Federal law allows medical providers to accept donation for processing tissue, but not to profit from it.",
+            "It showed people pretending to be from a company that procures fetal tissue for research touring the facility."
+        ],
+        "tf-idf score": [
+            1.0049354585520733,
+            0.3705058636413154,
+            0.36261588673624007
+        ]
+    },
+    "0.2362070092516022-3-169": {
+        "average clique similarity": 0.2362070092516022,
+        "clique": [
+            "0-Texas Attorney Gener",
+            "5-Texas Attorney Gener",
+            "3-While the grand jury"
+        ],
+        "median tf-idf score": 0.5286124472461078,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Texas Attorney General Ken Paxton also opened his own investigation into the videos.",
+            "Texas Attorney General Ken Paxton issued a brief statement following the indictments: \u201dThe fact remains that the videos exposed the horrific nature of abortion and the shameful disregard for human life of the abortion industry.",
+            "While the grand jury cleared the organization, Texas\u2019s attorney general and the state\u2019s Health and Human Services Commission are still investigating the group."
+        ],
+        "tf-idf score": [
+            0.41500428216102514,
+            0.669614393867932,
+            0.5286124472461078
+        ]
+    },
+    "0.2398505757948365-3-93": {
+        "average clique similarity": 0.2398505757948365,
+        "clique": [
+            "4-Thus far  none of th",
+            "1-In all of that time ",
+            "2-The videos provoked "
+        ],
+        "median tf-idf score": 0.806307780912958,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Thus far, none of the investigations has turned up wrongdoing by Planned Parenthood.",
+            "In all of that time, however, numerous federal and state investigations have turned up no evidence backing up Daleiden\u2019s claims.",
+            "The videos provoked an outcry from the   movement, and prompted numerous investigations of Planned Parenthood by   committees in Congress and by   state governments."
+        ],
+        "tf-idf score": [
+            0.806307780912958,
+            0.40972215468364254,
+            1.043668300737261
+        ]
+    },
+    "0.2735546226720211-3-1": {
+        "average clique similarity": 0.2735546226720211,
+        "clique": [
+            "4-David Daleiden  foun",
+            "3-Beginning in July   ",
+            "1-The activists are Da"
+        ],
+        "median tf-idf score": 0.8922077434677247,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "David Daleiden, founder of the Center for Medical Progress, was indicted on a felony charge of tampering with a governmental record and a misdemeanor count related to purchasing human organs.",
+            "Beginning in July,   activists David Daleiden and Sandra Merritt of the Center for Medical Progress released several videos taken with hidden cameras that caught Planned Parenthood officials discussing the use of tissue from aborted fetuses.",
+            "The activists are David Daleiden, founder of the   group that created and publicized the videos, and Sandra Merritt, who appeared with Daleiden in many of the videos."
+        ],
+        "tf-idf score": [
+            0.8922077434677247,
+            1.513739946210022,
+            0.5080338244338993
+        ]
+    },
+    "0.2933791882709871-3-300": {
+        "average clique similarity": 0.2933791882709871,
+        "clique": [
+            "5-But instead of findi",
+            "3-After two months of ",
+            "1-The grand jury decli"
+        ],
+        "median tf-idf score": 1.0719931783447925,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "But instead of finding evidence of wrongdoing by the organization, the grand jury returned indictments against   activists David Daleiden and Sandra Merritt.",
+            "After two months of investigation, the grand jury in Houston decided not to charge Planned Parenthood or any staffers, but instead to indict Daleiden and Merritt for tampering with government records.",
+            "The grand jury declined to indict Planned Parenthood, and decided to indict the two Center for Medical Progress activists instead."
+        ],
+        "tf-idf score": [
+            0.6477644241270704,
+            1.3161313393916485,
+            1.0719931783447925
+        ]
+    },
+    "0.3263349981039082-3-300": {
+        "average clique similarity": 0.3263349981039082,
+        "clique": [
+            "2-It showed people pre",
+            "0-Before its release  ",
+            "4-  It showed people p"
+        ],
+        "median tf-idf score": 0.36261588673624007,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It showed people pretending to be from a company that procures fetal tissue for research touring the facility.",
+            "Before its release, Melaney Linton, president of the Houston Planned Parenthood clinic, told state lawmakers last summer that it was likely to feature actors  \u2014   pretending to be from a company called BioMax  \u2014   asking leading questions about how to select potential donors for a supposed study of sickle cell anemia.",
+            "\u201d It showed people pretending to be from a company that procures fetal tissue for research touring the facility."
+        ],
+        "tf-idf score": [
+            0.36261588673624007,
+            1.3931834007298896,
+            0.36261588673624007
+        ]
+    },
+    "0.338257089382731-3-300": {
+        "average clique similarity": 0.338257089382731,
+        "clique": [
+            "1-It was a felony char",
+            "0-Another center emplo",
+            "2-Another activist  Sa"
+        ],
+        "median tf-idf score": 0.520221913071973,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "It was a felony charge of \u201dtampering with a governmental record,\u201d based on allegations that Daleiden and Merritt used falsified driver\u2019s licenses in the process of making the videos.",
+            "Another center employee, Sandra Merritt, was also indicted on a charge of tampering with a governmental record.",
+            "Another activist, Sandra Merritt, was also indicted on a charge of tampering with a governmental record."
+        ],
+        "tf-idf score": [
+            0.7638922753328194,
+            0.520221913071973,
+            0.4864368964918955
+        ]
+    },
+    "0.3507364940491975-3-294": {
+        "average clique similarity": 0.3507364940491975,
+        "clique": [
+            "5-According to a state",
+            "3- We were called upon",
+            "0-Harris County Distri"
+        ],
+        "median tf-idf score": 1.2178679759519373,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "According to a statement from Harris County District Attorney Devon Anderson, the 232nd Grand Jury extensively reviewed the joint investigation into allegations of misconduct by Planned Parenthood Gulf Coast for more than two months and cleared the organization of breaking the law.",
+            "\u201cWe were called upon to investigate allegations of criminal conduct by Planned Parenthood Gulf Coast,\u201d Harris County District Attorney Devon Anderson, a Republican, said in a statement.",
+            "Harris County District Attorney Devon Anderson said in a statement that the founder of the Center for Medical Progress, David Daleiden, was indicted on a felony charge of tampering with a governmental record and a misdemeanor count related to purchasing human organs."
+        ],
+        "tf-idf score": [
+            1.3944987990689863,
+            1.198956477562649,
+            1.2178679759519373
+        ]
+    },
+    "0.3650773291047316-3-20": {
+        "average clique similarity": 0.3650773291047316,
+        "clique": [
+            "3-They made the videos",
+            "1-When they couldn t f",
+            "0-When they couldn t f"
+        ],
+        "median tf-idf score": 0.4527053276042179,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "They made the videos by posing as middlemen for medical researchers seeking fetal tissue.",
+            "When they couldn\u2019t find any improper or illegal activity, they made it up.",
+            "When they couldn\u2019t find any improper or illegal activity, they made it up,\u201d Eric Ferrero, Vice President of Communications for Planned Parenthood Federation of America, said in a statement."
+        ],
+        "tf-idf score": [
+            0.4527053276042179,
+            0.04566063246965346,
+            0.8667541470109006
+        ]
+    },
+    "0.3952073052260869-3-300": {
+        "average clique similarity": 0.3952073052260869,
+        "clique": [
+            "4-The center claims th",
+            "1-The original indictm",
+            "2-The center claims th"
+        ],
+        "median tf-idf score": 1.3271616521636131,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "The center claims that Planned Parenthood illegally sold fetal tissue; Planned Parenthood officials have denied any wrongdoing and have said the videos were misleadingly edited.",
+            "The original indictment came after a   grand jury investigation looked into claims by Daleiden and his organization, the Center for Medical Progress, that Planned Parenthood illegally sold fetal tissue.",
+            "The center claims that Planned Parenthood illegally sold fetal tissue Planned Parenthood officials have denied any wrongdoing and have said the videos were misleadingly edited."
+        ],
+        "tf-idf score": [
+            1.3271616521636131,
+            1.5477796594673674,
+            1.3271616521636131
+        ]
+    },
+    "0.4135944384257784-5-49": {
+        "average clique similarity": 0.4135944384257784,
+        "clique": [
+            "4- AUSTIN  Texas      ",
+            "0- A grand jury in Hou",
+            "5-A Texas grand jury i",
+            "3-In a surprise turn  ",
+            "2-AUSTIN  Texas  AP   "
+        ],
+        "median tf-idf score": 1.5957282673274937,
+        "publications": [
+            "Washington Post",
+            "Talking Points Memo",
+            "Fox News",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            " AUSTIN, Texas  \u2014   A Houston grand jury investigating undercover footage of Planned Parenthood found no wrongdoing Monday by the abortion provider and instead indicted   activists involved in making the videos that provoked outrage among Republican leaders nationwide.",
+            " A grand jury in Houston investigating undercover footage of Planned Parenthood allegations of misconduct instead indicted two   activists who made videos of the organization on Monday.",
+            "A Texas grand jury investigating Planned Parenthood took no action against the abortion provider, but it indicted two   activists involved in making covert videos of the organization.",
+            "In a surprise turn, a grand jury in Texas that was convened to investigate allegations that Planned Parenthood illegally sold fetal tissue decided instead to indict activists who made sting videos to criticize the organization.",
+            "AUSTIN, Texas (AP)  \u2014   A Houston grand jury investigating undercover footage of Planned Parenthood found no wrongdoing Monday by the abortion provider and instead indicted   activists involved in making the videos that provoked outrage among Republican leaders nationwide."
+        ],
+        "tf-idf score": [
+            1.5957282673274937,
+            1.3247173041869207,
+            1.3248759702176776,
+            1.5979939505077383,
+            1.6032069649385894
+        ]
+    },
+    "0.414044454417835-3-140": {
+        "average clique similarity": 0.414044454417835,
+        "clique": [
+            "0-Planned Parenthood o",
+            "1-Daleidan and other  ",
+            "3-But Planned Parentho"
+        ],
+        "median tf-idf score": 0.9522849579833239,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "Planned Parenthood officials swiftly hailed the indictment, \u201dThese   extremists spent three years creating a fake company, creating fake identities, lying, and breaking the law.",
+            "Daleidan and other   extremists, on the other hand, spent three years creating a fake company, creating fake identities, and lying.",
+            "But Planned Parenthood also accused the activists of using fake government IDs, creating a fake organization, and inappropriately recording people without their consent as part of the sting."
+        ],
+        "tf-idf score": [
+            1.0281739291425465,
+            0.22829205750985143,
+            0.9522849579833239
+        ]
+    },
+    "0.4311035834762654-3-269": {
+        "average clique similarity": 0.4311035834762654,
+        "clique": [
+            "1-In a statement  Dale",
+            "2-In a statement annou",
+            "0-In a statement annou"
+        ],
+        "median tf-idf score": 0.6719320139881491,
+        "publications": [
+            "Fox News",
+            "Talking Points Memo",
+            "Vox"
+        ],
+        "sentences": [
+            "In a statement, Daleiden called the   charges \u201dbogus\u201d and \u201dpolitically motivated.",
+            "In a statement announcing the indictment, Harris County District Attorney Devon Anderson didn\u2019t provide details on the charges, including what record or records were allegedly tampered with and why Daleiden faces a charge related to buying human organs.",
+            "In a statement announcing the indictment, Anderson didn\u2019t provide details on the charges, including what record or records were allegedly tampered with and why Daleiden faces a charge related to buying human organs."
+        ],
+        "tf-idf score": [
+            0.3190895274505039,
+            0.7959709978567419,
+            0.6719320139881491
+        ]
+    },
+    "0.4352048441049258-3-6": {
+        "average clique similarity": 0.4352048441049258,
+        "clique": [
+            "2-Anderson s office sa",
+            "3-Anderson has not rev",
+            "0-Anderson s office sa"
+        ],
+        "median tf-idf score": 0.602196756879,
+        "publications": [
+            "Talking Points Memo",
+            "Atlantic",
+            "Fox News"
+        ],
+        "sentences": [
+            "Anderson\u2019s office said it could not provide details until the documents charging Daleiden and Merritt were formally made public, which was expected later Monday.",
+            "Anderson has not revealed the specifics of the indictment, but it appears that the grand jury believed Daleiden and Merritt committed some violation of laws involving government documents.",
+            "Anderson\u2019s office said it could not provide details until the documents charging Daleiden and Merritt were formally made public."
+        ],
+        "tf-idf score": [
+            0.602196756879,
+            0.6719439351554033,
+            0.43221884814495215
+        ]
+    },
+    "0.44452765142010325-3-108": {
+        "average clique similarity": 0.44452765142010325,
+        "clique": [
+            "1-The decision to drop",
+            "3-I respect their deci",
+            "0-I respect their deci"
+        ],
+        "median tf-idf score": 0.06334269534367287,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The decision to drop the prosecution on a technicality does not negate the fact that the only people who engaged in wrongdoing are the extremists behind this fraud.",
+            "I respect their decision on this difficult case.",
+            "I respect their decision on this difficult case\u201d."
+        ],
+        "tf-idf score": [
+            0.21206403459748163,
+            0.06334269534367287,
+            0.06334269534367287
+        ]
+    },
+    "0.4461794339636314-3-300": {
+        "average clique similarity": 0.4461794339636314,
+        "clique": [
+            "1-Daleiden also faced ",
+            "2-David Daleiden  foun",
+            "5-They were both indic"
+        ],
+        "median tf-idf score": 0.8922077434677247,
+        "publications": [
+            "Vox",
+            "Talking Points Memo",
+            "NPR"
+        ],
+        "sentences": [
+            "Daleiden also faced a misdemeanor charge of \u201dpurchase and sale of human organs,\u201d which was also dropped last month.",
+            "David Daleiden, founder of the Center for Medical Progress, was indicted on a felony charge of tampering with a governmental record and a misdemeanor count related to purchasing human organs.",
+            "They were both indicted for tampering with a governmental record, which is a felony, and Daleiden was also indicted on a misdemeanor charge of illegally offering to purchase human organs in the video recording, Houston Public Media reports."
+        ],
+        "tf-idf score": [
+            0.4963696292824817,
+            0.8922077434677247,
+            0.9587993586426553
+        ]
+    },
+    "0.4755332528954603-3-239": {
+        "average clique similarity": 0.4755332528954603,
+        "clique": [
+            "2-Planned Parenthood o",
+            "3-A   indictment is no",
+            "4-  Planned Parenthood"
+        ],
+        "median tf-idf score": 0.7311503232944109,
+        "publications": [
+            "Atlantic",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Planned Parenthood officials swiftly hailed the indictment as just.",
+            "A   indictment is not the same as a criminal conviction.",
+            "\u201d Planned Parenthood officials swiftly hailed the indictment as just."
+        ],
+        "tf-idf score": [
+            0.7311503232944109,
+            0.1251951109074114,
+            0.7311503232944109
+        ]
+    },
+    "0.48243266769206955-3-64": {
+        "average clique similarity": 0.48243266769206955,
+        "clique": [
+            "0-All the evidence unc",
+            "2- As I stated at the ",
+            "4- As I stated at the "
+        ],
+        "median tf-idf score": 0.1699209934511697,
+        "publications": [
+            "Fox News",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "All the evidence uncovered in the course of this investigation was presented to the grand jury.",
+            "\u201dAs I stated at the outset of this investigation, we must go where the evidence leads us\u201d.",
+            "\u201cAs I stated at the outset of this investigation, we must go where the evidence leads us."
+        ],
+        "tf-idf score": [
+            0.3974576894274017,
+            0.1699209934511697,
+            0.1699209934511697
+        ]
+    },
+    "0.5001948850224956-4-300": {
+        "average clique similarity": 0.5001948850224956,
+        "clique": [
+            "0- We were called upon",
+            "1-Planned Parenthood o",
+            "2- We were called upon",
+            "4- We were called upon"
+        ],
+        "median tf-idf score": 1.0358815230089862,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dWe were called upon to investigate allegations of criminal conduct by Planned Parenthood Gulf Coast,\u201d Anderson said.",
+            "Planned Parenthood of the Gulf Coast released a statement arguing that the charges were dropped on a \u201dtechnicality\u201d:  Planned Parenthood provides   compassionate health care and has been cleared of any wrongdoing time and again.",
+            "\u201dWe were called upon to investigate allegations of criminal conduct by Planned Parenthood Gulf Coast,\u201d Anderson\u2019s statement said.",
+            "\u201cWe were called upon to investigate allegations of criminal conduct by Planned Parenthood Gulf Coast,\u201d Anderson\u2019s statement said."
+        ],
+        "tf-idf score": [
+            0.990360464843688,
+            1.0825960001110453,
+            1.0358815230089862,
+            1.0358815230089862
+        ]
+    },
+    "0.5138323490550127-3-106": {
+        "average clique similarity": 0.5138323490550127,
+        "clique": [
+            "2- This is absolutely ",
+            "5- These individuals b",
+            "4- This is absolutely "
+        ],
+        "median tf-idf score": 1.199174101390453,
+        "publications": [
+            "Talking Points Memo",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dThis is absolutely great news because it is a demonstration of what Planned Parenthood has said from the very beginning: We follow every law and regulation and these   activists broke multiple laws to try and spread lies,\u201d said spokeswoman Rochelle Tafolla of Planned Parenthood Gulf Coast.",
+            "\u201dThese individuals broke the law and committed fraud in order to spread lies about Planned Parenthood and today they\u2019re going to be held accountable for breaking those laws\u201d.",
+            "\u201cThis is absolutely great news because it is a demonstration of what Planned Parenthood has said from the very beginning: We follow every law and regulation and these   activists broke multiple laws to try and spread lies,\u201d said spokeswoman Rochelle Tafolla of Planned Parenthood Gulf Coast."
+        ],
+        "tf-idf score": [
+            1.199174101390453,
+            0.845765431273368,
+            1.199174101390453
+        ]
+    },
+    "0.5632055890220554-3-226": {
+        "average clique similarity": 0.5632055890220554,
+        "clique": [
+            "5-Greg Abbott to call ",
+            "2-Greg Abbott has call",
+            "4-Greg Abbott has call"
+        ],
+        "median tf-idf score": 0.9361125385062716,
+        "publications": [
+            "NPR",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Greg Abbott to call for an investigation into Planned Parenthood Gulf Coast in Houston.",
+            "Greg Abbott has called footage from the Planned Parenthood clinic in Houston \u201drepulsive and unconscionable\u201d.",
+            "Greg Abbott has called footage from the Planned Parenthood clinic in Houston \u201crepulsive and unconscionable."
+        ],
+        "tf-idf score": [
+            0.8544671350805795,
+            0.9361125385062716,
+            0.9361125385062716
+        ]
+    },
+    "0.7036915558393949-3-185": {
+        "average clique similarity": 0.7036915558393949,
+        "clique": [
+            "2-     Associated Pres",
+            "0-The Associated Press",
+            "4-    Associated Press"
+        ],
+        "median tf-idf score": 0.2454921345017499,
+        "publications": [
+            "Washington Post",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "___, Associated Press Writers Juan A Lozano in Houston and Will Weissert in Austin contributed to this report.",
+            "The Associated Press contributed to this report.",
+            "___ Associated Press Writers Juan A Lozano in Houston and Will Weissert in Austin contributed to this report."
+        ],
+        "tf-idf score": [
+            0.2454921345017499,
+            0.11560381760202681,
+            0.2454921345017499
+        ]
+    },
+    "0.7378929040790206-3-168": {
+        "average clique similarity": 0.7378929040790206,
+        "clique": [
+            "4-  The   Center for M",
+            "0-The Center for Medic",
+            "2-The   Center for Med"
+        ],
+        "median tf-idf score": 1.4002754074658323,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "\u201d The   Center for Medical Progress has released several covertly shot videos of Planned Parenthood officials discussing the handling of fetal tissue from abortions.",
+            "The Center for Medical Progress is the   group that released covertly shot videos of Planned Parenthood officials discussing the sale of aborted fetuses for research.",
+            "The   Center for Medical Progress has released several covertly shot videos of Planned Parenthood officials discussing the handling of fetal tissue from abortions."
+        ],
+        "tf-idf score": [
+            1.4002754074658323,
+            1.2133002255565104,
+            1.4002754074658323
+        ]
+    }
+}

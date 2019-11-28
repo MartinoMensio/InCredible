@@ -1,0 +1,950 @@
+{
+    "0.17995770999113833-3-77": {
+        "average clique similarity": 0.17995770999113833,
+        "clique": [
+            "0-Scott s death in Sep",
+            "4-Closed investigation",
+            "1-Scott s death on 20 "
+        ],
+        "median tf-idf score": 0.9156228276894236,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Scott's death in September unleashed two days of unrest in Charlotte, when protesters took to the streets and in some cases threw objects at police and smashed windows.",
+            "Closed investigation, open ears, Back in September, Charlotte police officers had a major revelation following the death of Scott: Protesters perceived them as indifferent or apathetic to their concerns.",
+            "Scott's death on 20 September became another flashpoint in the nationwide unrest over the killing of African American men by police officers. Protests and riots followed in Charlotte. In their statement on Wednesday, Scott's family asked demonstrators to remain peaceful."
+        ],
+        "tf-idf score": [
+            0.8236515044187924,
+            0.9156228276894236,
+            1.1163700999314812
+        ]
+    },
+    "0.1832956244070544-3-288": {
+        "average clique similarity": 0.1832956244070544,
+        "clique": [
+            "6-Lawyers for Mr Scott",
+            "4-Police and the press",
+            "2-In a statement to th"
+        ],
+        "median tf-idf score": 1.015798016293292,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Lawyers for Mr Scott's family held a separate news conference in Charlotte on Wednesday. They called for peace in the streets and said they hoped to eventually obtain justice for Mr Scott.",
+            "Police and the press outnumbered protesters, according to CNN's Ryan Young. \"If we don't get no justice then you don't get no peace,\" they chanted. Police officers arrested at least four protesters as they were attempting to corral them off the streets. Three were taken into custody for obstructing traffic    a far cry from the dozens of arrests made during the last round of rallies.",
+            "In a statement to the press, Scott's family said they were \"profoundly disappointed\" but urged any protesters to remain peaceful: We wish to express our thanks and gratitude to Mecklenburg County District Attorney Andrew Murray, his office and the SBI for the respect they have shown the Scott family and for their willingness to explain how they conducted their investigation and the conclusions they reached."
+        ],
+        "tf-idf score": [
+            1.015798016293292,
+            0.613466619568936,
+            1.2504675315977825
+        ]
+    },
+    "0.18837079108605334-3-453": {
+        "average clique similarity": 0.18837079108605334,
+        "clique": [
+            "5-Murray said that no ",
+            "3-Vinson told authorit",
+            "2-Although North Carol"
+        ],
+        "median tf-idf score": 0.6681449029736563,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Murray said that no other officers fired.",
+            "Vinson told authorities that he felt Scott was \"an imminent threat\" to him and the other officers.",
+            "Although North Carolina is an   state, the pair sought   from other officers before trying to arrest Scott."
+        ],
+        "tf-idf score": [
+            0.6681449029736563,
+            0.9242633347364985,
+            0.6245242487515047
+        ]
+    },
+    "0.19103493538469832-3-321": {
+        "average clique similarity": 0.19103493538469832,
+        "clique": [
+            "0- What  the officer  ",
+            "2-The officers observe",
+            "1-The officers were pr"
+        ],
+        "median tf-idf score": 1.2660641585926458,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"What [the officer] saw was a man who had drawn a gun when confronted by police,\" Murray said.",
+            "The officers observed him roll marijuana, but only became concerned when they saw him holding a gun, Murray said.",
+            "The officers were prepared to ignore the drugs until Vinson saw that Scott was also holding a gun, Murray said."
+        ],
+        "tf-idf score": [
+            1.2660641585926458,
+            0.8841696057844844,
+            1.514370584263958
+        ]
+    },
+    "0.1932881770772947-3-87": {
+        "average clique similarity": 0.1932881770772947,
+        "clique": [
+            "1-Murray said Vinson d",
+            "6-Mr Scott s family re",
+            "5-The officers said th"
+        ],
+        "median tf-idf score": 1.3027570168540474,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "Murray said Vinson decided Scott was an \"imminent threat\" after Scott stepped out of his SUV with the gun.",
+            "Mr Scott's family released a statement on Wednesday that thanked Mr Murray and other officials for meeting with them, and explaining how they decided not to charge Officer Vinson, who was placed on administrative leave after the shooting.",
+            "The officers said they did not intend to apprehend Scott for such a minor offense, but then saw him with a gun in his car, and decided to leave the scene and return with marked cars."
+        ],
+        "tf-idf score": [
+            1.3027570168540474,
+            1.4498374180614986,
+            1.0821345601667072
+        ]
+    },
+    "0.1962232997682015-3-278": {
+        "average clique similarity": 0.1962232997682015,
+        "clique": [
+            "5-He said that two off",
+            "1-Scott  43  never rai",
+            "6-But in a letter to t"
+        ],
+        "median tf-idf score": 1.3202327048091143,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "He said that two officers, including Vinson, who is black, were in an unmarked van and wearing plainclothes, doing surveillance, when Scott pulled up next to them. They believed he was trying to look into the car, but then drove away.",
+            "Scott, 43, never raised or pointed the gun, according to the prosecutor, but Vinson felt he posed an imminent threat because he ignored orders to drop it and stared at them in a \"  state\". Scott's wife Rakeyia, who filmed some of his confrontation with police and the aftermath, insisted that he was not armed when he was killed.",
+            "But in a letter to the State Bureau of Investigation and the Charlotte police, Mr Murray said that an officer, like any other person, is \"justified in using deadly force if he reasonably believed, and in fact believed, that he or another person was in imminent danger of great bodily injury or death. \""
+        ],
+        "tf-idf score": [
+            1.3202327048091143,
+            1.2774013569414957,
+            1.4729129207792258
+        ]
+    },
+    "0.20447135263850535-3-267": {
+        "average clique similarity": 0.20447135263850535,
+        "clique": [
+            "5-Murray said officers",
+            "2-The video does not s",
+            "0-He s not going to do"
+        ],
+        "median tf-idf score": 1.2404694688549898,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Murray said officers ordered Scott to drop his gun at least 10 times, which he did not do as he exited his SUV, and so Vinson shot Scott four times, striking him in the wrist, abdomen, and shoulder.",
+            "The video does not show what Scott was holding in his hands, as he slowly moved backward and was shot four times.",
+            "He's not going to do anything to you guys. He just took his medicine\". Murray said the evidence proves that Rakeyia's testimony, as well as testimony from other witnesses who said Scott was not armed, was inaccurate."
+        ],
+        "tf-idf score": [
+            1.3770802591772107,
+            0.7758757798573513,
+            1.2404694688549898
+        ]
+    },
+    "0.20502384473414084-3-73": {
+        "average clique similarity": 0.20502384473414084,
+        "clique": [
+            "5-He said that 15 care",
+            "6-In Charlotte  North ",
+            "3-The unrest set off b"
+        ],
+        "median tf-idf score": 0.8900059240401681,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "He said that 15 career prosecutors had unanimously agreed on the decision. The shooting set off several days of protests, some violent, in Charlotte this fall. They laid bare strains in the relationship between the   police and the city's   population, as well as lingering racial and socioecononic tensions in the rapidly growing economic center.",
+            "In Charlotte, North Carolina's largest city, the shooting of Keith Scott set off days of protest, some of it violent, and led to immense public pressure on the police to release dashboard and body camera recordings of the episode.",
+            "The unrest set off by Scott's death left the city reeling and struggling to return to normal."
+        ],
+        "tf-idf score": [
+            0.8900059240401681,
+            0.9025594856907708,
+            0.4193582501318774
+        ]
+    },
+    "0.20828430973594556-3-470": {
+        "average clique similarity": 0.20828430973594556,
+        "clique": [
+            "5-He said he had met w",
+            "1-Officers told invest",
+            "3-While initial accoun"
+        ],
+        "median tf-idf score": 1.0319045838776335,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He said he had met with the Scott family earlier on Wednesday and that relatives had been \"gracious. \" He said the event was tragic and that no one should have to deal with it.",
+            "Officers told investigators that Scott, who had been taking prescription medication, \"had a blank stare as if he was in a   state\".",
+            "While initial accounts said that Scott was reading a book when he encountered police, state investigators found no evidence he had a book with him when he was shot."
+        ],
+        "tf-idf score": [
+            1.0319045838776335,
+            0.8975669987009077,
+            1.1989256876523362
+        ]
+    },
+    "0.2105886400788112-3-342": {
+        "average clique similarity": 0.2105886400788112,
+        "clique": [
+            "4-On Wednesday night  ",
+            "3-By 7 p  m  Wednesday",
+            "6-On Wednesday night  "
+        ],
+        "median tf-idf score": 0.4169826696048585,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "On Wednesday night, a handful of protesters mingled with police officers wearing bright yellow safety vests, making small talk in an attempt to build trust in the community. It was a start.",
+            "By 7 p. m. Wednesday, a small group of protesters wearing ponchos gathered in the rain outside the Charlotte police headquarters. The crowd gradually grew to a few dozen demonstrators over the next two hours as the rain receded.",
+            "On Wednesday night, dozens of protesters gathered outside the   Police Department's headquarters and marched to the center of the city."
+        ],
+        "tf-idf score": [
+            0.8136062319587886,
+            0.4169826696048585,
+            0.35080973913295316
+        ]
+    },
+    "0.21130638926573583-3-513": {
+        "average clique similarity": 0.21130638926573583,
+        "clique": [
+            "6-Mr Murray s announce",
+            "4-He noted that Vinson",
+            "3-     The officer who"
+        ],
+        "median tf-idf score": 1.1709740135568307,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Mr Murray's announcement came as a jury in Charleston, S C about a   drive southeast of Charlotte, was preparing to hear closing arguments in the case of Michael T Slager, a former North Charleston police officer who was on duty when he shot and killed Walter L Scott, a black man who was not related to Keith Scott, during a traffic stop and foot pursuit.",
+            "He noted that Vinson, who is black, was the only officer who shot Scott.",
+            "     The officer who fatally shot a Charlotte man in September will not be charged for the shooting, prosecutors said Wednesday, concluding that the man was armed and that the officer acted lawfully during the encounter."
+        ],
+        "tf-idf score": [
+            1.5391526240904183,
+            0.9348839886716357,
+            1.1709740135568307
+        ]
+    },
+    "0.2200551122976204-3-41": {
+        "average clique similarity": 0.2200551122976204,
+        "clique": [
+            "2- When they were inte",
+            "4-They all agreed with",
+            "3-Three of these peopl"
+        ],
+        "median tf-idf score": 0.8734613138287379,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"When they were interviewed by FBI later, they said they did not actually see the shooting despite their claims on social media or with the media,\" he said. Murray said a group of 15 \"career prosecutors\" were brought in to review the district attorney's review of the case, and they reached the same unanimous recommendation.",
+            "They all agreed with his decision. After meeting with Scott's family Wednesday morning, Murray told reporters he rejected a series of \"erroneous claims\" that were made in the days after the shooting.",
+            "Three of these people had said on social media or told reporters they thought Scott was unarmed, but investigators determined they never saw the shooting, Murray said."
+        ],
+        "tf-idf score": [
+            0.87274756612701,
+            0.8734613138287379,
+            1.2602841841592705
+        ]
+    },
+    "0.22379512236546908-3-162": {
+        "average clique similarity": 0.22379512236546908,
+        "clique": [
+            "5-Police Chief Kerr Pu",
+            "6-No charges  he said ",
+            "4-The fact that the of"
+        ],
+        "median tf-idf score": 0.6570096517738634,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "Police Chief Kerr Putney, who is also black, said ahead of the announcement that his officers were ready for whatever reaction met the decision.",
+            "No charges, he said, will be filed against the officer, Brentley Vinson, who is also black.",
+            "The fact that the officer is also black doesn't matter, some Charlotte residents said."
+        ],
+        "tf-idf score": [
+            0.7832064995624337,
+            0.6570096517738634,
+            0.610155955430232
+        ]
+    },
+    "0.23050666659446947-3-513": {
+        "average clique similarity": 0.23050666659446947,
+        "clique": [
+            "4-The deadly encounter",
+            "3-Police had previousl",
+            "2-Vinson and his partn"
+        ],
+        "median tf-idf score": 0.8419866740441968,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The deadly encounter started when police said they were looking for a person with an outstanding warrant at an apartment complex.",
+            "Police had previously released a photo of a \"blunt\" from the scene. Authorities said officers in an unmarked car in the apartment complex where the shooting occurred were conducting surveillance in an unrelated case when they saw Scott, in his own car, rolling the blunt with marijuana.",
+            "Vinson and his partner had been participating in a surveillance operation for an unrelated case in the parking lot of a Charlotte apartment complex when Scott parked his vehicle close to the police van."
+        ],
+        "tf-idf score": [
+            0.5675645651807631,
+            1.3550707455410778,
+            0.8419866740441968
+        ]
+    },
+    "0.2413205964879149-3-513": {
+        "average clique similarity": 0.2413205964879149,
+        "clique": [
+            "3-Vinson was not weari",
+            "2-His family had said ",
+            "0-Murray says that acc"
+        ],
+        "median tf-idf score": 1.0520736542060702,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "Vinson was not wearing a recording device at the time of the shooting, police said, but the department released other videos from the scene after intense pressure.",
+            "His family had said that he was holding a book, but officers said they only recovered a handgun at the scene.",
+            "Murray says that according to evidence recovered from the scene, testimony from officers and body camera footage from several of the officers, Scott emerged from his vehicle with a gun in his hand."
+        ],
+        "tf-idf score": [
+            1.0520736542060702,
+            0.9071567026150625,
+            1.1215534879311637
+        ]
+    },
+    "0.24464374551400278-3-513": {
+        "average clique similarity": 0.24464374551400278,
+        "clique": [
+            "4-Officers later descr",
+            "5-Scott was taking sev",
+            "2-Murray said officers"
+        ],
+        "median tf-idf score": 1.1220771460730616,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Officers later described it in a way that was consistent with the shape of a holster and gun, Murray said.",
+            "Scott was taking several medications, and officers said that he appeared to be in a \" \" state, consistent with the side effects of some of those medications.",
+            "Murray said officers who approached Scott later described him as having \"a blank stare as if he was in a   state\"  --   behavior he said was consistent with a medication prescribed to Scott."
+        ],
+        "tf-idf score": [
+            1.0880171015960238,
+            1.1220771460730616,
+            1.3397874549050222
+        ]
+    },
+    "0.24698128950580037-3-513": {
+        "average clique similarity": 0.24698128950580037,
+        "clique": [
+            "6-Mr Murray said that ",
+            "3-Police have said tha",
+            "4-Regardless  Murray s"
+        ],
+        "median tf-idf score": 1.2123477504703577,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Mr Murray said that Mr Scott never raised the gun at officers.",
+            "Police have said that Scott raised a gun at officers before Brentley Vinson, a black plainclothes officer in Charlotte, fired the fatal shots.",
+            "Regardless, Murray said, Scott \"could have raised his gun at any point\" to shoot officers."
+        ],
+        "tf-idf score": [
+            1.2123477504703577,
+            1.3936752457967616,
+            1.1703755044003081
+        ]
+    },
+    "0.2481597521049208-3-270": {
+        "average clique similarity": 0.2481597521049208,
+        "clique": [
+            "2-  WARNING  Graphic v",
+            "5-Mecklenburg County D",
+            "0-R Andrew Murray  the"
+        ],
+        "median tf-idf score": 1.483401523842154,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "' WARNING: Graphic video.' ' Read the district attorney's report:'] Scott was fatally shot by Officer Brentley Vinson on Sept. 20 while he was exiting his vehicle outside of an apartment complex.",
+            "Mecklenburg County District Attorney Andrew Murray said during a press conference that Vinson, an officer with the   Police Department, had acted reasonably in firing on Scott, whom Murray said had a handgun and was brandishing it in view of the officers.",
+            "R Andrew Murray, the Mecklenburg County district attorney, said during a news conference Wednesday that he was \"entirely convinced\" that   Police Officer Brentley Vinson \"was lawful in using deadly force\"."
+        ],
+        "tf-idf score": [
+            1.2084139636740479,
+            1.7389294711055163,
+            1.483401523842154
+        ]
+    },
+    "0.2523755670693066-3-513": {
+        "average clique similarity": 0.2523755670693066,
+        "clique": [
+            "3-Scott s family has d",
+            "4-Another Scott family",
+            "6-Members of Mr Scott "
+        ],
+        "median tf-idf score": 0.9067558002448812,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "Scott's family has disputed that the    pointed a gun at the officer and whether he had a gun.",
+            "Another Scott family attorney, Justin Bamberg, acknowledged that \"it's safe to say he did have a gun on his person,\" but there was no definitive proof that he had the gun in his hand.",
+            "Members of Mr Scott's family had claimed he had no gun at the time of the shooting, or they were unaware that he owned one. And when the recordings were released, they did not conclusively show whether Mr Scott had a gun, as the police had asserted."
+        ],
+        "tf-idf score": [
+            0.7612408713674389,
+            0.9067558002448812,
+            0.9613847958285507
+        ]
+    },
+    "0.25595518148376845-3-513": {
+        "average clique similarity": 0.25595518148376845,
+        "clique": [
+            "4-The district attorne",
+            "5-The prosecutor rejec",
+            "0-The district attorne"
+        ],
+        "median tf-idf score": 1.3574209692706836,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "The district attorney said while police reported seeing Scott with both marijuana and a gun, there was no evidence to show Scott raised the gun.",
+            "The prosecutor rejected speculation, based in part on analysis of photos from the scene, that Scott was unarmed, saying that several officers saw the gun and it was recovered, with Scott's DNA, at the scene, although Murray acknowledged that videos do not show the gun in Scott's hand.",
+            "The district attorney said there was no evidence that Scott raised the weapon, but he said that officers are put in real danger when a suspect has a gun in his hand."
+        ],
+        "tf-idf score": [
+            1.3141424113928817,
+            1.3574209692706836,
+            1.4332766829741739
+        ]
+    },
+    "0.26239975942843535-3-326": {
+        "average clique similarity": 0.26239975942843535,
+        "clique": [
+            "2- But the fact that c",
+            "5-On Wednesday  Murray",
+            "4-Murray said that whi"
+        ],
+        "median tf-idf score": 1.1632697580251259,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"But the fact that criminal charges are not appropriate under the law in this particular case does not mean we can dismiss the concerns expressed by those who raised their voices to raise the consciousness of this community,\" Murray said of the September protests that followed Scott's death.",
+            "On Wednesday, Murray said, \"I know that some out there are going to be frustrated. I want everyone in this community to know that we meticulously, thoroughly reviewed all of the evidence in this case, made sure it was credible evidence, in order to make the decision that we made today. \" He also scolded the public, calling on them to read his full report and warning them not to \"react viscerally on news snippets. \"",
+            "Murray said that while criminal charges are not appropriate, \"I know some are going to be frustrated\"."
+        ],
+        "tf-idf score": [
+            1.1632697580251259,
+            1.18709527643893,
+            0.5710498216805832
+        ]
+    },
+    "0.2738007997607483-3-513": {
+        "average clique similarity": 0.2738007997607483,
+        "clique": [
+            "6-Mr Scott s gun  a Co",
+            "3-He also said the gun",
+            "1-Murray said Scott wa"
+        ],
+        "median tf-idf score": 1.0840084135269776,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Mr Scott's gun, a Colt . 380 semiautomatic, fell to the ground after he was shot, Mr Murray said.",
+            "He also said the gun  --   a Colt.",
+            "Murray said Scott was illegally armed with a Colt . 380   which he had bought over Facebook."
+        ],
+        "tf-idf score": [
+            1.3027444917407038,
+            0.4287049033032482,
+            1.0840084135269776
+        ]
+    },
+    "0.2756255478729945-3-513": {
+        "average clique similarity": 0.2756255478729945,
+        "clique": [
+            "6-Mr Murray said the a",
+            "1-Murray showed a priv",
+            "0-Murray said that inv"
+        ],
+        "median tf-idf score": 1.1997582205152555,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Mr Murray said the authorities traced the gun and discovered that it had been stolen from a home and then illegally sold to Mr Scott 18 days before the shooting.",
+            "Murray showed a private online message written after the shooting by the man who sold Scott the gun. \"It's my fault he's dead,\" the message said. The prosecutor pleaded with those angered by his decision to read the findings of state investigators, and insisted that he would have brought charges if they had been warranted.",
+            "Murray said that investigators found the gun had been stolen and sold to Scott 18 days before his encounter with police."
+        ],
+        "tf-idf score": [
+            1.1969027623044222,
+            1.3563770939578046,
+            1.1997582205152555
+        ]
+    },
+    "0.27825288058904357-3-513": {
+        "average clique similarity": 0.27825288058904357,
+        "clique": [
+            "0-The Colt   380  acco",
+            "2-380   handgun was lo",
+            "3-380         was load"
+        ],
+        "median tf-idf score": 1.2226647893837188,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Colt . 380, according to Murray, had \"one round in the chamber,\" the safety was off and the weapon was cocked.",
+            "380   handgun was loaded with a bullet in the chamber. \"We cannot know what Mr Scott's intentions or reasoning were that day,\" Murray said. \"Officer Vinson could not know that at the time.",
+            "380    --   was loaded, the safety was off and a bullet was in the chamber. \"There's been some speculation in the community regarding whether Mr Scott was armed,\" Murray said."
+        ],
+        "tf-idf score": [
+            0.5355342277841736,
+            1.5482907572366909,
+            1.2226647893837188
+        ]
+    },
+    "0.2784792384475326-3-401": {
+        "average clique similarity": 0.2784792384475326,
+        "clique": [
+            "2-After Murray s annou",
+            "0-Charles Monnett  the",
+            "3-They also thanked Mu"
+        ],
+        "median tf-idf score": 1.1955873263832095,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "After Murray's announcement, Charles Monnett, an attorney for the Scott family, said they still questioned whether officers used effective   tactics.",
+            "Charles Monnett, the Scott family attorney, said family members are reviewing the evidence but that they still have concerns. Specifically, Monnett believes police could have   the situation and did not.",
+            "They also thanked Murray and investigators for sharing information about how the probe unfolded and concluded. Charles Monnett, an attorney for the family, suggested during a news conference that Scott's relatives may still seek a civil lawsuit against the police department or the city for the shooting, adding: \"We look forward to someday obtaining justice for Keith and his family. \""
+        ],
+        "tf-idf score": [
+            1.1955873263832095,
+            1.0659482294913254,
+            1.1995209629205545
+        ]
+    },
+    "0.28176710135836763-3-420": {
+        "average clique similarity": 0.28176710135836763,
+        "clique": [
+            "3-The shooting of Keit",
+            "4-Two months of tensio",
+            "6-The Sept  20 shootin"
+        ],
+        "median tf-idf score": 0.9032902153727697,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The shooting of Keith Lamont Scott on Sept. 20 set off days of heated, sometimes violent protests in Charlotte, some of the most intense demonstrations seen nationwide amid an increased focus on how police use deadly force.",
+            "Two months of tensions, Scott's death sparked massive protests    sometimes violent    and fueled the national debate about whether police are too quick to use deadly force, particularly against black men.",
+            "The Sept. 20 shooting of Mr Scott was one of several deadly police interactions with   that have sparked waves of street demonstrations and an impassioned national conversation about race and the use of deadly force by police officers."
+        ],
+        "tf-idf score": [
+            0.9032902153727697,
+            0.7493238110278521,
+            1.2502732417633304
+        ]
+    },
+    "0.28914885742503726-3-513": {
+        "average clique similarity": 0.28914885742503726,
+        "clique": [
+            "3- Diedra   Observer v",
+            "4-After the shooting  ",
+            "6-Subsequent analysis "
+        ],
+        "median tf-idf score": 0.9268242854129701,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "(Diedra   Observer via AP)  In a letter to Bob Schurmeier, head of the North Carolina Bureau of Investigation, and Kerr Putney, chief of the   police force, Murray said that evidence included DNA on the gun's grip and slide, officers discussing seeing the gun on the radio before the shooting and a person admitting they illegally sold Scott the same gun found at the shooting scene.",
+            "After the shooting, Scott's relatives said he didn't have a gun, but investigators found his DNA on the grip of a gun found at the scene.",
+            "Subsequent analysis found Mr Scott's DNA on the weapon."
+        ],
+        "tf-idf score": [
+            1.6840445344196178,
+            0.9268242854129701,
+            0.46410370975017723
+        ]
+    },
+    "0.289275200218979-3-29": {
+        "average clique similarity": 0.289275200218979,
+        "clique": [
+            "6-Mr Murray also noted",
+            "0-The case became nati",
+            "3-In a recording of th"
+        ],
+        "median tf-idf score": 1.0997510138370143,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "Mr Murray also noted that Mr Scott's wife, Rakeyia, had said that she was \"certain\" her husband did not have any guns after January 2016.",
+            "The case became national news after Scott's wife, Rakeyia, released cellphone video of his encounter with police. She is heard pleading with police not to shoot him. \"He doesn't have a gun,\" Rakeyia is heard saying in the video. \"He has a TBI [a traumatic brain injury].",
+            "In a recording of the shooting taken by Scott's wife, Rakeyia, she can be heard yelling at the officers that her husband was unarmed while pleading with them not to fire. \"Don't shoot him,\" she says in the video. \"Don't shoot him. He has no weapon. He has no weapon."
+        ],
+        "tf-idf score": [
+            1.293332376216032,
+            1.0141551058917144,
+            1.0997510138370143
+        ]
+    },
+    "0.2927342773220251-3-258": {
+        "average clique similarity": 0.2927342773220251,
+        "clique": [
+            "3-Don t shoot him    I",
+            "2-In a lengthy press c",
+            "6-On Wednesday  in a  "
+        ],
+        "median tf-idf score": 1.491783458841516,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "Don't shoot him. \" In his report on the shooting, Murray said that officers called on Scott to drop his gun 10 times before he got out of his SUV and continued saying it after he was out of the car.",
+            "In a lengthy press conference on Wednesday in which he meticulously laid out the details of the investigation, Andrew Murray, the Mecklenburg County district attorney, said Vinson's use of deadly force was lawful because he feared for his life.",
+            "On Wednesday, in a   news conference that at times took on the feel of a courtroom argument, R Andrew Murray, the district attorney for Mecklenburg County, laid out a case that Mr Scott, who was black, had a gun in his hands and had not heeded warnings to drop it when he was shot and killed."
+        ],
+        "tf-idf score": [
+            1.6301957677925434,
+            1.1629342217764573,
+            1.491783458841516
+        ]
+    },
+    "0.3061639542867695-3-222": {
+        "average clique similarity": 0.3061639542867695,
+        "clique": [
+            "1-But all of the polic",
+            "2-He was struck in the",
+            "3-After the shooting  "
+        ],
+        "median tf-idf score": 1.668347367141835,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But all of the police officers at the scene said that Scott was indeed holding the weapon, according to Murray, who said the gun was recovered and found to be loaded and bearing Scott's DNA \"All of the credible and available evidence suggests that he was in fact armed,\" said Murray.",
+            "He was struck in the wrist, abdomen, and rear shoulder. Murray said Scott's DNA and fingerprints were found on the slide and grip of a gun recovered at the scene. The Colt .",
+            "After the shooting, police released photos of a gun and ankle holster, and authorities said that gun was loaded and had Scott's fingerprints and DNA During the news conference, Murray pored over details from the day of the shooting, ultimately saying he had no doubt that Scott had a gun during the encounter."
+        ],
+        "tf-idf score": [
+            1.8153683287692965,
+            1.3015789211807167,
+            1.668347367141835
+        ]
+    },
+    "0.3294124319406971-3-513": {
+        "average clique similarity": 0.3294124319406971,
+        "clique": [
+            "4-Murray said that  al",
+            "3- All of the credible",
+            "6-A successful prosecu"
+        ],
+        "median tf-idf score": 1.1325692336196471,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "Murray said that \"all the credible evidence\" led to the conclusion that Scott was armed.",
+            "\"All of the credible and available evidence suggests that he was, in fact, armed. \" District Attorney Andrew Murray discussing evidence as he announced the decision Wednesday.",
+            "A successful prosecution would be even more difficult, Dr Alpert said, because the evidence indicated that Mr Scott was armed, and that he did not comply with orders from the police to drop his weapon."
+        ],
+        "tf-idf score": [
+            1.1325692336196471,
+            0.7431034795791239,
+            1.2726935402702875
+        ]
+    },
+    "0.3484893584618949-3-3": {
+        "average clique similarity": 0.3484893584618949,
+        "clique": [
+            "3-During the briefing ",
+            "5-Murray showed survei",
+            "6-Mr Murray said it wa"
+        ],
+        "median tf-idf score": 1.359202519008822,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "During the briefing, Murray also showed surveillance video footage from the same day showing a bulge in Scott's ankle that he said was consistent with a holster and a gun.",
+            "Murray showed surveillance video from a convenience store, and said that a bulge visible on Scott's right ankle was a holster.",
+            "Mr Murray said it was consistent with the officers' assertion that Mr Scott was wearing an ankle holster."
+        ],
+        "tf-idf score": [
+            1.3596086844452424,
+            1.1909275468062774,
+            1.359202519008822
+        ]
+    },
+    "0.34961871301648756-3-513": {
+        "average clique similarity": 0.34961871301648756,
+        "clique": [
+            "0-Officers told him to",
+            "2-What he saw was a ma",
+            "4-The prosecutor said "
+        ],
+        "median tf-idf score": 0.9211332424323238,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "Officers told him to drop the gun 10 times before Vinson opened fire, hitting Scott twice.",
+            "What he saw was a man who had drawn a gun when confronted by police, exited a vehicle with a gun in hand, and failed to comply with officers who commanded him at least 10 times to put the gun down. \"",
+            "The prosecutor said that officers told Scott at least 10 times to drop the weapon before Vinson opened fire."
+        ],
+        "tf-idf score": [
+            0.8520056557940892,
+            0.9211332424323238,
+            1.042895096660067
+        ]
+    },
+    "0.36502443275371715-3-513": {
+        "average clique similarity": 0.36502443275371715,
+        "clique": [
+            "5-Officer Brentley Vin",
+            "1-No state criminal ch",
+            "0-A police officer in "
+        ],
+        "median tf-idf score": 1.0308513536870914,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Officer Brentley Vinson will not face any criminal charges in the shooting death of Keith Lamont Scott in Charlotte, North Carolina, in September, a prosecutor announced Wednesday morning.",
+            "No state criminal charges will be brought against the police officer who fatally shot Keith Scott in North Carolina earlier this year, prosecutors announced on Wednesday.",
+            "A police officer in Charlotte, N C will not face charges in the shooting death of Keith Lamont Scott."
+        ],
+        "tf-idf score": [
+            1.094529016458375,
+            1.0308513536870914,
+            0.9604264970235713
+        ]
+    },
+    "0.3880401263032603-3-52": {
+        "average clique similarity": 0.3880401263032603,
+        "clique": [
+            "1-Andrew Murray  the d",
+            "3- It s a justified sh",
+            "6- It s a justified sh"
+        ],
+        "median tf-idf score": 0.7838598328827922,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Andrew Murray, the district attorney in Charlotte, said that officer Brentley Vinson's shooting of Scott in September was justified because Scott refused to drop a gun held at his side.",
+            "\"It's a justified shooting based on the totality of the circumstances,\" R Andrew Murray, district attorney for Mecklenburg County, said during a news conference.",
+            "\"It's a justified shooting based on the totality of the circumstances,\" Mr Murray said."
+        ],
+        "tf-idf score": [
+            1.7796002278017653,
+            0.7838598328827922,
+            0.6741504059429028
+        ]
+    },
+    "0.44401853546382897-5-145": {
+        "average clique similarity": 0.44401853546382897,
+        "clique": [
+            "3- All our family want",
+            "1- All our family want",
+            "2-All our family wante",
+            "6- All our family want",
+            "5-But Murray acknowled"
+        ],
+        "median tf-idf score": 1.0437266646867724,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "New York Times",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"All our family wanted was justice and for these members of law enforcement to understand that what they did was wrong. \"",
+            "\"All our family wanted was justice and for these members of law enforcement to understand that what they did was wrong,\" they said. Acknowledging that the announcement would cause frustration among some residents, Murray said: \"We meticulously, thoroughly, reviewed all of the evidence in this case. \"",
+            "All our family wanted was justice and for these members of law enforcement to understand that what they did was wrong. We respectfully ask that you please keep any protests that may occur peaceful. Responding to violence with violence is never an appropriate response. This is just one more step in our quest for justice. District Attorney Murray urged the community to \"take a collective pause\" and \"read\" and \"digest\" the report on the shooting before passing judgment.",
+            "\"All our family wanted was justice and for these members of law enforcement to understand that what they did was wrong,\" the family statement said.",
+            "But Murray acknowledged \"  frustration\" in the community, and rejected the refrain, sometimes heard in the midst of protests, that the demonstrations did not reflect the city as it was known. \"This is Charlotte. This is where our friends, families, neighbors, and colleagues felt so passionate that they marched on our streets to call for change,\" he said."
+        ],
+        "tf-idf score": [
+            0.4279690344396943,
+            1.0766528832339384,
+            1.0437266646867724,
+            0.7339031429066547,
+            1.0871271078027047
+        ]
+    },
+    "0.46478882199037236-3-513": {
+        "average clique similarity": 0.46478882199037236,
+        "clique": [
+            "5- It is my opinion th",
+            "2- After a thorough re",
+            "1- It is my opinion th"
+        ],
+        "median tf-idf score": 1.193882895152912,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"It is my opinion that Officer Vinson acted lawfully when he shot Keith Scott,\" Murray said.",
+            "\"After a thorough review and given the totality of the circumstances and credible evidence in this case, it is my opinion that Officer Vinson acted lawfully when he shot Mr Scott,\" Murray told reporters.",
+            "\"It is my opinion that officer Vinson acted lawfully when he shot Mr Scott,\" Murray said at a press conference. \"He acted lawfully. \""
+        ],
+        "tf-idf score": [
+            1.193882895152912,
+            1.1696911302532562,
+            1.2979820781338882
+        ]
+    },
+    "0.499254756518317-4-19": {
+        "average clique similarity": 0.499254756518317,
+        "clique": [
+            "3- While we understand",
+            "2-We are profoundly di",
+            "4- We ask that everyon",
+            "1-They urged that  eve"
+        ],
+        "median tf-idf score": 0.9898407755634389,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"While we understand that many in the Charlotte area share our frustration and pain, we ask that everyone work together to fix the system that allowed this tragedy to happen in the first place,\" the Scott family said in a statement released through their attorneys.",
+            "We are profoundly disappointed in their decision not to criminally charge Officer Brantley Vinson for his actions in taking the life of Keith Lamont Scott. While we understand that many in the Charlotte area share our frustration and pain, we ask that everyone work together to fix the system that allowed this tragedy to happen in the first place.",
+            "\"We ask that everyone work together to fix the system that allowed this tragedy to happen in the first place,\" the Scott family said in a statement.",
+            "They urged that \"everyone work together to fix the system\" that led to Scott's death. Authorities said police were waiting to serve an arrest warrant on someone else and noticed Scott had a marijuana \"blunt\" as he sat in his SUV in the parking lot outside his home."
+        ],
+        "tf-idf score": [
+            0.9791805207576157,
+            1.0005010303692619,
+            0.7817320903933309,
+            1.0189146818715122
+        ]
+    },
+    "0.6128915302618139-3-122": {
+        "average clique similarity": 0.6128915302618139,
+        "clique": [
+            "6-The family also said",
+            "3-Scott s family said ",
+            "1-In a statement  Scot"
+        ],
+        "median tf-idf score": 0.7626303431219008,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "The family also said they were \"profoundly disappointed\" that Officer Vinson was not criminally charged.",
+            "Scott's family said they were \"profoundly disappointed\" by the announcement.",
+            "In a statement, Scott's family said they were \"profoundly disappointed\" by the decision."
+        ],
+        "tf-idf score": [
+            0.9148545985151761,
+            0.7185494920817784,
+            0.7626303431219008
+        ]
+    }
+}

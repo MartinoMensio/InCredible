@@ -1,0 +1,402 @@
+{
+    "0.20962819783769124-3-119": {
+        "average clique similarity": 0.20962819783769124,
+        "clique": [
+            "1- We saw that Terence",
+            "3-When asked why polic",
+            "4-We have one suspect "
+        ],
+        "median tf-idf score": 0.16953319757638577,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cWe saw that Terence did not have any weapon.",
+            "When asked why police did not provide immediate assistance once Crutcher was down, MacKenzie said: \u201cI don\u2019t know that we have protocol on how to render aid to people.",
+            "We have one suspect down."
+        ],
+        "tf-idf score": [
+            0.16953319757638577,
+            1.0088960669744513,
+            0.009659979576233265
+        ]
+    },
+    "0.24873301397945344-3-127": {
+        "average clique similarity": 0.24873301397945344,
+        "clique": [
+            "3-An unarmed black man",
+            "4-As Crutcher approach",
+            "2-The police said Crut"
+        ],
+        "median tf-idf score": 1.0277575170883555,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "An unarmed black man killed by a white Oklahoma police officer can be seen on video walking away from officers and toward his SUV with his hands up before he approaches the driver\u2019s side door, where he drops to the ground after being shocked with a stun gun and then fatally shot.",
+            "As Crutcher approaches the SUV, three male officers walk up and Crutcher appears to lower his hands and place them on the vehicle.",
+            "The police said Crutcher approached the responding officers and failed to put his hands up\u201d."
+        ],
+        "tf-idf score": [
+            1.2981650822585347,
+            0.6800494727445883,
+            1.0277575170883555
+        ]
+    },
+    "0.2597803462625197-3-236": {
+        "average clique similarity": 0.2597803462625197,
+        "clique": [
+            "1-  The footage comes ",
+            "0-Police spokeswoman J",
+            "3-Two 911 calls descri"
+        ],
+        "median tf-idf score": 0.661997395047189,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d The footage comes from the dashboard camera of a police car that responded to a report of a stalled SUV in the middle of the road in Tulsa.",
+            "Police spokeswoman Jeanne MacKenzie had earlier told reporters that two officers were walking toward the stalled SUV when Crutcher approached them from the side of the road.",
+            "Two 911 calls described an SUV that had been abandoned in the middle of the road."
+        ],
+        "tf-idf score": [
+            0.661997395047189,
+            0.9331438126293433,
+            0.12128020052425734
+        ]
+    },
+    "0.282833165757826-3-236": {
+        "average clique similarity": 0.282833165757826,
+        "clique": [
+            "4-TULSA  Okla       An",
+            "0- Black man shot by T",
+            "1-Please follow the st"
+        ],
+        "median tf-idf score": 1.410590343078738,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "TULSA, Okla.  \u2014   An unarmed black man fatally shot by a white Tulsa, Oklahoma, officer responding to a stalled vehicle last week can be seen in police dashcam video walking toward his SUV with his hands up and officers following behind him before he\u2019s shocked with a stun gun and then fatally shot.",
+            "[Black man shot by Tulsa police had hands \u2018in the air,\u2019 says pastor who reviewed video of the shooting]   \u201cPlease maintain the peace,\u201d Jordan urged.",
+            "Please follow the steps below, NEWS BRIEF Footage released Monday by Tulsa police shows    Terence Crutcher was unarmed and held his hands in the air when he was fatally shot by officers last week."
+        ],
+        "tf-idf score": [
+            1.410590343078738,
+            0.8921290739418906,
+            1.5615075712539952
+        ]
+    },
+    "0.2854411130509475-3-236": {
+        "average clique similarity": 0.2854411130509475,
+        "clique": [
+            "3-  Police chief Chuck",
+            "0-  Jordan said invest",
+            "1-Police said he died "
+        ],
+        "median tf-idf score": 1.1264693624323794,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d Police chief Chuck Jordan announced before the video and audio recordings were released that Crutcher had no weapon on him or in his vehicle when he was shot on Friday.",
+            "\u201d Jordan said investigators never found a weapon on Terence Crutcher or in his vehicle after the    was shot and killed Friday as he stood beside his stalled SUV Crutcher died in a hospital later that evening.",
+            "Police said he died Friday night in a hospital after the shooting."
+        ],
+        "tf-idf score": [
+            1.1264693624323794,
+            1.1372151331940756,
+            0.6367351032683948
+        ]
+    },
+    "0.2972717878082065-3-28": {
+        "average clique similarity": 0.2972717878082065,
+        "clique": [
+            "0- He refused to follo",
+            "3-Initial police brief",
+            "1-Police spokeswoman J"
+        ],
+        "median tf-idf score": 1.0947142171660953,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cHe refused to follow commands given by the officers,\u201d MacKenzie said.",
+            "Initial police briefings indicated Crutcher was not obeying officers\u2019 commands, but MacKenzie said Monday she didn\u2019t know what Crutcher was doing that prompted police to shoot.",
+            "Police spokeswoman Jeanne MacKenzie said Saturday that Crutcher refused the officers\u2019 commands to put his hands up."
+        ],
+        "tf-idf score": [
+            0.5344180968268216,
+            1.2806527475244829,
+            1.0947142171660953
+        ]
+    },
+    "0.2985277314858567-3-194": {
+        "average clique similarity": 0.2985277314858567,
+        "clique": [
+            "4-Tulsa Police Chief C",
+            "0- We asked questions ",
+            "2-    Video of the pol"
+        ],
+        "median tf-idf score": 1.628041292414438,
+        "publications": [
+            "Business Insider",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Tulsa Police Chief Chuck Jordan announced Monday before the department released the shooting footage that    Terence Crutcher had no weapon on him or in his SUV Police said local and federal investigators are looking into Friday\u2019s shooting to determine whether there should be criminal charges or if Crutcher\u2019s civil rights were violated.",
+            "\u201cWe asked questions of the police officers and the chief of police, who was there,\u201d Owens said.",
+            "\u2019\u2019 \u2019Video of the police fatally shooting an unarmed black man in Tulsa, Oklahoma, was released Monday.\u2019 \u2019The video, taken from a police dashcam, shows    Terence Crutcher walking away from several police officers with his hands up before the police used a stun gun and then fatally shot him, the .\u2019 \u2019At a news conference on Monday, Tulsa Police Chief Chuck Jordan said Crutcher did not have a weapon during the Friday stop.\u2019 \u2019Local and federal investigators are weighing the possibility of filing criminal charges or   violations over the fatal shooting.\u2019 \u2019\u201dI want to assure our community and I want to assure all of you and people across the nation watching this: We will achieve justice,\u201d Jordan said.\u2019 \u201dThe police said the incident began Friday when officers found Crutcher\u2019s white SUV in the middle of a road while en route to an unrelated call."
+        ],
+        "tf-idf score": [
+            1.628041292414438,
+            0.9114449541843761,
+            3.0342553210452636
+        ]
+    },
+    "0.3221667056829983-3-236": {
+        "average clique similarity": 0.3221667056829983,
+        "clique": [
+            "0-Officer Betty Shelby",
+            "1-Shelby  who has serv",
+            "4-Shelby  who was plac"
+        ],
+        "median tf-idf score": 0.8258672004839366,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "Officer Betty Shelby, who has been with the force since 2011, fired her service weapon, and officer Tyler Turnbough, who was hired in 2009, deployed his Taser, police said.",
+            "Shelby, who has served as an officer in Tulsa since 2011, was placed on paid leave.",
+            "Shelby, who was placed on paid leave, was hired in December 2011, while Turnbough was hired in January 2009, police said."
+        ],
+        "tf-idf score": [
+            1.1664568153384598,
+            0.625075594630641,
+            0.8258672004839366
+        ]
+    },
+    "0.332983684619972-3-236": {
+        "average clique similarity": 0.332983684619972,
+        "clique": [
+            "0-         Tulsa  Okla",
+            "3-In Tulsa  the police",
+            "1-Police released the "
+        ],
+        "median tf-idf score": 1.1328782884332875,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "         Tulsa, Okla.  police released video footage Monday that shows a white police officer fatally shooting an unarmed black man  \u2014   footage that the city\u2019s police chief called \u201cvery disturbing.",
+            "In Tulsa, the police helicopter footage was among several clips released on Monday showing the shooting of    Terence Crutcher and its aftermath.",
+            "Police released the footage Monday."
+        ],
+        "tf-idf score": [
+            1.2147700366146923,
+            1.1328782884332875,
+            0.4128160550962225
+        ]
+    },
+    "0.34525871024102744-3-236": {
+        "average clique similarity": 0.34525871024102744,
+        "clique": [
+            "1-  Danny Williams  th",
+            "4-US Attorney Danny C ",
+            "0-  U S Attorney Danny"
+        ],
+        "median tf-idf score": 0.498129169824513,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d Danny Williams, the U S attorney for the Northern District of Oklahoma, said the Department of Justice would conduct a separate   investigation.",
+            "US Attorney Danny C Williams said the Department of Justice\u2019s civil rights investigation into the shooting will be separate from a local one into whether criminal charges should be filed.",
+            "\u201d U S Attorney Danny Williams has announced that the Justice Department has opened an independent investigation into the shooting."
+        ],
+        "tf-idf score": [
+            0.498129169824513,
+            0.6967053620355576,
+            0.33960181396755484
+        ]
+    },
+    "0.3548416218737467-4-236": {
+        "average clique similarity": 0.3548416218737467,
+        "clique": [
+            "4-The police video sho",
+            "2- The video footage  ",
+            "0-Video shows Crutcher",
+            "1-The video shows the "
+        ],
+        "median tf-idf score": 0.9662274769104877,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The police video shows Crutcher walking toward his SUV with his hands up and a female officer following him.",
+            "\u2019The video footage, however, shows Crutcher walking away from the police with his hands on his head before stopping at a vehicle.\u2019 \u2019\u201dWe saw that Terence did not have any weapon,\u201d said Damario   an attorney representing Crutcher\u2019\u2019s family.",
+            "Video shows Crutcher walking toward his vehicle with his hands above his head while several officers follow closely behind him with weapons raised.",
+            "The video shows the car arriving at the scene, where another police car is stopped behind the disabled SUV Crutcher can be seen walking away from the cop cars and toward the driver\u2019s side of his car, with his hands raised over his head."
+        ],
+        "tf-idf score": [
+            0.9627112939066185,
+            1.3774028281255681,
+            0.7913859893025412,
+            0.9697436599143571
+        ]
+    },
+    "0.4019173560041216-3-108": {
+        "average clique similarity": 0.4019173560041216,
+        "clique": [
+            "0- The first time I wa",
+            "1- We will do the righ",
+            "3- We will achieve jus"
+        ],
+        "median tf-idf score": 0.13869205593527342,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cThe first time I watched it I watched it with the family   \u2026     we will do the right thing, we will not cover anything up.",
+            "\u201cWe will do the right thing \u2014  we will not cover anything up.",
+            "\u201cWe will achieve justice in this case,\u201d Jordan said."
+        ],
+        "tf-idf score": [
+            0.13869205593527342,
+            0.058902946473277894,
+            0.3396914786772944
+        ]
+    },
+    "0.41353115329800993-4-71": {
+        "average clique similarity": 0.41353115329800993,
+        "clique": [
+            "1-One of the officers ",
+            "4-After that a voice c",
+            "0- Shots fired   a fem",
+            "3-A man in the helicop"
+        ],
+        "median tf-idf score": 0.43469331099091335,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "One of the officers\u2019 voices can be heard saying, \u201cShots fired.",
+            "After that a voice can be heard on the police radio saying, \u201cShots fired.",
+            "\u201cShots fired!\u201d a female voice can be heard yelling.",
+            "A man in the helicopter that arrives above the scene as Crutcher walks to the vehicle can be heard saying: \u201cTime for a Taser."
+        ],
+        "tf-idf score": [
+            0.40745630509234937,
+            0.4619303168894773,
+            0.19215066626761512,
+            0.47373477018582133
+        ]
+    },
+    "0.42915041164494233-4-34": {
+        "average clique similarity": 0.42915041164494233,
+        "clique": [
+            "4-Tulsa officer Betty ",
+            "2-    The Department o",
+            "3-  Police say Tulsa o",
+            "1-The second  Betty Sh"
+        ],
+        "median tf-idf score": 1.3276867398142391,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Tulsa officer Betty Shelby fired the fatal shot, while officer Tyler Turnbough used a stun gun on Crutcher, police said.",
+            "\u201d\u2019 \u2019The Department of Justice is conducting a   investigation that is separate from the local investigation.\u2019 \u2019\u201dThe  is committed to investigating allegations of force by   officers and will devote whatever resources are necessary to ensure that all allegations of serious   violations are fully and completely investigated,\u201d US Attorney Danny C Williams said.\u2019 \u2019Betty Shelby, a Tulsa police officer since December 2011, fired the shot that killed Crutcher, while Tyler Turnbough, on the force since January 2009, used the stun gun on him.",
+            "\u201d Police say Tulsa officer Betty Shelby fired the fatal shot, while officer Tyler Turnbough used a stun gun on Crutcher.",
+            "The second, Betty Shelby, fired the shot that killed him."
+        ],
+        "tf-idf score": [
+            1.4246654065267663,
+            2.030522957446064,
+            1.230708073101712,
+            0.2715325238537987
+        ]
+    },
+    "0.43024346658169116-4-6": {
+        "average clique similarity": 0.43024346658169116,
+        "clique": [
+            "4-We saw that Terence ",
+            "2-We saw that Terence ",
+            "0- It was reported tha",
+            "1-We saw that Terence "
+        ],
+        "median tf-idf score": 0.9490815687280012,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "We saw that Terence was not being belligerent,\u201d one of the attorneys for Crutcher\u2019s family, Damario   said at a news conference separate from one police held.",
+            "We saw that Terence was not being belligerent.",
+            "\u201cIt was reported that Terence died at the hospital, that is not true,\u201d said Demario Solomon Simmons, one of the attorneys for Crutcher\u2019s family.",
+            "We saw that Terence was not being belligerent,\u201d Damario   an attorney for Crutcher\u2019s family, said in a press conference Monday."
+        ],
+        "tf-idf score": [
+            1.2342979304436164,
+            0.3226702468392841,
+            0.8737553828621648,
+            1.0244077545938375
+        ]
+    },
+    "0.4408238537628184-3-90": {
+        "average clique similarity": 0.4408238537628184,
+        "clique": [
+            "2-Both officers are wh",
+            "0-Both officers were p",
+            "3-Both officers are wh"
+        ],
+        "median tf-idf score": 0.2498552622181914,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Both officers are white.\u2019 \u2019\u2019",
+            "Both officers were placed on administrative leave with pay.",
+            "Both officers are white, MacKenzie said Monday."
+        ],
+        "tf-idf score": [
+            0.24845590204983423,
+            0.2498552622181914,
+            0.5745548274200506
+        ]
+    }
+}

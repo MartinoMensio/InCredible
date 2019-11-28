@@ -1,0 +1,638 @@
+{
+    "0.1752226991656177-3-116": {
+        "average clique similarity": 0.1752226991656177,
+        "clique": [
+            "0-Christie said he was",
+            "2-Criticized Trump For",
+            "3-As the governor of N"
+        ],
+        "median tf-idf score": 0.9463936455765775,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Christie said he was not offered any position by Trump and intends to serve out the remainder of his governorship in New Jersey and eventually work in the private sector with the hopes of one day making more money than his wife, who works as an investment banker.",
+            "Criticized Trump For Not Correcting Man Who Said Obama Is Muslim, The New Jersey governor criticized Trump for failing to correct an audience member who said that President Obama is a Muslim and that Muslims are a \u201dproblem in this country\u201d.",
+            "As the governor of New Jersey, Christie likely had more interactions with Trump than anyone else who is running (or did run) for the Republican nomination."
+        ],
+        "tf-idf score": [
+            1.2567340035231842,
+            0.9382397572372594,
+            0.9463936455765775
+        ]
+    },
+    "0.17643308407549937-3-139": {
+        "average clique similarity": 0.17643308407549937,
+        "clique": [
+            "0-Todd Harris told rep",
+            "1-Trump strategically ",
+            "2-The press isn t bein"
+        ],
+        "median tf-idf score": 0.9703888988991127,
+        "publications": [
+            "Breitbart",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "Todd Harris told reporters traveling with the Florida senator that, \u201dDonald Trump can\u2019t put a coherent noun and verb together to explain any of these things, so he had to bring in someone like Chris Christie to try to do it for him.",
+            "Trump strategically deployed Christie to respond to Rubio after the Florida Senator attacked Trump this morning for being a \u201c .",
+            "The press isn\u2019t being nice to me, I\u2019m not going to hold any more press conferences?\u201d Called Trump \u201d \u201d Christie also told Boston Herald Radio that Trump\u2019s decision to skip the debate showed that the real estate mogul is \u201d \u201d."
+        ],
+        "tf-idf score": [
+            0.9841922894709477,
+            0.8730808620421273,
+            0.9703888988991127
+        ]
+    },
+    "0.26464501855754546-3-198": {
+        "average clique similarity": 0.26464501855754546,
+        "clique": [
+            "2-Perhaps stung by Chr",
+            "4-    In a joint press",
+            "3- I wrote a piece abo"
+        ],
+        "median tf-idf score": 0.802673624945813,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Perhaps stung by Christie\u2019s barbs, Trump even noted earlier this month that Christie \u201dused to be a friend\u201d but things had changed.",
+            "\u201d\u2019 \u2019In a joint press conference in Fort Worth it was all   and bonhomie between the two formal rivals.\u2019 \u2019But way back  \u2014   er, two weeks ago  \u2014   when Christie was still a candidate in the presidential race, he was targeting The Donald just like the other GOP  .\u2019 \u201dPerhaps stung by Christie\u2019s barbs, Trump even noted earlier this month that Christie  but things had changed.",
+            "(I wrote a piece about Trump\u2019s vice presidential list earlier this week; Christie didn\u2019t make the cut then but would now.)"
+        ],
+        "tf-idf score": [
+            0.7775940240594723,
+            1.253334383031584,
+            0.802673624945813
+        ]
+    },
+    "0.30288642886672706-3-242": {
+        "average clique similarity": 0.30288642886672706,
+        "clique": [
+            "3-The only question an",
+            "0-The endorsement was ",
+            "2-In a joint press con"
+        ],
+        "median tf-idf score": 0.2376762293769453,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "The only question anyone was asking in the wake of the endorsement was \u201dwhy\u201d?",
+            "The endorsement was announced at a news conference in Fort Worth, Texas.",
+            "In a joint press conference in Fort Worth it was all   and bonhomie between the two formal rivals."
+        ],
+        "tf-idf score": [
+            0.17784469525117427,
+            0.27197919321689634,
+            0.2376762293769453
+        ]
+    },
+    "0.31013468078371764-3-62": {
+        "average clique similarity": 0.31013468078371764,
+        "clique": [
+            "1-Trump used Christie ",
+            "2-Suggested Trump Didn",
+            "4-    During a January"
+        ],
+        "median tf-idf score": 1.0445427715089481,
+        "publications": [
+            "Business Insider",
+            "Breitbart",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Trump used Christie\u2019s appearance with him to remind reporters of Rubio\u2019s disastrous debate performance against the New Jersey governor in New Hampshire.",
+            "Suggested Trump Didn\u2019t Have Enough Experience, During a January town hall in New Hampshire, Christie pointed out that he has more experience than Trump.",
+            "\u201d\u2019 \u2019During a January town hall in New Hampshire, Christie pointed out that he has more experience than Trump.\u2019 \u2019\u201dI tell everybody who goes to a Donald Trump event, if you get to ask a question, just ask him \u2019\u2019how?"
+        ],
+        "tf-idf score": [
+            1.0753046694290243,
+            0.8677857458761706,
+            1.0445427715089481
+        ]
+    },
+    "0.31171999685495155-3-7": {
+        "average clique similarity": 0.31171999685495155,
+        "clique": [
+            "2-I don t think if we ",
+            "4- This is not negotia",
+            "3-By endorsing Trump r"
+        ],
+        "median tf-idf score": 0.7224251072515292,
+        "publications": [
+            "Washington Post",
+            "Talking Points Memo",
+            "Business Insider"
+        ],
+        "sentences": [
+            "I don\u2019t think if we present him with a bill he\u2019s going to pay for it,\u201d Christie said on CNN \u201dThis is not negotiation of a real estate deal, OK?",
+            "\u201dThis is not negotiation of a real estate deal, OK?",
+            "By endorsing Trump right now    the real estate mogul is on the verge of seizing a commanding lead on Super Tuesday    Christie puts himself in position to be considered for the national ticket."
+        ],
+        "tf-idf score": [
+            0.7224251072515292,
+            0.0921223260293176,
+            0.8879638523606672
+        ]
+    },
+    "0.33704406993938935-3-242": {
+        "average clique similarity": 0.33704406993938935,
+        "clique": [
+            "2-That s  in my view  ",
+            "4-That  s  in my view ",
+            "1- Our family is one t"
+        ],
+        "median tf-idf score": 0.055136387863091274,
+        "publications": [
+            "Talking Points Memo",
+            "Business Insider",
+            "Breitbart"
+        ],
+        "sentences": [
+            "That\u2019s, in my view, that\u2019s a ridiculous position and one that won\u2019t even be productive\u201d.",
+            "That\u2019\u2019s, in my view, that\u2019\u2019s a ridiculous position and one that won\u2019\u2019t even be productive.",
+            "\u201cOur family is one that prides loyalty and the fact is that we\u2019ve been have good friends with Donald and his family for many years and there was no choice in my mind,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.055136387863091274,
+            0.055136387863091274,
+            0.5115268721923468
+        ]
+    },
+    "0.3372441989862161-4-223": {
+        "average clique similarity": 0.3372441989862161,
+        "clique": [
+            "4-    Christie  to ban",
+            "0-She says  they never",
+            "2-Said Trump s Propose",
+            "1-Christie said he sat"
+        ],
+        "median tf-idf score": 0.6652614081710195,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Business Insider",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201d\u2019 \u2019Christie  to ban Muslims was \u201dthe kind of thing that people say when they have no experience and don\u2019\u2019t know what they\u2019\u2019re talking about.",
+            "She says \u201dthey never really tell you what they\u2019re going to put in its place,\u201d because \u201dthey know we won\u2019t like it\u201d.",
+            "Said Trump\u2019s Proposed Muslim Ban Was \u201dRidiculous\u201d Christie bashed Trump\u2019s proposal to ban Muslims was \u201dthe kind of thing that people say when they have no experience and don\u2019t know what they\u2019re talking about\u201d.",
+            "Christie said he sat down with his wife and children to discuss the endorsement and said that they supported his decision."
+        ],
+        "tf-idf score": [
+            0.6934338303277063,
+            0.19879163131699232,
+            1.214885739934586,
+            0.6370889860143328
+        ]
+    },
+    "0.3381735387952785-3-149": {
+        "average clique similarity": 0.3381735387952785,
+        "clique": [
+            "2-He said Trump s reac",
+            "1-He said he ultimatel",
+            "4-He said Trump  s rea"
+        ],
+        "median tf-idf score": 0.7665784967038978,
+        "publications": [
+            "Breitbart",
+            "Talking Points Memo",
+            "Business Insider"
+        ],
+        "sentences": [
+            "He said Trump\u2019s reaction to Fox News\u2019 coverage of him said a lot about the kind of president he would be.",
+            "He said he ultimately chose Trump because he was a friend of the family and was best suited to keep Hillary Clinton out of the White House.",
+            "He said Trump\u2019\u2019s reaction to Fox News\u2019\u2019 coverage of him said a lot about the kind of president he would be.\u2019 \u2019\u201dWhat\u2019\u2019s that tell you about what we can expect if things go sideways when you go into the Oval Office?"
+        ],
+        "tf-idf score": [
+            0.6578051729908505,
+            0.7798396778284273,
+            0.7665784967038978
+        ]
+    },
+    "0.3382234371633213-5-58": {
+        "average clique similarity": 0.3382234371633213,
+        "clique": [
+            "1- He s done a really ",
+            "2-That s the different",
+            "0-Christie used the pl",
+            "4-That  s the differen",
+            "3-Christie hates Marco"
+        ],
+        "median tf-idf score": 0.5240193154089355,
+        "publications": [
+            "Breitbart",
+            "Talking Points Memo",
+            "Business Insider",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cHe\u2019s done a really good job, totally destroyed Marco Rubio the other day   \u2026     I was standing next to Marco Rubio and he melted   \u2026     I really gave Chris credit for that, he\u2019s a real talent,\u201d Trump said.",
+            "That\u2019s the different between a governor and (senator) Ted Cruz\u201d.",
+            "Christie used the platform to both endorse Trump and attack Marco Rubio for what he sees as the freshman senator\u2019s lack of experience.",
+            "That\u2019\u2019s the different between a governor and (senator) Ted Cruz.",
+            "Christie hates Marco Rubio and Ted Cruz."
+        ],
+        "tf-idf score": [
+            0.9788748260695622,
+            0.1813117776143645,
+            0.9147732244185705,
+            0.1813117776143645,
+            0.5240193154089355
+        ]
+    },
+    "0.33861275263615054-3-242": {
+        "average clique similarity": 0.33861275263615054,
+        "clique": [
+            "0-Chris Christie on Fr",
+            "1-New Jersey Governor ",
+            "3-Chris Christie endor"
+        ],
+        "median tf-idf score": 1.072245912363818,
+        "publications": [
+            "Fox News",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Chris Christie on Friday endorsed businessman Donald Trump for the Republican nomination for president, becoming the New York billionaire\u2019s most noteworthy endorsement to date.",
+            "New Jersey Governor Chris Christie surprised reporters at a press conference with Donald Trump in Texas, endorsing the billionaire presidential candidate for president.",
+            "Chris Christie endorsed Donald Trump\u2019s presidential candidacy on Friday in Texas, a stunning development sure to add to the growing sense of inevitability around Trump\u2019s bid for the Republican nomination."
+        ],
+        "tf-idf score": [
+            1.072245912363818,
+            1.2110609892088575,
+            0.9974026049022475
+        ]
+    },
+    "0.3536847031998885-3-71": {
+        "average clique similarity": 0.3536847031998885,
+        "clique": [
+            "1-That s who this man ",
+            "2-Showmanship is fun  ",
+            "4-Showmanship is fun  "
+        ],
+        "median tf-idf score": 0.9379592072280102,
+        "publications": [
+            "Breitbart",
+            "Talking Points Memo",
+            "Business Insider"
+        ],
+        "sentences": [
+            "That\u2019s who this man is,\u201d Christie said.",
+            "Showmanship is fun, but it is not the kind of leadership that will truly change America,\u201d Christie said of Trump.",
+            "Showmanship is fun, but it is not the kind of leadership that will truly change America,\u201d Christie said of Trump.\u2019 \u201dChristie dismissed Trump\u2019s insistence that the Mexican government would pay for a wall along the United States\u2019 southern border\u201d."
+        ],
+        "tf-idf score": [
+            0.5162625360961819,
+            0.9379592072280102,
+            1.1019520723119498
+        ]
+    },
+    "0.36089590589550413-3-52": {
+        "average clique similarity": 0.36089590589550413,
+        "clique": [
+            "3- No one is going to ",
+            "0-Trump says Rubio is ",
+            "1-Fact of the matter i"
+        ],
+        "median tf-idf score": 0.1303158094263166,
+        "publications": [
+            "Fox News",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dNo one is going to get inside this guy\u2019s head.",
+            "Trump says Rubio is a \u201ddesperate guy\u201d and said, \u201dI don\u2019t think he\u2019s of presidential caliber\u201d.",
+            "Fact of the matter is, no one is going to get in this guy\u2019s head."
+        ],
+        "tf-idf score": [
+            0.095732467776357,
+            0.7589318117811371,
+            0.1303158094263166
+        ]
+    },
+    "0.3796002057439814-3-242": {
+        "average clique similarity": 0.3796002057439814,
+        "clique": [
+            "3-       New Jersey Go",
+            "4-It  s just not worth",
+            "0- DEVELOPING STORY  N"
+        ],
+        "median tf-idf score": 0.16355883862991313,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Fox News"
+        ],
+        "sentences": [
+            "       New Jersey Gov.",
+            "It\u2019\u2019s just not worth the time,\u201d \u2019 \u2019New Jersey Gov.",
+            " DEVELOPING STORY: New Jersey Gov."
+        ],
+        "tf-idf score": [
+            0.14644649564501908,
+            0.20380846023711588,
+            0.16355883862991313
+        ]
+    },
+    "0.40685228688124964-3-28": {
+        "average clique similarity": 0.40685228688124964,
+        "clique": [
+            "0-The endorsement from",
+            "2-Here are some of Chr",
+            "4- Here are some of Ch"
+        ],
+        "median tf-idf score": 1.0752872743803763,
+        "publications": [
+            "Fox News",
+            "Talking Points Memo",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The endorsement from Christie comes the day after Rubio changed tactics in Thursday\u2019s GOP debate and began to attack Trump on a variety of fronts, from his business background to his preparedness to lead the nation.",
+            "Here are some of Christie\u2019s most pointed attacks on Trump from the primary campaign: Knocked Trump For Skipping Fox News Debate, In January, Christie slammed Trump for boycotting the Fox News presidential debate, saying that Trump was acting like a \u201d  \u201d.",
+            "\u201dHere are some of Christie\u2019s most pointed attacks on Trump from the primary campaign:\u201d \u2019In January,  for boycotting the Fox News presidential debate, saying that Trump was acting like a \u201d  \u201d."
+        ],
+        "tf-idf score": [
+            1.0617127429909659,
+            1.1011602625977859,
+            1.0752872743803763
+        ]
+    },
+    "0.42233591295754436-3-188": {
+        "average clique similarity": 0.42233591295754436,
+        "clique": [
+            "0- I can guarantee you",
+            "4-    In July  Christi",
+            "2-Said Trump s Comment"
+        ],
+        "median tf-idf score": 0.9940937060199598,
+        "publications": [
+            "Fox News",
+            "Talking Points Memo",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201cI can guarantee you that the one person that Bill and Hillary don\u2019t want to see on that stage in November is Donald Trump,\u201d Christie said.",
+            "\u201d\u2019 \u201dIn July, Christie said he didn\u2019t want to talk about Trump, though the governor went on to address some of Trump\u2019s statements later in the election cycle\u201d.",
+            "Said Trump\u2019s Comments Weren\u2019t Worth His Time, In July, Christie said he didn\u2019t want to talk about Trump, though the governor went on to address some of Trump\u2019s statements later in the election cycle."
+        ],
+        "tf-idf score": [
+            0.9936172210826459,
+            0.9940937060199598,
+            1.0804853032294912
+        ]
+    },
+    "0.43187379566361844-3-125": {
+        "average clique similarity": 0.43187379566361844,
+        "clique": [
+            "2- America wants a fig",
+            "4- America wants a fig",
+            "1-Christie also critic"
+        ],
+        "median tf-idf score": 0.16359509815709303,
+        "publications": [
+            "Breitbart",
+            "Talking Points Memo",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dAmerica wants a fighter who\u2019s not going to walk away from a fight, but will walk into one\u201d.",
+            "\u201dAmerica wants a fighter who\u2019\u2019s not going to walk away from a fight, but will walk into one.",
+            "Christie also criticized Marco Rubio as a freshman member of the DC establishment who wouldn\u2019t be able to fix Washington D C \u201cTime to turn away from the amateur acts from Washington D C and turn to a professional strong leader."
+        ],
+        "tf-idf score": [
+            0.16359509815709303,
+            0.16359509815709303,
+            0.7419085008451147
+        ]
+    },
+    "0.43547330781678745-3-56": {
+        "average clique similarity": 0.43547330781678745,
+        "clique": [
+            "2- Part of the folly o",
+            "4- Part of the folly o",
+            "0-Clinton  for her par"
+        ],
+        "median tf-idf score": 0.019865931038367344,
+        "publications": [
+            "Fox News",
+            "Talking Points Memo",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dPart of the folly of all this is that we\u2019re answering for him.",
+            "\u201dPart of the folly of all this is that we\u2019\u2019re answering for him.",
+            "Clinton, for her part, said she is eager to debate any Republican on economics and health care policy."
+        ],
+        "tf-idf score": [
+            0.019865931038367344,
+            0.019865931038367344,
+            0.40254265638647413
+        ]
+    },
+    "0.4415861738733015-3-66": {
+        "average clique similarity": 0.4415861738733015,
+        "clique": [
+            "2- This makes no sense",
+            "3-There is no better f",
+            "4-  This makes no sens"
+        ],
+        "median tf-idf score": 0.07877873178928371,
+        "publications": [
+            "Washington Post",
+            "Talking Points Memo",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dThis makes no sense.",
+            "There is no better fighter than Donald Trump\u201d.",
+            "\u2019\u201dThis makes no sense."
+        ],
+        "tf-idf score": [
+            0.07877873178928371,
+            0.39985473588929676,
+            0.07877873178928371
+        ]
+    },
+    "0.44434927925829354-3-212": {
+        "average clique similarity": 0.44434927925829354,
+        "clique": [
+            "4-  I don  t comment o",
+            "2- I don t comment on ",
+            "1-Christie dutifully f"
+        ],
+        "median tf-idf score": 0.029029632617434308,
+        "publications": [
+            "Breitbart",
+            "Business Insider",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "\u2019\u201dI don\u2019\u2019t comment on his comments.",
+            "\u201dI don\u2019t comment on his comments.",
+            "Christie dutifully filled the role of an attack dog for Trump, resuming his attacks on Rubio by raising his inexperience."
+        ],
+        "tf-idf score": [
+            0.029029632617434308,
+            0.029029632617434308,
+            0.8299140390400497
+        ]
+    },
+    "0.4556269980481135-3-80": {
+        "average clique similarity": 0.4556269980481135,
+        "clique": [
+            "1-  He added that Rubi",
+            "2- If someone brought ",
+            "4- If someone brought "
+        ],
+        "median tf-idf score": 0.43520265728519275,
+        "publications": [
+            "Breitbart",
+            "Talking Points Memo",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201d He added that Rubio \u201cbarely shows up for work\u201d at the Senate and was \u201cwholly unprepared\u201d for the presidency.",
+            "\u201dIf someone brought that up at a town hall of mine, I would have said \u2019Before we answer, let\u2019s clear some things up for the rest of the audience,\u2019 and I think you have an obligation as a leader to do that\u201d.",
+            "\u201dIf someone brought that up at a town hall of mine, I would have said \u2019\u2019Before we answer, let\u2019\u2019s clear some things up for the rest of the audience,\u2019\u2019 and I think you have an obligation as a leader to do that."
+        ],
+        "tf-idf score": [
+            0.28285498188375346,
+            0.43520265728519275,
+            0.43520265728519275
+        ]
+    },
+    "0.4658765151323889-3-75": {
+        "average clique similarity": 0.4658765151323889,
+        "clique": [
+            "2- I think it just mak",
+            "3- Donald Trump is som",
+            "4-     I think it just"
+        ],
+        "median tf-idf score": 0.6770639808274133,
+        "publications": [
+            "Washington Post",
+            "Talking Points Memo",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dI think it just makes people call into question his judgment,\u201d Christie said.",
+            "\u201cDonald Trump is someone who when he makes a promise, he keeps it,\u201d Christie said.",
+            "\u201d\u2019 \u2019\u201dI think it just makes people call into question his judgment,\u201d Christie said."
+        ],
+        "tf-idf score": [
+            0.6770639808274133,
+            0.9328505332175687,
+            0.6770639808274133
+        ]
+    },
+    "0.4754602415740659-3-175": {
+        "average clique similarity": 0.4754602415740659,
+        "clique": [
+            "0-And Chris Christie h",
+            "2- He s got to answer ",
+            "4-     He  s got to an"
+        ],
+        "median tf-idf score": 0.06599373266523856,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "And Chris Christie has got his work cut out for him\u201d.",
+            "\u201cHe\u2019s got to answer for himself,\u201d he continued.",
+            "\u201d\u2019 \u2019\u201dHe\u2019\u2019s got to answer for himself,\u201d he continued."
+        ],
+        "tf-idf score": [
+            0.4311057523294073,
+            0.06599373266523856,
+            0.06599373266523856
+        ]
+    },
+    "0.4798587415184585-3-201": {
+        "average clique similarity": 0.4798587415184585,
+        "clique": [
+            "0- I will lend my supp",
+            "4-He  s said what  s h",
+            "2-He s said what s he "
+        ],
+        "median tf-idf score": 0.2537100784470022,
+        "publications": [
+            "Talking Points Memo",
+            "Business Insider",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cI will lend my support between now and November in every way possible,\u201d Christie said.",
+            "He\u2019\u2019s said what\u2019\u2019s he\u2019\u2019s said, and now the people who vote will have to judge him.",
+            "He\u2019s said what\u2019s he\u2019s said, and now the people who vote will have to judge him."
+        ],
+        "tf-idf score": [
+            0.5623825558047668,
+            0.2537100784470022,
+            0.2537100784470022
+        ]
+    },
+    "0.5094183229819101-3-167": {
+        "average clique similarity": 0.5094183229819101,
+        "clique": [
+            "4-     We do not need ",
+            "0- We don t need any m",
+            "2- We do not need to e"
+        ],
+        "median tf-idf score": 0.24817329660707904,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "\u201d\u2019 \u2019\u201dWe do not need to endorse that type of activity, nor should we,\u201d he said.",
+            "\u201cWe don\u2019t need any more of these Washington, D C acts,\u201d Christie said.",
+            "\u201dWe do not need to endorse that type of activity, nor should we,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.24817329660707904,
+            0.5846030520185969,
+            0.24817329660707904
+        ]
+    },
+    "0.5783470191304749-3-20": {
+        "average clique similarity": 0.5783470191304749,
+        "clique": [
+            "2-Chris Christie     r",
+            "0-Christie said no oth",
+            "4-Chris Christie     r"
+        ],
+        "median tf-idf score": 1.203626861244349,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Chris Christie ( ) rocked the Republican presidential primary on Friday with an endorsement of Donald Trump, calling the real estate mogul the candidate best \u201dprepared to provide America with the strong leadership\u201d.",
+            "Christie said no other candidate is better prepared to provide the United States with strong leadership both at home and around the world.",
+            "Chris Christie ( ) rocked the Republican presidential primary on Friday with an endorsement of Donald Trump, calling the real estate mogul the candidate best \u201dprepared to provide America with the strong leadership."
+        ],
+        "tf-idf score": [
+            1.203626861244349,
+            0.6978507430193801,
+            1.203626861244349
+        ]
+    }
+}

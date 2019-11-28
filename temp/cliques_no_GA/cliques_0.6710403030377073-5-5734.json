@@ -1,0 +1,218 @@
+{
+    "0.2224695782195033-3-132": {
+        "average clique similarity": 0.2224695782195033,
+        "clique": [
+            "3-He was arrested Frid",
+            "0-The  man in the hat ",
+            "2-News of Abrini s arr"
+        ],
+        "median tf-idf score": 0.7885134743414738,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "He was arrested Friday in the Schaerbeek section of Brussels, not far from the apartment where he and his collaborators left for the airport on the morning of the attacks.",
+            "The \u201cman in the hat\u201d left the airport shortly after the twin suicide bombings and was tracked on CCTV for several miles into the city center.",
+            "News of Abrini\u2019s arrest comes one day after the government released a video in which they reconstructed the movements made by the man from the airport, with police laying out his motions in the city for some two hours after the bombs exploded."
+        ],
+        "tf-idf score": [
+            0.8564879974527296,
+            0.7286564056118717,
+            0.7885134743414738
+        ]
+    },
+    "0.23100771357696948-3-7": {
+        "average clique similarity": 0.23100771357696948,
+        "clique": [
+            "0-Four days after the ",
+            "1-Abrini was one of fo",
+            "3-Abrini had been at l"
+        ],
+        "median tf-idf score": 1.1938063053913783,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Four days after the March 18 arrest of Salah Abdeslam, with whom Abrini was seen driving towards Paris two days before the Paris attacks, brothers Brahim and Khalid El Bakraoui and a third local man Najim Laachraoui killed 32 people at Brussels airport and on a metro line running under EU institutions.",
+            "Abrini was one of four suspects charged Saturday with \u201dparticipating in terrorist acts\u201d linked to the deadly Brussels suicide bombings that killed 32 people and wounded 270 others at the airport and at the city\u2019s Maelbeek subway station.",
+            "Abrini had been at large since the Brussels attacks, which killed 32 and injured hundreds more at the airport in Zaventem and a metro station close to the headquarters of the European Union."
+        ],
+        "tf-idf score": [
+            1.8144947563613845,
+            1.1938063053913783,
+            0.856810035677349
+        ]
+    },
+    "0.2341947813276732-3-21": {
+        "average clique similarity": 0.2341947813276732,
+        "clique": [
+            "4-Abrini had been soug",
+            "0-He had been on Europ",
+            "1-Belgian prosecutors "
+        ],
+        "median tf-idf score": 1.2208123002125073,
+        "publications": [
+            "Breitbart",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Abrini had been sought by Belgian and French authorities after he was caught on video with Salah Abdeslam at a gas station on the road to Paris two days before the Nov. 13 attacks there.",
+            "He had been on Europe\u2019s most wanted list since being seen on a motorway service station CCTV video driving with Abdeslam towards Paris from Belgium in a car used two days later in the attacks in which Abdeslam\u2019s elder brother was a suicide bomber.",
+            "Belgian prosecutors said fingerprints and DNA from Abrini had been found in a Renault Clio used in the Paris attacks, and in an apartment in the Forest area of the Belgian capital that was used by Salah Abdeslam, another Paris suspect, as a hideout until police stumbled upon it."
+        ],
+        "tf-idf score": [
+            1.1655464657918881,
+            1.2208123002125073,
+            1.346827036848418
+        ]
+    },
+    "0.23520706336478558-3-103": {
+        "average clique similarity": 0.23520706336478558,
+        "clique": [
+            "0-Mohamed Abrini  want",
+            "1-Abrini was arrested ",
+            "4-A jihadist wanted fo"
+        ],
+        "median tf-idf score": 1.4317983450191942,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Mohamed Abrini, wanted over November\u2019s Islamic State attacks in Paris, has been arrested in Brussels, Belgium\u2019s public broadcasters said on Friday, adding that he was probably involved in last month\u2019s Brussels bombings.",
+            "Abrini was arrested Friday in Brussels in a police raid.",
+            "A jihadist wanted for the terror attacks in Paris and believed to be the third Brussels airport attacker  \u2014   the   \u201cman in the hat\u201d  \u2014   was caught in Belgium Friday along with at least one other suspect, officials said."
+        ],
+        "tf-idf score": [
+            1.4815893894223842,
+            0.6953892768735088,
+            1.4317983450191942
+        ]
+    },
+    "0.2511065241032902-3-132": {
+        "average clique similarity": 0.2511065241032902,
+        "clique": [
+            "2-U S and Belgian offi",
+            "0-Abrini was arrested ",
+            "4-The Belgian petty cr"
+        ],
+        "median tf-idf score": 0.8403041340980026,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "New York Post"
+        ],
+        "sentences": [
+            "U S and Belgian officials say Abrini and \u201danother suspect\u201d were arrested at a metro station in Anderlecht, which is close to the Free University of Brussels, NPR\u2019s Dina   reports.",
+            "Abrini was arrested in the borough of Anderlecht, VRT said, next to the western district of Molenbeek which has been at the heart of Belgium\u2019s troubles with Islamist militants.",
+            "The Belgian petty criminal was arrested at the Petillon Metro station in the Anderlecht district of Brussels near Molenbeek, a hotbed of Islamic extremism."
+        ],
+        "tf-idf score": [
+            0.869706800965566,
+            0.8403041340980026,
+            0.7447490436078239
+        ]
+    },
+    "0.2639408170075627-3-132": {
+        "average clique similarity": 0.2639408170075627,
+        "clique": [
+            "2-Brahim Abdeslam blew",
+            "3-He was seen on camer",
+            "4-Abdeslam fled back t"
+        ],
+        "median tf-idf score": 0.8985296427843491,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "Brahim Abdeslam blew himself up in the Paris terrorist attacks, while Salah Abdeslam, who was on the run after Paris, was arrested in Molenbeek a couple of weeks ago.",
+            "He was seen on camera with Brahim Abdeslam, who detonated a suicide bomb outside a Paris cafe, and with Salah Abdeslam, who was arrested in Brussels on March 18.",
+            "Abdeslam fled back to Brussels instead of blowing himself up and was arrested March 18, just days before the Brussels bombings."
+        ],
+        "tf-idf score": [
+            0.8985296427843491,
+            1.0207137166460334,
+            0.7265473399709736
+        ]
+    },
+    "0.2725578661278473-3-5": {
+        "average clique similarity": 0.2725578661278473,
+        "clique": [
+            "2-Belgian prosecutors ",
+            "3-  PARIS      The Bel",
+            "1-Authorities have bee"
+        ],
+        "median tf-idf score": 1.604218324069715,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Belgian prosecutors made an official announcement of Abrini\u2019s arrest late Friday, local time, with spokesman Thierry Werts saying that police are \u201dcontinuing to determine\u201d whether Abrini, 31, is also the \u201dman in the hat\u201d  \u2014   a suspect wearing a white raincoat and a fishing hat, who has been wanted for questioning since security cameras showed him walking alongside two suicide bombers at the Brussels airport.",
+            "  PARIS  \u2014   The Belgian federal prosecutor confirmed Saturday that Mohamed Abrini  \u2014   who was arrested Friday afternoon  \u2014   was the \u201cman in the hat\u201d captured in surveillance footage alongside two suicide bombers at Brussels Airport on March 22.",
+            "Authorities have been frantically seeking the \u201dman in the hat\u201d ever since he was captured on video alongside the two bombers just before the airport attack that killed 16 people."
+        ],
+        "tf-idf score": [
+            1.604218324069715,
+            1.6450808017602472,
+            0.9269682577674687
+        ]
+    },
+    "0.35546991760136176-3-132": {
+        "average clique similarity": 0.35546991760136176,
+        "clique": [
+            "4-Mohamed Abrini  31  ",
+            "1-The Federal Prosecut",
+            "0-Abrini  a    Belgian"
+        ],
+        "median tf-idf score": 1.2491727608030219,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Mohamed Abrini, 31, was \u201cmore than likely\u201d the man seen in surveillance video at the Brussels airport on March 22 walking with suicide bombers Ibrahim   and Najim Laachraoui, VRT and RTBF reported.",
+            "The Federal Prosecutor\u2019s Office in Brussels said Abrini confessed to being the third man present at Brussels Airport during the March 22 suicide bombings there.",
+            "Abrini, a    Belgian, was \u201cmore than likely\u201d the \u201cman in the hat\u201d seen on security camera footage at Brussels airport on March 22 with two suicide bombers, VRT and RTBF said on their websites, citing unidentified sources."
+        ],
+        "tf-idf score": [
+            1.2491727608030219,
+            0.9881963742254078,
+            1.4670880765037053
+        ]
+    },
+    "0.3823496619872054-3-84": {
+        "average clique similarity": 0.3823496619872054,
+        "clique": [
+            "1-He had ties to Abdel",
+            "3-  Abrini is also all",
+            "4-Abrini also had ties"
+        ],
+        "median tf-idf score": 0.7569095503002575,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He had ties to Abdelhamid Abbaoud, the ringleader of the Paris attacks who died in a police standoff on Nov. 18, and is a childhood friend of brothers Salah and Brahim Abdeslam.",
+            "\u201d Abrini is also alleged to have been a significant actor in the attacks in Paris on Nov. 13, which killed 130 and injured hundreds more in a series of shootings and suicide bombings at a stadium, concert hall and restaurants across the French capital.",
+            "Abrini also had ties to Abdelhamid Abbaoud, the ringleader of the Paris attacks who died in a police standoff on Nov. 18."
+        ],
+        "tf-idf score": [
+            0.7569095503002575,
+            0.8602700843516565,
+            0.689465768562253
+        ]
+    }
+}

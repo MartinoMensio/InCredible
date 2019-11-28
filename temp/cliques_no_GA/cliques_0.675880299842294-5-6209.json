@@ -1,0 +1,494 @@
+{
+    "0.17070409793194918-3-113": {
+        "average clique similarity": 0.17070409793194918,
+        "clique": [
+            "3- Trump seemed to hav",
+            "4-But after initially ",
+            "0-Trump added during t"
+        ],
+        "median tf-idf score": 0.7795431396064545,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "(Trump seemed to have dropped that provision from his latest plan, but he mentioned it during the debate.)",
+            "But after initially saying that he would make his returns public during the course of his campaign, Trump switched course, citing what he said were years of ongoing IRS audits and the advice of his attorneys to keep them private as those audits proceed.",
+            "Trump added during the debate that he would release his returns  \u2014   over what he described as his attorney\u2019s objections  \u2014   only after Clinton released roughly 30, 000 emails she had deleted from her private server that she had deemed personal."
+        ],
+        "tf-idf score": [
+            0.4558390776120578,
+            0.9226069332600435,
+            0.7795431396064545
+        ]
+    },
+    "0.19820489505071984-3-40": {
+        "average clique similarity": 0.19820489505071984,
+        "clique": [
+            "1- The tax experts con",
+            "4-Former IRS officials",
+            "0-The Times report not"
+        ],
+        "median tf-idf score": 1.227348273760634,
+        "publications": [
+            "Fox News",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dThe tax experts consulted by The Times said nothing in the 1995 documents suggested any wrongdoing by Mr Trump, even if the extraordinary size of the loss he declared would have probably attracted extra scrutiny from I R S examiners\u201d.",
+            "Former IRS officials have expressed skepticism that anyone would be audited so frequently, and they and other tax experts say there\u2019s no prohibition on Trump releasing his returns even if he is.",
+            "The Times report noted that tax experts have found no evidence of wrongdoing connected with Trump\u2019s 1995 tax returns, though the paper claimed that the large loss likely would have drawn the attention of the IRS The newly reported documents are certain to become an issue in the presidential race."
+        ],
+        "tf-idf score": [
+            1.227348273760634,
+            0.9843918066566723,
+            1.4500767256240659
+        ]
+    },
+    "0.2027456890605064-3-219": {
+        "average clique similarity": 0.2027456890605064,
+        "clique": [
+            "0-Asked by reporters i",
+            "2-It also noted that t",
+            "1-It goes on to say th"
+        ],
+        "median tf-idf score": 1.067113634432563,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Asked by reporters if he had admitted to not paying federal income taxes, Trump said, \u201dI didn\u2019t say that at all\u201d.",
+            "It also noted that though Trump had paid some taxes, it did not specifically say he had paid income tax.",
+            "It goes on to say that Trump has many hundreds of millions in property, sales, and local, state and federal taxes  \u2014   without explicitly mentioning income taxes."
+        ],
+        "tf-idf score": [
+            1.067113634432563,
+            0.9215705844784527,
+            1.1508497899122352
+        ]
+    },
+    "0.20836816089059448-3-214": {
+        "average clique similarity": 0.20836816089059448,
+        "clique": [
+            "1-Trump s income tax h",
+            "2-But by refusing to r",
+            "3-The Post s View  Wha"
+        ],
+        "median tf-idf score": 1.1167668676491256,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Trump\u2019s income tax history is impossible to verify, because he\u2019s broken a   tradition for   presidential nominees and refused to release his tax returns.",
+            "But by refusing to release his tax returns, Trump, who has broken every other rule of politics during his stunning outsider campaign, has been, in effect, betting that he can outlast the demands of opponents who want to make his tax history a pivotal issue in the end game of the campaign.",
+            "The Post\u2019s View: What\u2019s Trump hiding by refusing to release his tax returns?"
+        ],
+        "tf-idf score": [
+            1.1167668676491256,
+            1.2285612795951675,
+            0.9384292718811986
+        ]
+    },
+    "0.21607224422411483-3-96": {
+        "average clique similarity": 0.21607224422411483,
+        "clique": [
+            "4-Mike Pence  has rele",
+            "2-The issue could be n",
+            "3-Could his tax return"
+        ],
+        "median tf-idf score": 0.7657909434466265,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Mike Pence, has released 10 years of his tax returns.",
+            "The issue could be next scrutinized at the vice presidential debate on Tuesday, forcing Trump\u2019s running mate, Mike Pence    who has released his tax returns    on the defensive.",
+            "Could his tax returns explain why?"
+        ],
+        "tf-idf score": [
+            0.7657909434466265,
+            1.1631760769465451,
+            0.49472202878593696
+        ]
+    },
+    "0.21965665903795553-3-239": {
+        "average clique similarity": 0.21965665903795553,
+        "clique": [
+            "3-The news      unrebu",
+            "4-  The statement adde",
+            "0- That being said  Mr"
+        ],
+        "median tf-idf score": 1.1977402105245878,
+        "publications": [
+            "Fox News",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The news  \u2014   unrebutted by the Trump campaign as of this writing  \u2014   is that Trump could have avoided paying federal income taxes for 18 years.",
+            "\u201d The statement added that Trump had paid \u201chundreds of millions\u201d of dollars in other kinds of taxes over the years.",
+            "\u201dThat being said, Mr Trump has paid hundreds of millions of dollars in property taxes, sales and excise taxes, real estate taxes, city taxes, state taxes, employee taxes and federal taxes, along with very substantial charitable contributions\u201d."
+        ],
+        "tf-idf score": [
+            1.1986407754473605,
+            0.9701288391874572,
+            1.1977402105245878
+        ]
+    },
+    "0.2274959701114988-3-55": {
+        "average clique similarity": 0.2274959701114988,
+        "clique": [
+            "4-The filings show a n",
+            "1-The 1995 tax records",
+            "2-The Times  report sh"
+        ],
+        "median tf-idf score": 1.2725156112902738,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The filings show a net loss of $915, 729, 293 in federal taxable income for the year.",
+            "The 1995 tax records obtained by the newspaper show Trump as having reported a $916 million loss on personal income tax returns during that year.",
+            "The Times\u2019 report shows Trump that year declared a $916 million loss and lists tax benefits he used after a turbulent financial period for him in the early 1990s."
+        ],
+        "tf-idf score": [
+            0.4847794205523787,
+            1.3878730220476487,
+            1.2725156112902738
+        ]
+    },
+    "0.23427543783256163-3-87": {
+        "average clique similarity": 0.23427543783256163,
+        "clique": [
+            "1-Under federal law at",
+            "2-Although he was comp",
+            "3-The opportunity for "
+        ],
+        "median tf-idf score": 1.4813385060487794,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Under federal law at the time, a declared loss of that size could have allowed Trump to avoid federal taxes for as much as 18 years in a row, according to tax experts interviewed by the newspaper, \u201denough to wipe out more than $50 million a year in taxable income\u201d over that stretch of time.",
+            "Although he was compliant with the law, it was easy for the Obama campaign to portray him as out of touch with the struggles of everyday Americans who have to pay higher tax rates on lower levels of income.",
+            "The opportunity for tax avoidance, which could have shielded as much as $50 million a year in Trump income from any federal income tax liability whatsoever, is the result of rules that permitted him to carry forward net operating losses from his businesses 15 years into the future, and to use those losses to wipe out taxable income for three previous years as well."
+        ],
+        "tf-idf score": [
+            1.551389440647942,
+            0.7556880029634038,
+            1.4813385060487794
+        ]
+    },
+    "0.25794157606402063-3-59": {
+        "average clique similarity": 0.25794157606402063,
+        "clique": [
+            "4-The Times said a law",
+            "0-Kasowitz reportedly ",
+            "1-It s true that none "
+        ],
+        "median tf-idf score": 0.6326682206381415,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "The Times said a lawyer for Trump argued that publication of the records would be illegal because Trump had not authorized their disclosure.",
+            "Kasowitz reportedly claimed that publishing the documents was illegal because Trump had not authorized the release of any of his returns.",
+            "It\u2019s true that none of the report suggests any illegal activity on behalf of Trump."
+        ],
+        "tf-idf score": [
+            0.6326682206381415,
+            0.6764051716722073,
+            0.4611798777454244
+        ]
+    },
+    "0.27722580678357994-3-164": {
+        "average clique similarity": 0.27722580678357994,
+        "clique": [
+            "2-The impact of the re",
+            "4-In its story  the Ti",
+            "0-See Predictions Map "
+        ],
+        "median tf-idf score": 0.2679458664979212,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "The impact of the revelations in the Times story were difficult to gauge in their immediate aftermath.",
+            "In its story, the Times said the three pages of documents were mailed last month to a Times reporter who had written about Trump\u2019s finances.",
+            "See Predictions Map \u2192 The Times reported that the documents were mailed to one of its reporters last month."
+        ],
+        "tf-idf score": [
+            0.171283723929882,
+            0.7075207424156658,
+            0.2679458664979212
+        ]
+    },
+    "0.2863067903559149-3-311": {
+        "average clique similarity": 0.2863067903559149,
+        "clique": [
+            "2-Calling it a  bombsh",
+            "3-Donald J Trump ",
+            "0-Clinton campaign man"
+        ],
+        "median tf-idf score": 1.5156751169733729,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Calling it a \u201dbombshell report,\u201d the Clinton campaign said the Times\u2019 article \u201dreveals the colossal nature of Donald Trump\u2019s past business failures and just how long he may have avoided paying any federal income taxes whatsoever\u201d.",
+            "Donald J Trump.",
+            "Clinton campaign manager Robby Mook said the Times report \u201dreveals the colossal nature of Donald Trump\u2019s past business failures and just how long he may have avoided paying any federal income taxes whatsoever."
+        ],
+        "tf-idf score": [
+            1.51824158056754,
+            0.3780859349860787,
+            1.5156751169733729
+        ]
+    },
+    "0.3393015444712167-4-137": {
+        "average clique similarity": 0.3393015444712167,
+        "clique": [
+            "0-Trump responded by s",
+            "2- That makes me smart",
+            "3-Really  why not run ",
+            "1-Trump did not disput"
+        ],
+        "median tf-idf score": 0.5112362741084235,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Trump responded by saying \u201dThat makes me smart,\u201d a comment he disavowed just minutes after the debate.",
+            "\u201dThat makes me smart,\u201d Trump replied, and also said that any tax money he had paid would have been wasted by the federal government.",
+            "Really, why not run a commercial boasting of his tax genius, as he did (\u201cThat makes me smart\u201d) during the debate last Monday night?",
+            "Trump did not dispute that and responded by saying, quote, \u201dthat makes me smart\u201d."
+        ],
+        "tf-idf score": [
+            0.492232005808989,
+            0.9543022353265811,
+            0.530240542407858,
+            0.45433330875716066
+        ]
+    },
+    "0.33932873838486693-4-168": {
+        "average clique similarity": 0.33932873838486693,
+        "clique": [
+            "0-Trump made the comme",
+            "2-It obtained one page",
+            "4- In a story publishe",
+            "1-Times reporter Susan"
+        ],
+        "median tf-idf score": 1.1942347881178934,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Trump made the comment on Twitter after The New York Times reported Saturday on the tax return, citing leaked copies of his tax records.",
+            "It obtained one page of his New York State resident income tax return as well as the first page of New Jersey and Connecticut nonresident returns.",
+            "[In a story published online late Saturday, the Times said it anonymously received the first pages of Trump\u2019s 1995 state income tax filings in New York, New Jersey and Connecticut.",
+            "Times reporter Susanne Craig, who\u2019s written about the Republican candidate\u2019s business ventures, received three pages of returns via mail from an anonymous source: \u201dThe first page of a New York State resident income tax return, the first page of a New Jersey nonresident tax return and the first page of a Connecticut nonresident tax return\u201d."
+        ],
+        "tf-idf score": [
+            1.2235844576333115,
+            0.8649818801511863,
+            1.3556999268400562,
+            1.1648851186024751
+        ]
+    },
+    "0.3706027518470814-3-72": {
+        "average clique similarity": 0.3706027518470814,
+        "clique": [
+            "0-The paper reported t",
+            "2-The paper  citing ta",
+            "1-Those consultants de"
+        ],
+        "median tf-idf score": 1.226476958964218,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "The paper reported that Trump\u2019s claimed losses were so large that they would have allowed him to avoid paying an equivalent amount of federal income tax over an   period.",
+            "The paper, citing tax experts, said Trump could have used his loss to cancel out an equivalent amount of taxable income for nearly two decades.",
+            "Those consultants determined that \u201dtax rules especially advantageous to wealthy filers would have allowed Mr Trump to use his $916 million loss to cancel out an equivalent amount of taxable income over an   period\u201d."
+        ],
+        "tf-idf score": [
+            1.2589215917928909,
+            1.1872483837462664,
+            1.226476958964218
+        ]
+    },
+    "0.3789331120481503-4-269": {
+        "average clique similarity": 0.3789331120481503,
+        "clique": [
+            "3-  The only news here",
+            "4- The New York Times ",
+            "1-In a statement relea",
+            "2-His campaign vehemen"
+        ],
+        "median tf-idf score": 1.4462567733815366,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            " \u201cThe only news here,\u201d Donald Trump\u2019s campaign declared in an unsigned statement emailed late Saturday night, \u201cis that the more than    alleged tax document was illegally obtained, a further demonstration that The New York Times, like establishment media in general, is an extension of the Clinton Campaign, the Democratic Party and their global special interests.",
+            "\u201cThe New York Times, like establishment media in general, is an extension of the Clinton campaign, the Democratic Party and their global special interests,\u201d the campaign said, calling Trump \u201ca highly skilled businessman who has a fiduciary responsibility to his business, his family and his employees to pay no more tax than legally required.",
+            "In a statement released Saturday, the Trump campaign didn\u2019t dispute the Times\u2019 claims, but calls Trump a \u201d  businessman who has a fiduciary responsibility to his business, his family, and his employees to pay no more tax than legally required\u201d.",
+            "His campaign vehemently pushed back on the Clinton campaign\u2019s effort to turn the report into an \u201dOctober surprise\u201d moment, saying Trump has a \u201dfiduciary responsibility\u201d as a businessman to pay no more tax than legally required."
+        ],
+        "tf-idf score": [
+            1.545146170632544,
+            1.6138566782110089,
+            1.3473673761305291,
+            1.1727733709958044
+        ]
+    },
+    "0.3842175786081336-3-200": {
+        "average clique similarity": 0.3842175786081336,
+        "clique": [
+            "0- This is legit   Jac",
+            "3-Assuming that the cl",
+            "4- This is legit   Mit"
+        ],
+        "median tf-idf score": 0.16971621532030168,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dThis is legit,\u201d Jack Mitnick, whose name appears as Trump\u2019s tax preparer of the filings, told the newspaper.",
+            "Assuming that the claimed losses were legit, this would have been legal.",
+            "\u201cThis is legit,\u201d Mitnick told the newspaper."
+        ],
+        "tf-idf score": [
+            0.8719511486900339,
+            0.16971621532030168,
+            0.09316586632726326
+        ]
+    },
+    "0.43458879247269483-3-8": {
+        "average clique similarity": 0.43458879247269483,
+        "clique": [
+            "4-WASHINGTON  AP      ",
+            "2-Washington  CNN  Hil",
+            "1-Donald Trump s campa"
+        ],
+        "median tf-idf score": 1.8225056420506647,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "WASHINGTON (AP)  \u2014   Donald Trump\u2019s business losses in 1995 were so large that they could have allowed him to avoid paying federal income taxes for as many as 18 years, according to records obtained by The New York Times.",
+            "Washington (CNN) Hillary Clinton\u2019s campaign Saturday night seized on a New York Times report about Donald Trump\u2019s 1995 tax records, in which the Times showed he declared a $916 million loss that could have allowed him to legally skip paying federal income taxes for years.",
+            "Donald Trump\u2019s campaign is responding to a New York Times report that the real estate mogul claimed hundreds of millions of dollars in losses on tax returns in 1995  \u2014   an amount that could have allowed him to legally avoid paying income taxes for many years."
+        ],
+        "tf-idf score": [
+            1.661168106226194,
+            1.8726936084161623,
+            1.8225056420506647
+        ]
+    },
+    "0.44306979769305505-3-178": {
+        "average clique similarity": 0.44306979769305505,
+        "clique": [
+            "0- Here the guy was bu",
+            "4- Here the guy was bu",
+            "2- The only news here "
+        ],
+        "median tf-idf score": 0.5946213297898342,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dHere the guy was building incredible net worth and not paying tax on it,\u201d he said.",
+            "\u201cHere the guy was building incredible net worth and not paying tax on it,\u201d he said.",
+            "\u201dThe only news here is that the more than    alleged tax document was illegally obtained, a further demonstration that The New York Times, like establishment media in general, is an extension of the Clinton campaign, the Democratic Party and their global special interests,\u201d the statement said."
+        ],
+        "tf-idf score": [
+            0.5946213297898342,
+            0.5946213297898342,
+            1.1240390732688808
+        ]
+    },
+    "0.49143575268216777-3-311": {
+        "average clique similarity": 0.49143575268216777,
+        "clique": [
+            "2-A postmark indicated",
+            "0-The return address i",
+            "4-A postmark indicated"
+        ],
+        "median tf-idf score": 0.7410777151932745,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "A postmark indicated the documents were mailed from New York City, and the return address claimed the envelope had been sent from Trump Tower.",
+            "The return address indicated that they had been sent from Trump Tower in New York City.",
+            "A postmark indicated they had been sent from New York City and the return address claimed the envelope had been sent from Trump Tower, the newspaper said."
+        ],
+        "tf-idf score": [
+            0.7410777151932745,
+            0.6450538108193511,
+            0.7779509892444237
+        ]
+    },
+    "0.8274642076826528-3-207": {
+        "average clique similarity": 0.8274642076826528,
+        "clique": [
+            "3-On Sunday morning  T",
+            "2-Trump himself respon",
+            "0- I know our complex "
+        ],
+        "median tf-idf score": 1.0305614753521495,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "On Sunday morning, Trump tweeted that the story illustrates that \u201cI know our complex tax laws better than anyone who has ever run for president and am the only one who can fix them.",
+            "Trump himself responded via Twitter on Sunday morning, saying: \u201dI know our complex tax laws better than anyone who has ever run for president and am the only one who can fix them.",
+            "\u201dI know our complex tax laws better than anyone who has ever run for president and am the only one who can fix them."
+        ],
+        "tf-idf score": [
+            1.0359348125591417,
+            1.0305614753521495,
+            0.6130129775695909
+        ]
+    }
+}

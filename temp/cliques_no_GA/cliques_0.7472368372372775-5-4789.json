@@ -1,0 +1,658 @@
+{
+    "0.1322583865449367-3-270": {
+        "average clique similarity": 0.1322583865449367,
+        "clique": [
+            "4- Reuters     Did Chi",
+            "2-Bolton has pushed fo",
+            "0-The region has seen "
+        ],
+        "median tf-idf score": 0.540509096649191,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "(Reuters)   \u201cDid China ask us if it was OK to devalue their currency (making it hard for our companies to compete) heavily tax our products going into their country (the U S doesn\u2019t tax them) or to build a massive military complex in the middle of the South China Sea?\u201d he asked.",
+            "Bolton has pushed for closer relations with Taiwan and a tougher American stance against China\u2019s aggressive territorial claims in the South China Sea.",
+            "The region has seen a flurry of military action, with China increasing naval patrols and building islands there to strengthen their claims."
+        ],
+        "tf-idf score": [
+            0.540509096649191,
+            0.8143414010855775,
+            0.4480831082541676
+        ]
+    },
+    "0.15416325324276703-3-206": {
+        "average clique similarity": 0.15416325324276703,
+        "clique": [
+            "2-  Former UN Ambassad",
+            "4-The historic communi",
+            "1-John Huntsman  a for"
+        ],
+        "median tf-idf score": 1.0574466876699193,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d Former UN Ambassador John Bolton  \u2014   in the running to become Trump\u2019s Secretary of State and was present in Trump Tower on Friday  \u2014     critics\u2019 worries the call could undo decades of delicate diplomacy and lead to conflict between the superpowers.",
+            "The historic communication  \u2014   the first between leaders of the United States and Taiwan since 1979  \u2014   was the product of months of quiet preparations and deliberations among Trump\u2019s advisers about a new strategy for engagement with Taiwan that began even before he became the Republican presidential nominee, according to people involved in or briefed on the talks.",
+            "John Huntsman, a former American ambassador to China and Utah Republican governor, on Saturday suggested Trump\u2019s call to Taiwan and other such diplomatic outreaches \u201cshould be expected,\u201d with Trump being perhaps the most unconventional presidential candidate of a generation."
+        ],
+        "tf-idf score": [
+            0.7466326230660678,
+            1.1594345404927515,
+            1.0574466876699193
+        ]
+    },
+    "0.1627331018584838-3-207": {
+        "average clique similarity": 0.1627331018584838,
+        "clique": [
+            "3-WAYWARD PROVINCE Tru",
+            "2-And Trump pointed ou",
+            "4- Bastien   Washingto"
+        ],
+        "median tf-idf score": 0.9640061079377313,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "WAYWARD PROVINCE Trump and Tsai noted that \u201dclose economic, political and security ties exist between Taiwan and the United States\u201d the Trump transition team said in a statement.",
+            "And Trump pointed out that the United States has continued its trade and defense relationships with Taiwan regardless of its official diplomatic status.",
+            "(Bastien   Washington Post)   That glosses over the extensive and turbulent history of U S relations with Taiwan and the political importance the island and its democracy hold for many Republican foreign policy specialists."
+        ],
+        "tf-idf score": [
+            1.2816366948128821,
+            0.9640061079377313,
+            0.6650646173663632
+        ]
+    },
+    "0.16478323931391037-3-328": {
+        "average clique similarity": 0.16478323931391037,
+        "clique": [
+            "4-Republican administr",
+            "1-I have met with Pres",
+            "0-However    relations"
+        ],
+        "median tf-idf score": 0.544864287432523,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Republican administrations since then have emphasized Taiwan\u2019s democracy and flirted with the idea of a shift in policy, but none have held public discussions with a Taiwanese leader.",
+            "I have met with President Tsai twice and I\u2019m confident she expressed to the   the same desire for closer relations with the United States\u201d.",
+            "However,   relations have remained strained since the United States maintains a close, albeit unofficial, relationship with the   island."
+        ],
+        "tf-idf score": [
+            0.544864287432523,
+            0.5460638712232253,
+            0.3201871249467413
+        ]
+    },
+    "0.16614219578517522-3-247": {
+        "average clique similarity": 0.16614219578517522,
+        "clique": [
+            "4-Some of the GOP s mo",
+            "3- This is just the Ta",
+            "0-The phone call was l"
+        ],
+        "median tf-idf score": 0.9548547085802923,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Some of the GOP\u2019s most ardent Taiwan proponents are playing active roles in Trump\u2019s transition team, and others in the conservative foreign policy community see a historic opportunity to reset relations with Taiwan and reposition it as a more strategic ally in East Asia.",
+            "\u201dThis is just the Taiwan side engaging in a petty action, and cannot change the \u2019one China\u2019 structure already formed by the international community,\u201d Wang said at an academic forum in Beijing, China\u2019s Foreign Ministry quoted him as saying.",
+            "The phone call was lauded, however, both within Taiwan and by some in the defense policy community in the US as a signal the incoming administration will take a tougher stance on China."
+        ],
+        "tf-idf score": [
+            0.9548547085802923,
+            1.0409023656416188,
+            0.8642146821769571
+        ]
+    },
+    "0.18243660157617692-3-152": {
+        "average clique similarity": 0.18243660157617692,
+        "clique": [
+            "1-The Democratic Natio",
+            "0- There is no change ",
+            "4-He s aware of what o"
+        ],
+        "median tf-idf score": 0.4908166760003099,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "The Democratic National Committee said Friday: \u201cDonald Trump is either too incompetent to understand that his foolish phone call threatens our national security, or he\u2019s doing it deliberately because he reportedly wants to build hotels in Taiwan to pad his own pockets.",
+            "\u201cThere is no change to our longstanding policy to   issues,\u201d National Security Council spokesman Ned Price said in the statement.",
+            "He\u2019s aware of what our nation\u2019s policy is,\u201d she said."
+        ],
+        "tf-idf score": [
+            1.05711673793123,
+            0.4908166760003099,
+            0.2968346608799631
+        ]
+    },
+    "0.18734861592418262-3-109": {
+        "average clique similarity": 0.18734861592418262,
+        "clique": [
+            "4- Donald Trump s   te",
+            "0-China s Foreign Mini",
+            "3- China lodged a dipl"
+        ],
+        "median tf-idf score": 1.354722812357579,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            " Donald Trump\u2019s   telephone call with Taiwan\u2019s leader was an intentionally provocative move that establishes the incoming president as a break with the past, according to interviews with people involved in the planning.",
+            "China\u2019s Foreign Minister Wang Yi said in a statement that the phone call between Trump and Taiwan\u2019s president was \u201conly a small move by the Taiwan side.",
+            " China lodged a diplomatic protest on Saturday after U S   Donald Trump spoke by phone with President Tsai   of Taiwan, but blamed the   island Beijing claims as its own for the \u201dpetty\u201d move."
+        ],
+        "tf-idf score": [
+            1.0225035678110541,
+            1.4838588270264725,
+            1.354722812357579
+        ]
+    },
+    "0.18759019090106754-3-282": {
+        "average clique similarity": 0.18759019090106754,
+        "clique": [
+            "4-The United States ma",
+            "3-China considers Taiw",
+            "1-Under that policy  t"
+        ],
+        "median tf-idf score": 0.6543644606123387,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "The United States maintains a military relationship with Taiwan, which Beijing considers a province, but closed its embassy there in 1979.",
+            "China considers Taiwan a wayward province and has never renounced the use of force to bring it under its control.",
+            "Under that policy, the United States recognizes Beijing as representing China but retains unofficial ties with Taiwan."
+        ],
+        "tf-idf score": [
+            0.5501290104015659,
+            0.6543644606123387,
+            0.810935708376708
+        ]
+    },
+    "0.20245604121478955-3-36": {
+        "average clique similarity": 0.20245604121478955,
+        "clique": [
+            "0-The call was first r",
+            "3-Taiwan was not menti",
+            "4-It was not an accide"
+        ],
+        "median tf-idf score": 0.5199546362714105,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The call was first reported by the Financial Times, which noted that it was not clear whether the phone call was part of a broader strategy and change the US policy toward Taiwan and China, or if the call was made without consideration of the possible political blowback.",
+            "Taiwan was not mentioned in that call, according to an official Chinese transcript.",
+            "It was not an accident."
+        ],
+        "tf-idf score": [
+            0.9561709730772618,
+            0.5199546362714105,
+            0.13520902464110626
+        ]
+    },
+    "0.20293448734955813-3-374": {
+        "average clique similarity": 0.20293448734955813,
+        "clique": [
+            "3-Trump has eschewed t",
+            "1-And since winning th",
+            "4- Of course all    ca"
+        ],
+        "median tf-idf score": 0.7591755866011095,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Trump has eschewed tradition in other calls with foreign leaders since he won the U S election, prompting the White House to encourage him to make use of the diplomatic expertise and counsel of the State Department.",
+            "And since winning the Nov. 8 election, Trump has apparently undertaken calls with other foreign leaders without guidance customarily lent by the State Department, which oversees U S diplomacy.",
+            "\u201cOf course all    calls are well planned,\u201d said Richard Grenell, a former State Department official who has advised the Trump transition effort."
+        ],
+        "tf-idf score": [
+            0.8021276103277722,
+            0.69272863150035,
+            0.7591755866011095
+        ]
+    },
+    "0.21303771784463665-3-73": {
+        "average clique similarity": 0.21303771784463665,
+        "clique": [
+            "3-Trump adviser Kellya",
+            "0-She also pushed back",
+            "4- Very early on  Taiw"
+        ],
+        "median tf-idf score": 0.9683102448979657,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Trump adviser Kellyanne Conway said on CNN that Trump was \u201dwell aware of what U S policy has been\u201d on Taiwan.",
+            "She also pushed back on questions on whether Trump had been briefed on US relations with China and Taiwan before the call.",
+            "\u201cVery early on, Taiwan was on that list,\u201d said Stephen Yates, a national security official during the presidency of George W Bush and an expert on China and Taiwan."
+        ],
+        "tf-idf score": [
+            1.1114544813151193,
+            0.875181004413573,
+            0.9683102448979657
+        ]
+    },
+    "0.22069880810702536-3-189": {
+        "average clique similarity": 0.22069880810702536,
+        "clique": [
+            "1-The Taiwanese presid",
+            "0-A readout of the Tru",
+            "3-Taiwan s presidentia"
+        ],
+        "median tf-idf score": 1.040925747082305,
+        "publications": [
+            "Fox News",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "The Taiwanese presidential office issued a statement early Saturday saying Trump and Tsai discussed issues affecting Asia and the future of U S relations with Taiwan.",
+            "A readout of the Trump call issued by the Taiwan president\u2019s office stated the call was about 10 minutes long, during which developing closer economic and \u201cnational defense\u201d ties was discussed.",
+            "Taiwan\u2019s presidential office said the two discussed strengthening bilateral interactions and establishing closer cooperation."
+        ],
+        "tf-idf score": [
+            1.040925747082305,
+            1.0765078244996416,
+            0.6103681566028517
+        ]
+    },
+    "0.22092394987247252-3-374": {
+        "average clique similarity": 0.22092394987247252,
+        "clique": [
+            "3- I believe that it w",
+            "4- There was no policy",
+            "0-  After the phone ca"
+        ],
+        "median tf-idf score": 0.8197656158344111,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201dI believe that it won\u2019t change the longstanding \u2019one China\u2019 policy of the United States government\u201d.",
+            "\u201cThere was no policy discussion, and everyone involved is well aware of the \u2018One China\u2019 policy,\u201d Grenell said, referring to the   shift that established formal direct ties between Washington and Beijing.",
+            "\u201d After the phone call, the White House National Security Council released a statement to several news outlets stating that there was no change to its \u201cone China\u201d policy, which recognizes the mainland government."
+        ],
+        "tf-idf score": [
+            0.5357573079433982,
+            0.8197656158344111,
+            0.819925165197715
+        ]
+    },
+    "0.22127516304233755-3-24": {
+        "average clique similarity": 0.22127516304233755,
+        "clique": [
+            "0- The   principle is ",
+            "4- We salute the peopl",
+            "3- The one China princ"
+        ],
+        "median tf-idf score": 0.2713250290514581,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cThe   principle is the cornerstone of the healthy development of the   relations, and we do not want any interference or destruction of this political foundation.",
+            "\u201cWe salute the people of Taiwan, with whom we share the values of democracy, human rights, a free market economy, and the rule of law,\u201d the platform said, adding that the current documents governing U S  relations should stand but adding, \u201cChina\u2019s behavior has negated the optimistic language of our last platform concerning our future relations with China.",
+            "\u201dThe one China principle is the political basis of the  ."
+        ],
+        "tf-idf score": [
+            0.18517109596125006,
+            0.9943443550919453,
+            0.2713250290514581
+        ]
+    },
+    "0.2448166342772541-3-142": {
+        "average clique similarity": 0.2448166342772541,
+        "clique": [
+            "3-Relations between th",
+            "2-Tsai  Taiwan s first",
+            "4-Priebus is reported "
+        ],
+        "median tf-idf score": 0.7026560742472301,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "Relations between the two sides have worsened since Tsai, who heads the   Democratic Progressive Party, was elected president in January.",
+            "Tsai, Taiwan\u2019s first female president, was elected in January as a   candidate.",
+            "Priebus is reported to have visited Taiwan with a Republican delegation in 2011 and in October 2015, meeting Tsai before she was elected president."
+        ],
+        "tf-idf score": [
+            0.5158419345550432,
+            0.7026560742472301,
+            0.7433829892262619
+        ]
+    },
+    "0.25496716908212874-3-374": {
+        "average clique similarity": 0.25496716908212874,
+        "clique": [
+            "0-According to a reado",
+            "4-Edward J Feulner  a ",
+            "1-A statement from Tru"
+        ],
+        "median tf-idf score": 0.8690214656498343,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "According to a readout of the call provided by Trump\u2019s transition team, the   spoke with Taiwanese President Tsai   and noted the two nation\u2019s \u201cclose economic, political and security ties.",
+            "Edward J Feulner, a longtime former president of the Heritage Foundation, has for decades cultivated extensive ties with Taiwan and is serving as an adviser to Trump\u2019s transition team.",
+            "A statement from Trump\u2019s transition team said Tsai during the call offered her congratulations to the  ."
+        ],
+        "tf-idf score": [
+            0.8690214656498343,
+            0.9538919707099965,
+            0.7017750396359733
+        ]
+    },
+    "0.2594261425991155-4-298": {
+        "average clique similarity": 0.2594261425991155,
+        "clique": [
+            "1-The White House lear",
+            "2-The White House  whi",
+            "3-The White House also",
+            "0-   Donald Trump took"
+        ],
+        "median tf-idf score": 1.1256356963491476,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The White House learned of the conversation after it had taken place, said a senior Obama administration official, who requested anonymity because of the sensitive diplomatic relations involved.",
+            "The White House, which was unaware of the phone call ahead of time, said that it changed nothing about the nation\u2019s \u201clongstanding policy\u201d on China and Taiwan.",
+            "The White House also said after Trump\u2019s call that \u201dlongstanding policy\u201d on China and Taiwan had not changed.",
+            "   Donald Trump took the highly unusual step Friday of speaking directly with the president of Taiwan in a phone call, a move that prompted reassurances from the White House because it is likely to anger China."
+        ],
+        "tf-idf score": [
+            0.5903948771159834,
+            1.1290285906852415,
+            1.122242802013054,
+            1.2248864562294632
+        ]
+    },
+    "0.2707194386038621-3-195": {
+        "average clique similarity": 0.2707194386038621,
+        "clique": [
+            "2-The Chinese Foreign ",
+            "0-  China  firmly  opp",
+            "3-China s Foreign Mini"
+        ],
+        "median tf-idf score": 0.8794563278263579,
+        "publications": [
+            "New York Post",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "The Chinese Foreign Ministry said Saturday that it had lodged \u201cstern representations\u201d with the \u201crelevant U S side\u201d  \u2014   without saying whether that meant the U S State Department or the Trump transition team.",
+            "\u201d China \u201cfirmly\u201d opposes any interaction between the US and Taiwan, the ministry of foreign affairs office said.",
+            "China\u2019s Foreign Ministry said it had lodged \u201dstern representations\u201d with what it called the \u201drelevant U S side\u201d urging the careful handling of the Taiwan issue to avoid any unnecessary disturbances in ties."
+        ],
+        "tf-idf score": [
+            0.8794563278263579,
+            0.8612156460801922,
+            0.93860354183564
+        ]
+    },
+    "0.2787028430983765-3-374": {
+        "average clique similarity": 0.2787028430983765,
+        "clique": [
+            "2-China s Foreign Mini",
+            "3-Speaking earlier  ho",
+            "1-Chinese Foreign Mini"
+        ],
+        "median tf-idf score": 0.9982541163257262,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "China\u2019s Foreign Minister, Wang Yi, made light of the incident despite his government\u2019s formal objections, dismissing it as \u201ca little trick\u201d on Taiwan\u2019s part.",
+            "Speaking earlier, hours after Friday\u2019s telephone call, Chinese Foreign Minister Wang Yi pointedly blamed Taiwan for the exchange, rather than Trump, a billionaire businessman with little foreign policy experience.",
+            "Chinese Foreign Minister Wang Yi said the call was \u201djust a small trick by Taiwan\u201d and that he didn\u2019t think it would change U S foreign policy toward China, according to Hong Kong\u2019s Phoenix TV The conversation Friday between Taiwanese President Tsai   and Trump, a   elected official with no official foreign policy experience, indeed broke with   diplomatic tradition."
+        ],
+        "tf-idf score": [
+            0.7991501714928659,
+            0.9982541163257262,
+            2.0081201311868733
+        ]
+    },
+    "0.28129385693721565-4-245": {
+        "average clique similarity": 0.28129385693721565,
+        "clique": [
+            "0-China regularly reac",
+            "3-The   telephone call",
+            "1-Washington has pursu",
+            "2-It was the first dir"
+        ],
+        "median tf-idf score": 0.9825428747372104,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "China regularly reacts with anger to any official recognition of Taiwan\u2019s government, especially from the US In Beijing, where any discussion of Taiwanese independence is considered a political third rail, the foreign policy community was swift to condemn the call.",
+            "The   telephone call with Taiwan\u2019s leadership was the first by a U S   or president since President Jimmy Carter switched diplomatic recognition from Taiwan to China in 1979, acknowledging Taiwan as part of \u201done China\u201d.",
+            "Washington has pursued a   \u201done China\u201d policy since 1979, when it shifted diplomatic recognition of China from the government in Taiwan to the communist government on the mainland.",
+            "It was the first direct communication between a Taiwanese and American leader or    since 1979, when President Jimmy Carter withdrew diplomatic recognition of Taiwan in favor of a U S relationship with China."
+        ],
+        "tf-idf score": [
+            1.063573515407097,
+            0.9101273713452107,
+            0.8463622287910306,
+            1.05495837812921
+        ]
+    },
+    "0.3002758231522416-3-115": {
+        "average clique similarity": 0.3002758231522416,
+        "clique": [
+            "3-In comments at the s",
+            "4-Grenell and others n",
+            "1-And he has met Chine"
+        ],
+        "median tf-idf score": 0.6831116563053558,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In comments at the same forum, Wang noted how quickly President Xi Jinping and Trump had spoken by telephone after Trump\u2019s victory, and that Trump had praised China as a great country.",
+            "Grenell and others noted that the call came about two weeks after Trump had spoken with Chinese President Xi Jinping and that it was not substantive.",
+            "And he has met Chinese President Xi Jinping twice and Putin once."
+        ],
+        "tf-idf score": [
+            0.837123627604798,
+            0.6831116563053558,
+            0.3397400995013711
+        ]
+    },
+    "0.30653127229816524-3-131": {
+        "average clique similarity": 0.30653127229816524,
+        "clique": [
+            "4-   Gordon Chang  an ",
+            "2-Trump said on Twitte",
+            "3-Trump said on Twitte"
+        ],
+        "median tf-idf score": 1.047505041183775,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201d  Gordon Chang, an Asia expert and author of \u201c The Coming Collapse of China\u201d said Trump\u2019s tweet Friday night that he had just accepted a call from Tsai was \u201cnot credible.",
+            "Trump said on Twitter Friday that Tsai had initiated the call: \u201cThe President of Taiwan CALLED ME today to wish me congratulations on winning the Presidency.",
+            "Trump said on Twitter that Tsai had initiated the call he had with the Taiwan president."
+        ],
+        "tf-idf score": [
+            1.047505041183775,
+            1.1922286947806218,
+            1.0129144859059447
+        ]
+    },
+    "0.3154967588570015-3-239": {
+        "average clique similarity": 0.3154967588570015,
+        "clique": [
+            "1- The president also ",
+            "4-  Tsai s office said",
+            "2- The president of th"
+        ],
+        "median tf-idf score": 1.1738770793323667,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dThe president also told U S   Trump that she hopes the U S will continue to support Taiwan\u2019s efforts in having more opportunities to participate in and contribute to international affairs in the future,\u201d Tsai\u2019s office said.",
+            "\u201d Tsai\u2019s office said she had told Trump during the phone call that she hoped the United States \u201cwould continue to support more opportunities for Taiwan to participate in international issues.",
+            "\u201cThe president of the United States should talk to whomever he wants if he thinks it\u2019s in the interest of the United States, and nobody in Beijing gets to dictate who we talk to,\u201d he told Fox News on Saturday."
+        ],
+        "tf-idf score": [
+            1.1738770793323667,
+            1.1761080812767193,
+            0.5083720199684896
+        ]
+    },
+    "0.377738809383169-3-43": {
+        "average clique similarity": 0.377738809383169,
+        "clique": [
+            "2- Of course both side",
+            "3-Alex Huang  a spokes",
+            "4-It was planned weeks"
+        ],
+        "median tf-idf score": 0.5271884437871477,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cOf course both sides agreed ahead of time before making contact,\u201d said a spokesman for Tsai, who was even photographed while speaking to Trump.",
+            "Alex Huang, a spokesman for Tsai, said: \u201dOf course both sides agreed ahead of time before making contact\u201d.",
+            "It was planned weeks ahead by staffers and Taiwan specialists on both sides, according to people familiar with the plans."
+        ],
+        "tf-idf score": [
+            0.866305585820349,
+            0.4446816872686341,
+            0.5271884437871477
+        ]
+    },
+    "0.46417232602478303-3-218": {
+        "average clique similarity": 0.46417232602478303,
+        "clique": [
+            "0-     Trump also cong",
+            "1-The statement also s",
+            "2-In Trump s   talk wi"
+        ],
+        "median tf-idf score": 1.330938987017032,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201d \u201c  Trump also congratulated President Tsai on becoming President of Taiwan earlier this year,\u201d the statement added.",
+            "The statement also said the two leaders discussed their \u201cclose economic, political, and security ties\u201d and that Trump, a Republican, congratulated Tsai on becoming president of Taiwan earlier this year.",
+            "In Trump\u2019s   talk with President Tsai   of Taiwan on Friday, aides said, the two leaders \u201cnoted the close economic, political, and security ties   \u2026     between Taiwan and the United States\u201d and congratulated one another on their recent electoral victories."
+        ],
+        "tf-idf score": [
+            0.9172550489675493,
+            1.330938987017032,
+            1.4991298825074624
+        ]
+    },
+    "0.5533333809966482-3-374": {
+        "average clique similarity": 0.5533333809966482,
+        "clique": [
+            "3- The President of Ta",
+            "1-Trump tweeted Friday",
+            "0-The President of Tai"
+        ],
+        "median tf-idf score": 0.5385381419863643,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201dThe President of Taiwan CALLED ME today to wish me congratulations on winning the Presidency.",
+            "Trump tweeted Friday: \u201dThe President of Taiwan CALLED ME today to wish me congratulations on winning the Presidency.",
+            "The President of Taiwan CALLED ME today to wish me congratulations on winning the Presidency."
+        ],
+        "tf-idf score": [
+            0.5385381419863643,
+            0.8853154732138004,
+            0.5385381419863643
+        ]
+    },
+    "0.8667512216891479-3-23": {
+        "average clique similarity": 0.8667512216891479,
+        "clique": [
+            "0-Interesting how the ",
+            "3- Interesting how the",
+            "2- Interesting how the"
+        ],
+        "median tf-idf score": 0.43640269500703477,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Interesting how the U S sells Taiwan billions of dollars of military equipment but I should not accept a congratulatory call.",
+            "\u201dInteresting how the U S sells Taiwan billions of dollars of military equipment but I should not accept a congratulatory call,\u201d Trump said in another tweet.",
+            "\u201cInteresting how the U S sells Taiwan billions of dollars of military equipment but I should not accept a congratulatory call,\u201d he wrote on Twitter."
+        ],
+        "tf-idf score": [
+            0.4039023803430416,
+            0.8718816677002346,
+            0.43640269500703477
+        ]
+    }
+}

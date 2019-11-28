@@ -1,0 +1,786 @@
+{
+    "0.1373457418145442-3-112": {
+        "average clique similarity": 0.1373457418145442,
+        "clique": [
+            "2-Ahmad Khan Rahami s ",
+            "0-The man  who turned ",
+            "4-Rahami  who was shot"
+        ],
+        "median tf-idf score": 0.9343039510861757,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Ahmad Khan Rahami's wife, who was not named, had flown from the U S to Pakistan days ago, the Los Angeles Times reported.",
+            "The man, who turned out to be Rahami, fired on the police officer who was wearing a   vest, said Armstead.",
+            "Rahami, who was shot multiple times, was taken to University Hospital in Newark for surgery, officials said."
+        ],
+        "tf-idf score": [
+            0.888822634606646,
+            0.9343039510861757,
+            0.9737419103498698
+        ]
+    },
+    "0.1493725180501977-3-91": {
+        "average clique similarity": 0.1493725180501977,
+        "clique": [
+            "5- It s like he was a ",
+            "2-A childhood friend  ",
+            "6-Jones had known Raha"
+        ],
+        "median tf-idf score": 0.7858954173448084,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"It's like he was a   completely different person,\" Flee Jones, who grew up with   Rahami, told the Times.",
+            "A childhood friend, Flee Jones, said Rahami had become more religious after returning from a trip to Afghanistan several years ago.",
+            "Jones had known Rahami since they were 14."
+        ],
+        "tf-idf score": [
+            0.7975429499723106,
+            0.7858954173448084,
+            0.4103403686771859
+        ]
+    },
+    "0.15366798899042677-3-3": {
+        "average clique similarity": 0.15366798899042677,
+        "clique": [
+            "4-A day after a shooto",
+            "1-According to the arr",
+            "5-    Rahami is not be"
+        ],
+        "median tf-idf score": 0.5825000384939057,
+        "publications": [
+            "Business Insider",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "A day after a shootout with police that ended in the arrest of     Ahmad Khan Rahami, there were no signs that the probe had expanded to other possible suspects or groups.",
+            "According to the arrest warrant, 'the officer has reason to believe that the person [Ahmad Rahami] is a danger to himself, others, or property.'",
+            "'   Rahami is not believed to have a connection to a  on Saturday, for which ISIS has   claimed responsibility. ' '* There''s no evidence he''s connected to ISIS, Al Qaeda,   or other foreign terror organizations."
+        ],
+        "tf-idf score": [
+            0.5883113893862758,
+            0.5825000384939057,
+            0.5634341368315101
+        ]
+    },
+    "0.1536999436272573-3-473": {
+        "average clique similarity": 0.1536999436272573,
+        "clique": [
+            "3-Two years later  in ",
+            "1-It also notes that o",
+            "4-An officer went to w"
+        ],
+        "median tf-idf score": 0.854763313658428,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Two years later, in April 2013, Rahami went to Pakistan and stayed there until March 2014, the official said. His brother Mohammad traveled to Pakistan about the same time.",
+            "It also notes that one of Ahmad Rahami's brothers \"went to Pakistan following a fight with a police officer. \" This was another older brother, Qasim, according to the UK Telegraph.",
+            "An officer went to wake the man, and Rahami lifted his head."
+        ],
+        "tf-idf score": [
+            0.854763313658428,
+            0.8987194556033583,
+            0.45322683560119936
+        ]
+    },
+    "0.1538208174297361-3-151": {
+        "average clique similarity": 0.1538208174297361,
+        "clique": [
+            "0-Two officers were in",
+            "4-Among the pieces bei",
+            "1-The lawsuit they fil"
+        ],
+        "median tf-idf score": 1.0255860591561556,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Two officers were injured during the confrontation. During a press conference, New York Mayor Bill de Blasio said authorities have \"every reason to believe that this was an act of terror\".",
+            "Among the pieces being analyzed were video from New York and electronic toll records that showed a car Rahami had driven in the past traveled from from New Jersey to Manhattan and back on Saturday, the Associated Press reported, citing officials who spoke on condition of anonymity because they were not authorized to discuss an ongoing case.",
+            "The lawsuit they filed in 2011 claimed they were harassed by both neighbors and city officials, the latter pestering them with unnecessary regulations and ordinances. The city insisted its regulatory actions were solely due to noise complaints. According to NJ com, \"two members of the Rahami family were arrested during a confrontation with police in 2009, stemming from an officer issuing a summons to the establishment for being open late. \" That sounds like it would cover the conflicts between his older brothers and the police."
+        ],
+        "tf-idf score": [
+            0.8629464936870233,
+            1.0255860591561556,
+            1.0520303846568089
+        ]
+    },
+    "0.15763111244726377-3-98": {
+        "average clique similarity": 0.15763111244726377,
+        "clique": [
+            "2- I m always interest",
+            "1-They also told her w",
+            "0- One of our police o"
+        ],
+        "median tf-idf score": 0.5647523674461994,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\"I'm always interested in who he met with, who he talked to. Was he radicalized over there? One thing is clear. .. something happened to him when he went overseas,\" the chairman of the House Homeland Security Committee, Texas Rep. Mike McCaul, told \"America's Newsroom\" on Tuesday.",
+            "They also told her when she had the baby they had to get an immigrant visa for the baby. At that point, Rahami claims the consulate told him to go back to Karachi, Pakistan, but he claimed it was too dangerous to go there. The congressman doesn't know what happened after that.",
+            "\"One of our police officers went to investigate and to wake him up and realized that he was the suspect that was being sought in the other bombings that had occurred prior,\" Armstead told reporters."
+        ],
+        "tf-idf score": [
+            0.5647523674461994,
+            0.7533086171334832,
+            0.5338883251591798
+        ]
+    },
+    "0.15901452134691085-3-226": {
+        "average clique similarity": 0.15901452134691085,
+        "clique": [
+            "5-An officer recognize",
+            "3-Bains said he recogn",
+            "4-FBI agents Monday in"
+        ],
+        "median tf-idf score": 0.6717185081490847,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "An officer recognized the man   as Rahami, and  between the two. The officer was hit in   his bulletproof vest over his abdomen.",
+            "Bains said he recognized Rahami after seeing pictures of the suspect on CNN and called police.",
+            "FBI agents Monday in Elizabeth, N J (Mel  )  The officer immediately recognized him from the \"be on the lookout\" alert that was distributed, Armstead said."
+        ],
+        "tf-idf score": [
+            0.6967348432285674,
+            0.6717185081490847,
+            0.6376764773852438
+        ]
+    },
+    "0.1627329258077944-3-386": {
+        "average clique similarity": 0.1627329258077944,
+        "clique": [
+            "5-New York Gov  Andrew",
+            "6-Loretta Lynch  the U",
+            "4- Now that we have th"
+        ],
+        "median tf-idf score": 0.56559475750468,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "New York Gov. Andrew Cuomo said he \"would not be   surprised if we did have a foreign connection to the act\". '",
+            "Loretta Lynch, the U S attorney general, said Tuesday the explosions were being investigated \"as an act of terror. \" Police on Tuesday were trying to understand if Rahami acted alone and why he did what he did.",
+            "\"Now that we have this suspect in custody, the investigation can focus on other aspects, such as whether this individual acted alone and what his motivations may have been,\" said New York Police Commissioner James O'Neill."
+        ],
+        "tf-idf score": [
+            0.46324965013064096,
+            0.7353744291950506,
+            0.56559475750468
+        ]
+    },
+    "0.1643790084999223-3-186": {
+        "average clique similarity": 0.1643790084999223,
+        "clique": [
+            "6-It was around this t",
+            "3-Ultimately  federal ",
+            "4-Federal law enforcem"
+        ],
+        "median tf-idf score": 0.9847348816473316,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "It was around this time that Rahami was arrested for stabbing his brother.",
+            "Ultimately, federal investigators believed it was a domestic dispute, federal officials told CNN At the time of that interview, Rahami was in jail following a family dispute in which he stabbed one of his relatives.",
+            "Federal law enforcement officials said they believe Rahami was responsible for that incident, too."
+        ],
+        "tf-idf score": [
+            0.6927593426069937,
+            1.0115879920623216,
+            0.9847348816473316
+        ]
+    },
+    "0.16790637317458135-3-35": {
+        "average clique similarity": 0.16790637317458135,
+        "clique": [
+            "0-Sweeney said they ha",
+            "3-He was questioned ev",
+            "1-Despite assurances t"
+        ],
+        "median tf-idf score": 0.7881853851657614,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Sweeney said they had received information that he was involved in some kind of domestic dispute, but he also said that Rahami was not presently on the FBI's radar.",
+            "He was questioned every time he returned to the United States, as is standard procedure, but was not on the radar as someone who might have been radicalized, one official said.",
+            "Despite assurances that Rahami was not on any terror watch lists or \"law enforcement radar,\" he did have a troubling legal history, which American media seems very reluctant to discuss."
+        ],
+        "tf-idf score": [
+            0.8602683802526173,
+            0.6973774466536627,
+            0.7881853851657614
+        ]
+    },
+    "0.16918847532553602-3-372": {
+        "average clique similarity": 0.16918847532553602,
+        "clique": [
+            "5-    According to The",
+            "3-While authorities be",
+            "1-The Rahami family re"
+        ],
+        "median tf-idf score": 0.7516747970064662,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Business Insider"
+        ],
+        "sentences": [
+            "'   According to The Times, the Rahami family sued the city, the   police department, and about 15 police officers,   claiming they had been discriminated against because of   their race and ethnicity. '",
+            "While authorities believe they have their main suspect, they're still trying to figure out a motive    and whether Rahami had help.",
+            "The Rahami family restaurant was the cause of some trouble with local authorities. There were complaints that it created too much noise late at night, while the family claimed they were being discriminated against because they were Muslims."
+        ],
+        "tf-idf score": [
+            0.7516747970064662,
+            0.4657425572531169,
+            0.8402603603747807
+        ]
+    },
+    "0.16982453658239263-3-52": {
+        "average clique similarity": 0.16982453658239263,
+        "clique": [
+            "3-Quetta is considered",
+            "1- A U S official told",
+            "5-Four years ago  he  "
+        ],
+        "median tf-idf score": 0.8082399566527051,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Quetta is considered a stronghold of the Taliban. He married his wife during that trip. Upon his return to the United States, Rahami had to go through secondary screening because he visited an area of Pakistan known for its Taliban presence, according to the official.",
+            "[A U S official told the Daily Beast that Rahami made \"at least three and possibly four trips to Pakistan over the past 10 years,\" but it is not known which parts of the country he visited. Of particular interest is whether he spent time in the   border regions.",
+            "Four years ago, he   visited his native Afghanistan, and changed drastically   upon returning to the US  after his trip, Rahami   started growing a beard, wearing traditional Muslim clothing, and   praying at work. He also   became noticeably more serious."
+        ],
+        "tf-idf score": [
+            0.8082399566527051,
+            0.8143132987760402,
+            0.649774535899065
+        ]
+    },
+    "0.17306557302386727-3-200": {
+        "average clique similarity": 0.17306557302386727,
+        "clique": [
+            "2-Rahami wasn t on any",
+            "4-Law enforcement offi",
+            "6-2 million bail  He h"
+        ],
+        "median tf-idf score": 0.8734517762448331,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Rahami wasn't on any terror or   watch lists, though he had been interviewed for immigration purposes traveling between the U S and Afghanistan, one of the law enforcement officials said.",
+            "Law enforcement officials said they believed Rahami was responsible for the bombing in New York's Chelsea neighborhood Saturday night that wounded 29 and for a blast earlier that day along a scheduled race route in Seaside Park, N J No one was hurt in that incident, as racers had yet to pass the site.",
+            "2 million bail. He has not yet been charged with the bombings on Saturday in Seaside Park, New Jersey, and Manhattan, New York, or for the other bombs authorities found over the weekend."
+        ],
+        "tf-idf score": [
+            0.8734517762448331,
+            1.4436910381059544,
+            0.5557238775636649
+        ]
+    },
+    "0.1834823659621946-3-81": {
+        "average clique similarity": 0.1834823659621946,
+        "clique": [
+            "1-According to a repor",
+            "6-Both places are know",
+            "5-However    authoriti"
+        ],
+        "median tf-idf score": 1.0733894913934052,
+        "publications": [
+            "Business Insider",
+            "Breitbart",
+            "Atlantic"
+        ],
+        "sentences": [
+            "According to a report at the Daily Beast, Ahmad Khan Rahami, accused perpetrator of the weekend terrorist bombings in New York and New Jersey, traveled to Pakistan and Afghanistan several times without the U S government becoming aware of his activities.",
+            "Both places are known for their ties to terrorism, but are also home to Afghans who have fled decades of violence in their country. The New York Times reported Tuesday that in 2014 Mohammed Rahami told police his son was a terrorist after the younger Rahami was arrested and accused of stabbing his brother.",
+            "However,   authorities are exploring a possible link to international   terrorist groups. After initially insisting the New York bombings   weren''t linked to international terrorism, New York City Mayor   Bill de Blasio  the attack appeared to be a \"specific act of   terror\"."
+        ],
+        "tf-idf score": [
+            1.0733894913934052,
+            1.2854453127271421,
+            0.5564595283220883
+        ]
+    },
+    "0.1852789685724869-3-360": {
+        "average clique similarity": 0.1852789685724869,
+        "clique": [
+            "4-They quietly zeroed ",
+            "6-The people who knew ",
+            "1-There is  some confu"
+        ],
+        "median tf-idf score": 1.054500080529826,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "They quietly zeroed in on Rahami, a      man whose family runs a   joint in Elizabeth, N J Sweeney said that Rahami was not previously on the FBI's radar and that investigators were working to determine whether he was radicalized in some way or if there was some other motive.",
+            "The people who knew him said they were shocked to learn he was a suspect, but some of them said they'd noticed a change after Rahami traveled abroad about four years ago, with some media outlets reporting he made trips to Quetta, Pakistan and Kandahar, Afghanistan.",
+            "There is \"some confusion\" over Rahami's citizenship status, as he was brought to the United States in 1995 to seek asylum, but it is unclear if he or the rest of his family were ever granted legal residency. \"It may have taken some time for their application to be processed and approved,\" the Daily Beast ventures."
+        ],
+        "tf-idf score": [
+            1.054500080529826,
+            1.1137323025935737,
+            0.8920867830739541
+        ]
+    },
+    "0.18923868887054163-3-280": {
+        "average clique similarity": 0.18923868887054163,
+        "clique": [
+            "1-A law enforcement of",
+            "4-U S law enforcement ",
+            "3-Here s what we know "
+        ],
+        "median tf-idf score": 1.1383260592587523,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "A law enforcement official told CNN that Rahami filed the paperwork in 2011, and it was approved in 2012.",
+            "U S law enforcement and intelligence officials said that Rahami made several trips to Afghanistan and Pakistan between 2011 and 2014 and that they were trying to determine whether he was radicalized abroad.",
+            "Here's what we know about the suspect: His background and education,    Rahami was born in Afghanistan in 1988 and first came to the United States in 1995, several years after his father arrived seeking asylum, a law enforcement official said."
+        ],
+        "tf-idf score": [
+            0.8286328871517643,
+            1.1383260592587523,
+            1.2387131404628189
+        ]
+    },
+    "0.19262771248706584-4-529": {
+        "average clique similarity": 0.19262771248706584,
+        "clique": [
+            "4-Prosecutors in New J",
+            "6-Rahami was a   Afgha",
+            "1-Most other media sou",
+            "5-The FBI described   "
+        ],
+        "median tf-idf score": 0.6976264891111714,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Breitbart",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Prosecutors in New Jersey charged Rahami, a naturalized U S citizen and Afghanistan native, with five counts of attempted murder of a law enforcement officer.",
+            "Rahami was a   Afghan immigrant who became a naturalized American citizen.",
+            "Most other media sources    describe Rahami as a naturalized U S citizen.",
+            "The FBI described   him as a naturalized US citizen whose last known address was in   Elizabeth, New Jersey. \" '* He became a \"completely different person\" after   a trip to Afghanistan."
+        ],
+        "tf-idf score": [
+            0.8684308003478924,
+            0.6441196791015482,
+            0.4016519053408995,
+            0.7511332991207947
+        ]
+    },
+    "0.199665525359883-3-375": {
+        "average clique similarity": 0.199665525359883,
+        "clique": [
+            "3-The family has a his",
+            "5-The Rahamis did not ",
+            "2-The lawsuit was term"
+        ],
+        "median tf-idf score": 0.9032153825050219,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "The family has a history of clashes with the community over the restaurant, which used to be open 24 hours a day,     The Rahami family alleged discrimination and harassment in a lawsuit against the city and its police department in 2011, arguing that officials conspired against them with citations for allegedly violating a city ordinance on hours of operation.",
+            "The Rahamis did not comply with a City   Council ordinance to close the restaurant at 10 p. m. and one of   Rahami's brothers was arrested after fighting a police officer   who came to close the restaurant, but fled to Afghanistan before   the case could be resolved. \"",
+            "The lawsuit was terminated in 2012 because one of Rahami's brothers had pleaded guilty to blocking police from enforcing closing hours at the restaurant."
+        ],
+        "tf-idf score": [
+            0.9032153825050219,
+            1.0249674994373423,
+            0.8228059614313076
+        ]
+    },
+    "0.20579769719652766-4-260": {
+        "average clique similarity": 0.20579769719652766,
+        "clique": [
+            "0-FBI agents search a ",
+            "5-   He made multiple ",
+            "4-Sunday night  at a t",
+            "6-It was near his home"
+        ],
+        "median tf-idf score": 0.7996185365651751,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "FBI agents search a residence in Elizabeth, N J above a restaurant. Sunday night: At a train station in Elizabeth, N J FBI technicians working on one of five bombs in a backpack that was initially discovered in a trash can detonate the bomb. No injuries are reported. FBI agents stopped \"a vehicle of interest\" in Brooklyn in connection to the Manhattan explosion, the AP reports, citing FBI spokeswoman Kelly Langmesser. The AP says five people were in the car.",
+            "'* He made multiple   trips to Pakistan. One yearlong visit resulted in his   marriage to a Pakistani woman, .  ' \"* He's believed to have connections to three bomb   incidents this weekend: One bomb exploded in New Jersey   before the start of a charity race on Saturday morning; another   exploded in New York City on Saturday night and injured 29   people; and additional unexploded devices were found in New   Jersey on Sunday. \"",
+            "Sunday night, at a train station not far from the Rahami home in Elizabeth, two homeless men found more explosives in a backpack, and in trying to render them safe, authorities inadvertently detonated one. No one was hurt.",
+            "It was near his home that one of the many bombs he's suspected of planting were found in a backpack Sunday night."
+        ],
+        "tf-idf score": [
+            0.8039392101277782,
+            0.8476722276398735,
+            0.795297863002572,
+            0.35867733022498255
+        ]
+    },
+    "0.2133539650494829-3-240": {
+        "average clique similarity": 0.2133539650494829,
+        "clique": [
+            "1-The Chelsea Patch re",
+            "6-About four years ago",
+            "3-His travels to Afgha"
+        ],
+        "median tf-idf score": 0.7121645650320394,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "The Chelsea Patch reports Rahami became a naturalized citizen in 2011, and \"almost immediately\" took his first trip back to Afghanistan. He \"spent close to a year\" in Pakistan in 2013, according to the Patch's sources.",
+            "About four years ago, Rahami took a trip to Afghanistan, according to Flee Jones, a friend who spoke with the Boston Herald.",
+            "His travels to Afghanistan and Pakistan,    Rahami traveled to Afghanistan multiple times, according to law enforcement sources."
+        ],
+        "tf-idf score": [
+            0.7401163267750048,
+            0.6643794047206102,
+            0.7121645650320394
+        ]
+    },
+    "0.21941507854543263-3-459": {
+        "average clique similarity": 0.21941507854543263,
+        "clique": [
+            "1-The Daily Beast note",
+            "6-Rahami  28  worked m",
+            "2-Rahami  28  a Muslim"
+        ],
+        "median tf-idf score": 0.8689175810445106,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The Daily Beast notes his father spent at least a month there in 2011, and upon his return, his lawyer told the judge in a civil suit that his family would still be in Afghanistan for at least a few days. Rahami's older brother is in Pakistan right now.",
+            "Rahami, 28, worked much of his adult life at First American Fried Chicken, his father's fried chicken and burger restaurant, and lived with his family above the business in Elizabeth, New Jersey.",
+            "Rahami, 28, a Muslim U S citizen born in Afghanistan, lived with his family in Elizabeth, New Jersey, according to investigators."
+        ],
+        "tf-idf score": [
+            0.7875102238362731,
+            0.8689175810445106,
+            0.8836392697588785
+        ]
+    },
+    "0.2209199002469133-3-149": {
+        "average clique similarity": 0.2209199002469133,
+        "clique": [
+            "1-Rahami is married to",
+            "6-Rahami also got marr",
+            "3-His wife     Rahami "
+        ],
+        "median tf-idf score": 0.37652866755711034,
+        "publications": [
+            "Breitbart",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "Rahami is married to someone other than Maria.",
+            "Rahami also got married.",
+            "His wife,    Rahami married a Pakistani woman in 2011 while he was visiting the country."
+        ],
+        "tf-idf score": [
+            0.37652866755711034,
+            0.3572722603887427,
+            0.6565111718166186
+        ]
+    },
+    "0.22246639815476063-3-529": {
+        "average clique similarity": 0.22246639815476063,
+        "clique": [
+            "0-Just blocks away  an",
+            "4-The bombs used were ",
+            "5-Rahami also lost  1 "
+        ],
+        "median tf-idf score": 0.7373172428638224,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Just blocks away, another bomb is found  --   and it's similar to the first. As the   reported, \"Both were pressure cookers and Christmas lights were used to spark the explosives. A flip phone appeared to serve as the timer for both devices. Both pressure cookers were filled with ball bearings and BBs to serve as shrapnel\". Saturday morning: An explosion hits a trash can in Seaside Park, N J around 10 a. m. forcing officials to cancel a benefit run that had been planned to help members of the military and their families. This is a breaking news story.",
+            "The bombs used were somewhat different, which initially led to theories of possible separate plots. In Chelsea, federal officials said, the perpetrator used two pressure cookers filled with shrapnel and ball bearings  --   one exploded, and one did not. In Seaside Park, pipe bombs were deployed. But as investigators reviewed surveillance footage and analyzed the bombs, they came to believe that the incidents were related.",
+            "Rahami also lost $1, 158 in a small claims judgment in   2012, according to USA Today. \" '* The devices found in New York City were made with   pressure cookers, flip phones, and Christmas lights. The   explosives were  with \"small bearings or metal BBs\" to inflict as much   damage as possible, according to . '"
+        ],
+        "tf-idf score": [
+            0.7312316187177738,
+            0.7373172428638224,
+            0.881809482490643
+        ]
+    },
+    "0.22309373546021138-4-167": {
+        "average clique similarity": 0.22309373546021138,
+        "clique": [
+            "6-        For us to co",
+            "3-Police captured Raha",
+            "0-Our original post  L",
+            "5-         Ahmad Khan "
+        ],
+        "median tf-idf score": 0.9078639590011056,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "        For us to continue writing great stories, we need to display ads. Please select the extension that is blocking ads. Please follow the steps below, NEWS BRIEF Ahmad Khan Rahami, the man accused of setting off bombs in New York and New Jersey, grew up listening to rap and raced Honda Civics as a hobby.",
+            "Police captured Rahami after a shootout Monday in New Jersey, ending the hunt for the man wanted for a New Jersey explosion and a bombing in New York that left 29 people injured.",
+            "Our original post: Law enforcement agencies have apprehended New Jersey resident Ahmad Khan Rahami, after a brief but intense manhunt by agencies seeking to question him about multiple bombs in New York and New Jersey since Saturday.",
+            "'  ' '   Ahmad Khan Rahami, a      man,  in connection with bombings in   New York City and New Jersey over the weekend. '"
+        ],
+        "tf-idf score": [
+            0.9149316748786717,
+            0.9007962431235396,
+            0.9204574554477009,
+            0.8136288841855739
+        ]
+    },
+    "0.22318013852638657-3-529": {
+        "average clique similarity": 0.22318013852638657,
+        "clique": [
+            "2-She reportedly marri",
+            "0-Authorities say he t",
+            "3-Rahami spent several"
+        ],
+        "median tf-idf score": 0.7868933776360342,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "She reportedly married Rahami within the past few years before moving with him to the U S Investigators said Rahami himself had made several trips to Afghanistan and to Pakistan, including the Taliban stronghold of Quetta, in recent years.",
+            "Authorities say he traveled to Afghanistan in 2011 and 2013, and was in Quetta, Pakistan, in 2013, which is the base for the Pakistani Taliban.",
+            "Rahami spent several weeks in Kandahar, Afghanistan, and Quetta, Pakistan, in 2011, according to a law enforcement official who reviewed his travel and immigration record."
+        ],
+        "tf-idf score": [
+            0.8630742909038395,
+            0.4643583169117903,
+            0.7868933776360342
+        ]
+    },
+    "0.22812054246826222-3-502": {
+        "average clique similarity": 0.22812054246826222,
+        "clique": [
+            "3-He became a naturali",
+            "1-            At Ediso",
+            "6-A 2005 bankruptcy fi"
+        ],
+        "median tf-idf score": 0.8472409865714051,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "He became a naturalized citizen in 2011. Rahami majored in criminal justice at Middlesex County College in Edison, New Jersey, school spokesman Tom Peterson said. Rahami attended from   but did not graduate.",
+            "[  ...    ] At Edison High School, where Rahami and Maria met, Rahami got along with classmates and was known as the class clown, she said.",
+            "A 2005 bankruptcy filing, cited by the newspaper, showed he raised eight children alone. The younger Rahami attended Edison High School, and later studied criminal justice at Middlesex County College, NJ com reported."
+        ],
+        "tf-idf score": [
+            0.8472409865714051,
+            0.8595861762913212,
+            0.5743296293879852
+        ]
+    },
+    "0.2350882789813177-3-529": {
+        "average clique similarity": 0.2350882789813177,
+        "clique": [
+            "5-Rahami s father s re",
+            "0-NPR has learned that",
+            "2-Rahami and his famil"
+        ],
+        "median tf-idf score": 0.8625893815329039,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Rahami's father's restaurant, First American   Fried Chicken, in Elizabeth, was open 24 hours a day and drew   complaints from neighbors about rowdy crowds and loitering,   .",
+            "NPR has learned that in 2011, Rahami's father and other family members filed a lawsuit against the city of Elizabeth, its police department and other defendants, accusing them of harassment that targeted their business, a restaurant called First American Fried Chicken.",
+            "Rahami and his family lived above their restaurant    called First American Fried Chicken    and the family has clashed with the city over closing times and noise complaints, which the Rahamis said in a lawsuit were tinged with   sentiment."
+        ],
+        "tf-idf score": [
+            0.850903132159579,
+            0.8625893815329039,
+            1.003754503222979
+        ]
+    },
+    "0.23790555987321715-3-324": {
+        "average clique similarity": 0.23790555987321715,
+        "clique": [
+            "3-The wife is cooperat",
+            "1-CNN reported on Tues",
+            "6-The LA Times reporte"
+        ],
+        "median tf-idf score": 0.9710235437933478,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "The wife is cooperating with investigators and has spoken with US officials in the United Arab Emirates, a US official said. His family     The FBI interviewed Rahami's father in 2014 after a violent domestic dispute.",
+            "CNN reported on Tuesday that his wife left the United States a few days before the bomb attacks. U S officials are reportedly working with the governments of Pakistan and the United Arab Emirates to \"gain access to her,\" but there is no clear indication of her current whereabouts: Her timeline in the United States wasn't immediately clear.",
+            "The LA Times reported that in 2014 Rahami asked New Jersey Representative Albio Sires for help bringing his pregnant wife to the U S In recent days, she had left the U S and was headed to Pakistan via the United Arab Emirates, where she was intercepted Monday."
+        ],
+        "tf-idf score": [
+            0.9710235437933478,
+            0.5585708694937846,
+            1.173721125347353
+        ]
+    },
+    "0.2383345170418321-3-237": {
+        "average clique similarity": 0.2383345170418321,
+        "clique": [
+            "5-Rahami and his broth",
+            "6-Mohammed Rahami work",
+            "4-O Neill said that as"
+        ],
+        "median tf-idf score": 0.6795265937061153,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Rahami and his brothers   worked at the restaurant.",
+            "Mohammed Rahami worked seven days a week at the restaurant to support his family, according to the Los Angeles Times.",
+            "O'Neill said that as part of the effort to determine if Rahami worked alone, investigators were going to pore over his networks, examining his friends, family, records, social media and phones."
+        ],
+        "tf-idf score": [
+            0.42234705042910037,
+            0.6795265937061153,
+            0.7621560692738317
+        ]
+    },
+    "0.24289300287980528-3-529": {
+        "average clique similarity": 0.24289300287980528,
+        "clique": [
+            "0-She reports that Rah",
+            "3-It turned out her Pa",
+            "1-Once the passport wa"
+        ],
+        "median tf-idf score": 0.6196901641868097,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "She reports that Rahami had some similarities to Tamerlan Tsarnaev, one of the Boston bombers.",
+            "It turned out her Pakistani passport had expired. Once it was renewed, Asia Bibi Rahami discovered she was pregnant. She was told she would need a visa for the baby as well. It is unclear what happened to the child.",
+            "Once the passport was renewed, she found out she was pregnant, and officials told her they wouldn't give a visa until she had the baby, Sires said."
+        ],
+        "tf-idf score": [
+            0.3926244874495714,
+            0.7524411430447323,
+            0.6196901641868097
+        ]
+    },
+    "0.32256573375373215-4-133": {
+        "average clique similarity": 0.32256573375373215,
+        "clique": [
+            "4-FBI agents were stil",
+            "2-William Sweeney Jr t",
+            "0-William Sweeney  the",
+            "3-His alleged connecti"
+        ],
+        "median tf-idf score": 1.0154064777727083,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "FBI agents were still trying \"to make sure we completely understand Rahami's social network,\" William Sweeney Jr assistant director in charge of the FBI's New York division, said at a Monday news conference. The case is \"still very much alive,\" added O'Neill.",
+            "William Sweeney Jr the FBI's assistant director in New York, said there was no indication so far that the bombings were the work of a larger terror cell.",
+            "William Sweeney, the assistant director in charge of the FBI's New York field office, said they were not looking for any more suspects in the case and that they had \"no indication\" that a terror cell was operating in New York City.",
+            "His alleged connection to the bombings,    Investigators \"directly linked\" Rahami to devices from New York and from Saturday's explosion in New Jersey, FBI Special Agent William Sweeney Jr said."
+        ],
+        "tf-idf score": [
+            1.0847077889702506,
+            0.863345694171009,
+            0.9461051665751661,
+            1.1250979607749059
+        ]
+    },
+    "0.47633399994364084-3-454": {
+        "average clique similarity": 0.47633399994364084,
+        "clique": [
+            "3-Harinder Bains  the ",
+            "6-The next morning  on",
+            "5-   Police found Raha"
+        ],
+        "median tf-idf score": 0.8936143587243514,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Harinder Bains, the owner of Merdie's Tavern in Linden, New Jersey, said he spotted Rahami sleeping in the doorway of his bar Monday morning.",
+            "The next morning, on Monday, Rahami was found sleeping outside a bar in Linden, New Jersey.",
+            "'* Police found Rahami sleeping in a bar. A bar   owner in Linden, New Jersey, called authorities about a man   sleeping in the hallway of his bar."
+        ],
+        "tf-idf score": [
+            0.8936143587243514,
+            0.8985243690624213,
+            0.7939708746975742
+        ]
+    }
+}

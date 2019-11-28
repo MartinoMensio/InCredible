@@ -1,0 +1,438 @@
+{
+    "0.16046998034334303-3-358": {
+        "average clique similarity": 0.16046998034334303,
+        "clique": [
+            "3-CANNON BALL  N D    ",
+            "5-Attorney General Lor",
+            "1- If one agency makes"
+        ],
+        "median tf-idf score": 1.0759252409461693,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "New York Times"
+        ],
+        "sentences": [
+            "CANNON BALL, N D  --   The Standing Rock Sioux Tribe won a major victory on Sunday in its battle to block an oil pipeline being built near its reservation when the Department of the Army announced that it would not allow the pipeline to be drilled under a dammed section of the Missouri River.",
+            "Attorney General Loretta E Lynch, worried about violence, had sent mediators to the area over the weekend. The victory for the Standing Rock Sioux and its allies could be   though. Donald Trump has vowed to support pipelines such as this one.",
+            "\"If one agency makes detailed fact findings about how a project is not in the public interest, the next administration can't just come in and rip it up right away,\" Jan Hasselman, an attorney at Earthjustice who is representing the Standing Rock Sioux, told me on Friday. \"They could seek to undo it, but it would be subject to judicial review. \" One possibility is that the   Congress could somehow get involved and   the project. House Speaker Paul Ryan denounced the decision on Twitter Sunday night:   This is     at its worst. I look forward to putting this   presidency behind us. https:  ."
+        ],
+        "tf-idf score": [
+            1.1358746909686288,
+            0.8216806554594475,
+            1.0759252409461693
+        ]
+    },
+    "0.16254279243890246-3-110": {
+        "average clique similarity": 0.16254279243890246,
+        "clique": [
+            "3-But on Sunday  sever",
+            "1-Last week  the Army ",
+            "5-The Standing Rock Si"
+        ],
+        "median tf-idf score": 1.0532266740690523,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Vox"
+        ],
+        "sentences": [
+            "But on Sunday, several campers said they were not going anywhere. They said that there were too many uncertainties surrounding the Army's decision, and that they had dedicated too much time and emotion to this fight to leave now.",
+            "Last week, the Army Corps of Engineers ordered all protesters to vacate the area north of the Cannonball River by December 5. Through it all, the protestors insisted they would not leave. And now they've scored a major win. Further reading  The battle over the Dakota Access Pipeline, explained This piece by Jack Jenkins looks at indigenous movements across the world that are focused on environmental issues.",
+            "The Standing Rock Sioux Tribe and its allies in the environmental and activist movements had said they were doing just that: using Lake Oahe in North Dakota as a place to take a stand by setting up camps and obstructing roads to block the $3."
+        ],
+        "tf-idf score": [
+            0.5828015133503083,
+            1.2102752248735402,
+            1.0532266740690523
+        ]
+    },
+    "0.1700897787240968-3-96": {
+        "average clique similarity": 0.1700897787240968,
+        "clique": [
+            "4-Pipeline supporters ",
+            "2-Energy Transfer Part",
+            "5-And Kelcy Warren  th"
+        ],
+        "median tf-idf score": 0.8394572325177555,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Pipeline supporters speak out, Energy Transfer Partners and Sunoco Logistics Partners, the corporations behind the Dakota Access Pipeline, said in a statement Sunday night they \"fully expect to complete construction of the pipeline without any additional rerouting in and around Lake Oahe\".",
+            "Energy Transfer Partners, the company building the pipeline, calls the decision \"just the latest in a series of overt and transparent political actions by an administration which has abandoned the rule of law in favor of currying favor with a narrow and extreme political constituency. \"",
+            "And Kelcy Warren, the chief executive of the pipeline company Energy Transfer Partners, has been a major contributor to the Republican Party and Trump's campaign."
+        ],
+        "tf-idf score": [
+            1.0413711068756242,
+            0.8394572325177555,
+            0.6106846345675055
+        ]
+    },
+    "0.17629389957508293-3-346": {
+        "average clique similarity": 0.17629389957508293,
+        "clique": [
+            "4- If the incoming adm",
+            "3-Ken Many Wounds  who",
+            "2-He has said this doe"
+        ],
+        "median tf-idf score": 0.6565255357526096,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"If the incoming administration tries to undo this and jam the pipeline through despite the need for an analysis of alternatives, we will certainly be prepared to challenge that in court,\" he said. \"It's not so simple for one government administration to simply reverse the decisions of the former one\".",
+            "Ken Many Wounds, who has served as a tribal liaison to express concerns and questions to law enforcement, said he had been standing by the camp's main fire  --   one that is tended constantly  --   when he heard the news from the tribal chairman's wife. He said he did not believe it at first.",
+            "He has said this does not affect his policy position. \"It would be really unprecedented for the   to tell the agency to reverse the decision,\" said Krakoff."
+        ],
+        "tf-idf score": [
+            0.8262593707929233,
+            0.6565255357526096,
+            0.4811077275453123
+        ]
+    },
+    "0.19712400266635974-3-6": {
+        "average clique similarity": 0.19712400266635974,
+        "clique": [
+            "1-The decision is a ma",
+            "0-The   protest has ga",
+            "4-For months  members "
+        ],
+        "median tf-idf score": 1.1729627001179306,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "The decision is a major victory for the Standing Rock Sioux, who have been protesting the proposed path of the $3. 8 billion pipeline through southern North Dakota for months  --   arguing that it would endanger both their water supplies and nearby sacred sites.",
+            "The   protest has garnered support from thousands who have flocked to   North Dakota to protest against the completion of the line. ' '   Protest organizers had for months argued that crossing the   Missouri River adjacent to the Standing Rock Sioux Reservation   presented a danger to their water source. Protests grew over the   months, with hundreds of veterans flocking to the camp in recent   days to stand against what they say are aggressive tactics from   law enforcement. '",
+            "For months, members of the Sioux tribe and their supporters have camped out, fighting the pipeline they say could be hazardous and damage the water supply of their reservation nearby. \"People have said that this is a make it or a break it, and I guess we made it,\" Chief Arvol Looking Horse, Keeper of the White Buffalo Calf Pipe, announced to a cheering crowd of protesters."
+        ],
+        "tf-idf score": [
+            1.1729627001179306,
+            1.4043291146211856,
+            1.0481910486160348
+        ]
+    },
+    "0.1976293768898553-3-26": {
+        "average clique similarity": 0.1976293768898553,
+        "clique": [
+            "2-This became the sali",
+            "5-Activists acknowledg",
+            "1-The company behind t"
+        ],
+        "median tf-idf score": 1.1877216528103784,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "This became the salient question. Over the summer, Energy Transfer Partners and the Army Corps of Engineers said that the Standing Rock Sioux did not respond their attempts to identify cultural sites near the pipeline.",
+            "Activists acknowledged that it was only one step forward in a larger fight over Native American rights. Denise McKay, a member of the Standing Rock Sioux standing by the sacred fire Sunday afternoon, said she expects Energy Transfer Partners to push back on the decision.",
+            "The company behind the project, Energy Transfer Partners, was awaiting approval of easements from the Army Corps of Engineers, which manages the land around the reservoir at Lake Oahe. The Standing Rock Sioux, whose reservation sits just south of the proposed route, had opposed the granting of these easements, arguing they were never properly consulted over their concerns with the nearby pipeline."
+        ],
+        "tf-idf score": [
+            1.1877216528103784,
+            1.1165728573155942,
+            1.4569019265246461
+        ]
+    },
+    "0.24886988431675627-3-128": {
+        "average clique similarity": 0.24886988431675627,
+        "clique": [
+            "0-         The US Army",
+            "3-The Army said it wou",
+            "1- On Sunday  the US A"
+        ],
+        "median tf-idf score": 1.272072407944554,
+        "publications": [
+            "Vox",
+            "New York Times",
+            "Business Insider"
+        ],
+        "sentences": [
+            "'  ' '   The US Army Corps of Engineers has turned down a permit for a   controversial pipeline project running through North Dakota, in a   victory for Native Americans and climate activists who have   protested against the project for several months, according to a   statement released on Sunday. '",
+            "The Army said it would look for alternative routes for the $3. 7 billion Dakota Access pipeline.",
+            " On Sunday, the US Army Corps of Engineers said it would not grant a needed easement that would allow the Dakota Access Pipeline to cross the Missouri River at Lake Oahe  --   putting the controversial project on hold indefinitely while officials explore alternative routes."
+        ],
+        "tf-idf score": [
+            1.272072407944554,
+            0.8359515505056014,
+            1.3850400305328583
+        ]
+    },
+    "0.26940807905350317-3-366": {
+        "average clique similarity": 0.26940807905350317,
+        "clique": [
+            "3- The water protector",
+            "2- This purely politic",
+            "1-In a statement  the "
+        ],
+        "median tf-idf score": 0.7484895968329516,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "\"The water protectors have done it,\" a Greenpeace spokeswoman, Lilian Molina, said. \"This is a monumental victory in the fight to protect indigenous rights and sovereignty. \" But Craig Stevens, a spokesman for the MAIN Coalition, a   group, condemned the move as \"a purely political decision that flies in the face of common sense and the rule of law. \"",
+            "\"This purely political decision flies in the face of common sense and the rule of law,\" said Craig Stevens, a spokesman for the MAIN Coalition, an industry group that primarily exists to defend the pipeline.",
+            "In a statement, the company denounced the decision as a \"purely political action,\" noting that the Army Corps had previously granted the company every permit it needed. It's possible that the companies behind the pipeline could ask federal courts to enjoin (or block) the Army Corps' decision in the coming days, says Carl Tobias, the Williams Chair in Law at the University of Richmond."
+        ],
+        "tf-idf score": [
+            0.7484895968329516,
+            0.7345779388853158,
+            1.1476458229361772
+        ]
+    },
+    "0.2729026495648023-3-40": {
+        "average clique similarity": 0.2729026495648023,
+        "clique": [
+            "3-There was no immedia",
+            "4-North Dakota Sen  Jo",
+            "5-The steel pipeline  "
+        ],
+        "median tf-idf score": 0.882466576662305,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "There was no immediate response from Energy Transfer Partners, but its chief executive, Kelcy Warren, has said that the company was unwilling to reroute the pipeline, which is intended to transport as much as 550, 000 barrels of oil a day from the oil fields of western North Dakota to a terminal in Illinois.",
+            "North Dakota Sen. John Hoeven, a Republican, said last week after a meeting with the transition team that Trump supported completing the   long proposed pipeline, that would transport 470, 000 barrels of oil a day across four states.",
+            "The steel pipeline, developed and majority owned by Energy Transfer Partners, would connect the Bakken and Three Forks oil production areas in North Dakota to an existing crude oil terminal and pipeline terminus in Illinois. At 30 inches in diameter, it could transport an estimated 470, 000 to 570, 000 barrels of oil per day."
+        ],
+        "tf-idf score": [
+            1.0838482393777147,
+            0.882466576662305,
+            0.7618180301504319
+        ]
+    },
+    "0.2788882065231544-3-62": {
+        "average clique similarity": 0.2788882065231544,
+        "clique": [
+            "4-Near Cannon Ball  No",
+            "0-    The   Dakota Acc",
+            "5-     The Army said S"
+        ],
+        "median tf-idf score": 1.391838242054729,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Near Cannon Ball, North Dakota (CNN) Celebrations, tears of joy, chanting and drumming rang out among thousands of protesters at the Standing Rock site after the Army Corp of Engineers announced it will look for an alternate route for the Dakota Access Pipeline to cross under Lake Oahe in North Dakota.",
+            "'   The   Dakota Access Pipeline, owned by     Energy Transfer Partners LP, had been complete except for a   segment planned to run under Lake Oahe, a reservoir formed by a   dam on the Missouri River. ' '   \"The Army will not grant an easement to cross Lake Oahe at the   proposed location based on the current record,\" a statement from   the US Army said. '",
+            "     The Army said Sunday that it will not approve an easement necessary to permit the controversial Dakota Access Pipeline to cross under Lake Oahe in North Dakota, marking a monumental victory for the Native American tribes and thousands of others who have flocked in recent months to protest the oil pipeline."
+        ],
+        "tf-idf score": [
+            1.391838242054729,
+            1.3887109126744024,
+            1.3975471388841232
+        ]
+    },
+    "0.2873131663731977-3-366": {
+        "average clique similarity": 0.2873131663731977,
+        "clique": [
+            "4-Why reroute the pipe",
+            "2-On Sunday afternoon ",
+            "3-Federal and state re"
+        ],
+        "median tf-idf score": 0.8113499257355645,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "Why reroute the pipeline? The Army Corps of Engineers said it will not grant a permit to allow the proposed pipeline to cross under the lake.",
+            "On Sunday afternoon, the U S Army Corps of Engineers legally blocked the construction of the Dakota Access Pipeline, denying it a needed easement to drill beneath the Missouri River.",
+            "Federal and state regulators had issued the pipeline the necessary permits to proceed, but the Corps of Engineers had not yet granted it a final easement to drill under a stretch of the Missouri River called Lake Oahe."
+        ],
+        "tf-idf score": [
+            0.8113499257355645,
+            0.9281574434007271,
+            0.7459892131167969
+        ]
+    },
+    "0.3005611254575624-3-121": {
+        "average clique similarity": 0.3005611254575624,
+        "clique": [
+            "2-According to multipl",
+            "3-Mr Trump owns stock ",
+            "5-Trump  who owned a  "
+        ],
+        "median tf-idf score": 0.7858474777991792,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "According to multiple reports, he also owns stock in Energy Transfer Partners.",
+            "Mr Trump owns stock in the company building the pipeline, Energy Transfer Partners, but he has said that his support has nothing to do with his investment.",
+            "Trump, who owned a $500, 000 to $1 million stake in Energy Transfer Partners, has sold the shares, his spokeswoman Hope Hicks said. His most recent disclosure says he still owns a similar size stake in Phillips 66, which owns 25 percent of the Dakota Access line."
+        ],
+        "tf-idf score": [
+            0.17788320829313434,
+            0.7858474777991792,
+            0.8234458095300285
+        ]
+    },
+    "0.3062711733769952-3-366": {
+        "average clique similarity": 0.3062711733769952,
+        "clique": [
+            "1-The Army s announcem",
+            "4-Tribal leaders worry",
+            "5- The Army s announce"
+        ],
+        "median tf-idf score": 0.6896142078396849,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Army's announcement underscores that tribal rights reserved in treaties and federal law, as well as    consultation with tribal leaders, are essential components of the analysis to be undertaken in the environmental impact statement going forward. \" The big question now: What will Donald Trump do? The pipeline isn't officially dead.",
+            "Tribal leaders worry the decision to change direction may not be permanent, especially with the incoming Trump administration, as well backers of the pipeline seeking to push the project ahead.",
+            "\"The Army's announcement underscores that tribal rights reserved in treaties and federal law, as well as    consultation with tribal leaders, are essential components of the analysis to be undertaken in the environmental impact statement going forward. \""
+        ],
+        "tf-idf score": [
+            1.0234290725022988,
+            0.6697244597142887,
+            0.6896142078396849
+        ]
+    },
+    "0.3871908353796749-3-168": {
+        "average clique similarity": 0.3871908353796749,
+        "clique": [
+            "5- With this decision ",
+            "1- standingrock pic  t",
+            "0-    The department o"
+        ],
+        "median tf-idf score": 1.488414198880799,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\"With this decision we look forward to being able to return home and spend the winter with our families. \" Rhea Suh, president of the Natural Resources Defense Council, said the outcome was a reminder of the power of individuals to \"demand environmental justice. \" She said, \"Today, the voices of indigenous people were heard. \"",
+            "#standingrock pic. twitter. --   Ernest Scheyder (@ErnestScheyder) December 4, 2016    \"We wholeheartedly support the decision of the administration and commend with the utmost gratitude the courage it took on the part of President Obama, the Army Corps, the Department of Justice and the Department of the Interior to take steps to correct the course of history and to do the right thing,\" said Standing Rock Sioux Tribal Chair Dave Archambault II in a statement.",
+            "'   The department of the Army announced in November it was   delaying the decision to grant the easement for the pipeline   after the protests gained national attention. ' '  ' '   In a statement,  ' '   \"We wholeheartedly support the decision of the administration and   commend with the utmost gratitude the courage it took on the part   of President Obama, the Army Corps, the Department of Justice and   the Department of the Interior to take steps to correct the   course of history and to do the right thing,\" the statement read. '"
+        ],
+        "tf-idf score": [
+            0.7841405609848231,
+            1.5620913718415226,
+            1.488414198880799
+        ]
+    },
+    "0.4389551635411131-3-76": {
+        "average clique similarity": 0.4389551635411131,
+        "clique": [
+            "5-The pipeline still r",
+            "3-Representative Kevin",
+            "4- I hoped even a lawl"
+        ],
+        "median tf-idf score": 0.659356056180332,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "The pipeline still remains in limbo. \" Rep. Kevin Cramer (R) said Sunday's decision \"sends a very chilling signal to others who want to build infrastructure in this country,\" arguing that Obama had stymied a perfectly legal pipeline project.",
+            "Representative Kevin Cramer, Republican of North Dakota and a Trump supporter, called Sunday's decision a \"chilling signal to others who want to build infrastructure in this country. \"",
+            "\"I hoped even a lawless President wouldn't continue to ignore the rule of law. However, it was becoming increasingly clear he was punting this issue down the road,\" Cramer wrote in a statement. \"Today's unfortunate decision sends a very chilling signal to others who want to build infrastructure in this country\"."
+        ],
+        "tf-idf score": [
+            0.820818423635719,
+            0.6218423915028681,
+            0.659356056180332
+        ]
+    },
+    "0.5587867955243896-4-244": {
+        "average clique similarity": 0.5587867955243896,
+        "clique": [
+            "1-The Army Corps annou",
+            "0-    Assistant Secret",
+            "4-Officials said after",
+            "5- Although we have ha"
+        ],
+        "median tf-idf score": 1.2230925431206257,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The Army Corps announced its decision in a statement: \"Although we have had continuing discussion and exchanges of new information with the Standing Rock Sioux and Dakota Access, it's clear that there's more work to do,\" said   Darcy, the Army's assistant secretary for civil works.",
+            "'   Assistant Secretary of the Army   Darcy   added : \"Although we have had continuing   discussion and exchanges of new information with the Standing   Rock Sioux and Dakota Access, it''s clear that there''s more work   to do\". ' '   The Standing Rock Sioux tribe, along with climate activists, have   been protesting the $3. 8 billion project, saying it could   contaminate the water supply and damage sacred tribal lands.",
+            "Officials said after discussion with the tribe and Dakota Access it became clear that more work had to be done on the project.",
+            "\"Although we have had continuing discussion and exchanges of new information with the Standing Rock Sioux and Dakota Access, it's clear that there's more work to do,\"   Darcy, the Army's assistant secretary for civil works, said in a statement Sunday."
+        ],
+        "tf-idf score": [
+            1.363606507005009,
+            1.3052933482132152,
+            0.5727388415803708,
+            1.140891738028036
+        ]
+    },
+    "0.6165290798972978-3-366": {
+        "average clique similarity": 0.6165290798972978,
+        "clique": [
+            "4- The best way to com",
+            "3- The best way to com",
+            "2- The best way to com"
+        ],
+        "median tf-idf score": 0.9166665698414271,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"The best way to complete that work responsibly and expeditiously is to explore alternate routes for the pipeline crossing,\" The corps' assistant secretary for civil works,   Darcy, said in a statement.",
+            "\"The best way to complete that work responsibly and expeditiously is to explore alternate routes for the pipeline crossing,\"   Darcy, the Army's assistant secretary for civil works, said in a statement.",
+            "\"The best way to complete that work responsibly and expeditiously is to explore alternate routes for the pipeline crossing,\" said   Darcy, the Army assistant secretary for civil works who oversees the Corps of Engineers, in a statement."
+        ],
+        "tf-idf score": [
+            0.8741885069161346,
+            0.9166665698414271,
+            1.0670889061999083
+        ]
+    },
+    "0.6742610946157688-3-366": {
+        "average clique similarity": 0.6742610946157688,
+        "clique": [
+            "5-We  commend with the",
+            "3-The Corps of Enginee",
+            "2- We wholeheartedly s"
+        ],
+        "median tf-idf score": 1.130409648607189,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "We \"commend with the utmost gratitude the courage it took on the part of President Obama, the Army Corps, the Department of Justice and the Department of the Interior to take steps to correct the course of history and to do the right thing,\" Standing Rock Sioux Tribe Chairman Dave Archambault II said in a statement.",
+            "The Corps of Engineers is part of the Department of the Army.",
+            "\"We wholeheartedly support the decision of the administration and commend with the utmost gratitude the courage it took on the part of President Obama, the Army Corps, the Department of Justice, and the Department of the Interior to take steps to correct the course of history and to do the right thing,\" Archambault said in a further statement."
+        ],
+        "tf-idf score": [
+            1.2878621355912394,
+            0.3330633655019917,
+            1.130409648607189
+        ]
+    }
+}

@@ -1,0 +1,802 @@
+{
+    "0.14500077190286118-3-317": {
+        "average clique similarity": 0.14500077190286118,
+        "clique": [
+            "1-I never touched you ",
+            "2-That story by Fields",
+            "4- There are often lar"
+        ],
+        "median tf-idf score": 0.36120206292575086,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "I never touched you.",
+            "That story by Fields began with the sentence, \u201dI never sought to be part of the story\u201d.",
+            "\u201dThere are often large crowds aggressively seeking access to Mr Trump and our staff would never do anything to harm another individual, while at the same time understanding that Mr Trump and his personal space should never be invaded\u201d."
+        ],
+        "tf-idf score": [
+            0.004442692003872024,
+            0.36561319621079386,
+            0.36120206292575086
+        ]
+    },
+    "0.14872753854283402-3-54": {
+        "average clique similarity": 0.14872753854283402,
+        "clique": [
+            "4-He has latched onto ",
+            "0-Tonight  I resigned ",
+            "3- I didn t sign on to"
+        ],
+        "median tf-idf score": 0.45334580339206204,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He has latched onto their vulnerabilities, mocking their physical characteristics, personality quirks and, sometimes, their professional setbacks.",
+            "Tonight, I resigned from Breitbart News due to their treatment of @MichelleFields.",
+            "\u201cI didn\u2019t sign on to be a member of the de facto Donald Trump super PAC and, in this case, their allegiance to Trump took priority over loyalty to their own reporter."
+        ],
+        "tf-idf score": [
+            0.13046479746537448,
+            0.45334580339206204,
+            0.4717310417496563
+        ]
+    },
+    "0.16047786007235046-3-108": {
+        "average clique similarity": 0.16047786007235046,
+        "clique": [
+            "3- New video of Donald",
+            "4-Breitbart senior edi",
+            "2-But the Breitbart si"
+        ],
+        "median tf-idf score": 1.1273072636804407,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cNew video of Donald Trump\u2019s press conference Tuesday evening shows that the Washington Post\u2019s account of an altercation involving Breitbart News reporter Michelle Fields could not possibly have happened as Ben Terris reported,\u201d said a piece posted on Breitbart by writer and editor Joel B Pollak.",
+            "Breitbart senior editor at large Joel Pollak told writers and editors on the news outlet\u2019s internal messaging software to stand down after many expressed their support for Fields.",
+            "But the Breitbart site also ran a story saying that Lewandowski never \u201dacknowledged\u201d grabbing Fields  \u2014   and BuzzFeed reported this weekend that Breitbart senior    Joel Pollak had ordered reporters who wanted to defend Fields to stop tweeting and \u201dspeculating\u201d about the story."
+        ],
+        "tf-idf score": [
+            1.73571492825815,
+            0.8572253459554298,
+            1.1273072636804407
+        ]
+    },
+    "0.16460162300251202-3-85": {
+        "average clique similarity": 0.16460162300251202,
+        "clique": [
+            "3-   Fields has become",
+            "1-    Corey Lewandowsk",
+            "4-    Ari Melber   Ari"
+        ],
+        "median tf-idf score": 0.9697893780714553,
+        "publications": [
+            "Washington Post",
+            "Talking Points Memo",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201d  Fields has become an instant celebrity of the journalism world after saying that she was roughly grabbed on the arm, bruised and pushed by Trump\u2019s campaign manager, Corey Lewandowski, after a campaign event in Jupiter, Fla. on March 8.",
+            "\u2014   Corey Lewandowski (@CLewandowski_) March 11, 2016,  10 a. m.: Fields files criminal complaint with Florida policeThe Jupiter Police Department confirmed law enforcement were investigating a misdemeanor battery after Fields filed a police report about the incident.",
+            "\u2014   Ari Melber (@AriMelber) March 11, 2016  Authorities have not confirmed that Lewandowski is a subject of a criminal investigation, and Trump\u2019s campaign has attacked Fields\u2019s story."
+        ],
+        "tf-idf score": [
+            1.3438209987165466,
+            0.6882700105401878,
+            0.9697893780714553
+        ]
+    },
+    "0.16506334517109386-3-41": {
+        "average clique similarity": 0.16506334517109386,
+        "clique": [
+            "3-Bigelow  it turns ou",
+            "2-Here s that video  A",
+            "0-Reporter Michelle Fi"
+        ],
+        "median tf-idf score": 0.9907041961229256,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Bigelow, it turns out, is the pseudonym of David Shapiro, the father of Ben Shapiro.",
+            "Here\u2019s that video: After the resignations by Fields and Shapiro, the Breitbart site posted, and then deleted, a piece that linked to Shapiro\u2019s bio at the California State Bar website  \u2014   something Shapiro says was an attempt to expose private information about him to the public.",
+            "Reporter Michelle Fields and editor Ben Shapiro confirmed their resignations in statements to Buzzfeed News and on social media."
+        ],
+        "tf-idf score": [
+            0.22144937389737143,
+            1.09820483293917,
+            0.9907041961229256
+        ]
+    },
+    "0.169267800079178-3-468": {
+        "average clique similarity": 0.169267800079178,
+        "clique": [
+            "0-On Monday  two more ",
+            "1-  Not long after  th",
+            "3-Even as commentators"
+        ],
+        "median tf-idf score": 0.4345498196182085,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "On Monday, two more staffers for Breitbart resigned from the company over the news website\u2019s   Trump stance, Politico reported.",
+            "\u201d Not long after, the first calls from conservatives for Trump to fire Lewandowski over the incident began.",
+            "Even as commentators were picking over the details of the controversy, a larger  \u2014   and still unanswered question  \u2014   hung over the entire affair: What would be the   ramifications for Breitbart?"
+        ],
+        "tf-idf score": [
+            0.8223488565170256,
+            0.4345498196182085,
+            0.3204933927064334
+        ]
+    },
+    "0.17542586993054277-3-243": {
+        "average clique similarity": 0.17542586993054277,
+        "clique": [
+            "3-Perhaps she made the",
+            "4-She appeared shaken ",
+            "1-She was previously a"
+        ],
+        "median tf-idf score": 0.07356216122490414,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Perhaps she made the story up.",
+            "She appeared shaken.",
+            "She was previously a fellow at the Guardian US She graduated from the University of Wisconsin, where she was    of The Badger Herald."
+        ],
+        "tf-idf score": [
+            0.07356216122490414,
+            0.02435735627748368,
+            0.18872213955083367
+        ]
+    },
+    "0.19136268633907286-3-425": {
+        "average clique similarity": 0.19136268633907286,
+        "clique": [
+            "4-Trump s campaign den",
+            "1-    Michelle Fields ",
+            "0-For her part  Fields"
+        ],
+        "median tf-idf score": 0.8271229706905006,
+        "publications": [
+            "Vox",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "Trump\u2019s campaign denies this even happened, and has taken to Twitter to question Fields\u2019s character.",
+            "\u2014   Michelle Fields (@MichelleFields) March 10, 2016,  2:35 p. m.: Lewandowski starts smear campaign targeting Fields, The campaign manager took to Twitter to condemn Fields as an \u201cattention seeker\u201d and linked to two prior incidents where he suggested she overplayed her role for her own gain.",
+            "For her part, Fields accused the Trump campaign of character assassination."
+        ],
+        "tf-idf score": [
+            0.8271229706905006,
+            0.8333664839423184,
+            0.6607435935677793
+        ]
+    },
+    "0.19531042503812443-3-384": {
+        "average clique similarity": 0.19531042503812443,
+        "clique": [
+            "4-Michelle Fields  the",
+            "3-The central player i",
+            "2-Tonight  Fields and "
+        ],
+        "median tf-idf score": 1.6364223177314532,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Michelle Fields, the reporter physically assaulted allegedly by Donald Trump\u2019s campaign manager, resigned from Breitbart Monday morning; editor at large Ben Shapiro announced he will also be leaving the   news organization, BuzzFeed reported.",
+            "The central player in the soap opera, Breitbart reporter Michelle Fields, resigned on Monday, saying in an interview with The Washington Post that she thought the site was more interested in shielding Donald Trump than in supporting her assertion that the Republican  \u2019s campaign manager manhandled her at a campaign event.",
+            "Tonight, Fields and Shapiro will appear on a different show: The Kelly File on the Fox News Channel, in what show host Megyn Kelly  \u2014   who\u2019s had her own issues with Donald Trump  \u2014   says will be an exclusive interview with the two."
+        ],
+        "tf-idf score": [
+            1.6364223177314532,
+            1.6643670149459022,
+            1.0134932736343494
+        ]
+    },
+    "0.1974532256654702-3-136": {
+        "average clique similarity": 0.1974532256654702,
+        "clique": [
+            "4-Politico obtained an",
+            "3-A transcript of an a",
+            "0-Some of us have been"
+        ],
+        "median tf-idf score": 0.4225473173657729,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "Politico obtained an audio recording of the incident, which reflected Terris\u2019s account.",
+            "A transcript of an audiotape obtained by Politico seemed to support Terris and Fields.",
+            "Some of us have been fighting behind the scenes against the   Trump propaganda for some time, but without any success, unfortunately,\u201d Schachtel said in a statement obtained by Politico."
+        ],
+        "tf-idf score": [
+            0.24225789644360257,
+            0.4225473173657729,
+            0.5619499406558331
+        ]
+    },
+    "0.19913303402220783-3-95": {
+        "average clique similarity": 0.19913303402220783,
+        "clique": [
+            "3- Contrary to what Do",
+            "4-In fact  they say th",
+            "1- I think that s what"
+        ],
+        "median tf-idf score": 0.1370108096404679,
+        "publications": [
+            "Vox",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cContrary to what Donald Trump said Thursday evening after the GOP debate, the incident certainly happened.",
+            "In fact, they say the incident never even happened.",
+            "\u201cI think that\u2019s what happened."
+        ],
+        "tf-idf score": [
+            0.5406828968697577,
+            0.1370108096404679,
+            0.06267306312934764
+        ]
+    },
+    "0.20143362124384634-3-483": {
+        "average clique similarity": 0.20143362124384634,
+        "clique": [
+            "1-Late evening  Fields",
+            "0-Click for more from ",
+            "4- Today I informed th"
+        ],
+        "median tf-idf score": 0.9344983576360982,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "Late evening: Fields and Shapiro resign from Breitbart, \u201cI do not believe Breitbart News has adequately stood by me during the events of the past week and because of that I believe it is now best for us to part ways,\u201d Fields said in a Sunday night statement to BuzzFeed News.",
+            "Click for more from Buzzfeed News.",
+            "\u201dToday I informed the management at Breitbart News of my immediate resignation,\u201d Fields said in a statement to BuzzFeed News."
+        ],
+        "tf-idf score": [
+            1.3493491486248355,
+            0.2193258310472506,
+            0.9344983576360982
+        ]
+    },
+    "0.2016885000185709-3-63": {
+        "average clique similarity": 0.2016885000185709,
+        "clique": [
+            "2-The assault allegati",
+            "4-Fields  filed a crim",
+            "3-What followed was a "
+        ],
+        "median tf-idf score": 0.6580771156438883,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "The assault allegation stems from a Trump news conference last Tuesday  \u2014   and it escalated further Friday, after a criminal complaint was filed in Jupiter, Fla. reportedly, as NPR said on Friday, by Fields against Lewandowski, who, we should note, has denied ever laying a hand on Fields.",
+            "Fields  filed a criminal police report against Lewandowski on Friday after alleging he \u201dmanhandled\u201d her.",
+            "What followed was a sequence of events not unlike the presentation of evidence at a trial, and one thing that was very much like that: Fields has filed a criminal complaint."
+        ],
+        "tf-idf score": [
+            1.3350627577535559,
+            0.478299516298688,
+            0.6580771156438883
+        ]
+    },
+    "0.22381478429197474-3-166": {
+        "average clique similarity": 0.22381478429197474,
+        "clique": [
+            "1-Perhaps she made the",
+            "2-If you re just catch",
+            "4-Breitbart s story on"
+        ],
+        "median tf-idf score": 0.6406436280811084,
+        "publications": [
+            "Talking Points Memo",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Perhaps she made the story up,\u201d Trump said of Fields.",
+            "If you\u2019re just catching up to this story, Fields said last week that she had been yanked hard by the arm as she tried to talk with the Republican  .",
+            "Breitbart\u2019s story on Friday was immediately questioned by skeptical journalists who accused the publication, which has been favorable to Trump in its coverage, of trying to shore up its relationship with the Republican frontrunner."
+        ],
+        "tf-idf score": [
+            0.6406436280811084,
+            0.5795425198071659,
+            0.9357953347723643
+        ]
+    },
+    "0.23806418232101567-3-361": {
+        "average clique similarity": 0.23806418232101567,
+        "clique": [
+            "1-  8 a  m   Breitbart",
+            "2-The news first emerg",
+            "0-Shapiro s statement "
+        ],
+        "median tf-idf score": 1.1987240469817875,
+        "publications": [
+            "NPR",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d 8 a. m.: Breitbart publishes, deletes post mocking Fields and Shapiro, A biting post on the site that featured Shapiro\u2019s face in a yellow star after identifying him as an Orthodox Jew, titled \u201dBen Shapiro Betrays Loyal Breitbart Readers In Pursuit Of Fox News Contributorship,\u201d slammed the   for giving a statement to BuzzFeed.",
+            "The news first emerged on BuzzFeed, which ran statements from Fields and Shapiro this morning criticizing the Breitbart site  \u2014   and, in Shapiro\u2019s case, also saying that Breitbart News chair Steve Bannon had sullied the legacy of the site\u2019s founder, Andrew Breitbart, who died in 2012.",
+            "Shapiro\u2019s statement also slammed Breitbart News chairman Steve Bannon, calling him \u201da bully [who] has sold out ."
+        ],
+        "tf-idf score": [
+            1.2156024479744534,
+            1.1987240469817875,
+            0.7942715887709526
+        ]
+    },
+    "0.26516546718835965-3-483": {
+        "average clique similarity": 0.26516546718835965,
+        "clique": [
+            "4-She cited Fields s w",
+            "0- A reporter and edit",
+            "2-Saying her employer "
+        ],
+        "median tf-idf score": 1.2587378833177705,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "She cited Fields\u2019s wish to move on from the incident and continue with her campaign reporting:  NEW: Trump campaign spokesperson Hope Hicks responds to allegations campaign manager assaulted Breitbart reporter: pic.",
+            " A reporter and editor for the conservative news website Breitbart resigned their positions late Sunday over the site\u2019s response to an alleged assault on the reporter by Donald Trump\u2019s campaign manager.",
+            "Saying her employer had failed to stand by her after she alleged being assaulted by Donald Trump\u2019s campaign manager, reporter Michelle Fields has resigned from conservative website Breitbart News."
+        ],
+        "tf-idf score": [
+            1.177766291151232,
+            1.2587378833177705,
+            1.5290542854935183
+        ]
+    },
+    "0.27988214142809975-3-203": {
+        "average clique similarity": 0.27988214142809975,
+        "clique": [
+            "2-But in the wake of t",
+            "1-She said Terris  imm",
+            "4-What Michelle has to"
+        ],
+        "median tf-idf score": 0.724190785811668,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "But in the wake of the assault claim, her critics have said that\u2019s precisely what she was trying to do.",
+            "She said Terris \u201cimmediately remarked\u201d that it was Lewandowski who grabbed her arm and said the campaign manager was \u201cout of line.",
+            "What Michelle has told us directly is that someone \u201dgrabbed her arm\u201d and while she did not see who it was, Ben Terris of the Washington Post told her that it was Corey Lewandowski."
+        ],
+        "tf-idf score": [
+            0.327140073862761,
+            0.724190785811668,
+            0.7911754407728752
+        ]
+    },
+    "0.308003498289752-3-22": {
+        "average clique similarity": 0.308003498289752,
+        "clique": [
+            "1-Early afternoon  WaP",
+            "4-After Solov named Te",
+            "2-After Terris publish"
+        ],
+        "median tf-idf score": 0.7591115029806191,
+        "publications": [
+            "Vox",
+            "Talking Points Memo",
+            "NPR"
+        ],
+        "sentences": [
+            "Early afternoon: WaPo reporter publishes his account of events, Terris didn\u2019t mince words in his profile of the hawkish operatives closest to Trump for WaPo, which included his account of the incident.",
+            "After Solov named Terris as a source in his original statement, Terris, who said he had interviews scheduled with Lewandowski and the Trump team in his account of the incident, had his meetings canceled.",
+            "After Terris published his account of the incident for the Post, Breitbart CEO and President Larry Solov released a statement saying his company was \u201ddisappointed\u201d in the Trump campaign\u2019s response, adding that he stood behind Fields\u2019 reporting."
+        ],
+        "tf-idf score": [
+            0.5915536727038821,
+            0.7591115029806191,
+            1.5531354064212826
+        ]
+    },
+    "0.31968970014142456-3-218": {
+        "average clique similarity": 0.31968970014142456,
+        "clique": [
+            "2-After the article wa",
+            "0-On Sunday  Fields wr",
+            "1-  Pollak said he wro"
+        ],
+        "median tf-idf score": 0.7032570774061164,
+        "publications": [
+            "Fox News",
+            "Talking Points Memo",
+            "NPR"
+        ],
+        "sentences": [
+            "After the article was published, Politico\u2019s Hadas Gold writes, Breitbart\u2019s Pollak issued a statement saying he wrote the piece \u201das part of an effort to make light of a significant company event\u201d and that it had been published due to a \u201dmisunderstanding\u201d.",
+            "On Sunday, Fields wrote that she did not believe the site \u201dhas adequately stood by me during the events of the past week and because of that I believe it is now best for us to part ways\u201d.",
+            "\u201d Pollak said he wrote the post in \u201can effort to make light of a significant company event\u201d and that it was published as a result of a \u201cmisunderstanding."
+        ],
+        "tf-idf score": [
+            0.8585217765322005,
+            0.7032570774061164,
+            0.5541805653373265
+        ]
+    },
+    "0.3264888921305661-3-49": {
+        "average clique similarity": 0.3264888921305661,
+        "clique": [
+            "4-According to Washing",
+            "2- The Washington Post",
+            "1-Accounts differ on w"
+        ],
+        "median tf-idf score": 1.0569037925070526,
+        "publications": [
+            "Talking Points Memo",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "According to Washington Post reporter Ben Terris, who was there, Trump\u2019s campaign manager, Corey Lewandowski, grabbed Fields and yanked her out of the candidate\u2019s way.",
+            "\u201dThe Washington Post\u2019s Ben Terris immediately remarked that it was Trump\u2019s campaign manager, Corey Lewandowski, who aggressively tried to pull me to the ground.",
+            "Accounts differ on what happened next, but Fields alleges that Corey Lewandowski, Trump\u2019s campaign manager, grabbed her by the arm to forcibly move her out of the way, hard enough to nearly knock her to the ground."
+        ],
+        "tf-idf score": [
+            1.3602265452175044,
+            0.973089985871717,
+            1.0569037925070526
+        ]
+    },
+    "0.33916982147075164-3-483": {
+        "average clique similarity": 0.33916982147075164,
+        "clique": [
+            "1-  Solov also said th",
+            "0-Washington Post repo",
+            "3-Washington Post repo"
+        ],
+        "median tf-idf score": 0.9071044940392653,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d Solov also said that Fields didn\u2019t see who grabbed her, but that The Washington Post\u2019s Ben Terris told her it was Lewandowski.",
+            "Washington Post reporter Ben Terris identified Lewandowski as the assailant.",
+            "Washington Post reporter Ben Terris was standing nearby when the incident took place, and he has reported that Lewandowski is the person who grabbed Fields."
+        ],
+        "tf-idf score": [
+            0.9071044940392653,
+            0.42393230069937515,
+            1.0889492571378208
+        ]
+    },
+    "0.3547513002542852-4-157": {
+        "average clique similarity": 0.3547513002542852,
+        "clique": [
+            "2-Someone had grabbed ",
+            "1- I watched as a man ",
+            "0-Fields did not see w",
+            "4-I watched as a man w"
+        ],
+        "median tf-idf score": 0.16705003269919005,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Talking Points Memo",
+            "Vox"
+        ],
+        "sentences": [
+            "Someone had grabbed me tightly by the arm and yanked me down.",
+            "\u201cI watched as a man with   hair and a suit grabbed her arm and yanked her out of the way.",
+            "Fields did not see who grabbed her arm herself.",
+            "I watched as a man with   hair and a suit grabbed her arm and yanked her out of the way."
+        ],
+        "tf-idf score": [
+            0.12247191824384705,
+            0.16705003269919005,
+            0.3537221644113801,
+            0.16705003269919005
+        ]
+    },
+    "0.3737166209814713-4-483": {
+        "average clique similarity": 0.3737166209814713,
+        "clique": [
+            "4-Breitbart published ",
+            "0-I wish everyone at B",
+            "3-The story began   Fo",
+            "1- Former Breitbart Ne"
+        ],
+        "median tf-idf score": 0.8240558288990405,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Breitbart published and later deleted an article smearing Shapiro for \u201dabandoning Andrew Breitbart\u2019s lifelong best friend, widow,   management team and friends in pursuit of an elusive contributorship at the Fox News Channel\u201d.",
+            "I wish everyone at Breitbart the best, and hope the site can redeem the legacy of its founder under   new management,\u201d the statement continued.",
+            "The story began: \u201cFormer Breitbart News    Ben Shapiro announced Sunday evening via   Buzzfeed that he is abandoning Andrew Breitbart\u2019s lifelong best friend, widow,   management team and friends in pursuit of an elusive contributorship at the Fox News Channel.",
+            "\u201dFormer Breitbart News    Ben Shapiro announced Sunday evening via   Buzzfeed that he is abandoning Andrew Breitbart\u2019s lifelong best friend, widow,   management team and friends in pursuit of an elusive contributorship at the Fox News Channel,\u201d the post read."
+        ],
+        "tf-idf score": [
+            0.7547193620520288,
+            0.5599908221349068,
+            0.917563920070052,
+            0.8933922957460521
+        ]
+    },
+    "0.38167978498055016-3-75": {
+        "average clique similarity": 0.38167978498055016,
+        "clique": [
+            "3-  Fields   I can t b",
+            "0-I can t stand with a",
+            "2- I can t stand with "
+        ],
+        "median tf-idf score": 0.35160396703772445,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d Fields: \u201cI can\u2019t believe he just did that, that was so hard.",
+            "I can\u2019t stand with an organization that won\u2019t stand by me: https:  .",
+            "\u201dI can\u2019t stand with an organization that won\u2019t stand by me,\u201d Fields tweeted this morning."
+        ],
+        "tf-idf score": [
+            0.4575860426900591,
+            0.06897088517425704,
+            0.35160396703772445
+        ]
+    },
+    "0.3857370760891247-3-130": {
+        "average clique similarity": 0.3857370760891247,
+        "clique": [
+            "3-   Other resignation",
+            "1-  12 p  m   Two more",
+            "0-National security co"
+        ],
+        "median tf-idf score": 0.6357692331579423,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d  Other resignations would follow in the coming days: Fields\u2019s, and those of reporters Ben Shapiro, Jordan Schachtel and Jarrett Stepman.",
+            "\u201d 12 p. m.: Two more Breitbart staffers resign, Jordan Schachtel, Breitbart national security correspondent, and editor Jarrett Stepman said in statements to Politico that they resigned their posts over the news site\u2019s   \u201cpropaganda.",
+            "National security correspondent Jordan Schachtel and associate editor Jarrett Stepman sent their resignations to management."
+        ],
+        "tf-idf score": [
+            0.6357692331579423,
+            0.9755063485147565,
+            0.2257241736711027
+        ]
+    },
+    "0.4132200621368936-3-269": {
+        "average clique similarity": 0.4132200621368936,
+        "clique": [
+            "4- I m just a little s",
+            "1- Yeah he just threw ",
+            "3-  Terris   Yeah he j"
+        ],
+        "median tf-idf score": 0.1208404028475227,
+        "publications": [
+            "Talking Points Memo",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dI\u2019m just a little spooked,\u201d she told Terris.",
+            "\u201cYeah he just threw you down,\u201d Terris says back.",
+            "\u201d Terris: \u201cYeah he just threw you."
+        ],
+        "tf-idf score": [
+            0.1208404028475227,
+            0.13095071318661947,
+            0.09460761358585296
+        ]
+    },
+    "0.4186423822482747-3-296": {
+        "average clique similarity": 0.4186423822482747,
+        "clique": [
+            "0- Breitbart News is n",
+            "4-In his resignation l",
+            "1-   Breitbart News is"
+        ],
+        "median tf-idf score": 0.8841639204504167,
+        "publications": [
+            "Vox",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dBreitbart News is no longer a journalistic enterprise, but instead, in my opinion, something resembling an unaffiliated media Super PAC for the Trump campaign.",
+            "In his resignation letter, Shapiro said he no longer believed Breitbart was staying true to its   founder Andrew Breitbart:  Both Lewandowski and Trump maligned Michelle in the most repulsive fashion.",
+            "\u201d \u201dBreitbart News is no longer a journalistic enterprise, but instead, in my opinion, something an unaffiliated media Super PAC for the trump campaign."
+        ],
+        "tf-idf score": [
+            0.8841639204504167,
+            1.0947094215094455,
+            0.8734076861761051
+        ]
+    },
+    "0.42189242960766754-3-122": {
+        "average clique similarity": 0.42189242960766754,
+        "clique": [
+            "0- Breitbart News not ",
+            "3-They re junkies abou",
+            "4-Meanwhile  Breitbart"
+        ],
+        "median tf-idf score": 0.6124205359388634,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dBreitbart News not only stood by and did nothing outside of tepidly asking for an apology, they then attempted to abandon Michelle by silencing staff from tweeting or talking about the issue\u201d.",
+            "They\u2019re junkies about news and information.",
+            "Meanwhile, Breitbart News not only stood by and did nothing outside of tepidly asking for an apology, they then attempted to abandon Michelle by silencing staff from tweeting or talking about the issue."
+        ],
+        "tf-idf score": [
+            0.6124205359388634,
+            0.17015701226767116,
+            0.6124205359388634
+        ]
+    },
+    "0.42856539366663887-3-160": {
+        "average clique similarity": 0.42856539366663887,
+        "clique": [
+            "0-I signed my contract",
+            "1-I signed my contract",
+            "3- Breitbart News Netw"
+        ],
+        "median tf-idf score": 0.47279890738214636,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "I signed my contract to work as a journalist, not as a member of the Donald J Trump for President media network.",
+            "I signed my contract to work as a journalist, not as a member of the Donald J Trump for President media network,\u201d Schachtel wrote.",
+            " Breitbart News Network likes to think of itself as a \u201cFight Club\u201d for journalists eager to punch it out with politicians and politicos."
+        ],
+        "tf-idf score": [
+            0.4150126918755557,
+            0.47279890738214636,
+            0.5202780321010975
+        ]
+    },
+    "0.42977253364678014-3-309": {
+        "average clique similarity": 0.42977253364678014,
+        "clique": [
+            "1- In addition to our ",
+            "0-There was no immedia",
+            "4-In addition to our s"
+        ],
+        "median tf-idf score": 0.32519508405376496,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "\u201dIn addition to our staff, which had no knowledge of said situation, not a single camera or reporter of more than 100 in attendance captured the alleged incident\u201d.",
+            "There was no immediate response from Breitbart or the Trump campaign.",
+            "In addition to our staff, which had no knowledge of said situation, not a single camera or reporter of more than 100 in attendance captured the alleged incident\u201d."
+        ],
+        "tf-idf score": [
+            0.32519508405376496,
+            0.7526873203961504,
+            0.32519508405376496
+        ]
+    },
+    "0.43275403430394555-3-483": {
+        "average clique similarity": 0.43275403430394555,
+        "clique": [
+            "3-However  the person ",
+            "4-He was Corey Lewando",
+            "1-He was Corey Lewando"
+        ],
+        "median tf-idf score": 0.7313487584336651,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "However, the person who made contact with Fields was likely not Trump campaign manager Corey Lewandowski,\u201d the post read.",
+            "He was Corey Lewandowski, Trump\u2019s    campaign manager.",
+            "He was Corey Lewandowski, Trump\u2019s    campaign manager,\u201d he wrote."
+        ],
+        "tf-idf score": [
+            1.0735107648988282,
+            0.6982321060536952,
+            0.7313487584336651
+        ]
+    },
+    "0.5785167638580005-3-168": {
+        "average clique similarity": 0.5785167638580005,
+        "clique": [
+            "1-In a statement  Shap",
+            "0-   in order to back ",
+            "2-From Shapiro s state"
+        ],
+        "median tf-idf score": 0.8787560843086348,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "In a statement, Shapiro called Breitbart chairman Steve Bannon a \u201cbully\u201d who sold out founder Andrew Breitbart\u2019s \u201cmission in order to back another bully, Donald Trump.",
+            ".. in order to back another bully, Donald Trump he has shaped the company into Trump\u2019s personal Pravda\u201d.",
+            "From Shapiro\u2019s statement: \u201dSteve Bannon is a bully, and has sold out Andrew\u2019s mission in order to back another bully, Donald Trump he has shaped the company into Trump\u2019s personal Pravda, to the extent that he abandoned and undercut his own reporter, Breitbart News\u2019 Michelle Fields, in order to protect Trump\u2019s bully campaign manager, Corey Lewandowski, who allegedly assaulted Michelle\u201d."
+        ],
+        "tf-idf score": [
+            0.8787560843086348,
+            0.5205616053213808,
+            1.9737452165435103
+        ]
+    },
+    "0.6002944647971726-3-177": {
+        "average clique similarity": 0.6002944647971726,
+        "clique": [
+            "4-Trump acknowledged t",
+            "2-Here s an excerpt  i",
+            "1-8 a  m   Fields publ"
+        ],
+        "median tf-idf score": 0.5701597571136099,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Trump acknowledged the question, but before he could answer I was jolted backwards.",
+            "Here\u2019s an excerpt, in which she says she attempted to ask Trump a question as he made his way through the room: \u201dTrump acknowledged the question, but before he could answer I was jolted backwards.",
+            "8 a. m.: Fields publishes her account of the   Fields wrote in a column on Breitbart that Trump acknowledged her question about affirmative action, but she was \u201cjolted backwards\u201d before he could answer it."
+        ],
+        "tf-idf score": [
+            0.461019372614496,
+            0.5701597571136099,
+            1.0611436724052332
+        ]
+    }
+}

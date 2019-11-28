@@ -1,0 +1,642 @@
+{
+    "0.1627878421166559-3-115": {
+        "average clique similarity": 0.1627878421166559,
+        "clique": [
+            "3- Corey Lewandowski i",
+            "2-In this case  that a",
+            "4-Trump s campaign sai"
+        ],
+        "median tf-idf score": 0.791245622864034,
+        "publications": [
+            "Washington Post",
+            "Talking Points Memo",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201dCorey Lewandowski is gratified by the decision to drop the misdemeanor charge and appreciates the thoughtful consideration and professionalism by the Palm Beach State Attorney and his staff who carefully reviewed this matter, as well as Mr Trump\u2019s loyalty and the support of his colleagues and family during this time.",
+            "In this case, that approach seems to have backfired: by refusing to admit any fault, Trump and Lewandowski appeared to have transformed the grab of an arm into a   controversy, a criminal charge, and a   illustration of how they have disregarded the truth.",
+            "Trump\u2019s campaign said Lewandowski would plead not guilty and is \u201dabsolutely innocent of this charge\u201d in a statement provided to Politico."
+        ],
+        "tf-idf score": [
+            0.791245622864034,
+            0.772921203263609,
+            1.0804305232192968
+        ]
+    },
+    "0.1690585806567941-3-438": {
+        "average clique similarity": 0.1690585806567941,
+        "clique": [
+            "3-The New York Times d",
+            "1-According to The Hil",
+            "2-linked the incident "
+        ],
+        "median tf-idf score": 0.8586972559012216,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The New York Times documented recently how the campaign has gone on the offense repeatedly through the campaign, using personal attacks to go after opponents, particularly using Twitter, as was the case against Fields:  With his enormous online platform, Mr Trump has badgered and humiliated those who have dared to cross him during the presidential race.",
+            "According to The Hill, Ted Cruz told reporters in Wisconsin \u201dThis is the consequence of the culture of the Trump campaign, the abusive culture, when you have a campaign that is built on personal insults, on attacks and now, physical violence\u201d.",
+            "linked the incident to outbreaks of violence against protesters at Trump\u2019s rallies  \u2014   violence that, at times, the   has seemed to encourage."
+        ],
+        "tf-idf score": [
+            1.202803308167451,
+            0.8586972559012216,
+            0.5320614369325232
+        ]
+    },
+    "0.1802873979634055-3-248": {
+        "average clique similarity": 0.1802873979634055,
+        "clique": [
+            "4-Fields and multiple ",
+            "1-Fields resigned from",
+            "3-Fields recounted the"
+        ],
+        "median tf-idf score": 0.932210432788467,
+        "publications": [
+            "Talking Points Memo",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Fields and multiple other staffers resigned their posts at the conservative news site following the incident, saying Breitbart leaders were more concerned with appeasing the Trump campaign than supporting their employee.",
+            "Fields resigned from her Breitbart post after the incident, saying the news outlet had not stood behind her.",
+            "Fields recounted the incident in a post on Breitbart in her own words:  I wasn\u2019t called upon to ask a question during the televised press conference, but afterwards Trump wandered around, stopping at every reporter to take their questions."
+        ],
+        "tf-idf score": [
+            1.1370122241874292,
+            0.5203050886627432,
+            0.932210432788467
+        ]
+    },
+    "0.18199436827132223-3-57": {
+        "average clique similarity": 0.18199436827132223,
+        "clique": [
+            "1-and that  given the ",
+            "2-In fact  Trump impli",
+            "3-According to Washing"
+        ],
+        "median tf-idf score": 1.0583235799677166,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "and that \u201dgiven the similarity in appearance between Lewandowski and the security official, and given the fact that Lewandowski was walking on the other side of Trump from where Fields was at the time, the possibility of mistaken identity cannot be ruled out\u201d.",
+            "In fact, Trump implied, the grab may have been justified because the reporter was pressing too closely to the candidate.",
+            "According to Washington Post reporter Ben Terris, who was there and witnessed the incident, Lewandowski grabbed Fields and yanked her out of the candidate\u2019s way."
+        ],
+        "tf-idf score": [
+            1.0938054307301328,
+            0.6268496320348401,
+            1.0583235799677166
+        ]
+    },
+    "0.18804900827211055-3-360": {
+        "average clique similarity": 0.18804900827211055,
+        "clique": [
+            "3-Trump s campaign man",
+            "2-He voluntarily went ",
+            "4-He has a mandatory c"
+        ],
+        "median tf-idf score": 1.5886572711458962,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Trump\u2019s campaign manager Lewandowski was served with a notice to appear from the Jupiter, Florida, Police Department last month after Fields filed a criminal report that he \u201dmanhandled\u201d her at a campaign rally in early March.",
+            "He voluntarily went to police headquarters in Jupiter, Fla. and signed paperwork that ordered him to appear in court on May 4.",
+            "He has a mandatory court appearance scheduled for May 4 at 8:30 a. m. Police obtained video that appears to definitively show the campaign manager grabbing Fields\u2019 arm on March 12 from Trump\u2019s security at the Trump National Golf Club, where the campaign hosted the press conference, the report also said."
+        ],
+        "tf-idf score": [
+            1.5886572711458962,
+            0.2469120920725503,
+            1.605904168525818
+        ]
+    },
+    "0.18873277777992695-3-86": {
+        "average clique similarity": 0.18873277777992695,
+        "clique": [
+            "3-Trump acknowledged t",
+            "2-He said it was wrong",
+            "1-Trump also claimed F"
+        ],
+        "median tf-idf score": 0.9459250352725384,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Trump acknowledged the question, but before he could answer I was jolted backwards.",
+            "He said it was wrong to think that he had cleared Fields away from Trump\u2019s path because he thought she would ask him an uncomfortable question.",
+            "Trump also claimed Fields grabbed him, and he disputed the charge that Lewandowski bruised Fields, saying \u201dwouldn\u2019t you think she would have yelled out a scream if she had bruises on her arm?\u201d He said Fields could have had the bruises before the incident with Lewandowski."
+        ],
+        "tf-idf score": [
+            0.5455709194130745,
+            0.9459250352725384,
+            1.2580180395574856
+        ]
+    },
+    "0.1944849634256864-3-401": {
+        "average clique similarity": 0.1944849634256864,
+        "clique": [
+            "1-He was not arrested ",
+            "3-But how Trump respon",
+            "2-The affidavit does n"
+        ],
+        "median tf-idf score": 0.5929199769012775,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "He was not arrested.",
+            "But how Trump responded to the whole thing was an example of a campaign tactic he has used all along: Even in the face of overwhelming evidence contradicting contradicting his statements, he does not back down and he definitely does not apologize.",
+            "The affidavit does not indicate whether Lewandowski was interviewed by police."
+        ],
+        "tf-idf score": [
+            0.20748509880984775,
+            0.9404981779273143,
+            0.5929199769012775
+        ]
+    },
+    "0.19705888477643388-4-306": {
+        "average clique similarity": 0.19705888477643388,
+        "clique": [
+            "3-Jupiter police also ",
+            "2-  The charge against",
+            "0-  However  the Jupit",
+            "1-Lewandowski has prev"
+        ],
+        "median tf-idf score": 0.715636667221716,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Jupiter police also released the video they reviewed before charging Lewandowski, published by Talking Points Memo:       Lewandowski has come under a lot of scrutiny since the incident and is undoubtedly happy it reached this conclusion.",
+            "\u201d The charge against Lewandowski is explained in an affidavit written by Marc Bujnowski of the Jupiter Police Department.",
+            "\u201d However, the Jupiter Police Department obtained video from the ballroom that it says parallels Fields\u2019 version of events, and subsequently charged Lewandowski.",
+            "Lewandowski has previously denied involvement in the incident, calling Fields \u201dtotally delusional\u201d in a tweet: However video tape released by the Jupiter Police Department appears to show Lewandowski grabbing Fields as she walked along side Trump."
+        ],
+        "tf-idf score": [
+            0.6582602184180467,
+            0.48267123013124513,
+            0.7730131160253852,
+            1.3088054521392827
+        ]
+    },
+    "0.19763980571906045-3-144": {
+        "average clique similarity": 0.19763980571906045,
+        "clique": [
+            "1-Update at 5 15 p  m ",
+            "0-Cruz said during a t",
+            "3-    Donald J Trump  "
+        ],
+        "median tf-idf score": 1.13640930327295,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Update at 5:15 p. m. ET: Speaking to reporters on his plane in Wisconsin, Trump backed his campaign manager, saying Lewandowski was \u201dvery seriously maligned,\u201d and said he would remain in his job.",
+            "Cruz said during a town hall Tuesday night that if Lewandowski was his campaign manage, he would ask him to resign.",
+            "\u2014   Donald J Trump (@realDonaldTrump) March 29, 2016     Trump pushed this story home throughout his campaign rallies in Wisconsin and during his town hall with CNN\u2019s Anderson Cooper, where he said by Field\u2019s account he might press charges as well."
+        ],
+        "tf-idf score": [
+            1.3406070819313567,
+            0.9196962692029953,
+            1.13640930327295
+        ]
+    },
+    "0.2332083149380916-3-438": {
+        "average clique similarity": 0.2332083149380916,
+        "clique": [
+            "2-The video appeared t",
+            "0-  Earlier on Tuesday",
+            "1-Shortly after the al"
+        ],
+        "median tf-idf score": 1.1605249041783492,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "The video appeared to show Lewandowski grabbing Breitbart News reporter Michelle Fields as she sought to ask Trump a question after a   news conference.",
+            "\u201d Earlier on Tuesday, while on his campaign plane, Trump said that Fields was seen running up and grabbing him after a news conference which he claimed she was \u201dnever supposed to do,\u201d and that Lewandowski was trying to block Fields from \u201dgrabbing and asking questions\u201d.",
+            "Shortly after the alleged incident with Fields, Lewandowski was back in the news after a video appeared to show him grabbing a protester\u2019s shirt collar at a rally in Arizona."
+        ],
+        "tf-idf score": [
+            1.1605249041783492,
+            1.5997898520458804,
+            0.9913313384738154
+        ]
+    },
+    "0.26218201317263073-3-431": {
+        "average clique similarity": 0.26218201317263073,
+        "clique": [
+            "1- I don t discard peo",
+            "4-Fields later retweet",
+            "2-I stay with people  "
+        ],
+        "median tf-idf score": 0.44484688991245586,
+        "publications": [
+            "NPR",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dI don\u2019t discard people,\u201d Trump said.",
+            "Fields later retweeted a Trump tweet urging people to dig deeper into her allegations with the remark \u201dseriously, just stop lying\u201d.",
+            "I stay with people,\u201d Trump said."
+        ],
+        "tf-idf score": [
+            0.44484688991245586,
+            0.6708415235094585,
+            0.4420430297415509
+        ]
+    },
+    "0.2780188332010633-3-129": {
+        "average clique similarity": 0.2780188332010633,
+        "clique": [
+            "3-Look at   there ",
+            "1- How do you know tho",
+            "2- How do you know tho"
+        ],
+        "median tf-idf score": 0.07640971782044968,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Look at   there!",
+            "\u201dHow do you know those bruises weren\u2019t there before?\u201d Original post continues: Trump tweeted Tuesday that the \u201dtapes\u201d (other views of the scene had circulated previously) showed \u201dnothing there\u201d: Fields responded to Trump\u2019s tweets: Trump spokeswoman Hope Hicks also defended Lewandowski Tuesday morning, saying in a statement : \u201dMr Lewandowski was issued a Notice to Appear and was given a court date.",
+            "\u201cHow do you know those bruises weren\u2019t there before?"
+        ],
+        "tf-idf score": [
+            0.022519888664564707,
+            1.5994122875505874,
+            0.07640971782044968
+        ]
+    },
+    "0.29003122791515373-3-239": {
+        "average clique similarity": 0.29003122791515373,
+        "clique": [
+            "2-John Kasich said he ",
+            "0-Kasich said at the C",
+            "1-John Kasich s campai"
+        ],
+        "median tf-idf score": 0.8100397526489881,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "John Kasich said he would have fired Lewandowski if such an incident had happened in his campaign, according to press reports.",
+            "Kasich said at the CNN town hall event he would fire Lewandowski as well.",
+            "John Kasich\u2019s campaign adviser John Weaver tweeted that Lewandowski \u201dwould have been fired long ago\u201d if he was working for the Kasich campaign."
+        ],
+        "tf-idf score": [
+            0.9008259077874883,
+            0.47273116427106743,
+            0.8100397526489881
+        ]
+    },
+    "0.30370192650132544-5-73": {
+        "average clique similarity": 0.30370192650132544,
+        "clique": [
+            "2-Donald Trump s campa",
+            "1-Police in Jupiter  F",
+            "4-Local Florida police",
+            "3-Trump has stood by h",
+            "0- Donald Trump vowed "
+        ],
+        "median tf-idf score": 1.3007696360296426,
+        "publications": [
+            "Fox News",
+            "Talking Points Memo",
+            "NPR",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Donald Trump\u2019s campaign manager was charged with battery on March 29.",
+            "Police in Jupiter, Fla. have charged Donald Trump\u2019s campaign manager with battery for allegedly grabbing a reporter for Breitbart news following a Trump campaign rally earlier this month.",
+            "Local Florida police charged Donald Trump campaign manager Corey Lewandowski with misdemeanor battery Tuesday after a former reporter for Breitbart accused him of manhandling her.",
+            "Trump has stood by his campaign manager despite Fields\u2019s claims, a surveillance video corroborates her story, and a police report that had charged Lewandowski with battery.",
+            " Donald Trump vowed Tuesday to stand by his campaign manager who was charged with misdemeanor battery over allegations he grabbed the arm of   reporter Michelle Fields, as the aide maintained his innocence."
+        ],
+        "tf-idf score": [
+            0.8758141219787396,
+            1.103309702593094,
+            1.3007696360296426,
+            1.3905383796451545,
+            1.3693785452578997
+        ]
+    },
+    "0.3043045470708285-3-3": {
+        "average clique similarity": 0.3043045470708285,
+        "clique": [
+            "1-Trump had weighed in",
+            "2- This was  in my opi",
+            "3-And this incident at"
+        ],
+        "median tf-idf score": 0.5505671592569439,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Trump had weighed in earlier this month as well, saying: \u201dThis was, in my opinion, made up.",
+            "\u201cThis was, in my opinion, made up,\u201d Trump told CNN then.",
+            "And this incident ate up much of the political news cycle in March."
+        ],
+        "tf-idf score": [
+            0.5782557769513951,
+            0.5505671592569439,
+            0.19284370424372005
+        ]
+    },
+    "0.31614746299074414-3-438": {
+        "average clique similarity": 0.31614746299074414,
+        "clique": [
+            "0-  The police report ",
+            "2-grabbed Fields  left",
+            "4-Michelle Fields file"
+        ],
+        "median tf-idf score": 0.811209568791807,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "\u201d The police report says Lewandowski \u201dgrabbed Fields left arm with his right hand, causing her to turn and step back\u201d.",
+            "grabbed Fields\u2019 left arm with his right hand, causing her to turn and step back,\u201d Bujnowski wrote in the affidavit.",
+            "Michelle Fields filed a police report with Jupiter, Florida police on March 11 alleging that Lewandowski forcefully grabbed her by the arm, nearly pulling her to the ground, after a campaign press conference."
+        ],
+        "tf-idf score": [
+            0.811209568791807,
+            0.4381283620435831,
+            1.2422251625331275
+        ]
+    },
+    "0.3191792603507646-3-438": {
+        "average clique similarity": 0.3191792603507646,
+        "clique": [
+            "1-According to the arr",
+            "0- And we re going to ",
+            "2-That illustration wa"
+        ],
+        "median tf-idf score": 1.345711437129502,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "According to the arrest report, the reporter, Michelle Fields, told police that she asked Trump a question after the March 8 event, as he was making his way toward the exit of the ballroom at the Trump National Golf Club, and felt someone \u201dyank her left arm\u201d.",
+            "\u201cAnd we\u2019re going to destroy a man\u2019s life over this?\u201d The incident occurred after a March 8 press conference at the Trump National Golf Club in Jupiter, Fla. where Corey Lewandowski was accused by Fields of grabbing her arm as she asked the Republican   a question.",
+            "That illustration was a new videotape  \u2014   taken at Trump National Golf Club, and obtained by the Jupiter police  \u2014   that captured the alleged battery."
+        ],
+        "tf-idf score": [
+            1.345711437129502,
+            1.5595539028777978,
+            0.7921457956330057
+        ]
+    },
+    "0.33686426349046844-3-17": {
+        "average clique similarity": 0.33686426349046844,
+        "clique": [
+            "0-Ted Cruz s campaign ",
+            "1-Fields  resignation ",
+            "2- This the consequenc"
+        ],
+        "median tf-idf score": 0.7698835947335794,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Ted Cruz\u2019s campaign said the incident is indicative of the culture of the Trump campaign.",
+            "Fields\u2019 resignation was followed by that of Breitbart    Ben Shapiro, and a handful of other employees who alleged the conservative news outlet was more protective of the Trump campaign than of Fields.",
+            "\u201cThis the consequence of the culture of the Trump campaign."
+        ],
+        "tf-idf score": [
+            0.7698835947335794,
+            1.1277780727888873,
+            0.5265879967661247
+        ]
+    },
+    "0.34470728775062015-3-269": {
+        "average clique similarity": 0.34470728775062015,
+        "clique": [
+            "0-Perhaps she made the",
+            "1-I think that s what ",
+            "2- I needed a report t"
+        ],
+        "median tf-idf score": 0.10794795914228837,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Perhaps she made the story up, I think that\u2019s what happened.",
+            "I think that\u2019s what happened\u201d.",
+            "\u201cI needed a report to show people that this happened."
+        ],
+        "tf-idf score": [
+            0.10794795914228837,
+            0.07394577841406133,
+            0.11766522294248206
+        ]
+    },
+    "0.3486811679354165-3-95": {
+        "average clique similarity": 0.3486811679354165,
+        "clique": [
+            "3-What Michelle has to",
+            "0- She grabbed me and ",
+            "1-The Post reporter  B"
+        ],
+        "median tf-idf score": 0.7629693092693508,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "What Michelle has told us directly is that someone \u201dgrabbed her arm\u201d and while she did not see who it was, Ben Terris of the Washington Post told her that it was Corey Lewandowski.",
+            "\u201cShe grabbed me and she had something in her hand, I don\u2019t know what it was,\u201d Trump told Hannity.",
+            "The Post reporter, Ben Terris, confirmed it was Lewandowski who had grabbed her arm."
+        ],
+        "tf-idf score": [
+            0.8917234648677614,
+            0.6770565741732416,
+            0.7629693092693508
+        ]
+    },
+    "0.4025734935299699-3-158": {
+        "average clique similarity": 0.4025734935299699,
+        "clique": [
+            "4- He is completely co",
+            "0-He says he hopes the",
+            "2- He is completely co"
+        ],
+        "median tf-idf score": 0.235785495757394,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dHe is completely confident that he will be exonerated,\u201d the statement said.",
+            "He says he hopes the matter doesn\u2019t change Lewandowski\u2019s role on his campaign.",
+            "\u201cHe is completely confident that he will be exonerated."
+        ],
+        "tf-idf score": [
+            0.235785495757394,
+            0.5338223448401874,
+            0.05244702866946406
+        ]
+    },
+    "0.4137204044723511-3-203": {
+        "average clique similarity": 0.4137204044723511,
+        "clique": [
+            "2-Corey Lewandowski  4",
+            "1-Corey Lewandowski is",
+            "0-   Lewandowski is du"
+        ],
+        "median tf-idf score": 0.40080302156805564,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Corey Lewandowski, 42, faces one misdemeanor count of battery as a result of the March 8 incident.",
+            "Corey Lewandowski is charged with one count of simple battery.",
+            "\u201d  Lewandowski is due to appear in court on May 4th to face one count of simple battery."
+        ],
+        "tf-idf score": [
+            0.5089521245369076,
+            0.3862748890946009,
+            0.40080302156805564
+        ]
+    },
+    "0.45662400690697885-4-198": {
+        "average clique similarity": 0.45662400690697885,
+        "clique": [
+            "1-Everybody said nothi",
+            "0-Trump also backed Le",
+            "3-Then Trump began twe",
+            "2- Everybody said noth"
+        ],
+        "median tf-idf score": 0.26898382388786735,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "Everybody said nothing happened.",
+            "Trump also backed Lewandowski, telling reporters a few days later that \u201deverybody said nothing happened.",
+            "Then Trump began tweeting his take on the evidence: that \u201dnothing\u201d questionable happened.",
+            "\u201cEverybody said nothing happened."
+        ],
+        "tf-idf score": [
+            0.17832346713482894,
+            0.8566295259118315,
+            0.3596441806409057,
+            0.17832346713482894
+        ]
+    },
+    "0.5384060865928856-3-438": {
+        "average clique similarity": 0.5384060865928856,
+        "clique": [
+            "2- Mr Lewandowski is a",
+            "1-Mr Lewandowski is ab",
+            "0-The Trump campaign i"
+        ],
+        "median tf-idf score": 0.3619632362539824,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cMr Lewandowski is absolutely innocent of this charge.",
+            "Mr Lewandowski is absolutely innocent of this charge.",
+            "The Trump campaign issued a statement Tuesday calling Lewandowski \u201cabsolutely innocent."
+        ],
+        "tf-idf score": [
+            0.3619632362539824,
+            0.3619632362539824,
+            0.9174870552923317
+        ]
+    },
+    "0.5647706402412951-3-438": {
+        "average clique similarity": 0.5647706402412951,
+        "clique": [
+            "1-He will enter a plea",
+            "0- He will enter a ple",
+            "2-He will enter a plea"
+        ],
+        "median tf-idf score": 0.1434431813973314,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He will enter a plea of not guilty and looks forward to his day in court.",
+            "\u201cHe will enter a plea of not guilty and looks forward to his day in court.",
+            "He will enter a plea of not guilty and looks forward to his day in court,\u201d campaign spokeswoman Hope Hicks said in the statement."
+        ],
+        "tf-idf score": [
+            0.1434431813973314,
+            0.1434431813973314,
+            0.5829772357740959
+        ]
+    },
+    "0.5706276373733639-3-438": {
+        "average clique similarity": 0.5706276373733639,
+        "clique": [
+            "0-He is completely con",
+            "1-He is completely con",
+            "2- Just the premise th"
+        ],
+        "median tf-idf score": 0.05244702866946406,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He is completely confident that he will be exonerated.",
+            "He is completely confident that he will be exonerated\u201d.",
+            "\u201cJust the premise that Breitbart is going to ask Mr Trump a question that he can\u2019t handle, and I\u2019m so concerned what this question might be  \u2014   on its face, that is just an egregious notion,\u201d Lewandowski said."
+        ],
+        "tf-idf score": [
+            0.05244702866946406,
+            0.05244702866946406,
+            0.8756523411876175
+        ]
+    }
+}

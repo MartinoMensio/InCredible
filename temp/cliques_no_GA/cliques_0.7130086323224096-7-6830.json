@@ -1,0 +1,902 @@
+{
+    "0.13646734180391007-3-268": {
+        "average clique similarity": 0.13646734180391007,
+        "clique": [
+            "0-Yahoo s boss  Mariss",
+            "3-It is unclear what e",
+            "2-The security breach "
+        ],
+        "median tf-idf score": 0.6436730008818534,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "Yahoo\u2019s boss, Marissa Mayer, could collect a total of $137m if she leaves the company following the sale to Verizon.",
+            "It is unclear what effect, if any, the breach will have on Yahoo\u2019s sale price.",
+            "The security breach is yet another bruise for the aging tech firm and chief executive Marissa Mayer, who joined Yahoo in 2012 to effect a turnaround and ended up having to sell the firm\u2019s core assets instead."
+        ],
+        "tf-idf score": [
+            0.6436730008818534,
+            0.5814504628163918,
+            0.7887644562102147
+        ]
+    },
+    "0.1557129556484728-3-17": {
+        "average clique similarity": 0.1557129556484728,
+        "clique": [
+            "4-Disclosure of the br",
+            "3-The hack of Yahoo  s",
+            "2-chastised Yahoo for "
+        ],
+        "median tf-idf score": 0.9690777443632994,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "Disclosure of the breach comes two months after Yahoo, once among the most powerful tech companies in Silicon Valley, said it would sell its core internet business to telecom giant Verizon for $4.",
+            "The hack of Yahoo, still one of the internet\u2019s busiest sites with one billion monthly users, also has   implications for both consumers and one of America\u2019s largest companies, Verizon Communications, which is in the process of acquiring Yahoo for $4.",
+            "chastised Yahoo for not reporting suspicions of a breach sooner and called on the federal government to impose stricter disclosure requirements for companies."
+        ],
+        "tf-idf score": [
+            1.1466768109883922,
+            0.9690777443632994,
+            0.7247896693185601
+        ]
+    },
+    "0.15904339128436365-3-409": {
+        "average clique similarity": 0.15904339128436365,
+        "clique": [
+            "2-But first address an",
+            "0-8bn it sold itself t",
+            "3-The sample contained"
+        ],
+        "median tf-idf score": 0.1161683235179151,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "But first address and resolve the issue for your consumers and the transaction will take care of itself\u201d.",
+            "8bn it sold itself to Verizon for.",
+            "The sample contained valid Yahoo user accounts, but it was unclear whether the data was from a breach of a   service or Yahoo itself."
+        ],
+        "tf-idf score": [
+            0.10129525948942751,
+            0.1161683235179151,
+            1.059950847099171
+        ]
+    },
+    "0.16254465139017582-3-8": {
+        "average clique similarity": 0.16254465139017582,
+        "clique": [
+            "3-In July  Verizon sai",
+            "2-Yahoo learned of the",
+            "4-Verizon said Thursda"
+        ],
+        "median tf-idf score": 0.8796187040088357,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In July, Verizon said it would acquire the internet pioneer, roughly a month before Yahoo security experts started looking into whether the site had been hacked.",
+            "Yahoo learned of the incident in July, the same month it announced its deal with Verizon, a person familiar with the matter said, speaking on condition of anonymity to freely discuss the issue.",
+            "Verizon said Thursday it learned of the breach \u201cwithin the last two days\u201d but that it had few details."
+        ],
+        "tf-idf score": [
+            0.8950089290755371,
+            0.8796187040088357,
+            0.529543881253211
+        ]
+    },
+    "0.1641292031421653-4-58": {
+        "average clique similarity": 0.1641292031421653,
+        "clique": [
+            "0-  The hack  which af",
+            "5-  Yahoo declined to ",
+            "2-The impact on Verizo",
+            "6-Analyst Robert Peck "
+        ],
+        "median tf-idf score": 0.7483972082320192,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201d The hack, which affected roughly half of all of Yahoo\u2019s users, has raised serious questions about Yahoo\u2019s security and its executives ability to deal with the fallout.",
+            "\u201d Yahoo declined to respond to Verizon\u2019s comments and did not say how the hack and ongoing investigation may affect the deal.",
+            "The impact on Verizon\u2019s deal with Yahoo was not immediately clear.",
+            "Analyst Robert Peck of SunTrust Robinson Humphrey said the breach probably was not enough to prompt Verizon to abandon its deal with Yahoo, but it could call for a price decrease of $100 million to $200 million, depending on how many users leave Yahoo."
+        ],
+        "tf-idf score": [
+            0.8484555655359702,
+            0.648338850928068,
+            0.6229497957203652,
+            1.221350482592518
+        ]
+    },
+    "0.17510356584533193-3-37": {
+        "average clique similarity": 0.17510356584533193,
+        "clique": [
+            "0-Yahoo  which was wor",
+            "6-The attack on Yahoo ",
+            "4-  In 2012  Yahoo had"
+        ],
+        "median tf-idf score": 0.6138766882260629,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Yahoo, which was worth $125bn at the height of the dotcom bubble in 1999, was forced to reveal \u201cstate sponsored\u201d hackers had stolen data from more than half a billion people across the world.",
+            "The attack on Yahoo was unprecedented in size, more than triple other large attacks on sites such as eBay Inc ( ) and it comes to light at a difficult time for Yahoo.",
+            "\u201d In 2012, Yahoo had more than 1 billion user accounts in its databases."
+        ],
+        "tf-idf score": [
+            0.857075895133853,
+            0.6138766882260629,
+            0.5911630179844244
+        ]
+    },
+    "0.1764962009916281-3-446": {
+        "average clique similarity": 0.1764962009916281,
+        "clique": [
+            "5-A source close to th",
+            "0-Yahoo first found ou",
+            "3-An annual report by "
+        ],
+        "median tf-idf score": 0.6090845106237702,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "A source close to the investigation told BuzzFeed News that Yahoo investigated Peace\u2019s claim in July 2016 and found no direct evidence to substantiate it.",
+            "Yahoo first found out about the security breach when Vice journalist Joseph Cox contacted the company on 30 July to warn it that the data was being offered around for sale.",
+            "An annual report by the Ponemon Institute in July found that the costs to remediate a data breach is $221 per stolen record."
+        ],
+        "tf-idf score": [
+            0.6090845106237702,
+            1.0932082994699601,
+            0.453490504973562
+        ]
+    },
+    "0.18288227585711989-3-331": {
+        "average clique similarity": 0.18288227585711989,
+        "clique": [
+            "2-When asked  Yahoo de",
+            "3-The first sign that ",
+            "4-  It s unclear when "
+        ],
+        "median tf-idf score": 0.950971672227937,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "When asked, Yahoo declined to say whether it first learned of the hack before or after that deal was announced.",
+            "The first sign that something was amiss appeared in June, when a Russian hacker who goes by the user name Tessa88 started mentioning, in underground web forums, a new trove of stolen Yahoo data, Mr Holden said.",
+            "\u201d It\u2019s unclear when the company first became aware of the breach a pseudonymous hacker first publicly offered to sell Yahoo data last month."
+        ],
+        "tf-idf score": [
+            0.6265072475378171,
+            1.2138732756810358,
+            0.950971672227937
+        ]
+    },
+    "0.1875391058398729-3-286": {
+        "average clique similarity": 0.1875391058398729,
+        "clique": [
+            "1-Yahoo s probe of the",
+            "5-Yahoo did not disclo",
+            "6- This is the biggest"
+        ],
+        "median tf-idf score": 1.2113419908341105,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Yahoo\u2019s probe of the breach  \u2014   the biggest ever in terms of the number of accounts affected  \u2014   turned up no evidence that hackers got   data or bank account information, it said, noting it doesn\u2019t store that on the affected network.",
+            "Yahoo did not disclose its earlier findings about the purported Peace hack, which may have comforted users, because it believed the information may have affected the second investigation, the source said.",
+            "\u201dThis is the biggest data breach ever,\u201d\u009d said   cryptologist Bruce Schneier, adding that the impact on Yahoo and its users remained unclear because many questions remain, including the identity of the   hackers behind it."
+        ],
+        "tf-idf score": [
+            1.3295760170973343,
+            1.0184636745948454,
+            1.2113419908341105
+        ]
+    },
+    "0.20512522252114185-3-71": {
+        "average clique similarity": 0.20512522252114185,
+        "clique": [
+            "6-Although the attack ",
+            "0-The data loss  which",
+            "4-Yahoo believes the d"
+        ],
+        "median tf-idf score": 0.6604291846985669,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Although the attack happened in 2014, Yahoo only discovered  the incursion after August reports of a separate breach.",
+            "The data loss, which happened in 2014 but was only recently discovered, is a huge embarrassment to Yahoo and has raised doubts over the future of the    firm.",
+            "Yahoo believes the data was stolen in \u201clate 2014."
+        ],
+        "tf-idf score": [
+            0.6159142965253438,
+            0.7357928547746136,
+            0.6604291846985669
+        ]
+    },
+    "0.20619840962940983-3-446": {
+        "average clique similarity": 0.20619840962940983,
+        "clique": [
+            "5-At the time  Yahoo s",
+            "0-At the time it said ",
+            "3-According to the Pon"
+        ],
+        "median tf-idf score": 0.7894546988313084,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "At the time, Yahoo said it was aware of the listing, but it did not issue a password reset.",
+            "At the time it said Yahoo was \u201ccommitted to protecting the security of our users\u2019 information and we take any such claim very seriously.",
+            "According to the Ponemon Institute, which tracks data breaches, the average time it takes organizations to identify such an attack is 191 days, and the average time to contain a breach is 58 days after discovery."
+        ],
+        "tf-idf score": [
+            0.7894546988313084,
+            0.9947161917202629,
+            0.47250302335530964
+        ]
+    },
+    "0.208513360456547-3-446": {
+        "average clique similarity": 0.208513360456547,
+        "clique": [
+            "1-Yahoo said it s noti",
+            "6-On its website on Th",
+            "0-US politicians attac"
+        ],
+        "median tf-idf score": 0.8481047484388805,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "Yahoo said it\u2019s notifying affected users and has taken steps to secure their accounts, including asking potentially affected users to change their passwords.",
+            "On its website on Thursday, Yahoo encouraged users to change their passwords but did not require it.",
+            "US politicians attacked Yahoo for not acting faster to warn users, who will have to change not just their Yahoo password but also any linked accounts which could include social media profiles, photo album sites and financial services."
+        ],
+        "tf-idf score": [
+            1.0776584910442641,
+            0.6261794962816691,
+            0.8481047484388805
+        ]
+    },
+    "0.21168125226412027-3-355": {
+        "average clique similarity": 0.21168125226412027,
+        "clique": [
+            "1-Analysts said the br",
+            "0-The data breach  whi",
+            "3-Security experts say"
+        ],
+        "median tf-idf score": 0.39410413651027415,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Analysts said the breach could end up lowering the $4.",
+            "The data breach, which experts suggest could have been carried out by Russian, Chinese or North Korean sponsored hackers, could end up costing Yahoo more than the $4.",
+            "Security experts say the breach could bring about   lawsuits, in addition to other costs."
+        ],
+        "tf-idf score": [
+            0.39410413651027415,
+            0.7823273141951012,
+            0.3230657499627985
+        ]
+    },
+    "0.2249826538520058-3-395": {
+        "average clique similarity": 0.2249826538520058,
+        "clique": [
+            "0-Shortly after Cox wa",
+            "5-In early August  a h",
+            "2-The Yahoo intrusion "
+        ],
+        "median tf-idf score": 0.8130028086614207,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Shortly after Cox warned Yahoo about the existence of the data, some of it was listed for sale on   dark website the Real Deal Marketplace for sale for for three bitcoins (about $1, 860).",
+            "In early August, a hacker by the same name had listed data from 200 million Yahoo accounts for sale on the Dark Web.",
+            "The Yahoo intrusion stands out for the sheer scale of the customers apparently affected, a legacy of the company\u2019s   position for Internet users who turned to the company for web searches, email accounts, user groups and news reports."
+        ],
+        "tf-idf score": [
+            0.7792263621537335,
+            0.8130028086614207,
+            1.042182476700992
+        ]
+    },
+    "0.23042993918482071-4-76": {
+        "average clique similarity": 0.23042993918482071,
+        "clique": [
+            "3-SAN FRANCISCO      Y",
+            "4-Please follow the st",
+            "2-         Yahoo on Th",
+            "5-  Many online respon"
+        ],
+        "median tf-idf score": 1.2345118588572512,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "SAN FRANCISCO  \u2014   Yahoo announced on Thursday that the account information of at least 500 million users was stolen by hackers two years ago, in the biggest known intrusion of one company\u2019s computer network.",
+            "Please follow the steps below, NEWS BRIEF A \u201c  actor\u201d stole personal data from at least 500 million Yahoo user accounts, the troubled tech company said Thursday.",
+            "         Yahoo on Thursday reported the largest data breach in history    affecting at least 500 million user accounts    months after first detecting signs of an intrusion that the company blamed on \u201d \u201d hackers.",
+            "\u201d Many online responses criticized the pace of Yahoo\u2019s response and joked about its relevance in 2016: In related news: At least 500 million people still use Yahoo!."
+        ],
+        "tf-idf score": [
+            1.2263710307652231,
+            1.2677053318012865,
+            1.2426526869492793,
+            0.5607283535553553
+        ]
+    },
+    "0.23237311146638004-3-89": {
+        "average clique similarity": 0.23237311146638004,
+        "clique": [
+            "4-In August  a hacker ",
+            "3-Then  in August  a s",
+            "2-Vice s Motherboard b"
+        ],
+        "median tf-idf score": 1.1046926549888145,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In August, a hacker called \u201cPeace\u201d appeared in online forums, offering to sell 200 million of the company\u2019s usernames and passwords for about $1, 900 in total.",
+            "Then, in August, a second hacker who goes by the alias Peace of Mind began offering a large collection of stolen Yahoo credentials  \u2014   including user names, easily cracked passwords, birth dates, ZIP codes and email addresses  \u2014   on a site called TheRealDeal, where hackers can buy and sell stolen data, Mr Holden said.",
+            "Vice\u2019s Motherboard blog in August reported that Yahoo was investigating an alleged breach after the news organization found that a cybercriminal known as \u201dPeace\u201d claimed to be offering 200 million Yahoo user credentials for sale online."
+        ],
+        "tf-idf score": [
+            0.4944576563122064,
+            1.3941461159690063,
+            1.1046926549888145
+        ]
+    },
+    "0.2358033410122123-4-446": {
+        "average clique similarity": 0.2358033410122123,
+        "clique": [
+            "3-They ll also have to",
+            "5-Shuman Ghosemajumder",
+            "2- It s really importa",
+            "6-That data could make"
+        ],
+        "median tf-idf score": 0.6784792973904374,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "They\u2019ll also have to comb through other services to make sure passwords used on those sites aren\u2019t too similar to what they were using on Yahoo.",
+            "Shuman Ghosemajumder, CTO of the Shape Security, said, \u201cThe real issue now is that these passwords will be used to breach thousands of other websites unrelated to Yahoo, as cybercriminals use advanced automated tools to discover where users have used those same passwords on other sites.",
+            "\u201dIt\u2019s really important that individuals think long and hard about passwords as well as security questions and answers they used on Yahoo that they might have used somewhere else,\u201d Stephens said.",
+            "That data could make users vulnerable if they use the same answers on other sites."
+        ],
+        "tf-idf score": [
+            0.5223284976870441,
+            1.2273231374180213,
+            0.8346300970938306,
+            0.35901435633734513
+        ]
+    },
+    "0.2609970722732657-3-446": {
+        "average clique similarity": 0.2609970722732657,
+        "clique": [
+            "2-The   company this s",
+            "0- Already besieged by",
+            "6-83 billion cash sale"
+        ],
+        "median tf-idf score": 0.23118256505589307,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "The   company this summer agreed to sell its core business for $4.",
+            "\u201cAlready besieged by business execution issues and enduring a fire sale to Verizon, this may be the straw that breaks the camel\u2019s back.",
+            "83 billion cash sale of its internet business to Verizon Communications Inc ( )."
+        ],
+        "tf-idf score": [
+            0.23118256505589307,
+            0.20804684711688132,
+            0.23708578354062734
+        ]
+    },
+    "0.2626764113159805-4-232": {
+        "average clique similarity": 0.2626764113159805,
+        "clique": [
+            "3-In a statement on Th",
+            "2-Verizon  in a compan",
+            "4-Peace had previously",
+            "6-Verizon said in a st"
+        ],
+        "median tf-idf score": 0.9920778617623647,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "In a statement on Thursday, a Verizon spokesman, Bob Varettoni, said his company learned of the breach of Yahoo\u2019s systems only two days ago and had \u201climited information and understanding of the impact.",
+            "Verizon, in a company statement, said that it was monitoring news of the breach.",
+            "Peace had previously sold data taken from breaches at Myspace and LinkedIn Corp. A Yahoo spokesman said at the time that the company was aware of the claim and was \u201cworking to determine the facts.",
+            "Verizon said in a statement it was made aware of the breach within the last two days and had limited information about the matter."
+        ],
+        "tf-idf score": [
+            1.1984064119134321,
+            0.776781982589897,
+            1.2968260308220927,
+            0.7857493116112972
+        ]
+    },
+    "0.2635579342115168-3-99": {
+        "average clique similarity": 0.2635579342115168,
+        "clique": [
+            "3-In a statement  Yaho",
+            "2-Company Chief Inform",
+            "6-But unprotected pass"
+        ],
+        "median tf-idf score": 1.0174657504846767,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "In a statement, Yahoo said user information  \u2014   including names, email addresses, telephone numbers, birth dates, encrypted passwords and, in some cases, security questions  \u2014   was compromised in 2014 by what it believed was a \u201c  actor.",
+            "Company Chief Information Security Officer Bob Lord wrote in a blog post that names, email address, telephone numbers, dates of birth and answers to \u201dsecurity questions\u201d may have been stolen but financial information such as credit card numbers apparently was not because that data was stored in a separate system.",
+            "But unprotected passwords, payment card data and bank account information did not appear to have been compromised, signaling that some of the most valuable user data was not taken."
+        ],
+        "tf-idf score": [
+            1.3923652310470094,
+            1.0174657504846767,
+            0.7344943643714074
+        ]
+    },
+    "0.26863077034702015-4-53": {
+        "average clique similarity": 0.26863077034702015,
+        "clique": [
+            "2-8 billion to telecom",
+            "1-8 billion price that",
+            "3-8 billion sale price",
+            "5-8 billion sale of Ya"
+        ],
+        "median tf-idf score": 0.47566094378129364,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "8 billion to telecommunications giant Verizon in a deal now clouded by news of the massive breach.",
+            "8 billion price that Verizon Communications agreed to pay to acquire Yahoo this summer.",
+            "8 billion sale price.",
+            "8 billion sale of Yahoo\u2019s core business to Verizon."
+        ],
+        "tf-idf score": [
+            0.42196130652543823,
+            0.5475455143731023,
+            0.09049714400554201,
+            0.5293605810371491
+        ]
+    },
+    "0.2862220964025831-3-141": {
+        "average clique similarity": 0.2862220964025831,
+        "clique": [
+            "1-The struggling Web p",
+            "4-The pilfered data co",
+            "0- Yahoo encourages us"
+        ],
+        "median tf-idf score": 1.3278647192367743,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "The struggling Web pioneer said Thursday the stolen info included names,   addresses, phone numbers, dates of birth, passwords and, in some cases, encrypted or unencrypted security questions and answers.",
+            "The pilfered data contains a wealth of personal information, including \u201cnames, email addresses, telephone numbers, dates of birth, hashed passwords [  \u2026    ] and, in some cases, encrypted or unencrypted security questions and answers,\u201d Bob Lord, Yahoo\u2019s chief information security officer, said in a statement.",
+            "\u201cYahoo encourages users to review their online accounts for suspicious activity and to change their password and security questions and answers for any other accounts on which they use the same or similar information used for their Yahoo account,\u201d the company said in an email to users."
+        ],
+        "tf-idf score": [
+            0.7808642444378171,
+            1.3874348199377176,
+            1.3278647192367743
+        ]
+    },
+    "0.2932898394483927-3-189": {
+        "average clique similarity": 0.2932898394483927,
+        "clique": [
+            "1-Yahoo said earlier t",
+            "0-Yahoo said it was aw",
+            "3-Yahoo said it learne"
+        ],
+        "median tf-idf score": 1.1264901718867268,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Yahoo said earlier this summer that it was investigating a data breach after hackers boasted about the attack.",
+            "Yahoo said it was aware of the \u201cclaimed\u201d data hack in July.",
+            "Yahoo said it learned of the data breach this summer after hackers posted to underground forums and online marketplaces what they claimed was stolen Yahoo data."
+        ],
+        "tf-idf score": [
+            1.1264901718867268,
+            0.8850458671131175,
+            1.2018270088013068
+        ]
+    },
+    "0.3126496474664052-3-262": {
+        "average clique similarity": 0.3126496474664052,
+        "clique": [
+            "5-The hack may affect ",
+            "3-  While Yahoo did no",
+            "4-It s unclear how the"
+        ],
+        "median tf-idf score": 0.13290558756343282,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "The hack may affect the $4.",
+            "\u201d While Yahoo did not name the country involved, how the company discovered the hack nearly two years after the fact offered a glimpse at the complicated and mysterious world of the underground web.",
+            "It\u2019s unclear how the hack could affect the     sale."
+        ],
+        "tf-idf score": [
+            0.06658808122367862,
+            0.6764940714511463,
+            0.13290558756343282
+        ]
+    },
+    "0.34303798435306193-3-304": {
+        "average clique similarity": 0.34303798435306193,
+        "clique": [
+            "2-Yahoo ultimately rev",
+            "3-A potential breach o",
+            "6-Technology website R"
+        ],
+        "median tf-idf score": 0.913410949299007,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Yahoo ultimately revealed the breach after Recode, a news site focusing on Silicon Valley, reported Thursday morning that the ailing tech giant would confirm a data breach affecting hundreds of millions of accounts.",
+            "A potential breach of Yahoo\u2019s systems was first reported by the tech news site Recode early Thursday morning.",
+            "Technology website Recode first reported Tuesday that Yahoo planned to disclose details about a data breach affecting hundreds of millions of users."
+        ],
+        "tf-idf score": [
+            1.0409830748508044,
+            0.8152369939267571,
+            0.913410949299007
+        ]
+    },
+    "0.35190657012067106-3-446": {
+        "average clique similarity": 0.35190657012067106,
+        "clique": [
+            "1-Yahoo is working  cl",
+            "0- If Yahoo knew about",
+            "2- Yahoo is working cl"
+        ],
+        "median tf-idf score": 0.6785529568537118,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Yahoo is working \u201cclosely with law enforcement\u201d as a probe of the incident continues, it said.",
+            "\u201cIf Yahoo knew about the hack as early as August, and failed to coordinate with law enforcement, taking this long to confirm the breach is a blatant betrayal of their users\u2019 trust,\u201d he said.",
+            "\u201dYahoo is working closely with law enforcement on this matter,\u201d Lord wrote."
+        ],
+        "tf-idf score": [
+            0.6785529568537118,
+            0.999541182345009,
+            0.48076336269954084
+        ]
+    },
+    "0.3634211434117069-3-180": {
+        "average clique similarity": 0.3634211434117069,
+        "clique": [
+            "2-The data was adverti",
+            "4- We will evaluate as",
+            "6- We will evaluate as"
+        ],
+        "median tf-idf score": 0.5191506630683007,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The data was advertised on the \u201ddark web\u201d    a part of the Internet accessible only through the use of special software such as the anonymous browsing tool Tor and often associated with illicit activities.",
+            "\u201cWe will evaluate as the investigation continues through the lens of overall Verizon interests, including consumers, customers, shareholders, and related communities,\u201d the company said in a statement.",
+            "\u201dWe will evaluate as the investigation continues through the lens of overall Verizon interests,\u201d the company said."
+        ],
+        "tf-idf score": [
+            0.45077988878582786,
+            0.714042558386793,
+            0.5191506630683007
+        ]
+    },
+    "0.3814797367618958-5-373": {
+        "average clique similarity": 0.3814797367618958,
+        "clique": [
+            "5-Senator Mark Warner ",
+            "0- While its scale put",
+            "6-Democratic Senator M",
+            "3-Thursday afternoon  ",
+            "2-Sen  Mark R Warner  "
+        ],
+        "median tf-idf score": 0.6790215672034201,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Buzzfeed News",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Senator Mark Warner,   founder of the Senate Cybersecurity Caucus, said in a prepared statement, \u201cWhile this breach\u2019s scale puts it among the largest on record, I am perhaps most troubled by news that it occurred in 2014, and yet the public is only learning details of it today.",
+            "\u201cWhile its scale puts it among the largest on record, I am perhaps most troubled by news that this breach occurred in 2014, and yet the public is only learning details of it today,\u201d Democratic senator Mark Warner said.",
+            "Democratic Senator Mark Warner said in a statement he was \u201dmost troubled by news that this breach occurred in 2014, and yet the public is only learning details of it today\u201d.",
+            "Thursday afternoon, Senator Mark R Warner, a Democrat from Virginia and former technology executive, issued a statement that said the \u201cseriousness of this breach at Yahoo is huge.",
+            "Sen. Mark R Warner ( .)"
+        ],
+        "tf-idf score": [
+            0.6790215672034201,
+            0.5937600913067546,
+            0.7145006590617683,
+            0.8883628959187009,
+            0.03793682329622035
+        ]
+    },
+    "0.39524730223041993-3-237": {
+        "average clique similarity": 0.39524730223041993,
+        "clique": [
+            "6-Yahoo said it was wo",
+            "5-The company said tha",
+            "3-Yahoo also said it w"
+        ],
+        "median tf-idf score": 0.769725469310973,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "Yahoo said it was working with law enforcement on the matter, and the FBI said it was investigating.",
+            "The company said that it is working with law enforcement to catch the hacker.",
+            "Yahoo also said it was working with law enforcement in their investigation and encouraged people to change up the security on other online accounts and monitor those accounts for suspicious activity as well."
+        ],
+        "tf-idf score": [
+            0.769725469310973,
+            0.4518348393704181,
+            1.084247884956301
+        ]
+    },
+    "0.41368945469029256-3-371": {
+        "average clique similarity": 0.41368945469029256,
+        "clique": [
+            "5-Verizon said in a pr",
+            "6-15  while shares of ",
+            "0- Within the last two"
+        ],
+        "median tf-idf score": 0.8245768920246852,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Verizon said in a prepared statement, \u201cWithin the last two days, we were notified of Yahoo\u2019s security incident.",
+            "15, while shares of Verizon, were up about 1 percent.",
+            "\u201cWithin the last two days, we were notified of Yahoo\u2019s security incident,\u201d Verizon said in a statement."
+        ],
+        "tf-idf score": [
+            0.8368659364993274,
+            0.11392188106865608,
+            0.8245768920246852
+        ]
+    },
+    "0.4178579586700988-3-13": {
+        "average clique similarity": 0.4178579586700988,
+        "clique": [
+            "0-This is one of the b",
+            "2-The total number of ",
+            "3- This is one of the "
+        ],
+        "median tf-idf score": 0.2519071446696781,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "This is one of the biggest breaches of people\u2019s privacy and very far reaching.",
+            "The total number of affected accounts, by reaching 500 million, gave it the dubious distinction of being the largest breach on record, said Paul Stephens of the Privacy Rights Clearinghouse.",
+            "\u201cThis is one of the biggest breaches of people\u2019s privacy and very  ."
+        ],
+        "tf-idf score": [
+            0.2519071446696781,
+            0.7158219263553225,
+            0.23147523348525872
+        ]
+    },
+    "0.43943726361330154-3-385": {
+        "average clique similarity": 0.43943726361330154,
+        "clique": [
+            "5-The company s invest",
+            "6- The investigation h",
+            "1- The investigation h"
+        ],
+        "median tf-idf score": 0.8421940288082778,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "The company\u2019s investigation into the hack is ongoing.",
+            "\u201dThe investigation has found no evidence that the   actor is currently in Yahoo\u2019s network,\u201d the company said.",
+            "\u201cThe investigation has found no evidence that the   actor is currently in Yahoo\u2019s network,\u201d the company said in a statement, without naming the country."
+        ],
+        "tf-idf score": [
+            0.22593884789389737,
+            0.8421940288082778,
+            0.9175672225906524
+        ]
+    },
+    "0.4451339431811818-3-30": {
+        "average clique similarity": 0.4451339431811818,
+        "clique": [
+            "5-Financial data  acco",
+            "3- The stolen Yahoo da",
+            "0-  Alex Holden  found"
+        ],
+        "median tf-idf score": 1.2694679133633864,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "Financial data, according to Yahoo, were not part of the information taken.",
+            "\u201cThe stolen Yahoo data is critical because it not only leads to a single system but to users\u2019 connections to their banks, social media profiles, other financial services and users\u2019 friends and family,\u201d said Alex Holden, the founder of Hold Security, which has been tracking the flow of stolen Yahoo credentials on the underground web.",
+            "\u201d Alex Holden, founder of Hold Security, which has been tracking the flow of Yahoo data on the dark web, said: \u201cThe stolen Yahoo data is critical because it not only leads to a single system but to users\u2019 connections to their banks, social media profiles, other financial services and users\u2019 friends and family."
+        ],
+        "tf-idf score": [
+            0.5779475969180368,
+            1.281320939546641,
+            1.2694679133633864
+        ]
+    },
+    "0.5473579047512357-4-446": {
+        "average clique similarity": 0.5473579047512357,
+        "clique": [
+            "1- We understand that ",
+            "2- We understand that ",
+            "5-We understand that Y",
+            "0- We understand that "
+        ],
+        "median tf-idf score": 0.769594739713068,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cWe understand that Yahoo is conducting an active investigation of this matter, but we otherwise have limited information and understanding of the impact,\u201d Verizon said, adding it had learned of the breach two days earlier.",
+            "\u201dWe understand that Yahoo is conducting an active investigation of this matter, but we otherwise have limited information and understanding of the impact,\u201d the company\u2019s statement said.",
+            "We understand that Yahoo is conducting an active investigation of this matter, but we otherwise have limited information and understanding of the impact.",
+            "\u201cWe understand that Yahoo is conducting an active investigation of this matter, but we otherwise have limited information and understanding of the impact."
+        ],
+        "tf-idf score": [
+            1.1301133574673246,
+            0.9428434270801258,
+            0.5963460523460103,
+            0.5963460523460103
+        ]
+    },
+    "0.6172030814665064-4-82": {
+        "average clique similarity": 0.6172030814665064,
+        "clique": [
+            "0- Action from Congres",
+            "3-  He weighed in with",
+            "2- Action from Congres",
+            "5-Action from Congress"
+        ],
+        "median tf-idf score": 0.4781737244734621,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cAction from Congress to create a uniform data breach notification standard so that consumers are notified in a much more timely manner is long overdue.",
+            "\u201d He weighed in with a call for a federal \u201cbreach notification standard\u201d to replace data notification laws that vary by state.",
+            "\u201dAction from Congress to create a uniform data breach notification standard so that consumers are notified in a much more timely manner is long overdue\u201d.",
+            "Action from Congress to create a uniform data breach notification standard so that consumers are notified in a much more timely manner is long overdue."
+        ],
+        "tf-idf score": [
+            0.4781737244734621,
+            0.39117969547975956,
+            0.4781737244734621,
+            0.4781737244734621
+        ]
+    },
+    "0.9999999999999999-3-167": {
+        "average clique similarity": 0.9999999999999999,
+        "clique": [
+            "4- Until then  we are ",
+            "5-Until then  we are n",
+            "2-Until then  we are n"
+        ],
+        "median tf-idf score": 0.03952422727677743,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cUntil then, we are not in position to further comment.",
+            "Until then, we are not in position to further comment.",
+            "Until then, we are not in position to further comment\u201d."
+        ],
+        "tf-idf score": [
+            0.03952422727677743,
+            0.03952422727677743,
+            0.03952422727677743
+        ]
+    }
+}

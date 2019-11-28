@@ -1,0 +1,174 @@
+{
+    "0.21190930746495984-3-11": {
+        "average clique similarity": 0.21190930746495984,
+        "clique": [
+            "3-The arrest happened ",
+            "1-The man  Michael Ste",
+            "0-All rallies for Mr T"
+        ],
+        "median tf-idf score": 0.5887360079685924,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "The arrest happened relatively quietly at a campaign stop seen as peaceful compared to the mayhem at the presumptive Republican nominee\u2019s recent events in San Jose, California, and Albuquerque, New Mexico.",
+            "The man, Michael Steven Sandford, apparently told officials he intended to kill the presumptive Republican nominee.",
+            "All rallies for Mr Trump, the presumptive Republican presidential nominee, are protected by the Secret Service and feature full metal scanners at the entrance, along with numerous members of his private security detail throughout the events."
+        ],
+        "tf-idf score": [
+            0.45863637047426553,
+            0.5887360079685924,
+            0.7491835075700715
+        ]
+    },
+    "0.3863847322086267-3-20": {
+        "average clique similarity": 0.3863847322086267,
+        "clique": [
+            "0-The man  Michael Ste",
+            "1-Sandford was arreste",
+            "3-The criminal complai"
+        ],
+        "median tf-idf score": 1.0579245989814923,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The man, Michael Steven Sandford, was arrested after trying to grab an officer\u2019s gun from her holster, the complaint said, and had lingered near the officer, telling her he wanted Mr Trump\u2019s autograph.",
+            "Sandford was arrested after he went for the officer s gun.",
+            "The criminal complaint said Sandford was arrested after grabbing the handle of an officer\u2019s gun while trying to remove it from a holster."
+        ],
+        "tf-idf score": [
+            1.4566438720437436,
+            0.7231495050179098,
+            1.0579245989814923
+        ]
+    },
+    "0.4092423617227323-3-93": {
+        "average clique similarity": 0.4092423617227323,
+        "clique": [
+            "0-In an email  a spoke",
+            "4-            The repo",
+            "2-The criminal complai"
+        ],
+        "median tf-idf score": 0.8947665915273614,
+        "publications": [
+            "New York Times",
+            "Business Insider",
+            "Breitbart"
+        ],
+        "sentences": [
+            "In an email, a spokeswoman for the Secret Service confirmed that Mr Sandford was arrested after trying to disarm the officer.",
+            "\u2019 \u201d         The report says Sandford was arrested after grabbing the         handle of an officer\u2019s gun in an attempt to remove it.",
+            "The criminal complaint said Sandford was arrested after grabbing the handle of an officer\u2019s gun while trying to remove it from a holster."
+        ],
+        "tf-idf score": [
+            0.8811923957580603,
+            0.8947665915273614,
+            1.0579245989814923
+        ]
+    },
+    "0.432020752754422-4-78": {
+        "average clique similarity": 0.432020752754422,
+        "clique": [
+            "1-A    man was charged",
+            "3-A complaint filed Mo",
+            "4-      A complaint fi",
+            "0-A man arrested at a "
+        ],
+        "median tf-idf score": 0.929152080194929,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "A    man was charged Monday with an act of violence on restricted grounds after he tried to seize a police officer s gun at a Donald Trump rally over the weekend, the Associated Press reports.",
+            "A complaint filed Monday in U S District Court in Nevada charges Sandford, 20, with an act of violence on restricted grounds.",
+            "\u201d \u2019   A complaint filed Monday in U S District Court in Nevada charges   Michael Steven Sandford with an act of violence on restricted   grounds.",
+            "A man arrested at a Donald J Trump rally in Las Vegas on Saturday told the authorities that he had intended to kill Mr Trump, according to a complaint filed Monday in United States District Court in Nevada."
+        ],
+        "tf-idf score": [
+            1.1907561577549504,
+            0.607666790912829,
+            0.6675480026349077,
+            1.3460278702138058
+        ]
+    },
+    "0.5290314447228532-3-50": {
+        "average clique similarity": 0.5290314447228532,
+        "clique": [
+            "3-Sanford told authori",
+            "4-      It cites a rep",
+            "1-The complaint was fi"
+        ],
+        "median tf-idf score": 1.6849878328517125,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Sanford told authorities that he went to the Battlefield Vegas shooting range the day before the rally and fired 20 rounds from a 9mm Glock pistol to learn how to use it.",
+            "\u2019 \u2019   It cites a report by Special Agent Swierkowski, whose first name   was not included, saying Sandford told officers he drove from   California to kill Trump and went to a Las Vegas gun range the   day before to learn to shoot.",
+            "The complaint was filed Monday in the U S District Court in Nevada: It cites a report by Special Agent Swierkowski, whose first name was not included, saying Sandford told officers he drove from California to kill Trump and went to a Las Vegas gun range the day before to learn to shoot."
+        ],
+        "tf-idf score": [
+            0.7521503656074686,
+            1.6849878328517125,
+            1.9415695253028196
+        ]
+    },
+    "0.5845500295712858-3-5": {
+        "average clique similarity": 0.5845500295712858,
+        "clique": [
+            "0-In an interview afte",
+            "3-LAS VEGAS      A Bri",
+            "2-LAS VEGAS  AP       "
+        ],
+        "median tf-idf score": 1.3615770935212497,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "In an interview after his arrest, the complaint says, Mr Sandford told the authorities that he \u201cmade a conscious effort to come to Las Vegas to kill Trump,\u201d and that he had been \u201cplanning to attempt to kill Trump for about a year.",
+            "LAS VEGAS  \u2014   A British man arrested at a weekend Donald Trump rally in Las Vegas tried to grab a police officer\u2019s gun so he could kill the presidential candidate after planning an assassination for about a year, according to authorities.",
+            "LAS VEGAS (AP)  \u2014   A British man arrested at a weekend Donald Trump rally in Las Vegas tried to grab a police officer\u2019s gun so he could kill the presidential candidate after planning an assassination for about a year, according to authorities."
+        ],
+        "tf-idf score": [
+            1.1931827515836702,
+            1.3615770935212497,
+            1.3960606282921477
+        ]
+    },
+    "0.6518134149541123-3-13": {
+        "average clique similarity": 0.6518134149541123,
+        "clique": [
+            "4-      Sandford later",
+            "2- U S Secret Service ",
+            "3-U S Secret Service a"
+        ],
+        "median tf-idf score": 1.5524393151796694,
+        "publications": [
+            "Business Insider",
+            "Breitbart",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u2019 \u2019   Sandford later went to a Trump rally at the Treasure Island   Casino and approached a Las Vegas police officer to say he wanted   an autograph from Trump.",
+            "[U S Secret Service agents said Michael Steven Sandford approached a Las Vegas police officer at the campaign stop to say he wanted Trump\u2019s autograph, but that he then tried to take the weapon.",
+            "U S Secret Service agents said Michael Steven Sandford approached a Las Vegas police officer at the campaign stop to say he wanted Trump\u2019s autograph, but that he then tried to take the weapon."
+        ],
+        "tf-idf score": [
+            1.323595545813629,
+            1.5524393151796694,
+            1.5524393151796694
+        ]
+    }
+}

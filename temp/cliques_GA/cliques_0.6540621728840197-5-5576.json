@@ -1,0 +1,458 @@
+{
+    "0.15344204377910944-3-106": {
+        "average clique similarity": 0.15344204377910944,
+        "clique": [
+            "3-Those talks went ahe",
+            "2-A Russian investigat",
+            "4-At the time of the s"
+        ],
+        "median tf-idf score": 0.7102905774177283,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Those talks went ahead despite his death. Afterward, Russian Foreign Minister Sergey Lavrov declared the   format \"the most effective\" in resolving the Syrian conflict, since his talks with U S Secretary of State John Kerry had run aground.",
+            "A Russian investigative team is scheduled to arrive in Turkey on Tuesday to assist local authorities, Foreign Minister Sergey Lavrov said.",
+            "At the time of the shooting, the Turkish foreign minister was on a plane en route to Russia to take part in the meeting with his Iranian and Russian counterparts."
+        ],
+        "tf-idf score": [
+            0.6128392121497006,
+            0.7102905774177283,
+            0.820671087534282
+        ]
+    },
+    "0.1560962218269061-3-329": {
+        "average clique similarity": 0.1560962218269061,
+        "clique": [
+            "3-Because the Syrian g",
+            "2-Lavrov said the meet",
+            "1-In an emergency meet"
+        ],
+        "median tf-idf score": 0.5796837456060486,
+        "publications": [
+            "NPR",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "Because the Syrian government's retaking of Aleppo has happened so fast, Lavrov agreed to move up the Moscow meeting with his Turkish and Iranian colleagues by a week.",
+            "Lavrov said the meeting will go as planned. Russia is the most powerful ally of Assad's regime.",
+            "In an emergency meeting with Foreign Minister Sergey V Lavrov and other top officials, Mr Putin said, \"There can be only one answer to this  --   stepping up the fight against terrorism, and the bandits will feel this. \""
+        ],
+        "tf-idf score": [
+            0.5847714722976435,
+            0.44615011311845776,
+            0.5796837456060486
+        ]
+    },
+    "0.1576854331369111-3-72": {
+        "average clique similarity": 0.1576854331369111,
+        "clique": [
+            "1-It was overwhelmed w",
+            "4-The Kremlin has cast",
+            "0- Moscow s ambassador"
+        ],
+        "median tf-idf score": 1.2629965741702112,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "It was overwhelmed with refugees  --   more than three million now reside in the country  --   and the rise of the Islamic State led to terrorist attacks within Turkey's borders. In the fall of 2015, Russia entered the conflict in support of the Syrian government, reinforcing Mr Assad at a weak moment and dealing a blow to Turkey's ambitions in Syria.",
+            "The Kremlin has cast the assassination as an attempt by outside forces to sunder ties between Russia and Turkey, but the meeting in the Russian capital on Tuesday served as a reminder of Russia's growing influence in the region  --   at the expense of the United States.",
+            " Moscow's ambassador to Turkey was assassinated by a gunman while he was visiting an art gallery in the capital, Ankara, on Monday, officials said, with video showing the shooter screaming the killing was revenge for Russia's involvement in the Syrian civil war."
+        ],
+        "tf-idf score": [
+            1.2629965741702112,
+            0.9630924925953711,
+            1.3798283943177472
+        ]
+    },
+    "0.16065907030523727-3-69": {
+        "average clique similarity": 0.16065907030523727,
+        "clique": [
+            "1-The gunman  describe",
+            "2-Ambassador Andrey Ka",
+            "4-The assassination  w"
+        ],
+        "median tf-idf score": 0.6585687660980989,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "The gunman, described by Turkish officials as a      police officer, also wounded at least three others in the assault on the envoy, Andrey G Karlov, which was captured on video.",
+            "Ambassador Andrey Karlov's shooting was captured in real time in photos and video that quickly spread through the Internet worldwide. The assassination comes at a time of improved relations and increased cooperation between Russia and Turkey.",
+            "The assassination, which was captured in stunning detail by an Associated Press photographer and other journalists, brought into sharp relief the violent worldwide reverberations of Syria's bloody civil war."
+        ],
+        "tf-idf score": [
+            0.6585687660980989,
+            1.042462571891155,
+            0.4645131221703442
+        ]
+    },
+    "0.16515477316967783-3-139": {
+        "average clique similarity": 0.16515477316967783,
+        "clique": [
+            "2-The attack occurred ",
+            "1-The Russian envoy wa",
+            "0-As people were leavi"
+        ],
+        "median tf-idf score": 0.6228262117626322,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The attack occurred at the Cagdas Sanat Merkezi modern arts center in the heart of Ankara, a posh neighborhood of luxury hotels and foreign embassies    including the US and Russia    a short walk to Turkish parliament.",
+            "The Russian envoy was shot from behind and immediately fell to the floor while speaking at an exhibition of photographs, according to multiple accounts from the scene, the Contemporary Arts Center in the Cankaya area of Ankara.",
+            "As people were leaving, he shot at the ambassador's body a couple of more times. \" Kilic continued: \"I think one of the shots hit someone else in their foot. The security at the Modern Arts Center said that he entered showing a police ID \"There were about 100 people inside and they all left. As people were fleeing, he shot at the ambassador again. \""
+        ],
+        "tf-idf score": [
+            0.6605223592976744,
+            0.5594257870644856,
+            0.6228262117626322
+        ]
+    },
+    "0.1725251267925663-3-301": {
+        "average clique similarity": 0.1725251267925663,
+        "clique": [
+            "3-On Tuesday  Karlov s",
+            "2-This has complicated",
+            "0-A meeting on the Syr"
+        ],
+        "median tf-idf score": 0.8894313092134434,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "On Tuesday, Karlov's efforts were to be crowned by a meeting in Moscow of the foreign and defense ministers of Russia, Turkey and Iran  --   and the rise of a new power constellation in the Middle East.",
+            "This has complicated the relationship between Washington and Ankara, its NATO ally and key partner in the fight against ISIS   relations were improving, The shooting of the ambassador is the latest in a long string of attacks in Turkey this year, although it's the first in recent memory to be directed at a foreign dignitary.",
+            "A meeting on the Syrian crisis between the Russian, Turkish, and Iranian foreign ministers was scheduled to take place on Dec. 20. It has been reported that the meeting will still go ahead. Mitch Prothero, Borzou Daragahi, Victor Stepanov, and Sara Spary contributed to this report. This is developing story."
+        ],
+        "tf-idf score": [
+            0.8894313092134434,
+            0.8996535179345843,
+            0.8862541586745643
+        ]
+    },
+    "0.1816140020967636-3-84": {
+        "average clique similarity": 0.1816140020967636,
+        "clique": [
+            "3-Last week  the U S a",
+            "2-Moscow s bombardment",
+            "4-Russia is a key ally"
+        ],
+        "median tf-idf score": 0.7126483884006465,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Last week, the U S ambassador to the United Nations, Samantha Power, accused Russia and Iran of bearing responsibility for \"atrocities\" committed during the Syrian government's assault on the city of Aleppo.",
+            "Moscow's bombardment of Syria has drawn criticism from Western powers, with US President Barack Obama on Friday accusing Russia of slaughtering civilians in the besieged city of Aleppo in concert with the Assad regime.",
+            "Russia is a key ally of Syria's government, while Turkey has been a stalwart backer of rebel factions, although both nations have worked together on a plan to evacuate civilians and opposition fighters from their last enclave in the embattled Syrian city of Aleppo."
+        ],
+        "tf-idf score": [
+            0.7126483884006465,
+            0.7053482704802063,
+            0.908305146710825
+        ]
+    },
+    "0.18411249450675338-3-39": {
+        "average clique similarity": 0.18411249450675338,
+        "clique": [
+            "4-Turkey s semiofficia",
+            "1-Only death can take ",
+            "2-The longtime diploma"
+        ],
+        "median tf-idf score": 0.8842599208474079,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Turkey's semiofficial Anadolu News Agency said that the embassy gunman, who was identified only as Sahin S, fired several shots in the air with a   rifle he had hidden under his coat early Tuesday.",
+            "Only death can take me from here. \" Hasim Kilic, a Turkish photographer for the Hurriyet news organization who witnessed the attack and sold his images to Reuters, said in a telephone interview that the gunman had fired seven shots at the ambassador  --   \"four from behind, three while the body was on the ground\"  --   as guests screamed and scrambled to hide.",
+            "The longtime diplomat had begun to speak when Altintas, wearing a dark suit tie, fired shots in rapid succession, according to multiple witness accounts. The ambassador fell to the floor. The gunman circled his body, visibly agitated as he smashed photos hanging on the wall, said Associated Press photographer Burhan Ozbilici, who captured the incident. \"Allahu akbar (God is greatest)."
+        ],
+        "tf-idf score": [
+            0.8842599208474079,
+            0.9766411932969858,
+            0.8001276668840944
+        ]
+    },
+    "0.18947670501042455-3-178": {
+        "average clique similarity": 0.18947670501042455,
+        "clique": [
+            "4- All previous attemp",
+            "3-Tuesday was supposed",
+            "0-US Ambassador to the"
+        ],
+        "median tf-idf score": 0.7726617450087996,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"All previous attempts by the United States and its partners to agree on coordinated actions were doomed to failure,\" Shoigu said. \"None of them wielded real influence over the situation on the ground. \" Putin's involvement in Syria has significant geopolitical meaning, as a way for Moscow to project power and have a foothold in the Middle East.",
+            "Tuesday was supposed to be a day of triumph for Russian diplomacy, when Russia aimed to replace the United States as the indispensable power in the Middle East.",
+            "US Ambassador to the United Nations Samantha Power, who has been fiercely critical of Russia's involvement in Syria, also offered her condolences for the \"savage attack."
+        ],
+        "tf-idf score": [
+            0.8708990705804154,
+            0.7726617450087996,
+            0.7106347475193397
+        ]
+    },
+    "0.20053110873162686-3-198": {
+        "average clique similarity": 0.20053110873162686,
+        "clique": [
+            "2- The important thing",
+            "1- We know that this i",
+            "4- Iran  Russia and Tu"
+        ],
+        "median tf-idf score": 0.7453256520069156,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"The important thing is to understand who is behind this crime,\" he said. \"We are convinced that the main goal of those who planned this barbaric act [is] to undermine the process of normalization of relations between Russia and Turkey, largely in order to prevent an effective fight against terrorism in Syria. This goal is futile. It will not work\".",
+            "\"We know that this is a provocation aiming to destroy the normalization process of   relations,\" Mr Erdogan said. \"But the Russian government and the Turkish republic have the will to not fall into that provocation. \"",
+            "\"Iran, Russia and Turkey are ready to facilitate the drafting of an agreement, which is already being negotiated, between the Syrian government and the opposition, and to become its guarantors,\" the declaration said."
+        ],
+        "tf-idf score": [
+            0.894519622277658,
+            0.7182675366895868,
+            0.7453256520069156
+        ]
+    },
+    "0.20165197941709279-3-98": {
+        "average clique similarity": 0.20165197941709279,
+        "clique": [
+            "4-After killing the am",
+            "1-The assassination ca",
+            "2-Don t play with us  "
+        ],
+        "median tf-idf score": 0.9696946896648394,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "After killing the ambassador, Altintas, an officer with the riot police, denounced Russia's role in the Syrian war, screaming: \"Don't forget Aleppo! Don't forget Syria!\" He was later killed in a gun battle with the police.",
+            "The assassination came after days of protests by Turks angry over Russia's support for the Syrian government in the conflict and the Russian role in the killings and destruction in Aleppo, the northern Syrian city.",
+            "Don't play with us,\" in Turkish. Focus on Syria, The shooting occurred a day before diplomats from Turkey, Iran and Russia are scheduled to meet in Moscow to discuss the situation in the besieged Syrian city of Aleppo."
+        ],
+        "tf-idf score": [
+            0.9696946896648394,
+            0.6690225025264241,
+            1.0159528341635191
+        ]
+    },
+    "0.21967464366301206-3-26": {
+        "average clique similarity": 0.21967464366301206,
+        "clique": [
+            "0-In comments broadcas",
+            "3-In the space of the ",
+            "1-Mr Putin spoke with "
+        ],
+        "median tf-idf score": 0.6708302593343778,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "In comments broadcast on Turkish television, President Recep Tayyip Erdogan said the gunman had been a member of Ankara's riot police for two and a half years.",
+            "In the space of the past month, Putin has been on the phone with Erdogan half a dozen times, and the Turkish leader is expected to travel to Russia again in January.",
+            "Mr Putin spoke with the Turkish president, Recep Tayyip Erdogan, by phone, and the two leaders agreed to cooperate in investigating the killing, and in combating terrorism broadly."
+        ],
+        "tf-idf score": [
+            0.6708302593343778,
+            0.6953406023123805,
+            0.5492538300574467
+        ]
+    },
+    "0.22145513957155913-3-35": {
+        "average clique similarity": 0.22145513957155913,
+        "clique": [
+            "3-The official line fr",
+            "1-President Vladimir V",
+            "2-In televised remarks"
+        ],
+        "median tf-idf score": 0.9798569365185954,
+        "publications": [
+            "NPR",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "The official line from Russian President Vladimir Putin on down was that the assassination in Ankara was a \"provocation\" meant to derail the talks.",
+            "President Vladimir V Putin of Russia said on Russian television that Mr Karlov had been \"despicably killed\" to sabotage ties with Turkey.",
+            "In televised remarks, Russian President Vladimir Putin said the killing was a clear \"provocation\" aimed at undermining not just the normalization of   relations but the \"peace process in Syria\" promoted by Russia, Turkey, Iran and other countries."
+        ],
+        "tf-idf score": [
+            0.6403842316825733,
+            0.9798569365185954,
+            1.31732721741862
+        ]
+    },
+    "0.23546534225421134-3-5": {
+        "average clique similarity": 0.23546534225421134,
+        "clique": [
+            "4-Officer Mevlut Mert ",
+            "0-Ambassador Andrey Ka",
+            "2- But the Russian gov"
+        ],
+        "median tf-idf score": 0.8957369344442133,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Officer Mevlut Mert Altintas gunned down Ambassador Andrei Karlov as the diplomat spoke before an exhibition of Russian photos at an art gallery in the Turkish capital of Ankara.",
+            "Ambassador Andrey Karlov was speaking at the photo exhibition when a man in a suit behind him  --   identified by Turkey's interior minister as    Mevlut Mert Altintas, a Turkish policeman  --   opened fire.",
+            "\"But the Russian government and the Turkish republic have the will to not fall into that provocation\". What we know  The gunman, identified as police officer Mevlut Mert Altintas, was killed in the attack, according to various news organizations including Reuters."
+        ],
+        "tf-idf score": [
+            0.7092119648209736,
+            0.9412206569167743,
+            0.8957369344442133
+        ]
+    },
+    "0.2592777453045834-3-329": {
+        "average clique similarity": 0.2592777453045834,
+        "clique": [
+            "1-God is great   Then ",
+            "0-Don t forget Syria  ",
+            "2-Do not forget Aleppo"
+        ],
+        "median tf-idf score": 0.6358837349487477,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "God is great!\" Then he switched to Turkish and shouted: \"Don't forget Aleppo, don't forget Syria! Step back! Step back!",
+            "Don't forget Syria!\" the man can be heard saying in the video. \"Until they are safe, you will not taste safety! Go back, go back, only death will take me from here. All those who have taken part in this cruelty will pay one by one!\" Russia recently helped the Syrian regime of Bashar   drive out rebels from Aleppo in a bloody battle that has created a humanitarian crisis.",
+            "Do not forget Aleppo! Do not forget Syria! Do not forget Aleppo! Do not forget Syria!\" Altintas is heard shouting in video of the incident. \"Only death will remove me from here. Everyone who has taken part in this oppression will one by one pay for it,\" he said."
+        ],
+        "tf-idf score": [
+            0.3839941478236296,
+            0.8449819177878743,
+            0.6358837349487477
+        ]
+    },
+    "0.2993059918793904-3-329": {
+        "average clique similarity": 0.2993059918793904,
+        "clique": [
+            "2-  CNN  A gunman shou",
+            "1-ISTANBUL       Russi",
+            "3-Karlov  who was assa"
+        ],
+        "median tf-idf score": 0.932564056576159,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            " (CNN) A gunman shouting \"Do not forget Aleppo!\" assassinated Russia's ambassador to Turkey at an Ankara art gallery on Monday in what leaders of Russia and Turkey called a provocative terror attack.",
+            "ISTANBUL  --   Russia's ambassador to Turkey was assassinated at an Ankara art exhibit on Monday evening by a lone Turkish gunman shouting \"God is great!\"",
+            "Karlov, who was assassinated in an Ankara art gallery Monday evening, had been given the delicate mission of patching up relations after Turkey shot down a Russian warplane last year."
+        ],
+        "tf-idf score": [
+            0.932564056576159,
+            1.0445534716931888,
+            0.9008394015992632
+        ]
+    },
+    "0.36166368813693994-3-141": {
+        "average clique similarity": 0.36166368813693994,
+        "clique": [
+            "1-In a statement  Secr",
+            "0- We stand ready to o",
+            "4-The countries issued"
+        ],
+        "median tf-idf score": 0.8267994992487689,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In a statement, Secretary of State John Kerry called it a \"despicable attack, which was also an assault on the right of all diplomats to safely and securely advance and represent their nations around the world. \"",
+            "\"We stand ready to offer assistance to Russia and Turkey as they investigate this despicable attack,\" Kerry said in a statement, \"which was also an assault on the right of all diplomats to safely and securely advance and represent their nations around the world. \"",
+            "The countries issued a statement, which Russian Defense Minister Sergei Shoigu called the \"Moscow Declaration,\" that called for an expanded ceasefire for which Russia, Turkey and Iran would act as the guarantors."
+        ],
+        "tf-idf score": [
+            0.5504492881987574,
+            1.015113599138591,
+            0.8267994992487689
+        ]
+    },
+    "0.39218963215651986-3-89": {
+        "average clique similarity": 0.39218963215651986,
+        "clique": [
+            "1-Relations between Tu",
+            "3-When Turkey shot dow",
+            "2-The attack comes at "
+        ],
+        "median tf-idf score": 0.6957546258487181,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "Relations between Turkey and Russia reached a low point in November 2015 after Turkey shot down a Russian jet near the Syrian border.",
+            "When Turkey shot down a Russian   warplane along the   border in November 2015, Putin's response was fast and furious.",
+            "The attack comes at a time where relations between the two countries had been improving    relations that hit an   low after Turkish forces shot a Russian warplane out of the sky near the Syrian border in November 2015."
+        ],
+        "tf-idf score": [
+            0.718279547905775,
+            0.6957546258487181,
+            0.6899744364965024
+        ]
+    },
+    "0.4956682080861057-3-156": {
+        "average clique similarity": 0.4956682080861057,
+        "clique": [
+            "0- The state news agen",
+            "4-In what appeared to ",
+            "2-In a separate incide"
+        ],
+        "median tf-idf score": 0.7349759114783083,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"The state news agency, Anadolu, also reported that in a separate incident hours later, Turkish police arrested a man who fired a shotgun into the air several times outside the US Embassy in Ankara.",
+            "In what appeared to be a separate incident, a man fired shots near the entrance of the U S embassy in Ankara overnight. A State Department official said that no one was hurt.",
+            "In a separate incident hours later, Turkish police arrested a man who fired into the air with a shotgun outside the US Embassy in Ankara, according to Turkey's state news agency Anadolu."
+        ],
+        "tf-idf score": [
+            0.6684447975122215,
+            0.7349759114783083,
+            0.8379959380432985
+        ]
+    }
+}

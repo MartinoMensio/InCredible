@@ -1,0 +1,590 @@
+{
+    "0.14153407075819674-3-6": {
+        "average clique similarity": 0.14153407075819674,
+        "clique": [
+            "3-He has also sued the",
+            "2-And early in his ten",
+            "5-He sued to stop a ma"
+        ],
+        "median tf-idf score": 0.37946159591379697,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "He has also sued the administration over the Affordable Care Act, saying the   mandate on religious employers to provide coverage including contraception was unconstitutional. He has sued over the   financial reform.",
+            "And early in his tenure, he sued to keep the EPA from settling lawsuits brought by environmental groups like the Sierra Club. That one was dismissed.",
+            "He sued to stop a major rule to limit mercury pollution from coal plants. He sued to stop a rule to reduce smog pollution that crossed state lines."
+        ],
+        "tf-idf score": [
+            0.37946159591379697,
+            0.4819362558179472,
+            0.37823294722400147
+        ]
+    },
+    "0.1431074016391851-3-179": {
+        "average clique similarity": 0.1431074016391851,
+        "clique": [
+            "1-He is also a leading",
+            "5- The EPA would also ",
+            "0-Pruitt has said the "
+        ],
+        "median tf-idf score": 0.7588699812867838,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "He is also a leading figure in a legal effort by several states to throw out the EPA's Clean Power Plan, the centerpiece of Obama's climate change strategy that requires states to curb carbon output.",
+            "\"The EPA would also have to address the fact that the agency already had decided the Clean Power Plan, so why are they changing their minds now?",
+            "Pruitt has said the policy, called the Clean Power Plan, is \"unlawful and overreaching. \""
+        ],
+        "tf-idf score": [
+            0.8260310876335305,
+            0.4833351012921262,
+            0.7588699812867838
+        ]
+    },
+    "0.14954082629411478-3-28": {
+        "average clique similarity": 0.14954082629411478,
+        "clique": [
+            "0-In discussions of   ",
+            "4-Pruitt  48  has been",
+            "6-One profile noted th"
+        ],
+        "median tf-idf score": 0.8531359272253206,
+        "publications": [
+            "Fox News",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "In discussions of   climate change, Pruitt has said as recently as May that the large body of research indicating that carbon dioxide and other pollutants from the burning of fossil fuels are warming the planet is unsettled science.",
+            "Pruitt, 48, has been a reliable booster of the fossil fuel industry and a critic of what he derides as the EPA's \"activist agenda\".",
+            "One profile noted that Pruitt would sue the federal government \"every chance he can get\". Pruitt, who met with Trump Thursday morning at Trump Tower in New York, has been an ardent defender of fossil fuels and the coal industry."
+        ],
+        "tf-idf score": [
+            0.9076568941922297,
+            0.7639839927364718,
+            0.8531359272253206
+        ]
+    },
+    "0.1509831657004481-3-269": {
+        "average clique similarity": 0.1509831657004481,
+        "clique": [
+            "1- You can meet with A",
+            "2-He lamented  wrongly",
+            "0- You couldn t pick a"
+        ],
+        "median tf-idf score": 0.7166675043954884,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"You can meet with Al Gore on Monday, pledge to keep Teddy Roosevelt's environmental legacy alive on Tuesday, but if you nominate the Clean Power Act's leading opponent to head the EPA on Wednesday, you're making an unequivocal statement about the direction of your leadership,\" she said.",
+            "He lamented, wrongly, that you couldn't use hairspray anymore because it damaged the ozone layer. And then, out of nowhere, he met with Al Gore, who won a Nobel Peace Prize for educating the public about the dangers of climate change.",
+            "\"You couldn't pick a better fossil fuel industry puppet,\" May Boeve, executive director of the climate change nonprofit 350. org, said in a statement on Pruitt."
+        ],
+        "tf-idf score": [
+            0.7674008597787528,
+            0.28857517332270777,
+            0.7166675043954884
+        ]
+    },
+    "0.15539327388419044-3-104": {
+        "average clique similarity": 0.15539327388419044,
+        "clique": [
+            "2- Pruitt has a clear ",
+            "3- Scott Pruitt has a ",
+            "1-Trump aides praised "
+        ],
+        "median tf-idf score": 0.757170863221454,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"Pruitt has a clear record of hostility to the EPA's mission, and he is a completely inappropriate choice to lead it. \"",
+            "\"Scott Pruitt has a record of attacking the environmental protections that EPA is charged with enforcing.",
+            "Trump aides praised Pruitt's conservative record. \"Attorney General Pruitt has a strong conservative record as a state prosecutor and has demonstrated a familiarity with laws and regulations impacting a large energy resource state,\" one of the aides said on a transition team briefing call on Wednesday."
+        ],
+        "tf-idf score": [
+            0.7118244540949601,
+            0.757170863221454,
+            1.1200782850951785
+        ]
+    },
+    "0.16330656760356266-3-127": {
+        "average clique similarity": 0.16330656760356266,
+        "clique": [
+            "0- For too long  the E",
+            "5-Pruitt has been an a",
+            "2-Throughout the long "
+        ],
+        "median tf-idf score": 0.9417927161243678,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Vox"
+        ],
+        "sentences": [
+            "\"For too long, the Environmental Protection Agency has spent taxpayer dollars on an      agenda that has destroyed millions of jobs,\" Trump said in a statement. Pruitt will need confirmation from the Senate to take the post.",
+            "Pruitt has been an ardent opponent of these efforts for years. He calls himself the \"leading advocate against the EPA's activist agenda\" and has long insisted that states can often regulate pollution better than the federal government can.",
+            "Throughout the long campaign, and in the long month that has followed,   Donald Trump sounded some odd notes about the environment."
+        ],
+        "tf-idf score": [
+            0.9417927161243678,
+            0.9868403012208314,
+            0.3044473243684147
+        ]
+    },
+    "0.1665546588305852-3-288": {
+        "average clique similarity": 0.1665546588305852,
+        "clique": [
+            "2-His most common targ",
+            "4-He also filed court ",
+            "3- Given that we are a"
+        ],
+        "median tf-idf score": 1.0920209460795343,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "His most common target has been the Clean Power Plan, the Obama administration's set of Clean Air Act rules meant to reduce greenhouse gas emissions from power plants.",
+            "He also filed court briefs in support of the Keystone XL Pipeline project blocked by the Obama administration, which would have run through his state. And Pruitt sued the EPA over the agency's recent expansion of water bodies regulated under the federal Clean Water Act.",
+            "\"Given that we are almost two decades overdue for an overhaul of the Clean Air Act, there is interest on both sides of the aisle to look at that statute. \" David Rivkin, a constitutional litigator who represented Pruitt and Oklahoma in challenging the Clean Power Plan, said he believed Pruitt would be able to make sure the EPA lives up to its mission of protecting air and water while avoiding federal overreach."
+        ],
+        "tf-idf score": [
+            0.827829716546533,
+            1.0920209460795343,
+            1.0960676895759691
+        ]
+    },
+    "0.17025201546896954-3-83": {
+        "average clique similarity": 0.17025201546896954,
+        "clique": [
+            "4-As word of Pruitt s ",
+            "1- FOX GUARDING THE HE",
+            "3-Environmental groups"
+        ],
+        "median tf-idf score": 0.7240267600208746,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "As word of Pruitt's nomination spread Wednesday, environmental and liberal groups quickly responded with condemnation.",
+            "'FOX GUARDING THE HENHOUSE' Environmental groups and former Obama officials bristled at the choice of Pruitt, and some lawmakers, including U S Senator Bernie Sanders of Vermont, said they would fight his nomination.",
+            "Environmental groups reacted with alarm Wednesday at the nomination. And New York State Attorney General Eric Schneiderman vowed to \"use the full power\" of his office to wage a legal battle to \"compel\" enforcement of environmental laws under Trump."
+        ],
+        "tf-idf score": [
+            0.49442809304356605,
+            0.7240267600208746,
+            0.8058166792556407
+        ]
+    },
+    "0.17559570632211785-3-208": {
+        "average clique similarity": 0.17559570632211785,
+        "clique": [
+            "2- I don t think there",
+            "5-The new EPA  might t",
+            "3- What concerns the s"
+        ],
+        "median tf-idf score": 0.6010681546007344,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "\"I don't think there is anything secretive in what we've done,\" Pruitt told The Oklahoman.",
+            "The new EPA \"might try to argue that they don't think they have the authority to regulate greenhouse gases from existing power plants,\" Freeman said. \"Or they could argue that even if they do have that authority, they think there's a better approach to the standard [than the specific regulation Obama's EPA set up].",
+            "\"What concerns the states is the process, the procedures, the authority that the EPA is exerting that we think is entirely inconsistent with its constitutional and statutory authority,\" he said at the time. Agencies such as the EPA, he said, should not be trying to \"pinch hit\" for Congress."
+        ],
+        "tf-idf score": [
+            0.2871861460738202,
+            0.8154242527009412,
+            0.6010681546007344
+        ]
+    },
+    "0.17988209764312765-3-49": {
+        "average clique similarity": 0.17988209764312765,
+        "clique": [
+            "3-Pruitt has served as",
+            "5-Pruitt appears to ha",
+            "2-Energy firms and lob"
+        ],
+        "median tf-idf score": 0.7213680645198657,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Pruitt has served as head of the Republican Attorneys General Association, a group that has relied heavily on funds from ultraconservative groups and the oil industry.",
+            "Pruitt appears to have simply passed it along. And this wasn't an isolated incident, Lipton explained: \"Devon officials also turned to Mr Pruitt to enlist other Republican attorneys general and Republican governors to oppose a rule proposed by the Bureau of Land Management that would regulate hydraulic fracturing, or fracking, on federal land. \"",
+            "Energy firms and lobbyists, including Devon, have donated generously to the Republican Attorneys General Association, which Pruitt has led."
+        ],
+        "tf-idf score": [
+            0.7624053479077447,
+            0.7213680645198657,
+            0.6985466507868423
+        ]
+    },
+    "0.18410757012059595-3-262": {
+        "average clique similarity": 0.18410757012059595,
+        "clique": [
+            "2- As attorney general",
+            "6-In that statement  T",
+            "1-But representatives "
+        ],
+        "median tf-idf score": 1.0337730979457864,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"As attorney general, Scott Pruitt consistently failed to uphold his responsibility to protect our nation's air and water, instead acting as an agent of the oil and gas industry --  at the expense of the American people --  every time,\" said Eric Schneiderman in a statement.",
+            "In that statement, Trump said the EPA has pursued \"an      agenda that has destroyed millions of jobs,\" and that Pruitt \"will reverse this trend and restore the EPA's essential mission of keeping our air and our water clean and safe\".",
+            "But representatives of the oil industry, and some Republican lawmakers, were cheered by the pick. Scott Segal, an energy industry lobbyist at Bracewell LLP called Pruitt \"a measured and articulate student of environmental law and policy\" who helped \"keep EPA faithful to its statutory authority and respectful of the role of the states in our system of cooperative federalism\"."
+        ],
+        "tf-idf score": [
+            0.9629286851131644,
+            1.0337730979457864,
+            1.0959221557740075
+        ]
+    },
+    "0.18867281194209154-3-218": {
+        "average clique similarity": 0.18867281194209154,
+        "clique": [
+            "3-However  the precise",
+            "1-Since becoming the t",
+            "2-Now  Oklahoma is one"
+        ],
+        "median tf-idf score": 0.8596327787024435,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "However, the precise fate of the regulation most immediately turns on the U S Court of Appeals for the D C Circuit, which has not yet ruled in the lawsuit brought by Pruitt and his fellow attorneys general against the agency Pruitt is now named to lead.",
+            "Since becoming the top prosecutor for the major   and   state in 2011, Pruitt, 48, has launched multiple lawsuits against regulations put forward by the agency he is now poised to lead, suing to block federal measures to reduce smog and curb toxic emissions from power plants.",
+            "Now, Oklahoma is one of the 28 states challenging the agency in court, and it helped succeed in getting the Supreme Court to block the rules in February."
+        ],
+        "tf-idf score": [
+            0.8596327787024435,
+            1.076727617304217,
+            0.44110839921882894
+        ]
+    },
+    "0.19258998818319487-3-159": {
+        "average clique similarity": 0.19258998818319487,
+        "clique": [
+            "1-An overwhelming majo",
+            "5- Both rules largely ",
+            "3-In an interview with"
+        ],
+        "median tf-idf score": 1.0787875889613132,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "An overwhelming majority of scientists around the world say manmade emissions are warming the planet. The Obama administration finalized the Clean Power Plan in 2015 as a key part of meeting U S obligations under the Paris Climate Agreement, an accord among nearly 200 countries to curb global warming. Many scientists say warming is causing rising sea levels, drought, and an increase in ferocious storms. Trump vowed during his campaign to pull the United States out of the Paris deal, saying it would put American businesses at a competitive disadvantage.",
+            "(Both rules largely survived these challenges.) At the moment, Pruitt is part of a lawsuit to block the EPA's efforts to address global warming via the Clean Power Plan  --   which aims to reduce carbon dioxide emissions from power plants.",
+            "In an interview with The Post in September, as a D C federal appeals court was preparing to hear arguments over the Clean Power Plan, Pruitt detailed why he has remained a leading opponent of the EPA's efforts to curb carbon emissions by regulating power plants."
+        ],
+        "tf-idf score": [
+            1.0787875889613132,
+            1.032122453763231,
+            1.1576294660988509
+        ]
+    },
+    "0.20380539398377426-3-437": {
+        "average clique similarity": 0.20380539398377426,
+        "clique": [
+            "4-He joined with other",
+            "1-In an interview with",
+            "5-Even so  as Harvard "
+        ],
+        "median tf-idf score": 0.8261836333538215,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "He joined with other Republican attorneys general in opposing the Clean Power Plan, which seeks to limit   carbon emissions from   power plants.",
+            "In an interview with Reuters in September, Pruitt said he  sees the Clean Power Plan as a form of federal \"coercion and commandeering\" of energy policy and that his state should have \"sovereignty to make decisions for its own markets\".",
+            "Even so, as Harvard law professor Jody Freeman explained in this   interview, it's not always so simple for a new EPA administrator to come in and rip up everything the old EPA did. Take Obama's Clean Power Plan, a regulation finalized in 2015 that aims to reduce carbon dioxide emissions from the power sector."
+        ],
+        "tf-idf score": [
+            0.5084872751986583,
+            0.8516033470971299,
+            0.8261836333538215
+        ]
+    },
+    "0.20413885743142435-3-249": {
+        "average clique similarity": 0.20413885743142435,
+        "clique": [
+            "3-Dismantling the regu",
+            "5-If Pruitt wants to r",
+            "0-If Pruitt is to unra"
+        ],
+        "median tf-idf score": 0.8145960552497972,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Vox"
+        ],
+        "sentences": [
+            "Dismantling the regulation if it survives the courts would not be simple, because the agency has already finalized it  --   meaning that to undo and replace it would require a public notice and comment process. Environmental groups would likely sue the agency over such a move. However, some of the Clean Power Plan's objectives appear to have been already realized long before it came into effect.",
+            "If Pruitt wants to repeal and replace it, he will have to go through a lengthy new agency rulemaking process. \"The EPA would have to go out for public comment on that  --   and that usually takes a year or two,\" Freeman explained.",
+            "If Pruitt is to unravel Obama's climate legacy, he will have to contend with that ruling by either reversing it or having Congress amend the underlying law that created the EPA If Pruitt's EPA ignores the ruling outright, it will opens itself up to lawsuits from states and environmental advocates, similar to 2007."
+        ],
+        "tf-idf score": [
+            0.8145960552497972,
+            0.7153285873860293,
+            0.9477125432653302
+        ]
+    },
+    "0.20650953605564695-3-74": {
+        "average clique similarity": 0.20650953605564695,
+        "clique": [
+            "6-The Sierra Club rele",
+            "3-Pruitt has spent muc",
+            "2-In a certain light  "
+        ],
+        "median tf-idf score": 0.8469996148529725,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The Sierra Club released a statement that called Pruitt \"unfit\" to lead the EPA \"Having Scott Pruitt in charge of the U S Environmental Protection Agency is like putting an arsonist in charge of fighting fires,\" it read in part.",
+            "Pruitt has spent much of his energy as attorney general fighting the very agency he is being nominated to lead. He is the third of Trump's appointees who have key philosophical differences with the missions of the agencies they have been tapped to run.",
+            "In a certain light, Pruitt is an inspired choice to lead the EPA, as he has made fighting the agency a hallmark of his career."
+        ],
+        "tf-idf score": [
+            0.8723252221430192,
+            0.8469996148529725,
+            0.7637296882010853
+        ]
+    },
+    "0.21223899529919255-3-203": {
+        "average clique similarity": 0.21223899529919255,
+        "clique": [
+            "4-Representing his sta",
+            "5-Ever since becoming ",
+            "2-They ll likely also "
+        ],
+        "median tf-idf score": 1.2064259299391948,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "Representing his state as attorney general since 2011, Pruitt has repeatedly sued the EPA to roll back environmental regulations and other health protections.",
+            "Ever since becoming Oklahoma's top prosecutor in 2011, Pruitt has joined or led state lawsuits to block virtually every major federal regulation around climate and air pollution that Obama's EPA has put forward.",
+            "They'll likely also clash again: As the powerful attorney general of a populous liberal state, Schneiderman will lead the litigative charge against any weakening of EPA regulations --  just as Pruitt led litigation against Obama's EPA Every Republican administration since Ronald Reagan's has taken office promising to roll back some environmental regulations."
+        ],
+        "tf-idf score": [
+            1.081893525362812,
+            1.2064259299391948,
+            1.3116673047136247
+        ]
+    },
+    "0.2600004443088766-3-59": {
+        "average clique similarity": 0.2600004443088766,
+        "clique": [
+            "1- Donald Trump will n",
+            "2-The significance cou",
+            "3-           Donald Tr"
+        ],
+        "median tf-idf score": 1.2400399147141343,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            " Donald Trump will name Oklahoma Attorney General Scott Pruitt, an ardent opponent of President Barack Obama's measures to curb climate change, as head of the Environmental Protection Agency, a Trump transition team official said on Wednesday, a choice that enraged green activists and cheered the oil industry.",
+            "The significance could not be more clear: As he promised on the trail, Trump will likely use the powers of the presidency and the legal expertise of Pruitt to block or weaken the Obama administration's attempts to fight climate change.",
+            "           Donald Trump is expected to nominate Scott Pruitt, the attorney general of the oil and   state of Oklahoma, to head the Environmental Protection Agency, a move signaling an assault on President Obama's climate change and environmental legacy."
+        ],
+        "tf-idf score": [
+            1.4800461290683244,
+            0.796998786343049,
+            1.2400399147141343
+        ]
+    },
+    "0.26465490238601547-4-166": {
+        "average clique similarity": 0.26465490238601547,
+        "clique": [
+            "0-Pruitt was elected t",
+            "3-After he was elected",
+            "6-He spent eight years",
+            "2-Since he was elected"
+        ],
+        "median tf-idf score": 0.7633546992620415,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Pruitt was elected to the office of Oklahoma Attorney General in 2010, after he had served in the Oklahoma State Senate for eight years.",
+            "After he was elected attorney general in 2010, Pruitt established a \"Federalism Unit\" to \"more effectively combat unwarranted regulation and systematic overreach by federal agencies, boards and offices,\" according to his online biography.",
+            "He spent eight years in Oklahoma's Senate before being elected state attorney general in 2010. In that role, he set up a \"Federalism Unit\" aimed at ferreting out and combating what he viewed as federal overreach.",
+            "Since he was elected Oklahoma's attorney general, in 2010, Pruitt has racked up a sizable record --  impressive in its number of lawsuits if not in its number of victories --  of suing the EPA Many of these suits did not target   policies."
+        ],
+        "tf-idf score": [
+            0.7394236217694762,
+            0.7872857767546066,
+            0.5595670535440579,
+            0.9886133378230755
+        ]
+    },
+    "0.2767000983052643-3-388": {
+        "average clique similarity": 0.2767000983052643,
+        "clique": [
+            "4-His installment  if ",
+            "3-Pruitt  who has writ",
+            "1-Pruitt has also said"
+        ],
+        "median tf-idf score": 1.0291689232344456,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "His installment, if confirmed, would mark a significant break with the current EPA approach toward global warming. In an opinion article published earlier this year by National Review, Pruitt suggested the debate over global warming \"is far from settled\" and claimed \"scientists continue to disagree about the degree and extent of global warming and its connection to the actions of mankind\".",
+            "Pruitt, who has written that the debate on climate change is \"far from settled,\" joined a coalition of state attorneys general in suing the agency's Clean Power Plan, the principal   policy aimed at reducing U S greenhouse gas emissions from the electricity sector.",
+            "Pruitt has also said he is skeptical of climate change. In an opinion piece in an Oklahoma newspaper this year, he wrote that he believes the debate over global warming is \"far from settled\" and that scientists continue to disagree on the issue."
+        ],
+        "tf-idf score": [
+            0.93023863048453,
+            1.3817176627527468,
+            1.0291689232344456
+        ]
+    },
+    "0.31250003462015746-4-437": {
+        "average clique similarity": 0.31250003462015746,
+        "clique": [
+            "5- Donald Trump plans ",
+            "2-Trump has chosen E S",
+            "6-  Donald Trump inten",
+            "0- WASHINGTON       Sc"
+        ],
+        "median tf-idf score": 0.9930025241021524,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            " Donald Trump plans to nominate Oklahoma Attorney General Scott Pruitt to head the Environmental Protection Agency  --   a     pick that suggests big, big changes could be in store for environmental policy.",
+            "Trump has chosen E Scott Pruitt, the attorney general of Oklahoma, to lead the EPA, according to early reports.",
+            "  Donald Trump intends to nominate Oklahoma Attorney General Scott Pruitt to head the Environmental Protection Agency, announcing his decision in a statement Thursday.",
+            " WASHINGTON  --   Scott Pruitt, the attorney general of Oklahoma who has opposed the US Environmental Protection Agency through letters and lawsuits throughout the Obama administration, is Donald Trump's pick to run that agency during his presidency, his transition team announced on Thursday."
+        ],
+        "tf-idf score": [
+            1.022803088644372,
+            0.9632019595599328,
+            0.9041813102982849,
+            1.2074126461053347
+        ]
+    },
+    "0.328302252054163-4-437": {
+        "average clique similarity": 0.328302252054163,
+        "clique": [
+            "2-His own website call",
+            "0-Pruitt is  by his ow",
+            "3-On his Linked In pag",
+            "6-As attorney general "
+        ],
+        "median tf-idf score": 0.5363822864581007,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "His own website calls him \"a leading advocate against the EPA's activist agenda. \"",
+            "Pruitt is, by his own admission in his online biography, a \"leading advocate against the EPA's activist agenda. \"",
+            "On his Linked In page, Pruitt boasts of being \"a leading advocate against the EPA's activist agenda. \"",
+            "As attorney general, Pruitt has made no secret of his disdain for the EPA His official biography calls him \"a leading advocate against the EPA's activist agenda\"."
+        ],
+        "tf-idf score": [
+            0.2626204185723344,
+            0.544831309820379,
+            0.5279332630958226,
+            0.8525195532459694
+        ]
+    },
+    "0.34468709042706014-3-437": {
+        "average clique similarity": 0.34468709042706014,
+        "clique": [
+            "2-The majority of scie",
+            "0- Scientists continue",
+            "5-Pruitt has also ques"
+        ],
+        "median tf-idf score": 0.5101620480101616,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Vox"
+        ],
+        "sentences": [
+            "The majority of scientists also believe that global warming will be quite harmful the scientific debate about its \"degree and extent\" is only about how bad it will be and how soon its consequences will kick in.",
+            "\"Scientists continue to disagree about the degree and extent of global warming and its connection to the actions of mankind,\" he wrote in the Tulsa World. But surveys of   journals show that 97 percent or more of climate scientists think that the observed warming trends are very likely due to human emissions.",
+            "Pruitt has also questioned and misrepresented the science of climate change. In a piece for National Review last May, he wrote: \"Scientists continue to disagree about the degree and extent of global warming and its connection to the actions of mankind. \""
+        ],
+        "tf-idf score": [
+            0.2339572784022152,
+            0.5101620480101616,
+            0.8738653067770582
+        ]
+    },
+    "0.5244248483769881-3-318": {
+        "average clique similarity": 0.5244248483769881,
+        "clique": [
+            "5-As the New York Time",
+            "3-In 2014  the New Yor",
+            "6-The New York Times h"
+        ],
+        "median tf-idf score": 1.062098505993145,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "As the New York Times's Eric Lipton later discovered, this letter was actually written by lawyers for Devon Energy, one of the state's largest oil and gas companies.",
+            "In 2014, the New York Times reported that a letter ostensibly written by Pruitt alleging that the agency overestimated air pollution from natural gas drilling was actually written by lawyers for Devon Energy, one of the state's largest oil and gas companies. Industry representatives expressed satisfaction with the choice Wednesday.",
+            "The New York Times has reported that one letter to the EPA from Pruitt was ghostwritten by lawyers for Devon Energy, an Oklahoma oil and gas company."
+        ],
+        "tf-idf score": [
+            0.560547539847598,
+            1.120217439954591,
+            1.062098505993145
+        ]
+    }
+}

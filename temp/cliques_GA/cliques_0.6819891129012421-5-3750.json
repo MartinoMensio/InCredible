@@ -1,0 +1,342 @@
+{
+    "0.15302143179093117-3-132": {
+        "average clique similarity": 0.15302143179093117,
+        "clique": [
+            "2-Wayne said the count",
+            "0- No more    around  ",
+            "1- He builds big thing"
+        ],
+        "median tf-idf score": 0.9069630468151724,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Wayne said the country needs a strong and courageous leader like her father, and that he would be offering his endorsement if he were still alive. Trump said he was a big fan of Wayne and that the actor represented strength and power  --   which, he said, the American people are looking for.",
+            "\"No more  ' around  --   our troops deserve the best,\" Palin said. She lauded Trump for his business savvy and his common touch. \"Yeah, our leader is a little bit different. He's a multibillionaire  --   not that there's anything wrong with that,\" she quipped.",
+            "\"He builds big things, things that touch the sky,\" she said as Trump looked on, glowingly."
+        ],
+        "tf-idf score": [
+            0.9708438721128321,
+            0.9069630468151724,
+            0.5048315927578216
+        ]
+    },
+    "0.16107201089891918-3-31": {
+        "average clique similarity": 0.16107201089891918,
+        "clique": [
+            "3-Their new alliance c",
+            "1-Several have reached",
+            "2- Their divisive rhet"
+        ],
+        "median tf-idf score": 0.7462019002571723,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Their new alliance comes as the onetime detente between Trump and Cruz, the two top outsider candidates in the crowded race, has come to an end.",
+            "Several have reached out to Trump in recent weeks as their preferred candidates have stalled in the polls.",
+            "\"Their divisive rhetoric is now peddled by everyone from Ted Cruz to Marco Rubio. Americans deserve better than what Trump and Palin have to offer, but it seems like the other Republican candidates would rather follow in their footsteps,\" the statement continued."
+        ],
+        "tf-idf score": [
+            0.7462019002571723,
+            0.4070702209646437,
+            1.0700761526946834
+        ]
+    },
+    "0.17425248297141815-3-34": {
+        "average clique similarity": 0.17425248297141815,
+        "clique": [
+            "2-She later appeared a",
+            "4- Looking around at a",
+            "1- When you talk about"
+        ],
+        "median tf-idf score": 0.8696684239740866,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "She later appeared alongside Trump at a campaign event at Iowa State University in Ames, Iowa, \"You're putting relationships on the line for this country because you're willing to make America great again,\" she said at the rally.",
+            "\"Looking around at all of you  --   you hard working Iowa families, you farm families and teachers and teamsters and cops and cooks  --   you    and holy rollers!\" Palin said. \"All of you who work so hard. You   moms. You with the hands that rock the cradle.",
+            "\"When you talk about temperament, Ted has got a rough temperament,\" Trump said Tuesday in Winterset, Iowa, ahead of the Palin event."
+        ],
+        "tf-idf score": [
+            0.8696684239740866,
+            0.6908356864119095,
+            1.0485255217777127
+        ]
+    },
+    "0.17843555813513304-3-16": {
+        "average clique similarity": 0.17843555813513304,
+        "clique": [
+            "0-WASHINGTON       Don",
+            "2- Former   nominee an",
+            "3-The announcement of "
+        ],
+        "median tf-idf score": 0.9855654997202823,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "WASHINGTON  --   Donald Trump rolled out a splashy endorsement from fiery populist Sarah Palin on Tuesday, and she immediately proclaimed that the real estate mogul is leading the GOP presidential race because he has taken on the establishment.",
+            " Former   nominee and governor of Alaska Sarah Palin made her first foray into the 2016 presidential race Tuesday by announcing she is endorsing Donald Trump.",
+            "The announcement of her endorsement earlier that day and her appearance Tuesday evening alongside the GOP candidate capped off a day of rampant speculation that the 2008 GOP vice presidential nominee was set to endorse the Republican presidential   after Trump teased a \"major announcement\". The two have long been complimentary of one another."
+        ],
+        "tf-idf score": [
+            1.260855505111122,
+            0.9518027482852052,
+            0.9855654997202823
+        ]
+    },
+    "0.18965632241825578-3-179": {
+        "average clique similarity": 0.18965632241825578,
+        "clique": [
+            "1-Cruz is trying to hi",
+            "4-Palin s endorsement ",
+            "3-In last week s debat"
+        ],
+        "median tf-idf score": 0.5886919944998772,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Cruz is trying to highlight Trump's past liberalism, 'New York values,' what have you. Now, we'll see if this works. \"",
+            "Palin's endorsement is a major   for Trump in Iowa, where he's running    with Texas Sen. Ted Cruz, who was once championed by Palin.",
+            "In last week's debate, Cruz attacked Trump over his liberal \"New York values\"."
+        ],
+        "tf-idf score": [
+            0.5772443521638377,
+            1.1315509294492838,
+            0.5886919944998772
+        ]
+    },
+    "0.19056583434041494-3-175": {
+        "average clique similarity": 0.19056583434041494,
+        "clique": [
+            "3- Ted Cruz is ahead r",
+            "0- Is THIS why people ",
+            "1-Trump reacted gleefu"
+        ],
+        "median tf-idf score": 0.6270974514009761,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"Ted Cruz is ahead right now. What we're trying to do is educate the people in the state of Iowa. He is the biggest opponent of renewable fuels. He actually introduced a bill in 2013 to immediately eliminate the Renewable Fuel Standard. He's heavily financed by Big Oil.",
+            "\"Is THIS why people don't like Ted Cruz?\"",
+            "Trump reacted gleefully on Twitter: \"Wow, the highly respected Governor of Iowa just stated that 'Ted Cruz must be defeated.' Big shocker! People do not like Ted. \""
+        ],
+        "tf-idf score": [
+            0.6270974514009761,
+            0.26475838394702694,
+            0.759729143985902
+        ]
+    },
+    "0.19934619067849382-3-86": {
+        "average clique similarity": 0.19934619067849382,
+        "clique": [
+            "1- If you re looking f",
+            "3-Palin is expected to",
+            "2-Palin is expected to"
+        ],
+        "median tf-idf score": 1.3701627800457405,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"If you're looking for someone who's a dealmaker, who will capitulate even more to the Democrats and give in to Chuck Schumer and Harry Reid and Nancy Pelosi, then perhaps Donald Trump is your man,\" Cruz told reporters Tuesday at a stop in Barnstead, N H Palin's endorsement, which came after days of teasing by Trump's campaign and widespread speculation on cable TV, riled the right in the hours before it was made official.",
+            "Palin is expected to be an important surrogate for Trump and will campaign with him Wednesday in Iowa and Oklahoma.",
+            "Palin is expected to join Trump on Wednesday for campaign events in Norwalk, Iowa and Tulsa, Okla.  \"Even with a record number of candidates and internal calls to become more inclusive as a party, Donald Trump and Sarah Palin remain two of the GOP's most influential leaders,\" Mark Paustenbach, Democratic National Committee Press secretary, said in a statement responding to the endorsement."
+        ],
+        "tf-idf score": [
+            1.3701627800457405,
+            0.7774039756633877,
+            1.560472881796489
+        ]
+    },
+    "0.20055348408977272-3-22": {
+        "average clique similarity": 0.20055348408977272,
+        "clique": [
+            "1- I think Sarah Palin",
+            "2- I am here because l",
+            "3- I think it  would  "
+        ],
+        "median tf-idf score": 0.9097101779027333,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"I think Sarah Palin actually helps Trump a lot because she's showing them that it's okay,\" Bennett said. \"Whatever lack of credentials he has, he's making some inroads into places where we didn't think he'd play. \"",
+            "\"I am here because like you, I know it's now or never. \" \"I'm in it to win it because we believe in America,\" she added. Trump told supporters he was \"greatly honored\" to receive Palin's support.",
+            "\"I think it [would] be a blow to Sarah Palin, because Sarah Palin has been a champion for the conservative cause."
+        ],
+        "tf-idf score": [
+            0.9751124743560654,
+            0.9097101779027333,
+            0.613621309252151
+        ]
+    },
+    "0.20093496886844145-3-150": {
+        "average clique similarity": 0.20093496886844145,
+        "clique": [
+            "0- Media heads are spi",
+            "3-Updated at 8 30 p  m",
+            "2- They ve been wearin"
+        ],
+        "median tf-idf score": 1.1636887094674855,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"Media heads are spinning  --   this is going to be so much fun!\" Palin told a packed audience in Iowa, where the first caucuses will be held in less than two weeks.",
+            "Updated at 8:30 p. m. ET, Tea Party darling Sarah Palin threw her support behind Donald Trump in a raucous speech Tuesday night, a blow to a surging Ted Cruz with less than two weeks to go until the Iowa caucuses.",
+            "\"They've been wearing political correctness kind of like a suicide vest,\" she said. The endorsement comes less than two weeks ahead of the critical   Iowa caucus, where Trump is locked in a dead heat with Texas Sen. Ted Cruz."
+        ],
+        "tf-idf score": [
+            0.5747069947074961,
+            1.3314844039936273,
+            1.1636887094674855
+        ]
+    },
+    "0.20269977504221195-4-7": {
+        "average clique similarity": 0.20269977504221195,
+        "clique": [
+            "2-  She can pick winne",
+            "4-Trump said of the en",
+            "3-Sarah Palin     She ",
+            "1-Sarah Palin s endors"
+        ],
+        "median tf-idf score": 0.9903046295913132,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "..She can pick winners\". Campaigning in New Hampshire, Tuesday, Cruz responded to Palin's endorsement of Trump, saying \"regardless of what Sarah intends to do in 2016, I will remain a big, big fan of Sarah Palin\".",
+            "Trump said of the endorsement, \"I am greatly honored to receive Sarah's endorsement.",
+            "Sarah Palin. .. She can pick winners,\" Cruz previously said of her endorsement in his uphill 2012 Senate primary.",
+            "Sarah Palin's endorsement of Donald Trump Tuesday came as a surprise to some in her orbit, given her friendly rapport with both Trump and Ted Cruz."
+        ],
+        "tf-idf score": [
+            1.2192590294627186,
+            0.6593831672614585,
+            0.8406638888994984,
+            1.139945370283128
+        ]
+    },
+    "0.2226526295416705-3-194": {
+        "average clique similarity": 0.2226526295416705,
+        "clique": [
+            "4- Palin  the 2008 GOP",
+            "2- She s the woman tha",
+            "1-The frenzied courtin"
+        ],
+        "median tf-idf score": 0.8399906007368912,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            " Palin, the 2008 GOP vice presidential nominee, took the stage in her metallic fringe jacket to a packed crowd, her famous   drawing cheers as Trump stood silently to the side.",
+            "\"She's the woman that from day one I said I needed to get her support,\" he said. Palin, who became a symbol of the Tea Party movement following the 2008 presidential election, is the   backer for a Republican contender so far in the race.",
+            "The frenzied courting of conservatives is testament to their power in shaping a contest that is being dominated by two Washington outsiders. Neither has won the backing of a single governor or senator  --   and it's unclear that either man even wants to. In this race, it is the media titans, personalities and activists who have long stood on the GOP's fringe who now have all the cachet. \"You need a scorecard to keep track,\" said Craig Shirley, a conservative historian. \"Talk radio and bloggers  --   anyone outside of the system is at the center of the party, and we're witnessing in real time the shift away from the Republican establishment in deciding who the nominee will be. \""
+        ],
+        "tf-idf score": [
+            0.8399906007368912,
+            0.7434141052714272,
+            0.8466281190961624
+        ]
+    },
+    "0.22496226681559625-3-71": {
+        "average clique similarity": 0.22496226681559625,
+        "clique": [
+            "3-And Trump s campaign",
+            "4-She is a friend  and",
+            "2- I am proud to endor"
+        ],
+        "median tf-idf score": 1.062615202774298,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "And Trump's campaign highlighted Cruz's own words on the impact a Palin endorsement can have. \"I would not be in the United States Senate were it not for Gov.",
+            "She is a friend, and a high quality person whom I have great respect for. I am proud to have her support. \" Palin emerged from the 2008 campaign as a star in the grassroots conservative movement.",
+            "\"I am proud to endorse Donald J Trump for President of the United States of America,\" Palin said in a statement from the Trump campaign announcing the endorsement."
+        ],
+        "tf-idf score": [
+            1.062615202774298,
+            0.5799872830446423,
+            1.1671137934830462
+        ]
+    },
+    "0.3303580799737249-3-80": {
+        "average clique similarity": 0.3303580799737249,
+        "clique": [
+            "0- I think it  would  ",
+            "1- He has spent his li",
+            "3-And if she was going"
+        ],
+        "median tf-idf score": 1.4188837849750753,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"I think it [would] be a blow to Sarah Palin, because Sarah Palin has been a champion for the conservative cause, and if she was going to endorse Donald Trump, sadly, she would be endorsing someone who's held progressive views all their life on the sanctity of life, on marriage, on   abortion,\" he told CNN Palin's daughter Bristol teed off on the Cruz staffer's comment.",
+            "\"He has spent his life looking up. \" Of the GOP leadership and critics of Trump, she said: \"They are so busted. What the heck would the establishment know about conservatism?\"",
+            "And if she was going to endorse Donald Trump, sadly, she would be endorsing someone who's held progressive views all their life on the sanctity of life, on marriage, on   abortion,\" Cruz campaign spokesman Rick Tyler said on CNN But that only seemed to inflame Palin allies."
+        ],
+        "tf-idf score": [
+            1.5958782194311814,
+            0.7012299909255579,
+            1.4188837849750753
+        ]
+    },
+    "0.63131689930906-3-9": {
+        "average clique similarity": 0.63131689930906,
+        "clique": [
+            "1-In a blog post  Pali",
+            "3-Her daughter Bristol",
+            "0- After hearing what "
+        ],
+        "median tf-idf score": 0.814313933810441,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "In a blog post, Palin's eldest daughter, Bristol, wrote that Tyler's remark \"makes me hope my mom does endorse Trump. \"",
+            "Her daughter Bristol wrote on the website Patheos, in a blog post titled \"Is THIS Why People Don't like Cruz?\" that \"after hearing what Cruz is now saying about my mom, in a negative   reaction, makes me hope my mom does endorse Trump\".",
+            "\"After hearing what Cruz is now saying about my mom, in a negative   reaction, makes me hope my mom does endorse Trump,\" she wrote."
+        ],
+        "tf-idf score": [
+            0.814313933810441,
+            0.829339848372625,
+            0.6897403371171035
+        ]
+    }
+}

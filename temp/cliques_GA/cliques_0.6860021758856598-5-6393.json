@@ -1,0 +1,178 @@
+{
+    "0.23368991733047698-3-18": {
+        "average clique similarity": 0.23368991733047698,
+        "clique": [
+            "4-The company said it ",
+            "2-BOTH CLAIM VICTORY O",
+            "1-A joint letter to Lo"
+        ],
+        "median tf-idf score": 1.1031464634457202,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "The company said it had considered moving Lincoln production to Mexico to increase production of the Ford Escape in Louisville.",
+            "BOTH CLAIM VICTORY On Thursday, Ford said it had been reviewing where to build the Lincoln MKC, just one vehicle built at the Louisville assembly plant, but had decided to keep it in Kentucky.",
+            "A joint letter to Louisville plant workers from UAW and Ford officials on Friday seemed to hint at that. \"The company's plan has been to balance out the current model of the Lincoln MKC to allow for additional capacity for the Escape,\" it read."
+        ],
+        "tf-idf score": [
+            0.945077317789257,
+            1.1031464634457202,
+            1.134308021821234
+        ]
+    },
+    "0.26555126853918526-3-20": {
+        "average clique similarity": 0.26555126853918526,
+        "clique": [
+            "1-Ford did announce pl",
+            "0-Trump has been feudi",
+            "4-Trump criticized For"
+        ],
+        "median tf-idf score": 0.8937265295812232,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Ford did announce plans to move a different line of production  --   small cars, including the Ford Focus  --   from Michigan to Mexico.",
+            "Trump has been feuding with Ford over plans to move   production from suburban Detroit to Mexico.",
+            "Trump criticized Ford during the campaign for its decision to move   production from Michigan to Mexico."
+        ],
+        "tf-idf score": [
+            0.7516423707672787,
+            0.9354233284121717,
+            0.8937265295812232
+        ]
+    },
+    "0.28085289014039994-3-86": {
+        "average clique similarity": 0.28085289014039994,
+        "clique": [
+            "3-Even if  as he claim",
+            "0-FOX NEWS AUTOS DRIVE",
+            "1-The company clarifie"
+        ],
+        "median tf-idf score": 1.866832301237709,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Even if, as he claims, Ford's ultimate decision not to shift production of the MKC to Mexico was due to his intervention, Trump's initial statement was somewhat misleading: Not only did Ford not, in fact, have plans to move the plant in question out of the country, or even out of the state, but the company has said that it likely will not be able to move any plants out of the country until its current contract with the United Auto Workers union expires in 2019.",
+            "FOX NEWS AUTOS DRIVES THE LINCOLN MKC, In a statement, Ford said the company \"confirmed with the  \" that it would continue producing Lincoln MKCs at the Louisville plant and added that it was \"encouraged that   Trump and the new Congress will pursue policies that will improve U S competitiveness and make it possible to keep production of this vehicle here in the United States\".",
+            "The company clarified that it had merely decided not to move production of a single vehicle, the Lincoln MKC, out of Kentucky. At the same time, the company said Friday that the coming Trump presidency did give it an incentive to keep Lincoln MKC in Kentucky."
+        ],
+        "tf-idf score": [
+            1.866832301237709,
+            1.9789460443809788,
+            0.9740779825815781
+        ]
+    },
+    "0.29144703429801716-3-95": {
+        "average clique similarity": 0.29144703429801716,
+        "clique": [
+            "2- Ford Motor Co     o",
+            "1-The contract does no",
+            "4-  Donald Trump took "
+        ],
+        "median tf-idf score": 1.2856713812174898,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            " Ford Motor Co ( ) one of Donald Trump's prime corporate targets on the campaign trail, offered the   a chance to claim a victory late on Thursday by informing him it would not shift production of a Lincoln sport utility vehicle to Mexico from Kentucky.",
+            "The contract does not say where the MKC production would go. Ford officials said late Thursday that they had intended to move it to Mexico.",
+            "  Donald Trump took to Twitter on Thursday night to say Ford Motor Co. executive chairman William Ford Jr had called to say the company would not move production of the Lincoln MKC from its Louisville Assembly Plant to Mexico."
+        ],
+        "tf-idf score": [
+            1.2856713812174898,
+            0.8210757201596917,
+            1.5098270612637625
+        ]
+    },
+    "0.34333233574646904-5-9": {
+        "average clique similarity": 0.34333233574646904,
+        "clique": [
+            "1-Just got a call from",
+            "2-Trump jumped at the ",
+            "0-Trump said that Ford",
+            "3-On Thursday evening ",
+            "4- Ford Chairman Bill "
+        ],
+        "median tf-idf score": 1.1229084544214423,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Just got a call from my friend Bill Ford, Chairman of Ford, who advised me that he will be keeping the Lincoln plant in Kentucky   no Mexico  --   Donald J Trump (@realDonaldTrump) November 18, 2016     I worked hard with Bill Ford to keep the Lincoln plant in Kentucky.",
+            "Trump jumped at the chance, claiming in a tweet that he had \"worked hard\" with Ford Executive Chairman Bill Ford Jr to keep the plant in Kentucky, even though Ford had never considered moving the whole factory south of the border.",
+            "Trump said that Ford Executive Chairman Bill Ford had called him with the news \"that he will be keeping the Lincoln plant in Kentucky   no Mexico\".",
+            "On Thursday evening,   Donald Trump took to Twitter to announce that he \"Just got a call from my friend Bill Ford, Chairman of Ford, who advised me that he will be keeping the Lincoln plant in Kentucky   no Mexico. \"",
+            "\"Ford Chairman Bill Ford Jr said last month he met with Trump."
+        ],
+        "tf-idf score": [
+            1.1229084544214423,
+            1.0289355096058375,
+            1.2042653928557099,
+            1.1584573089065497,
+            0.7350364959984229
+        ]
+    },
+    "0.3552430877180899-3-102": {
+        "average clique similarity": 0.3552430877180899,
+        "clique": [
+            "1- We are encouraged t",
+            "2-Ford nodded to those",
+            "4-We are encouraged th"
+        ],
+        "median tf-idf score": 1.012726739585841,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "\"We are encouraged the economic policies he will pursue will help improve U S competitiveness,\" Ford spokeswoman Christin Baker said, \"and make it possible to keep production of this vehicle here in the U S \" The events stirred a flurry of confusion on social media that lasted through Friday, and they underscored two   realities for U S business in the coming Trump era.",
+            "Ford nodded to those wider issues in a statement on Friday, saying it was encouraged that Trump's economic policies \"will help improve U S competitiveness\".",
+            "We are encouraged that   Trump and the new Congress will pursue policies that will improve U S competitiveness and make it possible to keep production of this vehicle here in the United States\". \"The auto industry is scared,\" says Paul Eisenstein, publisher of The Detroit Bureau, an online newspaper that covers the industry."
+        ],
+        "tf-idf score": [
+            1.2516505464196621,
+            0.8661151373273475,
+            1.012726739585841
+        ]
+    },
+    "0.4705764936101337-3-13": {
+        "average clique similarity": 0.4705764936101337,
+        "clique": [
+            "1-I owed it to the gre",
+            "3-He followed up a few",
+            "0-In a second tweet  T"
+        ],
+        "median tf-idf score": 1.2093223237774173,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Fox News"
+        ],
+        "sentences": [
+            "I owed it to the great State of Kentucky for their confidence in me! --   Donald J Trump (@realDonaldTrump) November 18, 2016   The tweets were exaggerated: Ford's contract with the United Auto Workers prevents it from shutting down the factory in question, the Louisville Assembly Plant, or from laying off workers there without engaging further talks with the union.",
+            "He followed up a few minutes later to assert his role in the decision: \"I worked hard with Bill Ford to keep the Lincoln plant in Kentucky. I owed it to the great State of Kentucky for their confidence in me!\"",
+            "In a second tweet, Trump said that he had \"worked hard with Bill Ford to keep the Lincoln plant in Kentucky. I owed it to the great state of Kentucky for their confidence in me!\""
+        ],
+        "tf-idf score": [
+            1.3401395820761697,
+            0.904485076725405,
+            1.2093223237774173
+        ]
+    }
+}

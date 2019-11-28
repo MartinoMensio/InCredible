@@ -1,0 +1,174 @@
+{
+    "0.22261969764343162-4-15": {
+        "average clique similarity": 0.22261969764343162,
+        "clique": [
+            "0-U S Pacific Command ",
+            "4- In addition  the So",
+            "1-South Korea s defens",
+            "3-Activity at the site"
+        ],
+        "median tf-idf score": 1.2477691071038333,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "U S Pacific Command said it had Aegis ballistic missile defense systems, Terminal High Altitude Area Defense batteries and the     Radar in the region, which would work with Japanese and South Korean militaries to detect the launch. The USS Benfold, a   destroyer, arrived on Friday in Otaru, Japan, one of five U S destroyers equipped with Aegis ballistic missile defense systems that are girding for the potential launch, according to several sources.",
+            "\"In addition, the South Korean defense ministry said on Sunday they will begin talks with the U S about possibly deploying a missile defense system in North Korea in response to what many nations see as a rising threat of North Korea's weapon technologies\".",
+            "South Korea's defense ministry said a rocket was launched from North Korea's west coast, near the border with South Korea, between 9:30 a. m. and 9:45 a. m. Seoul time, according to the Associated Press, while Japanese media outlets reported that debris from the launch landed in the East China Sea, about 150 miles from the launch site, about 14 minutes later.",
+            "Activity at the site was consistent with a launch in the time frame given by Pyongyang, U S officials said. U S Pacific Command said it was closely monitoring the situation and had many missile defense assets in the region that would provide \"a robust defense. \""
+        ],
+        "tf-idf score": [
+            1.2225248689326704,
+            1.2730133452749963,
+            1.6449861713078149,
+            1.0495611063518273
+        ]
+    },
+    "0.28897986851037344-3-91": {
+        "average clique similarity": 0.28897986851037344,
+        "clique": [
+            "1-A North Korean flag ",
+            "0-North Korea has told",
+            "2- Japanese Prime Mini"
+        ],
+        "median tf-idf score": 1.5184607106087247,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "A North Korean flag is seen on the top of its embassy in Beijing, Feb. 7. (Jason  )   [North Korea announces plan to launch rocket carrying observation satellite]    Kim Jong Un's regime had said it would launch a   (\"lode star\") satellite into orbit between Feb. 7 and 14, and the launch came just a few hours after that window began.",
+            "North Korea has told U N agencies it will launch a rocket carrying what it called an earth observation satellite some time between Feb. 8 and Feb. 25, triggering international opposition from governments that see it as a   missile test.",
+            "'Japanese Prime Minister Shinzo Abe called the launch \"absolutely unacceptable. \"' '' '' 'North Korea had previously  it would launch a rocket carrying what it called an   satellite some time between February 8 and February 25, triggering international opposition from governments that see it as a    test.'"
+        ],
+        "tf-idf score": [
+            1.5184607106087247,
+            1.5185786037606914,
+            1.3914205181152564
+        ]
+    },
+    "0.34778117674512643-3-81": {
+        "average clique similarity": 0.34778117674512643,
+        "clique": [
+            "0-Washington and Beiji",
+            "2- Washington and Beij",
+            "4-The U N Security Cou"
+        ],
+        "median tf-idf score": 1.3435891932411532,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "Washington and Beijing have appeared divided over how to respond to North Korea, with the United States urging tougher sanctions and China stressing the need for dialogue. Earlier on Friday, Xi told South Korea's president that China was dedicated to maintaining peace and stability on the Korean peninsula.",
+            "'Washington and Beijing have appeared divided over how to respond to North Korea, with the US urging tougher sanctions and China stressing the need for dialogue.' \"The latest dialogue comes after North Korea's  after which UN Security Council members began preparing new sanctions against the North\".",
+            "The U N Security Council hasn't yet passed a resolution to condemn North Korea for its Jan. 6 nuclear test  --   which was also \"a slap in the face to the international community,\" Elise says. The Security Council has been stymied by disagreements between the U S and China  --   who have both condemned the test  --   over how to respond."
+        ],
+        "tf-idf score": [
+            1.4108297003434784,
+            1.1276502549452694,
+            1.3435891932411532
+        ]
+    },
+    "0.4568147316114-3-67": {
+        "average clique similarity": 0.4568147316114,
+        "clique": [
+            "0- Satellite images ta",
+            "3-Satellite images tak",
+            "4-As we reported yeste"
+        ],
+        "median tf-idf score": 1.5349313821643165,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            " Satellite images taken this week of North Korea's Sohae rocket launch site show apparent fueling activity seen in the past shortly before a rocket launch, a U S   said, as U S government officials signaled that a launch could occur as early as Monday.",
+            "Satellite images taken this week of North Korea's Sohae rocket launch site show apparent fueling activity seen in the past shortly before a rocket launch, a U S   said, as U S government officials signaled that a launch could occur as early as Monday.",
+            "As we reported yesterday, the launch on Sunday morning local time arrives just a month after a nuclear test that had already raised tensions in the area: \"North Korea describes the launch as part of its space program: a rocket carrying an earth observation satellite into orbit."
+        ],
+        "tf-idf score": [
+            1.5349313821643165,
+            1.5349313821643165,
+            1.4222412455499496
+        ]
+    },
+    "0.4781773448862399-3-52": {
+        "average clique similarity": 0.4781773448862399,
+        "clique": [
+            "2-  The leaders emphas",
+            "0- The leaders emphasi",
+            "1-The United States im"
+        ],
+        "median tf-idf score": 1.2515128101275896,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "'\"The leaders emphasized the importance of a strong and united international response to North Korea''s provocations, including through an impactful UN Security Council Resolution,\" the White House said.'",
+            "\"The leaders emphasized the importance of a strong and united international response to North Korea's provocations, including through an impactful UN Security Council Resolution,\" the White House said.",
+            "The United States immediately condemned the launch, and the United Nations Security Council called an emergency meeting for later Sunday to discuss North Korea's latest provocation."
+        ],
+        "tf-idf score": [
+            1.2515128101275896,
+            1.2515128101275896,
+            1.2314455590285616
+        ]
+    },
+    "0.4818038138622594-3-32": {
+        "average clique similarity": 0.4818038138622594,
+        "clique": [
+            "1-Susan Rice  Presiden",
+            "2- On Friday  US Presi",
+            "0-On Friday  U S Presi"
+        ],
+        "median tf-idf score": 1.5975987679796457,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Susan Rice, President Obama's national security advisor, said that the launch using ballistic missile technology, following so closely after North Korea's fourth nuclear test, \"represents yet another destabilizing and provocative action and is a flagrant violation of multiple United Nations Security Council resolutions. \"",
+            "'On Friday, US President Barack Obama spoke by telephone with President Xi Jinping of China, North Korea''s main ally and neighbor, and agreed that a North Korean launch would represent a \"provocative and destabilizing action,\" the White House said.'",
+            "On Friday, U S President Barack Obama spoke by telephone with President Xi Jinping of China, North Korea's main ally and neighbor, and agreed that a North Korean launch would represent a \"provocative and destabilizing action,\" the White House said."
+        ],
+        "tf-idf score": [
+            1.8418713470859782,
+            1.5975987679796457,
+            1.5975987679796457
+        ]
+    },
+    "0.6124039794742776-3-89": {
+        "average clique similarity": 0.6124039794742776,
+        "clique": [
+            "0-It said coverings ob",
+            "3-North Korea says it ",
+            "2-       The hermit na"
+        ],
+        "median tf-idf score": 1.2591184454163806,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "It said coverings obscured  whether a   vehicle was present on the pad. North Korea says it has a sovereign right to pursue a space program. But it is barred under U N Security Council resolutions from using ballistic missile technology.",
+            "North Korea says it has a sovereign right to pursue a space program. But it is barred under U N Security Council resolutions from using ballistic missile technology.",
+            "'' '' 'The hermit nation, which is already under sanctions for its nuclear and missile programs, says it has a right to pursue a space program.' '' '' 'Under a UN Security Council resolution, North Korea is banned from developing any   technology.'"
+        ],
+        "tf-idf score": [
+            1.4720331720198188,
+            1.1407544359044066,
+            1.2591184454163806
+        ]
+    }
+}

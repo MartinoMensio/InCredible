@@ -1,0 +1,430 @@
+{
+    "0.2004871205370481-3-186": {
+        "average clique similarity": 0.2004871205370481,
+        "clique": [
+            "0-Defense Secretary As",
+            "3-   The Navy s initia",
+            "1-It made no reference"
+        ],
+        "median tf-idf score": 0.7090381952771934,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Defense Secretary Ash Carter said last week while visiting Central Command headquarters in Florida that the boat crews had \u201dmisnavigated\u201d.",
+            "\u2019\u201d The Navy\u2019s initial operational reports show that while on the mission, the boats deviated from their planned course on the way to refueling  \u2014   something Defense Secretary Ashton B Carter and other U S officials have previously called a \u201cnavigation error.",
+            "It made no reference to the navigation error cited by Carter last week."
+        ],
+        "tf-idf score": [
+            0.8477258113130615,
+            0.7090381952771934,
+            0.11629032125001876
+        ]
+    },
+    "0.25800335628321563-3-64": {
+        "average clique similarity": 0.25800335628321563,
+        "clique": [
+            "2-According to the acc",
+            "0-The sailors were tra",
+            "3-The sailors were det"
+        ],
+        "median tf-idf score": 1.0032792188569997,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "According to the account released by CENTCOM on Monday, one of the boats\u2019 diesel engines began to have trouble while it traveled from Kuwait to Bahrain.",
+            "The sailors were traveling in small armed vessels known as riverine command boats, headed from Kuwait to Bahrain, which is the location of the Navy\u2019s 5th Fleet.",
+            "The sailors were detained Jan. 12 off Farsi Island as they were traveling in two riverine command boats from Kuwait to Bahrain, U S military officials said."
+        ],
+        "tf-idf score": [
+            0.7739041053210621,
+            1.0032792188569997,
+            1.1714417004806916
+        ]
+    },
+    "0.28834216886909364-3-107": {
+        "average clique similarity": 0.28834216886909364,
+        "clique": [
+            "1-About 19 minutes lat",
+            "0-After an additional ",
+            "3-By 2 29 p  m  it bec"
+        ],
+        "median tf-idf score": 0.7298186191701155,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "About 19 minutes later, the naval headquarters \u201dwas advised of degraded communications with\u201d the two boats, the account added.",
+            "After an additional 26 minutes, the naval headquarters was notified of a total loss of communications with the boats.",
+            "By 2:29 p. m. it became hard to reach the U S boats, and by 2:45 U S Naval Central Command (NAVCENT) was notified that the U S military had completely lost communications with the sailors, according to a timeline of events released Monday."
+        ],
+        "tf-idf score": [
+            0.7298186191701155,
+            0.6103341893526925,
+            1.1765187556156984
+        ]
+    },
+    "0.29825351863259825-3-232": {
+        "average clique similarity": 0.29825351863259825,
+        "clique": [
+            "2-Armed Iranian milita",
+            "1-Armed Iranian milita",
+            "0-First to arrive were"
+        ],
+        "median tf-idf score": 0.7753027977280353,
+        "publications": [
+            "NPR",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "Armed Iranian military personnel boarded the two American vessels while other Iranians kept watch behind machine guns mounted on their vessels.",
+            "Armed Iranian military personnel then boarded the U S boats while other Iranian personnel aboard other armed vessels monitored the situation.",
+            "First to arrive were two small Iranian craft with armed personnel aboard."
+        ],
+        "tf-idf score": [
+            0.7753027977280353,
+            0.8787322190672031,
+            0.4814498186407765
+        ]
+    },
+    "0.3004289683506887-3-224": {
+        "average clique similarity": 0.3004289683506887,
+        "clique": [
+            "1-Some hours later  ab",
+            "0-The timeline release",
+            "2-After about 15 hours"
+        ],
+        "median tf-idf score": 0.8089570330684341,
+        "publications": [
+            "NPR",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "Some hours later, about four hours after the U S first heard that the sailors were being questioned by Iranians, the U S Navy cruiser USS Anzio received word from the Iranians that the sailors were in Iranian custody.",
+            "The timeline released Monday said the U S sailors were not mistreated during approximately 15 hours in Iranian hands.",
+            "After about 15 hours of detention, the sailors were released."
+        ],
+        "tf-idf score": [
+            0.8089570330684341,
+            0.9024571074230359,
+            0.3276483600918348
+        ]
+    },
+    "0.3835406190696668-3-31": {
+        "average clique similarity": 0.3835406190696668,
+        "clique": [
+            "3- Immediately  NAVCEN",
+            "4-Navy command launche",
+            "0-Aircraft from the US"
+        ],
+        "median tf-idf score": 0.7607573212522734,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cImmediately, NAVCENT initiated an intensive search and rescue operation using both air and naval assets including aircraft from USS Harry S Truman and the U S Air Force, and U S Coast Guard, U K Royal Navy and U S Navy surface vessels,\u201d according to the statement released Monday.",
+            "Navy command launched    operations soon after, deploying aircraft from USS Harry S Truman and nearby Navy vessels.",
+            "Aircraft from the USS Harry S Truman aircraft carrier, which was operating 45 miles southeast of Farsi Island, participated in the search, along with Air Force planes and vessels of the U S Coast Guard, the British Royal Navy and other U S Navy vessels."
+        ],
+        "tf-idf score": [
+            0.7774519366366435,
+            0.44384368970455745,
+            0.7607573212522734
+        ]
+    },
+    "0.39413677800496977-3-138": {
+        "average clique similarity": 0.39413677800496977,
+        "clique": [
+            "3- As the RCBs travel ",
+            "2-The crew began troub",
+            "0-Because the boats we"
+        ],
+        "median tf-idf score": 0.3028369994056904,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cAs the RCBs travel together, the second RCB also stopped.",
+            "The crew began troubleshooting and the second boat also stopped.",
+            "Because the boats were traveling together, the other boat also stopped."
+        ],
+        "tf-idf score": [
+            0.12944621738851161,
+            0.44074899434431314,
+            0.3028369994056904
+        ]
+    },
+    "0.39495265636568916-3-232": {
+        "average clique similarity": 0.39495265636568916,
+        "clique": [
+            "1-It said a   inventor",
+            "2-CENTCOM says there a",
+            "3-The only equipment a"
+        ],
+        "median tf-idf score": 0.8070642090448089,
+        "publications": [
+            "Talking Points Memo",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It said a   inventory of the boats found that all weapons, ammunition and communications gear was accounted for, minus two SIM cards apparently removed from two   satellite phones.",
+            "CENTCOM says there are no indications that the sailors were physically harmed by Iran and an inventory of the boats found that no weapons were missing but two SIM cards \u201dappear to have been removed from two handheld satellite phones\u201d.",
+            "The only equipment apparently taken from the boats are two digital SIM cards that were in two satellite phones, U S military officials said."
+        ],
+        "tf-idf score": [
+            0.8070642090448089,
+            0.8874143323421636,
+            0.7339180947643625
+        ]
+    },
+    "0.4135948162537844-3-20": {
+        "average clique similarity": 0.4135948162537844,
+        "clique": [
+            "4- This stop occurred ",
+            "3-  The U S military s",
+            "2- This stop occurred "
+        ],
+        "median tf-idf score": 1.0632565854957239,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cThis stop occurred in Iranian territorial waters, although it\u2019s not clear the crew was aware of their exact location,\u201d the statement said.",
+            "\u201d The U S military said Monday that a Navy investigation \u201cwill determine what caused the change in courses why the RCBs entered into Iranian territorial waters in the vicinity of Farsi Island,\u201d but it did not provide any reason for the time being.",
+            "\u201dThis stop occurred in Iranian territorial waters, although it\u2019s not clear the crew was aware of their exact location,\u201d CENTCOM said in a press release."
+        ],
+        "tf-idf score": [
+            0.9623135674344881,
+            1.1910949966942965,
+            1.0632565854957239
+        ]
+    },
+    "0.4138821725881072-3-232": {
+        "average clique similarity": 0.4138821725881072,
+        "clique": [
+            "0-Some hours later  ab",
+            "4-At 6 15 p  m  U S Na",
+            "3- At 6 15 p  m   GMT "
+        ],
+        "median tf-idf score": 0.7880502703752649,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Some hours later, about four hours after the U S first heard that the sailors were being questioned by Iranians, the U S Navy cruiser USS Anzio received word from the Iranians that the sailors were in Iranian custody.",
+            "At 6:15 p. m. U S Navy cruiser USS Anzio got word from the Iranians that the sailors were in Iranian custody and were \u201csafe and healthy.",
+            "\u201cAt 6:15 p. m. (GMT) U S Navy cruiser USS Anzio received a communication from the Iranians that the RCB Sailors were in Iranian custody and were \u2018safe and healthy."
+        ],
+        "tf-idf score": [
+            0.8089570330684341,
+            0.7050238190128715,
+            0.7880502703752649
+        ]
+    },
+    "0.4347079616342429-4-177": {
+        "average clique similarity": 0.4347079616342429,
+        "clique": [
+            "4-The U S military has",
+            "0- In its first offici",
+            "3-     The U S militar",
+            "1-WASHINGTON  AP      "
+        ],
+        "median tf-idf score": 1.270700376699579,
+        "publications": [
+            "Talking Points Memo",
+            "Fox News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The U S military has released its first official account of Iran\u2019s capture and release of 10 American sailors whose vessels entered Iranian waters in the Persian Gulf last week.",
+            " In its first official account of Iran\u2019s seizure and subsequent release of 10 U S sailors in the Persian Gulf, the U S military said Monday the only items found missing from their two recovered boats were SIM cards for two satellite phones.",
+            "     The U S military released new details on Monday about how 10 Navy sailors were taken captive briefly by the Iranian Revolutionary Guards in the Persian Gulf last week, but it remains unclear how the sailors first ended up in Iranian territorial waters before their capture.",
+            "WASHINGTON (AP)  \u2014   In its first official account of Iran\u2019s seizure and subsequent release of 10 U S sailors in the Persian Gulf, the U S military said Monday the only items found missing from their two recovered boats were SIM cards for two satellite phones."
+        ],
+        "tf-idf score": [
+            1.3128287048435927,
+            1.2538737845586077,
+            1.200739806055606,
+            1.2875269688405504
+        ]
+    },
+    "0.4714308108007472-3-6": {
+        "average clique similarity": 0.4714308108007472,
+        "clique": [
+            "3-The Navy command inv",
+            "0-The investigation wi",
+            "1- A Navy command inve"
+        ],
+        "median tf-idf score": 0.8481444192909191,
+        "publications": [
+            "Washington Post",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "The Navy command investigation will focus on the Sailors\u2019 treatment while in Iranian custody, including any interrogation by Iranian personnel.",
+            "The investigation will focus on the U S sailors\u2019 treatment while in custody, including any interrogation by Iranian personnel, the command said.",
+            "\u201dA Navy command investigation initiated Jan. 14 will provide a more complete accounting of events,\u201d Central Command said."
+        ],
+        "tf-idf score": [
+            0.8481444192909191,
+            0.9007631600793446,
+            0.5886646921081172
+        ]
+    },
+    "0.4895879461246081-5-78": {
+        "average clique similarity": 0.4895879461246081,
+        "clique": [
+            "4-  CENTCOM said armed",
+            "3- At gunpoint  the RC",
+            "2-At gunpoint  the Ame",
+            "1-At gunpoint the U S ",
+            "0-The boats were seize"
+        ],
+        "median tf-idf score": 1.0026640077390259,
+        "publications": [
+            "Talking Points Memo",
+            "Atlantic",
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d CENTCOM said armed Iranian personnel boarded the U S boats and led the sailors at gunpoint to a port facility on Farsi Island.",
+            "\u201cAt gunpoint, the RCBs were escorted to a small port facility on Farsi Island where the U S Sailors disembarked and were detained for approximately 15 hours,\u201d the U S military said.",
+            "At gunpoint, the Americans were taken to a small port facility on Farsi Island.",
+            "At gunpoint the U S boats and their crews were escorted to a small port facility on Farsi Island, where the Americans went ashore and were detained, the account said.",
+            "The boats were seized by Iran and escorted at gunpoint to Farsi Island, which is in the middle of the Gulf and home to an Iranian military facility."
+        ],
+        "tf-idf score": [
+            1.2896383243149572,
+            0.8658601431714856,
+            0.3890737107984809,
+            1.0190077626725804,
+            1.0026640077390259
+        ]
+    },
+    "0.501421437346822-3-8": {
+        "average clique similarity": 0.501421437346822,
+        "clique": [
+            "1-Central Command s na",
+            "3- NAVCENT attempted t",
+            "4-The Navy tried to co"
+        ],
+        "median tf-idf score": 1.0492702629786368,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Central Command\u2019s naval headquarters at Bahrain attempted to contact Iranian military units operating near Farsi Island by using marine radio to broadcast information about the    operation.",
+            "\u201cNAVCENT attempted to contact Iranian military units operating near Farsi Island by broadcasting information regarding their search and rescue effort over marine radio, and separately notified Iranian coast guard units via telephone about the search for their personnel,\u201d the statement released Monday said.",
+            "The Navy tried to contact Iranian military units operating near the Gulf\u2019s Farsi Island over marine radio and telephoned Iranian coast guard units."
+        ],
+        "tf-idf score": [
+            1.0492702629786368,
+            1.2726302240951666,
+            0.9031453624867628
+        ]
+    },
+    "0.5101896802133662-4-79": {
+        "average clique similarity": 0.5101896802133662,
+        "clique": [
+            "2- While the  U S boat",
+            "3-While the RCBs were ",
+            "4-CENTCOM said the sma",
+            "1-While the boats were"
+        ],
+        "median tf-idf score": 0.925575113302638,
+        "publications": [
+            "Talking Points Memo",
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dWhile the [U S boats] were stopped and the crew was attempting to evaluate the mechanical issue, Iranian boats approached the vessels\u201d.",
+            "While the RCBs were stopped and the crew was attempting to evaluate the mechanical issue, Iranian boats approached the vessels.",
+            "CENTCOM said the small boats stopped in the Gulf because of a \u201cmechanical issue in a diesel engine\u201d in one of the vessels.",
+            "While the boats were stopped and the crew was trying to assess the mechanical problem, Iranian boats approached."
+        ],
+        "tf-idf score": [
+            0.9767533501626072,
+            1.0148063608124291,
+            0.7837357307897499,
+            0.8743968764426687
+        ]
+    },
+    "0.5233470593201327-3-232": {
+        "average clique similarity": 0.5233470593201327,
+        "clique": [
+            "1-At this point they w",
+            "3-This stop occurred i",
+            "0-A      mission was u"
+        ],
+        "median tf-idf score": 0.7740955900577298,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "At this point they were in Iranian territorial waters, \u201dalthough it\u2019s not clear the crew was aware of their exact location,\u201d it added.",
+            "This stop occurred in Iranian territorial waters, although it\u2019s not clear the crew was aware of their exact location.",
+            "A      mission was undertaken at that point, but it is not clear whether the Americans had by this time already been taken ashore on Farsi Island."
+        ],
+        "tf-idf score": [
+            0.7856068235616059,
+            0.7740955900577298,
+            0.5363045940603561
+        ]
+    },
+    "0.5327101147238827-4-73": {
+        "average clique similarity": 0.5327101147238827,
+        "clique": [
+            "3-The boats were expec",
+            "0-The timeline said th",
+            "4-They were scheduled ",
+            "1-The timeline said th"
+        ],
+        "median tf-idf score": 1.2369827663157005,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The boats were expected to receive additional fuel alongside the Coast Guard cutter Monomoy in international waters around 2 p. m. At about a 2:10 p. m. Navy officials received a report that the sailors were being approached by the Iranians.",
+            "The timeline said that approximately 10 minutes after the scheduled refueling, Central Command\u2019s naval headquarters at Bahrain received a report that the boats were being questioned by Iranians.",
+            "They were scheduled to stop and refuel alongside the U S Coast Guard Cutter Monomoy at about 2 p. m. But at approximately 2:10 p. m. Navy command received a report that the sailors were being questioned by Iranians.",
+            "The timeline said that approximately 10 minutes after the scheduled refueling, Central Command\u2019s naval headquarters at Bahrain received a report that the boats\u2019 crew members were being questioned by Iranians."
+        ],
+        "tf-idf score": [
+            1.2420559148658223,
+            1.2319096177655786,
+            0.9779069711278022,
+            1.3261700989956517
+        ]
+    }
+}

@@ -1,0 +1,538 @@
+{
+    "0.18892561128553795-3-155": {
+        "average clique similarity": 0.18892561128553795,
+        "clique": [
+            "4-By the time Biles s ",
+            "2-Read  Biles to domin",
+            "1-The gold medal was B"
+        ],
+        "median tf-idf score": 1.0034318950259755,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "By the time Biles\u2019s group began its final event, gold was as good as hers.",
+            "Read: Biles to dominate in Rio,  Biles, already an OIympic champion after leading the \u201dFinal Five\u201d to gold in the team event, was briefly challenged by European champion Mustafina.",
+            "The gold medal was Biles\u2019s second of the Rio Games, coming 48 hours after she had led the   U S squad to team gold by a staggering   margin over   Russia."
+        ],
+        "tf-idf score": [
+            0.7968372535045094,
+            1.0552597386749873,
+            1.0034318950259755
+        ]
+    },
+    "0.1919750676790931-3-36": {
+        "average clique similarity": 0.1919750676790931,
+        "clique": [
+            "2-Biles could still wi",
+            "3-She and Raisman join",
+            "4-The win gave Biles h"
+        ],
+        "median tf-idf score": 0.8523397142334959,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Biles could still win three more gold medals before the Games with the teenager set to challenge in the beam, vault and floor.",
+            "She and Raisman joined Nastia Liukin and Shawn Johnson in 2008 as the only U S gymnasts to win gold and silver in the same Olympic final.",
+            "The win gave Biles her second gold medal of these Olympics, and secured her place in the pantheon of the greatest gymnasts that the sport has ever seen."
+        ],
+        "tf-idf score": [
+            0.8523397142334959,
+            0.6318657065583462,
+            0.887401474176373
+        ]
+    },
+    "0.19409426517195283-3-90": {
+        "average clique similarity": 0.19409426517195283,
+        "clique": [
+            "1-At Rio Olympic Arena",
+            "3-A   Olympic medalist",
+            "0-A portion of her flo"
+        ],
+        "median tf-idf score": 0.5045189575583199,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "At Rio Olympic Arena on Thursday, Biles invited a raucous crowd in the stands and millions of viewers at home to her Olympic party, which concluded with a floor exercise routine that exploded with   acrobatics and radiated complete abandon.",
+            "A   Olympic medalist in London, Raisman appeared to be on the outside of the picture looking in after a shaky performance at the world championships that left her \u201cdevastated.",
+            "A portion of her floor exercise routine    the one that includes her signature tumbling pass    is set to Brazilian music that would fit right at home in the street right outside Olympic Park."
+        ],
+        "tf-idf score": [
+            0.9379121141674647,
+            0.5019918591322833,
+            0.5045189575583199
+        ]
+    },
+    "0.20558067655941845-3-0": {
+        "average clique similarity": 0.20558067655941845,
+        "clique": [
+            "3-One last test awaite",
+            "0-Biles soared to the ",
+            "4-With one great perfo"
+        ],
+        "median tf-idf score": 0.5630184448581116,
+        "publications": [
+            "New York Post",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "One last test awaited in Rio, a contest not so much between Biles and the rest of the field but between herself and the outsized expectations her dominance has created.",
+            "Biles soared to the   title on Thursday night, putting the gap between herself and everyone else on full display for the whole world to see.",
+            "With one great performance, Mustafina closed the gap between her and the Americans, and briefly took the lead."
+        ],
+        "tf-idf score": [
+            0.5942530439634434,
+            0.5630184448581116,
+            0.21691147805517763
+        ]
+    },
+    "0.2110795287480617-3-19": {
+        "average clique similarity": 0.2110795287480617,
+        "clique": [
+            "2-Yes  there was a mom",
+            "0-Suddenly Biles was a",
+            "1-  Raisman was just a"
+        ],
+        "median tf-idf score": 0.5867824194226083,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Yes, there was a moment where she seemed human    her routine on the bar was below her best    but even that is beyond most.",
+            "Suddenly Biles was alone in the spotlight, the normally giggly teenager fighting back tears as she waved to the family that raised her, the coaches that molded her and the sport she is redefining.",
+            "\u201d Raisman was just as overjoyed with her silver and burst into tears almost the moment she threw her hands up to signal the end of a tremendous floor routine that clinched her finish."
+        ],
+        "tf-idf score": [
+            0.3154132410113375,
+            0.7606387853778975,
+            0.5867824194226083
+        ]
+    },
+    "0.21832881135671142-3-275": {
+        "average clique similarity": 0.21832881135671142,
+        "clique": [
+            "4-Watch  Simone Biles ",
+            "0-Then again  doing th",
+            "3-Five trips to the to"
+        ],
+        "median tf-idf score": 0.5746100037569759,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Watch: Simone Biles is the gymnastics gold standard",
+            "Then again, doing things gymnastics has never seen is what Biles does best.",
+            "Five trips to the top of the podium in one games is something gymnastics has never seen."
+        ],
+        "tf-idf score": [
+            0.6020678283665257,
+            0.5746100037569759,
+            0.2335501815330637
+        ]
+    },
+    "0.24013039885816348-3-56": {
+        "average clique similarity": 0.24013039885816348,
+        "clique": [
+            "2-Biles took gold ahea",
+            "1-After briefly ceding",
+            "4-Biles s teammate Aly"
+        ],
+        "median tf-idf score": 0.9455944575560579,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Biles took gold ahead of US teammate Aly Raisman and Russia\u2019s Aliya Mustafina after finishing off with a dazzling floor routine.",
+            "After briefly ceding the lead midway through the competition on her weakest event, the uneven bars, Biles charged back to claim Olympic   gold, her sport\u2019s most coveted prize, by more than two points over her U S teammate and role model Aly Raisman, who took silver.",
+            "Biles\u2019s teammate Aly Raisman nabbed the silver with a 60."
+        ],
+        "tf-idf score": [
+            0.9455944575560579,
+            1.1758030652465423,
+            0.5252770931007487
+        ]
+    },
+    "0.2538942488480774-3-64": {
+        "average clique similarity": 0.2538942488480774,
+        "clique": [
+            "0-And now  finally  an",
+            "3-Biles belongs to the",
+            "2-I just have two Olym"
+        ],
+        "median tf-idf score": 0.32544329010695555,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "And now, finally, an Olympic champion.",
+            "Biles belongs to the world now.",
+            "I just have two Olympic gold medals now."
+        ],
+        "tf-idf score": [
+            0.19072727913412718,
+            0.4344047053898298,
+            0.32544329010695555
+        ]
+    },
+    "0.26639579242864675-3-311": {
+        "average clique similarity": 0.26639579242864675,
+        "clique": [
+            "0-She and Raisman join",
+            "1- U S women s gymnast",
+            "2-Her triumph makes he"
+        ],
+        "median tf-idf score": 0.6318657065583462,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "She and Raisman joined Nastia Liukin and Shawn Johnson in 2008 as the only U S gymnasts to win gold and silver in the same Olympic final.",
+            "[U S women\u2019s gymnasts place their names in history with Olympic team gold]  Biles made history for the United States, too, which became the first country to win four consecutive   Olympic golds in women\u2019s gymnastics  \u2014   a streak that started with Carly Patterson in 2004 and was continued by Nastia Liukin in 2008 and Gabby Douglas in 2012.",
+            "Her triumph makes her the fourth American in succession to win the title    following the successes of Carly Patterson, Nastia Liukin and Gabby Douglas    which is the longest winning streak by a country in the Olympic discipline."
+        ],
+        "tf-idf score": [
+            0.6318657065583462,
+            1.2769859211831385,
+            0.5407211335768558
+        ]
+    },
+    "0.28398785063331794-4-83": {
+        "average clique similarity": 0.28398785063331794,
+        "clique": [
+            "4- Simone is so good t",
+            "3- To me I m just the ",
+            "2- Every emotion hit m",
+            "0- To me I m just the "
+        ],
+        "median tf-idf score": 0.16954679918196908,
+        "publications": [
+            "Vox",
+            "New York Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dSimone is so good that the Olympics have become boring,\u201d Dave Lease, the editor of TSL, a figure skating and gymnastics news website, told me.",
+            "\u201cTo me I\u2019m just the same Simone   \u2026     But I feel the same.",
+            "\u201dEvery emotion hit me at once so I was just kind of a train wreck,\u201d Biles told reporters.",
+            "\u201dTo me I\u2019m just the same Simone ."
+        ],
+        "tf-idf score": [
+            0.22968847799642242,
+            0.10940512036751576,
+            0.6000978248553286,
+            0.0630173922939427
+        ]
+    },
+    "0.30541336237286104-3-311": {
+        "average clique similarity": 0.30541336237286104,
+        "clique": [
+            "1-Russia s Aliya Musta",
+            "0-198 was well clear o",
+            "4-098  and Russia s Al"
+        ],
+        "median tf-idf score": 0.1950779768271398,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "Russia\u2019s Aliya Mustafina took a distant bronze.",
+            "198 was well clear of Raisman, who finished her remarkable comeback with a silver medal, and Russia\u2019s Aliya Mustafina.",
+            "098, and Russia\u2019s Aliya Mustafina won the bronze with a 58."
+        ],
+        "tf-idf score": [
+            0.1950779768271398,
+            0.5619440119099585,
+            0.15517060289162288
+        ]
+    },
+    "0.30601047268327863-3-139": {
+        "average clique similarity": 0.30601047268327863,
+        "clique": [
+            "4-433 on the beam afte",
+            "3-Effortless on beam ",
+            "0-433 on beam    and c"
+        ],
+        "median tf-idf score": 0.07555893058668534,
+        "publications": [
+            "New York Post",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "433 on the beam after nailing her dismount (watch Biles\u2019s beam routine at NBC) a   double back.",
+            "Effortless on beam.",
+            "433 on beam    and capped it with a 15."
+        ],
+        "tf-idf score": [
+            0.5140780518180392,
+            0.07555893058668534,
+            0.0751127486147097
+        ]
+    },
+    "0.3485365234115736-4-96": {
+        "average clique similarity": 0.3485365234115736,
+        "clique": [
+            "0-Balance beam and flo",
+            "3-Balance beam and flo",
+            "4-But in the 2016 Olym",
+            "1-With two golds drape"
+        ],
+        "median tf-idf score": 0.8065651392238081,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Balance beam and floor exercise    where Biles is the defending world champion    lay in wait.",
+            "Balance beam and floor exercise  \u2014   where Biles is the defending world champion  \u2014   lay in wait.",
+            "But in the 2016 Olympic women\u2019s   finals it was another event, the balance beam, that proved how talented Biles is and showcased the gifts you may not notice during one of her trademark   tumbling passes.",
+            "With two golds draped around her neck, Biles has a chance for three more in the coming week, when she competes in the event finals of vault, balance beam and floor exercise."
+        ],
+        "tf-idf score": [
+            0.722642377304848,
+            0.722642377304848,
+            0.8904879011427682,
+            1.004597033825747
+        ]
+    },
+    "0.42664024058532907-3-57": {
+        "average clique similarity": 0.42664024058532907,
+        "clique": [
+            "0-She arrived in Brazi",
+            "3-She arrived in Brazi",
+            "1-She will never doubl"
+        ],
+        "median tf-idf score": 0.4977050772269751,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "She arrived in Brazil with 14 world championship medals    10 of them gold    with routines astonishing in their mix of ambition and precision.",
+            "She arrived in Brazil with 14 world championship medals  \u2014   10 of them gold  \u2014   with routines astonishing in their mix of ambition and precision.",
+            "She will never double over with exhaustion, tongue dangling, between routines."
+        ],
+        "tf-idf score": [
+            0.4977050772269751,
+            0.4977050772269751,
+            0.10668250949387474
+        ]
+    },
+    "0.4290673153675271-3-145": {
+        "average clique similarity": 0.4290673153675271,
+        "clique": [
+            "2-I feel like I did my",
+            "3- It doesn t even fee",
+            "0- It doesn t even fee"
+        ],
+        "median tf-idf score": 0.4429527136269944,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "I feel like I did my job tonight\u201d.",
+            "\u201cIt doesn\u2019t even feel real,\u201d Biles said.",
+            "\u201dIt doesn\u2019t even feel real,\u201d Biles said."
+        ],
+        "tf-idf score": [
+            0.12716836216283015,
+            0.4429527136269944,
+            0.4429527136269944
+        ]
+    },
+    "0.42996640370459627-3-60": {
+        "average clique similarity": 0.42996640370459627,
+        "clique": [
+            "0-One that she does be",
+            "1-  RIO DE JANEIRO    ",
+            "3-  One that she does "
+        ],
+        "median tf-idf score": 0.05517053352166682,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "One that she does better than anyone else.",
+            "  RIO DE JANEIRO  \u2014   If there\u2019s a quibble to make with Simone Biles, it\u2019s that she competes with such joy and such weightless effervescence that she does herself a disservice, in a way, by making gymnastics look so easy.",
+            "\u201d One that she does better than anyone else."
+        ],
+        "tf-idf score": [
+            0.05517053352166682,
+            0.7210055134585339,
+            0.05517053352166682
+        ]
+    },
+    "0.43210434729377645-3-272": {
+        "average clique similarity": 0.43210434729377645,
+        "clique": [
+            "1-You won t catch her ",
+            "0- I told her before t",
+            "3- I told her before t"
+        ],
+        "median tf-idf score": 0.2902761056500952,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "You won\u2019t catch her grimacing.",
+            "\u201dI told her before today, I want you to win and I want second,\u201d Raisman said.",
+            "\u201cI told her before today, I want you to win and I want second,\u201d Raisman said."
+        ],
+        "tf-idf score": [
+            0.025452867969691213,
+            0.2902761056500952,
+            0.2902761056500952
+        ]
+    },
+    "0.4549019916557331-3-114": {
+        "average clique similarity": 0.4549019916557331,
+        "clique": [
+            "3-When the floor exerc",
+            "2-By the time she left",
+            "0-When the floor exerc"
+        ],
+        "median tf-idf score": 1.0586701608060352,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "When the floor exercise judges validated what Raisman and every other gymnast has known for years  \u2014   that Biles is the greatest of her generation and perhaps of all time  \u2014   the U S Olympic team captain let her good friend go.",
+            "By the time she left the floor after recording the highest score of the night, 15.",
+            "When the floor exercise judges validated what Raisman and every other gymnast has known for years    that Biles is the greatest of her generation and perhaps of all time    the U S Olympic team captain let her good friend go."
+        ],
+        "tf-idf score": [
+            1.0586701608060352,
+            0.21678261029930815,
+            1.0586701608060352
+        ]
+    },
+    "0.4554198798341116-3-199": {
+        "average clique similarity": 0.4554198798341116,
+        "clique": [
+            "0-Yet there she was 10",
+            "3-  Yet there she was ",
+            "4-Thanks to Biles s hi"
+        ],
+        "median tf-idf score": 0.7886798722191158,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "Yet there she was 10 months later, standing on the podium with her fifth Olympic medal around her neck, the    called \u201dgrandma\u201d by her teammates having the last laugh and getting a measure of revenge after losing bronze in the 2012   final to Mustafina on a tiebreaker.",
+            "\u201d Yet there she was 10 months later, standing on the podium with her fifth Olympic medal around her neck, the    called \u201cgrandma\u201d by her teammates having the last laugh and getting a measure of revenge after losing bronze in the 2012   final to Mustafina on a tiebreaker.",
+            "Thanks to Biles\u2019s high starting values (as determined by the difficulty in her routine) there was no way for Mustafina to catch her."
+        ],
+        "tf-idf score": [
+            0.7886798722191158,
+            0.7886798722191158,
+            0.6845887725157811
+        ]
+    },
+    "0.457126016721156-3-161": {
+        "average clique similarity": 0.457126016721156,
+        "clique": [
+            "3- I knew going into t",
+            "2- Everything was goin",
+            "0- I knew going into t"
+        ],
+        "median tf-idf score": 0.4649313875439692,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cI knew going into tonight I was going to get the silver medal because I was going to hit four events.",
+            "\u201dEverything was going through my head but mainly it was like I had finally done it and when that hits you, you can\u2019t really stop the emotions\u201d.",
+            "\u201dI knew going into tonight I was going to get the silver medal because I was going to hit four events\u201d."
+        ],
+        "tf-idf score": [
+            0.4649313875439692,
+            0.35327443477872433,
+            0.4649313875439692
+        ]
+    },
+    "0.4841480348659026-3-25": {
+        "average clique similarity": 0.4841480348659026,
+        "clique": [
+            "3- It made me not thin",
+            "2- To me  I m just the",
+            "0- It made me not thin"
+        ],
+        "median tf-idf score": 0.20641587897318667,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cIt made me not think about things too much and made me more confident,\u201d Raisman said.",
+            "\u201dTo me, I\u2019m just the same Simone.",
+            "\u201dIt made me not think about things too much and made me more confident,\u201d Raisman said."
+        ],
+        "tf-idf score": [
+            0.20641587897318667,
+            0.0630173922939427,
+            0.20641587897318667
+        ]
+    },
+    "0.5037326492619341-3-234": {
+        "average clique similarity": 0.5037326492619341,
+        "clique": [
+            "0-That s because gold ",
+            "2-I m just Simone Bile",
+            "3-  That s because gol"
+        ],
+        "median tf-idf score": 0.5940741464943107,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "That\u2019s because gold has been out of reach for everyone but Biles for three years and counting.",
+            "I\u2019m just Simone Biles, but it\u2019s amazing to be recognized for all of this success for myself and for team USA,\u201d she added.",
+            "\u201d That\u2019s because gold has been out of reach for everyone but Biles for three years and counting."
+        ],
+        "tf-idf score": [
+            0.5940741464943107,
+            0.540769903019127,
+            0.5940741464943107
+        ]
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "0.2109486628629023-3-118": {
+        "average clique similarity": 0.2109486628629023,
+        "clique": [
+            "4-The sheriff said tha",
+            "3-Investigators have s",
+            "0-Authorities describe"
+        ],
+        "median tf-idf score": 1.2456540980959523,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "The sheriff said that he did not yet know who the captor or captors were, what the motive was or where Papini had been held these three weeks. He released few details, explaining it is an ongoing police investigation, and he asked the media to respect the family's privacy at this time.",
+            "Investigators have spoken with Papini but hoped to get more information soon in the effort to uncover what had happened over the last three weeks, Bosenko said. They did not have information on where she was kept or if the abduction was planned or impulsive.",
+            "Authorities described the mom's suspected captors only as two Hispanic women in a   SUV Bosenko, the sheriff of Shasta County where Papini disappeared, said he is working to get additional information on the vehicle to help identify the alleged  abductors."
+        ],
+        "tf-idf score": [
+            1.2624254704844347,
+            1.11585377969389,
+            1.2456540980959523
+        ]
+    },
+    "0.21465046222166825-3-78": {
+        "average clique similarity": 0.21465046222166825,
+        "clique": [
+            "1-Papini was found in ",
+            "4-   Sherri Papini   S",
+            "0-The California mom w"
+        ],
+        "median tf-idf score": 0.7146108755684734,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Papini was found in Yolo County, California, about 140 miles from the Mountain Gate trail where she was last seen.",
+            "   Sherri Papini. (Shasta County Sheriff's Office)  A Northern California woman who was apparently abducted earlier this month during a   jog was found Thanksgiving Day, when she was released by her captor on a rural road in Yolo County, authorities said.",
+            "The California mom who   after she   was \"very emotional\" when found, officials said Friday."
+        ],
+        "tf-idf score": [
+            0.7146108755684734,
+            1.5367356750440375,
+            0.6877459669221719
+        ]
+    },
+    "0.21491418120117212-3-142": {
+        "average clique similarity": 0.21491418120117212,
+        "clique": [
+            "1- The facts as they a",
+            "4-There is sensitive i",
+            "2- We do not know who "
+        ],
+        "median tf-idf score": 0.6992458162201601,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"The facts as they are being relayed to us now, this is a very, very rare case,\" he told CNN on Friday. Investigators will \"have a lot of questions for this victim and, if she spent 21 days with her abductors, I think we can expect that she must have some more information about them that we just don't know yet,\" Cevallos said.",
+            "There is sensitive information that is being withheld at this time  --   I'm not able to put out. And please respect this until such time when we're able to make an arrest and bring these criminals to justice in Sherri's abduction. \" Bosenko said law enforcement officers are \"overjoyed\" that Papini is home. \"This investigation has not only touched our entire community,\" he said, \"but has circulated the nation as well. \"",
+            "\"We do not know who the captors are,\" he said. \"We do not have a motive at this time. \""
+        ],
+        "tf-idf score": [
+            0.6992458162201601,
+            1.21353696077704,
+            0.34493617577922453
+        ]
+    },
+    "0.22270608703118092-3-46": {
+        "average clique similarity": 0.22270608703118092,
+        "clique": [
+            "2-The site has been ta",
+            "0-Papini was found abo",
+            "1-It was down the stre"
+        ],
+        "median tf-idf score": 0.8785305950930864,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "The site has been taken down since Papini was found, and authorities don't believe it ultimately influenced her Thursday release.. Do you see the yellow balloons? It was for #SherriPapini.",
+            "Papini was found about 150 miles from where she was taken when she flagged down a motorist, authorities said.",
+            "It was down the street from their home. \"That's when I knew she had been taken or abducted, in my opinion,\" he told the station."
+        ],
+        "tf-idf score": [
+            0.8785305950930864,
+            0.9225860117406551,
+            0.5668015872537002
+        ]
+    },
+    "0.23035628513611373-3-12": {
+        "average clique similarity": 0.23035628513611373,
+        "clique": [
+            "3-A woman who was kidn",
+            "2- A    mother of two ",
+            "0-Highway patrol offic"
+        ],
+        "median tf-idf score": 1.0645181230663705,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "A woman who was kidnapped and held captive for three weeks after leaving her northern California home to jog was found safe on the side of a rural road bound in restraints, a local sheriff said Friday.",
+            " A    mother of two who was found in restraints near a highway in California on Thanksgiving Day after disappearing on Nov. 2 was \"emotional\" but elated to be free, the local sheriff said.",
+            "Highway patrol officers put Sherri Papini on the phone with her husband minutes after she was discovered bound near Interstate 5 in Yolo County, Calif. since going missing three weeks ago."
+        ],
+        "tf-idf score": [
+            1.0645181230663705,
+            0.9957629634464875,
+            1.1306088168921145
+        ]
+    },
+    "0.2550051631036612-3-85": {
+        "average clique similarity": 0.2550051631036612,
+        "clique": [
+            "2-On Thursday  Sherri ",
+            "3-Authorities were loo",
+            "4- We are ecstatic to "
+        ],
+        "median tf-idf score": 1.1414386663930425,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "On Thursday, Sherri Papini told authorities that she had been taken by two Latino women armed with a handgun, and who drove a   SUV, Sheriff Tom Bosenko said.",
+            "Authorities were looking for two armed women they believe abducted Sherri Papini, 34, on 2 November, Shasta County sheriff Tom Bosenko said in an interview on Good Morning America.",
+            "\"We are ecstatic to report that Sherri Papini has been located and has been reunited with her family on this day of Thanksgiving,\" Shasta County Sheriff Tom Bosenko told reporters Thursday during a news conference."
+        ],
+        "tf-idf score": [
+            1.1414386663930425,
+            1.1720296176099236,
+            1.1288735306105493
+        ]
+    },
+    "0.26282232959541957-3-65": {
+        "average clique similarity": 0.26282232959541957,
+        "clique": [
+            "4-Papini had suffered ",
+            "3-Papini was treated a",
+            "2-After authorities ar"
+        ],
+        "median tf-idf score": 0.9898092414381852,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Papini had suffered injuries, Bosenko said, though he would not say what the injuries were or exactly how she was restrained; she was taken to an undisclosed hospital for treatment, he said.",
+            "Papini was treated at a   hospital for unspecified injuries and released. Officials said they were not aware of a motive for the kidnapping and did not know if Papini knew the women who kidnapped her.",
+            "After authorities arrived, she was taken to a hospital for treatment and released."
+        ],
+        "tf-idf score": [
+            0.9898092414381852,
+            1.0360506546487511,
+            0.4854723153476073
+        ]
+    },
+    "0.28728242404047144-3-108": {
+        "average clique similarity": 0.28728242404047144,
+        "clique": [
+            "0- The investigation i",
+            "4-The sheriff said Pap",
+            "1-Many questions still"
+        ],
+        "median tf-idf score": 1.1081532519225956,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"The investigation is far from over. '' Papini, a    mother of two, disappeared on Nov. 2 after she left her Redding home to go on a jog. Her husband, Keith, reported her missing when she failed to pick up their kids, ages 2 and 4, from day care. Investigators later found her cellphone, earbuds and a few strands of her hair along a rural road.",
+            "The sheriff said Papini, from the Redding area, had gone for a   jog Nov. 2 while her husband, Keith, was at work; when she did not pick up her children from day care or return home that evening, her husband started to worry.",
+            "Many questions still, On Thanksgiving Day, Sherri's husband Keith    who had made a teary public appeal for her return    was at at his wife's side. But questions remain about what happened to the    mother of two since her disappearance on November 2. Did she know her  abductors?"
+        ],
+        "tf-idf score": [
+            1.1081532519225956,
+            1.3738005925750822,
+            0.8888587131827517
+        ]
+    },
+    "0.2949919812435248-3-63": {
+        "average clique similarity": 0.2949919812435248,
+        "clique": [
+            "2-Papini disappeared a",
+            "1-Where was she held ",
+            "3-She was found about "
+        ],
+        "median tf-idf score": 0.41502177155507014,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Papini disappeared after going for a jog near her home in Redding, more than 100 miles north of the roadside where she was found Thursday.",
+            "Where was she held?",
+            "She was found about 150 miles south of where she disappeared in Redding."
+        ],
+        "tf-idf score": [
+            0.8572972320067707,
+            0.31379799683768533,
+            0.41502177155507014
+        ]
+    },
+    "0.29995587397532036-3-142": {
+        "average clique similarity": 0.29995587397532036,
+        "clique": [
+            "4-According to the GoF",
+            "2-Her husband discover",
+            "3-Her husband reported"
+        ],
+        "median tf-idf score": 0.9472191915792508,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "According to the GoFundMe page: Keith reported to deputies that upon his arrival home from work, he was not able to locate Sherri or their two children. Keith learned that the children had not been picked up from day care as customary and subsequently checked his find my   app and located Sherri's phone near the intersection of Old Oregon Trail and Sunrise Drive in Redding.",
+            "Her husband discovered she had gone missing when she didn't pick up their two children from daycare. Using the Find My iPhone app, he found her cell phone and ear buds about a mile from their home. Strands of hair were on the earbuds, and authorities described her as an   missing person.",
+            "Her husband reported her missing when she failed to pick up their two young children from daycare, something her family members said was completely out of character, according to the Sacramento Bee."
+        ],
+        "tf-idf score": [
+            1.0427993759608392,
+            0.6122487192837898,
+            0.9472191915792508
+        ]
+    },
+    "0.3136472579175282-3-100": {
+        "average clique similarity": 0.3136472579175282,
+        "clique": [
+            "3-30am on Thanksgiving",
+            "2-The Shasta County Sh",
+            "1-Bosenko said Papini "
+        ],
+        "median tf-idf score": 1.0760067720997215,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "30am on Thanksgiving morning near Interstate 5 and was able to flag down a driver, Bosenko said. The driver called authorities, who connected the mother of two to her husband by cellphone.",
+            "The Shasta County Sheriff's Office said Sherri Papini was able to flag down a driver outside the city of Yolo around 4:30 a. m. Thursday, bound with restraints and injured.",
+            "Bosenko said Papini \"was released by her captor on a rural road near  ."
+        ],
+        "tf-idf score": [
+            1.0760067720997215,
+            1.3255505955246063,
+            1.0319064059120504
+        ]
+    },
+    "0.36776144370604763-3-142": {
+        "average clique similarity": 0.36776144370604763,
+        "clique": [
+            "0- She was bound with ",
+            "1-   She was bound wit",
+            "4-Police said Sherri P"
+        ],
+        "median tf-idf score": 0.8969377464534469,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"She was bound with restraints but was able to summon help by a passing motorist who then notified law enforcement,'' Bosenko said.",
+            ".. She was bound with restraints but was able to summon help from a passing motorist\".",
+            "Police said Sherri Papini, 34, who was bound in restraints, flagged down a passing motorist, who immediately alerted law enforcement."
+        ],
+        "tf-idf score": [
+            0.8969377464534469,
+            0.4995074212324353,
+            1.075193085578324
+        ]
+    },
+    "0.4080327827173486-3-126": {
+        "average clique similarity": 0.4080327827173486,
+        "clique": [
+            "2-Bosenko said Papini ",
+            "0- Obviously she was e",
+            "3- Obviously she was e"
+        ],
+        "median tf-idf score": 1.1193818819199173,
+        "publications": [
+            "New York Post",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Bosenko said Papini had been released by her captors, but it was not known why. He asked for anyone with information to contact police so those involved could be brought to justice.",
+            "\"Obviously she was emotional and quite upset but elated to be freed, and so we were able to get some information from her. Then in the days following this, we will be following up with her,'' he said.",
+            "\"Obviously she was emotional and quite upset, but elated to be freed, and so we were able to get some information from her,\" Bosenko said. \"Then, in the days following this, we will be following up with her. \" Family members previously called her a \"super mom\" who would never abandon her family."
+        ],
+        "tf-idf score": [
+            1.1193818819199173,
+            0.8743512381922495,
+            1.1671880769772087
+        ]
+    },
+    "0.4596436533773168-3-43": {
+        "average clique similarity": 0.4596436533773168,
+        "clique": [
+            "4-Bosenko did not elab",
+            "2- Even though Sherri ",
+            "1- The investigation i"
+        ],
+        "median tf-idf score": 0.6974945866120545,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Bosenko did not elaborate on the women's relationship to the case. \"Even though Sherri has been located and reunited with her family, this investigation is far from over; this has only begun a new chapter in the investigation,\" Bosenko said. \"As details come to the surface, we will work to keep the public informed.",
+            "\"Even though Sherri has been located and reunited with her family, this investigation is far from over,\" he said.",
+            "\"The investigation is far from over,\" Shasta County Sheriff Tom Bosenko said. \"In fact, it has only begun a new chapter\"."
+        ],
+        "tf-idf score": [
+            0.8954116456662511,
+            0.5801871408501347,
+            0.6974945866120545
+        ]
+    },
+    "0.48672860108346616-3-53": {
+        "average clique similarity": 0.48672860108346616,
+        "clique": [
+            "4-He met her at the ho",
+            "3- She was very emotio",
+            "0- Of course she was v"
+        ],
+        "median tf-idf score": 0.9180001530061117,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "He met her at the hospital, where he has been \"at his wife's side,\" Bosenko said. When asked by reporters how Papini is doing, Bosenko said, \"Obviously she is very relieved to be returned home safely and be reunited with her husband. \"",
+            "\"She was very emotional to be released and hear her husband's voice and then a few hours later to be reunited with him,\" the sheriff said.",
+            "\"Of course she was very emotional to be released and hear her husband's voice and then a few hours later to be reunited with him,\" Sheriff Tom Bosenko  ."
+        ],
+        "tf-idf score": [
+            0.9436880881559981,
+            0.9180001530061117,
+            0.8529857333541712
+        ]
+    }
+}

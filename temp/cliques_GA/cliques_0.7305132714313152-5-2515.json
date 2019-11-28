@@ -1,0 +1,710 @@
+{
+    "0.10736805368569162-3-116": {
+        "average clique similarity": 0.10736805368569162,
+        "clique": [
+            "2-At 57  Pence is more",
+            "4-Pence s  safe  style",
+            "3-Here s what you need"
+        ],
+        "median tf-idf score": 0.6268604033877887,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Breitbart"
+        ],
+        "sentences": [
+            "At 57, Pence is more experienced than Quayle.",
+            "Pence's \"safe\" style would also give Trump more room to keep \"being Trump. \"",
+            "Here's what you need to know about Pence. (Peter Stevenson, Danielle Kunitz, Osman   Washington Post)   Pence was among the safer choices on Trump's short list, in part because there were few options more different than Trump himself."
+        ],
+        "tf-idf score": [
+            0.42668805346923594,
+            0.6268604033877887,
+            0.8676761114726468
+        ]
+    },
+    "0.11515764988994716-3-21": {
+        "average clique similarity": 0.11515764988994716,
+        "clique": [
+            "4-The governor of the ",
+            "0-Consideration of Pen",
+            "3-But their 2016 invol"
+        ],
+        "median tf-idf score": 0.6145018116262988,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The governor of the Crossroads of America also has a comprehensive knowledge of agriculture, natural resources, and a host of issues with which Trump is less familiar, and has earned a perfect rating from the National Rifle Association.",
+            "Consideration of Pence also put Trump on the clock.",
+            "But their 2016 involvement could change with Pence by Trump's side: The resumes of several of Pence's top aides also include stints with the Koch brothers' vast corporate and political networks."
+        ],
+        "tf-idf score": [
+            0.4978255208987216,
+            0.6145018116262988,
+            0.7386414353804907
+        ]
+    },
+    "0.13359892011089233-3-321": {
+        "average clique similarity": 0.13359892011089233,
+        "clique": [
+            "3-One of Pence s forme",
+            "1-And we were working ",
+            "0-Chris Christie and f"
+        ],
+        "median tf-idf score": 1.059717177053273,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "One of Pence's former advisers told NBC that even before the 2010 summer of discontent between conservatives and the establishment, Pence was tuned into the populist strain of the party.",
+            "And we were working through the day and into the night last night with legislative leaders to consider ways to do that\". Although his running mate has denied his own early support of the Iraq War, Pence was in Congress at the time and voted in favor of authorizing the use of force in Iraq.",
+            "Chris Christie and former House Speaker Newt Gingrich, among others. The selection of Pence, who went from dark horse to leading contender in a matter of days, presumably is aimed at galvanizing support from the party's conservative base as Trump charges into the Republican nominating convention."
+        ],
+        "tf-idf score": [
+            0.7467396002641739,
+            1.059717177053273,
+            1.097826330401664
+        ]
+    },
+    "0.13620740273907608-3-130": {
+        "average clique similarity": 0.13620740273907608,
+        "clique": [
+            "0-News conference tomo",
+            "4-As a candidate  and ",
+            "2-He enacted one of In"
+        ],
+        "median tf-idf score": 0.6930173247674717,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "News conference tomorrow at 11:00 A M Pence responded that he was \"honored\". Honored to join @realDonaldTrump and work to make America great again.",
+            "As a candidate, and later as vice president, Pence would know that there is only one head of state and    at any one time, and would make sure that President Trump owns the stage that belongs to that office, and to the nominee seeking that office during the election season.",
+            "He enacted one of Indiana's largest cuts to state income tax, and briefly tried to create a   news outlet that would make stories available to local newspapers."
+        ],
+        "tf-idf score": [
+            0.6930173247674717,
+            0.9035353851002155,
+            0.3139418868614099
+        ]
+    },
+    "0.1395993257092475-3-62": {
+        "average clique similarity": 0.1395993257092475,
+        "clique": [
+            "4-He denounced an    f",
+            "0-While in Congress  h",
+            "3-While in Congress  h"
+        ],
+        "median tf-idf score": 0.43190864390021544,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "He denounced an    federal government and Barack Obama's imperial presidency, and the Tea Party crowd loved it. On taxes, in Congress Pence called for abolishing the current income tax system in favor of a flat tax, under which all Americans would receive a standard deduction and additional credit or exemption for children, and beyond that all Americans would pay the same percentage in taxes.",
+            "While in Congress, he opposed President George W Bush's No Child Left Behind policy, warning it would grow the federal government. In 2006, he unveiled a \"no amnesty\" immigration plan that called for increased border security and other measures but it did not pass. He also pushed to cut off federal funding to Planned Parenthood and opposed closing the Guantanamo Bay detention camp.",
+            "While in Congress, he voted against big spending bills that the tea party would come to loathe. 5. He endorsed Ted Cruz for president."
+        ],
+        "tf-idf score": [
+            0.7565926769609711,
+            0.43190864390021544,
+            0.2755988352387732
+        ]
+    },
+    "0.14766211595236992-3-6": {
+        "average clique similarity": 0.14766211595236992,
+        "clique": [
+            "0-The usual clamoring ",
+            "1-And     and this cam",
+            "4-Trump s Signature Is"
+        ],
+        "median tf-idf score": 0.521416537479406,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "The usual clamoring to be considered for running mate didn't happen this year, in part because potential candidates were concerned about Trump's stances and comments, particularly on immigration, women, Mexicans and Muslims.",
+            "And. .. and this campaign and Donald Trump's candidacy has been about the issues the American people care about\".",
+            "Trump's Signature Issues: Immigration and Trade, When it comes to the two issues that became central to Trump's rise --  immigration and trade --  Pence is a good fit."
+        ],
+        "tf-idf score": [
+            0.521416537479406,
+            0.4751955899551453,
+            0.7091316377673031
+        ]
+    },
+    "0.15282753080400927-3-241": {
+        "average clique similarity": 0.15282753080400927,
+        "clique": [
+            "0- Pence is a    conse",
+            "3- He likes to describ",
+            "4- I m a Christian  a "
+        ],
+        "median tf-idf score": 0.8297795623749833,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"Pence is a    conservative,\" said Caleb Burns, a Republican strategist and partner in the Washington law firm Wiley Rein, adding Pence could \"energize the workhorses of the party. \"",
+            "(He likes to describe himself as \"a Christian, a conservative and a Republican, in that order. \") This spring, Pence signed into law one of the strictest abortion laws in the nation.",
+            "\"I'm a Christian, a conservative, and a Republican, in that order,\" Pence would often say in speeches, making it explicit that he considered conservative principles more important than party loyalty or partisan politics, and that his faith in Jesus Christ trumps everything."
+        ],
+        "tf-idf score": [
+            0.8297795623749833,
+            0.8109333426283952,
+            0.9735980481574431
+        ]
+    },
+    "0.1552289631579504-3-1": {
+        "average clique similarity": 0.1552289631579504,
+        "clique": [
+            "2-Like Trump  Pence wa",
+            "0-But he moved almost ",
+            "4-Pence would never co"
+        ],
+        "median tf-idf score": 0.8407210385677384,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Like Trump, Pence was able to help his political career with a stint in the media.",
+            "But he moved almost immediately to the top of the list, considering he gives the Trump campaign   social conservative credentials without the kind of political baggage that Democrats had hoped to exploit in other finalists like Christie or Gingrich.",
+            "Pence would never compete with Trump for media attention, instead carrying out whatever role was assigned to him, and focusing on the top of the ticket. A couple of the other names on Trump's list are personalities that sometimes generate and consume considerable media attention."
+        ],
+        "tf-idf score": [
+            0.8629614413692235,
+            0.562565422089381,
+            0.8407210385677384
+        ]
+    },
+    "0.15671179953431705-3-352": {
+        "average clique similarity": 0.15671179953431705,
+        "clique": [
+            "2-The decision to add ",
+            "3-Cautioning that he w",
+            "1-Interviewer Lesley S"
+        ],
+        "median tf-idf score": 0.9399941681306031,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "The decision to add Pence to the ticket could help Trump persuade dissenters who would have preferred the    brand of candidates like Ted Cruz, whom Pence endorsed just before the Indiana primary, comparing him with Reagan as a \"principled conservative\".",
+            "Cautioning that he wasn't \"against anybody,\" Indiana Gov. Mike Pence revealed on The Garrison Radio Program April 29 that he plans to vote for Republican presidential candidate Ted Cruz in his state's May 3 primary.",
+            "Interviewer Lesley Stahl asked Pence how he felt about some of Trump's attacks on his opponents, specifically referencing \"Lyin' Ted,\" Trump's nickname for his   primary opponent, Texas Sen. Ted Cruz."
+        ],
+        "tf-idf score": [
+            1.0367691057783646,
+            0.9399941681306031,
+            0.7943273803406423
+        ]
+    },
+    "0.15693379613776917-3-329": {
+        "average clique similarity": 0.15693379613776917,
+        "clique": [
+            "2-Earlier this year  P",
+            "4-Pence has made one a",
+            "1-While serving in the"
+        ],
+        "median tf-idf score": 0.8921530535384988,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Earlier this year, Pence signed a law that made Indiana only the second state in the union to ban abortions because the foetus has a disability.",
+            "Pence has made one appointment to the Indiana Supreme Court during his tenure, choosing one of the most consistent legal conservatives in the Hoosier State, Justice Geoffrey Slaughter.",
+            "While serving in the House in 2011, he introduced an amendment to defund Planned Parenthood because the women's health organization provides abortion services. This March, as governor of Indiana, Pence signed one of the most restrictive abortion laws in the country."
+        ],
+        "tf-idf score": [
+            0.8921530535384988,
+            0.7978693327289118,
+            0.9123586340168324
+        ]
+    },
+    "0.15759185841470533-3-267": {
+        "average clique similarity": 0.15759185841470533,
+        "clique": [
+            "3-July 12  2016  Mike ",
+            "1-In July  Pence and T",
+            "0-Trump didn t meet wi"
+        ],
+        "median tf-idf score": 0.8520531149913888,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "July 12, 2016  Mike Pence joins Republican presidential candidate Donald Trump at a rally in Westfield, Ind.",
+            "In July, Pence and Trump sat down for a joint interview on CBS' 60 Minutes.",
+            "Trump didn't meet with Pence and his wife until July 2, at the Trump National Golf Club in Bedminster, N J They appeared together at a rally in central Indiana, then at a Trump   fundraiser in Indianapolis  --   before Trump ultimately made his choice. FoxNews."
+        ],
+        "tf-idf score": [
+            0.887128343094377,
+            0.668588662545545,
+            0.8520531149913888
+        ]
+    },
+    "0.1608019788927452-3-256": {
+        "average clique similarity": 0.1608019788927452,
+        "clique": [
+            "4-Each of the four pot",
+            "3-He s long been viewe",
+            "0-Pence faced a Friday"
+        ],
+        "median tf-idf score": 0.6766284628358595,
+        "publications": [
+            "Fox News",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Each of the four potential VP picks would bring different strengths to Trump's national ticket. Presidential nominees typically choose a vice presidential candidate who can help the nominee reach a broader swath of the electorate, either geographically, or in terms of issues.",
+            "He's long been viewed as a potential presidential candidate. In 2010, conservative activists at a Values Voter Summit voted Pence their top choice for a 2012 presidential candidate, a key test of   support (but not one that's necessarily indicative of success).",
+            "Pence faced a Friday deadline to file paperwork to appear on the official state ballot as either a gubernatorial or vice presidential candidate."
+        ],
+        "tf-idf score": [
+            0.5641876886728537,
+            0.7504049625260992,
+            0.6766284628358595
+        ]
+    },
+    "0.1610915950385485-3-33": {
+        "average clique similarity": 0.1610915950385485,
+        "clique": [
+            "4-Mike and Karen Pence",
+            "0-There was no real co",
+            "3-Sensing an opportuni"
+        ],
+        "median tf-idf score": 0.7877084928296721,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Mike and Karen Pence have been faithfully married for 30 years, and by all accounts have an ideal marriage, deeply caring for each other and their three children. Their life paints a Norman   picture of a close, wholesome traditional family and domestic life that hearkens to a bygone era, one that millions of Americans would like to see again.",
+            "There was no real contingency that either Gingrich or Christie would have given you    neither geographically nor in some pocket of the party. \" Had he not been picked, Pence would have been facing Democrat John Gregg for a rematch of their 2012 gubernatorial   which Pence won by a narrow margin polls this year suggested a rematch would be similarly close.",
+            "Sensing an opportunity in a state that's been trending red lately, Democrats   businessman John Gregg, who has described himself as a \"' ' Southern Indiana Democrat\". Pence and Gregg have matched up against each other before: Gregg lost to Pence in 2012 by 3."
+        ],
+        "tf-idf score": [
+            0.6864642452621886,
+            0.8698666546312512,
+            0.7877084928296721
+        ]
+    },
+    "0.16111136065766088-3-357": {
+        "average clique similarity": 0.16111136065766088,
+        "clique": [
+            "3-     After weeks of ",
+            "4-Indiana Gov  Mike Pe",
+            "0-    Donald Trump put"
+        ],
+        "median tf-idf score": 0.9405521635396823,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "     After weeks of intrigue, and a chaotic 24 hours, Donald Trump is choosing Indiana Gov.",
+            "Indiana Gov. Mike Pence would bring constitutional fidelity, conservative credentials, traditional faith, foreign policy, Washington   and a calm, steady, Midwestern demeanor to a national ticket with Donald Trump, boosting the New York businessman with several types of voters that may prove to be the key to building an electoral coalition that could propel Trump into the White House.",
+            "    Donald Trump put to rest Friday the speculation and revealed the   secret in Washington: Indiana Gov. Mike Pence will be his running mate."
+        ],
+        "tf-idf score": [
+            0.3728316903364429,
+            1.1753782660301544,
+            0.9405521635396823
+        ]
+    },
+    "0.1612535941769148-3-158": {
+        "average clique similarity": 0.1612535941769148,
+        "clique": [
+            "4-In 2006  Pence took ",
+            "3-In 2008  his colleag",
+            "1-But Pence appeared t"
+        ],
+        "median tf-idf score": 0.8021884979297519,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In 2006, Pence took on Congressional Democrats, establishment Republicans in the House and Senate, and a president of his party to take a much tougher stand on immigration, one that political experts said was a losing position, but which has now become the ascendant position in the Republican Party. Second, on trade.",
+            "In 2008, his colleagues elected him to the House GOP's No. 3 spot, Republican Conference chairman, a job dedicated to shaping the party's messaging after it got slammed in the 2008 elections. (Republicans took back the House in 2010.)",
+            "But Pence appeared to back the bill in an interview on Fox in March 2015. \"Well let me say first and foremost, I stand by this law,\" he said. \"But I understand that the way that some on the left, and frankly some in the national media, have mischaracterized this law over the last week might make it necessary for us to clarify the law through legislation."
+        ],
+        "tf-idf score": [
+            1.0960973237655947,
+            0.36885814780642834,
+            0.8021884979297519
+        ]
+    },
+    "0.1618134898888878-3-49": {
+        "average clique similarity": 0.1618134898888878,
+        "clique": [
+            "3-Pence said it would ",
+            "4-Pence was caught fla",
+            "2-Instead  it kept the"
+        ],
+        "median tf-idf score": 0.8421214063862322,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Pence said it would extend legal protections to Indiana business owners who didn't want to participate in   weddings, citing their religious beliefs; opponents argued that he was sanctioning discrimination.",
+            "Pence was caught flatfooted when the mainstream media joined the LGBT Left condemning Pence's signing of Indiana's Religious Freedom Restoration Act (RFRA) which guaranteed that Hoosiers could live their daily lives and operate their businesses consistent with their religious faith.",
+            "Instead, it kept the focus on the law's mandate that Indiana could not put a \"substantial burden\" on the ability of a legal person to follow their religious beliefs. Pence's retreat left few satisfied."
+        ],
+        "tf-idf score": [
+            0.8421214063862322,
+            0.884607939100283,
+            0.7414453119315397
+        ]
+    },
+    "0.1680539122751096-3-260": {
+        "average clique similarity": 0.1680539122751096,
+        "clique": [
+            "3-Pence decided to sta",
+            "2-Mike Pence hopes to ",
+            "0-Pence passed on the "
+        ],
+        "median tf-idf score": 0.6843455980595597,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Pence decided to stay in Indiana and run for governor, where he eeked out a win against Gregg. 9. He's got ties to the Koch brothers.",
+            "Mike Pence hopes to make a bigger mark than the last Republican from Indiana to run for  . Dan Quayle, who served under George HW Bush, is not remembered kindly by history, not least for an incident in which he changed a student's spelling of \"potato\" to \"potatoe\".",
+            "Pence passed on the opportunity to run for Senate in 2010, then made trips to   states Iowa and South Carolina, which fueled speculation that he would run for president, until he launched his bid for governor in May 2011."
+        ],
+        "tf-idf score": [
+            0.6843455980595597,
+            0.8063132123471262,
+            0.680113254600615
+        ]
+    },
+    "0.1728332122305586-3-83": {
+        "average clique similarity": 0.1728332122305586,
+        "clique": [
+            "1-The law bans abortio",
+            "4-An originalist is so",
+            "3-Indiana is now the s"
+        ],
+        "median tf-idf score": 0.8046935376051992,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "The law bans abortions due to fetal abnormalities and also requires aborted fetuses  --   and those from miscarriage  --   to be buried or cremated. Women in Indiana protested the law by calling or tweeting at the governor's office to tell him about their periods, in an effort dubbed \"Periods For Pence\".",
+            "An originalist is someone who believes that a judge must always assign to the words of any law --  whether the Constitution, as the Supreme Law of the Land, or to a statute or regulation --  the public meaning that the American people understood those words to carry when they were adopted. As a lawyer, Pence is a committed originalist (  often use the terms \"strict constructionist\" or \"constitutionalist\") and has spoken at events sponsored by the Federalist Society.",
+            "Indiana is now the second state in the nation to ban abortions when the fetus has a disability, a law likely to be challenged in court."
+        ],
+        "tf-idf score": [
+            0.8399241312278114,
+            0.8046935376051992,
+            0.4615150634636551
+        ]
+    },
+    "0.17378491035635424-3-508": {
+        "average clique similarity": 0.17378491035635424,
+        "clique": [
+            "0-However  critics arg",
+            "1-Critics said the bil",
+            "4-Pence s promise to v"
+        ],
+        "median tf-idf score": 0.8959492626190189,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Fox News"
+        ],
+        "sentences": [
+            "However, critics argued the law would allow discrimination against gays and others. The national and widespread criticism was so damaging it forced Pence and the state legislature to revise the law to clearly prohibit businesses from denying services to customers based on their sexual preference or gender choice.",
+            "Critics said the bill could allow business owners to ban LGBT customers based on a claim of religious freedom. After \"business, civic and sports leaders . .. strongly called for a fix to the legislation,\" USA Today noted, Pence later signed a revised version of the law.",
+            "Pence's promise to veto the SOGI bill, and his leadership against this attack on religious liberty, fueled the bill's opponents in the Indiana legislature, killing the legislation."
+        ],
+        "tf-idf score": [
+            0.9238613143634901,
+            0.8959492626190189,
+            0.6461497726352091
+        ]
+    },
+    "0.17417086201949628-3-15": {
+        "average clique similarity": 0.17417086201949628,
+        "clique": [
+            "3-Paul Ryan likes him ",
+            "2-An early advocate of",
+            "0-While Democrats are "
+        ],
+        "median tf-idf score": 0.9824668878275287,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Paul Ryan likes him. Paul Ryan. (Yuri  )  Before becoming governor of Indiana in 2013, Pence spent six terms in Congress, where he served on committees that dealt with foreign affairs and technology and was generally   and respected by his colleagues. Over time, he smoothed out his populist, tea party edges and rose to some of the highest ranks in the party.",
+            "An early advocate of the Tea Party movement, he has voted with social conservatives for nearly his entire time in office, putting him more in line with the far right of the Republican party.",
+            "While Democrats are hammering his Tea Party ties in Congress, the    Pence also could help Trump with critical fundraising, considering the Trump campaign has roughly $1."
+        ],
+        "tf-idf score": [
+            1.0405411885728462,
+            0.5553702501235958,
+            0.9824668878275287
+        ]
+    },
+    "0.18149251850315787-3-422": {
+        "average clique similarity": 0.18149251850315787,
+        "clique": [
+            "2-Two of Pence s favor",
+            "1-Here are five other ",
+            "4-Pence is an evangeli"
+        ],
+        "median tf-idf score": 0.6981777527172996,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Guardian"
+        ],
+        "sentences": [
+            "Two of Pence's favorite lines are to describe himself as \"a Christian, a conservative and a Republican, in that order,\" and to offer assurance, \"I'm a conservative, but I'm not angry about it. \" He became a born again Christian  --   and a born again Republican  --   while at university.",
+            "Here are five other things to know about Gov. Pence ahead of Tuesday's debate: Pence is a   Christian  --   he became one in college  --   and has put his religion in the foreground of his political persona. \"For me it all begins with faith.",
+            "Pence is an evangelical Christian with a model family. Mike Pence became a   Christian in college, and has lived a personal life consistent with his devout faith for almost four decades since becoming an evangelical."
+        ],
+        "tf-idf score": [
+            0.6981777527172996,
+            0.7408458648548641,
+            0.6872316226859212
+        ]
+    },
+    "0.18464633376707904-3-114": {
+        "average clique similarity": 0.18464633376707904,
+        "clique": [
+            "3-But not all social c",
+            "0-Still  Pence is not ",
+            "2-The religious freedo"
+        ],
+        "median tf-idf score": 0.7481308427893621,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "But not all social conservatives are thrilled with Pence now: Some thought he backed off last year's religious freedom debate under pressure from liberal groups.",
+            "Still, Pence is not without some negatives, particularly his handling last year of the   Religious Freedom Restoration Act. The original law, which he signed, allowed residents and companies being sued by a private party to cite their religious beliefs as a defense.",
+            "The religious freedom law was not Pence's only brush with national controversy."
+        ],
+        "tf-idf score": [
+            0.7186210230967199,
+            0.8282128612745858,
+            0.7481308427893621
+        ]
+    },
+    "0.19355623853831716-3-374": {
+        "average clique similarity": 0.19355623853831716,
+        "clique": [
+            "3-Pence was already we",
+            "4-Pence is a governor ",
+            "1-On the Republican si"
+        ],
+        "median tf-idf score": 0.7215895995281957,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Pence was already well known and respected in Republican circles when he was elected governor of Indiana in 2012.",
+            "Pence is a governor.",
+            "On the Republican side, Pence has been governor of Indiana since 2013."
+        ],
+        "tf-idf score": [
+            0.789942642521151,
+            0.45856253367142236,
+            0.7215895995281957
+        ]
+    },
+    "0.22193572222684052-3-519": {
+        "average clique similarity": 0.22193572222684052,
+        "clique": [
+            "3-But he became a hous",
+            "1-But I promise you  o",
+            "2-Pence was elected go"
+        ],
+        "median tf-idf score": 0.6531447306347645,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "But he became a household name when he signed a religious freedom bill into law in 2015.",
+            "But I promise you, our vision is exactly the same,\" Pence added. In 2015, he signed into law a controversial \"religious freedom\" bill, which spurred wide backlash.",
+            "Pence was elected governor of his home state in 2012, but first gained national repute for signing the Religious Freedom Restoration Act in 2015."
+        ],
+        "tf-idf score": [
+            0.1891509490570553,
+            0.6531447306347645,
+            0.8268732428985739
+        ]
+    },
+    "0.2464603344487503-4-30": {
+        "average clique similarity": 0.2464603344487503,
+        "clique": [
+            "1-Trump running mate M",
+            "2-The governor s selec",
+            "3-Mike Pence  R  as hi",
+            "0- By picking Mike Pen"
+        ],
+        "median tf-idf score": 0.815857337923223,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Trump running mate Mike Pence will debate Clinton running mate Tim Kaine Tuesday night at Longwood University in Farmville, Va.",
+            "The governor's selection as Donald Trump's running mate brings many qualities to the candidate's campaign that Republicans fear it lacks: discipline, experience in government, conservative principles and credibility among Christian evangelicals.",
+            "Mike Pence (R) as his vice presidential running mate.",
+            "\"By picking Mike Pence as his running mate, Donald Trump has doubled down on some of his most disturbing beliefs by choosing an incredibly divisive and unpopular running mate known for supporting discriminatory politics and failed economic policies that favor millionaires and corporations over working families,\" campaign Chairman John Podesta said in a statement."
+        ],
+        "tf-idf score": [
+            0.8662305969462236,
+            0.7654840789002225,
+            0.616189659728793,
+            1.1911078167104518
+        ]
+    },
+    "0.27011881918883923-4-232": {
+        "average clique similarity": 0.27011881918883923,
+        "clique": [
+            "2-He represented his  ",
+            "3-In 2006  while Repub",
+            "0-Though Pence ascende",
+            "4-When Republicans los"
+        ],
+        "median tf-idf score": 0.6785775060469323,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "He represented his   Indiana hometown for 12 years in Congress. He served one term in House leadership as chair of the Republican caucus and launched a failed effort to challenge John Boehner for Republican leader in 2006.",
+            "In 2006, while Republicans were still in the minority, Pence decided to run for the leader of the party against a veteran GOP congressman from Ohio, John Boehner. It didn't go so well.",
+            "Though Pence ascended the House ranks to eventually become part of the chamber's GOP leadership, he lost a bid in 2006 to   Rep. John Boehner to become the chamber's GOP minority leader.",
+            "When Republicans lost the U S House in 2006, Pence took the ultimate   step of running against John Boehner to be the leader of House Republicans."
+        ],
+        "tf-idf score": [
+            0.49986973467210266,
+            0.698159590508125,
+            0.661029322880189,
+            0.6961256892136756
+        ]
+    },
+    "0.35927363989779915-4-88": {
+        "average clique similarity": 0.35927363989779915,
+        "clique": [
+            "2-He hosted The Mike P",
+            "3-And before he came t",
+            "4-Pence was an Indiana",
+            "1-In the 1990s  Pence "
+        ],
+        "median tf-idf score": 0.7777865287519363,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "He hosted The Mike Pence Show, eventually syndicated on 18 stations  --   he called himself \"Rush Limbaugh on decaf\"  --   then a weekend TV show in Indianapolis.",
+            "And before he came to Congress, Pence hosted a talk radio show, calling himself \"Rush Limbaugh on decaf\". 7. He once challenged John Boehner for his party's leadership spot in the House.",
+            "Pence was an Indiana talk show host who took on the party establishment to get into Congress.",
+            "In the 1990s, Pence hosted a Sunday TV show in Indianapolis and also had a radio talk show called The Mike Pence Show. He described himself as \"Rush Limbaugh on decaf,\" meaning while a conservative, he was not as bombastic as the popular Limbaugh, who hosts his own talk show."
+        ],
+        "tf-idf score": [
+            0.6032365690832472,
+            0.7818457231317726,
+            0.7737273343721001,
+            0.858024241135289
+        ]
+    },
+    "0.3885738914590178-3-398": {
+        "average clique similarity": 0.3885738914590178,
+        "clique": [
+            "3-I am pleased to anno",
+            "0-The presumptive Repu",
+            "1- I ve very high rega"
+        ],
+        "median tf-idf score": 0.829113701619247,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "I am pleased to announce that I have chosen Governor Mike Pence as my Vice Presidential running mate.",
+            "The presumptive Republican presidential nominee made it official with a tweet:  I am pleased to announce that I have chosen Governor Mike Pence as my Vice Presidential running mate.",
+            "\"I've very high regard for him,\" Ryan said when Pence was chosen as Trump's running mate, an indicator that putting Pence on the ticket might have been an olive branch from the Trump campaign to more traditional conservatives."
+        ],
+        "tf-idf score": [
+            0.6971990108113029,
+            0.829113701619247,
+            1.1067779447729797
+        ]
+    },
+    "0.40626150423535473-3-368": {
+        "average clique similarity": 0.40626150423535473,
+        "clique": [
+            "1-It begins with what ",
+            "2- For me it all begin",
+            "3-Maybe it was that my"
+        ],
+        "median tf-idf score": 0.6671517116865223,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It begins with what matters most, and I try and put what I believe to be moral truth first. My philosophy of government second. And my politics third,\" Pence said in a 2010 appearance on the Christian Broadcasting Network. And religion has indeed played a large part in his policy decisions. One notable example is his strong opposition to abortion.",
+            "\"For me it all begins with faith it begins with what matters most, and I try and put what I believe to be moral truth first,\" he told the Christian Broadcasting Network (CBN) in 2010. \"My philosophy of government second. And my politics third. \" He had grown up as a Democrat idolising John F Kennedy and still owns a box of Kennedy memorabilia. He explained: \"It may be that I grew up in a big Irish Catholic family like he did. Maybe it was that my grandparents were so proud of the first Irish Catholic president. \"",
+            "Maybe it was that my grandparents were so proud of the first Irish Catholic president\". He even still has a box of Kennedy memorabilia."
+        ],
+        "tf-idf score": [
+            0.8888903987474069,
+            0.6671517116865223,
+            0.36091386175972606
+        ]
+    }
+}

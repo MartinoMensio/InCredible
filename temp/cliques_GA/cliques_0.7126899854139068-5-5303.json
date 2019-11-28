@@ -1,0 +1,498 @@
+{
+    "0.19741753561421238-3-103": {
+        "average clique similarity": 0.19741753561421238,
+        "clique": [
+            "2-Suddenly  an alligat",
+            "4- A Disney official s",
+            "3-Caption   The body o"
+        ],
+        "median tf-idf score": 1.3003243365838726,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "New York Times"
+        ],
+        "sentences": [
+            "Suddenly, an alligator sprang from the water and clamped its jaws around the boy.",
+            " A Disney official said Wednesday the company plans to \"thoroughly review\" its alligator warning signage around a resort where a    boy was killed by a reptile that snatched him out of shallow water.",
+            "Caption   The body of a    boy snatched by an alligator has been found, officials in Florida said, after a search around a Disney resort that lasted more than 18 hours."
+        ],
+        "tf-idf score": [
+            0.48961009758429946,
+            1.5826783345964295,
+            1.3003243365838726
+        ]
+    },
+    "0.19813561060712917-3-172": {
+        "average clique similarity": 0.19813561060712917,
+        "clique": [
+            "4-The parents quickly ",
+            "3-The Florida resort d",
+            "1-A source with knowle"
+        ],
+        "median tf-idf score": 1.025177626488706,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "The parents quickly alerted a lifeguard, but the lifeguard was too far away from the scene of the attack to help the father. Disney is now under fire for not warning visitors about the possibility of alligators in the lagoon that many vacationers visit on a daily basis.",
+            "The Florida resort did not have signage warning of alligators in the water, and the company will \"thoroughly review the situation for the future,\" a Disney official said.",
+            "A source with knowledge of the situation said the resort now plans to install signs explicitly warning of the dangerous animals."
+        ],
+        "tf-idf score": [
+            1.025177626488706,
+            1.1646539017691169,
+            0.6184823074050927
+        ]
+    },
+    "0.20740291151428158-3-189": {
+        "average clique similarity": 0.20740291151428158,
+        "clique": [
+            "3- What you need to kn",
+            "4-Before Lane Graves  ",
+            "1-The trappers remaine"
+        ],
+        "median tf-idf score": 1.262504444497763,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "[What you need to know about alligator attacks, according to Jack Hanna]   Authorities from Disney World, the Orange County Sheriff's Office and the Florida Fish and Wildlife Conservation Commission deployed more than 50 law enforcement officers in helicopters and boats to the Seven Seas Lagoon, in a desperate search for the missing toddler.",
+            "Before Lane Graves' death, 23 people had been killed by wild alligators in Florida since 1973, according to Florida Fish and Wildlife Conservation Commission statistics. Disney beaches remained closed through Wednesday.",
+            "The trappers remained at the lagoon on Thursday after removing a sixth alligator from the water late on Wednesday in an effort to find the one that snatched the child, said Greg Workman, a spokesman for the Florida Fish and Wildlife Conservation Commission."
+        ],
+        "tf-idf score": [
+            1.3372218216992422,
+            1.1008938205132934,
+            1.262504444497763
+        ]
+    },
+    "0.22223330318896814-3-27": {
+        "average clique similarity": 0.22223330318896814,
+        "clique": [
+            "4-The sheriff later id",
+            "1-The boy was grabbed ",
+            "2-His parents and sist"
+        ],
+        "median tf-idf score": 0.6317550582862561,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "The sheriff later identified the boy as Lane Graves, who was on vacation with his parents, Matt and Melissa Graves, and his    sister.",
+            "The boy was grabbed by the reptile at the water's edge at about 9:15 p. m. on Tuesday while his family, on vacation from Omaha, Nebraska, relaxed on the shore nearby, authorities have said.",
+            "His parents and sister, Nebraskans all, were nearby on the beach at a Disney resort here, relaxing, carefree."
+        ],
+        "tf-idf score": [
+            0.6317550582862561,
+            0.989702951902376,
+            0.4114269904496052
+        ]
+    },
+    "0.22865993718336852-3-139": {
+        "average clique similarity": 0.22865993718336852,
+        "clique": [
+            "1-His parents  Matt an",
+            "0-Alligators don t swi",
+            "3-The father  Matt Gra"
+        ],
+        "median tf-idf score": 0.8652160600681336,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "His parents, Matt and Melissa Graves, tried to save the child but were unable to free him from the alligator's grip. A complete autopsy was conducted on Thursday afternoon on the body of the boy, which was found intact underwater.",
+            "Alligators don't swim that far    they sink into the murky water and lurk there    which may explain why the father did not see the boy when he jumped into the water to try to save him, Corwin said.",
+            "The father, Matt Graves, rushed into the water and grabbed desperately for the boy; Graves cut his hand while attempting to wrestle Lane away from the gator but was unable to save his son."
+        ],
+        "tf-idf score": [
+            1.0318949641452522,
+            0.8652160600681336,
+            0.7680052068932539
+        ]
+    },
+    "0.23158066058062707-3-147": {
+        "average clique similarity": 0.23158066058062707,
+        "clique": [
+            "4-According to WESH 2 ",
+            "2-Lane had been splash",
+            "3-A sign on the beach "
+        ],
+        "median tf-idf score": 0.7775693032745682,
+        "publications": [
+            "New York Times",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "According to WESH 2 News, only one alligator warning sign was spotted on the property and that was at a small pond. The station reported the sign read, \"Do not feed or go near the alligators,\" along with a picture of an alligator and a snake.",
+            "Lane had been splashing about, the sheriff said, despite a sign that said swimming was not permitted in the lagoon.",
+            "A sign on the beach noted that swimming was prohibited in the lagoon. The boy was just about a foot beyond the sand when, after 9 p. m. the alligator attacked."
+        ],
+        "tf-idf score": [
+            0.7775693032745682,
+            0.7678299068681842,
+            0.8838262528069253
+        ]
+    },
+    "0.23427917286190333-3-86": {
+        "average clique similarity": 0.23427917286190333,
+        "clique": [
+            "1- Walt Disney World R",
+            "3-June 15  2016   In t",
+            "0-Lake Buena Vista  Fl"
+        ],
+        "median tf-idf score": 1.4718563413607078,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            " Walt Disney World Resort in Orlando, Florida, plans to install signs warning of alligators in the area where a    boy was killed by one of the reptiles, a source familiar with the matter told Reuters on Thursday.",
+            "June 15, 2016   In the shadow of Walt Disney World, Florida Fish and Wildlife Conservation Officers search for the body of the young boy who was snatched by an alligator at Disney's upscale Grand Floridian Resort and Spa in Orlando.",
+            "Lake Buena Vista, Florida (CNN) Alligator warning signs will be put up near all the waterways at Walt Disney World resorts following the death of a    boy who was dragged into a lagoon two nights ago, a senior source at Disney told CNN on Thursday."
+        ],
+        "tf-idf score": [
+            1.4718563413607078,
+            1.4618105817280933,
+            1.594833365758467
+        ]
+    },
+    "0.2532423889799074-4-88": {
+        "average clique similarity": 0.2532423889799074,
+        "clique": [
+            "3-They relaxed on the ",
+            "2-The recovery ended a",
+            "4-The beach where the ",
+            "0-The Graves family wa"
+        ],
+        "median tf-idf score": 0.8150864351860784,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "They relaxed on the   beach that stretches along Disney's luxe Grand Floridian Resort and Spa, one of the features the hotel uses to entice its guests, and they watched their young son wade   into the lake known by vacationers as Seven Seas Lagoon.",
+            "The recovery ended a search that began shortly after 9 p. m. on Tuesday in the lagoon at Disney's Grand Floridian Resort and Spa. The artificial lake, which covers about 200 acres, is 14 feet deep in parts and feeds a series of canals that wind through the Disney complex. It lies across from the Magic Kingdom theme park.",
+            "The beach where the reptile grabbed the child is part of the luxury Grand Floridian resort, across the lake from Magic Kingdom. The lake, which stretches over about 200 acres and reaches a depth of 14 feet, feeds into a series of canals that winds through the entire Disney property.",
+            "The Graves family was at a movie night outdoors Tuesday night at the Grand Floridian resort when the boy waded into about a foot of water in Seven Seas Lagoon, authorities have said."
+        ],
+        "tf-idf score": [
+            0.754568738537026,
+            0.850611425732844,
+            0.7795614446393128,
+            1.2730355720085638
+        ]
+    },
+    "0.25378226120895286-3-219": {
+        "average clique similarity": 0.25378226120895286,
+        "clique": [
+            "4-The Florida Fish and",
+            "2- This includes the n",
+            "0-As of April  only on"
+        ],
+        "median tf-idf score": 0.9852654632600374,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "The Florida Fish and Wildlife Conservation Commission said Disney removes alligators from the water routinely.",
+            "\"This includes the number, placement and wording of our signage and warnings. '' The resort has a wildlife management team that monitors alligators and other animals and regularly removes any that appear to be troublesome, according to Nick Wiley, executive director of the Florida Fish and Wildlife Conservation Commission.",
+            "As of April, only one other major alligator attack had been reported in the state this year, according to the Florida Fish and Wildlife Conservation Commission. That person survived the attack, but required medical care."
+        ],
+        "tf-idf score": [
+            1.06224409220585,
+            0.9852654632600374,
+            0.7604475813772127
+        ]
+    },
+    "0.2769817954574886-3-100": {
+        "average clique similarity": 0.2769817954574886,
+        "clique": [
+            "4-They had traveled to",
+            "2-During a news confer",
+            "3-The sheriff identifi"
+        ],
+        "median tf-idf score": 0.91328284999979,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "New York Times"
+        ],
+        "sentences": [
+            "They had traveled to Disney World from Elkhorn, Neb. The sheriff said he and a Catholic priest delivered the grim news to the family.",
+            "During a news conference less than a mile from the lagoon, Sheriff Demings said that he and a Catholic priest had delivered the \"tough message\" of the boy's death to Mr Graves, his wife, Melissa, and their    daughter, who live in the Elkhorn section of Omaha, Neb.",
+            "The sheriff identified the toddler as Lane Graves of Elkhorn, Neb. Although a formal identification is pending, \"there is no reason to believe that the body that was recovered is not that of Lane Graves,\" Demings said."
+        ],
+        "tf-idf score": [
+            0.766636643898607,
+            0.9156097640888181,
+            0.91328284999979
+        ]
+    },
+    "0.280523528399951-3-16": {
+        "average clique similarity": 0.280523528399951,
+        "clique": [
+            "4- We definitely will ",
+            "0- We re going to make",
+            "3- We re going to go t"
+        ],
+        "median tf-idf score": 0.7843793933518642,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "\"We definitely will work with everyone involved to try to determine if there's something we can learn, if we can do something better,\" agency director Nick Wiley said.",
+            "\"We're going to make certain that we have the alligator that was involved, and that we remove it from the lake,\" Florida Fish and Wildlife Conservation Commission Executive Director Nick Wiley said.",
+            "\"We're going to go through the process, and if we can't get a certain match, we're going to continue to go out and look for alligators. \" As rescuers searched through the night, Demings said his crews would not leave until they found the child."
+        ],
+        "tf-idf score": [
+            0.4262777916767976,
+            1.1817098286879284,
+            0.7843793933518642
+        ]
+    },
+    "0.281535097291273-3-56": {
+        "average clique similarity": 0.281535097291273,
+        "clique": [
+            "1-The resort had  No S",
+            "0-Some had questioned ",
+            "4-Orange County Sherif"
+        ],
+        "median tf-idf score": 0.9403427104043718,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "The resort had \"No Swimming\" signs where the boy was killed at the Seven Seas Lagoon, but did not specifically mention alligators.",
+            "Some had questioned whether signs specifically warning of alligators should have been placed at the luxury property.",
+            "Orange County Sheriff Jerry Demings said his department and the state wildlife agency would look into the issues of warning signs around Seven Seas Lagoon at The Grand Floridian Resort  Spa, where Disney had posted \"no swimming\" signs but no warnings about the presence of alligators."
+        ],
+        "tf-idf score": [
+            0.9403427104043718,
+            0.43057686450071375,
+            1.4844046966745106
+        ]
+    },
+    "0.2923699141028853-3-67": {
+        "average clique similarity": 0.2923699141028853,
+        "clique": [
+            "1-It did not elaborate",
+            "3- Words cannot descri",
+            "0- Matt s family is th"
+        ],
+        "median tf-idf score": 0.8248680656530676,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "It did not elaborate. Rose Silva, a spokeswoman for the Orange County Sheriff's Office, said on Thursday that a probe into the toddler's death was ongoing, but was not criminal in nature. The Graves family released a statement praising local authorities and adding: \"Words cannot describe the shock and grief our family is experiencing over the loss of our son.",
+            "\"Words cannot describe the shock and grief our family is experiencing over the loss of our son,\" the Graves family said in a statement, reported ABC News. \"To all of the local authorities and staff who worked tirelessly these past 24 hours, we express our deepest gratitude. \"",
+            "\"Matt's family is the light of his life and his family's anguish is our own,\" the statement said, according to CNN affiliate KMTV \"What happened last night was a terrible accident and one that is devastating to the entirety of Infogroup\"."
+        ],
+        "tf-idf score": [
+            1.2438679818350153,
+            0.8102803550358624,
+            0.8248680656530676
+        ]
+    },
+    "0.2943959409513125-3-164": {
+        "average clique similarity": 0.2943959409513125,
+        "clique": [
+            "3- There are no words ",
+            "0- We have a large pro",
+            "2- Everyone here at th"
+        ],
+        "median tf-idf score": 1.0311473488029415,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"There are no words to convey the profound sorrow we feel for the family and their unimaginable loss,\" George A Kalogridi, president of Walt Disney World Resort, said in a statement. \"We are devastated and heartbroken by this tragic accident and are doing what we can to help them during this difficult time.",
+            "\"We have a large property, and from time to time, we have to remove alligators from our property,\" Wahler said \"Nearly   of Walt Disney World property is set aside as a conservation area and these areas attract a variety of native wildlife\".",
+            "\"Everyone here at the Walt Disney World Resort is devastated by this tragic accident,\" Jacquee Wahler, vice president of the Walt Disney World Resort, said in a statement. \"Our thoughts are with the family. We are helping the family and doing everything we can to assist law enforcement. \""
+        ],
+        "tf-idf score": [
+            1.0311473488029415,
+            1.091136761285854,
+            0.9607953858513213
+        ]
+    },
+    "0.30300629527505857-3-219": {
+        "average clique similarity": 0.30300629527505857,
+        "clique": [
+            "0- Of course  the auto",
+            "3-Although an autopsy ",
+            "2- The family was dist"
+        ],
+        "median tf-idf score": 1.056948211911683,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"Of course, the autopsy has to confirm that, but there is likely no question in my mind that the child was drowned by the alligator,\" Demings said.",
+            "Although an autopsy still has to be completed, the sheriff said it is likely that the boy drowned. \"The family was distraught, but also, I believe, somewhat relieved that his body was found intact,\" Demings told reporters.",
+            "\"The family was distraught but also, I believe, relieved that we were able to find their son,\" said the sheriff, who noted that there was no question in his mind that \"the child was drowned by the alligator. \""
+        ],
+        "tf-idf score": [
+            0.9409189081475237,
+            1.074135567692716,
+            1.056948211911683
+        ]
+    },
+    "0.30600762676369847-4-80": {
+        "average clique similarity": 0.30600762676369847,
+        "clique": [
+            "0-A community mourns  ",
+            "2-In a statement on Th",
+            "3-       The family of",
+            "1-We are devastated an"
+        ],
+        "median tf-idf score": 1.096726819621317,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "A community mourns, The boy's parents, Matt and Melissa Graves of Elkhorn, Nebraska, issued a statement on Thursday. \"Words cannot describe the shock and grief our family is experiencing over the loss of our son. We are devastated and ask for privacy during this extremely difficult time,\" they said.",
+            "In a statement on Thursday, the family expressed their appreciation for everyone involved in the search and asked for privacy. \"We are devastated,\" the statement said.",
+            "       The family of a    boy snatched by an alligator at a Disney resort said Thursday that they were \"devastated\" by the child's death and asked \"for privacy during this extremely difficult time. \"",
+            "We are devastated and ask for privacy during this extremely difficult time\". The aquatic predators often roll their larger prey beneath the surface until their victim stops breathing, experts say, and then stash the body away to eat later. Walt Disney Co ( ) Chief Executive Bob Iger spoke with the family by telephone on Wednesday and expressed his sympathies, the company said."
+        ],
+        "tf-idf score": [
+            1.0522922945458026,
+            0.6006025466446363,
+            1.3128931458341446,
+            1.1411613446968312
+        ]
+    },
+    "0.30654576175277565-3-163": {
+        "average clique similarity": 0.30654576175277565,
+        "clique": [
+            "2-Ms Wahler said on Th",
+            "1-Disney spokeswoman J",
+            "0-Disney beaches close"
+        ],
+        "median tf-idf score": 0.8273145915542052,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "Ms Wahler said on Thursday that the beaches at the resort were closed and would remain   to guests. \"We are conducting a swift and thorough review of our processes and protocols,\" she said.",
+            "Disney spokeswoman Jacquee Wahler said on Thursday that resort beaches that were closed after the attack would be   to guests until further notice.",
+            "Disney beaches closed, By midmorning Wednesday, Disney had closed all beaches in its resort area \"out of an abundance of caution\" after the attack, a Disney representative said."
+        ],
+        "tf-idf score": [
+            0.6792111743716978,
+            0.8676889901804608,
+            0.8273145915542052
+        ]
+    },
+    "0.3115726128577318-5-116": {
+        "average clique similarity": 0.3115726128577318,
+        "clique": [
+            "4-Dive teams on Wednes",
+            "3-Divers found the boy",
+            "2-The alligator made o",
+            "0-A troubled week for ",
+            "1-Police divers recove"
+        ],
+        "median tf-idf score": 1.170598278945982,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "CNN",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Dive teams on Wednesday afternoon were able to recover the body of the toddler \"completely intact. \" Demings said that the body was in water roughly six feet deep,   yards from the edge of the lagoon where the child had been wading Tuesday night.",
+            "Divers found the boy's body \"completely intact\" about six feet beneath the surface of the massive,   lagoon, not far from the area where he was attacked the previous night, Orange County Sheriff Jerry Demings said Wednesday afternoon.",
+            "The alligator made off with the boy, and an intense search for him yielded nothing in the wide, murky expanse of water until more than 16 hours later, early on Wednesday afternoon, when divers found him about six feet below the surface and only 10 to 15 feet from where he had last been seen.",
+            "A troubled week for Disney, Body found intact, A dive team found the boy's body intact in 6 feet of murky water about 10 to 15 yards from where he was attacked, Orange County Sheriff Jerry Demings said Wednesday. Lane's body had only a few puncture wounds, according to a source familiar with the investigation.",
+            "Police divers recovered the body of Lane Graves on Wednesday from the   lake where he had been snatched by the alligator as he played at the water's edge the night before."
+        ],
+        "tf-idf score": [
+            1.170598278945982,
+            1.2953644638321196,
+            0.7872554498640687,
+            1.5231343356375695,
+            0.7873841969383121
+        ]
+    },
+    "0.32987852003439827-3-219": {
+        "average clique similarity": 0.32987852003439827,
+        "clique": [
+            "3- On behalf of everyo",
+            "0- Everyone here at th",
+            "1- All of our beaches "
+        ],
+        "median tf-idf score": 0.8908017119468925,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"On behalf of everyone at Disney, we offer them our deepest sympathy. \" Authorities said that although alligators are indigenous to Florida, an attack of this nature is unusual.",
+            "\"Everyone here at the Walt Disney Resort is devastated by this tragic accident,\" Wahler said in an earlier statement. \"Our thoughts are with the family. We are helping the family and doing everything we can to assist law enforcement\".",
+            "\"All of our beaches are currently closed, and we are conducting a swift and thorough review of all of our processes and protocols,\" Wahler said in a statement. \"This includes the number, placement and wording of our signage and warnings\"."
+        ],
+        "tf-idf score": [
+            0.9667940632340494,
+            0.8908017119468925,
+            0.6702025540604563
+        ]
+    },
+    "0.4167892718085691-3-132": {
+        "average clique similarity": 0.4167892718085691,
+        "clique": [
+            "1- The cause of death ",
+            "2-His father also summ",
+            "0-A dive team found   "
+        ],
+        "median tf-idf score": 0.7543932549665252,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\"The cause of death was ruled as a result of drowning and traumatic injuries,\" the Orange County Medical Examiner's Office said in a brief statement.",
+            "His father also summoned a lifeguard from a nearby pool, but he, too, was unable to rescue the boy. The medical examiner ruled Thursday that the cause of death was drowning and traumatic injuries.",
+            "A dive team found    Lane Graves dead on Wednesday. Graves died due to drowning and traumatic injuries, the Orange County Medical Examiner's Office said Thursday."
+        ],
+        "tf-idf score": [
+            0.7736730611550595,
+            0.6337537652265035,
+            0.7543932549665252
+        ]
+    }
+}

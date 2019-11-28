@@ -1,0 +1,538 @@
+{
+    "0.16412974342494194-3-130": {
+        "average clique similarity": 0.16412974342494194,
+        "clique": [
+            "3- The verdict came be",
+            "4-To the fury of defen",
+            "1-During the trial  th"
+        ],
+        "median tf-idf score": 0.5715127395215269,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dThe verdict came before the judge ruled on a request by defense attorneys to declare a mistrial in the case\u201d.",
+            "To the fury of defense attorneys, jurors were not asked to rule on whether Kelly and Baroni conspired specifically to punish Sokolich for his   they only had to decide whether there was a conspiracy.",
+            "During the trial, the defense for Kelly and Baroni tried to pitch them as Christie\u2019s scapegoats."
+        ],
+        "tf-idf score": [
+            0.20977831503948186,
+            0.5715127395215269,
+            0.5891099644265307
+        ]
+    },
+    "0.18941248892188456-3-224": {
+        "average clique similarity": 0.18941248892188456,
+        "clique": [
+            "3-U S Attorney Paul Fi",
+            "2-State prosecutors co",
+            "0-  Saying his experie"
+        ],
+        "median tf-idf score": 0.8376178424932545,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "U S Attorney Paul Fishman defended the decision not to prosecute Christie, saying that prosecutors did not have enough evidence to build a case against him when they made indictments in the case.",
+            "State prosecutors could pursue their own case against Christie, but Green, the Rutgers professor, said they have probably known about the evidence for some time and would likely have done so by now.",
+            "\u201d Saying his experience as a \u201cformer federal prosecutor\u201d helped him understand the case, Christie continued: \u201cLike so many people in New Jersey, I\u2019m saddened by this case and I\u2019m saddened about the choices made by Bill Baroni, Bridget Kelly and David Wildstein."
+        ],
+        "tf-idf score": [
+            0.6188035638631353,
+            0.8376178424932545,
+            1.0931088275292096
+        ]
+    },
+    "0.19423936793858246-3-0": {
+        "average clique similarity": 0.19423936793858246,
+        "clique": [
+            "4-Trump  too  has a lo",
+            "1-Christie has been a ",
+            "0-Since joining Trump "
+        ],
+        "median tf-idf score": 0.36551530349479716,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Trump, too, has a love of revenge.",
+            "Christie has been a forceful advocate of the Republican presidential candidate and serves as head of Trump\u2019s transition team.",
+            "Since joining Trump\u2019s campaign, after the end of his own presidential bid, the governor has been a vocal defender of some of the billionaire\u2019s most controversial comments and has headlined fundraisers."
+        ],
+        "tf-idf score": [
+            0.18652928349317982,
+            0.6229176367868454,
+            0.36551530349479716
+        ]
+    },
+    "0.19552144924531842-3-264": {
+        "average clique similarity": 0.19552144924531842,
+        "clique": [
+            "1-While Christie wasn ",
+            "0- The fact that Chris",
+            "4-If you liked the way"
+        ],
+        "median tf-idf score": 0.6029752753264552,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "While Christie wasn\u2019t charged in the \u201cBridgegate\u201d trial, the case produced a steady stream of new allegations against the governor that probably will haunt him as he tries to position himself as a significant player in a potential Donald Trump administration.",
+            "\u201cThe fact that Christie\u2019s name is frequently floated as a potential attorney general in a Trump administration should tell you all you need to know about Trump\u2019s tolerance for unethical behavior.",
+            "If you liked the way the Christie administration approached such problems, you\u2019re probably going to love a Trump administration."
+        ],
+        "tf-idf score": [
+            0.9162880213926664,
+            0.6029752753264552,
+            0.5738856366058527
+        ]
+    },
+    "0.19625414919070386-3-144": {
+        "average clique similarity": 0.19625414919070386,
+        "clique": [
+            "3-If you could use a r",
+            "0-Hillary Clinton s pr",
+            "4-Christie was one of "
+        ],
+        "median tf-idf score": 1.0942309174192488,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "If you could use a refresher on what went down in \u201dBridgegate,\u201d Matt Katz told the story on Fresh Air earlier this year: \u201dThere was a Democratic mayor in the town of Fort Lee  \u2014   which is at the foot of the George Washington Bridge, the busiest bridge in the world  \u2014   and the mayor didn\u2019t endorse Christie\u2019s  .",
+            "Hillary Clinton\u2019s presidential campaign seized on the guilty verdicts handed down in the \u201cBridgegate\u201d trial on Friday, suggesting the New Jersey governor, Chris Christie, should resign as the head of the transition team for the Republican nominee, Donald Trump.",
+            "Christie was one of Trump\u2019s earliest backers within the GOP establishment, and although he was passed over for the role of   nominee, he is leading the transition team that will create a presidential administration if Trump wins on Tuesday."
+        ],
+        "tf-idf score": [
+            1.0942309174192488,
+            1.177798776066214,
+            0.8585728500372884
+        ]
+    },
+    "0.21841740061082526-3-279": {
+        "average clique similarity": 0.21841740061082526,
+        "clique": [
+            "0-During the Republica",
+            "3-The next thing he kn",
+            "1-  In the past Trump "
+        ],
+        "median tf-idf score": 0.6010052066274049,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "During the Republican primary, however, Trump said he believed Christie was involved in the Bridgegate plot, declaring at a rally in South Carolina in December: \u201cThe George Washington Bridge, he knew about it.",
+            "The next thing he knew .",
+            "\u201d In the past Trump had been critical of Christie over the matter, saying last December, during the Republican primaries in which the two were rivals: \u201cHe totally knew about it."
+        ],
+        "tf-idf score": [
+            1.0959073152652856,
+            0.056722657134302995,
+            0.6010052066274049
+        ]
+    },
+    "0.2252003429687947-3-353": {
+        "average clique similarity": 0.2252003429687947,
+        "clique": [
+            "0-Wildstein  a   Port ",
+            "1-Wildstein  who plead",
+            "3-Wildstein pleaded gu"
+        ],
+        "median tf-idf score": 0.5609436869400861,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Wildstein, a   Port Authority official, pleaded guilty to orchestrating the scheme and was the prosecution\u2019s star witness.",
+            "Wildstein, who pleaded guilty, testified as a witness for prosecutors in the case, claiming that he told Christie what was happening during a   memorial service, and that Christie laughed.",
+            "Wildstein pleaded guilty to two counts of conspiracy earlier this year."
+        ],
+        "tf-idf score": [
+            0.5609436869400861,
+            0.9686904469362528,
+            0.2477933953075784
+        ]
+    },
+    "0.22990374739814878-4-102": {
+        "average clique similarity": 0.22990374739814878,
+        "clique": [
+            "2- New Jersey Governor",
+            "4-Two other aides to C",
+            "3-Two former allies of",
+            "1-Chris Christie s pol"
+        ],
+        "median tf-idf score": 0.802783786961292,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            " New Jersey Governor Chris Christie is unlikely to face criminal prosecution for the \u201dBridgegate\u201d lane closure scandal, even after two of his former associates were convicted for their roles in the scheme on Friday.",
+            "Two other aides to Christie, who is the Republican governor of New Jersey, had previously pleaded guilty.",
+            "Two former allies of New Jersey Gov.",
+            "Chris Christie\u2019s political career sustained a serious blow Friday after two of his former allies were found guilty of conspiring to shut down the nation\u2019s busiest bridge to punish a local mayor who refused to support the governor\u2019s reelection bid."
+        ],
+        "tf-idf score": [
+            1.0116285687077424,
+            0.751031827981682,
+            0.2374919472516107,
+            0.8545357459409021
+        ]
+    },
+    "0.2342112998498743-3-30": {
+        "average clique similarity": 0.2342112998498743,
+        "clique": [
+            "4-Though Christie has ",
+            "1- I have not been fol",
+            "3-The defense lawyers "
+        ],
+        "median tf-idf score": 0.7365940478618676,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Though Christie has not been indicted, the prosecutors\u2019 case heavily hinged on the assumption that the lane closure was designed to punish Fort Lee Mayor Mark Sokolich, a Democrat, for not endorsing Christie.",
+            "\u201cI have not been following the trial.",
+            "The defense lawyers sharply criticized prosecutors for going after Christie\u2019s aides without charging Christie, who has not been indicted in connection with this case and did not testify in the trial."
+        ],
+        "tf-idf score": [
+            1.0420061069698607,
+            0.049434634164634464,
+            0.7365940478618676
+        ]
+    },
+    "0.2401674173526754-3-86": {
+        "average clique similarity": 0.2401674173526754,
+        "clique": [
+            "3- And they did not  ",
+            "0-  Siding with prosec",
+            "2-Prosecutors would no"
+        ],
+        "median tf-idf score": 0.4394404232384171,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dAnd they did not\u201d.",
+            "\u201d Siding with prosecutors, US district judge Susan Wigenton told jurors they did not have to find that Kelly and Baroni knowingly intended to punish Sokolich in order to convict them of conspiracy.",
+            "Prosecutors would not specifically explain why they decided not to prosecute Christie."
+        ],
+        "tf-idf score": [
+            0.0,
+            0.4496316781496896,
+            0.4394404232384171
+        ]
+    },
+    "0.24240078512939567-3-77": {
+        "average clique similarity": 0.24240078512939567,
+        "clique": [
+            "0-Wildstein said Chris",
+            "4-In a statement Frida",
+            "1-Christie has said th"
+        ],
+        "median tf-idf score": 0.985237218513093,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Wildstein said Christie was told about the traffic jam as it was happening and that when he learned of Sokolich\u2019s distress over not getting his calls returned, he laughed and sarcastically joked that nothing political was going on.",
+            "In a statement Friday, Christie said he was \u201csaddened\u201d by the case, but he suggested the aides were lying and reiterated that he had no knowledge of the closures and did not authorize them.",
+            "Christie has said that he did not know about the bridge plan and repeated that claim in a statement Friday."
+        ],
+        "tf-idf score": [
+            1.0636307054117708,
+            0.985237218513093,
+            0.7161730630397052
+        ]
+    },
+    "0.24717901054580946-3-118": {
+        "average clique similarity": 0.24717901054580946,
+        "clique": [
+            "3-During the trial  Ke",
+            "1-On the first day of ",
+            "2-During the trial  Da"
+        ],
+        "median tf-idf score": 0.9862258658083365,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "During the trial, Kelly testified that Christie knew about the scheme.",
+            "On the first day of the trial, which began early last month, prosecutors alleged that Christie knew about the plan to tie up traffic on the George Washington Bridge as it was happening.",
+            "During the trial, David Wildstein, a former Port Authority official who pleaded guilty and cooperated with prosecutors, testified he and Baroni discussed the lane closures with Christie on the third day of the gridlock."
+        ],
+        "tf-idf score": [
+            0.5769504184768901,
+            0.9862258658083365,
+            1.071983570724418
+        ]
+    },
+    "0.2560055324711458-3-289": {
+        "average clique similarity": 0.2560055324711458,
+        "clique": [
+            "3-The case involved a ",
+            "0-Two former aides to ",
+            "2-U S prosecutors have"
+        ],
+        "median tf-idf score": 0.8445803362846616,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "The case involved a scheme to intentionally cause traffic problems on the George Washington Bridge in September 2013, as political retaliation against a mayor who did not endorse Christie for  .",
+            "Two former aides to Christie were convicted of creating an epic traffic jam at the George Washington Bridge in September 2013, for what prosecutors said was political revenge, capping a trial that cast doubt on Christie\u2019s claims he knew nothing about the scheme.",
+            "U S prosecutors have essentially conceded that charges are not forthcoming against the Republican, even though a key government witness testified that Christie was aware of the scheme as it unfolded in September 2013."
+        ],
+        "tf-idf score": [
+            0.8138789300370434,
+            1.2609034028231152,
+            0.8445803362846616
+        ]
+    },
+    "0.25945796324809745-3-353": {
+        "average clique similarity": 0.25945796324809745,
+        "clique": [
+            "4-She also said  numer",
+            "0-Kelly testified that",
+            "3-She said he was told"
+        ],
+        "median tf-idf score": 0.7211275068563311,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "She also said, numerous times, that she and Christie had discussed the traffic snafu in the weeks between it happening and the news conference, where Christie and the rest of the staff denied it all.",
+            "Kelly testified that she told Christie the lane closures were a traffic study when she informed him of the plans about a month beforehand.",
+            "She said he was told in advance about the plan that would cause traffic nightmares in Fort Lee, N J and responded by asking about his relationship with the local mayor."
+        ],
+        "tf-idf score": [
+            0.7211275068563311,
+            0.7882069770627775,
+            0.6520104159403697
+        ]
+    },
+    "0.2771646671085695-3-213": {
+        "average clique similarity": 0.2771646671085695,
+        "clique": [
+            "4-Late Friday morning ",
+            "0-  Prosecutors said B",
+            "2-The pair were accuse"
+        ],
+        "median tf-idf score": 1.2925710240737456,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Late Friday morning, a jury in New Jersey returned a verdict in the case against former Chris Christie aides Bill Baroni and Bridget Kelly in \u201cBridgegate,\u201d the closure of lanes on the George Washington Bridge.",
+            "\u201d Prosecutors said Bridget Kelly, Christie\u2019s former deputy chief of staff, and Bill Baroni, a Christie appointee to the Port Authority of New York and New Jersey, plotted with Christie ally David Wildstein to close lanes at the bridge and create gridlock in order to punish the Democratic mayor of Fort Lee, Mark Sokolich, for not endorsing Christie for  .",
+            "The pair were accused of closing down access lanes at the busy George Washington Bridge in Fort Lee, New Jersey, to create a massive traffic jam as payback for the town\u2019s Democratic mayor failing to endorse Christie\u2019s reelection campaign."
+        ],
+        "tf-idf score": [
+            1.2925710240737456,
+            1.6922238299220216,
+            1.1489962837661942
+        ]
+    },
+    "0.30587649938954237-3-283": {
+        "average clique similarity": 0.30587649938954237,
+        "clique": [
+            "4-Christie is in charg",
+            "3-A total of four form",
+            "0- How can Trump trust"
+        ],
+        "median tf-idf score": 0.780821659502317,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Christie is in charge of hiring the people who would staff a Trump administration \u2014  and four close aides whom he hired have now been convicted, or plead guilty, to committing crimes.",
+            "A total of four former top Christie aides have now either pleaded guilty or been found guilty of federal crimes  \u2014   three of them related to Bridgegate.",
+            "\u201cHow can Trump trust Christie\u2019s judgment to hire the key staff for his administration if   \u2026     his top aides have been found guilty of federal crimes?\u201d DNC spokesman Mark Paustenbach said in a statement."
+        ],
+        "tf-idf score": [
+            0.780821659502317,
+            0.5874086600204335,
+            0.9422677713647892
+        ]
+    },
+    "0.33245081226522427-3-134": {
+        "average clique similarity": 0.33245081226522427,
+        "clique": [
+            "3-It read   Time for s",
+            "4-Time for spin proble",
+            "0-  One of the most da"
+        ],
+        "median tf-idf score": 0.2120885462204784,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "It read: \u201dTime for some traffic problems in Fort Lee\u201d.",
+            "Time for spin problems on the Trump transition team.",
+            "\u201d One of the most damning pieces of evidence was an email in which Kelly wrote: \u201cTime for some traffic problems in Fort Lee."
+        ],
+        "tf-idf score": [
+            0.2040098002149353,
+            0.2120885462204784,
+            0.5512373828517209
+        ]
+    },
+    "0.36287007522370923-3-353": {
+        "average clique similarity": 0.36287007522370923,
+        "clique": [
+            "3-It went on for five ",
+            "2-Christie s former de",
+            "1-William E Baroni Jr "
+        ],
+        "median tf-idf score": 1.1545883712501614,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It went on for five mornings in a row before somebody from the New York side of the Port Authority  \u2014   because this is a   agency  \u2014   discovered what had been going on and decided to reopen the lanes.",
+            "Christie\u2019s former deputy chief of staff, Bridget Kelly, and former Port Authority of New York and New Jersey deputy executive director Bill Baroni were found guilty on Friday of all counts in Newark federal court.",
+            "William E Baroni Jr the former deputy executive director of the Port Authority of New York and New Jersey, and Bridget Kelly, Christie\u2019s former deputy chief of staff for legislative and intergovernmental affairs, were both convicted of all the counts against them, the U S attorney\u2019s office in New Jersey said."
+        ],
+        "tf-idf score": [
+            0.4612998411713391,
+            1.1545883712501614,
+            1.2356857177867242
+        ]
+    },
+    "0.4028778656331982-3-189": {
+        "average clique similarity": 0.4028778656331982,
+        "clique": [
+            "1-  Kelly said she tol",
+            "2-Kelly  meanwhile  te",
+            "0-Kelly  Baroni and Wi"
+        ],
+        "median tf-idf score": 0.9142803421461357,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d Kelly said she told Christie of the lane closures before they happened, though she claimed she thought they were part of a legitimate traffic study that needed her boss\u2019s approval.",
+            "Kelly, meanwhile, testified that she discussed the lane closures with Christie a month before they occurred, though she said she thought they were part of a traffic study.",
+            "Kelly, Baroni and Wildstein all testified that Christie was informed about the lane closures either before or while they were going on."
+        ],
+        "tf-idf score": [
+            0.9142803421461357,
+            0.9094595971528763,
+            0.9633981647864505
+        ]
+    },
+    "0.5202724468403184-3-23": {
+        "average clique similarity": 0.5202724468403184,
+        "clique": [
+            "2- I had no knowledge ",
+            "3-That contradicted pu",
+            "0-In response  Christi"
+        ],
+        "median tf-idf score": 0.41878034781267137,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201dI had no knowledge prior to or during these lane realignments, and had no role in authorizing them,\u201d he said.",
+            "That contradicted public statements from the governor, who said after the scandal that he had \u201dno knowledge or involvement\u201d in the traffic snarl.",
+            "In response, Christie said he \u201chad no knowledge prior to or during these lane realignments, and had no role in authorizing them\u201d."
+        ],
+        "tf-idf score": [
+            0.34575183764091094,
+            0.41878034781267137,
+            0.6732087522406546
+        ]
+    },
+    "0.5875263191998482-4-63": {
+        "average clique similarity": 0.5875263191998482,
+        "clique": [
+            "2- Anything said to th",
+            "0-Anything said to the",
+            "3-Anything said to the",
+            "4-The trial also sugge"
+        ],
+        "median tf-idf score": 0.2660709290507192,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dAnything said to the contrary over the past six weeks in court is simply untrue\u201d.",
+            "Anything said to the contrary over the past six weeks in court is simply untrue.",
+            "Anything said to the contrary over the past six weeks in court is simply untrue\u201d.",
+            "The trial also suggested that Christie was, despite his protestations to the contrary, involved in the scheme."
+        ],
+        "tf-idf score": [
+            0.2660709290507192,
+            0.2660709290507192,
+            0.2660709290507192,
+            0.6464273611354844
+        ]
+    },
+    "0.6318959041653909-3-353": {
+        "average clique similarity": 0.6318959041653909,
+        "clique": [
+            "0-In his statement on ",
+            "1- But let me be clear",
+            "3-But let me be clear "
+        ],
+        "median tf-idf score": 0.2268049399476199,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "In his statement on Friday, Christie said: \u201cLet me be clear once again, I had no knowledge prior to or during these lane realignments, and had no role in authorizing them.",
+            "\u201cBut let me be clear once again, I had no knowledge prior to or during these lane realignments, and had no role in authorizing them.",
+            "But let me be clear once again, I had no knowledge prior to or during these lane realignments, and had no role in authorizing them."
+        ],
+        "tf-idf score": [
+            0.7801582121530988,
+            0.2268049399476199,
+            0.2268049399476199
+        ]
+    }
+}

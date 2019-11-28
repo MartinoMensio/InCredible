@@ -1,0 +1,506 @@
+{
+    "0.1670533991506774-3-114": {
+        "average clique similarity": 0.1670533991506774,
+        "clique": [
+            "2-However  prosecutors",
+            "3-Who are these guys  ",
+            "4-The father served th"
+        ],
+        "median tf-idf score": 0.8121948817438263,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "However, prosecutors said the fires were set to cover up poaching. The decision generated controversy and is part of a   dispute between some Westerners and the federal government over the use of public lands.",
+            "Who are these guys, and what do they want? The apparent goal of the takeover is ultimately to induce the federal government to turn over   land to local ranchers, loggers, and miners for their use.",
+            "The father served three months, while the son, who was also found guilty of committing arson on public lands in 2006, served one year, according to the Associated Press. The Hammonds claimed they set fire to the lands, which they leased from the government for grazing cattle, to fight off invasive species. They are expected to report to prison on Monday."
+        ],
+        "tf-idf score": [
+            0.8121948817438263,
+            0.7939952448655487,
+            1.024206849439214
+        ]
+    },
+    "0.17347123117210617-3-26": {
+        "average clique similarity": 0.17347123117210617,
+        "clique": [
+            "5-Law enforcement offi",
+            "3-On January 26  law e",
+            "2-Still  the bureau di"
+        ],
+        "median tf-idf score": 0.576568258312901,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "Law enforcement officials also dismissed the occupiers as being separate from the protest over the Hammonds, saying they came to the region with a specific and different goal.",
+            "On January 26, law enforcement officials arrested six of the militia leaders  --   including Ammon and Ryan Bundy  --   after an encounter with law enforcement resulted in a shootout.",
+            "Still, the bureau did not give any specifics about its response in a statement Sunday, citing \"safety considerations for both those inside the refuge as well as the law enforcement officers involved\". Ammon Bundy's brother, Ryan, said they planned on staying at the refuge as long as it takes."
+        ],
+        "tf-idf score": [
+            0.318852358362027,
+            0.576568258312901,
+            0.9258635006740413
+        ]
+    },
+    "0.17504323808615949-3-255": {
+        "average clique similarity": 0.17504323808615949,
+        "clique": [
+            "3-Is it working  No  F",
+            "2-Bundy is one of the ",
+            "5- The Washington Post"
+        ],
+        "median tf-idf score": 1.1064199436755724,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Is it working? No. For one thing, it turned out that the Hammonds don't actually want the militia's help  --   or at least, not anymore. At first, according to the Oregonian, the Hammonds \"accepted the militia's offer of help to avoid prison\".",
+            "Bundy is one of the protesters occupying the refuge to object to a prison sentence for local ranchers for burning federal land.",
+            "(The Washington Post)   Although the elder Bundy told a reporter in Oregon that \"150 militia men\" had occupied the federal land over the weekend, at least one person who saw them leave for the refuge said there were \"maybe a dozen\" people."
+        ],
+        "tf-idf score": [
+            0.3939397623977793,
+            1.1064199436755724,
+            1.2733633259290134
+        ]
+    },
+    "0.18793974373561262-3-297": {
+        "average clique similarity": 0.18793974373561262,
+        "clique": [
+            "5- What spurred the ar",
+            "4-The elder Bundy appe",
+            "0-Oregon Public Broadc"
+        ],
+        "median tf-idf score": 1.1830102932701336,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "[What spurred the armed occupation of a federal wildlife refuge in southeast Oregon] After the march Saturday, a group of armed activists, led by rancher Ammon Bundy, traveled to the Malheur National Wildlife Refuge and announced plans to stay indefinitely.",
+            "The elder Bundy appeared to distance himself from his son's standoff, telling Oregon Public Broadcasting's John Sepulvado on Saturday that the standoff was \"not exactly what I thought should happen. \" The county sheriff's office has advised people to stay away from the refuge as the standoff continues, according to The Oregonian. Copyright (c) 2016 by The Atlantic Monthly Group.",
+            "Oregon Public Broadcasting reports that the men were apparently led by Ammon Bundy."
+        ],
+        "tf-idf score": [
+            1.1830102932701336,
+            1.1905662543483824,
+            0.5081962034346998
+        ]
+    },
+    "0.20451841454666755-3-152": {
+        "average clique similarity": 0.20451841454666755,
+        "clique": [
+            "2-If the situation tur",
+            "1-They want to  restor",
+            "4-Bundy said that the "
+        ],
+        "median tf-idf score": 0.8725633078556906,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "If the situation turns violent, he contends it will be because of the federal government's actions. \"I mean, we're here to restore order, we're here to restore rights and that can go peacefully and easily\". Dwight Hammond Jr 73, and his    son, Steven, have claimed that they lit the fires in 2001 and 2006 to reduce the growth of invasive plants and protect their property from wildfires.",
+            "They want to \"restore the rights to people so they can use the land and resources\" for ranching, logging, mining and recreation. Ryan Bundy says the federal government has been \"tromping on people's rights and privileges and properties and livelihoods. \"",
+            "Bundy said that the property, which is managed by the U S Fish and Wildlife Service, is \"owned by the people, and it has been provided to us to be able to come together and unite to make a hard stand against [government] overreach. \""
+        ],
+        "tf-idf score": [
+            0.8725633078556906,
+            1.0951722536974653,
+            0.8702599873583314
+        ]
+    },
+    "0.21858197271255894-3-335": {
+        "average clique similarity": 0.21858197271255894,
+        "clique": [
+            "1-In an interview with",
+            "5-       BURNS  Ore   ",
+            "4-Bundy and the armed "
+        ],
+        "median tf-idf score": 1.149225455608676,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In an interview with the Associated Press at the wildlife refuge Sunday, Ryan Bundy, Ammon Bundy's brother, said the protesters' ultimate goal is to turn the land over to local authorities so people can use it free of federal oversight.",
+            "       BURNS, Ore.  --   The FBI has taken charge of the law enforcement response to an armed occupation of a federal wildlife refuge in Oregon, saying that it will work with local and state authorities to seek \"a peaceful resolution to the situation. \"",
+            "Bundy and the armed protesters took over the headquarters of the Malheur Wildlife Refuge, which was closed for the holiday weekend, after participating in a peaceful rally in Burns, Oregon, in support of the Hammonds."
+        ],
+        "tf-idf score": [
+            1.4957501812653111,
+            1.149225455608676,
+            1.0333974239004204
+        ]
+    },
+    "0.2259566177513541-3-176": {
+        "average clique similarity": 0.2259566177513541,
+        "clique": [
+            "4-On Saturday  Bundy w",
+            "5-Federal authorities ",
+            "3- A militia protestin"
+        ],
+        "median tf-idf score": 0.9598486478563708,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "On Saturday, Bundy went further. He and an unknown number of other individuals, armed with guns, stormed an empty building in a federal wildlife refuge in Oregon in support of the ranchers.",
+            "Federal authorities are working with the Harney County Sheriff's Office, the Oregon State Police and other local and state agencies in response to the situation in eastern Oregon, the latest chapter in an ongoing fight over federal land use in the West.",
+            " A militia protesting the \"tyranny\" of the federal government seized the headquarters of a federal wildlife refuge in Oregon on January 2 and, in a video posted to Facebook, called on \"patriots\" from all over the country to come to the refuge with their guns to join their fight."
+        ],
+        "tf-idf score": [
+            0.9853556025119217,
+            0.9598486478563708,
+            0.9591280796617826
+        ]
+    },
+    "0.23121749472127362-3-11": {
+        "average clique similarity": 0.23121749472127362,
+        "clique": [
+            "3-Thus  Bundy and his ",
+            "0-A small group of arm",
+            "1-It s a time to stand"
+        ],
+        "median tf-idf score": 0.7951308803697184,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Thus, Bundy and his fellow militiamen have seized the headquarters of the Malheur National Wildlife Refuge  --   located in a remote area some 50 miles southeast of the city of Burns  --   in hopes of creating a \"base\" where \"patriots\" like themselves can come, with their guns, to live and make their stand against the \"tyrannical\" federal government.",
+            "A small group of armed   occupied the headquarters of the Malheur National Wildlife Refuge in Burns, Ore. on Saturday.",
+            "It's a time to stand up and come to Harney County,\" where Burns is located. Bundy and other militia members came last month to Burns, a small town about 280 miles southeast of Portland, Oregon."
+        ],
+        "tf-idf score": [
+            1.1731122283325708,
+            0.558264374283584,
+            0.7951308803697184
+        ]
+    },
+    "0.23545903107801033-3-271": {
+        "average clique similarity": 0.23545903107801033,
+        "clique": [
+            "1-The sheriff says he ",
+            "3-As reported by the O",
+            "2- We are currently wo"
+        ],
+        "median tf-idf score": 0.7935104123183815,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "The sheriff says he is working with local and federal authorities to keep the citizens in his county safe and to resolve the situation as quickly and peacefully as possible. He is asking people to stay away from the Malheur National Wildlife Refuge for their own safety.",
+            "As reported by the Oregonian:  Militia members at the refuge claimed they had as many as 100 supporters with them.",
+            "\"We are currently working jointly with several organizations to make sure the citizens of Harney County are safe and this issue is resolved as quickly and peaceful as possible\". Buildings at the Malheur National Wildlife Refuge are seen near Burns, Ore. Sunday, Jan. 3, 2016."
+        ],
+        "tf-idf score": [
+            1.0454310852848736,
+            0.34289147049062896,
+            0.7935104123183815
+        ]
+    },
+    "0.2387790145732924-3-170": {
+        "average clique similarity": 0.2387790145732924,
+        "clique": [
+            "2-The issue traces bac",
+            "3-Federal agencies own",
+            "5-To their supporters "
+        ],
+        "median tf-idf score": 0.7016200345686776,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The issue traces back to the 1970s and the \"Sagebrush Rebellion,\" a move by Western states like Nevada to increase local control over federal land.",
+            "Federal agencies own and regulate huge chunks of land in western states like Oregon and Nevada.",
+            "To their supporters, the Hammonds are the latest in a long line of poor farmers and landowners struggling against the federal government and its land regulations in Western states, such as Oregon, where the federal government owns much of the land."
+        ],
+        "tf-idf score": [
+            0.7016200345686776,
+            0.579819074719586,
+            0.7806091933520144
+        ]
+    },
+    "0.2414792350671439-3-85": {
+        "average clique similarity": 0.2414792350671439,
+        "clique": [
+            "1-On Sunday  supplies ",
+            "5-The Hammonds plan to",
+            "0-   comes from the Ea"
+        ],
+        "median tf-idf score": 0.8002873143929699,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "On Sunday, supplies were seen being delivered to the refuge area, which is remote even by rural Oregon standards. Dwight Hammond has said he and his son plan to peacefully report to prison Monday as ordered by the judge.",
+            "The Hammonds plan to report to a federal prison on Monday to serve their sentences, attorneys for the pair said in a statement.",
+            ".. comes from the Earth, and we cannot have the government restricting the use of that to the point where it puts us in poverty,\" Bundy said. OPB reports that the Hammonds plan to report to jail on Monday."
+        ],
+        "tf-idf score": [
+            0.9098803815612945,
+            0.7384472987578584,
+            0.8002873143929699
+        ]
+    },
+    "0.24553299495390005-3-6": {
+        "average clique similarity": 0.24553299495390005,
+        "clique": [
+            "3-They have already se",
+            "5-The trial court agre",
+            "4-The trial court agre"
+        ],
+        "median tf-idf score": 0.6550067888139142,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "They have already served prison sentences for their crimes, but they now must return for an additional term after federal appellate judges said they had been illegally sentenced the first time.",
+            "The trial court agreed and sentenced them to less time, but an appeals court disagreed and vacated their sentences and ordered them to be resentenced.",
+            "The trial court agreed and reduced the sentence. But an appeals court eventually upheld the federal law, and a judge imposed the mandatory sentence last October, with credit for time the Hammonds already served."
+        ],
+        "tf-idf score": [
+            0.6615152682359319,
+            0.21696070584589405,
+            0.6550067888139142
+        ]
+    },
+    "0.249233695824335-5-120": {
+        "average clique similarity": 0.249233695824335,
+        "clique": [
+            "5- These men came to H",
+            "1-Harney County Sherif",
+            "4-The Hammonds  lawyer",
+            "0-The government won t",
+            "2-He said they asked H"
+        ],
+        "median tf-idf score": 0.8292619210106085,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "New York Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"These men came to Harney County claiming to be part of militia groups supporting local ranchers,\" Harney County Sheriff David M Ward said in a statement Sunday.",
+            "Harney County Sheriff Dave Ward said the group of armed protesters came to town under false pretenses.",
+            "The Hammonds' lawyer wrote to the sheriff of Harney County, Oregon, Dave Ward, on Friday that \"neither Ammon Bundy nor anyone within his   speak for the Hammond family,\" according to the AP Bundy has insisted that the armed protesters at the refuge were being peaceful and urged \"all   people\" to join their cause.",
+            "The government won that appeal in October, and the Hammonds were ordered to begin serving the rest of that   sentence on Monday. Harney County Sheriff Dave Ward told The Oregonian that multiple agencies are \"currently working on a solution\" to the occupation.",
+            "He said they asked Harney County Sheriff Dave Ward and federal agencies to put an end to what he called \"abuses\" against local ranchers Dwight and Steven Hammond."
+        ],
+        "tf-idf score": [
+            0.8292619210106085,
+            0.5495973033264782,
+            1.2439846139237822,
+            0.72613986334837,
+            0.9573732600208569
+        ]
+    },
+    "0.2774385716295369-3-61": {
+        "average clique similarity": 0.2774385716295369,
+        "clique": [
+            "4-When the Hammonds we",
+            "0-They were sentenced ",
+            "1-The two were convict"
+        ],
+        "median tf-idf score": 0.7673473052861894,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "When the Hammonds were originally sentenced, they argued that the  minimum mandatory sentence for arson on federal land --  five years --  was unconstitutional, according to the U S district attorney's office in Oregon.",
+            "They were sentenced to a year or less in prison in 2012 for arson. But federal prosecutors appealed that sentence, saying the two men should have \"received the mandatory minimum sentence of five years in prison for burning federal property\".",
+            "The two were convicted of the arsons three years ago and served time  --   the father three months, the son one year. But a federal judge ruled in October that their terms were too short under US minimum sentencing law and ordered them back to prison for about four years each."
+        ],
+        "tf-idf score": [
+            0.8942877221857685,
+            0.6571588579781721,
+            0.7673473052861894
+        ]
+    },
+    "0.3002700243301291-4-107": {
+        "average clique similarity": 0.3002700243301291,
+        "clique": [
+            "0-On its Facebook page",
+            "1-It was unclear exact",
+            "5- OccupyMalheur      ",
+            "4- We will be here as "
+        ],
+        "median tf-idf score": 0.791667115051989,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "On its Facebook page, the Bundy Ranch posted video of Ammon Bundy talking to the press: Bundy said the men were prepared to \"stay as long as it takes\".",
+            "It was unclear exactly how many people were taking part in the protests. Ammon Bundy posted a video on his Facebook page asking for militia members to come help him. He said \"this is not a time to stand down.",
+            "#OccupyMalheur  --   Ammon Bundy (@Ammon_Bundy) January 4, 2016  In a video posted on Facebook late Sunday, Ammon Bundy said an unidentified \"county representative\" told him the FBI was intimidating local officials, but he did not elaborate on that charge.",
+            "\"We will be here as long as it takes,\" Bundy said in an interview posted on the Bundy Ranch's Facebook page late Saturday night."
+        ],
+        "tf-idf score": [
+            0.6747618545111966,
+            0.9479501960496803,
+            0.9085723755927811,
+            0.5384511523978729
+        ]
+    },
+    "0.3016591036143778-3-172": {
+        "average clique similarity": 0.3016591036143778,
+        "clique": [
+            "4-The federal governme",
+            "3-The Hammonds were co",
+            "0-The day started off "
+        ],
+        "median tf-idf score": 0.8981577020046382,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "The federal government, Bundy said, was unfairly punishing Dwight Hammond, 73, and his son Steven Hammond, 43, who were convicted in 2012 of committing arson on public lands in 2001.",
+            "The Hammonds were convicted of arson in 2012 for setting fire to public land adjacent to their ranch land.",
+            "The day started off with a protest. Militia members marched in support of Dwight Hammond Jr and his son, Steven Hammond, two ranchers who were convicted of setting federal lands on fire."
+        ],
+        "tf-idf score": [
+            1.2183399310035854,
+            0.36021489690910435,
+            0.8981577020046382
+        ]
+    },
+    "0.3133990005266611-3-95": {
+        "average clique similarity": 0.3133990005266611,
+        "clique": [
+            "2- Dwight and Steven H",
+            "1-Dwight Hammond  73  ",
+            "5- Dwight and Steven H"
+        ],
+        "median tf-idf score": 0.7814682792837248,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"Dwight and Steven Hammond respect the rule of law. They have litigated this matter within the federal courts for over five years and, in every instance, have followed the order of the court without incident or violation,\" the Hammonds' attorneys said.",
+            "Dwight Hammond, 73, and Steven Hammond, 46, said they lit the fires on federal land in 2001 and 2006 to reduce the growth of invasive plants and protect their property from wildfires.",
+            "\"Dwight and Steven Hammond respect the rule of law,\" the statement said."
+        ],
+        "tf-idf score": [
+            0.8584090990195236,
+            0.7814682792837248,
+            0.38652194858703637
+        ]
+    },
+    "0.3255609007164161-3-353": {
+        "average clique similarity": 0.3255609007164161,
+        "clique": [
+            "1-They were upset over",
+            "2-The protesters took ",
+            "5-push  c b         Th"
+        ],
+        "median tf-idf score": 0.8820739693642788,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "They were upset over the looming prison sentences for local ranchers Dwight and Steven Hammond. They went to the wildlife refuge Saturday evening following a peaceful rally in Burns to support the ranchers.",
+            "The protesters took over the Malheur National Wildlife Refuge south of Burns on Saturday after participating in a peaceful rally. Sheriff Ward said the protesters were no patriots.",
+            "push( c[b])})();  The occupation of a remote federal wildlife refuge followed a peaceful march and rally held over the weekend to support two local ranchers convicted of arson."
+        ],
+        "tf-idf score": [
+            0.8880336623920537,
+            0.7875872710019702,
+            0.8820739693642788
+        ]
+    },
+    "0.3731652162201147-6-237": {
+        "average clique similarity": 0.3731652162201147,
+        "clique": [
+            "0-He is the son of Cli",
+            "4-The protesters deman",
+            "2-Ammon Bundy  a son o",
+            "1-Ammon Bundy       th",
+            "5-Bundy s father  Cliv",
+            "3-The arrests happened"
+        ],
+        "median tf-idf score": 1.0773599685636759,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Fox News",
+            "Atlantic",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He is the son of Cliven Bundy, who was involved in a   standoff with the federal government in Nevada over grazing rights.",
+            "The protesters demand that the Hammonds be released. But Bundy told CNN Sunday that \"if force is used against us, we would defend ourselves. \" Bundy is the son of Nevada rancher Cliven Bundy, who is known for staging his own standoff against the federal government.",
+            "Ammon Bundy, a son of Cliven Bundy, who was involved in a standoff of his own against the federal government in 2014, spoke on behalf of the protesters.",
+            "Ammon Bundy  --   the son of Nevada rancher Cliven Bundy, who was involved in a 2014 standoff with the government over grazing rights  --   is among the people at the headquarters of the Malheur National Wildlife Refuge.",
+            "Bundy's father, Cliven, is a Nevada rancher who has sparred with the government for years and who in 2014 had an armed standoff with federal agents trying to prevent him from illegally grazing his cattle on federal land.",
+            "The arrests happened after a shootout in which one militia member was killed, and another injured. Ammon Bundy's father Cliven Bundy became a Fox News star in 2014 for his armed standoff in Nevada with the federal government over   rights."
+        ],
+        "tf-idf score": [
+            0.8409297614151727,
+            1.0740595296006652,
+            0.9048112411747844,
+            1.142515772978453,
+            1.0829709523862474,
+            1.0806604075266864
+        ]
+    },
+    "0.45654152520992225-3-44": {
+        "average clique similarity": 0.45654152520992225,
+        "clique": [
+            "2- These men came to H",
+            "1- These men came to H",
+            "3-The United States of"
+        ],
+        "median tf-idf score": 1.2602456285445354,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Vox"
+        ],
+        "sentences": [
+            "\"These men came to Harney County claiming to be part of militia groups supporting local ranchers, when in reality these men had alternative motives to attempt to overthrow the county and federal government in hopes to spark a movement across the United States,\" Ward said in a statement.",
+            "\"These men came to Harney County claiming to be part of militia groups supporting local ranchers, when in reality these men had alternative motives to attempt to overthrow the county and federal government in hopes to spark a movement across the United States,\" Ward said in a statement on Sunday afternoon.",
+            "The United States of America holds deed to   of Harney County. Ranching done for a century and more is under pressure from environmentalists, recreationalists, and hunters. .. The plight of the Hammonds has become a rallying call for one militia and patriot group after another. Men who see tyranny in federal acts are standing for the two men."
+        ],
+        "tf-idf score": [
+            1.2602456285445354,
+            1.313886630193358,
+            0.8449884644390059
+        ]
+    }
+}

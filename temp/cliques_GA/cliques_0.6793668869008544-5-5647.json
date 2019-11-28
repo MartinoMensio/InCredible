@@ -1,0 +1,634 @@
+{
+    "0.15111133218818296-3-342": {
+        "average clique similarity": 0.15111133218818296,
+        "clique": [
+            "4-Sanders defended him",
+            "1-In contrast  and inc",
+            "2-With no more debates"
+        ],
+        "median tf-idf score": 1.2213995523133476,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "National Review"
+        ],
+        "sentences": [
+            "Sanders defended himself, saying he has a strong record on trying to prevent guns from getting into the wrong hands and standing up to the NRA Sanders supporters watching in Manchester, New Hampshire, said he seemed more engaged than in past debates. \"I thought that Bernie was much more prepared,\" Chris Haigh, 66, said.",
+            "In contrast, and incredibly, no one took a potshot at Donald Trump until more than an hour into the debate. The candidates have worked hard in earlier debates to remind viewers that whatever their differences, the Democrats are essentially on the same page, and they have also derided the fractious, bellicose Republican debates.",
+            "With no more debates until after Iowa and New Hampshire, Sunday night was Clinton's last chance to directly undermine Sanders's surge."
+        ],
+        "tf-idf score": [
+            1.2269127838979956,
+            0.3786327134669841,
+            1.2213995523133476
+        ]
+    },
+    "0.1524200532392093-3-92": {
+        "average clique similarity": 0.1524200532392093,
+        "clique": [
+            "3-Sanders then took th",
+            "1-She has  however  le",
+            "0-Clinton responded th"
+        ],
+        "median tf-idf score": 0.6711464004152723,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Sanders then took the fight to Clinton on a number of other issues  --   especially the regulation of Wall Street, her ties to Wall Street banks, including $600, 000 in speaking fees from Goldman Sachs.",
+            "She has, however, learned to pull her opponents into the muck, ticking off O'Malley's former fundraising from Wall Street and Sanders's 2000 vote to deregulate derivatives.",
+            "Clinton responded that O'Malley raised money from Wall Street as head of the Democratic Governors Association."
+        ],
+        "tf-idf score": [
+            0.9356030466057617,
+            0.6711464004152723,
+            0.5806875163060723
+        ]
+    },
+    "0.1545718470578921-3-279": {
+        "average clique similarity": 0.1545718470578921,
+        "clique": [
+            "3-At these events  cau",
+            "1-If O Malley doesn t ",
+            "4-Clinton tried to und"
+        ],
+        "median tf-idf score": 0.8563931752158648,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "At these events, caucus participants hold a preliminary vote, and candidates whose support falls short of a viability threshold are dropped. Their supporters are then free to support others in the final vote. So in those precincts where O'Malley has backers, but not enough to qualify for the final vote, the   preference of those backers could prove critically important.",
+            "If O'Malley doesn't meet a certain threshold of support at the caucus meetings, his supporters will be given the option to back his rivals. According to the latest polls, voters might be \"persuaded\" to support another candidate. The debate, which is held in South Carolina and broadcast on NBC at 9 p. m. comes days after President Obama announced a series of executive actions intended to tighten gun laws.",
+            "Clinton tried to undercut Sanders' support among supporters of Obama, who remains a popular figure in the Democratic Party."
+        ],
+        "tf-idf score": [
+            0.47459467713500786,
+            0.9202839388259276,
+            0.8563931752158648
+        ]
+    },
+    "0.15739089442789925-3-10": {
+        "average clique similarity": 0.15739089442789925,
+        "clique": [
+            "4-She welcomed his dec",
+            "3- He voted for immuni",
+            "0-Clinton said she was"
+        ],
+        "median tf-idf score": 0.7115852850192644,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "She welcomed his decision on Saturday night to back a bill in Congress rescinding portions of a law giving gunmakers immunity from lawsuits, but said his record showed a more lenient attitude toward the demands of the powerful National Rifle Association (NRA) gun lobby.",
+            "\"He voted for immunity from gun makers and sellers which the NRA said was the most important piece of gun legislation in 20 years,\" said Clinton.",
+            "Clinton said she was pleased Sanders had \"reversed his position on immunity,\" but said the industry has been given a \"total pass\" so far."
+        ],
+        "tf-idf score": [
+            0.4623843035977791,
+            0.7115852850192644,
+            1.0597272332181564
+        ]
+    },
+    "0.15960571123020806-3-90": {
+        "average clique similarity": 0.15960571123020806,
+        "clique": [
+            "3-But the mood of this",
+            "4-The debate followed ",
+            "1-But more conspicuous"
+        ],
+        "median tf-idf score": 0.7316612747194848,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "But the mood of this meeting was more portentous than those of their previous three debates, if only because Iowa no longer looks like an easy win for Clinton.",
+            "The debate followed a week of rising tension between the two leading candidates. Sanders was noticeably more animated that in previous debates, sometimes grimacing and shaking his head during Clinton's answers.",
+            "But more conspicuous by absence was the kumbaya vibe of previous meetings. On Sunday, all three candidates frequently invoked \"respect,\" a reliable indicator of tension."
+        ],
+        "tf-idf score": [
+            0.7316612747194848,
+            1.0517731907008818,
+            0.3233627124526517
+        ]
+    },
+    "0.16138449358426754-3-175": {
+        "average clique similarity": 0.16138449358426754,
+        "clique": [
+            "1-Expect that to come ",
+            "0-Clinton said she wan",
+            "4- Nobody is tearing t"
+        ],
+        "median tf-idf score": 0.969249633554299,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "Expect that to come up, especially from Clinton, who on Sunday accused Sanders of   on gun control.",
+            "Clinton said she wants to improve on ObamaCare, but accused Sanders of moving to unravel the Obama administration's signature domestic policy.",
+            "\"Nobody is tearing this up,\" he said, referring to the program popularly known as Obamacare. \"We're moving forward\". The debate was held across the street from the Charleston church where a white gunman killed nine black worshippers in June, and Clinton made reference to the incident while accusing Sanders of being weak on gun control."
+        ],
+        "tf-idf score": [
+            0.8115041539700922,
+            0.969249633554299,
+            1.3468226747258534
+        ]
+    },
+    "0.16771639920802928-3-19": {
+        "average clique similarity": 0.16771639920802928,
+        "clique": [
+            "3-Even though Clinton ",
+            "2-Having entered the r",
+            "0-Reflecting the tough"
+        ],
+        "median tf-idf score": 1.3503863099840467,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "National Review"
+        ],
+        "sentences": [
+            "Even though Clinton recovered to win in New Hampshire the following week, her support declined in South Carolina and Nevada. This enabled Obama to gain the upper hand, fight her to a draw on the big primary day (Super Tuesday) and then outlast her through the spring.",
+            "Having entered the race with a comfortable lead, she saw her prospects evaporate under competition from a senator with limited national experience and a transformative,   message. An unexpected wave of young and new voters pushed Obama to victory in Iowa in 2008  --   a phenomenon Clinton and her advisers worry is repeating this cycle, as Sanders continues to draw record crowds of college kids to rallies nationwide.",
+            "Reflecting the tougher tone on the campaign trail in recent days, the debate in Charleston, S C saw Clinton aggressively challenging the Vermont senator's record in a bid to arrest his rise in the polls. In a throwback to the 2008 race, the former first lady, New York senator and secretary of state also stressed her experience and readiness for the job, while Sanders repeatedly called for \"political revolution. \""
+        ],
+        "tf-idf score": [
+            0.8551362411677426,
+            1.3503863099840467,
+            1.4657818532710891
+        ]
+    },
+    "0.1803259268448855-3-198": {
+        "average clique similarity": 0.1803259268448855,
+        "clique": [
+            "0-After a recent repor",
+            "2-Clinton s attacks on",
+            "1-Clinton  seeing Sand"
+        ],
+        "median tf-idf score": 0.9702412821503826,
+        "publications": [
+            "Fox News",
+            "National Review",
+            "Atlantic"
+        ],
+        "sentences": [
+            "After a recent report claimed a Clinton ally was preparing to seek the    Vermont senator's medical records, the Sanders campaign called the move a \"personal\" and unfounded attack.",
+            "Clinton's attacks on Sanders echoed the onslaught her scrambling campaign deployed against the Vermont senator over the last week.",
+            "Clinton, seeing Sanders gain on her in the polls, has attacked the Vermont senator as soft on guns."
+        ],
+        "tf-idf score": [
+            1.050337887600451,
+            0.8382897592570138,
+            0.9702412821503826
+        ]
+    },
+    "0.18517994486944547-3-52": {
+        "average clique similarity": 0.18517994486944547,
+        "clique": [
+            "0-Sanders fired back  ",
+            "4- I have to say I m n",
+            "3- It s another thing "
+        ],
+        "median tf-idf score": 0.9270107685410593,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Sanders fired back, calling some of Clinton's criticism \"nonsense. \" He said he wants to move to \"Medicare for all\" in order to provide health care \"as a right\" and extend insurance to the millions who still don't have it.",
+            "\"I have to say I'm not sure whether we're talking about the plan you introduced tonight or the plan you introduced nine times over 20 years,\" she told Sanders. \"But the fact is we have the Affordable Care Act. .. We have already seen 19 million Americans get insurance\". Sanders said he wanted to build on the Obama law by making health insurance more affordable.",
+            "\"It's another thing to say that we are doing away with private health insurance premiums. So if I save you $10, 000 in private health insurance and you pay a little bit more in taxes in total, there are huge savings in what your family is spending\". Foreign affairs came up at several points but did not dominate the evening as in some of the Republican debates."
+        ],
+        "tf-idf score": [
+            0.9596991223660178,
+            0.9270107685410593,
+            0.44100875031711156
+        ]
+    },
+    "0.18521372938268046-3-44": {
+        "average clique similarity": 0.18521372938268046,
+        "clique": [
+            "2-Perhaps Clinton s st",
+            "4- He s criticized Pre",
+            "0-The candidates clash"
+        ],
+        "median tf-idf score": 1.0274170444970563,
+        "publications": [
+            "Reuters",
+            "National Review",
+            "Fox News"
+        ],
+        "sentences": [
+            "Perhaps Clinton's strongest sign of life came in response to Sanders's attack on her ties to Wall Street, when she combined her relentless praise of President Obama's legacy with an attack on Sanders's character.",
+            "\"He's criticized President Obama for taking donations from Wall Street. And President Obama has led our country out of the Great Recession,\" she said.",
+            "The candidates clashed again over Wall Street ties, with O'Malley accusing Clinton of having a \"cozy relationship\" with Wall Street, while Sanders criticized her for getting hundreds of thousands of dollars in speaking fees from Goldman Sachs."
+        ],
+        "tf-idf score": [
+            1.0274170444970563,
+            0.5918691233687483,
+            1.075910031939674
+        ]
+    },
+    "0.1875753973181535-3-328": {
+        "average clique similarity": 0.1875753973181535,
+        "clique": [
+            "4-The former secretary",
+            "0-His plan calls for a",
+            "1-Her strategy for the"
+        ],
+        "median tf-idf score": 0.7937032913123554,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The former secretary of state, former U S senator and wife of former President Bill Clinton said Sanders' healthcare plan would undermine Obama's signature Affordable Care Act at a time when Republican legislators were still trying to repeal and replace it.",
+            "His plan calls for an array of tax hikes to pay for it. As for the existing law, he said, \"We're not going to tear up the Affordable Care Act    I helped write it. \" The two   rivals, as well as former Maryland Gov. Martin O'Malley, took the stage for just their fourth debate of the season. The debate was hosted by NBC News.",
+            "Her strategy for the night seemed to be to tie herself closely to President Obama. This is the subtext of her defense of the Affordable Care Act against Sanders's critiques."
+        ],
+        "tf-idf score": [
+            1.2652971486912068,
+            0.7937032913123554,
+            0.6192713531260189
+        ]
+    },
+    "0.18870325006308672-3-150": {
+        "average clique similarity": 0.18870325006308672,
+        "clique": [
+            "3-Clinton has a lead o",
+            "1-Earlier this week  a",
+            "4-He noted that when h"
+        ],
+        "median tf-idf score": 0.6657681886889576,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "Clinton has a lead of four points when all Iowa polls are averaged, while Sanders has a   advantage by the same measure in New Hampshire.",
+            "Earlier this week, a Monmouth University poll showed him with a   lead in New Hampshire, while a Quinnipiac poll found him holding onto his lead in Iowa, up five points among likely   in Iowa.",
+            "He noted that when his presidential campaign began, Clinton was 50 percentage points ahead of him in the polls."
+        ],
+        "tf-idf score": [
+            1.1280309063524743,
+            0.4778648780277782,
+            0.6657681886889576
+        ]
+    },
+    "0.20718810122204426-3-77": {
+        "average clique similarity": 0.20718810122204426,
+        "clique": [
+            "3-So even if he wins b",
+            "4-He referred to his r",
+            "2-The Clinton campaign"
+        ],
+        "median tf-idf score": 0.9133942124578853,
+        "publications": [
+            "NPR",
+            "National Review",
+            "Reuters"
+        ],
+        "sentences": [
+            "So even if he wins both Iowa and New Hampshire, he might still struggle in the later February states. Thereafter, as the contest move to other Southern states on March 1, black voters will continue to represent a larger portion of the Democratic turnout. O'Malley could also be a factor in the Iowa contest, which is conducted as an open caucus at the precinct level.",
+            "He referred to his rising poll numbers in the early voting states of Iowa and New Hampshire, where he has pulled even or ahead of Clinton, saying he believed he could expand his number of supporters to include more   voters.",
+            "The Clinton campaign hopes that the phenomenon stops there and that Sanders fails to connect with the   and Latino voters he needs if he is to compete in South Carolina, Nevada, and other states where his polling is lackluster."
+        ],
+        "tf-idf score": [
+            0.6048773738449231,
+            0.9587824951389072,
+            0.9133942124578853
+        ]
+    },
+    "0.21168791834709796-3-370": {
+        "average clique similarity": 0.21168791834709796,
+        "clique": [
+            "2-On Sunday night in C",
+            "4- Democratic White Ho",
+            "3-Hillary Clinton enco"
+        ],
+        "median tf-idf score": 0.5537978207093561,
+        "publications": [
+            "National Review",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "On Sunday night in Charleston, for the first time this cycle, the Democratic presidential debate bore at least a slim resemblance to its raucous Republican counterpart.",
+            " Democratic White House candidate Bernie Sanders went on the offensive against   Hillary Clinton on Sunday in the most contentious of their four presidential debates, accusing her of cozying up to Wall Street and misrepresenting his stance on healthcare and guns.",
+            "Hillary Clinton encountered rougher seas Sunday night in her latest meeting with her rivals for the Democratic presidential nomination."
+        ],
+        "tf-idf score": [
+            0.388779073666328,
+            1.2787003584221353,
+            0.5537978207093561
+        ]
+    },
+    "0.21945502824065274-3-348": {
+        "average clique similarity": 0.21945502824065274,
+        "clique": [
+            "1-  I want to receive ",
+            "2-Reeling from an unex",
+            "0- Hillary Clinton sha"
+        ],
+        "median tf-idf score": 1.378080854830336,
+        "publications": [
+            "Fox News",
+            "National Review",
+            "Atlantic"
+        ],
+        "sentences": [
+            ", I want to receive updates from partners and sponsors. It was a Sunday night fight for Democrats in Charleston, South Carolina as Hillary Clinton and Bernie Sanders slugged it out on a series of issues in the party's final presidential debate before the Iowa caucuses.",
+            "Reeling from an unexpected decline in Iowa and New Hampshire just two weeks from the first caucus, Hillary Clinton finally threw herself into a series of scripted attacks on Bernie Sanders's   and   plans while wrapping herself tightly in President Obama's mantle.",
+            " Hillary Clinton sharpened her attacks on insurgent rival Bernie Sanders Sunday night at the final Democratic presidential debate before the Iowa caucuses, accusing him of trying to \"tear up\" ObamaCare and siding with the gun lobby  --   as Sanders denied the claims and said he's the candidate with the \"momentum\" in the race."
+        ],
+        "tf-idf score": [
+            1.378080854830336,
+            1.2792293737786224,
+            1.6183064853836961
+        ]
+    },
+    "0.24187131955663674-3-188": {
+        "average clique similarity": 0.24187131955663674,
+        "clique": [
+            "2-Share article on Fac",
+            "1-On the eve of the de",
+            "0-Sanders over the wee"
+        ],
+        "median tf-idf score": 0.5540446337411244,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "Fox News"
+        ],
+        "sentences": [
+            "Share article on FacebookshareTweet Inexplicably, however, Clinton failed to make hay over Sanders's   saying only that she was \"pleased to hear that Senator Sanders has reversed his position. \"",
+            "On the eve of the debate, the Vermont senator backed away from a 2005 vote on a law granting gun manufacturers legal immunity, saying that he was \"pleased\" about a proposed bill that would amend that legislation.",
+            "Sanders over the weekend changed his position and backed legislation to reverse a law he once supported that would give gun manufacturers legal immunity."
+        ],
+        "tf-idf score": [
+            1.0058747873961167,
+            0.5540446337411244,
+            0.511505136843379
+        ]
+    },
+    "0.24315626839468948-3-263": {
+        "average clique similarity": 0.24315626839468948,
+        "clique": [
+            "3-All three candidates",
+            "0-Sanders had one seem",
+            "1-All three candidates"
+        ],
+        "median tf-idf score": 0.6712181800830732,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "All three candidates talked of inequities in the criminal justice system affecting black men in particular. Sanders generally agreed on these points and also said any death in police custody should automatically trigger an investigation by the Justice Department.",
+            "Sanders had one seemingly awkward moment at Sunday's debate, when he didn't properly hear a YouTube question on police shootings and asked a moderator to repeat it. He then drew applause from the audience by calling for a Justice Department investigation whenever someone is killed in police custody.",
+            "All three candidates agreed on the need for tougher accountability for police who shoot civilians and on racial justice in the   system."
+        ],
+        "tf-idf score": [
+            0.6712181800830732,
+            0.7013746834049726,
+            0.16206349311787843
+        ]
+    },
+    "0.25454209227216407-3-370": {
+        "average clique similarity": 0.25454209227216407,
+        "clique": [
+            "3-Martin O Malley ques",
+            "4-In their last televi",
+            "1-Hillary Clinton  Ber"
+        ],
+        "median tf-idf score": 0.9912589395976181,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Martin O'Malley questioned her veracity and intensified their criticism of her policy positions and campaign financing. This was the last time these candidates will debate before the Iowa caucuses on Feb. 1.",
+            "In their last televised debate before Iowa's caucuses launch the nominating race on Feb. 1, Clinton raised questions about the   democratic socialist's positions on Wall Street reform, healthcare and gun control.",
+            "Hillary Clinton, Bernie Sanders, and Martin O'Malley square off on the debate stage for the fourth time Sunday night --  and it's their last chance to make a final impression on voters before the Iowa caucuses next month."
+        ],
+        "tf-idf score": [
+            0.6900791148788591,
+            0.9912589395976181,
+            1.2305748844755933
+        ]
+    },
+    "0.2562855630992112-4-261": {
+        "average clique similarity": 0.2562855630992112,
+        "clique": [
+            "2-Faced with a sudden ",
+            "1-But unlike in previo",
+            "3-And while Sanders ha",
+            "0-While Clinton mainta"
+        ],
+        "median tf-idf score": 1.2610600781495451,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "Faced with a sudden, sharp drop in the polls in the first half of January, a drop that left Clinton    with Sanders in Iowa and trailing him in New Hampshire, her campaign launched a   offensive against his   stance, his plans for   reform, and his rhetoric on Wall Street.",
+            "But unlike in previous Democratic debates, there's a greater sense of urgency, at least for Clinton: Since their last encounter in New Hampshire, Sanders has been steadily closing in on her in national polls and in the   states of Iowa and New Hampshire.",
+            "And while Sanders has not risen to a corresponding degree in national polls, he has improved his standing in both Iowa and New Hampshire.",
+            "While Clinton maintains her lead both nationally and in vital   southern states, Sanders has been closing the gap in Iowa and currently leads in most polls in New Hampshire  --   which votes Feb. 9."
+        ],
+        "tf-idf score": [
+            1.2845515911967558,
+            1.320212404338683,
+            0.7885363609921604,
+            1.2375685651023345
+        ]
+    },
+    "0.26086234747248344-3-167": {
+        "average clique similarity": 0.26086234747248344,
+        "clique": [
+            "0-Sanders  though  acc",
+            "2-And when she did go ",
+            "3- He voted to let gun"
+        ],
+        "median tf-idf score": 1.0608107238856128,
+        "publications": [
+            "Fox News",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "Sanders, though, accused Clinton of being \"very disingenuous\" on guns. The Vermont senator said he \"stood up to the gun lobby\" on several fronts.",
+            "And when she did go after Sanders on Sunday, he struck back forcefully. \"Secretary Clinton knows what she says is very disingenuous,\" he said in response to her claim that he votes with the NRA He called her allegation that he plans to dismantle Obamacare \"nonsense  --   no one is tearing this up, we are going to go forward. \"",
+            "\"He voted to let guns go onto Amtrak, guns go into national parks. He voted against doing research to figure out how we can save lives\". Said Sanders in reply, \"I think Secretary Clinton knows that what she says is very disingenuous,\" adding that he only had \"a   rating from the NRA\" so he couldn't be that good a friend."
+        ],
+        "tf-idf score": [
+            0.9171176919806713,
+            1.122947528478428,
+            1.0608107238856128
+        ]
+    },
+    "0.27148263590861516-3-131": {
+        "average clique similarity": 0.27148263590861516,
+        "clique": [
+            "1-Clinton has criticiz",
+            "2-Clinton called Sande",
+            "4-HEALTHCARE SPAT Clin"
+        ],
+        "median tf-idf score": 1.016566027328655,
+        "publications": [
+            "National Review",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "Clinton has criticized Sanders for not disclosing how he'd pay for the program.",
+            "Clinton called Sanders \"a pretty reliable vote for the gun lobby\" on Wednesday, the same day her campaign held a conference call slamming Sanders for refusing to detail how he'd fund his \"Medicare for all\" proposal, and the day after her daughter Chelsea claimed that Sanders wanted to \"dismantle Obamacare. \"",
+            "HEALTHCARE SPAT Clinton pounced on Sanders' \"  \" plan that was announced just hours before the debate after Clinton had criticized Sanders for refusing to explain how he would pay for the proposal."
+        ],
+        "tf-idf score": [
+            0.7642199259262694,
+            1.0351919466354325,
+            1.016566027328655
+        ]
+    },
+    "0.32780936844802133-4-370": {
+        "average clique similarity": 0.32780936844802133,
+        "clique": [
+            "2- Guess what  In Iowa",
+            "4- Guess what  In Iowa",
+            "0- In Iowa  New Hampsh",
+            "3-But last week a CBS "
+        ],
+        "median tf-idf score": 0.49891784065554345,
+        "publications": [
+            "National Review",
+            "Reuters",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "\"Guess what? In Iowa, New Hampshire, the race is very, very close. Maybe we're ahead in New Hampshire. We have the momentum, we're on the path to victory. \"",
+            "\"Guess what: In Iowa, New Hampshire, the race is (now) very, very close,\" Sanders said.",
+            "\"In Iowa, New Hampshire, the race is very, very close,\" he said, adding, \"We have the momentum. \"",
+            "But last week a CBS   York Times poll had her national edge at just 7 points. All agree that in Iowa and New Hampshire the race is too close to call."
+        ],
+        "tf-idf score": [
+            0.40124630474994755,
+            0.74914461922893,
+            0.4538669221958467,
+            0.5439687591152402
+        ]
+    },
+    "0.33663014013397086-3-66": {
+        "average clique similarity": 0.33663014013397086,
+        "clique": [
+            "2- The comments that S",
+            "3- The comments that S",
+            "1-Later  when Sanders "
+        ],
+        "median tf-idf score": 1.0741253968761144,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "National Review"
+        ],
+        "sentences": [
+            "\"The comments that Senator Sanders has made don't just affect me, I can take that,\" she said.",
+            "\"The comments that Sen. Sanders has made,\" said Clinton, \"[they] don't just affect me, I can take that, but he's criticized President Obama for taking donations from Wall Street, and President Obama has led our country out of the Great Recession\". And she did not leave it there.",
+            "Later, when Sanders argued she was too close to Wall Street, Clinton replied that she could take the heat but that she would not brook Sanders criticizing the   financial reforms that Obama championed and signed into law."
+        ],
+        "tf-idf score": [
+            0.5931061752212479,
+            1.2385883622724658,
+            1.0741253968761144
+        ]
+    },
+    "0.3395620697767176-3-312": {
+        "average clique similarity": 0.3395620697767176,
+        "clique": [
+            "2- As Secretary Clinto",
+            "1-He was only on stage",
+            "3-Sanders found a mome"
+        ],
+        "median tf-idf score": 0.9599762277121434,
+        "publications": [
+            "NPR",
+            "National Review",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"As Secretary Clinton well knows, when this campaign began she was 50 points ahead of me,\" he said.",
+            "He was only on stage tonight thanks to rounding up of poll numbers, and while Iowa is unpredictable, this debate didn't look like the moment to vault him ahead of Sanders or Clinton.",
+            "Sanders found a moment to crow about this: \"As Secretary Clinton well knows, when this campaign began she was 50 points ahead of me. We were all of three percentage points. Guess what?"
+        ],
+        "tf-idf score": [
+            0.7219409598395161,
+            1.137985672679959,
+            0.9599762277121434
+        ]
+    },
+    "0.38679755096431423-3-216": {
+        "average clique similarity": 0.38679755096431423,
+        "clique": [
+            "3- Sen  Sanders called",
+            "2- But he s criticized",
+            "4- Senator Sanders cal"
+        ],
+        "median tf-idf score": 0.8798583165272984,
+        "publications": [
+            "NPR",
+            "National Review",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"Sen. Sanders called [Obama] weak, disappointing,\" Clinton said.",
+            "\"But he's criticized President Obama for taking donations from Wall Street, and President Obama has led our country out of the great recession. Senator Sanders called him weak, disappointing!\"",
+            "\"Senator Sanders called him weak, disappointing, he even in 2011 publicly sought someone to run in a primary against President Obama\"."
+        ],
+        "tf-idf score": [
+            0.8798583165272984,
+            0.8893555163979633,
+            0.6114558099953995
+        ]
+    },
+    "0.4275426240185-3-5": {
+        "average clique similarity": 0.4275426240185,
+        "clique": [
+            "3- When the   communit",
+            "2- When the   communit",
+            "1- I have made it clea"
+        ],
+        "median tf-idf score": 0.721404359239856,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "National Review"
+        ],
+        "sentences": [
+            "\"When the   community becomes familiar with my congressional record,\" said Sanders, \"and with our agenda, and with our views on the economy, and criminal justice  --   just as the general population has become more supportive, so will the   community, so will the Latino community\".",
+            "\"When the   community becomes familiar with my congressional record and with our agenda, and with our views on the economy, and criminal justice  --   just as the general population has become more supportive so will the   community, so will the Latino community,\" Sanders promised.",
+            "\"I have made it clear, based on Senator Sanders's own record that he has voted with the NRA, with the gun lobby numerous times,\" she said, with a long list of votes he had cast."
+        ],
+        "tf-idf score": [
+            0.721404359239856,
+            0.6172593175915861,
+            0.8356064361482625
+        ]
+    }
+}

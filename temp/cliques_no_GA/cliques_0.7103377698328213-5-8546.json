@@ -1,0 +1,678 @@
+{
+    "0.13645976559373454-3-106": {
+        "average clique similarity": 0.13645976559373454,
+        "clique": [
+            "1-Latching on to a poo",
+            "3-Her head was a sitti",
+            "0-com  the champ s acc"
+        ],
+        "median tf-idf score": 0.483343028667618,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Latching on to a poor defensive posture from the California native, Nunes battered her opponent with  a powerful left hook followed by a series of powerful rights, \u201dthe Lioness\u201d relentlessly stalking her prey.",
+            "Her head was a sitting target for Nunes, who began firing repetitive hard right hands followed by left hooks.",
+            "com, the champ\u2019s accuracy was significantly augmented by an utter lack of head movement by her   opponent."
+        ],
+        "tf-idf score": [
+            0.483343028667618,
+            0.5787100198522712,
+            0.29935760289602353
+        ]
+    },
+    "0.15339911679714033-3-123": {
+        "average clique similarity": 0.15339911679714033,
+        "clique": [
+            "3-The Brazilian may ne",
+            "1-On Ellen DeGeneres  ",
+            "0-His belt may be gone"
+        ],
+        "median tf-idf score": 0.39780419098075465,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "The Brazilian may never be the marketing machine Rousey has become.",
+            "On Ellen DeGeneres\u2019 show last month, Rousey hinted that retirement may not be that far away.",
+            "His belt may be gone, but Cruz\u2019s   and perspective on sports remain intact."
+        ],
+        "tf-idf score": [
+            0.39780419098075465,
+            0.44997560520814206,
+            0.20927646550075665
+        ]
+    },
+    "0.1594172977014436-3-247": {
+        "average clique similarity": 0.1594172977014436,
+        "clique": [
+            "4-Rousey s return figh",
+            "3-Nunes    assault was",
+            "1-But almost straight "
+        ],
+        "median tf-idf score": 0.7623944565254581,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "Rousey\u2019s return fight was similar, but even quicker.",
+            "Nunes\u2019   assault was too much for Rousey, whose   return to the Octagon ended almost as soon as it began.",
+            "But almost straight away that dream was shattered by a prepared, efficient and confident Amanda Nunes, the women\u2019s bantamweight champion, whose defense of her belt was largely ignored in the   to the fight."
+        ],
+        "tf-idf score": [
+            0.603912808908986,
+            0.7623944565254581,
+            0.7879372268798839
+        ]
+    },
+    "0.160665434535379-3-149": {
+        "average clique similarity": 0.160665434535379,
+        "clique": [
+            "3- The whole week I ju",
+            "0-When the entertainme",
+            "4- I m the best on the"
+        ],
+        "median tf-idf score": 0.15627683800778186,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cThe whole week I just focused on getting ready for the fight.",
+            "When the entertainment behemoth   bought the fight promotion over the summer for an unfathomable $4 billion, the deal was built on star power.",
+            "\u201cI\u2019m the best on the planet."
+        ],
+        "tf-idf score": [
+            0.15627683800778186,
+            0.36008122484484073,
+            0.010011276115562346
+        ]
+    },
+    "0.165259747135755-3-167": {
+        "average clique similarity": 0.165259747135755,
+        "clique": [
+            "3-  It was an odd week",
+            "2-Following that loss ",
+            "4-But Rousey refused t"
+        ],
+        "median tf-idf score": 0.7519885162094148,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201d It was an odd week with Rousey doing virtually no media interviews and Nunes forced to do likewise.",
+            "Following that loss, Rousey went into seclusion and kept a low profile in the   to the Nunes fight by declining to do interviews.",
+            "But Rousey refused to promote this    show, leaving Cruz, Garbrandt and Nunes to do most of the work."
+        ],
+        "tf-idf score": [
+            0.7522687618021413,
+            0.7519885162094148,
+            0.6765636010512177
+        ]
+    },
+    "0.16777993638011593-3-28": {
+        "average clique similarity": 0.16777993638011593,
+        "clique": [
+            "2-She was rocked by a ",
+            "0-Rousey is a broken f",
+            "1-Ronda Rousey keeps p"
+        ],
+        "median tf-idf score": 0.4586011706295868,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "She was rocked by a number of overhand rights before finally being wobbled one last time and appeared to be out on her feet.",
+            "Rousey is a broken figure, with one foot out the door even before Friday night.",
+            "Ronda Rousey keeps promise to attend Marine Corps Ball, \u2019Definitely one of my last fights\u2019 Even before Friday\u2019s   defeat, there were strong hints that the end of the Olympic bronze medalist\u2019s career might be on the horizon."
+        ],
+        "tf-idf score": [
+            0.3790778424802114,
+            0.4586011706295868,
+            0.7576689615156026
+        ]
+    },
+    "0.16817505476147585-3-249": {
+        "average clique similarity": 0.16817505476147585,
+        "clique": [
+            "2-Rousey managed to st",
+            "0-By handling his defe",
+            "4-Nunes put her finger"
+        ],
+        "median tf-idf score": 0.6061594236150794,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Rousey managed to stay up by holding onto the side of the cage with her right hand.",
+            "By handling his defeat so gracefully, Cruz ( ) far outclassed Rousey, who after her beating sulked her way out of the cage and disappeared into the night, with not a word for her fans or her conqueror.",
+            "Nunes put her finger to her lips and circled the cage after the stoppage, pausing to taunt Rousey\u2019s   coach, Edmond Tarverdyan."
+        ],
+        "tf-idf score": [
+            0.48425410780405603,
+            0.6194879803376232,
+            0.6061594236150794
+        ]
+    },
+    "0.17105153895321465-3-1": {
+        "average clique similarity": 0.17105153895321465,
+        "clique": [
+            "1-The show isn t going",
+            "2-After it was over  R",
+            "4-I chased him around "
+        ],
+        "median tf-idf score": 0.09774764326613164,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Guardian"
+        ],
+        "sentences": [
+            "The show isn\u2019t going to be around forever\u201d.",
+            "After it was over, Rousey did not stick around.",
+            "I chased him around the cage the whole night."
+        ],
+        "tf-idf score": [
+            0.05565889056785643,
+            0.48888440986651244,
+            0.09774764326613164
+        ]
+    },
+    "0.1725447693110924-3-170": {
+        "average clique similarity": 0.1725447693110924,
+        "clique": [
+            "3-She took just as bad",
+            "0-This night rightfull",
+            "2-Rousey entered the o"
+        ],
+        "median tf-idf score": 0.8033743906959834,
+        "publications": [
+            "New York Post",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "She took just as bad a beating against Nunes, who was making the first defense of the belt Rousey once owned.",
+            "This night rightfully belonged to Amanda Nunes, who defended her women\u2019s bantamweight championship for the first time with a ferocious   technical knockout of the ghost of the Rousey we used to know.",
+            "Rousey entered the octagon first with her trademark scowl, but the angry demeanour quickly turned to desperation as the former champion looked out of her class from the moment Nunes backed her up with the first overhand right."
+        ],
+        "tf-idf score": [
+            0.7838277123204627,
+            0.8033743906959834,
+            0.866372850007723
+        ]
+    },
+    "0.17833430901173872-3-21": {
+        "average clique similarity": 0.17833430901173872,
+        "clique": [
+            "3-  Rousey didn t spea",
+            "4-Cruz and Garbrandt t",
+            "1-Partisan crowd  At b"
+        ],
+        "median tf-idf score": 0.487806733600279,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d Rousey didn\u2019t speak to the media after the fight but wanted to thank her fans for their support.",
+            "Cruz and Garbrandt taunted each other repeatedly during the promotion of their bout, and their genuine dislike translated into a frenzied   fight.",
+            "Partisan crowd, At both the Thursday   and Friday night\u2019s fight, the fans were firmly behind the former bantamweight title holder and their cheers in the arena Friday were supposed to brush the cobwebs off after a   absence and to restore the   fighter to her former dominance."
+        ],
+        "tf-idf score": [
+            0.487806733600279,
+            0.3015233369911093,
+            0.495876106851349
+        ]
+    },
+    "0.18397023272818927-3-82": {
+        "average clique similarity": 0.18397023272818927,
+        "clique": [
+            "3-There s a lot of tal",
+            "4-He beat me by a coup",
+            "1- This is definitely "
+        ],
+        "median tf-idf score": 0.10140336728941549,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "There\u2019s a lot of talent in this division and people have to see this.",
+            "He beat me by a couple of inches tonight, and that\u2019s OK There wasn\u2019t one second of this fight I wasn\u2019t trying to win.",
+            "\u201dThis is definitely one of my last fights."
+        ],
+        "tf-idf score": [
+            0.07912584872580257,
+            0.18751337593012454,
+            0.10140336728941549
+        ]
+    },
+    "0.18783686300341407-3-100": {
+        "average clique similarity": 0.18783686300341407,
+        "clique": [
+            "0- UFC 207  Rousey suf",
+            "4-  Cody Garbrandt won",
+            "3-Nunes needed just 48"
+        ],
+        "median tf-idf score": 0.7720299835942832,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "[UFC 207: Rousey suffers brutal loss at hands of defending champ Nunes]  The night also belonged to Cody Garbrandt, who rose from middling contender to men\u2019s bantamweight champ with a stunningly poised performance that ended the reign  \u2014   and   winning streak  \u2014   of Dominick Cruz.",
+            "\u201d Cody Garbrandt won the men\u2019s bantamweight title in the penultimate bout at UFC 207, battering champion Dominick Cruz to earn a surprising decision victory at   Arena in the promotion\u2019s traditional     show in its hometown.",
+            "Nunes needed just 48 seconds to pulverize Rousey back into seclusion and validate the UFC women\u2019s bantamweight championship she won from Miesha Tate at UFC 200."
+        ],
+        "tf-idf score": [
+            1.1014854365487676,
+            0.5226822245683418,
+            0.7720299835942832
+        ]
+    },
+    "0.1893930680538938-3-166": {
+        "average clique similarity": 0.1893930680538938,
+        "clique": [
+            "2-Rousey earned a guar",
+            "0-Nunes connected with",
+            "1-In her run of 12 con"
+        ],
+        "median tf-idf score": 0.4622803592653628,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Rousey earned a guaranteed $3 million payday for less than a minute\u2019s work.",
+            "Nunes connected with a crisp jab just 10 seconds in, and from that moment, Rousey looked less like a star in the spotlight than a deer in the headlights.",
+            "In her run of 12 consecutive wins, some took less than a minute, such as when she took out Cat Zingano in just 14 seconds in February 2015."
+        ],
+        "tf-idf score": [
+            0.4622803592653628,
+            0.7137323308462212,
+            0.20871257487200656
+        ]
+    },
+    "0.1945157686841319-3-35": {
+        "average clique similarity": 0.1945157686841319,
+        "clique": [
+            "0-Returning from a   l",
+            "1-Following her Novemb",
+            "4-Rousey became arguab"
+        ],
+        "median tf-idf score": 0.7927315653544632,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Returning from a   layoff following last year\u2019s   knockout loss to Holly Holm, and after charging into the octagon looking like the Rowdy Ronda of old, Rousey was passive and tentative and feeble from the start.",
+            "Following her November 2015 title loss in what was arguably the biggest upset the sport has ever seen, and dropping to    Rousey retreated from the sport.",
+            "Rousey became arguably the world\u2019s most famous female athlete and a combat sports trailblazer while she rocketed atop the UFC, but a year away from the sport apparently did little to heal the holes in her game."
+        ],
+        "tf-idf score": [
+            0.893456641428445,
+            0.7927315653544632,
+            0.6318172957144127
+        ]
+    },
+    "0.20780728397975248-3-20": {
+        "average clique similarity": 0.20780728397975248,
+        "clique": [
+            "0-She already has a lo",
+            "3- A lot of people onl",
+            "2-She did a lot for th"
+        ],
+        "median tf-idf score": 0.08765839571588017,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "She already has a lot of money.",
+            "\u201cA lot of people only talk about Ronda Rousey, Miesha.",
+            "She did a lot for this sport."
+        ],
+        "tf-idf score": [
+            0.08765839571588017,
+            0.4571923871509548,
+            0.08469528618229918
+        ]
+    },
+    "0.2150735249429364-3-5": {
+        "average clique similarity": 0.2150735249429364,
+        "clique": [
+            "4- Her coach put some ",
+            "0-Tarverdyan  put this",
+            "1-This was supposed to"
+        ],
+        "median tf-idf score": 0.2348993320036895,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cHer coach put some crazy things in her head, and her career started going down,\u201d Nunes said.",
+            "Tarverdyan \u201cput this thing in her head and made the girl believe in that.",
+            "This was supposed to be the night to put all that behind her."
+        ],
+        "tf-idf score": [
+            0.4043033851948004,
+            0.08521971217874573,
+            0.2348993320036895
+        ]
+    },
+    "0.21724949929545925-3-74": {
+        "average clique similarity": 0.21724949929545925,
+        "clique": [
+            "4-Rousey was stopped 4",
+            "2- The    Nunes  of Br",
+            "3-LAS VEGAS      By th"
+        ],
+        "median tf-idf score": 1.0886052175968197,
+        "publications": [
+            "Guardian",
+            "Breitbart",
+            "New York Post"
+        ],
+        "sentences": [
+            "Rousey was stopped 48 seconds into her first fight in 13 months Friday night, losing to bantamweight champion Amanda Nunes at UFC 207.",
+            "[The    Nunes, of Brazil, barely broke a sweat against a helpless Rousey to easily retain her UFC women\u2019s bantamweight belt on Friday night in Las Vegas.",
+            "LAS VEGAS  \u2014   By the time Amanda Nunes arrived at the tent outside   Arena for her   press conference late Friday night, Ronda Rousey was long gone."
+        ],
+        "tf-idf score": [
+            1.1575974133212548,
+            0.938666576381469,
+            1.0886052175968197
+        ]
+    },
+    "0.23248677195216394-3-105": {
+        "average clique similarity": 0.23248677195216394,
+        "clique": [
+            "3-Now it s going to ch",
+            "0-Now she s going to r",
+            "1-But right now  I sho"
+        ],
+        "median tf-idf score": 0.10706105893214826,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Now it\u2019s going to change a lot of things.",
+            "Now she\u2019s going to retire and do movies.",
+            "But right now, I showed I\u2019m the champion and I\u2019m here to stay\u201d."
+        ],
+        "tf-idf score": [
+            0.10706105893214826,
+            0.08509921441809709,
+            0.14552495035630786
+        ]
+    },
+    "0.24469498010060473-4-338": {
+        "average clique similarity": 0.24469498010060473,
+        "clique": [
+            "2-I m the champion  th",
+            "0- She thinks she s a ",
+            "3- That s it for her  ",
+            "4- I knew I was going "
+        ],
+        "median tf-idf score": 0.43546315173702765,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "I\u2019m the champion, the Lion,\u201d Nunes said.",
+            "\u201cShe thinks she\u2019s a boxer,\u201d Nunes said of Rousey.",
+            "\u201cThat\u2019s it for her,\u201d Nunes said.",
+            "\u201cI knew I was going to beat (Rousey),\u201d Nunes said."
+        ],
+        "tf-idf score": [
+            0.2965539714413154,
+            0.5743723320327399,
+            0.23278872533131378,
+            0.7694009306294515
+        ]
+    },
+    "0.24595123426144705-3-160": {
+        "average clique similarity": 0.24595123426144705,
+        "clique": [
+            "2-Nunes collected  100",
+            "3-While Rousey got all",
+            "4-She made a guarantee"
+        ],
+        "median tf-idf score": 0.47076356758038873,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Nunes collected $100, 000.",
+            "While Rousey got all the attention and a $3 million purse for saying nothing, Nunes who was guaranteed $200, 000, didn\u2019t waste time feeling disrespected.",
+            "She made a guaranteed $3 million for her comeback bout, while Nunes\u2019 guaranteed payday was just $200, 000."
+        ],
+        "tf-idf score": [
+            0.20559529617420175,
+            0.8121620594306413,
+            0.47076356758038873
+        ]
+    },
+    "0.2547752115424429-3-207": {
+        "average clique similarity": 0.2547752115424429,
+        "clique": [
+            "4- That s it for her  ",
+            "3- I think that was a ",
+            "0-Only one part of tha"
+        ],
+        "median tf-idf score": 0.23278872533131378,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cThat\u2019s it for her,\u201d Nunes said.",
+            "\u201cI think that was a mistake on her part,\u201d Nunes said of Rousey\u2019s media boycott.",
+            "Only one part of that has changed, and it isn\u2019t the graceless part."
+        ],
+        "tf-idf score": [
+            0.23278872533131378,
+            0.7695998548031737,
+            0.07100877911130624
+        ]
+    },
+    "0.2591039116514351-3-12": {
+        "average clique similarity": 0.2591039116514351,
+        "clique": [
+            "4-Ronda Rousey s UFC c",
+            "1-I thank Ronda Rousey",
+            "0-The other was Ronda "
+        ],
+        "median tf-idf score": 0.523987125301412,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Ronda Rousey\u2019s UFC comeback didn\u2019t even last a minute.",
+            "I thank Ronda Rousey.",
+            "The other was Ronda Rousey."
+        ],
+        "tf-idf score": [
+            0.523987125301412,
+            0.40663385779606176,
+            0.5471729981497055
+        ]
+    },
+    "0.26484743579160364-3-136": {
+        "average clique similarity": 0.26484743579160364,
+        "clique": [
+            "3-It had been 13 month",
+            "2-The    from Los Ange",
+            "4-  Rousey hadn t foug"
+        ],
+        "median tf-idf score": 0.5564581203636163,
+        "publications": [
+            "New York Post",
+            "Breitbart",
+            "Guardian"
+        ],
+        "sentences": [
+            "It had been 13 months since she was knocked out by Holly Holm in Melbourne, Australia, Rousey\u2019s first defeat in 12 fights.",
+            "The    from Los Angeles had not fought in over a year since she was pummelled in similar fashion by Holly Holm.",
+            "\u201d Rousey hadn\u2019t fought since November 2015, when Holly Holm stopped her with a head kick in one of the biggest upsets in MMA history."
+        ],
+        "tf-idf score": [
+            0.718738065968938,
+            0.33071814416876993,
+            0.5564581203636163
+        ]
+    },
+    "0.2761755998279288-3-40": {
+        "average clique similarity": 0.2761755998279288,
+        "clique": [
+            "2-Referee Herb Dean st",
+            "3-When a sweeping righ",
+            "4-  Referee Herb Dean "
+        ],
+        "median tf-idf score": 0.5853659678414981,
+        "publications": [
+            "Breitbart",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Referee Herb Dean stopped the rout at 48 seconds of the opening round after Nunes landed an overhand right, followed by a straight left to Rousey\u2019s head.",
+            "When a sweeping right landed flush, Rousey\u2019s legs buckled as she desperately grabbed the cage, prompting referee Herb Dean to stop the bout.",
+            "\u201d Referee Herb Dean stopped the bout with Rousey still on her feet, and Rousey briefly protested the stoppage before leaving the cage in her mother\u2019s arms."
+        ],
+        "tf-idf score": [
+            0.8821238984488144,
+            0.5853659678414981,
+            0.5304134845356797
+        ]
+    },
+    "0.328642571293326-3-269": {
+        "average clique similarity": 0.328642571293326,
+        "clique": [
+            "0-After losing for the",
+            "2- She had her time ",
+            "1-  Rousey  had her ti"
+        ],
+        "median tf-idf score": 0.3730370646879745,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "After losing for the first time 10 years, he set aside the acrimony that had boiled over prior to the fight and offered congratulations to Garbrandt ( ) then spoke eloquently about the ups and downs of being a champion.",
+            "\u201cShe had her time.",
+            "\u201d(Rousey) had her time, she did a lot for the sport."
+        ],
+        "tf-idf score": [
+            0.3730370646879745,
+            0.038380086848342855,
+            0.4377781419632778
+        ]
+    },
+    "0.3362171465826795-3-276": {
+        "average clique similarity": 0.3362171465826795,
+        "clique": [
+            "3- However  sometimes ",
+            "4- If you don t lose  ",
+            "2-Thank you  Ronda Rou"
+        ],
+        "median tf-idf score": 0.1375353929132205,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201cHowever, sometimes  \u2014   even when you prepare and give everything you have and want something so badly  \u2014   it doesn\u2019t work how you planned.",
+            "\u201cIf you don\u2019t lose, you don\u2019t grow,\u201d Cruz said.",
+            "Thank you, Ronda Rousey."
+        ],
+        "tf-idf score": [
+            0.06805049801962139,
+            0.1375353929132205,
+            0.40663385779606176
+        ]
+    },
+    "0.39033948515402517-3-55": {
+        "average clique similarity": 0.39033948515402517,
+        "clique": [
+            "1- Forget about Ronda ",
+            "0- Forget Ronda Rousey",
+            "4- Forget about Ronda "
+        ],
+        "median tf-idf score": 0.6369838856096226,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dForget about Ronda Rousey,\u201d Nunes said.",
+            "\u201cForget Ronda Rousey,\u201d Nunes told the 18, 533 assembled at   Arena, the largest crowd ever for a UFC event in Vegas.",
+            "\u201cForget about Ronda Rousey!\u201d Nunes shouted to the sellout crowd."
+        ],
+        "tf-idf score": [
+            0.6369838856096226,
+            0.8034021599452518,
+            0.618252813875051
+        ]
+    },
+    "0.42503962186599353-3-338": {
+        "average clique similarity": 0.42503962186599353,
+        "clique": [
+            "1- Now she s going to ",
+            "3-  If Rousey is smart",
+            "4- For sure  she s goi"
+        ],
+        "median tf-idf score": 0.08509921441809709,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201dNow she\u2019s going to retire and go do movies\u201d.",
+            "\u201d If Rousey is smart, she will retire.",
+            "\u201cFor sure, she\u2019s going to retire."
+        ],
+        "tf-idf score": [
+            0.08509921441809709,
+            0.34531210147954294,
+            0.07839850636849667
+        ]
+    }
+}

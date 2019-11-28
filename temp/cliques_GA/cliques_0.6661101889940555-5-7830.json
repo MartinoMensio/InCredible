@@ -1,0 +1,278 @@
+{
+    "0.17582617792592212-3-78": {
+        "average clique similarity": 0.17582617792592212,
+        "clique": [
+            "3-Apple does not repor",
+            "4-    This is the big ",
+            "2-Apple remained upbea"
+        ],
+        "median tf-idf score": 0.5838841016393215,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Apple does not report Watch sales, but it does not appear to have the makings of being a hit on the same level as the iPhone a year after launch.",
+            "'' 'This is the big one, folks.' 'Apple will report its   earnings after the market closes on Tuesday afternoon.'",
+            "Apple remained upbeat about the earnings, focusing not only on the hardware sales but also on the strength of its software and services businesses."
+        ],
+        "tf-idf score": [
+            0.7830730187354774,
+            0.555056421427791,
+            0.5838841016393215
+        ]
+    },
+    "0.1932743185053165-3-50": {
+        "average clique similarity": 0.1932743185053165,
+        "clique": [
+            "0-But surprisingly  Ch",
+            "2-3 billion in revenue",
+            "1-Greater China is App"
+        ],
+        "median tf-idf score": 0.8582084401538025,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "But surprisingly, China is the only part of the world to see robust growth. Apple's China revenue grew 14 percent over the last year, compared with 4 percent in Europe, a loss of 4 percent in the Americas, and a 12 percent decline in Japan.",
+            "3 billion in revenue, up 62 percent.",
+            "Greater China is Apple's second highest revenue region, ahead of Europe, which provided $17. 9 billion in revenue.'"
+        ],
+        "tf-idf score": [
+            1.0392535365430173,
+            0.4386134161198561,
+            0.8582084401538025
+        ]
+    },
+    "0.1991211429863026-3-181": {
+        "average clique similarity": 0.1991211429863026,
+        "clique": [
+            "3- Pressure on the sha",
+            "2-Now that there final",
+            "4- Apple is the iPhone"
+        ],
+        "median tf-idf score": 0.5814668406609236,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\"Pressure on the shares will continue without a   plan to grow sales or a new product\". The company said on Tuesday it sold 74.",
+            "Now that there finally may be an end to that period of hyper growth, the pressure on the firm to create another groundbreaking product will be greater. Indeed, its other innovation, the iPad, saw a decrease in sales in the most recent quarter.",
+            "'Apple is the iPhone company, so if iPhone sales are down on a    basis, then the whole company will be down on a    .'"
+        ],
+        "tf-idf score": [
+            0.5527008318711093,
+            0.5814668406609236,
+            0.6636056924064029
+        ]
+    },
+    "0.20461979009697218-3-32": {
+        "average clique similarity": 0.20461979009697218,
+        "clique": [
+            "2-     Apple said Tues",
+            "3-8 million iPhones in",
+            "0-The number of iPhone"
+        ],
+        "median tf-idf score": 0.8861108473897347,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "     Apple said Tuesday sales of its iPhones increased at the slowest pace since the smartphone was introduced in 2007, a sign that the period of wild growth of the company's flagship device may be coming to an end. The consumer electronics giant, whose stock is among the most widely held in America, reported it had sold 74.",
+            "8 million iPhones in its fiscal first quarter, ended Dec. 26, the first full quarter of sales of the iPhone 6S and 6S Plus. The 0. 4 percent growth in shipments was the lowest since the product was launched in 2007.",
+            "The number of iPhones sold last quarter was up less than 1 percent from a year earlier. But it's still one of the most successful and lucrative products in the world  --   and is likely to remain so for years."
+        ],
+        "tf-idf score": [
+            1.2696921662458769,
+            0.8861108473897347,
+            0.7216081472676033
+        ]
+    },
+    "0.21954576179763907-4-12": {
+        "average clique similarity": 0.21954576179763907,
+        "clique": [
+            "4-6 billion in revenue",
+            "3-In the same quarter ",
+            "0-But that all changed",
+            "2-In fact  Apple repor"
+        ],
+        "median tf-idf score": 0.7147369574242621,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "6 billion in revenue for the 2015 holiday quarter\".",
+            "In the same quarter last year Apple sold 61.",
+            "But that all changed on Tuesday, as the company reported that revenues for its most recent quarter  --   running from October to December of 2015  --   were up just 2 percent from a year earlier.",
+            "In fact, Apple reported that revenue from services such as the App Store, iTunes, Apple Music and Apple Pay was up 26 percent, to $6 billion in the quarter."
+        ],
+        "tf-idf score": [
+            0.4628716305684321,
+            0.6243713532477105,
+            0.8051025616008137,
+            1.0917719455635766
+        ]
+    },
+    "0.22555357846675975-3-183": {
+        "average clique similarity": 0.22555357846675975,
+        "clique": [
+            "2-On a conference call",
+            "3-While revenue in Gre",
+            "1- Apple s total sales"
+        ],
+        "median tf-idf score": 0.8946749391524019,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "On a conference call with investors, Cook said that the company \"began to see some signs of economic softness in  greater China earlier this month, most notably in Hong Kong\".",
+            "While revenue in Greater China rose 14 percent in the last quarter, Apple is beginning to see a shift in the economy, particularly in Hong Kong, Apple Chief Financial Officer Luca Maestri told Reuters in an interview.",
+            "'Apple's total sales in Greater China, which includes Hong Kong and Taiwan, were $18. 4 billion, up from $16. 1 billion a year ago."
+        ],
+        "tf-idf score": [
+            0.523096329648134,
+            1.0768055398118936,
+            0.8946749391524019
+        ]
+    },
+    "0.22640161578698792-3-109": {
+        "average clique similarity": 0.22640161578698792,
+        "clique": [
+            "3-IPhone sales were ex",
+            "2- The growth of our s",
+            "1-Apple chief executiv"
+        ],
+        "median tf-idf score": 0.9124385625470296,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "IPhone sales were expected to fall for the current quarter compared with the same quarter last year, Chief Executive Officer Tim Cook said on a conference call with analysts.",
+            "\"The growth of our services business accelerated during the quarter to produce record results, and our installed base recently crossed a major milestone of one billion active devices,\" said chief executive Tim Cook in a statement. Slower sales in China have been a particular cause for concern.",
+            "Apple chief executive Tim Cook said that had currency values stayed the same over the year, Apple's revenue would be about $5 billion higher than it actually was."
+        ],
+        "tf-idf score": [
+            0.7854137519889955,
+            0.9124385625470296,
+            1.0727452450592778
+        ]
+    },
+    "0.25060941092856753-4-39": {
+        "average clique similarity": 0.25060941092856753,
+        "clique": [
+            "1-Apple s stock has fa",
+            "3-And while the compan",
+            "0-Apple s stock price ",
+            "2-Those reports have w"
+        ],
+        "median tf-idf score": 0.6687924652521162,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Apple's stock has fallen further than the   Nasdaq, which is down 4% in the same period, and the SP 500, which has fallen 7%.",
+            "And while the company is reportedly working on a car, what it plans to do in that area and when are still unclear. The company's shares, which have fallen 5 percent this year, bounced around in   trading and were down more than 2. 6 percent.",
+            "Apple's stock price fell about 2 percent in   trading on Tuesday, and the stock is down by 12 percent over the past three months  --   a bigger decline than the broader stock market.",
+            "Those reports have weighed on Apple's stock for months, which has fallen about 25 percent since July and was trading around $100 per share in regular trading on Tuesday."
+        ],
+        "tf-idf score": [
+            0.5843551658376586,
+            0.4623316162361932,
+            0.753229764666574,
+            0.8601297305379543
+        ]
+    },
+    "0.2568928518489788-4-69": {
+        "average clique similarity": 0.2568928518489788,
+        "clique": [
+            "0-Between October and ",
+            "3-2 million iPhones  T",
+            "2-8 million iPhones  T",
+            "1- Apple sold 74  8 mi"
+        ],
+        "median tf-idf score": 0.5827534312017575,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Between October and December 2015, Apple sold 74 million iPhones, generating $51 billion in revenues  --   about 15 times as much revenue as the iPod generated in its heyday.",
+            "2 million iPhones. The company reported revenue of $18.",
+            "8 million iPhones. That's just above the 74. 5 million it sold during the same period in 2014 and less than analyst estimates of between 75 million and 77 million units sold.",
+            "'Apple sold 74. 8 million iPhones, just below what analysts expected but slightly ahead of the 74."
+        ],
+        "tf-idf score": [
+            0.9668956937891732,
+            0.47291030745004714,
+            0.3692495774156394,
+            0.6925965549534678
+        ]
+    },
+    "0.2855097836839176-3-145": {
+        "average clique similarity": 0.2855097836839176,
+        "clique": [
+            "1-Apple reported an  1",
+            "3- Apple Inc     forec",
+            "4-7 billion  which wou"
+        ],
+        "median tf-idf score": 1.1961225788083323,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Apple reported an $18 billion profit for the final three months of 2015, beating analysts expectations, but warned its revenues could decline in the coming quarter  --   a drop that would be the first such quarterly    decline in 13 years.",
+            " Apple Inc ( ) forecast its first revenue drop in 13 years and reported the   increase in iPhone shipments as the critical Chinese market showed signs of weakening, suggesting the technology company's period of exponential growth may be ending.",
+            "7 billion, which would be a 4% drop  --   the first revenue decline in Apple's modern history\"."
+        ],
+        "tf-idf score": [
+            1.2623751893862982,
+            1.1961225788083323,
+            0.7986014494717818
+        ]
+    },
+    "0.36128391779392827-3-187": {
+        "average clique similarity": 0.36128391779392827,
+        "clique": [
+            "0-3 billion  The compa",
+            "1-The watch launched i",
+            "2-Other products      "
+        ],
+        "median tf-idf score": 0.8096386158766374,
+        "publications": [
+            "Vox",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "3 billion. The company says that the category includes \"Apple TV, Apple Watch, Beats products, iPod and   and   accessories\".",
+            "The watch launched in the third quarter of Apple's fiscal 2015, when the \"other products\" segment had $2. 6 billion in revenue. ']",
+            "Other products  --   a category that includes the Apple TV and the Apple Watch  --   generated $4."
+        ],
+        "tf-idf score": [
+            0.8096386158766374,
+            0.9469879067294886,
+            0.5220887475660424
+        ]
+    }
+}

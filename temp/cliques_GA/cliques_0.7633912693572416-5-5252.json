@@ -1,0 +1,418 @@
+{
+    "0.19962728115214232-3-92": {
+        "average clique similarity": 0.19962728115214232,
+        "clique": [
+            "4-  In 1986  Gabor mar",
+            "1-    The marriage to ",
+            "2-Although she was bor"
+        ],
+        "median tf-idf score": 0.8453746319076255,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "' In 1986, Gabor married for the final time to Prince Frederick von Anhalt. He was in his 40s, she in her 60s.",
+            "\"   The marriage to de Alba was annulled because her divorce from   O'Hara was not final at the time of the wedding. The 1986   marriage to von Anhalt, which lasted until her death, was by far   her longest. \"",
+            "Although she was born in the year of the Soviet revolution and her final claim to fame was longevity, Zsa Zsa Gabor, who has died at 99, was in many ways an oddly modern figure."
+        ],
+        "tf-idf score": [
+            0.8453746319076255,
+            0.7146979293521406,
+            0.9861123771724658
+        ]
+    },
+    "0.2484296432655855-3-103": {
+        "average clique similarity": 0.2484296432655855,
+        "clique": [
+            "0-She sued Francesca i",
+            "1-She emerged from jai",
+            "3-Her lawyer Chris Fie"
+        ],
+        "median tf-idf score": 0.6409250319075743,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "She sued Francesca in 2005, saying her daughter had taken out a loan against Gabor's Bel Air, California, home and used the transaction to steal $2 million. (Reporting by Bill Trott in Washington; Additional reporting by Frank McGurty in New York and Sharon Bernstein in Sacramento, Calif.; Editing by Diane Craft and Peter Cooney) MONTREUX, Switzerland Usher and The Roots, and Trombone Shorty gave   shows at the Montreux Jazz Festival on Wednesday night, bringing American funk,   and R&B to the famed stage.",
+            "She emerged from jail complaining   about the food. \" \"   She sued Francesca in 2005, saying her daughter had taken out a   loan against Gabor's Bel Air, California, home and used the   transaction to steal $2 million. \"",
+            "Her lawyer Chris Fields said she lost at least $7 million and possibly as much as $10 million. Ms Gabor had been in and out of hospitals for years."
+        ],
+        "tf-idf score": [
+            0.9985760198680367,
+            0.6409250319075743,
+            0.5286031597517453
+        ]
+    },
+    "0.26735865621365423-3-160": {
+        "average clique similarity": 0.26735865621365423,
+        "clique": [
+            "1-         Actress Zsa",
+            "4-  Zsa Zsa Gabor  who",
+            "3-Zsa Zsa Gabor  the H"
+        ],
+        "median tf-idf score": 0.8969774884769429,
+        "publications": [
+            "Business Insider",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "'  ' '   Actress Zsa Zsa Gabor, who parlayed beauty,     glamor and nine marriages into a long celebrity career, died on   Sunday, Variety and other media outlets reported, She was 99. '",
+            "' Zsa Zsa Gabor, who died on Sunday at 99, lived a long and glamorous life in the spotlight. She married nine men and had several other whirlwind romances.'",
+            "Zsa Zsa Gabor, the Hungarian actress whose   glamour and   marriages to millionaires put a luster of American celebrity on a long but only modestly successful career in movies and television, died on Sunday in Los Angeles."
+        ],
+        "tf-idf score": [
+            1.0808276260990413,
+            0.6943148100117243,
+            0.8969774884769429
+        ]
+    },
+    "0.28627742184101274-4-47": {
+        "average clique similarity": 0.28627742184101274,
+        "clique": [
+            "0-She was once branded",
+            "4-The couple divorced ",
+            "1-    She was once bra",
+            "2-Curiously  Gabor and"
+        ],
+        "median tf-idf score": 0.7835812661637456,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "She was once branded \"the most expensive courtesan since Madame de Pompadour,\" but Gabor insisted that only her marriage to husband No. 2, hotel mogul Conrad Hilton, was financially motivated.",
+            "The couple divorced in 1947.' ' On April, 1, 1949, Gabor announced she planned to wed actor George Sanders. The couple married the next day in Las Vegas.'",
+            "'   She was once branded \"the most expensive courtesan since Madame   de Pompadour,\" but Gabor insisted that only her marriage to   husband No. 2, hotel mogul Conrad Hilton, was financially   motivated. '",
+            "Curiously, Gabor and Taylor both married into the same American hotel empire (marrying Conrad Hilton Sr and Jr respectively)."
+        ],
+        "tf-idf score": [
+            0.9155402301412837,
+            0.6516223021862075,
+            0.9155402301412837,
+            0.5835601192640426
+        ]
+    },
+    "0.30502973748453627-4-61": {
+        "average clique similarity": 0.30502973748453627,
+        "clique": [
+            "3-Zsa Zsa  who divorce",
+            "4-  Zsa Zsa Gabor  the",
+            "1-    Born Sari Gabor ",
+            "2-It was no coincidenc"
+        ],
+        "median tf-idf score": 0.9112254698882443,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Buzzfeed News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Zsa Zsa, who divorced seven of her eight husbands, was first married to Burhan Belge, a Turkish diplomat in Budapest, from 1937 to 1941.",
+            "' Zsa Zsa Gabor, then known as Sari, was first married in 1937 to Turkish diplomat Burhan Belge.",
+            "'   Born Sari Gabor into a wealthy family, she was named Miss Hungary   in the 1930s. When World War Two approached, Zsa Zsa and her   sisters headed for the United States, leaving behind her first   husband, Burhan Belge, a Turkish diplomat. '",
+            "It was no coincidence that in both her first movie, Lovely to Look At (1952) and her last, A Very Brady Sequel (1996) the character she played was called Zsa Zsa Gabor."
+        ],
+        "tf-idf score": [
+            0.740197733682259,
+            0.9460161165847767,
+            1.1646013541505529,
+            0.876434823191712
+        ]
+    },
+    "0.3215251611999371-3-160": {
+        "average clique similarity": 0.3215251611999371,
+        "clique": [
+            "3-Her husbands include",
+            "1-    In 1949  after d",
+            "0-In 1949  after divor"
+        ],
+        "median tf-idf score": 0.8955283498929967,
+        "publications": [
+            "New York Times",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "Her husbands included a Turkish diplomat, the hotel heir Conrad Hilton, the actor George Sanders, an industrialist, an oil magnate, a toy designer, a divorce lawyer and a man often referred to in the news media as the Duke of Saxony.",
+            "'   In 1949, after divorcing Hilton, Gabor married British actor   George Sanders, whom she later was to call her one true love. Sanders would end up married to Magda. '",
+            "In 1949, after divorcing Hilton, Gabor married British actor George Sanders, whom she later was to call her one true love."
+        ],
+        "tf-idf score": [
+            0.48090841883643254,
+            0.9535826935817304,
+            0.8955283498929967
+        ]
+    },
+    "0.3441296957091322-3-100": {
+        "average clique similarity": 0.3441296957091322,
+        "clique": [
+            "1-    Ed Lozzi  a publ",
+            "0-Edward Lozzi  who wa",
+            "3-The cause was heart "
+        ],
+        "median tf-idf score": 0.9260096847234839,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "'   Ed Lozzi, a publicist for Gabor, told Variety that the     actress, who would have turned 100 in February,   passed away at her home on Sunday afternoon. No additional   information about her death was available, and Lozzi could not be   reached immediately. '",
+            "Edward Lozzi, who was a longtime publicist for Gabor, said  the   actress passed away at her Los Angeles home after years of decline and illness. She would have turned 100 in February.",
+            "The cause was heart failure, her longtime publicist Edward Lozzi said."
+        ],
+        "tf-idf score": [
+            0.929751589467138,
+            0.9260096847234839,
+            0.4044420916513022
+        ]
+    },
+    "0.3477542413468921-3-71": {
+        "average clique similarity": 0.3477542413468921,
+        "clique": [
+            "0-Gabor eventually end",
+            "1-    Greater success ",
+            "3-In addition to her s"
+        ],
+        "median tf-idf score": 0.8468884786608343,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "Gabor eventually ended up in   films with such titles as \"Queen of Outer Space\" and \"Picture Mommy Dead\". Greater success came with nightclub and TV appearances where she disclosed she called everyone \" \" because she could not remember names well, and she relied on   jokes based on her marriages, haughty demeanor and taste for opulence. \"I am a marvelous housekeeper.",
+            "'   Greater success came with nightclub and TV appearances where she   disclosed she called everyone \" \" because she could not   remember names well, and she relied on   jokes based   on her marriages, haughty demeanor and taste for opulence. ' '   \"I am a marvelous housekeeper. Every time I leave a man, I keep   his house,\" she was quoted as saying. '",
+            "In addition to her steady appearances in movies and on television, Ms Gabor operated a   cosmetics company. She once offered $1 million to anyone who could prove she had had a  ."
+        ],
+        "tf-idf score": [
+            0.8693613032192804,
+            0.8468884786608343,
+            0.45383888611698076
+        ]
+    },
+    "0.3541794239309876-3-37": {
+        "average clique similarity": 0.3541794239309876,
+        "clique": [
+            "0-While her acting ski",
+            "1-Her finest film   ro",
+            "3-Breezing into court "
+        ],
+        "median tf-idf score": 0.8921548495652087,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "While her acting skills were rarely lauded, Zsa Zsa Gabor carved out a career in her early days in Hollywood. Her finest film roles came with \"Moulin Rouge,\" where she earned good reviews, in 1952 and \"Lili\" in 1953. She appeared in more than 30 movies and by the 1970s she began to reject smaller roles, saying: \"I may be a character but I do not want to be a character actress\".",
+            "Her finest film   roles came with \"Moulin Rouge,\" where she earned good reviews, in   1952 and \"Lili\" in 1953. ' '   She appeared in more than 30 movies and by the 1970s she began to   reject smaller roles, saying: \"I may be a character but I do not   want to be a character actress\". ' '   Gabor eventually ended up in   films with such titles as   \"Queen of Outer Space\" and \"Picture Mommy Dead\". '",
+            "Breezing into court, she took the stand and, by turns haughty, coquettish, weepy and coarse, spoke of Gestapo tactics in Beverly Hills. The judge gave her 72 hours in jail. \"You just cannot drive a   in Beverly Hills anymore, because they have it in for you,\" she said after things had blown over. Ms Gabor appeared in more than 60 television movies and feature films, mostly   although some were Italian, French, German and Australian."
+        ],
+        "tf-idf score": [
+            1.1860159067427158,
+            0.8921548495652087,
+            0.6584604989543841
+        ]
+    },
+    "0.3580519099052873-3-7": {
+        "average clique similarity": 0.3580519099052873,
+        "clique": [
+            "3-In November 2011  sh",
+            "0-A former spokesman  ",
+            "1-A former   spokesman"
+        ],
+        "median tf-idf score": 1.0125319062964595,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "In November 2011, she had emergency surgery after blood began flowing through a feeding tube inserted in her stomach. Born Sari Gabor in Budapest in 1917  --   she always gave a birth date of Feb. 6 or 7, but not the year, though Mr Lozzi confirmed on Sunday that it was 1917  --   Ms Gabor grew up in relative prosperity, the second of three daughters of Vilmos and Jolie Gabor.",
+            "A former spokesman, John Blanchette, said she was born in 1917. In 1989, Gabor's temper landed her in jail for three days after she slapped a policeman who had stopped her   because of an expired license tag. She emerged from jail complaining about the food. \"Zsa Zsa did not suffer fools well,\" said Lozzi, who represented her during that period. \"Her beautiful lips and mouth would also be her worst enemy when and if she turned on the verbal machine gun\".",
+            "A former   spokesman, John Blanchette, said she was born in 1917. ' \"   In 1989, Gabor's temper landed her in jail for three days after   she slapped a policeman who had stopped her   because   of an expired license tag."
+        ],
+        "tf-idf score": [
+            1.0125319062964595,
+            1.2224562187092882,
+            0.8884075234170056
+        ]
+    },
+    "0.39265737676362655-3-160": {
+        "average clique similarity": 0.39265737676362655,
+        "clique": [
+            "3-The ceremony was per",
+            "0-The marriage to de A",
+            "4-In 1982  Gabor marri"
+        ],
+        "median tf-idf score": 0.7522880301693234,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The ceremony was performed by a ship's captain at sea but was probably illegal because the ship was not in international waters, and Ms Gabor was technically not yet divorced from Mr O'Hara.",
+            "The marriage to de Alba was annulled because her divorce from O'Hara was not final at the time of the wedding.",
+            "In 1982, Gabor married again, this time to Felipe de Alba, but the marriage proved invalid because her divorce from O'Hara was not finalized.'"
+        ],
+        "tf-idf score": [
+            0.7522880301693234,
+            0.5657605295235072,
+            0.9317649107603709
+        ]
+    },
+    "0.4225073423470045-3-50": {
+        "average clique similarity": 0.4225073423470045,
+        "clique": [
+            "0-Gabor  by most accou",
+            "2- I am a marvellous h",
+            "1-    Gabor  by most a"
+        ],
+        "median tf-idf score": 0.9183306657472301,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "Gabor, by most accounts, had a personality that generally outshone her acting skills. Her bubbly demeanor and looks helped land her a string of wealthy husbands. She had a penchant for calling everyone \" \" in her thick Hungarian accent. Along with her two sisters, Eva and Magda, she became a fixture on Hollywood's social circuit in her prime.",
+            "\"I am a marvellous housekeeper. Every time I leave a man I keep his house,\" she said. When people unable to keep up would check with her how many husbands she had had, she would say: \"You mean just my own? Or other women's as well?\" Tough to be the husband of, she was also not easy in professional encounters, and became known for extreme prima donna behaviour.",
+            "'   Gabor, by most accounts, had a personality that generally   outshone her acting skills. Her bubbly demeanor and looks helped   land her a string of wealthy husbands. She had a penchant for   calling everyone \" \" in her thick Hungarian accent. Along   with her two sisters, Eva and Magda, she became a fixture on   Hollywood''s social circuit in her prime. '"
+        ],
+        "tf-idf score": [
+            0.9183306657472301,
+            0.6751355588693027,
+            0.9183306657472301
+        ]
+    },
+    "0.4428187312568221-3-86": {
+        "average clique similarity": 0.4428187312568221,
+        "clique": [
+            "3-She was the last sur",
+            "0-In fact  marriage co",
+            "1-    In fact  marriag"
+        ],
+        "median tf-idf score": 1.256593200644564,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "She was the last surviving Gabor sister.",
+            "In fact, marriage could have been the Gabor family business and Zsa Zsa, the company's CEO Her nine marriages topped the five by Eva, who starred in the 1960s sitcom \"Green Acres,\" and the six of Magda, whose Hollywood career was mostly based on being the third Gabor sister.",
+            "'   In fact, marriage could have been the Gabor family business and   Zsa Zsa, the company''s CEO Her nine marriages topped the five by   Eva, who starred in the 1960s sitcom \"Green Acres,\" and the six   of Magda, whose Hollywood career was mostly based on being the   third Gabor sister. '"
+        ],
+        "tf-idf score": [
+            0.6364306210333894,
+            1.256593200644564,
+            1.256593200644564
+        ]
+    },
+    "0.4456344734721365-3-11": {
+        "average clique similarity": 0.4456344734721365,
+        "clique": [
+            "0-Gabor  one of the la",
+            "1-    Gabor  one of th",
+            "2-In public and privat"
+        ],
+        "median tf-idf score": 0.9301224067643427,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Gabor, one of the last stars of Hollywood's golden age, was not seen in public in her final years as she struggled with her health, including broken bones and cuts from a car accident.",
+            "\"   Gabor, one of the last stars of Hollywood's golden age, was not   seen in public in her final years as she struggled with her   health, including broken bones and cuts from a car accident.",
+            "In public and private, she was the grandest of dames."
+        ],
+        "tf-idf score": [
+            0.9301224067643427,
+            0.9301224067643427,
+            0.32089004022502965
+        ]
+    },
+    "0.46479916103600744-3-1": {
+        "average clique similarity": 0.46479916103600744,
+        "clique": [
+            "1-    In addition to B",
+            "3-Some biographies of ",
+            "0-In addition to Belge"
+        ],
+        "median tf-idf score": 1.331176852453577,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"   In addition to Belge, Hilton and Sanders, Gabor was married to   New York businessman Herbert Hutner, oilman Joshua Cosden, Barbie   doll designer Jack Ryan, her divorce lawyer Michael O'Hara, Count   Felipe de Alba of Mexico and Frederic Prinz von Anhalt. \"",
+            "Some biographies of Ms Gabor also mention a 1983 marriage to Felipe de Alba, a lawyer who appeared in films in Mexico in the 1940s and '50s, but Ms Gabor said it lasted only a day.",
+            "In addition to Belge, Hilton and Sanders, Zsa Zsa Gabor was married to New York businessman Herbert Hutner, oilman Joshua Cosden, Barbie doll designer Jack Ryan, her divorce lawyer Michael O'Hara, Count Felipe de Alba of Mexico and Frederic Prinz von Anhalt."
+        ],
+        "tf-idf score": [
+            1.331176852453577,
+            0.6607043717273323,
+            1.4810905679120534
+        ]
+    },
+    "0.5347732322854172-3-30": {
+        "average clique similarity": 0.5347732322854172,
+        "clique": [
+            "1-She   also suffered ",
+            "0-She also suffered a ",
+            "3-It left her in a whe"
+        ],
+        "median tf-idf score": 0.7596371376649442,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "New York Times"
+        ],
+        "sentences": [
+            "She   also suffered a stroke and a broken hip, enduring complications   from hip replacement surgery. She had much of her right leg   amputated in 2011 because of an infection. \" \"   Gabor's most recent stint at the hospital came just days after   her 99th birthday in February 2016 for breathing difficulties. \"",
+            "She also suffered a stroke and a broken hip, enduring complications from hip replacement surgery. She had much of her right leg amputated in 2011 because of an infection. Gabor's most recent stint at the hospital came just days after her 99th birthday last February for breathing difficulties.",
+            "It left her in a wheelchair, and she retreated from the spotlight. She suffered a stroke in 2005 and had surgery for a blocked carotid artery. In 2007, she again underwent surgery to treat a leg infection and aftereffects of the stroke. In July 2010, she underwent   surgery after a fall at her home in which she also suffered a concussion."
+        ],
+        "tf-idf score": [
+            0.7596371376649442,
+            0.7596371376649442,
+            0.19843873141857554
+        ]
+    },
+    "0.6579411339250752-3-89": {
+        "average clique similarity": 0.6579411339250752,
+        "clique": [
+            "1-    Soon after arriv",
+            "0-Soon after arriving ",
+            "3-Their daughter  Fran"
+        ],
+        "median tf-idf score": 1.005877512126871,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "'   Soon after arriving in Hollywood, where Eva was working as an   actress, Gabor married Hilton, with whom she had a daughter,   Francesca, who died in January 2015. '",
+            "Soon after arriving in Hollywood, where Eva was working as an actress, Gabor married Hilton, with whom she had a daughter, Francesca, who died in January 2015.",
+            "Their daughter, Francesca Hilton, an actress, was Ms Gabor's only child. She died in 2015."
+        ],
+        "tf-idf score": [
+            1.005877512126871,
+            1.005877512126871,
+            0.775639826711036
+        ]
+    }
+}

@@ -1,0 +1,762 @@
+{
+    "0.12073806158468912-3-33": {
+        "average clique similarity": 0.12073806158468912,
+        "clique": [
+            "2-Not only was this a ",
+            "3-Rubio noted several ",
+            "1-Despite the   battle"
+        ],
+        "median tf-idf score": 0.8239852091944881,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Not only was this a powerful extended screed, but a lot of it  --   the crop insurance line, the Snowden line, the green card line  --   had the virtue of being true.",
+            "Rubio noted several issues on which Cruz had changed his views or his stance, including the availability of green cards and legal status for immigrants in the country illegally, Trade Promotion Authority for President Obama, military spending levels and even the status of whistleblower Edward Snowden.",
+            "Despite the   battles, the candidates tried to focus their attention on Obama and Clinton. Bush ripped the Democratic   for being at the heart of an FBI probe over her email   saying if elected, \"she might be going back and forth between the White House and the courthouse. \" Rubio added that Clinton would actually be \"disqualified. \" At the opening of the debate, the candidates slammed the president's \"rosy\" State of the Union address earlier in the week."
+        ],
+        "tf-idf score": [
+            0.3138398162593077,
+            0.8239852091944881,
+            0.847327429660512
+        ]
+    },
+    "0.12704081820150737-3-89": {
+        "average clique similarity": 0.12704081820150737,
+        "clique": [
+            "2-In fact  most are wo",
+            "1-Florida Sen  Marco R",
+            "4-Asked about Christie"
+        ],
+        "median tf-idf score": 0.4571724095938993,
+        "publications": [
+            "Vox",
+            "National Review",
+            "Fox News"
+        ],
+        "sentences": [
+            "In fact, most are women and children. Marco Rubio said that ISIS is trying to recruit doctors and engineers to infiltrate the US Not really, no. Rubio also suggested that ISIS is a bigger threat than gun violence. Nope.",
+            "Florida Sen. Marco Rubio then interjected to talk about other issues. \"I hate to interrupt this episode of court TV,\" Rubio said.",
+            "Asked about Christie's assertion that Rubio cannot \"slime his way\" to the White House, Rubio said that Christie supports Common Core and gun control, before blasting the New Jersey governor for supporting Supreme Court justice Sonia Sotomayor's confirmation."
+        ],
+        "tf-idf score": [
+            0.41624320509787327,
+            0.4571724095938993,
+            0.7218272525791322
+        ]
+    },
+    "0.13095215868027651-3-226": {
+        "average clique similarity": 0.13095215868027651,
+        "clique": [
+            "2-It was a weird unfor",
+            "4-At the time  Rubio s",
+            "3-Cruz s wife  Heidi  "
+        ],
+        "median tf-idf score": 0.7589441981901386,
+        "publications": [
+            "NPR",
+            "National Review",
+            "Vox"
+        ],
+        "sentences": [
+            "It was a weird unforced error for Cruz to let Trump unleash this attack, which he must have known was coming.",
+            "At the time, Rubio said that it appeared somebody had told Bush it was politically necessary to attack Rubio.",
+            "Cruz's wife, Heidi, worked for the bank at the time, and he has said they used their own retirement accounts to pay for the campaign. Cruz called it \"a paperwork error\" that he reported the loan properly in one disclosure form but not another."
+        ],
+        "tf-idf score": [
+            0.8380586210669086,
+            0.638248263252497,
+            0.7589441981901386
+        ]
+    },
+    "0.14082192152128717-3-361": {
+        "average clique similarity": 0.14082192152128717,
+        "clique": [
+            "4-In the   spin room  ",
+            "2-But uneasy lies the ",
+            "0-The birthright issue"
+        ],
+        "median tf-idf score": 0.7458825661255085,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "National Review"
+        ],
+        "sentences": [
+            "In the   spin room, Huckabee was asked whether Cruz's Canadian birth is a legitimate campaign issue.",
+            "But uneasy lies the head that wears a crown, and naturally Cruz has faced more incoming attacks as his polling has improved, most notably attacks from Donald Trump arguing that Cruz's Canadian birth renders him ineligible for the presidency.",
+            "The birthright issue has dogged American politics before: 2008 Republican nominee John McCain survived questions about his birth in Panama because he was born on a U S military installation there and it was judged to be U S soil. In 1967, Republican candidate George Romney faced questions about his birth in Mexico, but his candidacy never advanced far and the issue was abandoned."
+        ],
+        "tf-idf score": [
+            0.7201084136738146,
+            0.7992085966171399,
+            0.7458825661255085
+        ]
+    },
+    "0.14475687879750718-3-333": {
+        "average clique similarity": 0.14475687879750718,
+        "clique": [
+            "4-The debate was shape",
+            "2-Ben Carson  for his ",
+            "3-Less noteworthy than"
+        ],
+        "median tf-idf score": 0.5512707032774814,
+        "publications": [
+            "NPR",
+            "Vox",
+            "National Review"
+        ],
+        "sentences": [
+            "The debate was shaped by the clashes among them. Meanwhile, others seemed to recede from view. Jeb Bush and Ben Carson, who each once led the polls, were largely quiet, offering nothing to arrest their respective slides.",
+            "Ben Carson, for his part, mischaracterized his own tax plan.",
+            "Less noteworthy than in any debate since the campaign began was Ben Carson, the neurosurgeon who surged to the upper ranks in the polls in the fall. Since the terror attacks in Paris on Nov. 13, however, as the campaign focus shifted to national security, Carson has faded."
+        ],
+        "tf-idf score": [
+            0.5512707032774814,
+            0.06877433891279067,
+            0.7197667583935636
+        ]
+    },
+    "0.15148067891386546-3-109": {
+        "average clique similarity": 0.15148067891386546,
+        "clique": [
+            "1-Cruz and Rubio also ",
+            "2-The immigration bit ",
+            "3-Cruz had harkened ba"
+        ],
+        "median tf-idf score": 0.6062423371800963,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Cruz and Rubio also tangled over immigration, with Rubio claiming Cruz has reversed course on several fronts.",
+            "The immigration bit was even more positive for Rubio, who got to include this extended screed condemning Cruz's alleged   and apostasies:  When you talk about immigration.",
+            "Cruz had harkened back to Rubio's 2013 bill overhauling the immigration laws  --   a bill Cruz has called \"amnesty for illegals\"."
+        ],
+        "tf-idf score": [
+            0.5704838690755012,
+            0.7447675027076556,
+            0.6062423371800963
+        ]
+    },
+    "0.15664032947775122-3-28": {
+        "average clique similarity": 0.15664032947775122,
+        "clique": [
+            "3-Cruz was on the spot",
+            "2-But even if the line",
+            "0-The U S Constitution"
+        ],
+        "median tf-idf score": 0.8953225825137237,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Cruz was on the spot early because Trump has recently questioned whether Cruz's Canadian birth met the \"natural born citizen\" qualification cited in the Constitution.",
+            "But even if the line succeeded more because Cruz screwed up than because Trump delivered, Trump nailed it nonetheless, and got the audience back on his side after the birther exchange.",
+            "The U S Constitution says only \"natural born\" citizens can become president of the United States. \"Who the hell knows if you can even serve in office?\" Trump told Cruz, drawing a scattering of boos in the audience."
+        ],
+        "tf-idf score": [
+            0.9698966140213854,
+            0.6550541610727868,
+            0.8953225825137237
+        ]
+    },
+    "0.15848721191684936-3-279": {
+        "average clique similarity": 0.15848721191684936,
+        "clique": [
+            "4-On stage  when Rubio",
+            "3-Trump came back  not",
+            "1-Cruz also ripped Oba"
+        ],
+        "median tf-idf score": 0.8362092635912269,
+        "publications": [
+            "NPR",
+            "National Review",
+            "Fox News"
+        ],
+        "sentences": [
+            "On stage, when Rubio was asked about his 2013 support for the failed Gang of Eight bill and the threats posed by terrorist groups exploiting America's immigration system, he said the emergence of the Islamic State over the past 24 months has changed his view.",
+            "Trump came back, not with his characteristic aggression or bluster, but with a measured answer about the values by which his native state and city had rebounded from the attacks on Sept. 11, 2001. He said New Yorkers in those days and months earned the admiration of the world.",
+            "Cruz also ripped Obama for omitting any mention of the U S sailors detained by Iran in his State of the Union. \"It was heartbreaking,\" he said. Those sailors were later released."
+        ],
+        "tf-idf score": [
+            0.8362092635912269,
+            0.8286983918081284,
+            0.8522449863821323
+        ]
+    },
+    "0.16283511344295054-3-481": {
+        "average clique similarity": 0.16283511344295054,
+        "clique": [
+            "3-Kasich was given reg",
+            "4-Trump validated that",
+            "0- NEW YORK VALUES  Wh"
+        ],
+        "median tf-idf score": 1.2225575296831899,
+        "publications": [
+            "National Review",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Kasich was given regular questions by the moderators but was not engaged by the other candidates as much as Trump, Cruz, Rubio and Christie. That meant he could not get response time, or get involved in the    that animated the evening.",
+            "Trump validated that theory a moment later, when pressed by the moderators on why he was now raising the issue against Cruz.",
+            "'NEW YORK VALUES' While Cruz seemed to have parried the attack for now, he was stung by Trump on another issue: Whether people who live in New York City have the same values as other Americans."
+        ],
+        "tf-idf score": [
+            1.2307789927384778,
+            0.9131309175393518,
+            1.2225575296831899
+        ]
+    },
+    "0.1647042682691596-3-210": {
+        "average clique similarity": 0.1647042682691596,
+        "clique": [
+            "4-And in that race  it",
+            "0-And I have to tell y",
+            "3-And once that issue "
+        ],
+        "median tf-idf score": 0.6172196483670831,
+        "publications": [
+            "National Review",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "And in that race, it was apparent that Cruz was not prepared to retreat.",
+            "And I have to tell you, that was a very insulting statement that Ted made,\" Trump said.",
+            "And once that issue had been raised by FOX Business Network anchor Maria Bartiromo, Trump was more than willing to respond to Cruz's attempts to sidestep it. \"That wouldn't work,\" he said. \"I was born here. Big difference\"."
+        ],
+        "tf-idf score": [
+            0.5537463169026344,
+            0.6172196483670831,
+            1.156686467406861
+        ]
+    },
+    "0.16691053643687856-3-301": {
+        "average clique similarity": 0.16691053643687856,
+        "clique": [
+            "1- And everybody in th",
+            "0-The New York billion",
+            "2-After a weird intro "
+        ],
+        "median tf-idf score": 1.0697609699747563,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "\"And everybody in the world loved New York, loved New Yorkers    and I have to tell you, that was a very insulting statement. \" On the question of Cruz' eligibility, however, the Texas senator arrived   to rebut the GOP  's claims that his Canadian birth might make him unable to run for office.",
+            "The New York billionaire and the Texas senator appeared to have a split decision by the end of the night, a sign that for all the bluster, little took place that could derail Trump from his lead position with a contest in Iowa on Feb. 1 to begin the search for a Republican presidential nominee. Projections that the debate would be a    were accurate.",
+            "After a weird intro pointing out that William F Buckley was a conservative but also, in an intriguing twist, a New Yorker, Trump pummeled Cruz for disrespecting the victims of  :  When the World Trade Center came down, I saw something that no place on Earth could have handled more beautifully, more humanely than New York."
+        ],
+        "tf-idf score": [
+            1.0697609699747563,
+            0.9327486633921046,
+            1.10928684826627
+        ]
+    },
+    "0.16809803624026454-3-65": {
+        "average clique similarity": 0.16809803624026454,
+        "clique": [
+            "0-Rubio  in third plac",
+            "2-Add the fact that Cr",
+            "4-That much we know   "
+        ],
+        "median tf-idf score": 0.9924528281814241,
+        "publications": [
+            "National Review",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "Rubio, in third place behind Trump and Cruz in Iowa and hoping a strong outcome there will help him in the New Hampshire primary on Feb. 9, frequently inserted himself into arguments and tried to put pressure on Cruz.",
+            "Add the fact that Cruz has a solid ground game, with thousands of volunteers and a   dormitory in which to house them  --   whereas one of Trump's Iowa precinct captains has disowned his candidate's   comments on the grounds that   is an inside job and Muslims are thus not to blame  --   and the odds of Cruz winning Iowa, and gaining momentum thereafter in New Hampshire and South Carolina, look pretty high.",
+            "That much we know. \" By and large, the evening's spats mirrored the attacks that have flooded airwaves in Iowa and New Hampshire in recent weeks, and the   jabs that have accompanied them. Rubio and Cruz have for weeks been locked in a war of words over their respective records on immigration, with each calling the other an unprincipled  ."
+        ],
+        "tf-idf score": [
+            0.9924528281814241,
+            1.0812335464812977,
+            0.9132448648060324
+        ]
+    },
+    "0.17225920709303486-3-20": {
+        "average clique similarity": 0.17225920709303486,
+        "clique": [
+            "0-Trump said Democrats",
+            "3- He called Snowden a",
+            "1-And if he won  Trump"
+        ],
+        "median tf-idf score": 0.7891633201440689,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "Trump said Democrats would sue if Cruz were on the Republican ticket, putting their party's chances of winning at risk.",
+            "\"He called Snowden a public servant,\" Rubio said. \"When I'm president if we can get our hands on him, Snowden will be prosecuted as a traitor\". Cruz had a chance to rebut what he called \"at least 11 attacks\" from Rubio and said at least half of them were \"clearly false\".",
+            "And if he won, Trump said, \"Who the hell knows if you can even serve in office?\" He called the issue a \"big overhang\" and said, \"You can't do that to the party. \""
+        ],
+        "tf-idf score": [
+            0.7891633201440689,
+            0.8266345798579267,
+            0.5497533483502337
+        ]
+    },
+    "0.1735290484985729-4-234": {
+        "average clique similarity": 0.1735290484985729,
+        "clique": [
+            "1-I m just saying     ",
+            "4-North Charleston  S ",
+            "0-Beyond the   theatri",
+            "2-Loser  Chris Christi"
+        ],
+        "median tf-idf score": 0.9962444420358758,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "Fox News",
+            "National Review"
+        ],
+        "sentences": [
+            "I'm just saying. \". The exchanges, at times, seemed to relegate the other five candidates to a debate among themselves, though most on stage put on an energetic performance. Rubio and New Jersey Gov. Chris Christie    who are battling with Cruz, Ohio Gov. John Kasich and former Florida Gov.",
+            "North Charleston, S C  --   The seven candidates on the main stage here Thursday evening attacked harder, pushed back more forcefully, and battled more fiercely than ever. Just 18 days from the Iowa caucuses, the aperture is narrowing, and the Republican primary is increasingly focused on four men: Donald Trump, Ted Cruz, Marco Rubio, and Chris Christie.",
+            "Beyond the   theatrics, U S Senator Marco Rubio of Florida turned in a pugnacious performance with attacks on Cruz and New Jersey Governor Chris Christie.",
+            "Loser: Chris Christie             Cruz did a whole lot of lying at the debate, but he had nothing on Chris Christie, whose lies were weirder, less persuasive, and way more desperate."
+        ],
+        "tf-idf score": [
+            1.1167468177899293,
+            1.2511884473240016,
+            0.8757420662818223,
+            0.6495132232710353
+        ]
+    },
+    "0.17565852416421687-3-420": {
+        "average clique similarity": 0.17565852416421687,
+        "clique": [
+            "0-Florida Governor Jeb",
+            "1-Trump also stood by ",
+            "3-Jeb Bush  the former"
+        ],
+        "median tf-idf score": 0.8282377375436873,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "Florida Governor Jeb Bush presented himself as a voice of reason against Trump. A Google snap poll showed viewers believed Trump, who in the most recent debates was at times less engaged, won the night with 37.",
+            "Trump also stood by his controversial call to temporarily bar Muslims from entering the country  --   to which Bush repeated his charge that the plan is \"unhinged. \" Kasich, as before, cast himself as a practical   with fiscal conservative credentials.",
+            "Jeb Bush, the former governor of Florida, found several opportunities to assert himself, especially on the question of immigration. He went after Trump's proposed exclusion of all Muslims, saying it made it impossible to recruit and retain allies in the international coalition against ISIS In fact, he said, he made the case ISIS is trying to make against the U S Bush had earlier called Trump's suggestion \"unhinged,\" and he stood by that on Thursday night."
+        ],
+        "tf-idf score": [
+            0.8813568513788826,
+            0.42837233481371534,
+            0.8282377375436873
+        ]
+    },
+    "0.18637093880241937-4-137": {
+        "average clique similarity": 0.18637093880241937,
+        "clique": [
+            "2- The Fox Business de",
+            "1-While all seven cand",
+            "0-For more on the 2016",
+            "3-Donald Trump did not"
+        ],
+        "median tf-idf score": 0.8040494111531713,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            " The Fox Business debate on January 14 was the liveliest of the Republican presidential contests since the first Fox News event last August, when America first experienced the spectacle of Donald Trump on a debate stage.",
+            "While all seven candidates on the   Fox Business Network debate stage spent much of their time attacking President Obama and Hillary Clinton, the   battle on display could set the tone for the final   to Iowa and New Hampshire.",
+            "For more on the 2016 presidential race, see the Reuters blog, \"Tales from the Trail\" ( ) (In paragraph 5, corrects to Fox Business Network from Fox Business Channel)  (additional reporting by Emily Stephenson, Ginger Gibson, and Megan Cassella; Writing by Jeff Mason; editing by Grant McCool) NEW YORK Six in ten American voters support the new ban on people from six predominantly Muslim countries from entering the United States unless they can show they have a close relative here, according to opinion poll results released on Wednesday.",
+            "Donald Trump did not dominate the sixth debate among the most prominent Republican candidates for president, but he may have been its prime beneficiary. Trump held his own through an evening of challenges from the FOX Business Network moderators and from six rivals with him on stage. There were plenty of slings and arrows all around, yet Trump did nothing to discourage his fans while watching his main rivals carve each other up."
+        ],
+        "tf-idf score": [
+            0.7926124125263185,
+            0.7551178203000186,
+            0.815486409780024,
+            0.8373593776543762
+        ]
+    },
+    "0.19107998186046596-3-155": {
+        "average clique similarity": 0.19107998186046596,
+        "clique": [
+            "2-The first was when B",
+            "0-1 percent  Until the",
+            "1-The Republican   als"
+        ],
+        "median tf-idf score": 0.669513754825089,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "The first was when Bartiromo brought up South Carolina Gov.",
+            "1 percent. Until the Fox Business Network debate in North Charleston, South Carolina, Trump and Cruz had been friendly because they have both been chasing conservatives of the Tea Party movement and did not want to anger them.",
+            "The Republican   also has been engaged in an unusual battle on the sidelines with South Carolina Gov. Nikki Haley, who was tapped to give the official GOP response to President Obama's State of the Union address Tuesday."
+        ],
+        "tf-idf score": [
+            0.2746873797618974,
+            0.9208212615416388,
+            0.669513754825089
+        ]
+    },
+    "0.19668236786003904-3-498": {
+        "average clique similarity": 0.19668236786003904,
+        "clique": [
+            "2-Even earlier  Cruz e",
+            "1-Bush chimed in to mo",
+            "3-Cruz had earlier den"
+        ],
+        "median tf-idf score": 0.8001363380076363,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Even earlier, Cruz easily swatted back a question from   Maria Bartiromo about a New York Times investigation finding he failed to disclose a huge loan from Goldman Sachs to his Senate campaign in 2011.",
+            "Bush chimed in to mock the debate between the \"  senators. \" Meanwhile, Cruz took aim at one of his favorite targets, the media  --   criticizing The New York Times for a critical report about a campaign finance disclosure mistake.",
+            "Cruz had earlier denounced The Times for its \"hit piece\" on the loan he received from the investment bank of Goldman Sachs at favorable terms to finance his bid for the U S Senate in 2012."
+        ],
+        "tf-idf score": [
+            0.8001363380076363,
+            0.8916202551523977,
+            0.539845741406463
+        ]
+    },
+    "0.19756231337719168-3-36": {
+        "average clique similarity": 0.19756231337719168,
+        "clique": [
+            "1- Ted Cruz and Donald",
+            "4-The two   clashed ag",
+            "3-This was not the onl"
+        ],
+        "median tf-idf score": 1.2169473735394425,
+        "publications": [
+            "National Review",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            " Ted Cruz and Donald Trump clashed in a spectacular way at the Republican presidential debate Thursday, engaging in a   and   exchange over Cruz' eligibility for office  --   and later, a dispute in which Trump cited   to put down his rival's jokes about \"New York values. \"",
+            "The two   clashed again over Cruz's recent attempt to raise questions about Trump's conservatism by referring cryptically to his \"New York values. \"",
+            "This was not the only clash between the two men who are leading in Iowa polls as well as in national soundings of the GOP The moderators also raised Cruz's recent remarks about Trump having \"New York values,\" which had been an applause line for him on the hustings."
+        ],
+        "tf-idf score": [
+            1.2169473735394425,
+            0.9016730650651177,
+            1.3329416998160044
+        ]
+    },
+    "0.20476200630802732-3-249": {
+        "average clique similarity": 0.20476200630802732,
+        "clique": [
+            "1-In perhaps his most ",
+            "2-     Molly Ball   mo",
+            "4-It was perhaps Trump"
+        ],
+        "median tf-idf score": 0.8853177541011954,
+        "publications": [
+            "National Review",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "In perhaps his most withering retort, Trump slammed Cruz for questioning \"New York values. \"",
+            "--   Molly Ball (@mollyesque) January 15, 2016    Perhaps even better was when Trump avenged Cruz's birther victory by destroying Cruz for his attacks on Trump's \"New York values\".",
+            "It was perhaps Trump's best debate moment, and Cruz's worst."
+        ],
+        "tf-idf score": [
+            0.8271107099793432,
+            1.1174686838188526,
+            0.8853177541011954
+        ]
+    },
+    "0.2100850850128212-3-280": {
+        "average clique similarity": 0.2100850850128212,
+        "clique": [
+            "2- Well  Neil   he tol",
+            "4-When moderator Neil ",
+            "3-Christie flatly deni"
+        ],
+        "median tf-idf score": 1.0086624774602175,
+        "publications": [
+            "Vox",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "\"Well, Neil,\" he told moderator Neil Cavuto after he brought up the issue. \"I'm glad we're focusing on the important topics of the evening\".",
+            "When moderator Neil Cavuto asked Cruz whether he'd like to settle the issue of his presidential eligibility once and for all, Cruz delivered perhaps his strongest response of the debate season, chalking up Trump's attack to political desperation.",
+            "Christie flatly denied sending any money to Planned Parenthood, causing Twitter to come alive with reporters and others saying they had proof Christie did so in the 1990s. In response to a question from moderator Neil Cavuto about a 45 percent tariff on Chinese goods entering the U S Trump said the quotation was wrong."
+        ],
+        "tf-idf score": [
+            0.19299069275468372,
+            1.021482889017698,
+            1.0086624774602175
+        ]
+    },
+    "0.23110083283266084-3-217": {
+        "average clique similarity": 0.23110083283266084,
+        "clique": [
+            "3- It s The New York T",
+            "4-When asked to explai",
+            "0- Everyone understand"
+        ],
+        "median tf-idf score": 0.7716598035568538,
+        "publications": [
+            "NPR",
+            "National Review",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"It's The New York Times, said Trump, \"they are always wrong\".",
+            "When asked to explain the remark, Cruz said, \"Most people know exactly what New York values are,\" adding that \"not a lot of conservatives come out of Manhattan.",
+            "\"Everyone understands that the values of New York City are socially liberal, are   are   marriage,\" Cruz said."
+        ],
+        "tf-idf score": [
+            0.6253498755889336,
+            0.8962819808245703,
+            0.7716598035568538
+        ]
+    },
+    "0.2371037797893549-4-337": {
+        "average clique similarity": 0.2371037797893549,
+        "clique": [
+            "1-At another point  th",
+            "4-Cruz smirked and sai",
+            "3-But he spent his tim",
+            "0-Christie interrupted"
+        ],
+        "median tf-idf score": 0.9382536131145194,
+        "publications": [
+            "National Review",
+            "Reuters",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "At another point, the New Jersey governor cut off Rubio when he tried to elaborate on entitlements, saying, \"You had your chance\" and \"blew it. \"",
+            "Cruz smirked and said, \"I appreciate you dumping your oppo research file on the debate stage. \" \"It's your record,\" Rubio shot back.",
+            "But he spent his time primarily on answering the assertion he had favored lower military spending. Also going after Rubio was Chris Christie, governor of New Jersey, who at one point said he was going to answer a given issue because \"you had your chance Marco and you blew it\".",
+            "Christie interrupted a   exchange with this blast: \"I'd like to interrupt this debate on the floor of the Senate. You had your chance, Marco you blew it,\" he said. Cruz, who has taken the lead in some polls of Iowa Republican voters, did well on social media."
+        ],
+        "tf-idf score": [
+            0.43182413489176247,
+            0.812315345947384,
+            1.0641918802816548,
+            1.1278783780089847
+        ]
+    },
+    "0.24356794414039865-3-115": {
+        "average clique similarity": 0.24356794414039865,
+        "clique": [
+            "3- Trump s mother was ",
+            "0-Born in Calgary  Alb",
+            "1-Pointing out Trump s"
+        ],
+        "median tf-idf score": 1.0510208063594797,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "(Trump's mother was born in Scotland.) But by so doing, Cruz eluded the real question of whether he needed to have been born in the actual United States in order to be legally elected president.",
+            "Born in Calgary, Alberta, to a U S citizen mother and a Cuban father, Cruz accused Trump of bringing up his birthplace simply because Cruz was leading some polls in Iowa.",
+            "Pointing out Trump's mother was born in Scotland, Cruz said: \"On the issue of citizenship, I'm not going to use your mother's birth against you. \""
+        ],
+        "tf-idf score": [
+            1.0510208063594797,
+            0.9938478987706805,
+            1.096081086683268
+        ]
+    },
+    "0.2553011871955445-3-170": {
+        "average clique similarity": 0.2553011871955445,
+        "clique": [
+            "4-Only three candidate",
+            "3-Also somewhat margin",
+            "1- We need to start on"
+        ],
+        "median tf-idf score": 0.49743019783546644,
+        "publications": [
+            "Fox News",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "Only three candidates  --   Mike Huckabee, Rick Santorum, and Carly Fiorina  --   participated in the evening's undercard debate. Rand Paul, whose poll numbers did not qualify him for the main stage, declined to appear in Charleston.",
+            "Also somewhat marginalized was John Kasich who, like Christie, barely made the statistical cut to participate on the main stage. Four others who did not make the cut were invited to an earlier debate in the same location. Three participated: Mike Huckabee, Rick Santorum and Carly Fiorina. A fourth, Rand Paul, declined the invitation.",
+            "\"We need to start once again recognizing that there is such a thing as right and wrong. And let's not let the secular progressives drive that out of us. \" An earlier evening debate featured three   candidates    former HP CEO Carly Fiorina former Arkansas Gov."
+        ],
+        "tf-idf score": [
+            0.49743019783546644,
+            0.7380493086373513,
+            0.4152328353160645
+        ]
+    },
+    "0.2621839593375463-3-58": {
+        "average clique similarity": 0.2621839593375463,
+        "clique": [
+            "1- That is not consist",
+            "2-That is not consiste",
+            "0-He accused Cruz of p"
+        ],
+        "median tf-idf score": 0.8018946433452864,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Vox"
+        ],
+        "sentences": [
+            "\"That is not consistent conservatism, that is political calculation,\" he said. \"I appreciate you dumping your oppo research folder on the debate stage,\" Cruz countered, maintaining that he opposes \"amnesty\" while Rubio backs citizenship for illegal immigrants.",
+            "That is not consistent conservatism. That is political calculation. When I am president, I will work to keep this country safe, not call Edward Snowden, as you did, a great public servant.",
+            "He accused Cruz of proposing a value added tax as part of     his tax plan and of being soft on immigration. \"That is not consistent conservatism,\" he said. \"That is political calculation\". He attacked Christie as well, accusing him of have liberal positions on education policy and abortion."
+        ],
+        "tf-idf score": [
+            0.8834376111429335,
+            0.1927749144104728,
+            0.8018946433452864
+        ]
+    },
+    "0.3201389392208685-3-395": {
+        "average clique similarity": 0.3201389392208685,
+        "clique": [
+            "2-The crowd applauded ",
+            "0-Cruz said Trump  who",
+            "4-He noted that Trump "
+        ],
+        "median tf-idf score": 1.083286011524545,
+        "publications": [
+            "Reuters",
+            "Vox",
+            "National Review"
+        ],
+        "sentences": [
+            "The crowd applauded. Cruz continued with the following devastating riposte to Trump:     Back in September, my friend Donald said he had his lawyers look at this from every which way and there was no issue there.",
+            "Cruz said Trump, who led the movement questioning whether the   President Barack Obama was really from the United States, had asked his lawyers to look into the issue of Cruz's birth in September and concluded there were no issues.",
+            "He noted that Trump's lawyers had looked into the issue last September and concluded that Cruz was eligible."
+        ],
+        "tf-idf score": [
+            1.083286011524545,
+            1.278614415167115,
+            0.8695889369282171
+        ]
+    },
+    "0.34392716484504476-4-9": {
+        "average clique similarity": 0.34392716484504476,
+        "clique": [
+            "0- Since September  th",
+            "4- Since September  th",
+            "2- Laughter  But the p",
+            "1-This touched off a h"
+        ],
+        "median tf-idf score": 0.7110975959969263,
+        "publications": [
+            "Reuters",
+            "National Review",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "\"Since September, the Constitution hasn't changed, but the poll numbers have,\" Cruz said. \"And I recognize that Donald is dismayed that his poll numbers are dropping in Iowa, but the facts and the law here are really clear\".",
+            "\"Since September, the Constitution hasn't changed, but the poll numbers have,\" Cruz said, to booming applause.",
+            "[Laughter] But the poll numbers have. [Cheering] And I recognize, I recognize that Donald is dismayed that his poll numbers are falling in Iowa.",
+            "This touched off a heated exchange, punctuated by frequent, thunderous boos and applause from the audience. Trump argued that Cruz is exaggerating his poll numbers  --   \"he's doing better, he's got probably a 4 or 5 percent chance,\" he said    but maintained that Democrats could use the questions to file suit against him."
+        ],
+        "tf-idf score": [
+            0.7913896278438672,
+            0.6308055641499853,
+            0.209145708812202,
+            1.0861641149772374
+        ]
+    },
+    "0.3915609726776355-3-194": {
+        "average clique similarity": 0.3915609726776355,
+        "clique": [
+            "2-And I ve never seen ",
+            "0-Trump  in perhaps hi",
+            "1-Recalling memories f"
+        ],
+        "median tf-idf score": 0.3641927768117573,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "And I've never seen anything like it. And the people in New York fought and fought and fought, and we saw more death and even the smell of death.",
+            "Trump, in perhaps his most heartfelt remarks of the night, harked back to New York's response to the Sept. 11, 2001, attacks to defend his home city. \"The people in New York fought and fought and fought, and we saw more death, and even the smell of death.",
+            "Recalling memories from after   Trump described the \"horrific\" clean up and the \"smell of death\" in the city."
+        ],
+        "tf-idf score": [
+            0.3641927768117573,
+            0.7409992656213542,
+            0.3233710234433935
+        ]
+    },
+    "0.44047449595384963-3-536": {
+        "average clique similarity": 0.44047449595384963,
+        "clique": [
+            "0-   And it was with u",
+            "2-The air  And we rebu",
+            "1- I watched   with Ba"
+        ],
+        "median tf-idf score": 0.5775640588471537,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            ".. And it was with us for months, the smell, the air. \"And we rebuilt Downtown Manhattan, and everybody in the world watched and everybody in the world loved New York and loved New Yorkers.",
+            "The air. And we rebuilt downtown Manhattan, and everybody in the world watched, and everybody in the world loved New York and loved New Yorkers, and I have to tell you, that was a very insulting statement that Ted made.",
+            "\"I watched   with Barack Obama, and I gotta tell you, it sounded like everything in the world was going amazing,\" Christie said."
+        ],
+        "tf-idf score": [
+            0.5591697584488886,
+            0.5865384963930963,
+            0.5775640588471537
+        ]
+    },
+    "0.5010787976829434-3-572": {
+        "average clique similarity": 0.5010787976829434,
+        "clique": [
+            "2-Now since September ",
+            "3- The Constitution ha",
+            "1- The Constitution ha"
+        ],
+        "median tf-idf score": 0.5786104285014659,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Now since September, the Constitution hasn't changed.",
+            "\"The Constitution hasn't changed,\" Cruz quipped. \"But the poll numbers have\". Rubio, pouncing on Cruz much later in the debate, unleashed a flurry of attacks on a range of issues.",
+            "\"The Constitution hasn't changed, but the poll numbers changed,\" Cruz said."
+        ],
+        "tf-idf score": [
+            0.06838022218224055,
+            0.8731797653457695,
+            0.5786104285014659
+        ]
+    }
+}

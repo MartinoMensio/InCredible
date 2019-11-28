@@ -1,0 +1,802 @@
+{
+    "0.17114145718057827-3-63": {
+        "average clique similarity": 0.17114145718057827,
+        "clique": [
+            "1-Police said they hav",
+            "2-Without reforms  the",
+            "0-He said the U S atto"
+        ],
+        "median tf-idf score": 0.4515881178927946,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Police said they have   video, bodycam video and store surveillance footage of the shooting that will be turned over to the Justice Department.",
+            "Without reforms, there will be more deaths,\u201d Burley said.",
+            "He said the U S attorneys will be investigating possible civil rights violations, \u201dbut there\u2019s also potential, and I use that word cautiously, that there\u2019s also possible criminal violations that they will do as well,\u201d Moore said."
+        ],
+        "tf-idf score": [
+            0.8152168960360152,
+            0.26027124443859645,
+            0.4515881178927946
+        ]
+    },
+    "0.17517410553695742-3-240": {
+        "average clique similarity": 0.17517410553695742,
+        "clique": [
+            "0- There are a number ",
+            "4-Mr Reed said the gro",
+            "2- The use of lethal f"
+        ],
+        "median tf-idf score": 0.9888715138541664,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201dThere are a number of unanswered questions surrounding Mr Sterling\u2019s death,\u201d Richmond said, \u201dincluding questions about the initial calls for police presence, the level of force used by officers, the verbal and physical altercation, and the response of the officers after he was shot\u201d.",
+            "Mr Reed said the group decided to release its video after he heard that the police had accused Mr Sterling of reaching for a gun.",
+            "\u201cThe use of lethal force in the US continues unabated due to inadequate laws and the lack of accountability for officers who are accused of using unnecessary or excessive force."
+        ],
+        "tf-idf score": [
+            1.3527916518100949,
+            0.9888715138541664,
+            0.3832117369579994
+        ]
+    },
+    "0.18135045306601713-3-254": {
+        "average clique similarity": 0.18135045306601713,
+        "clique": [
+            "2-The store s owner  A",
+            "4-The officers had Mr ",
+            "0- The store owner sai"
+        ],
+        "median tf-idf score": 0.6418606380253516,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "The store\u2019s owner, Abdul Muflahi, told local news that one officer had first used a Taser on Sterling before the struggle occurred and that officers shot him \u201cfour to six times\u201d.",
+            "The officers had Mr Sterling pinned to the ground when at least one of them shot him.",
+            "\u201dThe store owner said he heard one of the officers say, \u2019Just leave him.\u2019 \u201d Several public figures have issued statements about the incident  \u2014   including U S Rep. Cedric Richmond,  ."
+        ],
+        "tf-idf score": [
+            0.7873439203668448,
+            0.621897614679181,
+            0.6418606380253516
+        ]
+    },
+    "0.18509557711112704-3-217": {
+        "average clique similarity": 0.18509557711112704,
+        "clique": [
+            "4- Those two officers ",
+            "2- He  Cameron  had to",
+            "3- At this point  like"
+        ],
+        "median tf-idf score": 0.48347670427293576,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cThose two officers who perpetrated this brutal attack, and then murdered this young man, are cowards,\u201d he said.",
+            "\u201cHe [Cameron] had to watch this as this was put all over the outlets,\u201d she said, with reference to the cellphone video.",
+            "\u201cAt this point, like you, I am demanding answers, like you all, my prayers are with this community and the family and loved ones of Mr Sterling."
+        ],
+        "tf-idf score": [
+            0.46065938531615713,
+            0.5590163052104158,
+            0.48347670427293576
+        ]
+    },
+    "0.18933661629902077-3-82": {
+        "average clique similarity": 0.18933661629902077,
+        "clique": [
+            "1-Hundreds of mourners",
+            "4-The shooting has pro",
+            "2-In Baton Rouge aroun"
+        ],
+        "median tf-idf score": 0.5197780248882178,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Hundreds of mourners, friends and family members of Alton Sterling, 37, gathered Wednesday in Baton Rouge for a second night of protest, prayer and remembrance.",
+            "The shooting has prompted protests here in the Louisiana capital, including a vigil with prayers and gospel music that drew hundreds of people Wednesday night to the storefront where it happened.",
+            "In Baton Rouge around 200 people took to the streets on Tuesday night and vowed to protest outside the city hall on Wednesday."
+        ],
+        "tf-idf score": [
+            0.6684855964207355,
+            0.44154057370852606,
+            0.5197780248882178
+        ]
+    },
+    "0.19456357460304677-3-239": {
+        "average clique similarity": 0.19456357460304677,
+        "clique": [
+            "0-Family Speaks At New",
+            "4-  At an earlier news",
+            "1-The video is disturb"
+        ],
+        "median tf-idf score": 0.5856578879475742,
+        "publications": [
+            "New York Times",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Family Speaks At News Conference  The president of the Baton Rouge chapter of the NAACP, Mike McClanahan, is calling for the officers to be arrested on capital murder charges, adding later that there\u2019s a need \u201dto root out the 1 percent of bad police officers\u201d.",
+            "\u201d At an earlier news conference on Wednesday, family members, elected officials and civic leaders demanded to know why Mr Sterling had been killed.",
+            "The video is disturbing, to say the least,\u201d the governor said at a news conference."
+        ],
+        "tf-idf score": [
+            0.770572418029826,
+            0.5856578879475742,
+            0.4324343038202145
+        ]
+    },
+    "0.19818100572723552-3-71": {
+        "average clique similarity": 0.19818100572723552,
+        "clique": [
+            "1-It was not clear fro",
+            "0-In the   video that ",
+            "3-Cellphone video show"
+        ],
+        "median tf-idf score": 0.9171819689587968,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It was not clear from the murky cellphone footage whether Sterling had the gun in his hand or was reaching for it when he was shot.",
+            "In the   video that was filmed from a nearby car, the officers are kneeling over Sterling, who is lying on the ground, when one is heard yelling, \u201dHe\u2019s got a gun!",
+            "Cellphone video showing Sterling on the ground, underneath two officers, when he was killed, began circulating online early Tuesday evening."
+        ],
+        "tf-idf score": [
+            0.6345474716769945,
+            0.9171819689587968,
+            1.0014519824103776
+        ]
+    },
+    "0.199426528675007-3-175": {
+        "average clique similarity": 0.199426528675007,
+        "clique": [
+            "1-The man was wounded ",
+            "0-Updated at 8 45 p  m",
+            "2-The fatal police sho"
+        ],
+        "median tf-idf score": 1.3608560256200857,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "The man was wounded by police.",
+            "Updated at 8:45 p. m. ET, The Justice Department is investigating the killing of Alton Sterling, a    black man who was shot to death early Tuesday after police were called to a convenience store in Baton Rouge, La.",
+            "The fatal police shooting of an African American man by white officers in Baton Rouge, Louisiana, will be investigated by the US Department of Justice\u2019s civil rights division, after disturbing cellphone video of the incident emerged on Tuesday."
+        ],
+        "tf-idf score": [
+            0.39770386129967916,
+            1.3608560256200857,
+            1.3788358458732743
+        ]
+    },
+    "0.22054104286965068-3-301": {
+        "average clique similarity": 0.22054104286965068,
+        "clique": [
+            "0-   shows the entire ",
+            "4-Local and state offi",
+            "2-There have been 11  "
+        ],
+        "median tf-idf score": 0.6295427995255102,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            ".. shows the entire incident,\u201d Jordan said, before urging local authorities to hand the case over to the Louisiana State Police.",
+            "Local and state officials endorsed the federal takeover of the case.",
+            "There have been 11   deaths in Louisiana so far this year, meaning the state has the 16th highest rate of fatal encounters in the US Jamira Burley, a campaign manager with Amnesty International USA, argued that the video evidence in Sterling\u2019s case should prompt state lawmakers to revise statues governing police use of lethal force in Louisiana."
+        ],
+        "tf-idf score": [
+            0.6295427995255102,
+            0.18662268634711135,
+            1.098715844443616
+        ]
+    },
+    "0.23894447278268674-3-130": {
+        "average clique similarity": 0.23894447278268674,
+        "clique": [
+            "1-The protests were pe",
+            "4-I know that there ar",
+            "2-The eyewitness video"
+        ],
+        "median tf-idf score": 0.6170576428415065,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "The protests were peaceful, and there was no sign of police even as the protests blocked a thoroughfare through that section of Baton Rouge.",
+            "I know that there are protests going on, but it\u2019s urgent that they remain peaceful.",
+            "The eyewitness video, which went viral shortly after it was published, prompted peaceful protests on the streets of Baton Rouge on Tuesday evening."
+        ],
+        "tf-idf score": [
+            0.6170576428415065,
+            0.13156537806583682,
+            0.721225792372305
+        ]
+    },
+    "0.24966970521264667-3-215": {
+        "average clique similarity": 0.24966970521264667,
+        "clique": [
+            "1-In the shooting Tues",
+            "0- Their request to me",
+            "4-Lieutenant Dunnam de"
+        ],
+        "median tf-idf score": 0.511240893357809,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Fox News"
+        ],
+        "sentences": [
+            "In the shooting Tuesday, authorities would not say whether one or both officers fired their weapons or how many times.",
+            "\u201dTheir request to me is that I stand down and let them do their investigation whether it\u2019s a civil rights violation or potential .",
+            "Lieutenant Dunnam declined to say whether both officers fired their guns, or if either of them used an electric stun device on Mr Sterling."
+        ],
+        "tf-idf score": [
+            0.511240893357809,
+            0.20136259776202323,
+            0.7076461771508704
+        ]
+    },
+    "0.2512299877721109-3-304": {
+        "average clique similarity": 0.2512299877721109,
+        "clique": [
+            "0-Seconds later  shots",
+            "1-The camera pulled aw",
+            "2-Gun   shortly before"
+        ],
+        "median tf-idf score": 0.1532824864291697,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Seconds later, shots are heard.",
+            "The camera pulled away before more shots were heard.",
+            "Gun,\u201d shortly before shots ring out  ."
+        ],
+        "tf-idf score": [
+            0.13504316299356361,
+            0.1532824864291697,
+            0.17819267885943899
+        ]
+    },
+    "0.25941073079559057-3-173": {
+        "average clique similarity": 0.25941073079559057,
+        "clique": [
+            "0-Edmond Jordan  an at",
+            "4-Cameron Sterling  Mr",
+            "2-At an emotional pres"
+        ],
+        "median tf-idf score": 0.5682315305413648,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "Edmond Jordan, an attorney representing Sterling\u2019s family  \u2014   including Quinyetta McMillon, who has a    son, Cameron, with Alton Sterling  \u2014   began his remarks today by thanking God for Apple, Google and Microsoft, a reference to the technology that helped bring details of Sterling\u2019s shooting to light.",
+            "Cameron Sterling, Mr Sterling\u2019s    son, wept uncontrollably as his mother, Quinyetta McMillon, delivered a statement.",
+            "At an emotional press conference on Wednesday morning, Sterling\u2019s    son, Cameron, broke down in tears, and Sterling\u2019s partner, Quinyetta McMillan  \u2014   the boy\u2019s mother  \u2014   demanded justice for Sterling."
+        ],
+        "tf-idf score": [
+            0.7339089556831311,
+            0.44961015731980164,
+            0.5682315305413648
+        ]
+    },
+    "0.26180055058576474-3-411": {
+        "average clique similarity": 0.26180055058576474,
+        "clique": [
+            "1- An emotional  at ti",
+            "4-    The Justice Depa",
+            "3-       Officials in "
+        ],
+        "median tf-idf score": 0.7623084352088001,
+        "publications": [
+            "Fox News",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            " An emotional, at times angry, evening unfolded in the working class, predominantly black Louisiana neighborhood where the police killing of a black man was caught on videotape.",
+            "\u2014   The Justice Department opened a civil rights investigation on Wednesday into the fatal shooting of a black man by the Baton Rouge, La.",
+            "       Officials in Baton Rouge moved quickly on Wednesday to quell national outrage at what is the latest in a string of fatal police encounters captured on video  \u2014   the shooting of Alton Sterling, a    black man."
+        ],
+        "tf-idf score": [
+            0.6622938998334305,
+            0.7623084352088001,
+            1.2613369525874394
+        ]
+    },
+    "0.2645173163659484-3-67": {
+        "average clique similarity": 0.2645173163659484,
+        "clique": [
+            "0-Baton Rouge Police C",
+            "2-Local media reports ",
+            "1-Lake was involved in"
+        ],
+        "median tf-idf score": 0.6282688910222918,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Baton Rouge Police Chief Carl Dabadie said Wednesday that the two officers involved in the shooting are on administrative leave, and that after conducting initial investigations, his department has turned the entire case over to U S attorneys and the FBI The local district attorney said his office was not investigating the shooting either, leaving that to the Justice Department.",
+            "Local media reports indicate that Lake had been involved in a previous shooting in December 2014, when he and five other officers were placed on administrative leave after shooting a fleeing suspect who had shot at officers.",
+            "Lake was involved in another police shooting in December 2014."
+        ],
+        "tf-idf score": [
+            1.6077660034352077,
+            0.6282688910222918,
+            0.5117231671539898
+        ]
+    },
+    "0.2687727726239563-4-126": {
+        "average clique similarity": 0.2687727726239563,
+        "clique": [
+            "3-About an hour later ",
+            "4-Some of them  includ",
+            "2-At a press conferenc",
+            "1-Baton Rouge Police C"
+        ],
+        "median tf-idf score": 1.0231358317173584,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Times",
+            "Fox News"
+        ],
+        "sentences": [
+            "About an hour later,  Baton Rouge Police Chief Carl Dabadie named both officers who had been involved in the shooting: Blane Salamoni, a   veteran from a prominent local law enforcement family, and Howie Lake, a   veteran of the department.",
+            "Some of them, including the local N A A C P president, Mike McClanahan, called on Chief Dabadie to resign.",
+            "At a press conference on Wednesday, Baton Rouge police chief Carl Dabadie named the two officers involved as    Blane Salamoni, a   veteran of the department, and    Howie Lake, a   veteran.",
+            "Baton Rouge Police Chief Carl Dabadie Jr said Sterling was armed    Dabadie didn\u2019t specify the type of weapon    but that there are still questions about what happened."
+        ],
+        "tf-idf score": [
+            1.1217274526870429,
+            0.1713398915727535,
+            0.934695298737484,
+            1.1115763646972328
+        ]
+    },
+    "0.2715172961724068-3-226": {
+        "average clique similarity": 0.2715172961724068,
+        "clique": [
+            "2-Louisiana governor J",
+            "3-John Bel Edwards  D ",
+            "4-Mr Jordan  the famil"
+        ],
+        "median tf-idf score": 0.8540104163786462,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "Louisiana governor John Bel Edwards announced on Wednesday morning that the investigation into the shooting had been handed over to federal authorities, following calls from community leaders and members of Sterling\u2019s family for the federal government to intervene.",
+            "John Bel Edwards (D) who called the video \u201cdisturbing,\u201d announced Wednesday morning that federal officials with the U S Attorney\u2019s office and the Department of Justice would investigate Sterling\u2019s death.",
+            "Mr Jordan, the family lawyer, called on the police to release the videos, but Lieutenant Dunnam said that for now, the department was providing them only to the federal authorities."
+        ],
+        "tf-idf score": [
+            0.7916497140195234,
+            0.8540104163786462,
+            0.9987031883513868
+        ]
+    },
+    "0.27456618900860164-3-411": {
+        "average clique similarity": 0.27456618900860164,
+        "clique": [
+            "0-John Bel Edwards cal",
+            "1-John Bel Edwards ask",
+            "4-John Bel Edwards to "
+        ],
+        "median tf-idf score": 0.5121163892955973,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "New York Times"
+        ],
+        "sentences": [
+            "John Bel Edwards called the video \u201ddisturbing\u201d but urged for calm in the community  \u2014   as did a local religious leader, the police chief, the district attorney and the mayor.",
+            "John Bel Edwards asked the U S Justice Department to lead a civil rights investigation into the killing.",
+            "John Bel Edwards to the local police and elected officials vowed a complete and transparent investigation and appealed to the city  \u2014   after a numbing series of   racially charged incidents elsewhere  \u2014   to remain calm."
+        ],
+        "tf-idf score": [
+            0.6223161673783575,
+            0.3415944212944201,
+            0.5121163892955973
+        ]
+    },
+    "0.2779290128808434-3-411": {
+        "average clique similarity": 0.2779290128808434,
+        "clique": [
+            "4-Officials from Gov ",
+            "0-At the same press co",
+            "1-Moving quickly to ke"
+        ],
+        "median tf-idf score": 0.10769230843095305,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Officials from Gov.",
+            "At the same press conference, Louisiana Gov.",
+            "Moving quickly to keep tensions from boiling over, Democratic Louisiana Gov."
+        ],
+        "tf-idf score": [
+            0.04831375231802836,
+            0.11381063042590397,
+            0.10769230843095305
+        ]
+    },
+    "0.2808325620071243-3-411": {
+        "average clique similarity": 0.2808325620071243,
+        "clique": [
+            "4-  Two white officers",
+            "3-Sterling was shot an",
+            "1-Sterling was shot ea"
+        ],
+        "median tf-idf score": 1.0793285319440489,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201d Two white officers were arresting Alton B Sterling, 37, early Tuesday after responding to a call about an armed man.",
+            "Sterling was shot and killed early Tuesday morning after police responded to a complaint about an armed man threatening people outside a convenience store.",
+            "Sterling was shot early Tuesday as he wrestled with two white police officers outside the convenience store where he sold music and movies on compact discs."
+        ],
+        "tf-idf score": [
+            0.6522570486405876,
+            1.0793285319440489,
+            1.0810175190439895
+        ]
+    },
+    "0.2996762490514135-3-6": {
+        "average clique similarity": 0.2996762490514135,
+        "clique": [
+            "0-At a press conferenc",
+            "3-Baton Rouge police  ",
+            "4- This is Baton Rouge"
+        ],
+        "median tf-idf score": 0.5218670581184418,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "At a press conference, Baton Rouge District Attorney Hillar Moore said his office is not conducting its own investigation into the shooting.",
+            "Baton Rouge police, the local district attorney, and Louisiana Gov.",
+            "\u201cThis is Baton Rouge, Louisiana."
+        ],
+        "tf-idf score": [
+            0.7066813102953725,
+            0.5218670581184418,
+            0.22395062789308387
+        ]
+    },
+    "0.30064586542992755-3-109": {
+        "average clique similarity": 0.30064586542992755,
+        "clique": [
+            "2-Muflahi added that S",
+            "1-He said Sterling was",
+            "4-It also shows one of"
+        ],
+        "median tf-idf score": 1.02380730262128,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Fox News"
+        ],
+        "sentences": [
+            "Muflahi added that Sterling did not have the gun in his hands at the time the officers opened fire, but he witnessed police remove a firearm from his pocket after he was killed.",
+            "He said Sterling was not holding a gun during the shooting but that he saw officers remove one from his pocket afterward.",
+            "It also shows one of the officers taking something out of Mr Sterling\u2019s pocket after he was shot and was lying on the ground."
+        ],
+        "tf-idf score": [
+            1.059255220490925,
+            1.02380730262128,
+            0.7987716810594481
+        ]
+    },
+    "0.307986605644854-3-24": {
+        "average clique similarity": 0.307986605644854,
+        "clique": [
+            "3-The bystander video ",
+            "0-Witnesses captured t",
+            "4-The graphic cellphon"
+        ],
+        "median tf-idf score": 1.0252767306477124,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "The bystander video of the shooting shows Salamoni and Lake attempting to detain Sterling  \u2014   who police say was armed with a gun  \u2014   and tackling the man to the ground.",
+            "Witnesses captured the encounter on a cellphone video that shows two officers had Sterling on the ground at the time of the shooting.",
+            "The graphic cellphone video shot by a bystander, which was released later in the day, shows an officer pushing Mr Sterling onto the hood of the car and then tackling him to the ground."
+        ],
+        "tf-idf score": [
+            1.147348485789868,
+            0.8457328469990018,
+            1.0252767306477124
+        ]
+    },
+    "0.3188633491033385-3-83": {
+        "average clique similarity": 0.3188633491033385,
+        "clique": [
+            "1-In cellphone video  ",
+            "4-He is held to the pa",
+            "2-Alton Sterling was s"
+        ],
+        "median tf-idf score": 0.6300287051912078,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "New York Times"
+        ],
+        "sentences": [
+            "In cellphone video, one of the officers tackled Sterling, and the two officers pinned him to the pavement.",
+            "He is held to the pavement by two officers, and one appears to hold a gun above Mr Sterling\u2019s chest.",
+            "Alton Sterling was shot dead after two officers wrestled him to the ground and appeared to open fire shortly after one officer held a gun near   over Sterling\u2019s chest."
+        ],
+        "tf-idf score": [
+            0.623104272688378,
+            0.6300287051912078,
+            0.8964112712943557
+        ]
+    },
+    "0.3193205247959436-3-163": {
+        "average clique similarity": 0.3193205247959436,
+        "clique": [
+            "4-  William Clark  the",
+            "2-The East Baton Rouge",
+            "3-July 5  2016  Protes"
+        ],
+        "median tf-idf score": 0.7975032977396055,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d William Clark, the coroner of East Baton Rouge Parish, said that Mr Sterling had died at the scene from gunshot wounds to the chest and back.",
+            "The East Baton Rouge coroner\u2019s office confirmed that Sterling died of multiple gunshot wounds to the back and chest.",
+            "July 5, 2016  Protesters gather at the intersection of North Foster Drive and Fairfields Avenue, near the Triple S Food Mart, after Alton Sterling, 37, was shot and killed by Baton Rouge Police in the early hours of Tuesday morning in Baton Rouge."
+        ],
+        "tf-idf score": [
+            0.7975032977396055,
+            0.532869527258326,
+            1.2382344660796658
+        ]
+    },
+    "0.32496684455995756-3-56": {
+        "average clique similarity": 0.32496684455995756,
+        "clique": [
+            "4-A second video of th",
+            "0-The owner and manage",
+            "1-The store owner  Abd"
+        ],
+        "median tf-idf score": 0.5048975466542919,
+        "publications": [
+            "New York Times",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "A second video of the shooting, filmed by the owner of the store and first posted by the local newspaper, The Advocate, on Wednesday afternoon, showed the shooting from a different angle.",
+            "The owner and manager of the Triple S store is Abdullah Muflahi.",
+            "The store owner, Abdullah Muflahi, released a video that he said he shot from a slightly different angle."
+        ],
+        "tf-idf score": [
+            0.5048975466542919,
+            0.1643462065530377,
+            0.5573643507045529
+        ]
+    },
+    "0.34652041576950005-4-36": {
+        "average clique similarity": 0.34652041576950005,
+        "clique": [
+            "0-That s when uniforme",
+            "3- Louisiana is the fi",
+            "2-Baton Rouge police s",
+            "4-  On Tuesday  a pers"
+        ],
+        "median tf-idf score": 1.1289731100214526,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "That\u2019s when uniformed officers responded to a disturbance call that Baton Rouge police say came from someone who said \u201da black male who was selling music [CDs] and wearing a red shirt threatened him with a gun\u201d.",
+            "[Louisiana is the first state to offer hate crime protections to police officers]   Police said they responded about 12:35 a. m. Tuesday after receiving a 911 call about a man who was selling CDs and threatening people with a gun outside a Triple S Food Mart.",
+            "Baton Rouge police said in a statement that they had responded to a 911 call reporting Sterling had been selling CDs outside of a convenience store and had threatened the caller with a gun.",
+            "\u201d On Tuesday, a person called the police to report that a black man in a red shirt selling music CDs outside the Triple S Food Mart had threatened him with a gun, the Police Department said."
+        ],
+        "tf-idf score": [
+            1.1816081959777338,
+            1.261644052794339,
+            1.0763380240651714,
+            0.9138961278394478
+        ]
+    },
+    "0.354913222329091-3-243": {
+        "average clique similarity": 0.354913222329091,
+        "clique": [
+            "0-She said Sterling ha",
+            "4- The individuals inv",
+            "2-   The individuals i"
+        ],
+        "median tf-idf score": 0.5464938177420773,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "She said Sterling had been trying to earn a living  \u2014   and that the officers had taken away a father whose children relied on him.",
+            "\u201cThe individuals involved in his murder took away a man with children who depended upon their daddy on a daily basis,\u201d Ms McMillon said, adding, \u201cAs a mother I have now been forced to raise a son who is going to remember what happened to his father.",
+            "\u201d \u201cThe individuals involved in his murder took away a man with children who depended upon their daddy on a daily basis,\u201d she added, arguing he \u201csimply tried to earn a living to take care of his children\u201d."
+        ],
+        "tf-idf score": [
+            0.7114423758656342,
+            0.5464938177420773,
+            0.27309248228966354
+        ]
+    },
+    "0.3596757246989963-3-411": {
+        "average clique similarity": 0.3596757246989963,
+        "clique": [
+            "1-Someone yelled   He ",
+            "2-In the cellphone vid",
+            "4-At one point someone"
+        ],
+        "median tf-idf score": 0.2751703904292707,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Someone yelled, \u201dHe\u2019s got a gun!",
+            "In the cellphone video, one officer can be heard shouting \u201cHe\u2019s got a gun.",
+            "At one point someone on the video can be heard saying, \u201cHe\u2019s got a gun!"
+        ],
+        "tf-idf score": [
+            0.09599679178369683,
+            0.4883936137247711,
+            0.2751703904292707
+        ]
+    },
+    "0.38150063390579686-3-89": {
+        "average clique similarity": 0.38150063390579686,
+        "clique": [
+            "2- He is not what the ",
+            "0-Describing Alton Ste",
+            "1-They didn t have to "
+        ],
+        "median tf-idf score": 0.44048496846110824,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cHe is not what the mass media is making him out to be,\u201d she said.",
+            "Describing Alton Sterling, McMillon said he \u201dis not what the mass media is making him out to be\u201d.",
+            "They didn\u2019t have to shoot him!\u201d  He said, though, the family was not condoning violent protests."
+        ],
+        "tf-idf score": [
+            0.23497611787175277,
+            0.5291355818854591,
+            0.44048496846110824
+        ]
+    },
+    "0.41049033228324094-3-294": {
+        "average clique similarity": 0.41049033228324094,
+        "clique": [
+            "0-As The Associated Pr",
+            "1-Similar investigatio",
+            "2-  Sterling s death i"
+        ],
+        "median tf-idf score": 0.44465979888660395,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "As The Associated Press notes, there\u2019s a high bar for federal charges in cases like this: \u201dSimilar investigations, which often take many months, were opened following the deaths of Michael Brown in Ferguson, Missouri, and Eric Garner in New York.",
+            "Similar investigations, which often take many months, were opened after Brown\u2019s shooting in Ferguson, Missouri, and following Eric Garner\u2019s chokehold death in New York City.",
+            "\u201d Sterling\u2019s death is the latest in a line of police killings of African Americans in the US to capture national attention, the deaths of Eric Garner in New York and Walter Scott in South Carolina, both of which were captured on video by witnesses, sparked claims of racially biased policing throughout the United States."
+        ],
+        "tf-idf score": [
+            0.44465979888660395,
+            0.41309039165720407,
+            0.9508972358070225
+        ]
+    },
+    "0.43841090147455153-3-411": {
+        "average clique similarity": 0.43841090147455153,
+        "clique": [
+            "4-  Officials identifi",
+            "1-The officers  identi",
+            "0-The two officers wer"
+        ],
+        "median tf-idf score": 0.422040426670067,
+        "publications": [
+            "New York Times",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d Officials identified the officers as Blane Salamoni, who has been with the force for four years, and Howie Lake II, with three years\u2019 experience.",
+            "The officers, identified by the chief as Blane Salamoni, a   member of the department, and Howie Lake II, who has been on the force for three years, were placed on administrative leave, standard department procedure.",
+            "The two officers were identified as Blane Salamoni, a   veteran of the force, and Howie Lake II, a   veteran."
+        ],
+        "tf-idf score": [
+            0.422040426670067,
+            0.561054317746313,
+            0.36695609975029825
+        ]
+    },
+    "0.4658762363603433-3-119": {
+        "average clique similarity": 0.4658762363603433,
+        "clique": [
+            "0-Gun   At least one o",
+            "1-Gun   and one office",
+            "4-Gun   and one office"
+        ],
+        "median tf-idf score": 0.30520066415210967,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Gun!\u201d At least one officer then draws a weapon from his holster and aims it at Sterling.",
+            "Gun!\u201d and one officer pulled his weapon from his holster.",
+            "Gun!\u201d and one officer can be seen pulling his weapon."
+        ],
+        "tf-idf score": [
+            0.5426563010794403,
+            0.30520066415210967,
+            0.2912869556658326
+        ]
+    }
+}

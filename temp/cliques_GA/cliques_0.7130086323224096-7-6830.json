@@ -1,0 +1,606 @@
+{
+    "0.1424784141902583-3-233": {
+        "average clique similarity": 0.1424784141902583,
+        "clique": [
+            "4-Disclosure of the br",
+            "1-Analysts said the br",
+            "6-Analyst Robert Peck "
+        ],
+        "median tf-idf score": 1.221350482592518,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Disclosure of the breach comes two months after Yahoo, once among the most powerful tech companies in Silicon Valley, said it would sell its core internet business to telecom giant Verizon for $4. 8 billion. It's unclear how the hack could affect the     sale.",
+            "Analysts said the breach could end up lowering the $4. 8 billion price that Verizon Communications agreed to pay to acquire Yahoo this summer.",
+            "Analyst Robert Peck of SunTrust Robinson Humphrey said the breach probably was not enough to prompt Verizon to abandon its deal with Yahoo, but it could call for a price decrease of $100 million to $200 million, depending on how many users leave Yahoo."
+        ],
+        "tf-idf score": [
+            1.3096551480201726,
+            0.9416496508833764,
+            1.221350482592518
+        ]
+    },
+    "0.15268297138770065-3-172": {
+        "average clique similarity": 0.15268297138770065,
+        "clique": [
+            "6-Chief Executive Offi",
+            "0-Yahoo s boss  Mariss",
+            "2-But first address an"
+        ],
+        "median tf-idf score": 0.6702292901251139,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Chief Executive Officer Marissa Mayer is under pressure to shore up the flagging fortunes of the site founded in 1994, and the company in July agreed to a $4. 83 billion cash sale of its internet business to Verizon Communications Inc ( ).",
+            "Yahoo's boss, Marissa Mayer, could collect a total of $137m if she leaves the company following the sale to Verizon. Mayer has taken home $78m since she was installed as CEO in 2012, and if she leaves the company after a buyout she is on course for another $59m, based on the terms of the company's most recent proxy statement.",
+            "But first address and resolve the issue for your consumers and the transaction will take care of itself\". Yahoo has had a poor security reputation in the past, one of the many things that Mayer has focused on since becoming chief executive."
+        ],
+        "tf-idf score": [
+            0.5355811744807613,
+            0.9695561022759354,
+            0.6702292901251139
+        ]
+    },
+    "0.15886455637442595-3-84": {
+        "average clique similarity": 0.15886455637442595,
+        "clique": [
+            "3-An annual report by ",
+            "2-Vice s Motherboard b",
+            "0-Yahoo first found ou"
+        ],
+        "median tf-idf score": 1.0932082994699601,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "An annual report by the Ponemon Institute in July found that the costs to remediate a data breach is $221 per stolen record. Added up, that would top Yahoo's $4. 8 billion sale price.",
+            "Vice's Motherboard blog in August reported that Yahoo was investigating an alleged breach after the news organization found that a cybercriminal known as \"Peace\" claimed to be offering 200 million Yahoo user credentials for sale online.",
+            "Yahoo first found out about the security breach when Vice journalist Joseph Cox contacted the company on 30 July to warn it that the data was being offered around for sale."
+        ],
+        "tf-idf score": [
+            0.8804987176590287,
+            1.1046926549888145,
+            1.0932082994699601
+        ]
+    },
+    "0.18306760045565432-3-38": {
+        "average clique similarity": 0.18306760045565432,
+        "clique": [
+            "1-Yahoo s probe of the",
+            "6-While that report tu",
+            "2-The Yahoo intrusion "
+        ],
+        "median tf-idf score": 1.042182476700992,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Yahoo's probe of the breach  --   the biggest ever in terms of the number of accounts affected  --   turned up no evidence that hackers got   data or bank account information, it said, noting it doesn't store that on the affected network.",
+            "While that report turned out to be false, Yahoo's investigation turned up the 2014 theft, according to a person familiar with the matter.",
+            "The Yahoo intrusion stands out for the sheer scale of the customers apparently affected, a legacy of the company's   position for Internet users who turned to the company for web searches, email accounts, user groups and news reports."
+        ],
+        "tf-idf score": [
+            1.3295760170973343,
+            0.5069301410798929,
+            1.042182476700992
+        ]
+    },
+    "0.19616253344104165-3-302": {
+        "average clique similarity": 0.19616253344104165,
+        "clique": [
+            "0-Our security team is",
+            "1-Yahoo said it s noti",
+            "6-On its website on Th"
+        ],
+        "median tf-idf score": 1.0067891537436453,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Our security team is working to determine the facts\". US politicians attacked Yahoo for not acting faster to warn users, who will have to change not just their Yahoo password but also any linked accounts which could include social media profiles, photo album sites and financial services.",
+            "Yahoo said it's notifying affected users and has taken steps to secure their accounts, including asking potentially affected users to change their passwords.",
+            "On its website on Thursday, Yahoo encouraged users to change their passwords but did not require it."
+        ],
+        "tf-idf score": [
+            1.0067891537436453,
+            1.0776584910442641,
+            0.6261794962816691
+        ]
+    },
+    "0.20148929741421048-3-209": {
+        "average clique similarity": 0.20148929741421048,
+        "clique": [
+            "2-When asked  Yahoo de",
+            "3-The sample contained",
+            "4-Yahoo believes the d"
+        ],
+        "median tf-idf score": 1.059950847099171,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "When asked, Yahoo declined to say whether it first learned of the hack before or after that deal was announced.",
+            "The sample contained valid Yahoo user accounts, but it was unclear whether the data was from a breach of a   service or Yahoo itself.",
+            "Yahoo believes the data was stolen in \"late 2014. \" It's unclear when the company first became aware of the breach a pseudonymous hacker first publicly offered to sell Yahoo data last month."
+        ],
+        "tf-idf score": [
+            0.6265072475378171,
+            1.059950847099171,
+            1.1560460899802902
+        ]
+    },
+    "0.20194545166974373-3-2": {
+        "average clique similarity": 0.20194545166974373,
+        "clique": [
+            "3-The first sign that ",
+            "5-Recode reports that ",
+            "4-The Wall Street Jour"
+        ],
+        "median tf-idf score": 1.198847524013316,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The first sign that something was amiss appeared in June, when a Russian hacker who goes by the user name Tessa88 started mentioning, in underground web forums, a new trove of stolen Yahoo data, Mr Holden said. In July, Tessa88 supplied a sample of the stolen collection to people in the   underground web for authentication.",
+            "Recode reports that a hacker nicknamed \"Peace\" may be responsible. In early August, a hacker by the same name had listed data from 200 million Yahoo accounts for sale on the Dark Web.",
+            "The Wall Street Journal has more: No evidence has been found to suggest the   actor is currently in Yahoo's network, and Yahoo didn't name the country it suspected was involved. In August, a hacker called \"Peace\" appeared in online forums, offering to sell 200 million of the company's usernames and passwords for about $1, 900 in total."
+        ],
+        "tf-idf score": [
+            1.2969412632963595,
+            0.894058495052449,
+            1.198847524013316
+        ]
+    },
+    "0.20484461236891746-4-268": {
+        "average clique similarity": 0.20484461236891746,
+        "clique": [
+            "3-SAN FRANCISCO       ",
+            "2-         Yahoo on Th",
+            "5- Yahoo has confirmed",
+            "4-        For us to co"
+        ],
+        "median tf-idf score": 1.2345118588572512,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "SAN FRANCISCO  --   Yahoo announced on Thursday that the account information of at least 500 million users was stolen by hackers two years ago, in the biggest known intrusion of one company's computer network.",
+            "         Yahoo on Thursday reported the largest data breach in history    affecting at least 500 million user accounts    months after first detecting signs of an intrusion that the company blamed on \" \" hackers.",
+            " Yahoo has confirmed in a press release that a hacker, possibly working with a foreign government, stole at least 500 million users' account information in 2014.",
+            "        For us to continue writing great stories, we need to display ads. Please select the extension that is blocking ads. Please follow the steps below, NEWS BRIEF A \"  actor\" stole personal data from at least 500 million Yahoo user accounts, the troubled tech company said Thursday."
+        ],
+        "tf-idf score": [
+            1.2263710307652231,
+            1.2426526869492793,
+            0.8980996265716656,
+            1.3850988144871477
+        ]
+    },
+    "0.21692152339490112-4-302": {
+        "average clique similarity": 0.21692152339490112,
+        "clique": [
+            "6-While the breach com",
+            "5-Shuman Ghosemajumder",
+            "3-Changing Yahoo passw",
+            "2- It s very important"
+        ],
+        "median tf-idf score": 0.8179525149449616,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "While the breach comprised mostly   information, it did include security questions and answers created by users themselves. That data could make users vulnerable if they use the same answers on other sites.",
+            "Shuman Ghosemajumder, CTO of the Shape Security, said, \"The real issue now is that these passwords will be used to breach thousands of other websites unrelated to Yahoo, as cybercriminals use advanced automated tools to discover where users have used those same passwords on other sites. \"",
+            "Changing Yahoo passwords will be just the start for many users. They'll also have to comb through other services to make sure passwords used on those sites aren't too similar to what they were using on Yahoo. And if they weren't doing so already, they'll have to treat everything they receive online with an abundance of suspicion, in case hackers are trying to trick them out of even more information.",
+            "\"It's very important to remember that if that information is available to hackers, they are going to try and use it on other sites as well\". Yahoo reported that the intrusion apparently began in 2014."
+        ],
+        "tf-idf score": [
+            0.747740197299664,
+            1.2273231374180213,
+            0.888164832590259,
+            0.6124839740932383
+        ]
+    },
+    "0.2434459474470599-3-63": {
+        "average clique similarity": 0.2434459474470599,
+        "clique": [
+            "4-Peace had previously",
+            "5-At the time  Yahoo s",
+            "0-At the time it said "
+        ],
+        "median tf-idf score": 0.9947161917202629,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Peace had previously sold data taken from breaches at Myspace and LinkedIn Corp. A Yahoo spokesman said at the time that the company was aware of the claim and was \"working to determine the facts. \"",
+            "At the time, Yahoo said it was aware of the listing, but it did not issue a password reset.",
+            "At the time it said Yahoo was \"committed to protecting the security of our users' information and we take any such claim very seriously."
+        ],
+        "tf-idf score": [
+            1.2968260308220927,
+            0.7894546988313084,
+            0.9947161917202629
+        ]
+    },
+    "0.24739564341379666-4-302": {
+        "average clique similarity": 0.24739564341379666,
+        "clique": [
+            "2-The   company this s",
+            "5-The hack may affect ",
+            "0-However Verizon  whi",
+            "3-The hack of Yahoo  s"
+        ],
+        "median tf-idf score": 0.8111108079723153,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "The   company this summer agreed to sell its core business for $4. 8 billion to telecommunications giant Verizon in a deal now clouded by news of the massive breach.",
+            "The hack may affect the $4. 8 billion sale of Yahoo's core business to Verizon.",
+            "However Verizon, which is one of America's biggest companies, stunned the business world by revealing that Yahoo executives only admitted the data breach two days ago, despite inking the deal in July. The company refused to offer any public reassurance that it would press ahead with the takeover given news of the hack.",
+            "The hack of Yahoo, still one of the internet's busiest sites with one billion monthly users, also has   implications for both consumers and one of America's largest companies, Verizon Communications, which is in the process of acquiring Yahoo for $4. 8 billion."
+        ],
+        "tf-idf score": [
+            0.6531438715813312,
+            0.5959486622608277,
+            1.2013982018877074,
+            0.9690777443632994
+        ]
+    },
+    "0.27061249485149363-4-138": {
+        "average clique similarity": 0.27061249485149363,
+        "clique": [
+            "3-In a statement on Th",
+            "4-Verizon said Thursda",
+            "2-Will it change the n",
+            "1- We understand that "
+        ],
+        "median tf-idf score": 1.0869741917231757,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In a statement on Thursday, a Verizon spokesman, Bob Varettoni, said his company learned of the breach of Yahoo's systems only two days ago and had \"limited information and understanding of the impact. \"",
+            "Verizon said Thursday it learned of the breach \"within the last two days\" but that it had few details. \"We will evaluate as the investigation continues through the lens of overall Verizon interests, including consumers, customers, shareholders, and related communities,\" the company said in a statement.",
+            "Will it change the numbers or impact the merger altogether? Either way you would think these two big guys should have known\". Yahoo learned of the incident in July, the same month it announced its deal with Verizon, a person familiar with the matter said, speaking on condition of anonymity to freely discuss the issue.",
+            "\"We understand that Yahoo is conducting an active investigation of this matter, but we otherwise have limited information and understanding of the impact,\" Verizon said, adding it had learned of the breach two days earlier."
+        ],
+        "tf-idf score": [
+            1.1984064119134321,
+            0.9646887818162762,
+            1.0438350259790266,
+            1.1301133574673246
+        ]
+    },
+    "0.27655951562191133-3-78": {
+        "average clique similarity": 0.27655951562191133,
+        "clique": [
+            "1-Yahoo said earlier t",
+            "0-Yahoo said it was aw",
+            "3-Yahoo said it learne"
+        ],
+        "median tf-idf score": 1.1264901718867268,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Yahoo said earlier this summer that it was investigating a data breach after hackers boasted about the attack.",
+            "Yahoo said it was aware of the \"claimed\" data hack in July.",
+            "Yahoo said it learned of the data breach this summer after hackers posted to underground forums and online marketplaces what they claimed was stolen Yahoo data."
+        ],
+        "tf-idf score": [
+            1.1264901718867268,
+            0.8850458671131175,
+            1.2018270088013068
+        ]
+    },
+    "0.3104219099386311-4-302": {
+        "average clique similarity": 0.3104219099386311,
+        "clique": [
+            "2- Yahoo is working cl",
+            "0- If Yahoo knew about",
+            "1-Yahoo is working  cl",
+            "6-Yahoo said it was wo"
+        ],
+        "median tf-idf score": 0.7241392130823423,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"Yahoo is working closely with law enforcement on this matter,\" Lord wrote.",
+            "\"If Yahoo knew about the hack as early as August, and failed to coordinate with law enforcement, taking this long to confirm the breach is a blatant betrayal of their users' trust,\" he said.",
+            "Yahoo is working \"closely with law enforcement\" as a probe of the incident continues, it said.",
+            "Yahoo said it was working with law enforcement on the matter, and the FBI said it was investigating."
+        ],
+        "tf-idf score": [
+            0.48076336269954084,
+            0.999541182345009,
+            0.6785529568537118,
+            0.769725469310973
+        ]
+    },
+    "0.32282483491841735-3-153": {
+        "average clique similarity": 0.32282483491841735,
+        "clique": [
+            "5-The company has upda",
+            "3-Yahoo also said it w",
+            "0- Yahoo encourages us"
+        ],
+        "median tf-idf score": 1.084247884956301,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "The company has updated its security FAQ page to include response measures, sent a security email to affected users, and issued a slew of other recommendations to users, including changing security questions, reviewing accounts for suspicious activity, and not clicking any links or downloading any materials from unverified emails. The company's investigation into the hack is ongoing.",
+            "Yahoo also said it was working with law enforcement in their investigation and encouraged people to change up the security on other online accounts and monitor those accounts for suspicious activity as well.",
+            "\"Yahoo encourages users to review their online accounts for suspicious activity and to change their password and security questions and answers for any other accounts on which they use the same or similar information used for their Yahoo account,\" the company said in an email to users."
+        ],
+        "tf-idf score": [
+            0.9485341812360482,
+            1.084247884956301,
+            1.3278647192367743
+        ]
+    },
+    "0.33513913288357217-3-215": {
+        "average clique similarity": 0.33513913288357217,
+        "clique": [
+            "6-Technology website R",
+            "3-A potential breach o",
+            "2-Yahoo ultimately rev"
+        ],
+        "median tf-idf score": 0.913410949299007,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Technology website Recode first reported Tuesday that Yahoo planned to disclose details about a data breach affecting hundreds of millions of users.",
+            "A potential breach of Yahoo's systems was first reported by the tech news site Recode early Thursday morning.",
+            "Yahoo ultimately revealed the breach after Recode, a news site focusing on Silicon Valley, reported Thursday morning that the ailing tech giant would confirm a data breach affecting hundreds of millions of accounts."
+        ],
+        "tf-idf score": [
+            0.913410949299007,
+            0.8152369939267571,
+            1.0409830748508044
+        ]
+    },
+    "0.3618738331916634-4-302": {
+        "average clique similarity": 0.3618738331916634,
+        "clique": [
+            "2-Verizon said it lear",
+            "0- Within the last two",
+            "5-Verizon said in a pr",
+            "6-Verizon said in a st"
+        ],
+        "median tf-idf score": 0.8307214142620063,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Verizon said it learned of the incident only \"within the last two days\". The timeline highlighted a dilemma created by hacks: Companies often take months or even years to report suspicions of breaches    if they report them publicly at all   holding the information back from customers, business partners and even potential new owners of a company.",
+            "\"Within the last two days, we were notified of Yahoo's security incident,\" Verizon said in a statement.",
+            "Verizon said in a prepared statement, \"Within the last two days, we were notified of Yahoo's security incident.",
+            "Verizon said in a statement it was made aware of the breach within the last two days and had limited information about the matter."
+        ],
+        "tf-idf score": [
+            0.988116900062951,
+            0.8245768920246852,
+            0.8368659364993274,
+            0.7857493116112972
+        ]
+    },
+    "0.40660047887465844-4-156": {
+        "average clique similarity": 0.40660047887465844,
+        "clique": [
+            "3-Thursday afternoon  ",
+            "0- While its scale put",
+            "5-Action from Congress",
+            "2- Action from Congres"
+        ],
+        "median tf-idf score": 0.9782392542738596,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Thursday afternoon, Senator Mark R Warner, a Democrat from Virginia and former technology executive, issued a statement that said the \"seriousness of this breach at Yahoo is huge. \" He weighed in with a call for a federal \"breach notification standard\" to replace data notification laws that vary by state.",
+            "\"While its scale puts it among the largest on record, I am perhaps most troubled by news that this breach occurred in 2014, and yet the public is only learning details of it today,\" Democratic senator Mark Warner said. \"Action from Congress to create a uniform data breach notification standard so that consumers are notified in a much more timely manner is long overdue. \"",
+            "Action from Congress to create a uniform data breach notification standard so that consumers are notified in a much more timely manner is long overdue. \" Many online responses criticized the pace of Yahoo's response and joked about its relevance in 2016: In related news: At least 500 million people still use Yahoo!. https:  .",
+            "\"Action from Congress to create a uniform data breach notification standard so that consumers are notified in a much more timely manner is long overdue\"."
+        ],
+        "tf-idf score": [
+            1.119040683899825,
+            0.9114319082815809,
+            1.0450466002661383,
+            0.4781737244734621
+        ]
+    },
+    "0.4068883219783202-3-302": {
+        "average clique similarity": 0.4068883219783202,
+        "clique": [
+            "1- The investigation h",
+            "5-A source close to th",
+            "6- The investigation h"
+        ],
+        "median tf-idf score": 0.8421940288082778,
+        "publications": [
+            "New York Post",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"The investigation has found no evidence that the   actor is currently in Yahoo's network,\" the company said in a statement, without naming the country.",
+            "A source close to the investigation told BuzzFeed News that Yahoo investigated Peace's claim in July 2016 and found no direct evidence to substantiate it.",
+            "\"The investigation has found no evidence that the   actor is currently in Yahoo's network,\" the company said."
+        ],
+        "tf-idf score": [
+            0.9175672225906524,
+            0.6090845106237702,
+            0.8421940288082778
+        ]
+    },
+    "0.4284359551136295-3-115": {
+        "average clique similarity": 0.4284359551136295,
+        "clique": [
+            "3- The stolen Yahoo da",
+            "0-Alex Holden  founder",
+            "5-Financial data  acco"
+        ],
+        "median tf-idf score": 1.2694679133633864,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"The stolen Yahoo data is critical because it not only leads to a single system but to users' connections to their banks, social media profiles, other financial services and users' friends and family,\" said Alex Holden, the founder of Hold Security, which has been tracking the flow of stolen Yahoo credentials on the underground web.",
+            "Alex Holden, founder of Hold Security, which has been tracking the flow of Yahoo data on the dark web, said: \"The stolen Yahoo data is critical because it not only leads to a single system but to users' connections to their banks, social media profiles, other financial services and users' friends and family.",
+            "Financial data, according to Yahoo, were not part of the information taken. Yahoo declined to disclose which country it believed the attack originated from, citing company policy on   attacks."
+        ],
+        "tf-idf score": [
+            1.281320939546641,
+            1.2694679133633864,
+            0.823619640710198
+        ]
+    },
+    "0.4354323926778482-3-302": {
+        "average clique similarity": 0.4354323926778482,
+        "clique": [
+            "3-In a statement  Yaho",
+            "6-Cyber thieves may ha",
+            "2-Company Chief Inform"
+        ],
+        "median tf-idf score": 1.0174657504846767,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In a statement, Yahoo said user information  --   including names, email addresses, telephone numbers, birth dates, encrypted passwords and, in some cases, security questions  --   was compromised in 2014 by what it believed was a \"  actor. \"",
+            "Cyber thieves may have stolen names, email addresses, telephone numbers, dates of birth and encrypted passwords, the company said.",
+            "Company Chief Information Security Officer Bob Lord wrote in a blog post that names, email address, telephone numbers, dates of birth and answers to \"security questions\" may have been stolen but financial information such as credit card numbers apparently was not because that data was stored in a separate system."
+        ],
+        "tf-idf score": [
+            1.3923652310470094,
+            0.6171461170190666,
+            1.0174657504846767
+        ]
+    },
+    "0.47101372880559916-3-165": {
+        "average clique similarity": 0.47101372880559916,
+        "clique": [
+            "1-The struggling Web p",
+            "5-The company said tha",
+            "4-The pilfered data co"
+        ],
+        "median tf-idf score": 1.1577665430620594,
+        "publications": [
+            "New York Post",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The struggling Web pioneer said Thursday the stolen info included names,   addresses, phone numbers, dates of birth, passwords and, in some cases, encrypted or unencrypted security questions and answers.",
+            "The company said that it is working with law enforcement to catch the hacker. The data breach may have included names, email addresses, telephone numbers, dates of birth, hashed passwords, and security questions and answers.",
+            "The pilfered data contains a wealth of personal information, including \"names, email addresses, telephone numbers, dates of birth, hashed passwords [  ...    ] and, in some cases, encrypted or unencrypted security questions and answers,\" Bob Lord, Yahoo's chief information security officer, said in a statement."
+        ],
+        "tf-idf score": [
+            0.7808642444378171,
+            1.1577665430620594,
+            1.3874348199377176
+        ]
+    },
+    "0.5007437694909748-3-302": {
+        "average clique similarity": 0.5007437694909748,
+        "clique": [
+            "5-We understand that Y",
+            "2- We understand that ",
+            "0- We understand that "
+        ],
+        "median tf-idf score": 0.9502216241991082,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "We understand that Yahoo is conducting an active investigation of this matter, but we otherwise have limited information and understanding of the impact. We will evaluate as the investigation continues through the lens of overall Verizon interests, including consumers, customers, shareholders and related communities. Until then, we are not in position to further comment. \"",
+            "\"We understand that Yahoo is conducting an active investigation of this matter, but we otherwise have limited information and understanding of the impact,\" the company's statement said.",
+            "\"We understand that Yahoo is conducting an active investigation of this matter, but we otherwise have limited information and understanding of the impact. We will evaluate as the investigation continues through the lens of overall Verizon interests, including consumers, customers, shareholders and related communities. Until then, we are not in position to further comment. \""
+        ],
+        "tf-idf score": [
+            0.9502216241991082,
+            0.9428434270801258,
+            0.9502216241991082
+        ]
+    },
+    "0.694103118138132-3-302": {
+        "average clique similarity": 0.694103118138132,
+        "clique": [
+            "6-Democratic Senator M",
+            "5-Senator Mark Warner ",
+            "2- While its scale put"
+        ],
+        "median tf-idf score": 0.6790215672034201,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Democratic Senator Mark Warner said in a statement he was \"most troubled by news that this breach occurred in 2014, and yet the public is only learning details of it today\".",
+            "Senator Mark Warner,   founder of the Senate Cybersecurity Caucus, said in a prepared statement, \"While this breach's scale puts it among the largest on record, I am perhaps most troubled by news that it occurred in 2014, and yet the public is only learning details of it today.",
+            "\"While its scale puts it among the largest on record, I am perhaps most troubled by news that this breach occurred in 2014, and yet the public is only learning details of it today,\" Warner said in a statement."
+        ],
+        "tf-idf score": [
+            0.7145006590617683,
+            0.6790215672034201,
+            0.5969056467240914
+        ]
+    }
+}

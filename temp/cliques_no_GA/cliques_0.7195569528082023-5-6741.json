@@ -1,0 +1,398 @@
+{
+    "0.15312851655349344-3-210": {
+        "average clique similarity": 0.15312851655349344,
+        "clique": [
+            "2-She also urged Prime",
+            "4-It is unthinkable th",
+            "0- It is in no sense b"
+        ],
+        "median tf-idf score": 0.34313527660604415,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "She also urged Prime Minister David Cameron to take action against Putin and Russia.",
+            "It is unthinkable that the prime minister would do nothing in the face of damning findings [by] Sir Robert Owen.",
+            "\u201cIt is in no sense business as usual\u201d between Britain and Russia, she said, adding that Cameron would discuss the matter with Putin \u201cat the next available opportunity."
+        ],
+        "tf-idf score": [
+            0.34313527660604415,
+            0.22703976018989078,
+            0.48051827483612297
+        ]
+    },
+    "0.1826532640267192-3-126": {
+        "average clique similarity": 0.1826532640267192,
+        "clique": [
+            "0-Litvinenko had becom",
+            "2-The report says he w",
+            "1-Owen cited several r"
+        ],
+        "median tf-idf score": 0.616778455374239,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Litvinenko had become a British citizen just weeks before his death, a move that he had told friends would protect him from the reach of his jilted former Russian comrades.",
+            "The report says he was poisoned twice  \u2014   the first time coming just days after he and his family were granted British citizenship on Oct. 13, 2006.",
+            "Owen cited several reasons why the Russian state would have wanted to kill Litvinenko, who was granted British citizenship a month before his death on Nov. 23, 2006."
+        ],
+        "tf-idf score": [
+            0.5878710817898422,
+            0.616778455374239,
+            0.899854275069117
+        ]
+    },
+    "0.19625883232288652-4-20": {
+        "average clique similarity": 0.19625883232288652,
+        "clique": [
+            "3-The two remain in Ru",
+            "2-As for the alleged p",
+            "1-RUSSIAN INTELLIGENCE",
+            "0-  British officials "
+        ],
+        "median tf-idf score": 0.5156003783777264,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The two remain in Russia, which refuses to extradite them.",
+            "As for the alleged perpetrators, the report states, \u201dWarrants were in due course issued for their arrest, and the Crown Prosecution Service sought unsuccessfully to extradite them from the Russian Federation to stand trial for murder\u201d.",
+            "RUSSIAN INTELLIGENCE Both Lugovoy and Kovtun, who declined to participate in the   British inquiry, have previously denied involvement and Russia has refused to extradite them.",
+            "\u201d British officials on Thursday reiterated requests for Russia to extradite the two alleged killers, Andrei Lugovoi and Dimitry Kovtun."
+        ],
+        "tf-idf score": [
+            0.13024262736832645,
+            0.5493315775574945,
+            0.7081493353776351,
+            0.4818691791979583
+        ]
+    },
+    "0.20028348924495668-3-16": {
+        "average clique similarity": 0.20028348924495668,
+        "clique": [
+            "4- Former Russian spy ",
+            "3-Litvinenko was fatal",
+            "2-Nearly 10 years afte"
+        ],
+        "median tf-idf score": 1.8583981168603319,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u2019Former Russian spy Alexander Litvinenko was \u201cprobably\u201d assassinated on the personal instruction of Vladimir Putin, a UK inquiry has concluded.\u2019 \u2019High court judge Sir Robert Owen said on Thursday that former KGB agents Andrei Lugovoi and Dmitry Kovtun poisoned Litvinenko with a radioactive isotope in London in 2006 \u201cacting on behalf of others.",
+            "Litvinenko was fatally poisoned by a cup of green tea spiked with radioactive  .",
+            "Nearly 10 years after Kremlin critic and former spy Alexander Litvinenko was poisoned with a rare radioactive element and died in London, a retired British judge has issued a report concluding that Russian President Vladimir Putin \u201dprobably\u201d approved a plan by Russia\u2019s security service to kill the former FSB agent."
+        ],
+        "tf-idf score": [
+            1.9048665542587635,
+            0.5995524824571775,
+            1.8583981168603319
+        ]
+    },
+    "0.20073349186423547-3-38": {
+        "average clique similarity": 0.20073349186423547,
+        "clique": [
+            "1-High polonium contam",
+            "0-The killers  a pair ",
+            "3-Lugovoi and Kovtun w"
+        ],
+        "median tf-idf score": 0.6524830427845317,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "High polonium contamination was found in the teapot and the hotel bar, and traces of the highly radioactive substance were left across London including offices, hotels, planes and Arsenal soccer club\u2019s Emirates Stadium.",
+            "The killers: a pair of assassins who, the report found, were almost certainly acting on orders from the Russian spy service, the FSB, and who left a trail of radioactive evidence strewn across London.",
+            "Lugovoi and Kovtun were charged with Litvinenko\u2019s murder the following year by British prosecutors, who found traces of   polonium on their bodies and possessions."
+        ],
+        "tf-idf score": [
+            0.6161331568759242,
+            0.6768395605725824,
+            0.6524830427845317
+        ]
+    },
+    "0.20185726968710935-3-217": {
+        "average clique similarity": 0.20185726968710935,
+        "clique": [
+            "1-Owen also concluded ",
+            "2-That fatal encounter",
+            "0-  But Owen said the "
+        ],
+        "median tf-idf score": 0.5721719746881828,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Owen also concluded the two men had unsuccessfully tried to kill Litvinenko two weeks earlier at a meeting at a London security firm, and said it was \u201dentirely possible\u201d Lugovoy was planning to target him back in 2004.",
+            "That fatal encounter came weeks after Lugovoy and Kovtun had attempted to administer   to Litvinenko, Owen says.",
+            "\u201d But Owen said the two killers had no \u201cpersonal reason\u201d to kill Litvinenko."
+        ],
+        "tf-idf score": [
+            0.9589911929621395,
+            0.5721719746881828,
+            0.49911905124707845
+        ]
+    },
+    "0.2055019961847989-3-107": {
+        "average clique similarity": 0.2055019961847989,
+        "clique": [
+            "1-Litvinenko s widow  ",
+            "0-    Full report  Rus",
+            "4-    Speaking outside"
+        ],
+        "median tf-idf score": 1.2190428579582973,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Litvinenko\u2019s widow, Marina, whose persistence led to the inquiry being held, called for Russian spies to be kicked out of Britain and for sanctions against Russia.",
+            "\u201d  [Full report: Russian President Vladimir Putin implicated in fatal poisoning of former KGB operative]  That cautious stance is likely to disappoint Litvinenko\u2019s wife, who called Thursday for Britain to expel Russian intelligence officials and enact new sanctions in response to the killing of her husband.",
+            "\u201d\u2019 \u2019Speaking outside the High Court, Litvinenko\u2019s widow Marina welcomed the \u201cdamning findings\u201d of the inquiry.\u2019 \u2019Russia\u2019s foreign ministry said it would need time to study the full findings of the inquiry, but criticised its conclusion as \u201cpoliticised\u201d.\u2019 \u2019Lugovoi meanwhile, speaking to Russian state media, has called the claims \u201cabsurd\u201d.\u2019 \u2019Lugovoi became an MP in the Russian parliament a year after Litvinenko\u2019s death, and thus became immune from prosecution.\u2019 \u2019Speaking in the Commons, home secretary Theresa May, who set up the inquiry in 2014, described the murder of Litvinenko as a \u201c  act\u201d.\u2019 \u2019The Russian ambassador to the UK was later summoned to the Foreign Office to meet the minister responsible for Russia, David Lidlington.\u2019 \u2019Read the inquiry\u2019s full report:\u2019] He fell ill on the evening of 1 November 2006 after meeting Lugovoi and Kovtun for tea in a London hotel."
+        ],
+        "tf-idf score": [
+            0.7679085717902567,
+            1.2190428579582973,
+            2.2620028746042258
+        ]
+    },
+    "0.21983279120653454-3-291": {
+        "average clique similarity": 0.21983279120653454,
+        "clique": [
+            "1- President Vladimir ",
+            "0-Read more    The ste",
+            "3-Vladimir Putin was f"
+        ],
+        "median tf-idf score": 1.2487205727734751,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            " President Vladimir Putin probably approved a 2006 Russian intelligence operation to murder   agent Alexander Litvinenko with radioactive   in London, a British inquiry concluded on Thursday, prompting a row with Moscow.",
+            "Read more:   The stealthy, nefarious way an   officer was murdered in London   Full report: Russian President Vladimir Putin implicated in fatal poisoning of former KGB operative   Russian tycoon found dead in Britain after falling out with Putin   The ancient art of poisoning",
+            "Vladimir Putin was furious when one of his former spies, Alexander Litvinenko, publicly called him a pedophile in 2006  \u2014   a slur that likely spurred the Russian leader to order the dissident\u2019s assassination in London four months later, a British report concluded on Thursday."
+        ],
+        "tf-idf score": [
+            1.2487205727734751,
+            1.0928854995107944,
+            1.3747999037640368
+        ]
+    },
+    "0.22519431784484856-3-91": {
+        "average clique similarity": 0.22519431784484856,
+        "clique": [
+            "1-Lugovoy  now a Russi",
+            "3-Britain summoned the",
+            "0-Kovtun  now a busine"
+        ],
+        "median tf-idf score": 0.49161202657280695,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Lugovoy, now a Russian lawmaker, was quoted by the Interfax news agency as saying the accusation was absurd.",
+            "Britain summoned the Russian ambassador for a   and imposed an asset freeze on the two main suspects: Andrei Lugovoi, now a Russian lawmaker, and Dmitry Kovtun.",
+            "Kovtun, now a businessman, described the charges as based on \u201cfalsified and fabricated evidence,\u201d the Interfax news agency reported."
+        ],
+        "tf-idf score": [
+            0.5089191555464949,
+            0.49161202657280695,
+            0.24281709730214449
+        ]
+    },
+    "0.2307170114501306-3-275": {
+        "average clique similarity": 0.2307170114501306,
+        "clique": [
+            "3- The fact that Mr Li",
+            "0-Although the inquiry",
+            "1- I have concluded th"
+        ],
+        "median tf-idf score": 0.9813469019687062,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cThe fact that Mr Litvinenko was poisoned with   that had been manufactured in a nuclear reactor suggests that Mr Lugovoi and Mr Kovtun were acting for a state body, rather than (say) a criminal organization,\u201d it says.",
+            "Although the inquiry stops short of conclusively blaming Putin  \u2014   noting the opaque nature of Kremlin politics  \u2014   it finds that there is \u201cstrong circumstantial evidence that the Russian State was responsible for Mr Litvinenko\u2019s death.",
+            "\u201dI have concluded that there is a strong probability that when Mr Lugovoy poisoned Mr Litvinenko, he did so under the direction of the FSB I have further concluded that Mr Kovtun was also acting under FSB direction,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.9189177067416253,
+            1.1559465185742561,
+            0.9813469019687062
+        ]
+    },
+    "0.23647166633935057-3-46": {
+        "average clique similarity": 0.23647166633935057,
+        "clique": [
+            "0-  Britain immediatel",
+            "1-Interior minister Th",
+            "4-   He made clear tha"
+        ],
+        "median tf-idf score": 0.4836197509063363,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d Britain immediately summoned the Russian ambassador to express \u201cprofound displeasure\u201d at what Home Secretary Theresa May called Moscow\u2019s \u201cblatant and unacceptable breach of the most fundamental tenets of international law.",
+            "Interior minister Theresa May, appearing before parliament, spoke of \u201da blatant and unacceptable breach of the most fundamental tenets of international law and of civilized behavior\u201d while the opposition Labour Party described an \u201dunparalleled act of   terrorism\u201d.",
+            "\u201d \u201cHe made clear that the inquiry\u2019s conclusion concerning the Russian state\u2019s probable involvement in this murder was deeply disturbing, demonstrating a flagrant disregard for UK law, international law and standards of conduct, and the safety of UK citizens,\u201d the spokesperson said."
+        ],
+        "tf-idf score": [
+            0.4836197509063363,
+            0.28381643052720346,
+            0.837621267629702
+        ]
+    },
+    "0.2714456984688194-3-203": {
+        "average clique similarity": 0.2714456984688194,
+        "clique": [
+            "0-According to the rep",
+            "1-The judge said he wa",
+            "2-From the report   Th"
+        ],
+        "median tf-idf score": 0.9375827480973578,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "According to the report, the two men lured Litvinenko to the Pine Bar at the Millennium Hotel in Mayfair on Nov. 1, 2006, ostensibly to discuss a business deal, and served him a cup of cold green tea.",
+            "The judge said he was sure Lugovoy and Kovtun had placed the polonium 210 in a teapot at the Millennium Hotel\u2019s Pine Bar on Nov. 1, 2006 when they met Litvinenko for little more than 30 minutes.",
+            "From the report: \u201dThe evidence establishes that Mr Litvinenko ingested the fatal dose whilst drinking tea from a teapot contaminated with   in the Pine Bar of the Millennium Hotel in the West End of London in the afternoon of 1 November in the company of Andrei Lugovoy and Dmitri Kovtun."
+        ],
+        "tf-idf score": [
+            0.6523064618925035,
+            0.9375827480973578,
+            1.0637420406975069
+        ]
+    },
+    "0.36551715707927723-3-51": {
+        "average clique similarity": 0.36551715707927723,
+        "clique": [
+            "1- There was undoubted",
+            "2-Judge Owen adds that",
+            "3- There was undoubted"
+        ],
+        "median tf-idf score": 0.8159015239481401,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201dThere was undoubtedly a personal dimension to the antagonism between Mr Litvinenko on the one hand and President Putin on the other,\u201d Owen\u2019s report said.",
+            "Judge Owen adds that there\u2019s no sign of a possible personal motive for Lugovoy and Kovtun, and that all the evidence in the case \u201dpoints in one direction\u201d  \u2014   to Moscow.",
+            "\u201cThere was undoubtedly a personal dimension to the antagonism\u201d between Putin and Litvinenko, the report says."
+        ],
+        "tf-idf score": [
+            1.0874412547433165,
+            0.42952758142162406,
+            0.8159015239481401
+        ]
+    },
+    "0.42074326330450207-3-76": {
+        "average clique similarity": 0.42074326330450207,
+        "clique": [
+            "0-In Moscow  Putin spo",
+            "3-The report would  fu",
+            "1-Kremlin spokesman Dm"
+        ],
+        "median tf-idf score": 0.4026640857078376,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "In Moscow, Putin spokesman Dmitry Peskov said that \u201csuch   as we have today, can only further poison the atmosphere of our relations.",
+            "The report would \u201cfurther poison the atmosphere of our bilateral relations,\u201d said the spokesman, Dmitry Peskov.",
+            "Kremlin spokesman Dmitry Peskov said such inquiries risked poisoning relations and pointed out that the inquiry relied on unpublicised information from the intelligence services."
+        ],
+        "tf-idf score": [
+            0.4026640857078376,
+            0.3532331378461139,
+            0.4575652617820503
+        ]
+    },
+    "0.4254429598639209-3-154": {
+        "average clique similarity": 0.4254429598639209,
+        "clique": [
+            "2-Litvinenko s widow  ",
+            "1-   calling for the i",
+            "0- I am  of course  ve"
+        ],
+        "median tf-idf score": 0.6444164193277923,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Litvinenko\u2019s widow, Marina, speaking Thursday outside the Royal Courts of Justice in London, welcomed the report by saying, \u201dThe words my husband spoke on his deathbed, when he accused Mr Putin of his murder, have been proved true in an English court\u201d.",
+            ".. calling for the imposition of targeted economic sanctions and travel bans against named individuals, including Mr Patrushev and Mr Putin,\u201d she told reporters outside London\u2019s Royal Courts of Justice.",
+            "\u201cI am, of course, very pleased that the words my husband spoke on his deathbed  \u2014   when he accused Mr Putin of his murder  \u2014   have been proved true,\u201d she told reporters outside the Royal Courts of Justice in central London."
+        ],
+        "tf-idf score": [
+            1.0855810832043649,
+            0.6125213265486888,
+            0.6444164193277923
+        ]
+    },
+    "0.505421930831409-5-131": {
+        "average clique similarity": 0.505421930831409,
+        "clique": [
+            "0- The FSB operation t",
+            "4-The inquiry ruled ou",
+            "3- Taking full account",
+            "1-An inquiry led by se",
+            "2-The report released "
+        ],
+        "median tf-idf score": 1.3750399337159966,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Buzzfeed News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cThe FSB operation to kill Mr Litvinenko was probably approved by Mr [Nikolai] Patrushev [then head of the FSB] and also by President Putin,\u201d the report concludes.",
+            "The inquiry ruled out suicide or accident as causes for Litvinenko\u2019s death, and concluded that he was \u201cdeliberately poisoned\u201d and that the murder was \u201cprobably\u201d approved by Putin and Nikolai Patrushev, former head of the FSB, the successor organisation to the KGB \u201cI am also calling for the imposition of targeted economics sanctions and travel bans against named individuals including Mr Patrushev and Mr Putin.",
+            "\u201cTaking full account of all the evidence and analysis available to me, I find that the FSB operation to kill Mr Litvinenko was probably approved by Mr Patrushev and also by President Putin,\u201d the report says.",
+            "An inquiry led by senior British judge Robert Owen found that former KGB bodyguard Andrei Lugovoy and another Russian, Dmitry Kovtun, carried out the killing as part of an operation probably directed by Russia\u2019s Federal Security Service (FSB) the main heir to the   KGB \u201dThe FSB operation to kill Mr Litvinenko was probably approved by Mr Patrushev, then head of the FSB, and also by President Putin,\u201d Owen said.",
+            "The report released today by Sir Robert Owen, chairman of the British inquiry into Litvinenko\u2019s murder, concludes that \u201dthe FSB operation to kill Mr Litvinenko was probably approved by Mr Patrushev, then head of the FSB, and also by President Putin."
+        ],
+        "tf-idf score": [
+            1.1270078973641893,
+            1.3750399337159966,
+            1.2015561531608614,
+            1.9750456691602134,
+            1.47856304050976
+        ]
+    }
+}

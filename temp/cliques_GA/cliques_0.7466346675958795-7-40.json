@@ -1,0 +1,722 @@
+{
+    "0.16803828646802452-3-127": {
+        "average clique similarity": 0.16803828646802452,
+        "clique": [
+            "6-Today  he is facing ",
+            "3-Heinrich was charged",
+            "2-Heinrich  53  of Ann"
+        ],
+        "median tf-idf score": 0.9651743269783392,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "Today, he is facing justice\". Heinrich agreed to make a full confession in court to Jacob's death, lead the authorities to the remains and receive a   sentence for possession of child pornography.",
+            "Heinrich was charged last year with 25 counts of possessing and receiving child pornography. He spoke in court Tuesday after agreeing to a plea deal that cut the number of charges to one.",
+            "Heinrich, 53, of Annandale,  . His remains were identified Saturday. Authorities named Heinrich as a person of interest in Jacob's disappearance last October when they announced the child pornography charges."
+        ],
+        "tf-idf score": [
+            0.9651743269783392,
+            0.9063133527207411,
+            0.982326156744501
+        ]
+    },
+    "0.18971924051055833-3-20": {
+        "average clique similarity": 0.18971924051055833,
+        "clique": [
+            "1-We got the truth  Th",
+            "3- We are in deep grie",
+            "6- After 27 years  Dan"
+        ],
+        "median tf-idf score": 0.7765651669894084,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "We got the truth. The Wetterling family will bring him home,\" Luger said.",
+            "\"We are in deep grief. We didn't want Jacob's story to end this way,\" the Jacob Wetterling Resource Center said in a statement Tuesday. \"In this moment of pain and shock, we go back to the beginning.",
+            "\"After 27 years, Danny Heinrich was ready to talk and we had to grab the moment,\" Luger said. \"We knew he could change his mind at any time\"."
+        ],
+        "tf-idf score": [
+            0.4867915516686784,
+            0.8540284238770599,
+            0.7765651669894084
+        ]
+    },
+    "0.1951020103010598-3-276": {
+        "average clique similarity": 0.1951020103010598,
+        "clique": [
+            "1-As part of the plea ",
+            "3-The office said loca",
+            "6-DNA testing was then"
+        ],
+        "median tf-idf score": 0.8078326976911876,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "As part of the plea agreement in a case that has long haunted the state, Heinrich will not face state murder charges in connection with Jacob's death.",
+            "The office said local and state   agencies, as well as the FBI, are \"currently in the process of reviewing and evaluating new evidence in the Jacob Wetterling investigation. \"",
+            "DNA testing was then in its infancy but the department continued to send in the evidence from J S' case to the state crime labs as testing improved. In 2015, the state crime lab linked DNA from J S' case to Heinrich."
+        ],
+        "tf-idf score": [
+            0.8894049782894397,
+            0.8078326976911876,
+            0.6429074806784212
+        ]
+    },
+    "0.19724706941837658-3-319": {
+        "average clique similarity": 0.19724706941837658,
+        "clique": [
+            "6-Abducted from a  saf",
+            "4-Jacob Wetterling was",
+            "0-Heinrich testified t"
+        ],
+        "median tf-idf score": 0.6503855183861046,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Abducted from a 'safe place' Jacob went missing one evening when when he and his brother left their home in the hamlet of St. Joseph with a friend to ride their bicycles and a scooter to a store to rent a movie.",
+            "Jacob Wetterling was taken at gunpoint by a masked man who allowed Jacob's brother and a friend to get away. The three children had been riding bikes near their house in a rural area in central Minnesota.",
+            "Heinrich testified that he was driving around the St. Joseph neighborhood around 8 p. m. on Oct. 22, 1989, when he saw three young boys riding their bikes."
+        ],
+        "tf-idf score": [
+            0.5728294102864958,
+            0.987396501865075,
+            0.6503855183861046
+        ]
+    },
+    "0.19959000457221251-3-35": {
+        "average clique similarity": 0.19959000457221251,
+        "clique": [
+            "0-Patty Wetterling  Pa",
+            "4-Jacob s parents were",
+            "3-Heinrich s retelling"
+        ],
+        "median tf-idf score": 1.020096054902006,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Patty Wetterling, Patty Wetterling told reporters that the admission provided a sense of closure for the family, adding, \"Jacob was alive until we found him,\" \"He's taught us all how to live, how to love, how to be kind,\" Patty Wetterling said, surrounded by her family.",
+            "Jacob's parents were present at Tuesday's hearing toward the end of the proceedings, Patty Wetterling said it was painful to learn about the last minutes of her son's life, according to Minnesota Public Radio's Brandt Williams.",
+            "Heinrich's retelling of the crime Tuesday was the first time the Wetterling family and the public heard about what happened to Jacob Wetterling."
+        ],
+        "tf-idf score": [
+            0.9933133719810602,
+            1.1607451664003618,
+            1.020096054902006
+        ]
+    },
+    "0.21031368833324762-3-183": {
+        "average clique similarity": 0.21031368833324762,
+        "clique": [
+            "2-The statute of limit",
+            "5-During the assault  ",
+            "4-Scheierl  who s now "
+        ],
+        "median tf-idf score": 1.0387506140108078,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "The statute of limitations had expired for charging him in the assault on Jared, but a grand jury indicted him on 25 child pornography counts. The AP typically doesn't identify victims of sexual assault, but Scheierl has spoken publicly for years about his case, saying it helped him cope with the trauma and that he hoped it could help investigators find his attacker and Jacob's kidnapper.",
+            "During the assault, Heinrich told the court that Jacob said he was cold and wanted to go home, according to CBS affiliate WCCO Later, Heinrich heard sirens and thought police were headed to his location, WCCO reported, adding: Heinrich panicked and took out his revolver as [Jacob] had his back to him. He then pulled the trigger, but the gun didn't go off.",
+            "Scheierl, who's now 40 and has three children, told CBS Minnesota that the authorities told him the statute of limitations had run out on his case."
+        ],
+        "tf-idf score": [
+            1.0387506140108078,
+            1.4050332159927221,
+            0.4359843801904665
+        ]
+    },
+    "0.21792743677220672-3-109": {
+        "average clique similarity": 0.21792743677220672,
+        "clique": [
+            "4-Heinrich made the st",
+            "1-Prosecutors said the",
+            "5-Tuesday s admission "
+        ],
+        "median tf-idf score": 0.9219284874995277,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Heinrich made the statements as part of a plea deal related to child pornography charges, on which he was indicted last December.",
+            "Prosecutors said the family was consulted on and approved the plea agreement, which required Heinrich to give a detailed confession and tell investigators where to find Jacob.",
+            "Tuesday's admission was part of a plea deal with federal prosecutors on the child pornography charges. The deal could land Heinrich at a facility where he wouldn't be in as much danger as a convicted sex offender, WCCO reported."
+        ],
+        "tf-idf score": [
+            0.688521743474926,
+            1.0623571843483515,
+            0.9219284874995277
+        ]
+    },
+    "0.22023765786814767-3-226": {
+        "average clique similarity": 0.22023765786814767,
+        "clique": [
+            "4-Federal prosecutors ",
+            "6-Investigators got a ",
+            "2-Using technology tha"
+        ],
+        "median tf-idf score": 0.8337882041327724,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Federal prosecutors say that after DNA tests linked Heinrich to the Scheierl case last year, investigators carried out a search that resulted in the discovery of \"collections of child pornography within multiple   binders\".",
+            "Investigators got a search warrant for Heinrich's house and while they didn't locate evidence for the Wetterling case, they did find a huge stash of child pornography, which County Attorney Janelle Kendall realized might be the leverage that could crack the Wetterling case, because child pornography carries a potential   sentence per count.",
+            "Using technology that wasn't available in 1989, investigators found Heinrich's DNA on Scheierl's sweatshirt, and used that evidence to get a search warrant for Heinrich's home, where they found a large collection of child pornography."
+        ],
+        "tf-idf score": [
+            0.8337882041327724,
+            0.9272428681525228,
+            0.7149423116483915
+        ]
+    },
+    "0.2230493698628079-3-190": {
+        "average clique similarity": 0.2230493698628079,
+        "clique": [
+            "6-Heinrich panicked up",
+            "1-Heinrich led authori",
+            "5-In the days since He"
+        ],
+        "median tf-idf score": 0.883371973387873,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Heinrich panicked upon hearing a police car, loaded his revolver, shot the boy and buried him in a place finally uncovered last week, federal authorities said.",
+            "Heinrich led authorities to Jacob's buried remains in a central Minnesota field last week. The remains were identified on Saturday.",
+            "In the days since Heinrich led authorities to the buried remains of Jacob Wetterling, the boy's family remained silent, deep in their own grief."
+        ],
+        "tf-idf score": [
+            0.883371973387873,
+            0.8611642242009419,
+            1.0548912068562275
+        ]
+    },
+    "0.22824395015857876-3-262": {
+        "average clique similarity": 0.22824395015857876,
+        "clique": [
+            "6-Heinrich described a",
+            "3-More from the Star T",
+            "4-Williams followed th"
+        ],
+        "median tf-idf score": 0.7608532884263375,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Heinrich described a cold and terrified boy who began to weep after the abductor said he couldn't take him all the way home,   WCCO reporter Nina Moini tweeted from the courtroom.",
+            "More from the Star Tribune: Jacob asked to go home, but Heinrich told him he couldn't take him all the way home.",
+            "Williams followed the proceedings from the courthouse. From his story about today's hearing: \"Heinrich said he confronted the children with a   revolver."
+        ],
+        "tf-idf score": [
+            0.7650214732692405,
+            0.7608532884263375,
+            0.7227498016754108
+        ]
+    },
+    "0.22846785918408477-3-29": {
+        "average clique similarity": 0.22846785918408477,
+        "clique": [
+            "2-His mother  Patty We",
+            "5-Patty Wetterling  th",
+            "1-In the years after J"
+        ],
+        "median tf-idf score": 0.6884478406673905,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "His mother, Patty Wetterling, always kept hope her son would be found alive. She became a national advocate for missing children, and with her husband, Jerry Wetterling, founded the Jacob Wetterling Resource Center, which works to help communities and families prevent child exploitation.",
+            "Patty Wetterling, the mother of an    boy whose remains were discovered 27 years after he disappeared, said on Sept. 6 that she and her family \"need time to heal\".",
+            "In the years after Jacob's disappearance, his mother, Patty, became a nationally known advocate for missing children."
+        ],
+        "tf-idf score": [
+            0.8884723542353691,
+            0.6884478406673905,
+            0.5708955356286788
+        ]
+    },
+    "0.2415851785908524-3-94": {
+        "average clique similarity": 0.2415851785908524,
+        "clique": [
+            "5-Heinrich also said h",
+            "2-As part of that effo",
+            "6-Heinrich  now 53  de"
+        ],
+        "median tf-idf score": 1.0707269339542034,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "Heinrich also said he sexually assaulted another Minnesota boy,    Jared Scheierl, nine months before Jacob disappeared, according to the AP Jared survived.",
+            "As part of that effort, investigators took another look at the sexual assault of    Jared Scheierl, of Cold Spring, nine months before Jacob's disappearance. Investigators had long suspected the two cases were connected.",
+            "Heinrich, now 53, described the sexual assault and murder of Jacob and also a separate attack on another boy who survived, as part of a plea deal with federal and state authorities designed to reveal what happened to Jacob and to recover his remains."
+        ],
+        "tf-idf score": [
+            1.1609270447402675,
+            0.7105645776895038,
+            1.0707269339542034
+        ]
+    },
+    "0.2489314290260722-3-152": {
+        "average clique similarity": 0.2489314290260722,
+        "clique": [
+            "3-Wetterling  his    b",
+            "0-Heinrich said he the",
+            "5-          Moments af"
+        ],
+        "median tf-idf score": 0.6940589479336184,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Wetterling, his    brother, and an    friend were biking home from a convenience store that day when a masked gunman stopped them. The assailant told Wetterling's brother and friend to run, but forced Wetterling into his car and handcuffed him.",
+            "Heinrich said he then handcuffed Wetterling and put him in the passenger seat of his car and drove off.",
+            "          Moments after Danny Heinrich abducted Jacob Wetterling on a rural road in Minnesota, the man handcuffed the    boy and forced him into a car."
+        ],
+        "tf-idf score": [
+            0.47435138863280985,
+            0.6940589479336184,
+            1.0887382818308748
+        ]
+    },
+    "0.25037144108685366-4-319": {
+        "average clique similarity": 0.25037144108685366,
+        "clique": [
+            "4-That spot is evident",
+            "6-Last week Wednesday ",
+            "5-Heinrich s testimony",
+            "3-Heinrich led police "
+        ],
+        "median tf-idf score": 0.791498076846567,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "That spot is evidently the same one Heinrich led authorities to last week, according to the AP Human remains were recovered there that DNA analysis confirmed were Jacob's over the weekend.",
+            "Last week Wednesday, he led authorities to a grave in a rural section of the county near Paynesville. Authorities dug and uncovered a fragment of a red Saint Cloud hockey jacket that matched what Jacob was wearing when he disappeared.",
+            "Heinrich's testimony capped a week of dramatic developments in Jacob's case, which began last week when Heinrich led investigators to the boy's body in a field in Paynesville.",
+            "Heinrich led police to the spot where he buried the body near Paynesville, Minnesota, last week, the Star Tribune in Minnesota reported."
+        ],
+        "tf-idf score": [
+            0.8792804558693448,
+            0.7037156978237893,
+            0.9159814427794118,
+            0.6025444016228939
+        ]
+    },
+    "0.2705412844595644-3-319": {
+        "average clique similarity": 0.2705412844595644,
+        "clique": [
+            "1-He said he returned ",
+            "4-He returned to the s",
+            "5-A year later  when h"
+        ],
+        "median tf-idf score": 0.5943550364252826,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He said he returned to the site about a year later and saw that Jacob's jacket and some bones had become exposed. \"I gathered up as much as I could and put it in the bag and transported it across the highway\" to a field, and reburied the remains, he said.",
+            "He returned to the site a year later to discover Jacob's jacket partially exposed. He picked up Jacob's remains and took them to a new spot\".",
+            "A year later, when he drove by the site, he noticed Jacob's red jacket sticking out of the grave, WCCO reported. He returned later and transferred the remains to a nearby farm."
+        ],
+        "tf-idf score": [
+            0.7258370146883023,
+            0.5574447482892113,
+            0.5943550364252826
+        ]
+    },
+    "0.28582732104311054-3-124": {
+        "average clique similarity": 0.28582732104311054,
+        "clique": [
+            "5- Reuters    In 1994 ",
+            "4-Heinrich aired distu",
+            "6-She called Luger to "
+        ],
+        "median tf-idf score": 0.9912680965448931,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "(Reuters)   In 1994, the federal Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act led to the creation of a national sex offender registry.",
+            "Heinrich aired disturbing details about the case during a    hearing Tuesday that saw the    acknowledge his crimes against Jacob and against Jared Scheierl, who was 12 when he was kidnapped months before Jacob was abducted.",
+            "She called Luger to tell him that as a team they might have the keys to crack the cold case that had brought the federal 1994 Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act, which requires states to maintain sex offender registries and guidelines."
+        ],
+        "tf-idf score": [
+            0.8356551436160214,
+            1.0489961238183994,
+            0.9912680965448931
+        ]
+    },
+    "0.28590426396902335-4-48": {
+        "average clique similarity": 0.28590426396902335,
+        "clique": [
+            "3-Police were led ther",
+            "2-MINNEAPOLIS       A ",
+            "6-  CNN  Danny James H",
+            "1-A Minnesota man conf"
+        ],
+        "median tf-idf score": 0.9480728272061817,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "Police were led there by Danny James Heinrich, who on Tuesday confessed in court to kidnapping and killing the boy on October 22, 1989.",
+            "MINNEAPOLIS  --   A Minnesota man confessed Tuesday to abducting and killing    Jacob Wetterling nearly 27 years ago, putting to rest a mystery that had haunted the state and led to changes in national sex offender laws.",
+            " (CNN) Danny James Heinrich told a Minnesota court on Tuesday that    Jacob Wetterling had one question 27 years ago when he was kidnapping him on a rural road: \"What did I do wrong?\"",
+            "A Minnesota man confessed on Tuesday to abducting and killing    Jacob Wetterling nearly 27 years ago, recounting the crime in chilling detail, including a handcuffed Jacob asking him, \"What did I do wrong?\""
+        ],
+        "tf-idf score": [
+            0.6557695662770551,
+            1.0358866545112642,
+            1.2542590505209712,
+            0.8602589999010992
+        ]
+    },
+    "0.30294338915857955-3-319": {
+        "average clique similarity": 0.30294338915857955,
+        "clique": [
+            "3- I panicked  I pulle",
+            "0-The man said he then",
+            "1-He said he pulled ou"
+        ],
+        "median tf-idf score": 0.796045990367678,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"I panicked. I pulled the revolver out of my pocket. ..I loaded it with two rounds. I told Jacob to turn around,\" Heinrich said.",
+            "The man said he then told the boy to masturbate him. Heinrich testified that he then saw a patrol car nearby, panicked, and loaded a gun.",
+            "He said he pulled out his revolver, which had not been loaded, and put two rounds in the gun. He said he told Jacob to turn around. He held the gun to the boy's head and pulled the trigger."
+        ],
+        "tf-idf score": [
+            0.917314905008319,
+            0.796045990367678,
+            0.7824211580369681
+        ]
+    },
+    "0.3464551726482248-3-319": {
+        "average clique similarity": 0.3464551726482248,
+        "clique": [
+            "0-Wetterling s disappe",
+            "3-In 1994  the Jacob W",
+            "1-A 1994 federal law n"
+        ],
+        "median tf-idf score": 0.629164235505393,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "Wetterling's disappearance led to child protection laws across the country, including Jacob's Law passed by Congress in 1994 requiring states to establish sex offender registries.",
+            "In 1994, the Jacob Wetterling Act became federal law, requiring all 50 states to create   registries.",
+            "A 1994 federal law named for Jacob requires states to establish sex offender registries."
+        ],
+        "tf-idf score": [
+            0.843376261400635,
+            0.629164235505393,
+            0.5580662572219641
+        ]
+    },
+    "0.35480642610237484-3-281": {
+        "average clique similarity": 0.35480642610237484,
+        "clique": [
+            "1-Heinrich said he wen",
+            "5-He pulled the trigge",
+            "2-Afterward  he shot t"
+        ],
+        "median tf-idf score": 0.9668243607179225,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "Heinrich said he went home for a couple of hours, then went back to the gravel pit and buried Jacob about 100 yards away.",
+            "He pulled the trigger again, shooting [Jacob] in the back of the head. He shot a third time, and [Jacob] collapsed. He buried the boy about 100 yards away and camouflaged the area with leaves and twigs, the AP reported.",
+            "Afterward, he shot the boy and later buried him about 100 yards away. Heinrich said when he took Jacob, the boy asked, \"What did I do wrong?\""
+        ],
+        "tf-idf score": [
+            0.9668243607179225,
+            0.6637158603119002,
+            1.0396499037511995
+        ]
+    },
+    "0.36077066643527705-4-216": {
+        "average clique similarity": 0.36077066643527705,
+        "clique": [
+            "0-Daniel Heinrich  53 ",
+            "1-Danny Heinrich  53  ",
+            "2-Danny Heinrich made ",
+            "5-Now 53  Heinrich mad"
+        ],
+        "median tf-idf score": 0.675729694075079,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Daniel Heinrich, 53, pleaded guilty to child pornography charges in federal court in Minneapolis on Tuesday, according to ABC News.",
+            "Danny Heinrich, 53, of Annandale, made the admission as he pleaded guilty to a federal child abuse images charge that will probably keep him locked up for 20 years, with civil commitment possible after that, meaning he could spend the rest of his life in custody.",
+            "Danny Heinrich made the admission as he pleaded guilty to federal child pornography charges that could put him behind bars for decades.",
+            "Now 53, Heinrich made the admission as he pleaded guilty to federal child pornography charges, the Associated Press reported."
+        ],
+        "tf-idf score": [
+            0.7511837570407276,
+            0.7331528565752119,
+            0.6168885726552513,
+            0.6183065315749461
+        ]
+    },
+    "0.3771925710393675-3-75": {
+        "average clique similarity": 0.3771925710393675,
+        "clique": [
+            "1-With Patty and Jacob",
+            "2-With Jacob s parents",
+            "5- Yes I did   he said"
+        ],
+        "median tf-idf score": 1.1302066057067233,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "With Patty and Jacob's father, Jerry Wetterling, in a packed courtroom, Heinrich described seeing Jacob, Jacob's brother, and a friend bicycling down a rural road near Jacob's central Minnesota home in St Joseph the night of 22 October 1989.",
+            "With Jacob's parents, Patty and Jerry Wetterling, in the courtroom, Heinrich went on to relate details of the crime: how he donned a mask and confronted Jacob and two friends with a revolver near Jacob's St. Joseph home on Oct. 22, 1989.",
+            "\"Yes I did,\" he said, with Jacob's parents, Patty and Jerry Wetterling, in the courtroom."
+        ],
+        "tf-idf score": [
+            1.1715759245989257,
+            1.1302066057067233,
+            0.742461305526367
+        ]
+    },
+    "0.3834363734464862-3-319": {
+        "average clique similarity": 0.3834363734464862,
+        "clique": [
+            "5-Jacob looked at Hein",
+            "4-He handcuffed Jacob ",
+            "0-Heinrich said the yo"
+        ],
+        "median tf-idf score": 0.6752876402623317,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Jacob looked at Heinrich and asked, \"What did I do wrong?\"",
+            "He handcuffed Jacob behind his back and drove away as Jacob asked, 'What did I do wrong?' \"Heinrich admitted sexually abusing Jacob and then shot him twice.",
+            "Heinrich said the young boy asked \"What did I do wrong?\" as they drove away."
+        ],
+        "tf-idf score": [
+            0.6301382461005277,
+            0.7959858518568965,
+            0.6752876402623317
+        ]
+    },
+    "0.3952040604362202-3-38": {
+        "average clique similarity": 0.3952040604362202,
+        "clique": [
+            "1-Heinrich had long be",
+            "2-Heinrich had long be",
+            "5- Timeline of events "
+        ],
+        "median tf-idf score": 0.9277866929329897,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "Heinrich had long been under investigators' scrutiny. They first questioned him shortly after Jacob's abduction, but he maintained his innocence and they never had enough evidence to charge him.",
+            "Heinrich had long been under investigators' scrutiny. They first questioned him shortly after Jacob's abduction, but he maintained his innocence and they never had enough evidence to charge him. They turned a renewed spotlight on him as part of a fresh look into Jacob's abduction around its 25th anniversary.",
+            "[Timeline of events in Jacob Wetterling abduction]   Heinrich was never charged in Jacob's death, although he was one of the first people interviewed by investigators."
+        ],
+        "tf-idf score": [
+            0.8232323103728681,
+            0.9277866929329897,
+            0.969503383688842
+        ]
+    },
+    "0.3979055594526663-4-234": {
+        "average clique similarity": 0.3979055594526663,
+        "clique": [
+            "5- A Minnesota boy was",
+            "0-Heinrich said he tol",
+            "1-He said he ordered t",
+            "6-The boys were on the"
+        ],
+        "median tf-idf score": 0.7166416161983341,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "[A Minnesota boy was kidnapped at gunpoint in 1989. Police have finally found his body.] Then he grabbed Jacob and told the other boys to run and not look back.",
+            "Heinrich said he told them to get off their bicycles, and instructed the two other boys to \"run away, don't look back or I'll shoot. \"",
+            "He said he ordered them into a ditch and asked their names and ages. Heinrich said he told the two other boys to run and not look back or he would shoot.",
+            "The boys were on their way back home when they hit a dark stretch of road and a man in car pulled over, accosted them at gunpoint, told them to turn off their flashlight and after asking their ages, told them    to run and not look back or he would shoot them."
+        ],
+        "tf-idf score": [
+            0.7569741029479085,
+            0.7163638979945786,
+            0.7169193344020897,
+            0.46155537705267574
+        ]
+    },
+    "0.40532380727392736-4-232": {
+        "average clique similarity": 0.40532380727392736,
+        "clique": [
+            "1-He said he then hand",
+            "3-Heinrich said he dro",
+            "2-He said he told the ",
+            "0-Once they were out o"
+        ],
+        "median tf-idf score": 0.7515479889394384,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "He said he then handcuffed Jacob and drove him to a gravel pit near Paynesville, where he molested him.",
+            "Heinrich said he drove Wetterling to an area near a gravel pit, led him out of the vehicle, uncuffed him, and molested him.",
+            "He said he told the two friends to run, handcuffed Jacob and drove him to a gravel pit near Paynesville, where he assaulted him.",
+            "Once they were out of that neighborhood, Heinrich said he pulled up next to a gravel pit, took off the handcuffs, and instructed Wetterling to undress."
+        ],
+        "tf-idf score": [
+            0.6257313706722964,
+            0.7916451127353551,
+            0.7430248622951315,
+            0.7600711155837453
+        ]
+    },
+    "0.4725122134225846-4-13": {
+        "average clique similarity": 0.4725122134225846,
+        "clique": [
+            "0-Heinrich also admitt",
+            "1-Asked whether he abd",
+            "2-Asked whether he abd",
+            "5-He maintained his in"
+        ],
+        "median tf-idf score": 0.906945930901137,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Heinrich also admitted that, in January 1989, he abducted and sexually assaulted a   .",
+            "Asked whether he abducted, sexually assaulted and murdered Jacob, Heinrich said: \"Yes, I did. \"",
+            "Asked whether he abducted, sexually assaulted and murdered Jacob, Heinrich said: \"Yes I did. \"",
+            "He maintained his innocence for years, and prosecutors never had enough evidence to charge him. But Tuesday, according to the AP, Heinrich was asked in court whether he had abducted, sexually assaulted and murdered Jacob."
+        ],
+        "tf-idf score": [
+            0.41257954058679475,
+            0.906945930901137,
+            0.906945930901137,
+            1.1843406197559803
+        ]
+    },
+    "0.5102495389514999-3-210": {
+        "average clique similarity": 0.5102495389514999,
+        "clique": [
+            "0-Lugar said Heinrich ",
+            "6- For us  Jacob was a",
+            "1- To us  Jacob was al"
+        ],
+        "median tf-idf score": 0.776912670641118,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Lugar said Heinrich will now spend 20 years in prison. \"For us, Jacob was alive. .. until we found him\".",
+            "\"For us, Jacob was alive, until they found him\".",
+            "\"To us, Jacob was alive, until we found him. \" Heinrich's attorneys declined to comment after the hearing."
+        ],
+        "tf-idf score": [
+            0.97794999568738,
+            0.4196181691662883,
+            0.776912670641118
+        ]
+    },
+    "0.5265541132355527-3-319": {
+        "average clique similarity": 0.5265541132355527,
+        "clique": [
+            "0- I want to say   Jac",
+            "1- It s incredibly pai",
+            "6- It is incredibly pa"
+        ],
+        "median tf-idf score": 0.5379767185143389,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\"I want to say, 'Jacob, I'm so sorry.' It's incredibly painful to know his last days, his last hours, last minutes. \"",
+            "\"It's incredibly painful to know his last days, last hours, last minutes,\" Patty Wetterling said after the guilty plea.",
+            "\"It is incredibly painful to know his last days, his last hours and his last minutes,\" Patty Wetterling said after the hearing."
+        ],
+        "tf-idf score": [
+            0.4595361735610115,
+            0.5632408302924812,
+            0.5379767185143389
+        ]
+    }
+}

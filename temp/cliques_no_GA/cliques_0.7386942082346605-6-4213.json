@@ -1,0 +1,982 @@
+{
+    "0.15550994386167805-3-511": {
+        "average clique similarity": 0.15550994386167805,
+        "clique": [
+            "3-At Thursday s news c",
+            "5-Our original post co",
+            "2-In the process  acco"
+        ],
+        "median tf-idf score": 0.9961225841072979,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "At Thursday\u2019s news conference, Rio police said a security guard pointed a gun at the athletes as the swimmers attempted to leave the scene in a taxi cab before police arrived.",
+            "Our original post continues: \u201dLocal police arrived at the Olympic Village\u201d this morning, according to a statement from the U S Olympic Committee, \u201dand asked to meet with Ryan Lochte and James Feigen and collect their passports in order to secure further testimony from the athletes\u201d.",
+            "In the process, according to the account by investigators, damage was done to the bathroom door and a discussion ensued with the manager and a security guard."
+        ],
+        "tf-idf score": [
+            0.9961225841072979,
+            1.1576175818999666,
+            0.3890157790949307
+        ]
+    },
+    "0.15655528333204166-3-330": {
+        "average clique similarity": 0.15655528333204166,
+        "clique": [
+            "4-Later that evening  ",
+            "3-Asked if the use of ",
+            "2-And according to ESP"
+        ],
+        "median tf-idf score": 1.005033071251877,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "Later that evening, Jack Conger and Gunnar Bentz are detained by police at Rio airport as they attempt to board a plane and fly back to the US By 10pm, NBC\u2019s Matt Lauer speaks to Lochte who changes parts of his story.",
+            "Asked if the use of a gun could have been seen by the swimmers as an extortion attempt, da Silva Veloso said \u201dFor now, there\u2019s nothing that indicates this\u201d.",
+            "And according to ESPN, Lochte\u2019s teammates have now told police that the robbery story was made up by Lochte:     UPDATE: Ryan Lochte\u2019s teammates told police that robbery story had been fabricated by Lochte."
+        ],
+        "tf-idf score": [
+            1.0479129855750269,
+            0.5387688499146199,
+            1.005033071251877
+        ]
+    },
+    "0.15864475437564293-3-257": {
+        "average clique similarity": 0.15864475437564293,
+        "clique": [
+            "2-Or what if Ryan Loch",
+            "3- So if there was a u",
+            "1-So far  only one had"
+        ],
+        "median tf-idf score": 0.1827302860470347,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Or what if Ryan Lochte did something so silly that it sank below the already   expectations we have of him?",
+            "\u201dSo if there was a use of an arm it was to contain them\u201d.",
+            "So far, only one had done so, she said."
+        ],
+        "tf-idf score": [
+            0.34844357186473024,
+            0.1803093294879134,
+            0.1827302860470347
+        ]
+    },
+    "0.1615443406588378-3-87": {
+        "average clique similarity": 0.1615443406588378,
+        "clique": [
+            "0-  The four allege th",
+            "4-The outing was sever",
+            "5-When that video was "
+        ],
+        "median tf-idf score": 0.48113608299520016,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d The four allege that they were robbed at gunpoint on a drive home from a party on Saturday night.",
+            "The outing was several hours after Olympic swimming ended Saturday night at the Rio Games.",
+            "When that video was published on The Daily Mail\u2019s website, it was initially described as showing how Lochte \u201dand his shaken teammates slunk back into the Athletes Village after a night of partying ended in a chilling gunpoint robbery\u201d."
+        ],
+        "tf-idf score": [
+            0.196434325420211,
+            0.48113608299520016,
+            0.9642001771696197
+        ]
+    },
+    "0.16432695722324406-3-194": {
+        "average clique similarity": 0.16432695722324406,
+        "clique": [
+            "2-More from Adams on L",
+            "3-There was no immedia",
+            "0-A Brazilian judge ba"
+        ],
+        "median tf-idf score": 0.674425384490365,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "More from Adams on Lochte.",
+            "There was no immediate comment from Lochte, Feigen or the U S Olympic Committee.",
+            "A Brazilian judge banned Lochte and teammates Feigen, Bentz, and Conger from leaving the country on Wednesday Lochte had left Brazil on Monday."
+        ],
+        "tf-idf score": [
+            0.3042541118832788,
+            0.674425384490365,
+            0.7514530928799121
+        ]
+    },
+    "0.1657231145996796-3-123": {
+        "average clique similarity": 0.1657231145996796,
+        "clique": [
+            "1-He was not asked by ",
+            "5-He adds   Since that",
+            "4-Later in the morning"
+        ],
+        "median tf-idf score": 0.3492290508686683,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "He was not asked by the Brazilian authorities to remain in Brazil for further investigation.",
+            "He adds, \u201dSince that time, they have not reached out to either Ryan nor me to ask for additional information in connection with their investigation\u201d.",
+            "Later in the morning, police officials visit the athletes village asking to speak to the swimmers, who cannot be found as they left the village after competition."
+        ],
+        "tf-idf score": [
+            0.3492290508686683,
+            0.17028405843982433,
+            0.6456767577997462
+        ]
+    },
+    "0.17025265625232724-3-218": {
+        "average clique similarity": 0.17025265625232724,
+        "clique": [
+            "1-Lochte said the Braz",
+            "5-The police visit cam",
+            "2-He said the episode "
+        ],
+        "median tf-idf score": 0.9844061946267914,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "Lochte said the Brazilian police asked few questions during what he thought was a casual interview.",
+            "The police visit came as questions have intensified around Lochte\u2019s account from this past weekend, when he told NBC that he and three other swimmers  \u2014   including Feigen  \u2014   were robbed after a taxi they were traveling in was stopped by thieves posing as police.",
+            "He said the episode was a misunderstanding  \u2014   that a gun was pointed in his direction and he thought he was being mugged, and that he didn\u2019t realize that the security guard or manager were asking him to pay for the damaged door."
+        ],
+        "tf-idf score": [
+            0.9844061946267914,
+            1.2470532922472175,
+            0.5955475202403662
+        ]
+    },
+    "0.17646126408289273-3-14": {
+        "average clique similarity": 0.17646126408289273,
+        "clique": [
+            "3- He stopped me quick",
+            "2-He also told Lauer h",
+            "1-Lauer relayed that L"
+        ],
+        "median tf-idf score": 0.7390929199929338,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dHe stopped me quickly and strongly denied that,\u201d Lauer said.",
+            "He also told Lauer he was surprised by the Brazilian authorities\u2019 lack of thoroughness the first time he questioned him, and that he and his teammates were robbed at a gas station where they\u2019d stopped to go to the bathroom, as opposed to their taxi being pulled over.",
+            "Lauer relayed that Lochte said he didn\u2019t think police expressed any skepticism over his account."
+        ],
+        "tf-idf score": [
+            0.24689645864904486,
+            0.7429807247947237,
+            0.7390929199929338
+        ]
+    },
+    "0.1803451502710939-3-21": {
+        "average clique similarity": 0.1803451502710939,
+        "clique": [
+            "1-NBC is broadcasting ",
+            "2-And Rio is no strang",
+            "0-In July  asked wheth"
+        ],
+        "median tf-idf score": 0.1603448681456133,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "NBC is broadcasting the Games in Rio.",
+            "And Rio is no stranger to crime.",
+            "In July, asked whether officials had a solution to curb violent crime before the Olympics, Secretary of Public Security Jos\u00e9 Mariano Beltrame responded, \u201cHistorically, unfortunately, that is how Rio de Janeiro is."
+        ],
+        "tf-idf score": [
+            0.1603448681456133,
+            0.1321121278371007,
+            0.40730756879261315
+        ]
+    },
+    "0.18111531867279815-3-63": {
+        "average clique similarity": 0.18111531867279815,
+        "clique": [
+            "1-Lochte s harrowing a",
+            "4-Shortly after 9am  i",
+            "2-When news of the rob"
+        ],
+        "median tf-idf score": 0.7419353421328313,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "Lochte\u2019s harrowing account, Initial reports regarding the robbery were confusing, with an International Olympic Committee spokesman first claiming the reports were \u201dabsolutely not true\u201d at a press conference Sunday.",
+            "Shortly after 9am, initial reports of Lochte being held at gunpoint begin to surface, with his mother, Ileana Lochte telling USA Today he had called her immediately after the incident.",
+            "When news of the robbery broke, the first reports came from USA Today and Fox Sports Australia and cited Lochte\u2019s mother, whose story about her son\u2019s robbery preceded Lochte\u2019s interview with NBC\u2019s Bush by about two hours."
+        ],
+        "tf-idf score": [
+            0.7419353421328313,
+            0.5517064460888982,
+            0.7470304248535191
+        ]
+    },
+    "0.181278854205659-3-401": {
+        "average clique similarity": 0.181278854205659,
+        "clique": [
+            "1- He sat for a victim",
+            "0-He has also said tha",
+            "3- He said   That s ab"
+        ],
+        "median tf-idf score": 0.6598343587282646,
+        "publications": [
+            "Fox News",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dHe sat for a victim interview with the Brazilian Tourist Police, USOC Security, State Department, FBI, and anyone else that the Brazilian authorities requested to be present,\u201d he said.",
+            "He has also said that he did not feel that Brazilian authorities questioned their story, and that some police even congratulated them on their swims at the Olympics.",
+            "\u201dHe said, \u2019That\u2019s absolutely not the case."
+        ],
+        "tf-idf score": [
+            0.6598343587282646,
+            0.6814938590893294,
+            0.20421857385240302
+        ]
+    },
+    "0.19728093062443186-3-18": {
+        "average clique similarity": 0.19728093062443186,
+        "clique": [
+            "4-Posts on his Snapcha",
+            "2-At the London Olympi",
+            "0-  Lochte s father  S"
+        ],
+        "median tf-idf score": 0.5503931377135995,
+        "publications": [
+            "Guardian",
+            "Breitbart",
+            "Vox"
+        ],
+        "sentences": [
+            "Posts on his Snapchat account and a phone call to his father, Steve Lochte, confirm his arrival.",
+            "At the London Olympic Games in 2012, there was a report of Lochte swigging $800 tequila, with photos that show his eyes struggling to stay open and the muscles in his face relaxed to the point where they\u2019re seemingly down to his knees.",
+            "\u201d Lochte\u2019s father, Steve, confirmed to the Associated Press that his son is safe at home, and expressed frustration with the antagonistic coverage of his robbery."
+        ],
+        "tf-idf score": [
+            0.41121586774520014,
+            0.6879960449423211,
+            0.5503931377135995
+        ]
+    },
+    "0.19895597965177636-3-441": {
+        "average clique similarity": 0.19895597965177636,
+        "clique": [
+            "1-The video appears to",
+            "5-But police have had ",
+            "2-Citing an account fr"
+        ],
+        "median tf-idf score": 1.1014789538898477,
+        "publications": [
+            "Vox",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "The video appears to show the four swimmers returning to the Olympic Village looking relatively relaxed, and in possession of   items that might be expected to have been taken in an armed robbery.",
+            "But police have had trouble verifying that version of events  \u2014   and a video recently emerged that purportedly shows Lochte and his fellow swimmers returning to the athletes\u2019 village on the night in question, passing through a security checkpoint where a surveillance camera filmed their movements.",
+            "Citing an account from a Brazilian police official, it appears that video shows Lochte and his teammates damaging a bathroom door and then having an argument about it with a manager and security guard:  At the gas station, which is in Barra da Tijuca, on the route to the athletes\u2019 village, the swimmers went to the bathroom."
+        ],
+        "tf-idf score": [
+            0.5326077048571202,
+            1.1014789538898477,
+            1.2972696663874819
+        ]
+    },
+    "0.20779447927030328-4-59": {
+        "average clique similarity": 0.20779447927030328,
+        "clique": [
+            "1-But Lochte  one of s",
+            "5-Lochte s attorney  J",
+            "0-Ryan Lochte s attorn",
+            "4-Later that day  the "
+        ],
+        "median tf-idf score": 0.7908456071014129,
+        "publications": [
+            "Guardian",
+            "Breitbart",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "But Lochte, one of swimming\u2019s biggest stars, has already returned to the United States, his attorney Jeff Ostrow told CNN Ostrow said Lochte, a gold medal winner in Rio, had \u201dfully cooperated with the Brazilian authorities while in Rio\u201d.",
+            "Lochte\u2019s attorney, Jeffrey M Ostrow, tells NPR that the decorated swimmer is already back in the United States.",
+            "Ryan Lochte\u2019s attorney and father are both standing by his story of being robbed alongside three other U S Olympic swimmers in Brazil Saturday night, with attorney Jeff Ostrow clarifying that Brazilian officials never told Lochte he could not return home before attempting to seize his passport.",
+            "Later that day, the swimmer and his lawyer, Jeff Ostrow, meet with USA Today recalling the incident."
+        ],
+        "tf-idf score": [
+            1.0055950290085611,
+            0.5760961851942649,
+            1.167273276801396,
+            0.3275791012636673
+        ]
+    },
+    "0.20856200790004575-3-230": {
+        "average clique similarity": 0.20856200790004575,
+        "clique": [
+            "0-Police have not yet ",
+            "1-Police say they have",
+            "2-The New York Times a"
+        ],
+        "median tf-idf score": 0.3841566844563828,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Police have not yet found the driver of the taxi they had taken when were robbed and appear to be following no leads regarding the identity of the robbers.",
+            "Police say they have asked the driver to come forward.",
+            "The New York Times adds that Brazilian investigators have not found any evidence to support the swimmers\u2019 claims, nor have they been able to find the taxicab driver whose cab was allegedly pulled over (the swimmers said they couldn\u2019t remember the make or model of their taxi)."
+        ],
+        "tf-idf score": [
+            0.3841566844563828,
+            0.28431283095560944,
+            0.8297238336864928
+        ]
+    },
+    "0.2152014278016714-3-151": {
+        "average clique similarity": 0.2152014278016714,
+        "clique": [
+            "2-Someone at the gas s",
+            "1-She said that after ",
+            "3-Police said the athl"
+        ],
+        "median tf-idf score": 0.6260229925028408,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Someone at the gas station called the police, but by the time a police car arrived at the scene, the swimmers were gone.",
+            "She said that after Lochte\u2019s statement to police, the three other swimmers were asked to present themselves at the police station to give their accounts.",
+            "Police said the athletes ultimately gave money    \u201dvoluntarily\u201d    to the owner of the gas station to repair the alleged damages."
+        ],
+        "tf-idf score": [
+            0.4786377826582949,
+            0.9281214764939962,
+            0.6260229925028408
+        ]
+    },
+    "0.22330815134771353-3-370": {
+        "average clique similarity": 0.22330815134771353,
+        "clique": [
+            "2-Adams said the Unite",
+            "1-Lochte compared the ",
+            "4-From the Associated "
+        ],
+        "median tf-idf score": 1.0815541591483435,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "Adams said the United States Olympic Committee told him it spoke to Lochte and Lochte said the robbery story was not true.",
+            "Lochte compared the way police questioned him to a time in the United States when he talked with police after being robbed, Lauer said.",
+            "From the Associated Press: According to statements from Lochte and the United States Olympic Committee, the swimmers were returning to the athletes village by taxi after a night out at the French Olympic team\u2019s hospitality house in the Rodrigo de Freitas area in the upscale south zone of the city."
+        ],
+        "tf-idf score": [
+            1.0892186929558656,
+            0.8427196539361168,
+            1.0815541591483435
+        ]
+    },
+    "0.22341561395632645-3-83": {
+        "average clique similarity": 0.22341561395632645,
+        "clique": [
+            "0-   They had gone to ",
+            "2-It s now become clea",
+            "3-At a press conferenc"
+        ],
+        "median tf-idf score": 0.716082891160876,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201d \u201cThey had gone to the bathroom in a gas station.",
+            "It\u2019s now become clear that Lochte fabricated the story, to cover up a fight he may have had with a security guard while trying to use a gas station restroom:     #BREAKING Brazilian authorities tell @ABC video shows \u201dUS swimmer\u201d \u201dbreaking down\u201d gas station restroom door \u201dfighting\u201d   security guard\r  \u2014   Matt Gutman (@mattgutmanABC) August 18, 2016  That\u2019s where our story begins.",
+            "At a press conference earlier Thursday, Rio police used security camera footage to claim that the athletes were not robbed, but had vandalized a gas station bathroom."
+        ],
+        "tf-idf score": [
+            0.12919266617002195,
+            1.0946009811517559,
+            0.716082891160876
+        ]
+    },
+    "0.23135366175198793-3-291": {
+        "average clique similarity": 0.23135366175198793,
+        "clique": [
+            "3-Police interviewed L",
+            "0-They got back to the",
+            "1-Civil police say the"
+        ],
+        "median tf-idf score": 0.6508664426357528,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "Police interviewed Lochte and Feigen, who said they had been intoxicated and could not remember what type and color of taxi they rode in or where the robbery happened, the police official said.",
+            "They got back to the taxi, and when they told the taxi driver to go, he didn\u2019t move,\u201d Lauer said Lochte told him.",
+            "Civil police say they are still looking for the taxi driver the athletes say they were with when they were robbed."
+        ],
+        "tf-idf score": [
+            0.9343748523267613,
+            0.6508664426357528,
+            0.4464084713615003
+        ]
+    },
+    "0.23267220806615582-3-276": {
+        "average clique similarity": 0.23267220806615582,
+        "clique": [
+            "3-   But the group did",
+            "0-They have not spoken",
+            "4-According to authori"
+        ],
+        "median tf-idf score": 0.7308146000682444,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u2019\u201d But the group did not call police, authorities said, and officers began investigating once they saw media reports in which Lochte\u2019s mother spoke about the robbery.",
+            "They have not spoken to the media about their version of events.",
+            "According to authorities, the swimmers did not call the police after the incident and it was only after reading media stories that the officers pursued investigated."
+        ],
+        "tf-idf score": [
+            0.9406908322806594,
+            0.062276958675232405,
+            0.7308146000682444
+        ]
+    },
+    "0.23276171144740107-4-349": {
+        "average clique similarity": 0.23276171144740107,
+        "clique": [
+            "3-  Police in Rio de J",
+            "4-A Brazilian judge or",
+            "1-A Brazilian judge ha",
+            "5-Police visited the a"
+        ],
+        "median tf-idf score": 1.1972559116237225,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "  Police in Rio de Janeiro Thursday indicted U S Olympic swimmers Ryan Lochte and James Feigen for falsely reporting a crime, the latest twist in a bizarre case that has overshadowed the final week of the Summer Games.",
+            "A Brazilian judge orders the seizure of Lochte\u2019s and James Feigen\u2019s passports as doubts in the story develop.",
+            "A Brazilian judge has issued a search and seizure warrant for US Olympic swimmer Ryan Lochte and teammate James Feigen as questions emerge about their account of being robbed at gunpoint early Sunday in Rio de Janeiro.",
+            "Police visited the athletes\u2019 village in Rio Wednesday, hoping to seize the passports of Ryan Lochte and James Feigen as part of an inquiry into Lochte\u2019s report that he was the victim of a robbery  \u2014   a crime that has since been called into question."
+        ],
+        "tf-idf score": [
+            1.16844027854245,
+            0.6601431354315205,
+            1.2260715447049948,
+            1.3735508661267521
+        ]
+    },
+    "0.23545257793031546-4-536": {
+        "average clique similarity": 0.23545257793031546,
+        "clique": [
+            "3-Conger and Bentz wer",
+            "1-Both Bentz and Conge",
+            "5-A remaining question",
+            "2-That s what led to C"
+        ],
+        "median tf-idf score": 0.294615564963978,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Conger and Bentz were not indicted because they did not speak to police until Wednesday, when they were pulled off a flight bound for the United States by authorities, and never claimed they had been robbed.",
+            "Both Bentz and Conger were taken off a plane for questioning as they were preparing to leave Rio.",
+            "A remaining question regards the whereabouts of Feigen  \u2014   he reportedly checked into the same flight as Bentz and Conger, but he did not board the plane.",
+            "That\u2019s what led to Conger and Bentz being pulled off their flight."
+        ],
+        "tf-idf score": [
+            0.5974785358856184,
+            0.26843150218027256,
+            0.32079962774768345,
+            0.1882834796615312
+        ]
+    },
+    "0.23900443757164544-3-251": {
+        "average clique similarity": 0.23900443757164544,
+        "clique": [
+            "2-The Daily Mail obtai",
+            "3-Lochte originally cl",
+            "4-Meanwhile  the Daily"
+        ],
+        "median tf-idf score": 0.7137858224947318,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "The Daily Mail obtained security surveillance video that shows Lochte and his teammates returning to the Olympic Village after allegedly getting robbed.",
+            "Lochte originally claimed that he, Feigen and teammates Jack Conger and Gunnar Bentz were robbed at gunpoint early Sunday morning.",
+            "Meanwhile, the Daily Mail releases video footage of the swimmers returning to the village early on Sunday morning."
+        ],
+        "tf-idf score": [
+            0.755437285765224,
+            0.7137858224947318,
+            0.39869956635275733
+        ]
+    },
+    "0.2393771760781601-3-617": {
+        "average clique similarity": 0.2393771760781601,
+        "clique": [
+            "2-    Ben Rumsby   ben",
+            "0- He said   let s go ",
+            "3-Lochte told USA Toda"
+        ],
+        "median tf-idf score": 0.6365112354176332,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u2014   Ben Rumsby (@ben_rumsby) August 14, 2016     Ryan then backtracked on that initial denial, and said he didn\u2019t call police because he said he was afraid he would get into trouble.",
+            "\u201cHe said, \u2018let\u2019s go,\u2019 again, \u2018we\u2019ve got to get out of here.\u2019 And again the taxi driver didn\u2019t move, and that\u2019s when he says two men approached the car with guns and badges, told them to get out, to get on the ground.",
+            "Lochte told USA Today that he and his teammates didn\u2019t initially tell U S Olympic officials about the robbery \u201dbecause we were afraid we\u2019d get in trouble\u201d."
+        ],
+        "tf-idf score": [
+            0.6365112354176332,
+            0.5611478213957215,
+            0.714602887860647
+        ]
+    },
+    "0.2475059268212055-3-57": {
+        "average clique similarity": 0.2475059268212055,
+        "clique": [
+            "5-He added   what is m",
+            "2-What if everything w",
+            "0-I don t know what al"
+        ],
+        "median tf-idf score": 0.20961022948751912,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "He added, \u201dwhat is most important is that we are safe and unharmed\u201d.",
+            "What if everything we think we know about Ryan Lochte\u2019s partying is a fraud?",
+            "I don\u2019t know what all the controversy is,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.054072924339752734,
+            0.38021621672863215,
+            0.20961022948751912
+        ]
+    },
+    "0.2507384802174677-3-293": {
+        "average clique similarity": 0.2507384802174677,
+        "clique": [
+            "0-Officials say Lochte",
+            "2-There were a few of ",
+            "4-There were a few of "
+        ],
+        "median tf-idf score": 0.4059967640392417,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "Officials say Lochte and Feigen were inebriated and their stories unclear  \u2014   while Lochte said a man with a gun approached them, Feigen said a group of robbers assaulted them, though only one possessed a gun.",
+            "There were a few of them,\u201d Ileana Lochte told USA Today.",
+            "There were a few of them,\u201d she tells the paper."
+        ],
+        "tf-idf score": [
+            0.884061198347597,
+            0.4059967640392417,
+            0.029559118365854918
+        ]
+    },
+    "0.25321097562700895-4-385": {
+        "average clique similarity": 0.25321097562700895,
+        "clique": [
+            "2-According to Lochte ",
+            "5-Update at 10 30 p  m",
+            "1-  CNN  Breaking news",
+            "0-Brazilian news sourc"
+        ],
+        "median tf-idf score": 1.1272027187803206,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "According to Lochte, he and his swimming teammates Jack Conger, Gunnar Bentz, and James Feigen were returning to the Olympic Village early on Sunday, August 14, when they were mugged.",
+            "Update at 10:30 p. m. ET: 2 American Swimmers Detained, Gunnar Bentz and Jack Conger, who were with Ryan Lochte last weekend when their group reportedly suffered a robbery, are now speaking to police, the U S Olympic Committee has confirmed.",
+            " (CNN)[Breaking news update at 1:47 a. m. ET] For the latest updates on the Ryan Lochte fallout, follow CNN\u2019s developing story here, American swimmers Gunnar Bentz and Jack Conger were ordered not to leave Brazil until they give a statement to police about a reported incident in which they and two other US swimmers say they were robbed, an attorney for Bentz and Conger said.",
+            "Brazilian news sources say video exists showing U S swimmers Ryan Lochte, James Feigen, Gunnar Bentz, and Jack Conger engaged in a drunken altercation at a gas station."
+        ],
+        "tf-idf score": [
+            0.8777258378998011,
+            1.2144736588794212,
+            1.4649852028164898,
+            1.0399317786812199
+        ]
+    },
+    "0.25924279294496444-3-624": {
+        "average clique similarity": 0.25924279294496444,
+        "clique": [
+            "3-NBC reported Wednesd",
+            "0-NBC s Matt Lauer sai",
+            "1-Lochte said he would"
+        ],
+        "median tf-idf score": 0.7157828986621795,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Fox News"
+        ],
+        "sentences": [
+            "NBC reported Wednesday night that Lochte backed off some of his earlier claims about the robbery.",
+            "NBC\u2019s Matt Lauer said Thursday he had spoken to Lochte, however, and said that, save for some minor details, Lochte \u201cstuck to most of the story.",
+            "Lochte said he wouldn\u2019t make up a story like this, NBC\u2019s Matt Lauer reported Wednesday night."
+        ],
+        "tf-idf score": [
+            0.5621450639009657,
+            0.7157828986621795,
+            0.8366199247993779
+        ]
+    },
+    "0.2994593705410887-3-181": {
+        "average clique similarity": 0.2994593705410887,
+        "clique": [
+            "4-  Almost simultaneou",
+            "5-As for where the swi",
+            "1-Lochte  Feigen  Bent"
+        ],
+        "median tf-idf score": 1.2399527951172837,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d Almost simultaneously, the US Olympic Committee release their own statement, this time mentioning the other three members who were with Lochte on the night in question: According to four members of the U S Olympic Swimming Team (Gunnar Bentz, Jack Conger, Jimmy Feigen and Ryan Lochte) they left France House early Sunday morning in a taxi headed for the Olympic Village.",
+            "As for where the swimmers are now, the U S Olympic Committee says Lochte and Feigen left the Olympic Village along with the rest of the swim team, following the end of their competitions in Rio.",
+            "Lochte, Feigen, Bentz and Conger reported being robbed at gunpoint early Sunday in a taxi bound for the Olympic Village by individuals posing as armed police officers, the US Olympic Committee said Sunday."
+        ],
+        "tf-idf score": [
+            1.2399527951172837,
+            0.9525889587921457,
+            1.3176432218958023
+        ]
+    },
+    "0.31019417855770065-3-642": {
+        "average clique similarity": 0.31019417855770065,
+        "clique": [
+            "2- I think they re all",
+            "3-I think his comments",
+            "4- I think they re all"
+        ],
+        "median tf-idf score": 0.03303962628193892,
+        "publications": [
+            "Vox",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201dI think they\u2019re all shaken up.",
+            "I think his comments merit that response\u201d.",
+            "\u201cI think they\u2019re all shaken up."
+        ],
+        "tf-idf score": [
+            0.03303962628193892,
+            0.03636006108911675,
+            0.03303962628193892
+        ]
+    },
+    "0.31213206421676226-3-102": {
+        "average clique similarity": 0.31213206421676226,
+        "clique": [
+            "0-Feigen  Bentz  and C",
+            "2-On Wednesday  Brazil",
+            "1-Two other swimmers  "
+        ],
+        "median tf-idf score": 0.8965546953056053,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Feigen, Bentz, and Conger were all forcibly removed from flights home on Wednesday night, their passports seized.",
+            "On Wednesday, Brazilian police removed two American swimmers from their flight home to the US, because they were allegedly involved in Lochte\u2019s story.",
+            "Two other swimmers, Jack Conger and Gunnar Bentz, were removed by Brazilian authorities on Wednesday night from their flight before it departed Rio de Janeiro to the United States, US Olympic Committee spokesman Patrick Sandusky told CNN Sports contributor Christine Brennan."
+        ],
+        "tf-idf score": [
+            0.3463012507756563,
+            0.8965546953056053,
+            0.9598794143822246
+        ]
+    },
+    "0.3427533529785193-5-335": {
+        "average clique similarity": 0.3427533529785193,
+        "clique": [
+            "1-Lochte told Lauer on",
+            "4-When he first descri",
+            "3-Lochte also said the",
+            "0-  Lochte also said h",
+            "2-On Wednesday  he tol"
+        ],
+        "median tf-idf score": 0.5803571375488547,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Vox",
+            "Breitbart",
+            "Guardian"
+        ],
+        "sentences": [
+            "Lochte told Lauer on Wednesday, however, that the gunman pointed the gun at him, but it wasn\u2019t against his head.",
+            "When he first described the incident, Lochte recalled the robber pressing the gun against his head but now he changes his story, saying he only pointed the weapon at him.",
+            "Lochte also said the assailant pointed a gun at him rather than putting it to his head.",
+            "\u201d Lochte also said he did not have a gun physically touching his forehead, though the gun was pointed at him.",
+            "On Wednesday, he told NBC\u2019s Matt Lauer via phone that the robber who put the gun to his head (and \u201dwhatever\u201d) didn\u2019t actually put the gun to his head but only pointed it in his direction."
+        ],
+        "tf-idf score": [
+            0.5158126046910636,
+            0.6275395459636127,
+            0.5803571375488547,
+            0.7365245739706519,
+            0.33298927416084523
+        ]
+    },
+    "0.3724455780839337-3-144": {
+        "average clique similarity": 0.3724455780839337,
+        "clique": [
+            "1-Feigen is believed t",
+            "3-Feigen was believed ",
+            "2-A third teammate who"
+        ],
+        "median tf-idf score": 0.3567098013509232,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "Feigen is believed to still be in Brazil.",
+            "Feigen was believed to still be in Rio, though his exact whereabouts were not known.",
+            "A third teammate who was said to be involved is also still in Rio."
+        ],
+        "tf-idf score": [
+            0.11014291854522827,
+            0.3567098013509232,
+            0.4764363783204256
+        ]
+    },
+    "0.402482004728873-3-642": {
+        "average clique similarity": 0.402482004728873,
+        "clique": [
+            "3-I wouldn t make up a",
+            "4-The swimmer says tha",
+            "2-Ryan Lochte s story "
+        ],
+        "median tf-idf score": 0.3298904462142134,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "I wouldn\u2019t make up a story like this, nor would the others.",
+            "The swimmer says that he \u201cwouldn\u2019t make up a story like this, nor would the others\u201d.",
+            "Ryan Lochte\u2019s story doesn\u2019t make much sense Lochte\u2019s robbery story, like perhaps many of the stories he\u2019s accumulated in the 32 years he\u2019s been alive, begins with a Saturday night party and ends on Sunday morning."
+        ],
+        "tf-idf score": [
+            0.16963504791490625,
+            0.3298904462142134,
+            0.7538102240180355
+        ]
+    },
+    "0.42003638107185876-4-642": {
+        "average clique similarity": 0.42003638107185876,
+        "clique": [
+            "3-He now says the taxi",
+            "1- We got pulled over ",
+            "4- We got pulled over ",
+            "2-Lochte told NBC s Bi"
+        ],
+        "median tf-idf score": 0.6279273095219633,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "He now says the taxi wasn\u2019t pulled over by men with a badge, but that they were robbed after stopping at a gas station, NBC reported.",
+            "\u201dWe got pulled over, in the taxi, and these guys came out with a police badge, no lights, no nothing    just a police badge and they pulled us over,\u201d he said.",
+            "\u201cWe got pulled over, in the taxi, and these guys came out with a badge, a police badge, no lights, no nothing just a police badge and they pulled us over,\u201d the    swimmer told NBC\u2019s Today show.",
+            "Lochte told NBC\u2019s Billy Bush:  We got pulled over, in the taxi, and these guys came out with a badge, a police badge, no lights, no nothing just a police badge and they pulled us over   \u2026     They pulled out their guns, they told the other swimmers to get down on the ground  \u2014   they got down on the ground."
+        ],
+        "tf-idf score": [
+            0.4317831859621672,
+            0.5920095341453038,
+            0.6638450848986229,
+            1.0336055909419786
+        ]
+    },
+    "0.4521709152531022-3-265": {
+        "average clique similarity": 0.4521709152531022,
+        "clique": [
+            "4- They just took thei",
+            "0- I m just happy he s",
+            "2- No  they were just "
+        ],
+        "median tf-idf score": 0.21226436546958297,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cThey just took their wallets and basically that was it.",
+            "\u201cI\u2019m just happy he\u2019s safe.",
+            "\u201dNo, they were just, they just took their wallets and basically that was it\u201d."
+        ],
+        "tf-idf score": [
+            0.21226436546958297,
+            0.035783281308782944,
+            0.21226436546958297
+        ]
+    },
+    "0.5823395007913614-4-112": {
+        "average clique similarity": 0.5823395007913614,
+        "clique": [
+            "5-We re not certain wh",
+            "2-I refused  I was lik",
+            "1-I refused  I was lik",
+            "4-I refused  I was lik"
+        ],
+        "median tf-idf score": 0.275429710276501,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "We\u2019re not certain where Feigen is today the USOC cites its standard security protocol in saying, \u201dWe do not make athlete travel plans public and therefore cannot confirm the athletes\u2019 current location\u201d.",
+            "I refused, I was like we didn\u2019t do anything wrong, so  \u2014   I\u2019m not getting down on the ground.",
+            "I refused, I was like we didn\u2019t do anything wrong, so    I\u2019m not getting down on the ground.",
+            "I refused, I was like we didn\u2019t do anything wrong, so I\u2019m not getting down on the ground."
+        ],
+        "tf-idf score": [
+            0.37767153128495734,
+            0.275429710276501,
+            0.275429710276501,
+            0.275429710276501
+        ]
+    },
+    "0.5914138716335331-4-439": {
+        "average clique similarity": 0.5914138716335331,
+        "clique": [
+            "1- They pulled out the",
+            "5-But a close viewing ",
+            "3- They pulled out the",
+            "4- They pulled out the"
+        ],
+        "median tf-idf score": 0.37097327181690853,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201dThey pulled out their guns, they told the other swimmers to get down on the ground    they got down on the ground.",
+            "But a close viewing of the video shows that Lochte and his friends were wearing their watches when they returned  \u2014   and that they put their cellphones and other belongings into baskets at the security gate.",
+            "\u201dThey pulled out their guns, they told the other swimmers to get down on the ground  \u2014   they got down on the ground.",
+            "\u201cThey pulled out their guns, they told the other swimmers to get down on the ground  \u2014   they got down on the ground."
+        ],
+        "tf-idf score": [
+            0.37097327181690853,
+            0.5144962545044449,
+            0.37097327181690853,
+            0.37097327181690853
+        ]
+    },
+    "0.8088321010291644-5-177": {
+        "average clique similarity": 0.8088321010291644,
+        "clique": [
+            "1- And then the guy pu",
+            "5-As you might recall ",
+            "3- And then the guy pu",
+            "2-And then the guy pul",
+            "4-And then the guy pul"
+        ],
+        "median tf-idf score": 0.7358348034554723,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Fox News",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201dAnd then the guy pulled out his gun, he cocked it, put it to my forehead and he said, \u2019Get down,\u2019 and I put my hands up, I was like \u2019whatever.\u2019 He took our money, he took my wallet    he left my cell phone, he left my credentials\u201d.",
+            "As you might recall, Lochte\u2019s description included this line: \u201dI put my hands up, I was like \u2019whatever.\u2019 He took our money, he took my wallet  \u2014   he left my cellphone, he left my credentials\u201d.",
+            "\u201dAnd then the guy pulled out his gun, he cocked it, put it to my forehead and he said, \u2019Get down,\u2019 and I put my hands up, I was like \u2019whatever.\u2019 He took our money, he took my wallet  \u2014   he left my cellphone, he left my credentials\u201d.",
+            "And then the guy pulled out his gun, he cocked it, put it to my forehead and he said, \u2019Get down,\u2019 and I put my hands up, I was like \u2019whatever.\u2019 He took our money, he took my wallet  \u2014   he left my cell phone, he left my credentials.",
+            "And then the guy pulled out his gun, he cocked it, put it to my forehead and he said: \u2018Get down,\u2019 and I put my hands up, I was like \u2018whatever\u2019."
+        ],
+        "tf-idf score": [
+            0.7358348034554723,
+            0.6994913190224368,
+            0.7390013193567614,
+            0.7358348034554723,
+            0.5748263740341503
+        ]
+    }
+}

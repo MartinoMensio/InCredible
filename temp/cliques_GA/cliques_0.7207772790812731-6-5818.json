@@ -1,0 +1,370 @@
+{
+    "0.15179063952857372-3-103": {
+        "average clique similarity": 0.15179063952857372,
+        "clique": [
+            "5-Since 2011 the bank ",
+            "1-This time  there wer",
+            "4-In some cases  the c"
+        ],
+        "median tf-idf score": 0.6277288287065853,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Since 2011 the bank fired more than 5, 300 employees for opening more than 2m accounts without customers' permission. The former employees opened these unauthorized accounts to meet the sales quotas imposed by the company.",
+            "This time, there were no exotic financial instruments, complicated trades or complex mortgage trickery. The bank's misdeeds were fundamentally simple: Under intense pressure to meet aggressive sales goals, employees created sham accounts using the names  --   and sometimes, the actual money  --   of the bank's real customers.",
+            "In some cases, the customers were charged various fees for accounts they did not know existed. In others, bank employees would take money from authorized accounts to gain credit for setting up fake ones."
+        ],
+        "tf-idf score": [
+            0.6277288287065853,
+            0.6617341111205554,
+            0.4609702900312954
+        ]
+    },
+    "0.16035398201730736-3-68": {
+        "average clique similarity": 0.16035398201730736,
+        "clique": [
+            "5-As of 1 October  Wel",
+            "1-Wells Fargo was once",
+            "2- Wells Fargo CEO Joh"
+        ],
+        "median tf-idf score": 0.887548046631145,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "As of 1 October, Wells Fargo has terminated the practice of setting sales quotas in its retail banking.",
+            "Wells Fargo was once the most valuable bank as measured by the price of its stock, which attracted the billionaire Warren E Buffett as its largest shareholder. Mr Buffett's company, Berkshire Hathaway, has a stake of about 10 percent.",
+            " Wells Fargo CEO John Stumpf will leave the company immediately, as the bank grapples with a scandal over its   sales tactics and fraudulent behavior by its staff."
+        ],
+        "tf-idf score": [
+            0.48823777905338966,
+            0.887548046631145,
+            1.0219856737044788
+        ]
+    },
+    "0.1782735709386859-3-44": {
+        "average clique similarity": 0.1782735709386859,
+        "clique": [
+            "1-He was reminded that",
+            "2-In a statement  Well",
+            "3-In a statement  Well"
+        ],
+        "median tf-idf score": 0.9715252763240854,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "He was reminded that he was the board's chairman. One senator on the banking committee noted that criticism of the Wells Fargo scandal was one of the few things that Democrats and Republicans had agreed on in a long time.",
+            "In a statement, Wells Fargo said Stumpf was retiring, and that he believed \"new leadership at this time is appropriate to guide Wells Fargo through its current challenges. \"",
+            "In a statement, Wells Fargo Lead Director Stephen Sanger said: \"John Stumpf has dedicated his professional life to banking, successfully leading Wells Fargo through the financial crisis and the largest merger in banking history, and helping to create one of the strongest and most   financial services companies in the world."
+        ],
+        "tf-idf score": [
+            0.7070771377064999,
+            0.9715252763240854,
+            1.1858504376006693
+        ]
+    },
+    "0.18209552911074633-3-31": {
+        "average clique similarity": 0.18209552911074633,
+        "clique": [
+            "3-The bank s board alr",
+            "1-When pressed repeate",
+            "4-But that has not bee"
+        ],
+        "median tf-idf score": 0.8070487159348088,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The bank's board already had sought to discipline Stumpf by requiring him to forfeit $41 million in unvested equity.",
+            "When pressed repeatedly by members of the Senate Banking Committee about why he had not given back any of his lavish compensation, Mr Stumpf insisted that the decision was not up to him, but to the bank's board.",
+            "But that has not been enough for regulators and lawmakers, including Sen. Elizabeth Warren ( .) who called on him to resign. Stumpf went as far as pledging to give up $41 million in compensation to account for the scandal, but his overture did little to quiet critics."
+        ],
+        "tf-idf score": [
+            0.6320188158484531,
+            0.8822702003890889,
+            0.8070487159348088
+        ]
+    },
+    "0.1876316175321494-3-9": {
+        "average clique similarity": 0.1876316175321494,
+        "clique": [
+            "0- Based on his duck  ",
+            "1-In an interview  Mr ",
+            "4-     Elizabeth Warre"
+        ],
+        "median tf-idf score": 0.8116623443289506,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"Based on his duck, dodge, and deny performance in the wake of admissions that his bank had fleeced legions of its own customers, he was not  --   and would never be  --   the change agent leader Wells Fargo so desperately needs,\" Chiang said in the statement.",
+            "In an interview, Mr Sloan said Mr Stumpf had told him of his decision to retire after concluding that he would most likely continue to be the focus of much of the criticism being leveled at the bank.",
+            "--   Elizabeth Warren (@SenWarren) October 12, 2016   In an interview, Sloan said he was confident that he would be successful in his new role."
+        ],
+        "tf-idf score": [
+            0.8463321339244247,
+            0.8116623443289506,
+            0.5174372911738726
+        ]
+    },
+    "0.19092062640278884-3-117": {
+        "average clique similarity": 0.19092062640278884,
+        "clique": [
+            "0-But as the former CF",
+            "4- He did the right th",
+            "5- For our company  I "
+        ],
+        "median tf-idf score": 0.6311552383291648,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But as the former CFO, and president and COO of the company since November, he has been responsible for the entire company, including the retail bank at the heart of the scandal. Carrie Tolstedt, the woman who ran the retail division when the misconduct occurred, reported to Sloan from November of last year.",
+            "\"He did the right thing for Wells Fargo by putting the company first and himself second. \" \"I wish the transition was happening\" under different circumstances, Sloan added. \"I am going to do the right thing by repairing the reputation of the company. \"",
+            "\"For our company, I believe we have the right structure. I serve at the will of the board and the board can make a decision about that,\" Stumpf said at the time."
+        ],
+        "tf-idf score": [
+            0.7125979761102162,
+            0.6311552383291648,
+            0.6100126547060238
+        ]
+    },
+    "0.2095394907911232-3-128": {
+        "average clique similarity": 0.2095394907911232,
+        "clique": [
+            "2-Stumpf was savaged b",
+            "4-That didn t help him",
+            "0-Stumpf was summoned "
+        ],
+        "median tf-idf score": 0.8254959865123721,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Stumpf was savaged by Elizabeth Warren in a congressional hearing last month, with the Senator criticizing his \"gutless\" and calling for him to take responsibility for the thousands of Wells Fargo sales representatives that had illegally opened customer accounts without their authorization.",
+            "That didn't help him during two congressional hearings last month in which lawmakers pummeled him for hours over the scandal. Several lawmakers called for Stumpf to step down and others said he should be criminally prosecuted.",
+            "Stumpf was summoned before the U S Senate and faced calls for his resignation after repeatedly deferring responsibility to low level workers and   authority to his board of directors. Massachusetts Senator Elizabeth Warren called him a \"gutless leader\" who \"should be criminally investigated\"."
+        ],
+        "tf-idf score": [
+            1.2032951061733288,
+            0.6274930409750427,
+            0.8254959865123721
+        ]
+    },
+    "0.21286677816440816-3-60": {
+        "average clique similarity": 0.21286677816440816,
+        "clique": [
+            "4-Sloan is a   veteran",
+            "0-The new CEO will als",
+            "5-Sloan  who has been "
+        ],
+        "median tf-idf score": 0.9471714634803107,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "Sloan is a   veteran of the company and currently serves as president and chief operating officer. He also worked closely with with Carrie Tolstedt, who led the bank's community banking unit where the misconduct occurred. Lawmakers were critical of Wells Fargo for not firing Tolstedt and allowing her to retire with millions in salary and bonuses.",
+            "The new CEO will also contend with ongoing regulatory investigations and private litigation. The departure is a stunning reversal of fortune for Stumpf, who successfully navigated Wells through the financial crisis and built it into the world's most valuable bank with a focus on Main   lending that was the envy of Wall Street.",
+            "Sloan, who has been with the bank for 29 years, will retain the title of the president. He was also elected to the bank's board."
+        ],
+        "tf-idf score": [
+            0.9471714634803107,
+            0.9675203590414854,
+            0.624122685073423
+        ]
+    },
+    "0.2701559208641851-3-139": {
+        "average clique similarity": 0.2701559208641851,
+        "clique": [
+            "3-In September  the ba",
+            "1-Wells Fargo has been",
+            "4-Stumpf s downfall be"
+        ],
+        "median tf-idf score": 1.0624536379947518,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In September, the bank agreed to pay $185 million to settle charges that it had opened as many as 2 million accounts without the knowledge or approval of customers.",
+            "Wells Fargo has been under fire from irate customers, regulators, lawmakers and former employees since last month, when it disclosed that it would pay $185 million in fines and penalties over the unauthorized creation of as many as two million bank and credit card accounts over a period of at least five years by branch employees who were said to be under intense pressure to hit ambitious product sales goals. The sales practices may reach back far longer.",
+            "Stumpf's downfall began in early September when Wells Fargo was fined $185 million by regulators after it discovered that thousands of employees were setting up unauthorized accounts, including credit cards and checking accounts, customers had not requested."
+        ],
+        "tf-idf score": [
+            0.5133808354316117,
+            1.1777784046263977,
+            1.0624536379947518
+        ]
+    },
+    "0.29285257997771164-5-189": {
+        "average clique similarity": 0.29285257997771164,
+        "clique": [
+            "1-The scandal engulfin",
+            "5-Wells Fargo s chief ",
+            "0- Wells Fargo   Co s ",
+            "4-     Wells Fargo ann",
+            "3-The chairman and chi"
+        ],
+        "median tf-idf score": 1.0933181707115016,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Reuters",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "The scandal engulfing Wells Fargo toppled its chairman and chief executive on Wednesday, as John G Stumpf announced his departure from the company, effective immediately.",
+            "Wells Fargo's chief executive and chairman, John Stumpf, is retiring effective immediately from both the bank and the board in the wake of the scandal over its sales practices.",
+            " Wells Fargo & Co's veteran chairman and chief executive officer, John Stumpf, abruptly departed on Wednesday bowing to  pressure over its sales tactics that has damaged the bank's reputation and put Wall Street under renewed scrutiny.",
+            "     Wells Fargo announced Wednesday that its longtime chief executive and chairman, John G Stumpf, is stepping down, the latest turn for the embattled megabank after it admitted that thousands of   employees had set up sham accounts to meet sales quotas.",
+            "The chairman and chief executive of Wells Fargo  Co. John Stumpf, has resigned effective immediately in the aftermath of a scandal over the bank's past practice of secretly selling services to unsuspecting customers."
+        ],
+        "tf-idf score": [
+            0.8830486595789123,
+            1.0933181707115016,
+            1.126972549483431,
+            1.03282920683888,
+            1.1747228424212448
+        ]
+    },
+    "0.3177825251920429-3-97": {
+        "average clique similarity": 0.3177825251920429,
+        "clique": [
+            "5- You should resign  ",
+            "1- As I said at the he",
+            "2- You should resign  "
+        ],
+        "median tf-idf score": 0.7811728174422305,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"You should resign,\" Warren told Stumpf last month. \"You should give back the money that you took while this scam was going on, and you should be criminally investigated by both the Department of Justice and the Securities and Exchange Commission. \"",
+            "\"As I said at the hearing last month, Mr Stumpf should resign, return every nickel he made while this scam was going on, and face an investigation by the Justice Department and S E C ,\" she said.",
+            "\"You should resign,\" Warren told Stumpf in the hearing, which went viral on social media."
+        ],
+        "tf-idf score": [
+            0.7811728174422305,
+            0.8479296869456441,
+            0.4596391716392669
+        ]
+    },
+    "0.328115482401628-3-145": {
+        "average clique similarity": 0.328115482401628,
+        "clique": [
+            "3-Stumpf joined Wells ",
+            "5-Stumpf has been with",
+            "0-The bank is splittin"
+        ],
+        "median tf-idf score": 0.778607375695169,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Stumpf joined Wells Fargo in 1982 and became the bank's CEO in June 2007 and its chairman in January 2010, according to the statement.",
+            "Stumpf has been with the company for 34 years and became CEO in June 2007 and chairman in 2010.",
+            "The bank is splitting the role of chairman and CEO with Stephen Sanger, its lead director, becoming chairman. Stumpf's exit leaves Sloan with a steep challenge in rebuilding its reputation and overhauling its   sales culture without gutting profits."
+        ],
+        "tf-idf score": [
+            0.778607375695169,
+            0.5412499842222825,
+            0.8711958579317425
+        ]
+    },
+    "0.3427233467856469-3-200": {
+        "average clique similarity": 0.3427233467856469,
+        "clique": [
+            "4- We are deeply commi",
+            "2- You should give bac",
+            "0-If you want to move "
+        ],
+        "median tf-idf score": 0.5924007639095039,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"We are deeply committed to serving you and your financial needs, and in those instances, we did not live up to our commitment,\" the email said. \"It's important for you to know that making things right and restoring the faith you have in us is the very top priority for our entire Wells Fargo leadership team,\" the email added. Michelle Williams and Jonnelle Marte contributed to this story.",
+            "\"You should give back the money that you took while this scam was going on, and you should be criminally investigated by both the Department of Justice and the Securities and Exchange Commission. \"",
+            "If you want to move very fast and find someone intimately familiar with the business, you've got to hire an insider,\" said Peter   a business ethics and law professor at University of Pennsylvania's Wharton School of Business. \"If you want to hire someone with unimpeachable integrity, that's going to take time to find,\"   said. Sloan will preside over the bank's   earnings on Friday."
+        ],
+        "tf-idf score": [
+            0.5924007639095039,
+            0.4068545560798916,
+            0.6423743950190733
+        ]
+    },
+    "0.3992017884148758-3-14": {
+        "average clique similarity": 0.3992017884148758,
+        "clique": [
+            "0-San   Wells Fargo sa",
+            "5-Tim Sloan  Wells Far",
+            "4-Tim Sloan  another  "
+        ],
+        "median tf-idf score": 0.8705501107091618,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "San   Wells Fargo said Stumpf, 63, was retiring and would be replaced as chief executive by President and Chief Operating Officer Tim Sloan, 56.",
+            "Tim Sloan, Wells Fargo's president and chief operating officer, will take over as chief executive.",
+            "Tim Sloan, another   Wells Fargo executive, will take over Stumpf's duties as CEO A board member, Stephen Sanger, will now serve as chairman, effectively dividing power that had previously been consolidated under Stumpf. Sanger is the former chief executive of General Mills."
+        ],
+        "tf-idf score": [
+            1.001135318719221,
+            0.4400911998748392,
+            0.8705501107091618
+        ]
+    },
+    "0.5797696707574179-3-84": {
+        "average clique similarity": 0.5797696707574179,
+        "clique": [
+            "1- I am grateful for t",
+            "0- I have decided it i",
+            "4- While I have been d"
+        ],
+        "median tf-idf score": 0.8760915597842549,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"I am grateful for the opportunity to have led Wells Fargo,\" Mr Stumpf said in a written statement. \"While I have been deeply committed and focused on managing the company through this period, I have decided it is best for the company that I step aside. \"",
+            "\"I have decided it is best for the company that I step aside,\" he said in a statement. The bank's shares, which have slumped in the wake of the scandal, rose 2 percent in   trading after the bank announced Stumpf's exit.",
+            "\"While I have been deeply committed and focused on managing the Company through this period, I have decided it is best for the Company that I step aside,\" Stumpf said in a statement."
+        ],
+        "tf-idf score": [
+            0.8966373155206544,
+            0.8760915597842549,
+            0.6111975898602925
+        ]
+    }
+}

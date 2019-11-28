@@ -1,0 +1,450 @@
+{
+    "0.17158268346050962-3-43": {
+        "average clique similarity": 0.17158268346050962,
+        "clique": [
+            "1-Why would he be pros",
+            "0- Given that assessme",
+            "3-He said no reasonabl"
+        ],
+        "median tf-idf score": 0.8996110264143687,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Why would he be prosecuted but not Clinton? Comey said the cases draw some good contrast, especially because Petraeus lied to law enforcement and the classified information he had was found hidden inside the insulation of his attic.",
+            "\"Given that assessment of the facts and my understanding of the law, my conclusion was and remains no reasonable prosecutor would bring this case,\" he said.",
+            "He said no reasonable prosecutor would bring a case based only on what is known as \"gross negligence. \" At the same time, he suggested that if Clinton had worked at the FBI, she could be subject to a range of disciplinary measures including suspension or termination. \"You could be walked out,\" he said."
+        ],
+        "tf-idf score": [
+            1.3783447061876721,
+            0.5737452161476869,
+            0.8996110264143687
+        ]
+    },
+    "0.181452178011972-3-48": {
+        "average clique similarity": 0.181452178011972,
+        "clique": [
+            "4- I thought the FBI w",
+            "2-But Clinton may not ",
+            "3-He also said Clinton"
+        ],
+        "median tf-idf score": 1.1377708529155564,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"I thought the FBI was looking at this, but evidently, they're not. They weren't looking at it\". Comey also testified that while people copied on Clinton emails had security clearances, some contractors who maintained the server and lawyers who examined her emails did not.",
+            "But Clinton may not have had sufficiently sophisticated understanding to know the emails that passed through her personal server were classified, Comey said.",
+            "He also said Clinton gave individuals who were not cleared access to classified material  --   though a campaign spokesman countered that the attorneys who sorted through the emails had \"Top   clearance. \""
+        ],
+        "tf-idf score": [
+            1.1448576314944439,
+            1.1377708529155564,
+            0.9251778726416251
+        ]
+    },
+    "0.18440070989793308-3-7": {
+        "average clique similarity": 0.18440070989793308,
+        "clique": [
+            "1-As you might expect ",
+            "3-Democratic committee",
+            "0-Democrats defended C"
+        ],
+        "median tf-idf score": 0.9792521610490168,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "As you might expect, Comey was grilled by Republicans on whether Clinton lied and whether he had made a political decision.",
+            "Democratic committee members slammed the hearing and described the criticism of Comey as political. \"Amazingly, some Republicans who were praising you just days ago   ...     instantly turned against you,\" Rep. Elijah Cummings,  . said. \"In their eyes you had one job and one job only    to prosecute Hillary Clinton. \"",
+            "Democrats defended Comey's decision as one based on conviction, not on politics, and blasted Republicans for using a congressional hearing for political theater."
+        ],
+        "tf-idf score": [
+            0.9792521610490168,
+            1.3667475961325959,
+            0.7001479521754411
+        ]
+    },
+    "0.19745979085266016-3-71": {
+        "average clique similarity": 0.19745979085266016,
+        "clique": [
+            "4-And asked whether Cl",
+            "1-The exchange ends wi",
+            "2-Under persistent que"
+        ],
+        "median tf-idf score": 1.0415322451429463,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "And asked whether Clinton had lied to Congress, Fallon replied: \"Of course not\". Committee Democrats spent the hearing portraying the whole affair as yet another attempt by Republicans    following the House Select Committee on Benghazi    to use the mechanics of government to wound their presidential nominee.",
+            "The exchange ends with a preview of what's to come. The chairman of the House Committee on Oversight and Government Reform said the FBI should expect a referral asking the agency to investigate whether Clinton perjured herself during congressional testimony.",
+            "Under persistent questioning at the hearing of the House Oversight Committee, Comey said Clinton did not break the law."
+        ],
+        "tf-idf score": [
+            0.9554592443808609,
+            1.0415322451429463,
+            1.0709146595271226
+        ]
+    },
+    "0.19945781535969495-3-220": {
+        "average clique similarity": 0.19945781535969495,
+        "clique": [
+            "0-While Comey said the",
+            "4-GOP lawmakers vented",
+            "2-Comey had disappoint"
+        ],
+        "median tf-idf score": 0.9933876532129154,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "While Comey said there's no evidence Clinton lied to the FBI during her 3.",
+            "GOP lawmakers vented frustration that Clinton escaped criminal action over her use of a private email server while serving as secretary of state while Democrats blasted the hearing as no more than a   funded  . The     hour hearing, however, appeared to eke out several new seams for Republicans to pursue.",
+            "Comey had disappointed some Republicans by only rebuking Clinton, not recommending charges against her, for what he called her \"extremely careless\" handling of classified information while using private email servers."
+        ],
+        "tf-idf score": [
+            0.944159380362303,
+            0.9933876532129154,
+            1.2200800621075834
+        ]
+    },
+    "0.2099995317646268-3-93": {
+        "average clique similarity": 0.2099995317646268,
+        "clique": [
+            "3-Comey indeed said th",
+            "4- There is no consequ",
+            "2- The question I alwa"
+        ],
+        "median tf-idf score": 0.6971241337757619,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "Comey indeed said there is a question over whether Clinton was \"sophisticated enough\" to know at the time what a particular classified marking signified.",
+            "\"There is no consequence, director    there is no consequence,\" Chaffetz said, demanding to know why Clinton and her aides do not appear to be paying a price over the   controversy.",
+            "\"The question I always look at is, is there evidence that would establish beyond a reasonable doubt that somebody engaged in conduct that violated a criminal statute. And my judgment here is there is not,\" Comey said."
+        ],
+        "tf-idf score": [
+            1.2036749879974444,
+            0.6524237939241327,
+            0.6971241337757619
+        ]
+    },
+    "0.2129870574786117-3-98": {
+        "average clique similarity": 0.2129870574786117,
+        "clique": [
+            "1-For more than four h",
+            "3- FBI Director James ",
+            "0-WASHINGTON       Hou"
+        ],
+        "median tf-idf score": 1.2296203733190887,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "For more than four hours Thursday, FBI Director James Comey answered questions from the U S House Committee on Oversight and Government Reform.",
+            " FBI Director James Comey testified Thursday that Hillary Clinton's claims    some made under oath    about her use of a private email server were \"not true,\" fueling Republican questions about whether in doing so she committed a felony.",
+            "WASHINGTON  --   House Republicans plan to request a second FBI investigation into whether Hillary Clinton lied under oath, they announced Thursday during a grilling of FBI Director James Comey."
+        ],
+        "tf-idf score": [
+            0.796815188971387,
+            1.3525041874472423,
+            1.2296203733190887
+        ]
+    },
+    "0.22247784044611893-3-72": {
+        "average clique similarity": 0.22247784044611893,
+        "clique": [
+            "4-As the politicians p",
+            "2-Comey  who said on T",
+            "1-Comey appeared just "
+        ],
+        "median tf-idf score": 1.2290339311938343,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "As the politicians played for the cameras, Comey sat unruffled, vigorously defending the FBI probe and explaining why the presumptive Democratic nominee escaped indictment even though he had fired off a withering critique of her handling of classified information on Tuesday. \"I think she was extremely careless.",
+            "Comey, who said on Tuesday he would not recommend that the presumptive Democratic presidential nominee face criminal charges, was asked at the hearing if Clinton should face administrative punishment for the way she handled her email.",
+            "Comey appeared just two days after he announced that while Hillary Clinton was \"extremely careless\" in handling classified information while she was secretary of state, she should not face charges."
+        ],
+        "tf-idf score": [
+            1.0295790080936251,
+            1.4516344339637162,
+            1.2290339311938343
+        ]
+    },
+    "0.22693581702961085-3-22": {
+        "average clique similarity": 0.22693581702961085,
+        "clique": [
+            "4-Clinton was also in ",
+            "3-While the hearing wa",
+            "2-Comey also said Clin"
+        ],
+        "median tf-idf score": 0.9199475755904767,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Clinton was also in Washington Thursday, huddling with senior advisers at her home just off Embassy Row. Republicans are trying other avenues to keep the email controversy that has clouded her presidential campaign for months, alive.",
+            "While the hearing was underway, Clinton herself was hunkered down at her Washington home  --   as her campaign responded regularly to hearing highlights.",
+            "Comey also said Clinton knew her email server at her home in Chappaqua, New York, was not authorized to receive classified information."
+        ],
+        "tf-idf score": [
+            0.9199475755904767,
+            0.6471637713033788,
+            1.3873517847452324
+        ]
+    },
+    "0.2748066992577564-3-117": {
+        "average clique similarity": 0.2748066992577564,
+        "clique": [
+            "0-House Oversight Comm",
+            "4-House Oversight and ",
+            "3-But Gowdy and House "
+        ],
+        "median tf-idf score": 1.1004533994021555,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "House Oversight Committee Chairman Jason Chafettz said he would formally ask for another investigation because Clinton told Congress under oath she did not send or receive documents marked classified, whereas the first FBI probe found that she did.",
+            "House Oversight and Government Reform Committee Chairman Jason Chaffetz said he would ask the FBI to probe whether Clinton lied to Congress over her email arrangements.",
+            "But Gowdy and House Oversight Committee Chairman Jason Chaffetz,   whose committee hosted the tense hearing with Comey just two days after the investigation decision, both suggested a \"double standard\" was at play in the FBI decision."
+        ],
+        "tf-idf score": [
+            1.2183329190648902,
+            1.1004533994021555,
+            1.0866385376145618
+        ]
+    },
+    "0.293518907189419-4-54": {
+        "average clique similarity": 0.293518907189419,
+        "clique": [
+            "2-U S Attorney General",
+            "3-Attorney General Lor",
+            "4-And  following Attor",
+            "0-Fresh off a controve"
+        ],
+        "median tf-idf score": 0.7552634433104175,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "U S Attorney General Loretta Lynch accepted the FBI recommendation and was to appear at another hearing next Tuesday.",
+            "Attorney General Loretta Lynch, after receiving Comey's recommendation, on Wednesday declared the investigation over with no criminal charges issued.",
+            "And, following Attorney General Loretta Lynch's announcement Wednesday that she would accept the FBI's findings and close the case, Comey explained the legal distinction that underpinned his decision not to seek charges. \"My conclusion was and remains that no reasonable prosecutor would bring .",
+            "Fresh off a controversial \"chance\" tarmac meeting with Bill Clinton, Attorney General Loretta Lynch accepted Comey's recommendations Wednesday and officially closed the case on Hillary Clinton. Republicans are pressing forward with more congressional hearings   --   Lynch is scheduled for next week."
+        ],
+        "tf-idf score": [
+            0.4971429310268858,
+            0.547680258908768,
+            0.962846627712067,
+            1.1415981207398378
+        ]
+    },
+    "0.2971233302396569-4-14": {
+        "average clique similarity": 0.2971233302396569,
+        "clique": [
+            "3-Comey  who served as",
+            "2-Comey  a Republican ",
+            "4- Should have known  ",
+            "0- I think it s possib"
+        ],
+        "median tf-idf score": 0.8100759147599066,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "Comey, who served as deputy attorney general in the George W Bush administration, was appointed in 2013 to a   term as FBI director by President Barack Obama.",
+            "Comey, a Republican who was appointed by Democratic President Barack Obama and also served in the administration of former Republican President George W Bush, has built a reputation as a straight shooter who does not bend to pressure from either party.",
+            "\"Should have known, must have known, had to know, does not get you there,\" he said. The Clinton campaign argued after the hearing that it had been a mistake for Republicans to put Comey, a former prosecutor who served in President George W Bush's Republican administration, on the spot.",
+            "\"I think it's possible  --   possible  --   that she didn't understand what a C meant when she saw in the body of an email like that. \" Comey, a Republican who served under President George W Bush, has enjoyed strong bipartisan support and developed a reputation as a  ."
+        ],
+        "tf-idf score": [
+            0.7795366092850551,
+            0.8066589989709936,
+            1.203423331176579,
+            0.8134928305488196
+        ]
+    },
+    "0.33494783983213394-4-202": {
+        "average clique similarity": 0.33494783983213394,
+        "clique": [
+            "2-Only three of the   ",
+            "4-Trump meets with mor",
+            "1-How Some Clinton Ema",
+            "0-Comey said among the"
+        ],
+        "median tf-idf score": 1.249384821603909,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "Only three of the   emails were explicitly marked as classified and those were marked with a \"C\" in the body of the email, not in the header, he said.",
+            "Trump meets with more than 200 House Republicans, Comey also testified that there were three emails found on Clinton's servers bearing the letter \"C\" which denotes they were classified, in apparent contradiction of the former secretary of state's statements.",
+            "How Some Clinton Emails Were Marked: Comey has said that three of the emails the FBI reviewed were marked as classified.",
+            "Comey said among the 30, 000 emails Clinton turned over to the State Department, 110 were classified, including three that were physically marked classified with a 'C' in parentheses before sensitive paragraphs within the email."
+        ],
+        "tf-idf score": [
+            0.5469394605682832,
+            1.274487296808153,
+            1.2360902450575055,
+            1.2626793981503126
+        ]
+    },
+    "0.3450425484332902-3-27": {
+        "average clique similarity": 0.3450425484332902,
+        "clique": [
+            "4-The agency  Comey sa",
+            "3- It seems to a lot o",
+            "2- IF YOUR NAME ISN T "
+        ],
+        "median tf-idf score": 1.2925127114525137,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "The agency, Comey said, did not investigate Clinton's testimony before the House Benghazi panel last year because Congress had not asked it to. \"I think when you come to Congress you need to provide truthful testimony and if you don't provide truthful testimony there should be a consequence,\" Chaffetz told reporters after the hearing.",
+            "\"It seems to a lot of us that the average Joe   ...     if they had done what you laid out in your statement, that they'd be in handcuffs,\" Chaffetz said. \"And I think there is a legitimate concern that there is a      if your name isn't Clinton or you're not part of the powerful elite, that lady justice will act differently. \"",
+            "'IF YOUR NAME ISN'T CLINTON' \"I think there is a legitimate concern that there is a double standard, if your name isn't Clinton or you are not part of the powerful elite that Lady Justice will act differently,\" U S Representative Jason Chaffetz, chairman of the House Oversight Committee, said to Comey at the beginning of the hearing."
+        ],
+        "tf-idf score": [
+            1.298878263899348,
+            0.7662238749104393,
+            1.2925127114525137
+        ]
+    },
+    "0.3600630883565629-3-4": {
+        "average clique similarity": 0.3600630883565629,
+        "clique": [
+            "3-Chaffetz voiced conc",
+            "4-But Comey testified ",
+            "0- I see evidence of g"
+        ],
+        "median tf-idf score": 1.3108016057729186,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "Chaffetz voiced concern that there \"does seem to be no consequence. \" Yet Comey repeated his claim that \"no reasonable prosecutor would bring this case. \" He said while Clinton showed \"great carelessness,\" he did not see evidence she and those with whom she corresponded \"knew when they did it they were doing something that was against the law. \"",
+            "But Comey testified that Clinton did not lie to the FBI during their year long probe which culminated with her interview with bureau agents on Saturday and explained that the agency did not want to \"put people in jail unless we can prove they knew they were doing something they shouldn't do\".",
+            "\"I see evidence of great carelessness, but I do not see evidence that is sufficient to establish that Secretary Clinton or those with whom she was corresponding both talked about classified information on email and knew when they did they were doing something that was against the law,\" Comey told the congressional hearing."
+        ],
+        "tf-idf score": [
+            1.3108016057729186,
+            0.935214430566229,
+            1.4051978103829696
+        ]
+    },
+    "0.3600915559305616-3-220": {
+        "average clique similarity": 0.3600915559305616,
+        "clique": [
+            "1-We listened to hours",
+            "0-Chaffetz     said in",
+            "4- We are mystified an"
+        ],
+        "median tf-idf score": 0.7978883346514147,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "We listened to hours of testimony to bring you the seven exchanges you should hear: 1. Comey Explains His Reasoning: If you listen to these two minutes of testimony, you'll understand just what the FBI was weighing.",
+            "Chaffetz ( ) said in opening the hearing. \"It seems to a lot of us that the average Joe --  the average American --  that if they had done what you laid out in your statement, that they'd be in handcuffs. If your name isn't Clinton and you are not part of the powerful elite, then Lady Justice will act differently. \"",
+            "\"We are mystified and confused by the fact pattern that you laid out and the conclusions that you reached,\" said Chaffetz, adding that \"the Average Joe\" would have been led off in handcuffs had they done what Clinton did."
+        ],
+        "tf-idf score": [
+            0.7978883346514147,
+            0.8337751989288908,
+            0.6741919966969013
+        ]
+    },
+    "0.3944584095681471-3-220": {
+        "average clique similarity": 0.3944584095681471,
+        "clique": [
+            "4- Secretary Clinton s",
+            "3-At that hearing  Cli",
+            "0- Secretary Clinton s"
+        ],
+        "median tf-idf score": 1.053718359298974,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "\"Secretary Clinton said there was nothing marked classified on her emails, either sent or received. Was that true?\"",
+            "At that hearing, Clinton had claimed that nothing she sent or received was marked classified.",
+            "\"Secretary Clinton said there was nothing marked classified on her emails, either sent or received, was that true?\" asked South Carolina Republican Rep. Trey Gowdy, chairman of the Benghazi committee."
+        ],
+        "tf-idf score": [
+            1.053718359298974,
+            0.7799296003612465,
+            1.415312560529678
+        ]
+    },
+    "0.4089042696364891-4-77": {
+        "average clique similarity": 0.4089042696364891,
+        "clique": [
+            "0-House Speaker Paul R",
+            "3-Ryan also sent a let",
+            "2-Comey addressed the ",
+            "4-House Speaker Paul R"
+        ],
+        "median tf-idf score": 0.9978216533331066,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "House Speaker Paul Ryan sent a formal request Thursday to Director of National Intelligence James Clapper to deny Clinton access to classified materials. \"This is necessary to reassure the public that our nation's secrets are secure,\" Ryan wrote.",
+            "Ryan also sent a letter to Director of National Intelligence James Clapper urging him to deny Clinton access to classified information \"for the duration of her candidacy for president. \" \"I firmly believe this is necessary to reassure the public that our nation's secrets are secure,\" he said.",
+            "Comey addressed the issue at a House of Representatives committee hearing that lasted nearly five hours after House Speaker Paul Ryan said in a letter to Director of National Intelligence James Clapper that Clinton should be denied classified briefings during her campaign for the presidency.",
+            "House Speaker Paul Ryan, for instance, asked the Office of the Director of National Intelligence to block access to classified briefings for Clinton for the rest of the campaign."
+        ],
+        "tf-idf score": [
+            0.918333901780763,
+            1.0773094048854501,
+            1.4823156883014383,
+            0.7563719159497113
+        ]
+    }
+}

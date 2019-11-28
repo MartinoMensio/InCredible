@@ -1,0 +1,534 @@
+{
+    "0.15606196411271897-3-256": {
+        "average clique similarity": 0.15606196411271897,
+        "clique": [
+            "3-It will vote on the ",
+            "4-If the evacuations o",
+            "1-Rebels initially acc"
+        ],
+        "median tf-idf score": 0.30051112962273296,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "It will vote on the text on Monday.",
+            "If the evacuations of 400 wounded people from Fua and Kefraya were to go ahead as planned on Friday, it could allow the Aleppo evacuation to continue, hours after the agreement reached on Wednesday night appeared to be on the verge of collapse.",
+            "Rebels initially accepted the demand, but on Friday it emerged that one group, formerly known as the Nusra Front, had not agreed to it."
+        ],
+        "tf-idf score": [
+            0.046918891127194495,
+            0.9303755265233021,
+            0.30051112962273296
+        ]
+    },
+    "0.16297777365085775-3-217": {
+        "average clique similarity": 0.16297777365085775,
+        "clique": [
+            "2- I never understood ",
+            "3- Everyone is waiting",
+            "4- We went there from "
+        ],
+        "median tf-idf score": 0.03607691503797644,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cI never understood such feelings until today,\u201d he said.",
+            "\u201dEveryone is waiting until they are evacuated.",
+            "\u201cWe went there from 6am until 5pm."
+        ],
+        "tf-idf score": [
+            0.23725239336544426,
+            0.03607691503797644,
+            0.01482276158402746
+        ]
+    },
+    "0.16828465421903602-3-383": {
+        "average clique similarity": 0.16828465421903602,
+        "clique": [
+            "1-Earlier this week  t",
+            "3-Thousands of people ",
+            "2-Many people on that "
+        ],
+        "median tf-idf score": 0.5715568385952262,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Earlier this week, the government side demanded the evacuation of wounded people from   and Kefraya for the Aleppo deal to proceed.",
+            "Thousands of people were evacuated on Thursday, the first to leave under a ceasefire deal that would end years of fighting for the city and mark a major victory for Assad.",
+            "Many people on that side of the city considered the rebels dangerous militants and were glad to see them ousted."
+        ],
+        "tf-idf score": [
+            0.8419435430601975,
+            0.5715568385952262,
+            0.3599551039285924
+        ]
+    },
+    "0.18102211971051463-3-210": {
+        "average clique similarity": 0.18102211971051463,
+        "clique": [
+            "3-Although the Aleppo ",
+            "4- Today was another d",
+            "0-Unfortunately the pu"
+        ],
+        "median tf-idf score": 0.8122493413963521,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "Although the Aleppo evacuation convoy was eventually cleared to drive to     there was no official word on what impact the bus burning would have on the departure of more convoys from the city and the two villages.",
+            "\u201cToday was another difficult day for the Aleppo people,\u201d said one teacher who was still in the city.",
+            "Unfortunately the punishment was for the people."
+        ],
+        "tf-idf score": [
+            0.8348731188610585,
+            0.8122493413963521,
+            0.24293584521481343
+        ]
+    },
+    "0.18812119321493537-3-54": {
+        "average clique similarity": 0.18812119321493537,
+        "clique": [
+            "0-One man s  liberatio",
+            "2-But on Thursday  Lt ",
+            "1-Aleppo  a   economic"
+        ],
+        "median tf-idf score": 0.7353241318469323,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "One man\u2019s \u2019liberation?\u2019  The Syrian regime is on the brink of retaking the whole city of Aleppo, which has been partly held by rebels for more than four years.",
+            "But on Thursday, Lt. Gen. Viktor Poznikhir of the Russian military\u2019s general staff said that 900 militants had been killed in the recent offensive against the   neighborhoods and that more than 108, 000 civilians had fled the area, including more than 3, 000 rebels.",
+            "Aleppo, a   economic center with renowned ancient sites, has been pulverized during the war that has killed more than 300, 000 people, created the world\u2019s worst refugee crisis and allowed for the rise of Islamic State."
+        ],
+        "tf-idf score": [
+            0.7353241318469323,
+            0.686572357636448,
+            0.7664174973034728
+        ]
+    },
+    "0.19245406012813548-3-268": {
+        "average clique similarity": 0.19245406012813548,
+        "clique": [
+            "4-Few residents in eas",
+            "2-Cold  hungry and car",
+            "1-The operation to eva"
+        ],
+        "median tf-idf score": 0.7393338370046623,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "Few residents in east Aleppo could be reached because of an apparent internet outage through most of the day, but those who were able to speak described scenes of chaos and thousands of families braving the winter cold to wait for hours for buses to take them out of their home city.",
+            "Cold, hungry and carrying satchels and children, about 1, 000 people, some of them wounded, boarded green buses and ambulances that carried the first batch of evacuees out of the rebel enclave.",
+            "The operation to evacuate fighters and civilians from the last   area of Aleppo was suspended on Friday, its second day, after   militias demanded that wounded people also be brought out of   and Kefraya, and protesters blocked the road out of Aleppo."
+        ],
+        "tf-idf score": [
+            0.7393338370046623,
+            0.5845039024343879,
+            0.9222750467605704
+        ]
+    },
+    "0.19400168066086007-3-153": {
+        "average clique similarity": 0.19400168066086007,
+        "clique": [
+            "2-  The loss of a foot",
+            "1-The U N says around ",
+            "4-Rebels in Idlib are "
+        ],
+        "median tf-idf score": 0.6264015957455383,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d The loss of a foothold in Aleppo would be a major blow to the opposition, which would then hold sway in only one of Syria\u2019s provincial capitals, Idlib, where the Syrian branch of Al Qaeda is a major force.",
+            "The U N says around 30, 000 people remain in the crowded enclave of   Aleppo, of whom a number would be taken to Idlib province, which is mostly controlled by hardline Islamist groups, and the rest would go to   city districts.",
+            "Rebels in Idlib are part of a predominantly Islamist coalition, of which JFS is one of the most powerful."
+        ],
+        "tf-idf score": [
+            0.6264015957455383,
+            0.7710307024100831,
+            0.20815102363386873
+        ]
+    },
+    "0.19634101442607987-3-190": {
+        "average clique similarity": 0.19634101442607987,
+        "clique": [
+            "0- We waited for the i",
+            "3-UNITED NATIONS VOTE ",
+            "4- I urge all parties "
+        ],
+        "median tf-idf score": 0.3525047992455229,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dWe waited for the international community and the United Nations to punish the criminal and not the victims (the people).",
+            "UNITED NATIONS VOTE The chaos surrounding the evacuation reflects the complexity of Syria\u2019s civil war, with an array of groups and foreign interests involved on all sides.",
+            "\u201cI urge all parties and the international community to abide by the truce agreement and support the implementation of the evacuation process."
+        ],
+        "tf-idf score": [
+            0.3053841073698248,
+            0.5746308939411947,
+            0.3525047992455229
+        ]
+    },
+    "0.2054847230310883-3-145": {
+        "average clique similarity": 0.2054847230310883,
+        "clique": [
+            "4-  He added   The peo",
+            "2-The moves to evacuat",
+            "0-Thousands of people "
+        ],
+        "median tf-idf score": 0.6713557365978637,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201d He added: \u201cThe people of Aleppo are not alone.",
+            "The moves to evacuate people from the villages suggested that they had been added to the deal to ensure that people in eastern Aleppo would be allowed to leave.",
+            "Thousands of people are still in eastern Aleppo, Sedky said."
+        ],
+        "tf-idf score": [
+            0.41103264198860673,
+            0.6713557365978637,
+            0.7318927071526805
+        ]
+    },
+    "0.20621666089485383-3-285": {
+        "average clique similarity": 0.20621666089485383,
+        "clique": [
+            "3-While the Observator",
+            "1-Iran  one of Syria s",
+            "2-Speaking to journali"
+        ],
+        "median tf-idf score": 0.962274564673579,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "While the Observatory said the convoy of five buses had reached   a United Nations official in Syria said only that they had left east Aleppo, adding: \u201dThe evacuations are on\u201d.",
+            "Iran, one of Syria\u2019s main allies, had demanded that the villages be included in any ceasefire deal, rebel and United Nations officials have said.",
+            "Speaking to journalists in Geneva, Jan Egeland, the United Nations humanitarian adviser for Syria, said that an estimated 50, 000 people had fled eastern Aleppo."
+        ],
+        "tf-idf score": [
+            1.1090078837561894,
+            0.7854320942460802,
+            0.962274564673579
+        ]
+    },
+    "0.2075828284563294-3-213": {
+        "average clique similarity": 0.2075828284563294,
+        "clique": [
+            "4-Russia said it would",
+            "2-The United States  w",
+            "1-The United States ha"
+        ],
+        "median tf-idf score": 0.6899861395346156,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "Russia said it would convene Syrian peace talks later this month to be attended by Iran and Turkey but none of the Gulf states or western powers.",
+            "The United States, which has supported the rebels along with Turkey, Saudi Arabia and other Gulf states, has struggled and failed to reach an accord to end the war, and the United States did not help broker the evacuation agreement.",
+            "The United States has watched from the sidelines as the Syrian government and its allies, including Russia, pinned down the rebels in an   pocket of territory, culminating in a ceasefire this week."
+        ],
+        "tf-idf score": [
+            0.5584659062922833,
+            0.7031527160183431,
+            0.6899861395346156
+        ]
+    },
+    "0.20915905750621042-3-76": {
+        "average clique similarity": 0.20915905750621042,
+        "clique": [
+            "3-Turkey has said Alep",
+            "4-The allegations coul",
+            "2-The discrepancy in t"
+        ],
+        "median tf-idf score": 0.04182891070531531,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "Turkey has said Aleppo evacuees could also be housed in a camp to be constructed near the Turkish border to the north.",
+            "The allegations could not be independently confirmed.",
+            "The discrepancy in the numbers could not immediately be resolved."
+        ],
+        "tf-idf score": [
+            0.7014182870096496,
+            0.01980497564913046,
+            0.04182891070531531
+        ]
+    },
+    "0.22856651596166433-3-332": {
+        "average clique similarity": 0.22856651596166433,
+        "clique": [
+            "4-The Turkish presiden",
+            "3-Russian President Vl",
+            "1-Russian President Vl"
+        ],
+        "median tf-idf score": 0.7844821920504074,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "The Turkish president, Recep Tayyip Erdo\u011fan, said the truce deal was the last hope for Aleppo\u2019s civilians and urged both sides to abide by it.",
+            "Russian President Vladimir Putin, Assad\u2019s main foreign backer, and Turkish President Tayyip Erdogan, the rebels\u2019 main supporter, agreed by telephone on Sunday that the disruptions must be quickly overcome, sources in Erdogan\u2019s office said.",
+            "Russian President Vladimir Putin, Syria\u2019s most powerful ally, said on Friday he was working with Turkish President Tayyip Erdogan to try to start a new round of Syrian peace talks aimed at securing a nationwide ceasefire."
+        ],
+        "tf-idf score": [
+            0.7844821920504074,
+            0.6566796078968296,
+            0.8709396366212433
+        ]
+    },
+    "0.23016727494530617-3-13": {
+        "average clique similarity": 0.23016727494530617,
+        "clique": [
+            "2- I don t know what w",
+            "1-Idlib is already a t",
+            "0-But for many of thos"
+        ],
+        "median tf-idf score": 0.48662370147721906,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cI don\u2019t know what will happen in Idlib, but if there is no   or political accord then it will become the next Aleppo,\u201d said Staffan de Mistura, the United Nations envoy for Syria.",
+            "Idlib is already a target for Syrian and Russian air strikes but it is unclear whether the government will push for a ground assault or simply seek to contain rebels there for now.",
+            "But for many of those leaving, their destination will be the   Syrian province of Idlib    which will likely be the next target of President Bashar  \u2019s regime."
+        ],
+        "tf-idf score": [
+            0.7295441527455636,
+            0.48662370147721906,
+            0.3178122348803868
+        ]
+    },
+    "0.23177585164536638-3-431": {
+        "average clique similarity": 0.23177585164536638,
+        "clique": [
+            "2-Syrian state news me",
+            "1-The Shi ite villages",
+            "0-The Syrian Observato"
+        ],
+        "median tf-idf score": 0.6257447376094192,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Syrian state news media reported that buses and ambulances had begun evacuating residents from two Shiite villages in neighboring Idlib Province that have long been surrounded by Sunni rebels.",
+            "The Shi\u2019ite villages of   and Kefraya in Idlib province are besieged by insurgents.",
+            "The Syrian Observatory for Human Rights offered a different view, saying rebels breached the ceasefire to protest delays in evacuating hundreds of people from two Shia enclaves      and Kefreia    in the   Idlib province to the west of Aleppo."
+        ],
+        "tf-idf score": [
+            0.6257447376094192,
+            0.2936569251144352,
+            0.9300607880441115
+        ]
+    },
+    "0.23260282275272093-3-137": {
+        "average clique similarity": 0.23260282275272093,
+        "clique": [
+            "4-The evacuation of th",
+            "0-A Syrian government ",
+            "1- It was agreed to re"
+        ],
+        "median tf-idf score": 1.001050724901059,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "The evacuation of the wounded from Fua and Kefraya was agreed after Iran blocked an initial ceasefire and evacuation deal that was negotiated on Tuesday night.",
+            "A Syrian government official told Reuters there was an agreement to resume the evacuation of eastern Aleppo, alongside evacuations from four besieged towns.",
+            "\u201cIt was agreed to resume evacuations from east Aleppo in parallel with the evacuation of (medical) cases from Kefraya and   and some cases from Zabadani and Madaya,\u201d said the government official, part of the evacuations negotiating team."
+        ],
+        "tf-idf score": [
+            0.5692556597556864,
+            1.001050724901059,
+            1.077365908734929
+        ]
+    },
+    "0.23933330536255304-3-119": {
+        "average clique similarity": 0.23933330536255304,
+        "clique": [
+            "0-Previous evacuation ",
+            "1-Syrian rebel officia",
+            "3-In return for the ev"
+        ],
+        "median tf-idf score": 1.181955317505755,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "Previous evacuation attempts thwarted  Saturday\u2019s announcement comes after the evacuation of thousands of refugees from the besieged city came to a halt on Friday, according to the ICRC Red Cross staff, Syrian Red Crescent workers and representatives of the World Health Organization had been told to leave eastern Aleppo.",
+            "Syrian rebel official   Abu Bakr, speaking from Aleppo to news channel     on Saturday, said the deal comprised an evacuation from the two Shi\u2019ite villages besieged by insurgents, the evacuation of wounded people from two towns besieged by   forces near the Lebanese border, and the full evacuation of   east Aleppo.",
+            "In return for the evacuation of fighters, their families and other civilians from Aleppo, the mostly Sunni insurgents had agreed that people in the villages of   and Kefraya, Shi\u2019ite villages that they have besieged near Idlib, should also be allowed to leave."
+        ],
+        "tf-idf score": [
+            1.181955317505755,
+            1.6015600079190735,
+            1.1034252699202662
+        ]
+    },
+    "0.2465065215541805-3-431": {
+        "average clique similarity": 0.2465065215541805,
+        "clique": [
+            "4-The abrupt suspensio",
+            "2-The two villages  Fu",
+            "3-A document cited by "
+        ],
+        "median tf-idf score": 0.962974374040119,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "The abrupt suspension resulted from the refusal of    militants to allow the evacuation of wounded civilians from Fua and Kefraya, two Shia villages in Idlib province that have been besieged by Islamist rebels for years and whose relief was part of the agreement, offered as a concession to Iran.",
+            "The two villages, Fua and Kfraya, were not originally part of the evacuation deal.",
+            "A document cited by   television and passed to Reuters by rebels and activists said the entire deal would see 2, 500 citizens leave   and Kefraya in two batches, in exchange for the evacuation of people from east Aleppo in two corresponding batches."
+        ],
+        "tf-idf score": [
+            0.962974374040119,
+            0.32338930200071125,
+            1.220176965084884
+        ]
+    },
+    "0.24972491687938583-3-97": {
+        "average clique similarity": 0.24972491687938583,
+        "clique": [
+            "1-The Syrian Observato",
+            "4-Turkish government o",
+            "3-Syrian state televis"
+        ],
+        "median tf-idf score": 1.0940604907564278,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "The Syrian Observatory said 8, 000 people, including some 3, 000 fighters and more than 300 wounded, had left the city in convoys of buses and ambulances in the evacuations that began on Thursday morning.",
+            "Turkish government officials said about 8, 000 people had left the city to go to   territory in the west of the province.",
+            "Syrian state television, citing its correspondent in the city, said buses had started to leave east Aleppo where over 15, 000 people had gathered in a square to wait, many after a night sleeping in the streets in freezing temperatures."
+        ],
+        "tf-idf score": [
+            1.0940604907564278,
+            0.7023515559215112,
+            1.155800038636232
+        ]
+    },
+    "0.2500614255390511-3-431": {
+        "average clique similarity": 0.2500614255390511,
+        "clique": [
+            "2-The Syrian Observato",
+            "4-The Syrian Observato",
+            "3-The Syrian Observato"
+        ],
+        "median tf-idf score": 0.6472972713598415,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "The Syrian Observatory for Human Rights, which opposes the government and tracks the conflict from Britain, said that the presence of 250 foreign fighters among those to be evacuated also complicated the deal because the Syrian government wanted to detain them for interrogation.",
+            "The Syrian Observatory for Human Rights (SOHR) said there had been an explosion and that there were reports of casualties.",
+            "The Syrian Observatory for Human Rights, a   war monitor, said the evacuation of the villages near Idlib had been postponed as a result of the incident."
+        ],
+        "tf-idf score": [
+            0.6472972713598415,
+            0.398760704588317,
+            0.7581489657325874
+        ]
+    },
+    "0.30110910031737803-4-30": {
+        "average clique similarity": 0.30110910031737803,
+        "clique": [
+            "3-Robert Mardini  regi",
+            "0-A spokeswoman for th",
+            "1-The head of the Inte",
+            "4-Also threatening the"
+        ],
+        "median tf-idf score": 0.870298886050578,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Robert Mardini, regional director for the International Committee of the Red Cross (ICRC) which is at the forefront of the operation, tweeted that the buses and one ambulance of the Syrian Arab Red Crescent \u201djust left dark & cold E #Aleppo\u201d adding: \u201dHopeful operation will proceed smoothly\u201d.",
+            "A spokeswoman for the International Committee of the Red Cross (ICRC) in Damascus, Ingy Sedky, said that evacuation teams were still awaiting a firm security agreement to start moving busloads of refugees from the   city.",
+            "The head of the International Committee of the Red Cross in Syria said no one knows how many people are left in   Aleppo, and the evacuation could take days.",
+            "Also threatening the deal was the detention by   militias of a convoy of 25 vehicles that was on its way out of the Aleppo enclave, accompanied by workers from the International Committee of the Red Cross and the Syrian Arab Red Crescent who are overseeing the evacuation."
+        ],
+        "tf-idf score": [
+            0.7601043677307691,
+            0.7656125707570992,
+            1.017292483219526,
+            0.9749852013440568
+        ]
+    },
+    "0.41903183797987725-3-168": {
+        "average clique similarity": 0.41903183797987725,
+        "clique": [
+            "3-Aleppo had been divi",
+            "4-About 8  000 civilia",
+            "1-Aleppo had been divi"
+        ],
+        "median tf-idf score": 0.853857150312831,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "Aleppo had been divided between government and rebel areas in the nearly    war, but a lightning advance by the Syrian army and its allies began in   following months of intense air strikes, forcing the insurgents out of most of the   territory within a matter of weeks.",
+            "About 8, 000 civilians had been evacuated from the shrinking patch of rebel territory but tens of thousands more were still trapped when the government of the Syrian president, Bashar   suspended the pact, which was negotiated by Turkey and Russia.",
+            "Aleppo had been divided between government and rebel areas in the nearly   war, but a lightning advance by the Syrian army and its allies that began in   deprived the insurgents of most of their territory in a matter of weeks."
+        ],
+        "tf-idf score": [
+            0.9190892391047673,
+            0.7655438529420081,
+            0.853857150312831
+        ]
+    }
+}

@@ -1,0 +1,594 @@
+{
+    "0.16562765036792895-3-264": {
+        "average clique similarity": 0.16562765036792895,
+        "clique": [
+            "3-Few of the studies i",
+            "2-However  most of the",
+            "4- The condition we re"
+        ],
+        "median tf-idf score": 0.257983829145457,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Few of the studies in the Cochrane analysis, for example, lasted from more than three months.",
+            "However, most of these studies used outdated methods or tested few people.",
+            "\u201dThe condition we\u2019re trying to prevent, which is gum disease, is something that takes years to develop, and most of the studies only last for a few weeks or months,\u201d he says."
+        ],
+        "tf-idf score": [
+            0.2434073270626348,
+            0.257983829145457,
+            0.540469881959923
+        ]
+    },
+    "0.17218468996174216-3-231": {
+        "average clique similarity": 0.17218468996174216,
+        "clique": [
+            "3-The Cochrane Collabo",
+            "4- In large epidemiolo",
+            "2-Wayne Aldredge  pres"
+        ],
+        "median tf-idf score": 1.0865691748972373,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "The Cochrane Collaboration  \u2014   a group of researchers who do systematic reviews of the evidence for major health questions  \u2014   did a 2011 analysis of 12 studies on flossing to reduce gum disease and tooth decay, which included a total of 1, 000 participants.",
+            "\u201dIn large epidemiological studies, the evidence for flossing turns out to be fairly weak,\u201d says Tim Iafolla, a dentist with the National Institute of Dental and Craniofacial Research, which is part of the National Institutes of Health.",
+            "Wayne Aldredge, president of the periodontists\u2019 group, acknowledged the weak scientific evidence and the brief duration of many studies."
+        ],
+        "tf-idf score": [
+            1.1426577893811471,
+            1.0865691748972373,
+            0.4572614954304521
+        ]
+    },
+    "0.19142317077257442-3-176": {
+        "average clique similarity": 0.19142317077257442,
+        "clique": [
+            "1-There are some genui",
+            "3-But for the millions",
+            "4-But when reporters w"
+        ],
+        "median tf-idf score": 0.8297683029558013,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "There are some genuine criticisms of dental floss in the Associated Press article, from fears that flossing might distract people from more effective hygiene practices, to the possibility that flossing can \u201cdamage gums, teeth, and dental work,\u201d or even \u201cdislodge bad bacteria that invade the bloodstream and cause dangerous infections, especially in people with weak immunity.",
+            "But for the millions of Americans who struggle to floss, news today from the Associated Press represent a huge validation: There\u2019s scant evidence that flossing works.",
+            "But when reporters with The Associated Press recently pushed the government for evidence that supports flossing, there wasn\u2019t much."
+        ],
+        "tf-idf score": [
+            1.2781643720320301,
+            0.8297683029558013,
+            0.5547734909414641
+        ]
+    },
+    "0.19859630122647406-3-28": {
+        "average clique similarity": 0.19859630122647406,
+        "clique": [
+            "0-The British Dental A",
+            "3-The American Dental ",
+            "2-In a later statement"
+        ],
+        "median tf-idf score": 0.45672693249482144,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Vox"
+        ],
+        "sentences": [
+            "The British Dental Association said: \u201cSmall   brushes are best for cleaning the area in between the teeth, where there is space to do so.",
+            "The American Dental Association says it \u201dhelps remove debris and .",
+            "In a later statement to the AP, the ADA said flossing \u201cremoves plaque\u201d and \u201cis proven to help remove\u201d debris from between teeth."
+        ],
+        "tf-idf score": [
+            0.45672693249482144,
+            0.37569759105858924,
+            0.7458342601607564
+        ]
+    },
+    "0.19921554694998753-4-78": {
+        "average clique similarity": 0.19921554694998753,
+        "clique": [
+            "2-The ADA has been pro",
+            "0-Since then  the US g",
+            "3-The federal governme",
+            "1-The point is that th"
+        ],
+        "median tf-idf score": 0.41328759676409477,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "The ADA has been promoting floss universally since 1908.",
+            "Since then, the US government has quietly dropped the recommendation, admitting that there is no scientific evidence to prove the benefits.",
+            "The federal government has been recommending regular flossing since the 1970s.",
+            "The point is that the level of certainty, and certification, bestowed upon flossing has been wildly out of sync with the quality of the actual scientific research."
+        ],
+        "tf-idf score": [
+            0.27438463723012807,
+            0.3850418135967328,
+            0.4415333799314568,
+            0.5033450630213355
+        ]
+    },
+    "0.201842695779222-3-186": {
+        "average clique similarity": 0.201842695779222,
+        "clique": [
+            "0-On its website  it c",
+            "4-We can look at bleed",
+            "3-It s also thought th"
+        ],
+        "median tf-idf score": 0.3602789632810406,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "On its website, it currently states that dental floss \u201chelps to prevent gum disease by getting rid of pieces of food and plaque from between your teeth\u201d which can cause inflammation.",
+            "We can look at bleeding gums, we can look at inflammation, but we have to extrapolate from that evidence to gum disease\u201d.",
+            "It\u2019s also thought this plaque can lead to gingivitis, which is the inflammation of the gums."
+        ],
+        "tf-idf score": [
+            0.840034756886339,
+            0.3602789632810406,
+            0.28408490075342463
+        ]
+    },
+    "0.20301251479405125-3-22": {
+        "average clique similarity": 0.20301251479405125,
+        "clique": [
+            "4-The review concluded",
+            "3-It concluded   Overa",
+            "1-Some evidence that i"
+        ],
+        "median tf-idf score": 0.7850293171969175,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Vox"
+        ],
+        "sentences": [
+            "The review concluded that there was some evidence that flossing and brushing regularly did appear to reduce gingivitis, compared to tooth brushing alone, but that evidence was weak on how much it reduced plaque.",
+            "It concluded: \u201dOverall there is weak, very unreliable evidence which suggests that flossing plus toothbrushing may be associated with a small reduction in plaque at 1 or 3 months\u201d.",
+            "Some evidence that it helps with gum inflammation was found, but even that was described as \u201cvery unreliable,\u201d with the benefits essentially imperceptible to most dental floss users."
+        ],
+        "tf-idf score": [
+            0.8281332582239072,
+            0.7140171017590035,
+            0.7850293171969175
+        ]
+    },
+    "0.20929268735362874-3-347": {
+        "average clique similarity": 0.20929268735362874,
+        "clique": [
+            "1-On a    basis  denti",
+            "2-Dentists provide sam",
+            "4-She remembers learni"
+        ],
+        "median tf-idf score": 0.5118018457905864,
+        "publications": [
+            "Breitbart",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "On a    basis, dentists can no doubt point to many patients who receive concrete benefits from using dental floss.",
+            "Dentists provide samples to their patients; the American Dental Association insists on its website that \u201cFlossing is an essential part of taking care of your teeth and gums.",
+            "She remembers learning that a lot of patients lie to their dentists about how much they floss."
+        ],
+        "tf-idf score": [
+            0.5118018457905864,
+            0.8721881346652172,
+            0.31817327133207784
+        ]
+    },
+    "0.22200445258791457-3-34": {
+        "average clique similarity": 0.22200445258791457,
+        "clique": [
+            "0-Patients should spea",
+            "2- They just looked in",
+            "4-You have different t"
+        ],
+        "median tf-idf score": 0.1290528916932987,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "Patients should speak to their dentist if they have any concerns.",
+            "\u201cThey just looked into what they did every day in their clinical practice and what they would recommend for patients,\u201d said Araujo.",
+            "You have different types of bacteria that form, and the longer they stay, the more virulent they become\u201d."
+        ],
+        "tf-idf score": [
+            0.1290528916932987,
+            0.2189386088062677,
+            0.09175817229918137
+        ]
+    },
+    "0.22222346451629957-3-347": {
+        "average clique similarity": 0.22222346451629957,
+        "clique": [
+            "2-Careless flossing ca",
+            "3-Can flossing help th",
+            "0-   Floss can occasio"
+        ],
+        "median tf-idf score": 0.5561806332717292,
+        "publications": [
+            "New York Post",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "Careless flossing can damage gums, teeth and dental work.",
+            "Can flossing help that?",
+            "\u201d  Floss can occasionally cause harm, with poor technique leading to damaged gums and teeth and also dislodging bad bacteria, which can lead to infections."
+        ],
+        "tf-idf score": [
+            0.6212160100305066,
+            0.31923956462653025,
+            0.5561806332717292
+        ]
+    },
+    "0.24226278377385616-3-95": {
+        "average clique similarity": 0.24226278377385616,
+        "clique": [
+            "2- We know there s a p",
+            "4- So the evidence tha",
+            "3-Whether or not we do"
+        ],
+        "median tf-idf score": 0.1891949269930311,
+        "publications": [
+            "Vox",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cWe know there\u2019s a possibility that it works, so we feel comfortable telling people to go ahead and do it.",
+            "\u201dSo the evidence that we gather from these studies is fairly indirect.",
+            "Whether or not we do it, we\u2019ve all been made to feel we should floss more often."
+        ],
+        "tf-idf score": [
+            0.18688559697532142,
+            0.2935212421082826,
+            0.1891949269930311
+        ]
+    },
+    "0.25841539160609445-3-347": {
+        "average clique similarity": 0.25841539160609445,
+        "clique": [
+            "0-It s one of the most",
+            "2-  When the ADA was a",
+            "1-  One of the studies"
+        ],
+        "median tf-idf score": 0.9553015746959354,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "It\u2019s one of the most universal recommendations in all of public health: floss daily to prevent gum disease and cavities.",
+            "\u201d When the ADA was asked for proof of its claim that flossing helps prevent early gum disease and cavities, the group cited the 2011 review and a 2008   study that measured bacteria and did not even consider gum disease.",
+            "\u201d One of the studies the American Dental Association offered as proof that flossing helps to prevent gum disease lasted only two weeks, and didn\u2019t even study gum disease."
+        ],
+        "tf-idf score": [
+            0.5582977697885655,
+            1.07179858249479,
+            0.9553015746959354
+        ]
+    },
+    "0.27967216343612633-3-298": {
+        "average clique similarity": 0.27967216343612633,
+        "clique": [
+            "3-Overall  there s sur",
+            "0-Except there s littl",
+            "1- It somehow took alm"
+        ],
+        "median tf-idf score": 0.4136344317693853,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Overall, there\u2019s surprisingly little research that finds flossing is effective.",
+            "Except there\u2019s little proof that flossing works.",
+            "[It somehow took almost forty years for the dental community to realize, as the AP puts it, \u201cthere\u2019s little proof that flossing works."
+        ],
+        "tf-idf score": [
+            0.4136344317693853,
+            0.37447440757368855,
+            0.6242782845439339
+        ]
+    },
+    "0.2826565515486161-3-347": {
+        "average clique similarity": 0.2826565515486161,
+        "clique": [
+            "0-Dentists provide sam",
+            "2-The two leading prof",
+            "3-   the plaque that c"
+        ],
+        "median tf-idf score": 0.9430876241618116,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Dentists provide samples to their patients the British Dental Association insists on its patient website that flossing helps \u201cin the battle against tooth decay and gum disease\u201d.",
+            "The two leading professional groups  \u2014   the American Dental Association and the American Academy of Periodontology, for specialists in gum disease and implants  \u2014   cited other studies as proof of their claims that flossing prevents buildup of gunk known as plaque, early gum inflammation called gingivitis, and tooth decay.",
+            ".. the plaque that collects between two teeth, [reducing] the likelihood of gum disease and tooth decay\u201d."
+        ],
+        "tf-idf score": [
+            0.9430876241618116,
+            1.271369371386234,
+            0.43304433940279174
+        ]
+    },
+    "0.29952057899110424-3-248": {
+        "average clique similarity": 0.29952057899110424,
+        "clique": [
+            "2-  The federal govern",
+            "4-Federal recommendati",
+            "1-  This despite a bon"
+        ],
+        "median tf-idf score": 0.5286928527731027,
+        "publications": [
+            "Breitbart",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d The federal government has recommended flossing since 1979, first in a surgeon general\u2019s report and later in the Dietary Guidelines for Americans issued every five years.",
+            "Federal recommendations in favor of flossing showed up in a report by the surgeon general in 1979, and later made it into the national dietary guidelines.",
+            "\u201d This despite a bona fide legal requirement from the almighty federal government that claims in the official Dietary Guidelines for Americans must be based on sound scientific evidence."
+        ],
+        "tf-idf score": [
+            0.6723803498281616,
+            0.5017257970107748,
+            0.5286928527731027
+        ]
+    },
+    "0.31813421802282615-3-212": {
+        "average clique similarity": 0.31813421802282615,
+        "clique": [
+            "1-   Only  weak    unr",
+            "0-studies in leading j",
+            "4-A 2011 Cochrane  ora"
+        ],
+        "median tf-idf score": 0.6922524619165158,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d  Only \u201cweak,\u201d \u201cunreliable,\u201d and \u201cvery low quality\u201d evidence for the effectiveness of flossing at plaque removal could be found.",
+            "studies in leading journals found evidence for flossing is \u201cweak, very unreliable\u201d of \u201cvery low\u201d quality, and carries \u201ca moderate to large potential for bias\u201d.",
+            "A 2011 Cochrane \u201doral health\u201d review of 12 studies on the effects of flossing found that they \u201dwere of poor quality and conclusions must be viewed as unreliable\u201d."
+        ],
+        "tf-idf score": [
+            0.6430051770676024,
+            0.7645712025818369,
+            0.6922524619165158
+        ]
+    },
+    "0.3224669527810434-4-2": {
+        "average clique similarity": 0.3224669527810434,
+        "clique": [
+            "1-In almost any other ",
+            "0-A commentary in a de",
+            "3- Ideally  trials wou",
+            "2-  A commentary in a "
+        ],
+        "median tf-idf score": 0.24711176598678763,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "In almost any other context, there would be a measure of outrage at the notion of an industry testing itself, especially if the tests didn\u2019t follow the most rigorous methodology  \u2026     and if the product not only failed to live up to its advertising, but actually proved harmful in some cases.",
+            "A commentary in a dental magazine stated that any benefit would be so minute it might not be noticed by users.",
+            "\u201dIdeally, trials would run for 12 months or longer, which would also be important in any study that considered dental caries as an outcome, since it takes longer for caries to develop to a stage that can be detected by any of the methods currently available,\u201d the Cochrane researchers write.",
+            "\u201d A commentary in a dental magazine stated that any benefit would be so minute, it might not be noticed by users."
+        ],
+        "tf-idf score": [
+            0.2617649129322712,
+            0.23245861904130405,
+            0.5564691553947877,
+            0.23245861904130405
+        ]
+    },
+    "0.3283442957795943-3-69": {
+        "average clique similarity": 0.3283442957795943,
+        "clique": [
+            "1-Regulatory agencies ",
+            "2-Still  the federal g",
+            "0-Still  governments  "
+        ],
+        "median tf-idf score": 0.4540119476756127,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Regulatory agencies that should have known better fell asleep at the switch for decades on end, trusting interested parties to provide their own research.",
+            "Still, the federal government, dental organizations and manufacturers of floss have pushed the practice for decades.",
+            "Still, governments, dental organisations and manufacturers of floss have pushed the practice for decades."
+        ],
+        "tf-idf score": [
+            0.23509002533799336,
+            0.49479039106016703,
+            0.4540119476756127
+        ]
+    },
+    "0.3547481791987373-4-16": {
+        "average clique similarity": 0.3547481791987373,
+        "clique": [
+            "1-The government decid",
+            "4-And in this year s g",
+            "3-The AP writes   When",
+            "2-When the federal gov"
+        ],
+        "median tf-idf score": 0.5434876187562353,
+        "publications": [
+            "New York Post",
+            "Vox",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "The government decided to quietly remove the recommendation for flossing this year, without formally notifying anyone.",
+            "And in this year\u2019s guidelines, the word floss doesn\u2019t show up once.",
+            "The AP writes:  When the federal government issued its latest dietary guidelines this year, the flossing recommendation had been removed, without notice.",
+            "When the federal government issued its latest dietary guidelines this year, the flossing recommendation had been removed, without notice."
+        ],
+        "tf-idf score": [
+            0.4972612429855904,
+            0.2862383338155623,
+            0.6571147600608522,
+            0.5897139945268802
+        ]
+    },
+    "0.3799692639626973-3-347": {
+        "average clique similarity": 0.3799692639626973,
+        "clique": [
+            "2-The AP looked at the",
+            "0-  AP also looked at ",
+            "3-Yet the industry has"
+        ],
+        "median tf-idf score": 0.32781827474389047,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "The AP looked at the most rigorous research conducted over the past decade, focusing on 25 studies that generally compared the use of a toothbrush with the combination of toothbrushes and floss.",
+            "\u201d AP also looked at the most rigorous research of the past decade.",
+            "Yet the industry has paid for most studies and sometimes designed and conducted the research\u201d."
+        ],
+        "tf-idf score": [
+            0.6929461111600548,
+            0.21367189247247328,
+            0.32781827474389047
+        ]
+    },
+    "0.39578497437263027-3-110": {
+        "average clique similarity": 0.39578497437263027,
+        "clique": [
+            "2-Last year  the Assoc",
+            "0-Last year journalist",
+            "4-Flossing has quietly"
+        ],
+        "median tf-idf score": 0.6768613702824956,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "Last year, the Associated Press asked the Departments of Health and Human Services and Agriculture for their evidence, and followed up with written requests under the Freedom of Information Act.",
+            "Last year journalists from the agency asked the departments of health and human services and agriculture in the US for their evidence that flossing works.",
+            "Flossing has quietly lost its place among recommendations for daily health, at least as prescribed in the Dietary Guidelines for Americans, which are issued every five years by the U S departments of Health and Human Services and Agriculture."
+        ],
+        "tf-idf score": [
+            0.47356395735532086,
+            0.6768613702824956,
+            0.7612783405995652
+        ]
+    },
+    "0.40440555446804866-4-62": {
+        "average clique similarity": 0.40440555446804866,
+        "clique": [
+            "1-The Associated Press",
+            "2-Procter   Gamble  wh",
+            "3-And as the AP story ",
+            "0-   Procter  Gamble  "
+        ],
+        "median tf-idf score": 0.7716173101764854,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "The Associated Press even found Big Floss unable to defend its $2 billion market, as the industry \u201cstruggled to provide convincing evidence of their claims that floss reduces plaque or gingivitis,\u201d even though it has \u201cpaid for most studies, and sometimes designed and conducted the research.",
+            "Procter & Gamble, which claims that its floss fights plaque and gingivitis, pointed to a   study, which was discounted as irrelevant in the 2011 research review.",
+            "And as the AP story pointed out, even the floss industry \u201dstruggled to provide convincing evidence of their claims that floss reduces plaque or gingivitis.",
+            "\u201d  Procter  Gamble, which markets several brands of the product and claims that its floss fights plaque and gingivitis, pointed to a   study, which was discounted as irrelevant in the 2011 research review."
+        ],
+        "tf-idf score": [
+            0.9775494169267818,
+            0.7446929439295108,
+            0.6383563929985746,
+            0.7985416764234599
+        ]
+    },
+    "0.4296972580817082-3-92": {
+        "average clique similarity": 0.4296972580817082,
+        "clique": [
+            "4- Since neither the 2",
+            "2-Another 2015 review ",
+            "0-   Another 2015 revi"
+        ],
+        "median tf-idf score": 0.48550279010404573,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dSince neither the 2010 nor 2015 Advisory Committees reviewed evidence on brushing and flossing teeth, the authors of the current edition decided not to carry forward the information on brushing and flossing included in past editions of the guidelines,\u201d she says.",
+            "Another 2015 review cites \u201c  evidence\u201d for flossing and a \u201clack of efficacy.",
+            "\u201d  Another 2015 review cites \u201c  evidence\u201d for flossing and a \u201clack of efficacy\u201d."
+        ],
+        "tf-idf score": [
+            0.7866375484629323,
+            0.48550279010404573,
+            0.48550279010404573
+        ]
+    },
+    "0.4334884474492086-3-143": {
+        "average clique similarity": 0.4334884474492086,
+        "clique": [
+            "0-One review conducted",
+            "2-   The majority of a",
+            "1-  The Associated Pre"
+        ],
+        "median tf-idf score": 0.9058800921138277,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "One review conducted last year said: \u201cThe majority of available studies fail to demonstrate that flossing is generally effective in plaque removal.",
+            "\u201d \u201cThe majority of available studies fail to demonstrate that flossing is generally effective in plaque removal,\u201d said one review conducted last year.",
+            "\u201d The Associated Press decided to do what our $4 trillion   couldn\u2019t be bothered to do, and took a look at \u201cthe most rigorous research conducted over the past decade, focusing on 25 studies that generally compared the use of a toothbrush with the combination of toothbrushes and floss."
+        ],
+        "tf-idf score": [
+            0.9058800921138277,
+            0.9058800921138277,
+            0.7655699961757514
+        ]
+    }
+}

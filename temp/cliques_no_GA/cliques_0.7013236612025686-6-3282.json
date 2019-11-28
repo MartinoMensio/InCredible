@@ -1,0 +1,378 @@
+{
+    "0.18512472706201252-3-57": {
+        "average clique similarity": 0.18512472706201252,
+        "clique": [
+            "4-Peres  93  is in sev",
+            "1-   PM Netanyahu spok",
+            "2-He is receiving appr"
+        ],
+        "median tf-idf score": 0.8005096088562444,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "Peres, 93, is in severe but stable condition, and is intubated and sedated, following Tuesday\u2019s stroke, said Dr Yitshak Kreiss, manager of Sheba Medical Center in Ramat Gan, where Peres is being treated.",
+            "\u201d \u201cPM Netanyahu spoke with the director of the Chaim Sheba Medical Center and was updated on the medical condition of former President Peres,\u201d it said.",
+            "He is receiving appropriate medical treatment\u201d."
+        ],
+        "tf-idf score": [
+            0.8005096088562444,
+            0.8894056764452329,
+            0.07895605309874937
+        ]
+    },
+    "0.1885297766827386-3-116": {
+        "average clique similarity": 0.1885297766827386,
+        "clique": [
+            "1-Peres s office had i",
+            "2-His condition is sta",
+            "5-After an   vigil in "
+        ],
+        "median tf-idf score": 0.8236630203913966,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "Peres\u2019s office had initially reported that the    former president was conscious and stable, but he has suffered in recent years from ill health.",
+            "His condition is stable and he is fully conscious.",
+            "After an   vigil in the hospital, with expressions of sympathy pouring in from around the world, his doctor said Wednesday morning that Mr Peres was in critical but stable condition and was not in immediate danger of death, although his chances of recovery remained uncertain."
+        ],
+        "tf-idf score": [
+            0.8236630203913966,
+            0.10126508337024398,
+            0.945596591353314
+        ]
+    },
+    "0.19017521155407455-3-196": {
+        "average clique similarity": 0.19017521155407455,
+        "clique": [
+            "0-Israeli TV stations ",
+            "1-Please follow the st",
+            "3- Israeli elder state"
+        ],
+        "median tf-idf score": 1.1296064282510656,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "Israeli TV stations, citing hospital officials, said Peres was suffering from bleeding to the brain and described his condition as serious.",
+            "Please follow the steps below, Updated at 4:05 p. m. NEWS BRIEF Shimon Peres, the former Israeli president, suffered a stroke with significant bleeding and was taken to hospital where he was sedated, the director of the hospital where he is being treated told reporters.",
+            " Israeli elder statesman and Nobel Peace Prize laureate Shimon Peres suffered a stroke on Tuesday and was put in a medically induced coma, hospital officials said."
+        ],
+        "tf-idf score": [
+            0.9089069858092867,
+            1.1296064282510656,
+            1.1684005982472274
+        ]
+    },
+    "0.19242977903206748-3-152": {
+        "average clique similarity": 0.19242977903206748,
+        "clique": [
+            "4-In July he laid the ",
+            "5-  The prime minister",
+            "0-In a message   Prime"
+        ],
+        "median tf-idf score": 0.9719880783528342,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "In July he laid the cornerstone for the Israeli Innovation Center at the Peres Peace House in Tel Aviv with President Reuven Rivlin and Prime Minister Benjamin Netanyahu.",
+            "\u201d The prime minister\u2019s office said in a separate statement that Mr Netanyahu had spoken with the hospital director to check on Mr Peres\u2019s condition.",
+            "In a message   Prime Minister Benjamin Netanyahu wished Peres a speedy recovery."
+        ],
+        "tf-idf score": [
+            1.045405293559381,
+            0.9719880783528342,
+            0.6709488583381447
+        ]
+    },
+    "0.20045650737328366-3-73": {
+        "average clique similarity": 0.20045650737328366,
+        "clique": [
+            "2-They issued this bri",
+            "5-JERUSALEM      Shimo",
+            "1-He had been hospital"
+        ],
+        "median tf-idf score": 0.9762983948388538,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "They issued this brief statement Tuesday: \u201dThe office of the 9th president wishes to update that the 9th president Shimon Peres has been hospitalized in the Tel Hashomer hospital after suffering a stroke.",
+            "JERUSALEM  \u2014   Shimon Peres, the Israeli former prime minister and president who shared a Nobel Peace Prize for his efforts to resolve the   conflict with the Palestinians, remained hospitalized on Wednesday after suffering what his doctor called a \u201cmassive stroke.",
+            "He had been hospitalized twice after suffering chest pains."
+        ],
+        "tf-idf score": [
+            0.9762983948388538,
+            1.2371714118152177,
+            0.09766361158531002
+        ]
+    },
+    "0.24200744444789346-3-14": {
+        "average clique similarity": 0.24200744444789346,
+        "clique": [
+            "4-Peres was rushed to ",
+            "1-Here s more from the",
+            "5-Mr Peres suffered a "
+        ],
+        "median tf-idf score": 0.6056015752013428,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "Peres was rushed to the hospital in   after suffering a minor heart attack.",
+            "Here\u2019s more from the Times of Israel: Earlier this month, Peres underwent surgery to receive an artificial pacemaker, after he was diagnosed with an abnormal heart rhythm in July following a series of minor health scares.",
+            "Mr Peres suffered a small heart attack this year and had a pacemaker implanted a week ago to deal with an irregular heart beat."
+        ],
+        "tf-idf score": [
+            0.6056015752013428,
+            0.8142240906807476,
+            0.5640947567058399
+        ]
+    },
+    "0.24533294234075928-4-123": {
+        "average clique similarity": 0.24533294234075928,
+        "clique": [
+            "3-In a career spanning",
+            "0-Peres has held virtu",
+            "5-He served as prime m",
+            "1-Peres served in almo"
+        ],
+        "median tf-idf score": 0.8603549987771499,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In a career spanning nearly seven decades, Peres, 93, served in a dozen cabinets and twice as a Labour Party prime minister, even though he never won a general election outright in five tries from 1977 to 1996.",
+            "Peres has held virtually every senior political office in Israel over a   career, including three terms as prime minister as well as stints as foreign minister and finance minister.",
+            "He served as prime minister twice, from 1984 to 1986, and after the assassination of Yitzhak Rabin in 1995.",
+            "Peres served in almost every major position in Israeli government over his more than six decades in political life: He was prime minister twice, and interim prime minister twice, as well."
+        ],
+        "tf-idf score": [
+            0.8179012368016066,
+            0.9028087607526932,
+            0.3795572154880059,
+            0.9894136799842754
+        ]
+    },
+    "0.2512271696309519-4-5": {
+        "average clique similarity": 0.2512271696309519,
+        "clique": [
+            "5-Mr Peres later serve",
+            "0-Peres has remained a",
+            "4-In Israeli politics ",
+            "1-Peres became preside"
+        ],
+        "median tf-idf score": 0.6331805913402252,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "Mr Peres later served as president of Israel, a more ceremonial post, from 2007 to 2014.",
+            "Peres has remained active since completing his   term as president in 2014, and is one of the country\u2019s most popular public figures.",
+            "In Israeli politics for more than half a century, Peres retired from public office in 2014 after his   term as president ended.",
+            "Peres became president in 2007 for one   term."
+        ],
+        "tf-idf score": [
+            0.6504738177873386,
+            0.6158873648931118,
+            0.6925108509346823,
+            0.423840432712566
+        ]
+    },
+    "0.2873417180371453-3-196": {
+        "average clique similarity": 0.2873417180371453,
+        "clique": [
+            "2-According to The Ass",
+            "4-By then  he had been",
+            "5-He was an important "
+        ],
+        "median tf-idf score": 0.5176414979464741,
+        "publications": [
+            "NPR",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "According to The Associated Press, he served three terms as prime minister and held the posts of foreign minister and finance minister.",
+            "By then, he had been in Israeli politics for more than half a century, holding virtually every position in Israel\u2019s Cabinet, from minister of defense to prime minister, a position he held twice.",
+            "He was an important player in developing Israel\u2019s military, including its nuclear program, and he served in multiple governments as defense minister and foreign minister."
+        ],
+        "tf-idf score": [
+            0.46747947592501077,
+            0.5666878155942124,
+            0.5176414979464741
+        ]
+    },
+    "0.287902507245569-4-196": {
+        "average clique similarity": 0.287902507245569,
+        "clique": [
+            "1-The Israeli prime mi",
+            "5- I wish former presi",
+            "2-Prime Minister Benja",
+            "3- Shimon  we love you"
+        ],
+        "median tf-idf score": 0.8497201845471842,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "The Israeli prime minister\u2019s office tweeted that Benjamin Netanyahu \u201cconveyed the prayers of the entire nation for former President Peres\u2019 quick recovery.",
+            "\u201cI wish former president Shimon Peres a speedy recovery,\u201d Prime Minister Benjamin Netanyahu wrote on Twitter.",
+            "Prime Minister Benjamin Netanyahu\u2019s office says he is praying for Peres\u2019 full recovery, Daniel Estrin reports from Tel Aviv.",
+            "\u201dShimon, we love you and the entire nation is wishing for your recovery,\u201d Prime Minister Benjamin Netanyahu said in a statement."
+        ],
+        "tf-idf score": [
+            0.976965353102915,
+            0.8571659373388847,
+            0.8422744317554838,
+            0.6127590219057027
+        ]
+    },
+    "0.2879330493641264-3-179": {
+        "average clique similarity": 0.2879330493641264,
+        "clique": [
+            "0-JERUSALEM      Forme",
+            "4-Tel Aviv  Israel  CN",
+            "2-Former Israeli Presi"
+        ],
+        "median tf-idf score": 1.3334612053831276,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "JERUSALEM  \u2014   Former Israeli President Shimon Peres suffered a stroke Tuesday and was rushed to a hospital, where he was sedated and placed on a respirator while he underwent a brain scan.",
+            "Tel Aviv, Israel (CNN) Former Israeli President and Prime Minister Shimon Peres\u2019 condition has improved somewhat a day after his stroke, and he was able to shake his   \u2019s hand as physicians reduced his level of sedation, doctors said Wednesday.",
+            "Former Israeli President and Prime Minister Shimon Peres, who turned 93 last month, suffered a stroke and was rushed to a hospital in Tel Aviv, according to representatives from his office."
+        ],
+        "tf-idf score": [
+            1.0978171253051427,
+            1.5205696714119152,
+            1.3334612053831276
+        ]
+    },
+    "0.2938625514438105-3-121": {
+        "average clique similarity": 0.2938625514438105,
+        "clique": [
+            "3- It seems we will ha",
+            "1-We will have to make",
+            "5-Doctors put Mr Peres"
+        ],
+        "median tf-idf score": 0.06331210781129155,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201dIt seems we will have to make decisions going forward, though not at the moment\u201d.",
+            "We will have to make certain decisions.",
+            "Doctors put Mr Peres back to sleep to give his brain a chance to recover, and they will transfer him to the neurosurgical intensive care unit at Chaim Sheba Medical Center at Tel HaShomer, but they will allow the sedation to wear off again briefly on Wednesday afternoon to test his reactions."
+        ],
+        "tf-idf score": [
+            0.06331210781129155,
+            0.03972642889494875,
+            0.7345012939416988
+        ]
+    },
+    "0.32247624401888236-3-102": {
+        "average clique similarity": 0.32247624401888236,
+        "clique": [
+            "1-   currently sedated",
+            "3-The hospital s direc",
+            "4-Peres was taken to t"
+        ],
+        "median tf-idf score": 0.7047891853393967,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            ".. currently sedated\u201d BREAKING: Hospital director: Israel\u2019s Peres suffered stroke \u2019with lots of bleeding\u2019 Chemi Peres, Peres\u2019s son, told reporters: \u201cThis is a difficult time.",
+            "The hospital\u2019s director told reporters that Peres had \u201dsuffered from a major stroke with a component of bleeding\u201d.",
+            "Peres was taken to the hospital Tuesday after what Kreiss described as a stroke involving \u201da component of bleeding\u201d."
+        ],
+        "tf-idf score": [
+            0.7675127413741178,
+            0.6262612409733687,
+            0.7047891853393967
+        ]
+    },
+    "0.38585160754218134-4-22": {
+        "average clique similarity": 0.38585160754218134,
+        "clique": [
+            "3-Peres shared the Nob",
+            "2-In 1994  Peres was j",
+            "0-He won the 1994 Nobe",
+            "1-He was foreign minis"
+        ],
+        "median tf-idf score": 0.9255712646335857,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Peres shared the Nobel Peace Prize with Israel\u2019s late prime minister Yitzhak Rabin and late Palestinian leader Yasser Arafat for a 1993 interim peace deal that they and their successors failed to turn into a durable treaty.",
+            "In 1994, Peres was jointly awarded the Nobel Peace Prize with   Prime Minister Yitzhak Rabin and Palestinian leader Yasser Arafat for their efforts in negotiating the Oslo Accord, the first interim peace agreement between Israel and the Palestine Liberation Organization.",
+            "He won the 1994 Nobel Peace Prize for his work in reaching an interim peace agreement with the Palestinians.",
+            "He was foreign minister in Yitzhak Rabin\u2019s government, and his role in the talks that led to the Oslo Accords won him the 1994 Nobel Peace Prize (which he shared with Rabin and Yasser Arafat, the Palestinian leader)."
+        ],
+        "tf-idf score": [
+            1.0764244193248342,
+            1.283190947915949,
+            0.2687395846884156,
+            0.7747181099423373
+        ]
+    },
+    "0.4481523914122752-3-196": {
+        "average clique similarity": 0.4481523914122752,
+        "clique": [
+            "0- Shimon  we love you",
+            "5- Shimon  we love you",
+            "2-Shimon  we love you "
+        ],
+        "median tf-idf score": 0.2642152211712096,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cShimon, we love you and the entire nation wishes you get well,\u201d he said.",
+            "\u201cShimon, we love you and the entire people wish for you recovery.",
+            "Shimon, we love you and the entire nation hopes for your recovery,\u201d Netanyahu said on Facebook."
+        ],
+        "tf-idf score": [
+            0.2642152211712096,
+            0.21297846461524497,
+            0.35724462152751896
+        ]
+    }
+}

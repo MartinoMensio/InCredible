@@ -1,0 +1,442 @@
+{
+    "0.15496264988678882-3-127": {
+        "average clique similarity": 0.15496264988678882,
+        "clique": [
+            "4-   A dozen nonprofit",
+            "2-The decision is a se",
+            "1-The impact will be h"
+        ],
+        "median tf-idf score": 0.630897761776486,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d \u201cA dozen nonprofit health insurance cooperatives created by the ACA to sell coverage on the exchanges have already folded, and the survivors all lost millions last year,\u201d the AP adds.",
+            "The decision is a sequel to an announcement by executives late last year that the insurer had suffered financial losses and might leave the health exchanges altogether in 2017.",
+            "The impact will be hardest felt in the South and the Midwest, where there are already few options in the exchanges for consumers to choose from, and it could leave as many as 1."
+        ],
+        "tf-idf score": [
+            0.630897761776486,
+            0.640742676491296,
+            0.3179888680234077
+        ]
+    },
+    "0.16193904875407683-3-0": {
+        "average clique similarity": 0.16193904875407683,
+        "clique": [
+            "3-It s become clear th",
+            "0- With millions of Am",
+            "2- Obamacare and drug "
+        ],
+        "median tf-idf score": 0.5584141226355033,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "It\u2019s become clear that insurers   their premiums in Obamacare\u2019s initial years, and with risks pools smaller and sicker than expected, it\u2019s likely that some premiums will go up in 2017.",
+            "\u201cWith millions of Americans insured through the marketplaces, it\u2019s clear that this is a growing business for insurers,\u201d he said.",
+            "[Obamacare and drug prices push health spending to $3 trillion]   Several observers said that while the decision is a clear signal of the troubles insurers face in making money in the marketplaces, it doesn\u2019t mean that other companies will follow suit."
+        ],
+        "tf-idf score": [
+            0.4332787847199623,
+            0.5584141226355033,
+            0.8546330227587292
+        ]
+    },
+    "0.16779183596655586-3-239": {
+        "average clique similarity": 0.16779183596655586,
+        "clique": [
+            "3-News that the United",
+            "4-The rest of Hemsley ",
+            "0-Policy analysts have"
+        ],
+        "median tf-idf score": 0.6069088486333332,
+        "publications": [
+            "Talking Points Memo",
+            "Breitbart",
+            "New York Times"
+        ],
+        "sentences": [
+            "News that the UnitedHealth, a major insurer, is cutting back its involvement in Affordable Care Act exchanges isn\u2019t great news for the Obama administration.",
+            "The rest of Hemsley\u2019s earnings call was upbeat, with Forbes reporting   earnings that \u201covershadowed its retreat from public exchanges under the Affordable Care Act.",
+            "Policy analysts have been watching UnitedHealth closely as an indicator of whether the new individual market developed under the Affordable Care Act is sustainable."
+        ],
+        "tf-idf score": [
+            0.7217508757137103,
+            0.48371514883600886,
+            0.6069088486333332
+        ]
+    },
+    "0.17267476437340326-3-208": {
+        "average clique similarity": 0.17267476437340326,
+        "clique": [
+            "1-It would mean that 5",
+            "4-1 million ObamaCare ",
+            "2-Even if United exite"
+        ],
+        "median tf-idf score": 0.44173303393940344,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "It would mean that 532 counties would drop from three insurers, down to two.",
+            "1 million ObamaCare customers would be left with a single insurance provider to \u201cchoose\u201d from, if UnitedHealth withdrew from every ACA exchange.",
+            "Even if United exited all states, most marketplace enrollees would still have the ability to choose between three or more insurers."
+        ],
+        "tf-idf score": [
+            0.2340339284436296,
+            0.7439966813887755,
+            0.44173303393940344
+        ]
+    },
+    "0.17893750981631484-3-11": {
+        "average clique similarity": 0.17893750981631484,
+        "clique": [
+            "4-UnitedHealth  Americ",
+            "0-UnitedHealth  which ",
+            "3-The challenges Unite"
+        ],
+        "median tf-idf score": 0.8762998412608555,
+        "publications": [
+            "New York Times",
+            "Breitbart",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "UnitedHealth, America\u2019s largest health insurance provider, says it will exit from most ObamaCare exchanges next year, citing more than $1 billion in losses.",
+            "UnitedHealth, which was a late and seemingly reluctant participant in the public exchanges, surprised investors last year when it announced its sizable losses, now estimated at more than a combined $1 billion for 2015 and 2016, because of its poor performance in the public exchanges.",
+            "The challenges UnitedHealth was facing on the exchanges are legitimate, but rather than a canary in the coal mine of Obamacare doom, health care experts tell TPM, the news of UnitedHealth\u2019s exit should be seen as collateral damage from the general chaos of a industry in transition, and that the specifics of its own business model    including its strategy in the individual markets in particular    played an important role in its decision."
+        ],
+        "tf-idf score": [
+            0.8762998412608555,
+            0.7743000871522143,
+            1.1632894758335979
+        ]
+    },
+    "0.1837688472613539-3-173": {
+        "average clique similarity": 0.1837688472613539,
+        "clique": [
+            "1-  UnitedHealth said ",
+            "3-Furthermore  UnitedH",
+            "4-  UnitedHealth evide"
+        ],
+        "median tf-idf score": 0.593677159806733,
+        "publications": [
+            "Breitbart",
+            "Talking Points Memo",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d UnitedHealth said it expects to lose $650 million in the exchanges this year.",
+            "Furthermore, UnitedHealth decided to sit out the first year the marketplaces were in operation, meaning it has had one fewer year than its competitors to game out pricing according to its risk pools.",
+            "\u201d UnitedHealth evidently didn\u2019t want to stay in the game for another year to see how that new adventure in   worked out."
+        ],
+        "tf-idf score": [
+            0.7003640025438832,
+            0.593677159806733,
+            0.3709399757433844
+        ]
+    },
+    "0.19070172476788047-3-195": {
+        "average clique similarity": 0.19070172476788047,
+        "clique": [
+            "3-Currently  15 percen",
+            "4-This year  in 36 per",
+            "1-And 536 counties wou"
+        ],
+        "median tf-idf score": 0.2068630683819142,
+        "publications": [
+            "Atlantic",
+            "Talking Points Memo",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Currently, 15 percent of exchange users have only one or two choices.",
+            "This year, in 36 percent of the nation\u2019s counties, families could pick between only one or two insurers on the exchange and, given today\u2019s news, next year looks like it could be even worse.",
+            "And 536 counties would have one insurer."
+        ],
+        "tf-idf score": [
+            0.2068630683819142,
+            0.5899737747261778,
+            0.1728936597033709
+        ]
+    },
+    "0.19283949810703316-3-185": {
+        "average clique similarity": 0.19283949810703316,
+        "clique": [
+            "1-But insurers have co",
+            "3-But that s not a gua",
+            "2- To me  it s a sign "
+        ],
+        "median tf-idf score": 0.2157659595866814,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "But insurers have complained that they can\u2019t make money in the marketplace programs.",
+            "But that\u2019s not a guarantee that they\u2019re planning moves as drastic.",
+            "\u201dTo me, it\u2019s a sign of a process of evolution, where the sellers really have to change what they do to make money in this market    and they\u2019re starting to\u201d."
+        ],
+        "tf-idf score": [
+            0.31434918731732964,
+            0.028856848784835805,
+            0.2157659595866814
+        ]
+    },
+    "0.23901142555106084-3-19": {
+        "average clique similarity": 0.23901142555106084,
+        "clique": [
+            "1-UnitedHealth Group  ",
+            "3-According to the Kai",
+            "2- We will be down to "
+        ],
+        "median tf-idf score": 0.979379669278668,
+        "publications": [
+            "Atlantic",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "UnitedHealth Group, the largest   provider in the U S said that next year it will pull out of Affordable Care Act marketplaces in most of the 34 states where it now operates.",
+            "According to the Kaiser report, if UnitedHealth pulled out from  exchanges in all 34 states it\u2019s participating in (and at this point, only a handful of states are known for sure to be affected) 30 percent of enrollees will be left with one or two other insurer options, meaning those states in 2017 could be less competitive.",
+            "\u201dWe will be down to a handful of states that we will be actively participating in the exchanges,\u201d Stephen J Hemsley, chief executive officer of UnitedHealth Group said in an earnings call, noting that the small market size and greater expense of patients insured through the marketplaces led the insurer to make the decision."
+        ],
+        "tf-idf score": [
+            0.8894379973633498,
+            0.979379669278668,
+            1.3621091385381099
+        ]
+    },
+    "0.24042933668938682-4-239": {
+        "average clique similarity": 0.24042933668938682,
+        "clique": [
+            "0- This is still a new",
+            "2-The true impact of U",
+            "1-1 million people wit",
+            "4-The Washington Post "
+        ],
+        "median tf-idf score": 0.5221651472004516,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Atlantic",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201cThis is still a new market, and both entrants and exits come with the territory,\u201d Cynthia Cox, one of the authors of a recent analysis from the Kaiser Family Foundation, said of the impact if UnitedHealth were to leave all of its markets.",
+            "The true impact of UnitedHealth\u2019s departure will vary by location, according to a new report by the Kaiser Family Foundation.",
+            "1 million people with just one health plan option, according to a report by the Kaiser Family Foundation.",
+            "The Washington Post cites a Kaiser Family Foundation study that estimated about 1."
+        ],
+        "tf-idf score": [
+            0.8281277845001302,
+            0.5177451782814528,
+            0.5265851161194505,
+            0.16469874123037315
+        ]
+    },
+    "0.24622784510340187-4-190": {
+        "average clique similarity": 0.24622784510340187,
+        "clique": [
+            "2-UnitedHealth Group  ",
+            "0-The UnitedHealth Gro",
+            "3-For one  while Unite",
+            "4-The Hill relates Oba"
+        ],
+        "median tf-idf score": 1.088951125194654,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "New York Times",
+            "Breitbart"
+        ],
+        "sentences": [
+            "UnitedHealth Group, the nation\u2019s largest health insurer, said Tuesday that in 2017 it will exit most of the 34 states where it offers plans on the Affordable Care Act insurance exchanges.",
+            "The UnitedHealth Group, one of the nation\u2019s largest health insurers, told investors on Tuesday that it continued to lose hundreds of millions of dollars selling individual policies under the federal health care law.",
+            "For one, while UnitedHealth is indeed the nation\u2019s largest insurer, it is a relatively small player on the individual exchanges, according to Cynthia Cox,  the associate director for the Program for the Study of Health Reform and Private Insurance at the Kaiser Family Foundation, which released a report Monday examining the consequences if UnitedHealth withdrew from the marketplaces entirely.",
+            "The Hill relates Obama Administration efforts to spin the UnitedHealth disaster by arguing that despite its status as the nation\u2019s largest insurance provider, and its expansion to 34 states, it was a \u201cfairly small player on the ObamaCare marketplaces."
+        ],
+        "tf-idf score": [
+            1.2419083917293545,
+            0.8699796102673518,
+            1.2492443088479415,
+            0.9359938586599532
+        ]
+    },
+    "0.25162433101144355-3-154": {
+        "average clique similarity": 0.25162433101144355,
+        "clique": [
+            "4- CEO Stephen Hemsley",
+            "3-  The decision by Un",
+            "1- The smaller overall"
+        ],
+        "median tf-idf score": 0.8133793765622068,
+        "publications": [
+            "Atlantic",
+            "Talking Points Memo",
+            "Breitbart"
+        ],
+        "sentences": [
+            "[CEO Stephen Hemsley says his company \u201ccannot continue to broadly serve the market created by the Affordable Care Act\u2019s coverage expansion due partly to the higher risk that comes with its customers,\u201d as reported by the Associated Press.",
+            "\u201d The decision by UnitedHealth to withdraw from the Obamacare exchange in all but a \u201chandful\u201d of states, as CEO Stephen Hemsley announced on an investor call Tuesday morning, is by no means shocking.",
+            "\u201cThe smaller overall market size and shorter term, higher risk profile within this market segment continue to suggest we cannot broadly serve it on an effective and sustainable basis,\u201d Unitedhealth\u2019s CEO, Stephen J Hemsley said."
+        ],
+        "tf-idf score": [
+            0.6793756316002532,
+            0.8133793765622068,
+            0.8806165092287879
+        ]
+    },
+    "0.26312070578561636-3-14": {
+        "average clique similarity": 0.26312070578561636,
+        "clique": [
+            "0-The number of insura",
+            "1-The Kaiser report sa",
+            "2-The number of issuer"
+        ],
+        "median tf-idf score": 0.7948163716468748,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The number of insurance carriers for every state has increased every year, Ben Wakana, a spokesman for the Health and Human Services Department, which oversees the exchanges, said in a statement.",
+            "The Kaiser report said that if UnitedHealth were to withdraw from all state marketplaces, the effect would vary in each state, and even by county.",
+            "The number of issuers per state has grown  \u201d Health and Human Services spokesman Ben Wakana said in a statement released Monday morning."
+        ],
+        "tf-idf score": [
+            0.8786826050276281,
+            0.7948163716468748,
+            0.6205544988898759
+        ]
+    },
+    "0.2866445638277153-3-199": {
+        "average clique similarity": 0.2866445638277153,
+        "clique": [
+            "4-  However  The Hill ",
+            "2-Last month  the Blue",
+            "1-A Blue Cross Blue Sh"
+        ],
+        "median tf-idf score": 0.5248418510134565,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201d However, The Hill acknowledged that some of the much larger players, including Blue Cross Blue Shield, \u201chave also raised the prospect of dropping off the marketplaces.",
+            "Last month, the Blue Cross Blue Shield Association released a report indicating that new members who enrolled in individual plans used more medical services of all kinds and accounted for health care spending 22 percent higher than people with   insurance in 2015.",
+            "A Blue Cross Blue Shield report released in March found that average monthly medical spending for someone insured in the marketplace was higher than someone insured through their employer \u2014   \u2014  about $560 each month compared with $460."
+        ],
+        "tf-idf score": [
+            0.26290678045935756,
+            0.7565028034175415,
+            0.5248418510134565
+        ]
+    },
+    "0.28758421202147894-3-239": {
+        "average clique similarity": 0.28758421202147894,
+        "clique": [
+            "0-While the analysis f",
+            "2-That analysis found ",
+            "4-According to this an"
+        ],
+        "median tf-idf score": 0.3110729629752149,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "While the analysis found the overall impact to be modest, if UnitedHealth left all the markets and was not replaced by another carrier, the Kaiser analysis found, \u201cthe effect on insurer competition could be significant in some markets  \u2014   particularly in rural areas and Southern states.",
+            "That analysis found that, if United were to drop out of all the states, 1.",
+            "According to this analysis, \u201cthe impact could be significant in some areas, particularly in rural areas in Southern states."
+        ],
+        "tf-idf score": [
+            0.9539869270046992,
+            0.2406679109084383,
+            0.3110729629752149
+        ]
+    },
+    "0.2995524640048059-3-67": {
+        "average clique similarity": 0.2995524640048059,
+        "clique": [
+            "2-UnitedHealth plans t",
+            "4-It has already been ",
+            "1-In the past week  it"
+        ],
+        "median tf-idf score": 0.3645795082996571,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Atlantic"
+        ],
+        "sentences": [
+            "UnitedHealth plans to withdraw from health insurance marketplaces in Arkansas, Michigan, Connecticut and parts of Georgia.",
+            "It has already been announced that the company was pulling out of Arkansas, Georgia, and Michigan.",
+            "In the past week, it said it\u2019d leave marketplaces in Arkansa, Michigan, and much of Georgia."
+        ],
+        "tf-idf score": [
+            0.5943532200472907,
+            0.24689866710298947,
+            0.3645795082996571
+        ]
+    },
+    "0.36825594641481363-3-139": {
+        "average clique similarity": 0.36825594641481363,
+        "clique": [
+            "1-It now insures 795  ",
+            "0-The company has 795 ",
+            "2-In the call  executi"
+        ],
+        "median tf-idf score": 0.43274383976785663,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It now insures 795, 000 people through the exchange, which it expects to drop 650, 000 by the end of the year.",
+            "The company has 795, 000 people in its plans, a small fraction of the roughly 13 million people who have signed up for 2016.",
+            "In the call, executives said they cover 795, 000 people through the exchanges and expect that number to drop to 650, 000 by December."
+        ],
+        "tf-idf score": [
+            0.39525245247043816,
+            0.43274383976785663,
+            0.5169752189462291
+        ]
+    },
+    "0.4037496839742804-3-239": {
+        "average clique similarity": 0.4037496839742804,
+        "clique": [
+            "4-The announcement cam",
+            "0-UnitedHealth estimat",
+            "2-UnitedHealth reporte"
+        ],
+        "median tf-idf score": 0.4936613538179439,
+        "publications": [
+            "Breitbart",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The announcement came after UnitedHealth revised its projection for 2016 to $650 million in losses, up from a previous estimate of $525 million, after ending 2015 some $475 million in the red.",
+            "UnitedHealth estimated its losses from the exchanges would be $650 million this year.",
+            "UnitedHealth reported that it expects to lose $650 million in the exchanges in 2016."
+        ],
+        "tf-idf score": [
+            0.40249713404808096,
+            0.5587361320200105,
+            0.4936613538179439
+        ]
+    }
+}

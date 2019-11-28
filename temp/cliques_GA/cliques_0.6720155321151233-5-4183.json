@@ -1,0 +1,446 @@
+{
+    "0.17762056642979662-3-28": {
+        "average clique similarity": 0.17762056642979662,
+        "clique": [
+            "2-The central constitu",
+            "1-The   ruling held th",
+            "0-The court has said i"
+        ],
+        "median tf-idf score": 1.0746914665440466,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "The central constitutional question was: Did the policies put an \"undue burden\" on women when they are forced to drive hundreds of miles because their nearest clinic has closed due to regulatory hurdles? The Court found that it did.",
+            "The   ruling held that the   2013 Texas law placed an undue burden on women exercising their right under the U S Constitution to end a pregnancy, established in the court's landmark 1973 Roe v. Wade decision.",
+            "The court has said in the past that states can regulate access to abortion but not in a way that causes an undue burden on women."
+        ],
+        "tf-idf score": [
+            0.8703394933399209,
+            1.0746914665440466,
+            1.1457714838692588
+        ]
+    },
+    "0.18494619716356206-3-179": {
+        "average clique similarity": 0.18494619716356206,
+        "clique": [
+            "3- It is not unassaila",
+            "0-Opponents of the bil",
+            "4-The court concluded "
+        ],
+        "median tf-idf score": 1.217198337932827,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "\"It is not unassailable 'common sense'\" to assume that the    requirement would limit clinics' capacity to perform abortions, Samuel Alito wrote in a dissenting opinion.",
+            "Opponents of the bill argued before the court that if both requirements were to be enforced, only 10 clinics would remain to perform abortions in Texas, compared with more than 40 before the law was passed.",
+            "The court concluded that the Texas law would greatly limit the ability of women in Texas to have access to abortions, without any evidence that the restrictions were necessary to protect women's health."
+        ],
+        "tf-idf score": [
+            0.7017859277149872,
+            1.217198337932827,
+            1.2895763145986379
+        ]
+    },
+    "0.18563492329841058-3-122": {
+        "average clique similarity": 0.18563492329841058,
+        "clique": [
+            "4-Indeed  the district",
+            "3-They rally around ex",
+            "1-Since the law was pa"
+        ],
+        "median tf-idf score": 1.2155843961348476,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Indeed, the district court found that the Texas law was adopted with the purpose    and would have the effect    of keeping women from having access to abortions.",
+            "They rally around explanations based on medicine and science to defend the extra requirements. The only way the Court could judge whether this law violates women's rights was through its consequences: the number of abortion facilities that could no longer provide the procedure following the enactment of the   requirement (roughly 20, according to Court documents) the cost of full compliance with the new law (anywhere from $1.",
+            "Since the law was passed, the number of abortion clinics in Texas, the    U S state with about 27 million people, had dropped from 41 to 19."
+        ],
+        "tf-idf score": [
+            1.2155843961348476,
+            1.3971468738712014,
+            1.0131015451953025
+        ]
+    },
+    "0.18722028510124686-3-19": {
+        "average clique similarity": 0.18722028510124686,
+        "clique": [
+            "4-The court stressed t",
+            "2-Many women also had ",
+            "3-An Undue Burden in T"
+        ],
+        "median tf-idf score": 1.1401328078780988,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "The court stressed that in deciding whether a law imposes an undue burden on abortion, it is for the judiciary to balance the justifications for the restrictions against its effect on the ability of women to have access to abortions.",
+            "Many women also had to drive much farther to reach their nearest clinic than they would have before HB2. Increased driving distances alone don't necessarily constitute an \"undue burden\" under Casey, the opinion noted: \"But here, those increases are but one additional burden, which, when taken together with others that the closings brought about, and when viewed in light of the virtual absence of any health benefit, lead us to conclude that the record adequately supports the District Court's 'undue burden' conclusion\".",
+            "An Undue Burden in Texas, \"It is beyond rational belief that H B 2 could genuinely protect the health of women, and certain that the law 'would simply make it more difficult for them to obtain abortions,'\" she wrote."
+        ],
+        "tf-idf score": [
+            1.1615318528995917,
+            1.0225868952779953,
+            1.1401328078780988
+        ]
+    },
+    "0.19395191394685876-3-240": {
+        "average clique similarity": 0.19395191394685876,
+        "clique": [
+            "4-But the court s ruli",
+            "1-The ruling in the ca",
+            "3-Whole Woman s Health"
+        ],
+        "median tf-idf score": 0.8547168847456084,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "But the court's ruling in Whole Women's Health today reflects that there are not five votes to uphold such laws.",
+            "The ruling in the case, Whole Woman's Health v. Hellerstedt, represented the most vigorous affirmation of abortion rights in the United States since a 1992 ruling affirmed a woman's right to have the procedure.",
+            "Whole Woman's Health v. Hellerstedt definitively privileges one side's version of the truth about abortion restrictions. But that doesn't mean the facts that won out in this decision are not still contested."
+        ],
+        "tf-idf score": [
+            0.8133961111393713,
+            0.9682237098759042,
+            0.8547168847456084
+        ]
+    },
+    "0.1959218328050969-3-100": {
+        "average clique similarity": 0.1959218328050969,
+        "clique": [
+            "1-The ruling means sim",
+            "2-It should also inval",
+            "3-Monday s ruling was "
+        ],
+        "median tf-idf score": 1.118801615455014,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "The ruling means similar laws in other states are probably unconstitutional and could put in jeopardy other types of abortion restrictions enacted in various conservative states.",
+            "It should also invalidate similar laws that other states have already passed  --   particularly Louisiana, where the Supreme Court recently blocked similar restrictions, and Mississippi, where the last remaining abortion clinic in the state has been threatened with closure.",
+            "Monday's ruling was a significant victory for   advocates, and the Court seems to have sent a warning to legislators in other states who are considering similar legislation on admitting privileges and medical requirements for abortion facilities."
+        ],
+        "tf-idf score": [
+            0.8324436806675203,
+            1.22223313357754,
+            1.118801615455014
+        ]
+    },
+    "0.2048492881077005-3-40": {
+        "average clique similarity": 0.2048492881077005,
+        "clique": [
+            "2-As Ruth Bader Ginsbu",
+            "3-   I want to receive",
+            "4-And now the Supreme "
+        ],
+        "median tf-idf score": 0.7343514121877206,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "As Ruth Bader Ginsburg put it in her concurring opinion, \"It is beyond rational belief that H B 2 could genuinely protect the health of women\".",
+            "   I want to receive updates from partners and sponsors. In a single paragraph, Ruth Bader Ginsburg named something the other U S Supreme Court justices wouldn't: Regulations on abortion providers, often called TRAP laws, are not intended to protect the health of women.",
+            "And now the Supreme Court, in a   decision, reversed. Justice Stephen Breyer wrote the opinion for the court, joined by Justices Anthony Kennedy, Ruth Bader Ginsburg, Sonia Sotomayor, and Elena Kagan."
+        ],
+        "tf-idf score": [
+            0.43714011108748885,
+            1.3552940200789534,
+            0.7343514121877206
+        ]
+    },
+    "0.20985159124474237-3-14": {
+        "average clique similarity": 0.20985159124474237,
+        "clique": [
+            "1-The court declared t",
+            "2-In short  there was ",
+            "4-The federal district"
+        ],
+        "median tf-idf score": 1.3333398912769874,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "The court declared that both key provisions of the law   requiring abortion doctors to have     \"admitting privileges\" at a local hospital and requiring clinics to have costly   facilities   violated a woman's right to an abortion.",
+            "In short, there was no good evidence in the record to support Texas's key argument: that admitting privileges and ambulatory surgical centers make abortion safer for women.",
+            "The federal district court issued a preliminary injunction, finding that the law likely was unconstitutional as creating an impermissible undue burden on a woman's right to abortion: there was no evidence that it protected women's health (a woman experiencing complications at an abortion facility would be taken to the local emergency room) and there was no need for surgical level facilities."
+        ],
+        "tf-idf score": [
+            1.3333398912769874,
+            1.0816607383359407,
+            1.542600660911456
+        ]
+    },
+    "0.21390981862576877-3-59": {
+        "average clique similarity": 0.21390981862576877,
+        "clique": [
+            "4-But in 1992  in Plan",
+            "2-Under the landmark 1",
+            "3-Thomas  who wrote a "
+        ],
+        "median tf-idf score": 0.9194893460078061,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "But in 1992, in Planned Parenthood v. Casey, Justice Kennedy was part of a   majority to reaffirm Roe. Since then, however, in every abortion case, Justice Kennedy has been with the conservative majority in voting to uphold restrictions on abortions.",
+            "Under the landmark 1992 Planned Parenthood v. Casey decision, which upheld Roe v. Wade but weakened its legal standards, states were allowed to pass laws designed to convince women to change their mind about having an abortion.",
+            "Thomas, who wrote a separate dissent, focused on the notion of \"undue burden,\" a test for abortion regulations established by the 1992 Supreme Court case Planned Parenthood v. Casey."
+        ],
+        "tf-idf score": [
+            0.8741077855475301,
+            1.0466897517246478,
+            0.9194893460078061
+        ]
+    },
+    "0.22588329148730768-3-223": {
+        "average clique similarity": 0.22588329148730768,
+        "clique": [
+            "4-  CNN  The Supreme C",
+            "3-While the Supreme Co",
+            "2-The court s ruling i"
+        ],
+        "median tf-idf score": 1.2559577523081114,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            " (CNN) The Supreme Court's decision in Whole Women's Health v. Hellerstedt sends a clear message:  State laws adopted to restrict access to abortion are unconstitutional.",
+            "While the Supreme Court's decision in Whole Woman's Health v. Hellerstedt is legally complicated --  concerning issues from the standing of the plaintiffs to their right to pursue this case all the way to the Supreme Court --  the lonely stand of Ruth Bader Ginsburg speaks to the difficult issue looming behind it: Legislators both for and against bills like H B 2 claim they are protecting the health of women.",
+            "The court's ruling in Whole Woman's Health v. Hellerstedt also strikes a blow to a strategy by the   movement to limit abortion access incrementally, through state laws."
+        ],
+        "tf-idf score": [
+            1.4040131527535666,
+            1.0355704979145246,
+            1.2559577523081114
+        ]
+    },
+    "0.22620484454686962-4-109": {
+        "average clique similarity": 0.22620484454686962,
+        "clique": [
+            "0-In a decision striki",
+            "3-In addition to writi",
+            "2- In a huge victory f",
+            "1- The U S Supreme Cou"
+        ],
+        "median tf-idf score": 1.1246708058461192,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "In a decision striking down key aspects of a Texas abortion law Monday, the Supreme Court cast doubt on similar laws in nearly   states.",
+            "In addition to writing a short concurring opinion, Ginsburg joined four other justices in a decision Monday that effectively struck down major components of H B 2, a 2013 Texas law that created significant, and arguably unsustainable, requirements for operation procedures at abortion clinics.",
+            " In a huge victory for the   movement, the Supreme Court voted   Monday to strike down two major   provisions that were part of an omnibus   law Texas passed in 2013.",
+            " The U S Supreme Court on Monday struck down a Texas abortion law imposing strict regulations on doctors and facilities in the strongest endorsement of abortion rights in America in more than two decades."
+        ],
+        "tf-idf score": [
+            1.1545992879138802,
+            1.2010693551247458,
+            0.7231443459861993,
+            1.0947423237783585
+        ]
+    },
+    "0.23067233667518383-3-119": {
+        "average clique similarity": 0.23067233667518383,
+        "clique": [
+            "2-Thomas was the only ",
+            "0-Rikelman said that i",
+            "4-For example  in Gonz"
+        ],
+        "median tf-idf score": 1.2524549340495632,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Thomas was the only justice who would have actually voted to uphold the Texas laws; the other two would have remanded the case back to the Fifth Circuit Court of Appeals for additional findings. The dissenting justices argued that the majority's opinion had procedural problems, and that it \"simply disregards basic rules that apply in all other cases\".",
+            "Rikelman said that in several cases where state laws were blocked pending the outcome of this case, including in Wisconsin, Louisiana and Alabama, \"this reinforces\" lower court rulings that found those laws \"were likely unconstitutional\". The main dissent in the case was written by Justice Samuel Alito, and joined by Chief Justice John Roberts and Justice Clarence Thomas.",
+            "For example, in Gonzalez v. Carhart, in 2007, Justice Kennedy wrote the court's opinion upholding the federal   Abortion Ban Act. Obviously, if Justice Kennedy had voted with Chief Justice Roberts and Justices Thomas and Alito to uphold the Texas law, it would have been a   split and the Texas law would have gone into effect."
+        ],
+        "tf-idf score": [
+            1.1337768927923664,
+            1.2949531722920518,
+            1.2524549340495632
+        ]
+    },
+    "0.23778765583383119-3-145": {
+        "average clique similarity": 0.23778765583383119,
+        "clique": [
+            "4-When Kennedy first c",
+            "0-One of the key quest",
+            "2-Justice Anthony Kenn"
+        ],
+        "median tf-idf score": 0.9925612378798814,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "When Kennedy first came on the court, it was widely thought that he would vote to overrule Roe v. Wade. In fact, in the first abortion case where he participated, Webster v. Reproductive Health Services, in 1989, he joined with Chief Justice William Rehnquist and Justice Byron White    the two dissenting justices in Roe    in an opinion that would have overruled Roe v. Wade.",
+            "One of the key questions was which side Justice Anthony Kennedy, who has been a swing vote on abortion issues, would join. He signed onto the majority opinion with the four justices who traditionally support abortion rights.",
+            "Justice Anthony Kennedy, in typical fashion, was the Court's swing vote. He's voted to uphold abortion rights in the past, more or less, but it's well known that he generally opposes abortion as a practice."
+        ],
+        "tf-idf score": [
+            1.1861459890397845,
+            0.9189397323564142,
+            0.9925612378798814
+        ]
+    },
+    "0.2511793670252756-3-155": {
+        "average clique similarity": 0.2511793670252756,
+        "clique": [
+            "4-The U S Court of App",
+            "2-Background of the ca",
+            "3-While the majority o"
+        ],
+        "median tf-idf score": 0.8484280835853755,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "The U S Court of Appeals for the Fifth Circuit reversed. The Fifth Circuit said that it is for the state legislature, not the judiciary, to assess whether the law protects women's health.",
+            "Background of the case If the Supreme Court hadn't intervened, a ruling from the Fifth Circuit Court of Appeals would have immediately closed 10 clinics in the state last year, leaving just nine ambulatory surgical centers to do the work that more than 40 clinics used to do.",
+            "While the majority opinion methodically countered each of the arguments in defense of the law, which had previously been upheld by the Fifth Circuit Court of Appeals, Ginsburg went straight to the point."
+        ],
+        "tf-idf score": [
+            1.002384888014344,
+            0.8484280835853755,
+            0.6209500799518508
+        ]
+    },
+    "0.29114882812724363-4-240": {
+        "average clique similarity": 0.29114882812724363,
+        "clique": [
+            "0-The provisions befor",
+            "4-The Texas law   one ",
+            "2-To provide abortions",
+            "3-First  it required d"
+        ],
+        "median tf-idf score": 1.032158791692332,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The provisions before the court required doctors who perform abortions to have admitting privileges at a hospital no more than 30 miles from the abortion clinic and required abortion clinics to meet the same health and safety standards as ambulatory surgical centers that perform much more complicated procedures.",
+            "The Texas law,  one of many adopted that are referred to as \"targeted restrictions of abortion providers,\"  required that any doctor performing an abortion have admitting privileges at a hospital within 30 miles and that all places where abortions are performed have surgical quality facilities, even if no surgical abortions are performed there. This would have, according to one estimate, closed 75% of all the facilities where abortions are provided.",
+            "To provide abortions at any stage of pregnancy, the provisions forced doctors to have \"admitting privileges\" with a nearby hospital (which are difficult to get for abortion providers specifically) and forced clinics to undergo often expensive renovations to become \"ambulatory surgical centers,\" which haven't been demonstrated to make abortion safer (though abortion is already quite a safe medical procedure.)",
+            "First, it required doctors who perform abortions to have admitting privileges at a hospital within 30 miles of their clinics and second, it required all facilities where abortions are performed to meet the standards of an ambulatory surgical center --  basically, a hospital operating room."
+        ],
+        "tf-idf score": [
+            1.2257496363135678,
+            1.0969152300052738,
+            0.9674023533793901,
+            0.9114987393545959
+        ]
+    },
+    "0.36095581646499003-3-139": {
+        "average clique similarity": 0.36095581646499003,
+        "clique": [
+            "1-We re thrilled that ",
+            "2-We re thrilled that ",
+            "0- And today the Supre"
+        ],
+        "median tf-idf score": 0.8421790925571604,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "We're thrilled that today justice was served and our clinics stay open\". Presumptive Democratic presidential nominee Hillary Clinton on Twitter called the ruling \"a victory for women in Texas and across America\".",
+            "We're thrilled that justice was served and our clinics stay open\". What the opinion said The majority opinion, authored by Justice Stephen Breyer, said that neither restriction \"offers medical benefits sufficient to justify the burdens upon access that each imposes\".",
+            "\"And today the Supreme Court did the same. We're thrilled that today justice was served and our clinics stay open\". Many of the laws were based on models written by Americans United for Life, an   legal group."
+        ],
+        "tf-idf score": [
+            0.8421790925571604,
+            0.8403095274239313,
+            1.0161695242184083
+        ]
+    },
+    "0.41407190107605013-3-240": {
+        "average clique similarity": 0.41407190107605013,
+        "clique": [
+            "2- Every day Whole Wom",
+            "1-Amy Hagstrom Miller ",
+            "0-The immediate impact"
+        ],
+        "median tf-idf score": 0.9671609820624166,
+        "publications": [
+            "Vox",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "\"Every day Whole Woman's Health treats our patients with compassion, respect and dignity --  and with this historic decision, today the Supreme Court did the same.",
+            "Amy Hagstrom Miller, founder and CEO of Whole Woman's Health, which led the challenge to the Texas law, said, \"Every day Whole Woman's Health treats our patients with compassion, respect and dignity   and today the Supreme Court did the same.",
+            "The immediate impact of the ruling means that the plaintiff in the case, Whole Women's Health, will not have to close any more of its Texas clinics. \"Every day, Whole Woman's Health treats our patients with compassion, respect and dignity,\" said Amy Hagstrom Miller, the founder and CEO of the group."
+        ],
+        "tf-idf score": [
+            0.7474336582185991,
+            1.1497972705778698,
+            0.9671609820624166
+        ]
+    },
+    "0.4443903793646884-4-5": {
+        "average clique similarity": 0.4443903793646884,
+        "clique": [
+            "1-President Barack Oba",
+            "3-The majority in this",
+            "2- Both the   and the ",
+            "0-In a   ruling  writt"
+        ],
+        "median tf-idf score": 1.283261707554099,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Vox",
+            "Reuters"
+        ],
+        "sentences": [
+            "President Barack Obama, whose administration backed the abortion providers in the court challenge, said in a statement he was \"pleased to see the Supreme Court protect women's rights and health\" and that restrictions like those in Texas \"harm women's health and place an unconstitutional obstacle in the path of a woman's reproductive freedom\".",
+            "The majority in this case, Whole Woman's Health, wrote that the two contested requirements place \"a substantial obstacle in the path of women seeking a   abortion, each constitutes an undue burden on abortion access   ...     and each violates the federal Constitution. \"",
+            "\"Both the   and the   requirements place a substantial obstacle in the path of women seeking a previability abortion, constitute an undue burden on abortion access, and thus violate the Constitution,\" read the decision.",
+            "In a   ruling, written by Justice Stephen Breyer, the court said that \"both the admitting privileges and the   requirements place a substantial obstacle in the path of women seeking a previability abortion, constitute an undue burden on abortion access, and thus violate the Constitution\"."
+        ],
+        "tf-idf score": [
+            1.5250736636110087,
+            1.106463699214521,
+            0.9210135287872716,
+            1.4600597158936772
+        ]
+    }
+}

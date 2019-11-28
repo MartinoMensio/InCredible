@@ -1,0 +1,538 @@
+{
+    "0.2744086782134562-3-55": {
+        "average clique similarity": 0.2744086782134562,
+        "clique": [
+            "1-The suspect was desc",
+            "4-         The chief s",
+            "3-He was wearing gray "
+        ],
+        "median tf-idf score": 0.43687259150476915,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The suspect was described as a black male, between 5ft 7in and 6ft tall,   and wearing a grey shirt and black pants.",
+            "\u2019 \u2019\u2019 \u2019   The chief said police were looking for an   male   wearing a hoodie and black pants, whose image was captured by   security cameras.",
+            "He was wearing gray pants and a gray shirt."
+        ],
+        "tf-idf score": [
+            0.43687259150476915,
+            0.986523861530009,
+            0.23473581684439218
+        ]
+    },
+    "0.29903337123740376-3-127": {
+        "average clique similarity": 0.29903337123740376,
+        "clique": [
+            "2-McManus did not say ",
+            "0-McManus said police ",
+            "4-      McManus said h"
+        ],
+        "median tf-idf score": 1.0463022007887595,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "McManus did not say whether police believe there was a racial element to the shooting of Marconi.",
+            "McManus said police did not believe the driver who was stopped by Marconi had any relationship with the gunman.",
+            "\u2019 \u2019   McManus said he did not know if the motorist who was pulled over   for the traffic violation was connected in any way with the man   who shot the officer, a   veteran of the force."
+        ],
+        "tf-idf score": [
+            0.7985563165244258,
+            1.0463022007887595,
+            1.1795635741242414
+        ]
+    },
+    "0.30303426245037196-4-93": {
+        "average clique similarity": 0.30303426245037196,
+        "clique": [
+            "2-McManus said no moti",
+            "1-  He compared the sh",
+            "4-      McManus  who d",
+            "3-His family had welco"
+        ],
+        "median tf-idf score": 1.031645880544232,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Guardian",
+            "Business Insider"
+        ],
+        "sentences": [
+            "McManus said no motive for the shooting was readily apparent, though he referred to the ambush killings of police officers in Texas and Louisiana earlier this year.",
+            "\u201d He compared the shooting to others that targeted police in Baton Rouge, Louisiana, and Dallas, Texas, earlier this year.",
+            "\u2019 \u2019   McManus, who did not identify the slain officer, said officials   were searching for a motive, though he referred to the targeted   killings of police officers in Texas and Louisiana earlier this   year during his press briefing.",
+            "His family had welcomed an infant son earlier this year, and they celebrated Father\u2019s Day for the first time in June."
+        ],
+        "tf-idf score": [
+            1.4893382867052236,
+            0.7480865051216927,
+            1.315205255966771,
+            0.23157096707239097
+        ]
+    },
+    "0.3113250436637443-3-44": {
+        "average clique similarity": 0.3113250436637443,
+        "clique": [
+            "2-He also said he did ",
+            "3-The shooting did not",
+            "1-The officer was not "
+        ],
+        "median tf-idf score": 0.4558152939757393,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "He also said he did not know the reason for the traffic stop.",
+            "The shooting did not immediately appear to be related to the traffic stop, he said.",
+            "The officer was not involved in a call or a traffic stop but was sitting in traffic about 7."
+        ],
+        "tf-idf score": [
+            0.3561733049605305,
+            0.4558152939757393,
+            0.5680832701109417
+        ]
+    },
+    "0.32612726758931765-3-167": {
+        "average clique similarity": 0.32612726758931765,
+        "clique": [
+            "1-  Late on Sunday  Sa",
+            "2-The slain officer wa",
+            "3-Marconi had been wit"
+        ],
+        "median tf-idf score": 0.9543094327413909,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201d Late on Sunday, San Antonio police said the officer who died was    Benjamin Marconi, a police veteran of 20 years.",
+            "The slain officer was identified as police detective Benjamin Marconi, 50, a   veteran of the force.",
+            "Marconi had been with the police force for 20 years."
+        ],
+        "tf-idf score": [
+            1.3722472151734926,
+            0.9543094327413909,
+            0.43850698025566914
+        ]
+    },
+    "0.3679134971434853-3-175": {
+        "average clique similarity": 0.3679134971434853,
+        "clique": [
+            "4-      The shooting u",
+            "0-While Marconi sat in",
+            "1-A second driver  in "
+        ],
+        "median tf-idf score": 0.9594060980181943,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d \u2019   The shooting unfolded when a second vehicle pulled up behind the   parked patrol car, San Antonio Police Chief William McManus said.",
+            "While Marconi sat in his patrol car writing a ticket, a second vehicle pulled up behind him.",
+            "A second driver, in a black Toyota or \u201c  Nissan\u201d then pulled up behind the officer\u2019s car, McManus said."
+        ],
+        "tf-idf score": [
+            1.3026936924318608,
+            0.4153731573627005,
+            0.9594060980181943
+        ]
+    },
+    "0.3896341531549114-3-103": {
+        "average clique similarity": 0.3896341531549114,
+        "clique": [
+            "0-Late Sunday  police ",
+            "3-Police later on Sund",
+            "2-They said they had n"
+        ],
+        "median tf-idf score": 0.7135795239144425,
+        "publications": [
+            "Fox News",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Late Sunday, police released an image of a person they said might have information on the murder.",
+            "Police later on Sunday released an image of a man they said might have information about the shooting.",
+            "They said they had no suspects."
+        ],
+        "tf-idf score": [
+            0.7135795239144425,
+            0.8471656209121544,
+            0.28228067132760937
+        ]
+    },
+    "0.40157511350739367-3-73": {
+        "average clique similarity": 0.40157511350739367,
+        "clique": [
+            "2-The shooting unfolde",
+            "3-The officer was issu",
+            "1-McManus said that th"
+        ],
+        "median tf-idf score": 1.7621244270696101,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "The shooting unfolded when the suspect pulled his car up behind the parked police cruiser, got out, walked to the patrol car and shot the detective in the head through the window as he was writing a ticket, San Antonio Police Chief William McManus said.",
+            "The officer was issuing a traffic ticket to another person around 11:45 a. m. when a man in a black vehicle pulled behind the squad car, walked towards the passenger\u2019s side of the police car, and shot the officer in the head, Chief William P McManus said at an impromptu press conference.",
+            "McManus said that the suspect walked back to his car, pulled around the cruiser and drove through the parking lot."
+        ],
+        "tf-idf score": [
+            1.7621244270696101,
+            1.8318377772077383,
+            0.6706341421508198
+        ]
+    },
+    "0.4028627340673849-3-3": {
+        "average clique similarity": 0.4028627340673849,
+        "clique": [
+            "3-Writing on Twitter  ",
+            "0-San Antonio Mayor Iv",
+            "1-  In a statement on "
+        ],
+        "median tf-idf score": 0.7512139546266339,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Writing on Twitter, San Antonio Mayor Ivy Taylor condemned the officer\u2019s killing: \u201cMy deepest condolences to family of officer killed today  all @SATXPolice.",
+            "San Antonio Mayor Ivy Taylor extended condolences to the family of the slain officer and the entire police force.",
+            "\u201d In a statement on Sunday, Mayor Ivy Taylor expressed her condolences."
+        ],
+        "tf-idf score": [
+            0.7512139546266339,
+            0.9092675369173319,
+            0.16665401729681747
+        ]
+    },
+    "0.45077078771431933-3-175": {
+        "average clique similarity": 0.45077078771431933,
+        "clique": [
+            "3- A police officer in",
+            "0-Benjamin Marconi  wa",
+            "1-A police officer in "
+        ],
+        "median tf-idf score": 1.614045539590492,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            " A police officer in San Antonio, Texas, was shot and killed on Sunday morning when he was ambushed during a traffic stop outside the city\u2019s police headquarters, authorities said.",
+            "Benjamin Marconi, was shot after he pulled a driver over for an unspecified traffic infraction near police headquarters at around 11:45 a. m. local time, San Antonio Police Chief William McManus said during a news conference.",
+            "A police officer in San Antonio, Texas, was shot dead near his department headquarters on Sunday writing out a traffic ticket, authorities have said."
+        ],
+        "tf-idf score": [
+            1.667301947867218,
+            1.6077522706386227,
+            1.614045539590492
+        ]
+    },
+    "0.45350240721799623-4-175": {
+        "average clique similarity": 0.45350240721799623,
+        "clique": [
+            "2-Unfortunately  like ",
+            "0- Unfortunately  like",
+            "3-Sunday s shooting co",
+            "4-Unfortunately  like "
+        ],
+        "median tf-idf score": 0.21680705024165253,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Buzzfeed News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Unfortunately, like Dallas, like Baton Rouge, it\u2019s happened here now\u201d.",
+            "\u201dUnfortunately, like Dallas, like Baton Rouge, it\u2019s happened here now\u201d.",
+            "Sunday\u2019s shooting comes after   attacks against police officers in Dallas and Baton Rouge in July.",
+            "Unfortunately, like   Dallas, like Baton Rouge, it\u2019\u2019s happened here now\u201d."
+        ],
+        "tf-idf score": [
+            0.21680705024165253,
+            0.21680705024165253,
+            0.9188899134906834,
+            0.21680705024165253
+        ]
+    },
+    "0.45734460791456005-4-83": {
+        "average clique similarity": 0.45734460791456005,
+        "clique": [
+            "4-Days later  a   gunm",
+            "2-Days later  a gunman",
+            "0-Ten days after the D",
+            "3-Days later  another "
+        ],
+        "median tf-idf score": 0.9382090872931201,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Days later, a   gunman killed three police officers and wounded four others in   Louisiana\u2019s capital of Baton Rouge.",
+            "Days later, a gunman killed three police officers and wounded four others in Louisiana\u2019s capital of Baton Rouge.",
+            "Ten days after the Dallas attack, a man wearing a ski mask and armed with two rifles and a pistol killed three officers near a gas station and convenience store in Baton Rouge, Louisiana.",
+            "Days later, another man killed three police officers in Baton Rouge before being fatally shot by a SWAT officer."
+        ],
+        "tf-idf score": [
+            0.9382090872931201,
+            0.9382090872931201,
+            0.7897977097166267,
+            0.9806541501307943
+        ]
+    },
+    "0.4583703487275439-3-120": {
+        "average clique similarity": 0.4583703487275439,
+        "clique": [
+            "2- A manhunt was under",
+            "3-The gunman was then ",
+            "4-         A manhunt w"
+        ],
+        "median tf-idf score": 1.6786230183365134,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            " A manhunt was underway in Texas on Sunday for a gunman who shot and killed a San Antonio police detective sitting in a squad car during a routine traffic stop outside the city\u2019s police headquarters, authorities said.",
+            "The gunman was then killed in a standoff.",
+            "\u2019  \u2019 \u201d   A manhunt was underway on Sunday for a gunman who shot and killed   a San Antonio police officer sitting in a squad car during a   routine traffic stop outside the Texas city\u2019s police   headquarters, authorities said."
+        ],
+        "tf-idf score": [
+            1.6786230183365134,
+            0.33471131613561006,
+            1.9030990328619661
+        ]
+    },
+    "0.4969534898760675-3-30": {
+        "average clique similarity": 0.4969534898760675,
+        "clique": [
+            "0-The gunman then reac",
+            "2-The gunman then reac",
+            "4-      The suspect sp"
+        ],
+        "median tf-idf score": 0.9104650730609529,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The gunman then reached inside the car and fired a second shot at Marconi before walking back to his car and fleeing the scene through the police department parking lot.",
+            "The gunman then reached through the window, fired a second gunshot into the officer, got back in his vehicle and sped away, driving through the parking lot that serves the San Antonio Public Safety Headquarters on the western edge of downtown.",
+            "\u2019 \u2019   The suspect sped away from the scene in a black car, driving   through the parking lot that serves the San Antonio Public Safety   Headquarters on the western edge of downtown."
+        ],
+        "tf-idf score": [
+            0.9104650730609529,
+            0.9860696710206908,
+            0.6775934125962079
+        ]
+    },
+    "0.5019058501401141-4-25": {
+        "average clique similarity": 0.5019058501401141,
+        "clique": [
+            "3-In Dallas  five offi",
+            "0-The shooting came le",
+            "2-In July  five Dallas",
+            "4-      In July  five "
+        ],
+        "median tf-idf score": 1.0664944156190082,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "In Dallas, five officers were killed by a sniper following a peaceful protest.",
+            "The shooting came less than five months after a gunman killed five officers in Dallas who were working a protest about the fatal police shootings of black men in Minnesota and Louisiana.",
+            "In July, five Dallas police officers were killed when a black U S military veteran opened fire in a sniper attack during a protest against police shootings of black men.",
+            "\u2019 \u201d   In July, five Dallas police officers were killed when a black   U S military veteran opened fire in a sniper attack during a   protest decrying police shootings of black men."
+        ],
+        "tf-idf score": [
+            0.4566600017369801,
+            1.090651251034922,
+            1.0612826526894419,
+            1.0717061785485742
+        ]
+    },
+    "0.5161426522110385-3-158": {
+        "average clique similarity": 0.5161426522110385,
+        "clique": [
+            "2-More recently  an Io",
+            "0-And earlier this mon",
+            "3-Earlier this month  "
+        ],
+        "median tf-idf score": 0.9891263183091379,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "More recently, an Iowa man who had been ejected by police from a high school football game after waving a confederate flag at black spectators was charged with killing two police officers who were shot in their patrol cars earlier this month in the Des Moines area.",
+            "And earlier this month, two Des Moines,   police officers were fatally shot in separate   attacks while sitting in their patrol cars.",
+            "Earlier this month, two police officers were killed in Des Moines, Iowa, as they were inside their patrol cars."
+        ],
+        "tf-idf score": [
+            1.3366796357828272,
+            0.9891263183091379,
+            0.898183074623912
+        ]
+    },
+    "0.7188845526257769-3-40": {
+        "average clique similarity": 0.7188845526257769,
+        "clique": [
+            "3-  At Trump National ",
+            "2-Donald Trump  when a",
+            "4-        Donald Trump"
+        ],
+        "median tf-idf score": 0.7250970960243426,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201d At Trump National Golf Club in New Jersey,   Donald Trump was asked by reporters about the events in San Antonio and described them as terrible.",
+            "Donald Trump, when asked about the events in San Antonio, said the killing was \u201dterrible\u201d.",
+            "\u2019 \u2019     Donald Trump, when asked about the events in San   Antonio, said the killing was \u201dterrible\u201d."
+        ],
+        "tf-idf score": [
+            0.5352389277023386,
+            0.7250970960243426,
+            0.7250970960243426
+        ]
+    },
+    "0.7476468358257513-3-21": {
+        "average clique similarity": 0.7476468358257513,
+        "clique": [
+            "0-You never want to se",
+            "2- You never want to s",
+            "4- You never   want to"
+        ],
+        "median tf-idf score": 0.09398464653363837,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "You never want to see anything like this happen,\u201d said McManus, who then ticked off several other cities that recently had police officers targeted and killed.",
+            "\u201dYou never want to see anything like this happen.",
+            "\u201dYou never   want to see anything like this happen."
+        ],
+        "tf-idf score": [
+            1.186151971274389,
+            0.09398464653363837,
+            0.09398464653363837
+        ]
+    },
+    "0.7932999682908679-5-39": {
+        "average clique similarity": 0.7932999682908679,
+        "clique": [
+            "1-McManus urged anyone",
+            "2- This is everyone s ",
+            "4-       This is every",
+            "3- This is everyone s ",
+            "0- This is everyone s "
+        ],
+        "median tf-idf score": 0.3980032622762505,
+        "publications": [
+            "Buzzfeed News",
+            "Business Insider",
+            "Guardian",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "McManus urged anyone with information about the shooting to come forward, saying: \u201cThis is everyone\u2019s worst nightmare.",
+            "\u201dThis is everyone\u2019s worst nightmare,\u201d McManus said.",
+            "\u2019 \u2019   \u201dThis is everyone\u2019\u2019s worst nightmare,\u201d McManus said.",
+            "\u201cThis is everyone\u2019s worst nightmare,\u201d McManus said.",
+            "\u201dThis is everyone\u2019s worst nightmare."
+        ],
+        "tf-idf score": [
+            0.33691282518811067,
+            0.3980032622762505,
+            0.3980032622762505,
+            0.3980032622762505,
+            0.042988185330290744
+        ]
+    },
+    "0.7962064785744541-3-140": {
+        "average clique similarity": 0.7962064785744541,
+        "clique": [
+            "3- It s always difficu",
+            "0- It s always difficu",
+            "1- It s always difficu"
+        ],
+        "median tf-idf score": 0.6897260414582131,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cIt\u2019s always difficult, especially in this day and age where police are being targeted across the country, and hopefully we\u2019ll solve this one real quick.",
+            "\u201dIt\u2019s always difficult, especially in this this day and age, where police are being targeted across the country,\u201d McManus said.",
+            "\u201cIt\u2019s always difficult, especially in this day and and age when police are being targeted across the country,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.5176179868154441,
+            0.8150722154323645,
+            0.6897260414582131
+        ]
+    },
+    "0.803494151788799-5-13": {
+        "average clique similarity": 0.803494151788799,
+        "clique": [
+            "3- Attacks against law",
+            "0-Abbott said in a sta",
+            "1- Attacks against law",
+            "4-       Attacks again",
+            "2-Texas Governor Greg "
+        ],
+        "median tf-idf score": 0.9225347877203601,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "Reuters",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cAttacks against law enforcement officers will not be tolerated in Texas and must be met with swift justice, which is why I am look forward to signing my Police Protection Act into law  \u2014   making targeted attacks against law enforcement a hate crime,\u201d Abbott said.",
+            "Abbott said in a statement that \u201dattacks against law enforcement officers will not be tolerated in Texas and must be met with swift justice\u201d.",
+            "\u201cAttacks against law enforcement officers will not be tolerated in Texas and must be met with swift justice,\u201d he said.",
+            "\u2019 \u2019   \u201dAttacks against law enforcement officers will not be tolerated   in Texas and must be met with swift justice,\u201d said Texas Governor   Greg Abbott in a statement.",
+            "Texas Governor Greg Abbott said in a statement: \u201dAttacks against law enforcement officers will not be tolerated in Texas and must be met with swift justice\u201d."
+        ],
+        "tf-idf score": [
+            1.3045798043603762,
+            0.8811967189586277,
+            0.8216795583468991,
+            0.9225347877203601,
+            0.9225347877203601
+        ]
+    }
+}

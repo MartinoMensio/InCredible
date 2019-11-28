@@ -1,0 +1,782 @@
+{
+    "0.19254619789449356-3-278": {
+        "average clique similarity": 0.19254619789449356,
+        "clique": [
+            "2-Earlier this week  L",
+            "4-Paul LePage  R  has ",
+            "1-LePage has since apo"
+        ],
+        "median tf-idf score": 0.8147650845244365,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Earlier this week, LePage had doubled down on comments he has made in the past about the racial background of drug dealers in his state, saying that \u201d  percent .",
+            "Paul LePage (R) has reignited a debate about race and crime in his state.",
+            "LePage has since apologized for his language, and said his comments about shooting Gattine were metaphorical."
+        ],
+        "tf-idf score": [
+            0.8330902061518838,
+            0.5968362193103995,
+            0.8147650845244365
+        ]
+    },
+    "0.211892857442872-3-132": {
+        "average clique similarity": 0.211892857442872,
+        "clique": [
+            "3-  If Gattine had cal",
+            "1-Along the way  Charn",
+            "4-  Later Thursday nig"
+        ],
+        "median tf-idf score": 0.8665066797514425,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d If Gattine had called LePage racist, he wouldn\u2019t be the first to do so.",
+            "Along the way, Charns said on Twitter, LePage got the impression that Gattine had called him racist.",
+            "\u201d Later Thursday night, LePage called Democratic Rep. Drew Gattine, whom he believed to be among the people calling him a racist."
+        ],
+        "tf-idf score": [
+            0.630295800219395,
+            0.8665066797514425,
+            0.9693170892744989
+        ]
+    },
+    "0.21568066747502687-3-125": {
+        "average clique similarity": 0.21568066747502687,
+        "clique": [
+            "1-Then he called Gatti",
+            "0-Gattine said he wasn",
+            "5-  LePage  enraged  c"
+        ],
+        "median tf-idf score": 0.7350209671514613,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Then he called Gattine and invited reporters to sit down for the interview in which he fantasized about a duel with the state representative.",
+            "Gattine said he wasn\u2019t concerned about his safety, but he called the voicemail a distraction and the latest of LePage\u2019s personal vendettas against lawmakers.",
+            "\u201d LePage, enraged, called Gattine up and left a voicemail in which he called the legislator a \u201csocialist cocksucker\u201d and \u201cson of a bitch."
+        ],
+        "tf-idf score": [
+            0.5161711411743127,
+            0.8220395505606803,
+            0.7350209671514613
+        ]
+    },
+    "0.2375276112095749-4-335": {
+        "average clique similarity": 0.2375276112095749,
+        "clique": [
+            "5- You make me so sick",
+            "0-Gattine shared the v",
+            "2-LePage left a messag",
+            "3-According to the Por"
+        ],
+        "median tf-idf score": 0.748412996626165,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201cYou make me so sick!\u201d The Portland Press Herald has filed a   request for the binder.",
+            "Gattine shared the voicemail\u2019s audio with the Press Herald.",
+            "LePage left a message goading Gattine to \u201dprove that I\u2019m a racist\u201d after a series of controversial comments once again put the governor in the news, according to the Portland Press Herald, which also was the first to obtain audio of the voicemail.",
+            "According to the Portland Press Herald, a TV reporter suggested that State Rep. Drew Gattine, a Democrat, had called LePage, a Republican, a racist, and asked LePage how he felt about it."
+        ],
+        "tf-idf score": [
+            0.33516390403276886,
+            0.3596849848448177,
+            1.1838963428428015,
+            1.1371410084075124
+        ]
+    },
+    "0.2400099442306447-3-5": {
+        "average clique similarity": 0.2400099442306447,
+        "clique": [
+            "0-PORTLAND  Maine     ",
+            "2-Washington  CNN  The",
+            "1- Mr Gattine  this is"
+        ],
+        "median tf-idf score": 0.2098308568250514,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "PORTLAND, Maine  \u2014   Republican Gov.",
+            "Washington (CNN) The state lawmaker who received an   voicemail from Maine Gov.",
+            "\u201dMr Gattine, this is Gov."
+        ],
+        "tf-idf score": [
+            0.20201734910226896,
+            0.41614843287332726,
+            0.2098308568250514
+        ]
+    },
+    "0.2765104308110204-4-194": {
+        "average clique similarity": 0.2765104308110204,
+        "clique": [
+            "2-Governor     percent",
+            "0-  LePage  who s whit",
+            "1-LePage said he kept ",
+            "4-On Wednesday night  "
+        ],
+        "median tf-idf score": 1.2393905303904489,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Governor: \u2019  percent\u2019 of drug dealers arrested in Maine black or Hispanic, According to the Press Herald, Gattine was identified by local media as having called LePage racist, though Gattine denies doing so.",
+            "\u201d LePage, who\u2019s white, was accused of making racially insensitive comments Wednesday at a town hall in North Berwick, where he said photos he\u2019s collected in a binder of drug dealers arrested in the state showed that 90 percent of them \u201care black and Hispanic people from Waterbury, Connecticut; the Bronx; and Brooklyn.",
+            "LePage said he kept a binder full of mugshots of people arrested for drug dealing in Maine  \u2014   and he claimed more than 90 percent of all the photos in his \u201dbook\u201d were of black or Hispanic people from Connecticut or New York.",
+            "On Wednesday night, at a town hall meeting in Berwick, LePage was asked about   remarks that described most drug dealers in the state as black or Hispanic people with thuggish names."
+        ],
+        "tf-idf score": [
+            1.3607343742679494,
+            1.4792400092947102,
+            1.1180466865129484,
+            1.0017661804552025
+        ]
+    },
+    "0.2770871364907293-3-159": {
+        "average clique similarity": 0.2770871364907293,
+        "clique": [
+            "2- I ve never received",
+            "0-LePage said in the T",
+            "4-Maine Governor Paul "
+        ],
+        "median tf-idf score": 1.0473548412633733,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dI\u2019ve never received a voicemail like that before,\u201d Democratic State Rep. Drew Gattine told CNN\u2019s Jim Scuitto on \u201dOutFront\u201d.",
+            "LePage said in the Thursday morning voicemail that he wanted to talk with Rep. Drew Gattine of Westbrook about the legislator calling him a racist.",
+            "Maine Governor Paul LePage leaves an   voicemail for Democratic state Rep. Drew Gattine of Westbrook, challenging him to \u201dprove that I\u2019m a racist\u201d."
+        ],
+        "tf-idf score": [
+            0.6361074182889972,
+            1.0473548412633733,
+            1.2031162252449499
+        ]
+    },
+    "0.281173997799083-3-50": {
+        "average clique similarity": 0.281173997799083,
+        "clique": [
+            "4-  Gattine denied hav",
+            "0-Gattine has denied c",
+            "3-     Gattine  who ha"
+        ],
+        "median tf-idf score": 0.8599374618663708,
+        "publications": [
+            "Vox",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d Gattine denied having called LePage a racist, but the voicemail drew yet more attention to a story that could have ended with the revelation of the binder.",
+            "Gattine has denied calling LePage a racist.",
+            "\u201d    Gattine, who has opposed some of the governor\u2019s welfare reform and \u201c  \u201d efforts in the face of the opioid painkiller and heroin epidemic, denied calling LePage a racist."
+        ],
+        "tf-idf score": [
+            0.8599374618663708,
+            0.708981433601782,
+            0.9627656353403167
+        ]
+    },
+    "0.28340105051061537-3-24": {
+        "average clique similarity": 0.28340105051061537,
+        "clique": [
+            "2-Paul LePage said Fri",
+            "1-Paul Richard LePage ",
+            "3- Paul LePage is Main"
+        ],
+        "median tf-idf score": 0.5400094474244421,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "Paul LePage said Friday he did not call LePage a racist, as the governor claims.",
+            "Paul Richard LePage,\u201d it began.",
+            " Paul LePage is Maine\u2019s governor."
+        ],
+        "tf-idf score": [
+            0.7438540016936508,
+            0.3566661506640524,
+            0.5400094474244421
+        ]
+    },
+    "0.283578214548533-3-73": {
+        "average clique similarity": 0.283578214548533,
+        "clique": [
+            "5-  He accused Gattine",
+            "3-I want you to prove ",
+            "0- I want you to prove"
+        ],
+        "median tf-idf score": 0.40271338969798054,
+        "publications": [
+            "New York Post",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d He accused Gattine of calling him a racist \u2014  Gattine says he did not \u2014  and demanded he prove the accusation.",
+            "I want you to prove that I\u2019m a racist.",
+            "\u201cI want you to prove that I\u2019m a racist,\u201d LePage said, adding that he had spent his life helping black people and calling Gattine a vulgar name related to oral sex."
+        ],
+        "tf-idf score": [
+            0.40271338969798054,
+            0.2096464352994083,
+            1.1704319527389204
+        ]
+    },
+    "0.28578000383941843-4-118": {
+        "average clique similarity": 0.28578000383941843,
+        "clique": [
+            "5-Paul LePage s Racist",
+            "0-In January  LePage s",
+            "1-LePage  who has a hi",
+            "3-LePage said     Thes"
+        ],
+        "median tf-idf score": 0.8723717845649124,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "Paul LePage\u2019s Racist Fearmongering on Drugs  Back in January, LePage blamed his state\u2019s heroin epidemic on \u201cguys by the name   Smoothie, Shifty\u201d who \u201ccome from Connecticut and New York.",
+            "In January, LePage said drug dealers with names like \u201c  Smoothie, Shifty\u201d are getting Maine\u2019s white girls pregnant.",
+            "LePage, who has a history of rudeness and crudeness, made headlines in January when he talked about drug traffickers with nicknames like \u201d  Smoothie, Shifty,\u201d coming into Maine to sell heroin.",
+            "LePage said:    These are guys with the name   Smoothie, Shifty."
+        ],
+        "tf-idf score": [
+            0.9474164017072997,
+            0.9205588789325028,
+            0.8241846901973221,
+            0.5214265409570429
+        ]
+    },
+    "0.3026598145831647-4-173": {
+        "average clique similarity": 0.3026598145831647,
+        "clique": [
+            "2-Challenges Gattine t",
+            "1-The newspaper also r",
+            "3-He also recently cal",
+            "0-After leaving the vo"
+        ],
+        "median tf-idf score": 0.8241730892248353,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "Challenges Gattine to a duel, On Thursday, the governor took credit for leaving the voicemail in a later interview at his home with local media, and said he would like to challenge Gattine to a duel.",
+            "The newspaper also reports that in an interview, LePage said he wished it were 1825 so that he could challenge Gattine to a duel  \u2014   and that if he did, he wouldn\u2019t shoot in the air like Alexander Hamilton.",
+            "He also recently called a political opponent  \u2014   a state representative  \u2014   and left an   furious voicemail, and later said he would like to shoot and kill that same state representative in a duel.",
+            "After leaving the voicemail, LePage later invited reporters to the governor\u2019s mansion, where he confirmed that he had left the message and said he wished he and Gattine could face off in a duel."
+        ],
+        "tf-idf score": [
+            0.775686700683159,
+            0.8726594777665118,
+            0.6960383714071081,
+            1.0341894900577038
+        ]
+    },
+    "0.3125515891665111-3-87": {
+        "average clique similarity": 0.3125515891665111,
+        "clique": [
+            "0-I would point it rig",
+            "1- I would point it ri",
+            "2-Gattine told CNN he "
+        ],
+        "median tf-idf score": 0.5190992533501717,
+        "publications": [
+            "NPR",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "I would point it right between his eyes because he is a   little runt and he has not done a damn thing since he\u2019s been in this Legislature to help move the state forward.",
+            "\u201dI would point it right between his eyes, because he is a   little runt,\u201d LePage told the  .",
+            "Gattine told CNN he had not heard from LePage since."
+        ],
+        "tf-idf score": [
+            0.5086595029766094,
+            0.5190992533501717,
+            0.5393019786148728
+        ]
+    },
+    "0.32104553168870925-3-17": {
+        "average clique similarity": 0.32104553168870925,
+        "clique": [
+            "4-I want you to prove ",
+            "5- I want you to recor",
+            "1-Afterward  LePage sa"
+        ],
+        "median tf-idf score": 0.31808687646483463,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "I want you to prove that I\u2019m a racist.",
+            "\u201cI want you to record this and make it public because I am after you,\u201d he said.",
+            "Afterward, LePage said the statement was a mistake, and told journalists, \u201dIf you want to make it racist, go ahead and do what you want\u201d."
+        ],
+        "tf-idf score": [
+            0.2096464352994083,
+            0.31808687646483463,
+            0.8465705679931672
+        ]
+    },
+    "0.3238741435844084-3-335": {
+        "average clique similarity": 0.3238741435844084,
+        "clique": [
+            "1-The hostile remarks ",
+            "5-It s hard to believe",
+            "3- It s hard to believ"
+        ],
+        "median tf-idf score": 0.6262529269999956,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "The hostile remarks follow  \u2014   and are directly linked to  \u2014   a series of   remarks the Republican governor made on race.",
+            "It\u2019s hard to believe it\u2019s from the governor of the state of Maine, but again, we need to stay focused on the drug problem we are facing here in Maine and cannot allow this story to be about the governor\u2019s inappropriate and vulgar behaviors.",
+            "\u201cIt\u2019s hard to believe it\u2019s from the governor of the state of Maine, but again, we need to stay focused on the drug problem we are facing here in Maine and cannot allow this story to be about the governor\u2019s inappropriate and vulgar behaviors."
+        ],
+        "tf-idf score": [
+            0.24097934423482636,
+            0.6262529269999956,
+            0.6262529269999956
+        ]
+    },
+    "0.34188693393112535-4-335": {
+        "average clique similarity": 0.34188693393112535,
+        "clique": [
+            "3-The comments  surfac",
+            "4- I don t ask them to",
+            "5- I don t ask them to",
+            "2-   are black and His"
+        ],
+        "median tf-idf score": 0.6300061380085533,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "The comments, surfaced by Get Right Maine, clearly played on racial overtones by using names typically attributed to black culture and rap, and suggested that black people are outsiders, criminals, drug dealers, and rapists who take advantage of young white women.",
+            "\u201cI don\u2019t ask them to come to Maine and sell their poison, but they come and I will tell you that   percent of those pictures in my book, and it\u2019s a   binder, are black and Hispanic people from Waterbury, Conn. the Bronx and Brooklyn.",
+            "\u201cI don\u2019t ask them to come to Maine and sell their poison, but they come and I will tell you that   percent of those pictures in my book, and it\u2019s a   binder, are black and Hispanic people from Waterbury, Connecticut, the Bronx and Brooklyn.",
+            ".. are black and Hispanic people\u201d."
+        ],
+        "tf-idf score": [
+            0.8602188313277622,
+            0.6231465488573824,
+            0.6368657271597242,
+            0.22087685864755804
+        ]
+    },
+    "0.3800587028513263-3-276": {
+        "average clique similarity": 0.3800587028513263,
+        "clique": [
+            "0-LePage s office didn",
+            "5- Let me tell you thi",
+            "4- I made the comment "
+        ],
+        "median tf-idf score": 1.2353649615636564,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "LePage\u2019s office didn\u2019t immediately comment.",
+            "\u201cLet me tell you this, explain to you, I made the comment that black people are trafficking in our state, now ever since I said that comment I\u2019ve been collecting every single drug dealer who has been arrested in our state,\u201d LePage said Wednesday at a public forum in North Berwick.",
+            "\u201dI made the comment that black people are trafficking in our state, now ever since I said that comment I\u2019ve been collecting every single drug dealer who has been arrested in our state,\u201d LePage said, according to the Portland Press Herald."
+        ],
+        "tf-idf score": [
+            0.38971037537862635,
+            1.2353649615636564,
+            1.24903440345003
+        ]
+    },
+    "0.3840725874080333-3-335": {
+        "average clique similarity": 0.3840725874080333,
+        "clique": [
+            "3-I want you to record",
+            "1-Over his shoulder  h",
+            "4-You make me so sick "
+        ],
+        "median tf-idf score": 0.1466454090266489,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "I want you to record this and make it public because I am after you.",
+            "Over his shoulder, he told Charns, \u201dYou make me sick\u201d.",
+            "You make me so sick."
+        ],
+        "tf-idf score": [
+            0.15985272255705618,
+            0.1466454090266489,
+            0.06478848694759667
+        ]
+    },
+    "0.4010511256027227-3-1": {
+        "average clique similarity": 0.4010511256027227,
+        "clique": [
+            "3- Obviously that mess",
+            "5-Asked about the gove",
+            "2- Obviously  it is il"
+        ],
+        "median tf-idf score": 0.4465073113672763,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cObviously that message is upsetting, inappropriate, and uncalled for,\u201d Gattine said.",
+            "Asked about the governor\u2019s comments, he said, \u201cObviously that message is upsetting, inappropriate and uncalled for.",
+            "\u201dObviously, it is illegal today it was simply a metaphor and I meant no physical harm to Gattine,\u201d LePage said."
+        ],
+        "tf-idf score": [
+            0.4166378950986202,
+            0.4465073113672763,
+            0.7501194298513107
+        ]
+    },
+    "0.4375628091701695-3-265": {
+        "average clique similarity": 0.4375628091701695,
+        "clique": [
+            "2-I apologize for that",
+            "0-Gattine  who is runn",
+            "5- I apologize for tha"
+        ],
+        "median tf-idf score": 0.5582714411355428,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "I apologize for that to the people of Maine, but I make no apology for trying to end the drug epidemic that is ravaging our state\u201d.",
+            "Gattine, who is running for   has clashed with the governor on how to address welfare reform, drug addiction and eligibility for developmental disabilities programs.",
+            "\u201cI apologize for that to the people of Maine, but I make no apology for trying to end the drug epidemic that is ravaging our state,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.5582714411355428,
+            0.5218663914350907,
+            0.7165055950433213
+        ]
+    },
+    "0.4400230220712756-3-11": {
+        "average clique similarity": 0.4400230220712756,
+        "clique": [
+            "2-You    I need you to",
+            "3-You        I need yo",
+            "4- It to me just highl"
+        ],
+        "median tf-idf score": 0.040845597319992696,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "You    I need you to    just friggin\u2019.",
+            "You  \u2026     I need you to  \u2026     Just friggin\u2019.",
+            "\u201dIt to me just highlights the Black Lives Matter movement,\u201d Johnson said before an evening rally."
+        ],
+        "tf-idf score": [
+            0.040845597319992696,
+            0.040845597319992696,
+            0.36232160123709467
+        ]
+    },
+    "0.4468035107335404-3-203": {
+        "average clique similarity": 0.4468035107335404,
+        "clique": [
+            "4- You ought to look i",
+            "5-You ought to look in",
+            "2-I want you to prove "
+        ],
+        "median tf-idf score": 0.18332852569472033,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201dYou ought to look into that!",
+            "You ought to look into that!\u201d he said.",
+            "I want you to prove that I\u2019m a racist."
+        ],
+        "tf-idf score": [
+            0.02509437178694193,
+            0.18332852569472033,
+            0.2096464352994083
+        ]
+    },
+    "0.45553233931209647-3-218": {
+        "average clique similarity": 0.45553233931209647,
+        "clique": [
+            "4- Reuters     Let me ",
+            "3-They come up here  t",
+            "5- Let me tell you som"
+        ],
+        "median tf-idf score": 0.3477253911258873,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "(Reuters)   \u201dLet me tell you something: Black people come up the highway and they kill Mainers,\u201d he told reporters.",
+            "They come up here, they sell their heroin, then they go back home.",
+            "\u201cLet me tell you something: Black people come up the highway and they kill Mainers."
+        ],
+        "tf-idf score": [
+            0.4452530573991138,
+            0.13022103172123883,
+            0.3477253911258873
+        ]
+    },
+    "0.45588380375926413-3-335": {
+        "average clique similarity": 0.45588380375926413,
+        "clique": [
+            "3-I would like to talk",
+            "2- I would like to tal",
+            "1-As NPR s Sam Sanders"
+        ],
+        "median tf-idf score": 0.3334689271735206,
+        "publications": [
+            "Vox",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "I would like to talk to you about your comments about my being a racist, you cocksucker.",
+            "\u201dI would like to talk to you about your comments about my being a racist, you (obscene term).",
+            "As NPR\u2019s Sam Sanders wrote, the statement appeared to reference black men (and particularly ugly stereotypes about black men) to talk about drug problems in a state that is 95 percent white."
+        ],
+        "tf-idf score": [
+            0.3012430765664038,
+            0.3334689271735206,
+            0.5724910868063546
+        ]
+    },
+    "0.532194806937419-3-335": {
+        "average clique similarity": 0.532194806937419,
+        "clique": [
+            "4- I want to talk to y",
+            "2-I want to talk to yo",
+            "1- I want you to prove"
+        ],
+        "median tf-idf score": 0.10120461167787391,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dI want to talk to you.",
+            "I want to talk to you.",
+            "\u201dI want you to prove I\u2019m a racist."
+        ],
+        "tf-idf score": [
+            0.10120461167787391,
+            0.10120461167787391,
+            0.2096464352994083
+        ]
+    },
+    "0.5499651384580501-3-335": {
+        "average clique similarity": 0.5499651384580501,
+        "clique": [
+            "1-I ve spent my life h",
+            "3-I ve spent my life h",
+            "4-I ve spent my life h"
+        ],
+        "median tf-idf score": 0.3821651565645574,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "I\u2019ve spent my life helping black people and you little son of a bitch, socialist c********r,\u201d he continued, using the same expletive, \u201d .",
+            "I\u2019ve spent my life helping black people and you little son of a bitch, socialist cocksucker.",
+            "I\u2019ve spent my life helping black people, and you little son of a      socialist ."
+        ],
+        "tf-idf score": [
+            0.3993626076914778,
+            0.3821651565645574,
+            0.3444431047542953
+        ]
+    },
+    "0.5660605301551469-4-236": {
+        "average clique similarity": 0.5660605301551469,
+        "clique": [
+            "2- When a   little guy",
+            "0- When a   little guy",
+            "3-LePage later expande",
+            "4- I would like to tal"
+        ],
+        "median tf-idf score": 0.9611309007230449,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201dWhen a   little guy from Westbrook calls me a racist, now I\u2019d like him to come up here because, tell you right now, I wish it were 1825,\u201d LePage said, according to the Press Herald.",
+            "\u201cWhen a   little guy from Westbrook calls me a racist, now I\u2019d like him to come up here because, tell you right now, I wish it were 1825,\u201d LePage said, according to the Portland Press Herald.",
+            "LePage later expanded on his rage to the Portland Press Herald, saying, \u201cWhen a   little guy from Westbrook calls me a racist, now I\u2019d like him to come up here because, tell you right now, I wish it were 1825.",
+            "\u201dI would like to talk to you about your comments about my being a racist,\u201d LePage said in a voicemail obtained by the Portland Press Herald."
+        ],
+        "tf-idf score": [
+            0.9861708774441751,
+            1.0231424195944492,
+            0.9129300721085865,
+            0.9360909240019145
+        ]
+    },
+    "0.6871125150137799-4-104": {
+        "average clique similarity": 0.6871125150137799,
+        "clique": [
+            "0- And we would have a",
+            "3-That s how angry I a",
+            "2- And we would have a",
+            "5-And we would have a "
+        ],
+        "median tf-idf score": 0.1779189317484956,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cAnd we would have a duel, that\u2019s how angry I am, and I would not put my gun in the air, I guarantee you, I would not be (Alexander) Hamilton.",
+            "That\u2019s how angry I am.",
+            "\u201dAnd we would have a duel, that\u2019s how angry I am, and I would not put my gun in the air, I guarantee you, I would not be (Alexander) Hamilton.",
+            "And we would have a duel, that\u2019s how angry I am, and I would not put my gun in the air, I guarantee you, I would not be [Alexander] Hamilton."
+        ],
+        "tf-idf score": [
+            0.1779189317484956,
+            0.022658694595255907,
+            0.1779189317484956,
+            0.1779189317484956
+        ]
+    },
+    "0.7340121583251603-3-164": {
+        "average clique similarity": 0.7340121583251603,
+        "clique": [
+            "5-Incidentally  half t",
+            "1- Incidentally  half ",
+            "3-Incidentally  half t"
+        ],
+        "median tf-idf score": 0.33016300963555983,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Incidentally, half the time they impregnate a young, white girl before they leave.",
+            "\u201dIncidentally, half the time they impregnate a young, white girl before they leave,\u201d he said.",
+            "Incidentally, half the time they impregnate a young, white girl before they leave, which is a real sad thing because then we have another issue that we got to deal with down the road."
+        ],
+        "tf-idf score": [
+            0.22315675811960473,
+            0.3813909120273832,
+            0.33016300963555983
+        ]
+    },
+    "0.7521240887782639-4-335": {
+        "average clique similarity": 0.7521240887782639,
+        "clique": [
+            "5-I would point it rig",
+            "3-I would point it rig",
+            "2-I would point it rig",
+            "0-   I would point  my"
+        ],
+        "median tf-idf score": 0.5086595029766094,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "I would point it right between his eyes, because he is a   little runt and he has not done a damn thing since he\u2019s been in the Legislature to help move the state forward.",
+            "I would point it right between his eyes, because he is a   little runt and he has not done a damn thing since he\u2019s been in this legislature to help move the state forward.",
+            "I would point it right between his eyes, because he is a   little runt and he has not done a damn thing since he\u2019s been in this Legislature to help move the state forward\u201d.",
+            "\u201d \u2018I would point [my gun] right between his eyes because he is a   little runt and he has not done a damn thing since he\u2019s been in this Legislature to help move the state forward.\u2019 House and Senate Democrats and the Maine Democratic Party on Friday questioned LePage\u2019s capacity to lead."
+        ],
+        "tf-idf score": [
+            0.5086595029766094,
+            0.5086595029766094,
+            0.5086595029766094,
+            1.0902216974884809
+        ]
+    },
+    "0.8506279011214664-4-335": {
+        "average clique similarity": 0.8506279011214664,
+        "clique": [
+            "0- I want you to recor",
+            "4-        I want you t",
+            "1-And then  of course ",
+            "2-I want you to record"
+        ],
+        "median tf-idf score": 0.15985272255705618,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cI want you to record this and make it public because I am after you.",
+            "..  \u2014   I want you to record this and make it public because I am after you.",
+            "And then, of course, there\u2019s the way he ends the message itself: \u201dI want you to record this and make it public because I am after you.",
+            "I want you to record this and make it public because I am after you."
+        ],
+        "tf-idf score": [
+            0.15985272255705618,
+            0.15985272255705618,
+            0.22757123705286525,
+            0.15985272255705618
+        ]
+    }
+}

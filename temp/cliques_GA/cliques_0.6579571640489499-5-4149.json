@@ -1,0 +1,482 @@
+{
+    "0.16811114040943176-3-77": {
+        "average clique similarity": 0.16811114040943176,
+        "clique": [
+            "2-Frieden says the CDC",
+            "0-The Aedes aegypti mo",
+            "3-The Aedes aegypti mo"
+        ],
+        "median tf-idf score": 0.9078587711286026,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Frieden says the CDC limited its advisory to the small area where cases were found because the mosquito that spreads Zika  --   Aedes aegypti  --   can't fly very far.",
+            "The Aedes aegypti mosquito can breed in the smallest spots in and around homes.",
+            "The Aedes aegypti mosquito has a modest range in the United States, rarely appearing farther north than the Deep South, Arizona and California. Still, the revelation of homegrown Zika cases prompted a groundswell of calls on Congress to provide more funding."
+        ],
+        "tf-idf score": [
+            1.0889116840599962,
+            0.30483380995653464,
+            0.9078587711286026
+        ]
+    },
+    "0.1730522336024908-3-49": {
+        "average clique similarity": 0.1730522336024908,
+        "clique": [
+            "1-It s a demonstration",
+            "0-At the present time ",
+            "2- I think for now we "
+        ],
+        "median tf-idf score": 0.7693697115438616,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "It's a demonstration of how intensive the efforts need to be to control the mosquito\". testing could take several weeks, Frieden said, stressing that precautions should continue to be taken by everyone living in the area or traveling to and from it.",
+            "At the present time, there is no need for the travel advisory to be broader than this specific   area, Frieden said.",
+            "\"I think for now we need to be cautious, and I'm not sure in good faith could recommend a pregnant woman travel to that area of Florida right now,\" Silverman says."
+        ],
+        "tf-idf score": [
+            0.9554830127880372,
+            0.6193609270262089,
+            0.7693697115438616
+        ]
+    },
+    "0.17967992198108682-3-105": {
+        "average clique similarity": 0.17967992198108682,
+        "clique": [
+            "0-It has now become th",
+            "1-U S health officials",
+            "2-That means mosquitoe"
+        ],
+        "median tf-idf score": 1.0191015229444744,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It has now become the first area in the continental United States with confirmed local spread of the Zika virus. State and federal officials have warned for months that such a transmission was inevitable.",
+            "U S health officials had warned that there would be local transmission of the virus from mosquitoes but say they don't expect it to be widespread, as has been seen in Puerto Rico and throughout Central and South America and the Caribbean. That's based on outbreaks of two similar   diseases, dengue fever and chikungunya.",
+            "That means mosquitoes in that area have picked up the virus and are spreading it."
+        ],
+        "tf-idf score": [
+            1.0191015229444744,
+            1.0299499039885398,
+            0.535602196437777
+        ]
+    },
+    "0.1881903809366514-3-168": {
+        "average clique similarity": 0.1881903809366514,
+        "clique": [
+            "0-Officials also have ",
+            "3-Four cases of Zika i",
+            "4-The Miami Herald rep"
+        ],
+        "median tf-idf score": 1.2021627137529034,
+        "publications": [
+            "New York Times",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Officials also have rotated pesticides in an effort to combat resistance among mosquitoes to the treatments. The local cases of Zika have gotten the attention of local residents.",
+            "Four cases of Zika infection in Florida are very likely to have been caused by mosquitoes there, the State Department of Health said Friday  --   the first documented instances of local transmission in the continental United States.",
+            "The Miami Herald reports that \"Florida health officials and local mosquito control workers have been inspecting and spraying the area since the first case was diagnosed several weeks ago,\" and have also been testing mosquitoes across   and Broward counties."
+        ],
+        "tf-idf score": [
+            0.7105116938247771,
+            1.2295567810625405,
+            1.2021627137529034
+        ]
+    },
+    "0.1930244246229985-3-189": {
+        "average clique similarity": 0.1930244246229985,
+        "clique": [
+            "0-The state on Monday ",
+            "4-The number of   peop",
+            "1-Late last week  Flor"
+        ],
+        "median tf-idf score": 0.9964308546635816,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "The state on Monday said there are 10 more people who have been infected with the Zika virus who likely contracted it from local mosquitoes, bringing the total number of such cases in the state to 14.",
+            "The number of   people in the Miami outbreak area rapidly climbed from 4 to 14 over the weekend, leading the Centers for Disease Control to warn pregnant women to stay away from the area.",
+            "Late last week, Florida health officials confirmed that four people had contracted Zika from mosquitoes in the same    area."
+        ],
+        "tf-idf score": [
+            1.1752590143772135,
+            0.8787851742795425,
+            0.9964308546635816
+        ]
+    },
+    "0.2141270152428351-3-69": {
+        "average clique similarity": 0.2141270152428351,
+        "clique": [
+            "0- U S confirms Florid",
+            "3-But he said that thi",
+            "4-In Miami  aggressive"
+        ],
+        "median tf-idf score": 1.0782649133879685,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Breitbart"
+        ],
+        "sentences": [
+            "[U S confirms Florida Zika cases are first local transmission in any state]   CDC Director Tom Frieden said the agency issued the travel warning because of the additional Zika infections that were identified in the last 48 hours, and because of new information that indicates mosquito control efforts are not working as well as officials would have liked.",
+            "But he said that this advice could change if the number of cases increased substantially. \"We would not be surprised if individual additional cases are reported,\" he said. And because Zika infection often does not produce any symptoms, \"there may be more cases than we know of now. \"",
+            "In Miami, aggressive mosquito control measures don't seem to be working as well as we would have liked. \" Frieden noted that four out of five people infected with Zika present no symptoms, and those that do experience symptoms such as fevers, rashes, and joint pain may not realize they have Zika, making the progress of an outbreak difficult to monitor."
+        ],
+        "tf-idf score": [
+            1.6666260563943687,
+            0.6636590894156418,
+            1.0782649133879685
+        ]
+    },
+    "0.21676475823962107-3-143": {
+        "average clique similarity": 0.21676475823962107,
+        "clique": [
+            "0-These people have pr",
+            "1-New cases were found",
+            "3-Since the cases were"
+        ],
+        "median tf-idf score": 0.45401961802748075,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "These people have provided blood and urine specimens. Of the 14 individuals identified, two are women and 12 are men.",
+            "New cases were found by    surveys of 200 people in their homes and businesses, and they were identified by urine and blood samples that tested positive for the virus or an antibody.",
+            "Since the cases were identified, health workers have been going door to door in the neighborhood collecting urine samples for testing of residents. The Food and Drug Administration this week halted blood donations in South Florida until they can be screened for Zika infection."
+        ],
+        "tf-idf score": [
+            0.3079992483998786,
+            0.45401961802748075,
+            0.8076261501567967
+        ]
+    },
+    "0.22275714081260242-3-240": {
+        "average clique similarity": 0.22275714081260242,
+        "clique": [
+            "1-This is the first ti",
+            "0-He said more infecti",
+            "2-Zika can cause sever"
+        ],
+        "median tf-idf score": 0.9318234293999523,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "This is the first time the CDC has warned people not to travel to an American neighborhood for fear of catching an infectious disease, according to agency spokesman Tom Skinner.",
+            "He said more infections are likely, because four out of five people with Zika don't have symptoms. Although the CDC issued a similar travel warning for Puerto Rico in January because of widespread transmission on the island, this is the first time the agency has issued such a travel advisory for the continental U S Frieden said.",
+            "Zika can cause severe birth defects if a woman is infected at anytime during pregnancy. So the Centers for Disease Control and Prevention is doing something it has never done before: issuing a travel advisory to a part of the continental U S because of an outbreak of an infectious disease."
+        ],
+        "tf-idf score": [
+            0.5742589887042828,
+            1.1511317256295697,
+            0.9318234293999523
+        ]
+    },
+    "0.22457603454895966-3-94": {
+        "average clique similarity": 0.22457603454895966,
+        "clique": [
+            "4-A CDC emergency resp",
+            "1-CDC personnel are al",
+            "0-The CDC already has "
+        ],
+        "median tf-idf score": 1.0200039306523927,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "A CDC emergency response team is on its way to the affected area. Health officials remain confident that a wider outbreak will be avoided thanks to \"better sanitation, better mosquito control and wider use of window screens and air conditioners\" in the United States.",
+            "CDC personnel are already on the ground in Florida, Frieden said, with more members of the community emergency response team arriving over the next few days. Their first task will be to understand why local mosquito control efforts failed.",
+            "The CDC already has two of its experts on the ground in Florida, and six more will be there by Tuesday as part of a   team. The experts include specialists in birth defects, mosquito control and community engagement. In a statement, Gov."
+        ],
+        "tf-idf score": [
+            1.1365886619209848,
+            1.0200039306523927,
+            0.7050081582993502
+        ]
+    },
+    "0.22609062092591117-3-260": {
+        "average clique similarity": 0.22609062092591117,
+        "clique": [
+            "1-June 15 is the earli",
+            "2-If expectant mothers",
+            "4-The CDC advised wome"
+        ],
+        "median tf-idf score": 1.0541627097395687,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "June 15 is the earliest day, Frieden said, that local health officials believe the mosquitoes could have passed the virus, which they obtained by biting a person who had returned to the United States with the disease.",
+            "If expectant mothers have been in the area anytime after June 15, they should be tested for Zika, Frieden added. Couples who have traveled to the affected area should wait at least eight weeks before trying to get pregnant.",
+            "The CDC advised women who have visited the Wynwood area since June 15 to avoid getting pregnant for at least eight weeks, according to USA Today, which notes this may be the first time CDC has warned people to avoid a community in the continental United States."
+        ],
+        "tf-idf score": [
+            1.0541627097395687,
+            0.8132793903043996,
+            1.077546480915282
+        ]
+    },
+    "0.2276271043355851-3-216": {
+        "average clique similarity": 0.2276271043355851,
+        "clique": [
+            "2- The CDC is walking ",
+            "0-The virus is primari",
+            "3-If Florida mosquitoe"
+        ],
+        "median tf-idf score": 0.7255020150686069,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "\"The CDC is walking a tightrope,\" Jha says. \"Most people who go to southern Florida today are not going to be bitten by a mosquito that's infected,\" he says.",
+            "The virus is primarily spread through the bite of an infected Aedes aegypti mosquito, but it can also be transmitted through sex. That means someone who has been bitten by an infected mosquito could unknowingly spread the virus to a sex partner.",
+            "If Florida mosquitoes were infected, health officials said, it is likely to be because they bit someone in Florida who had traveled to Latin America and been infected by a   mosquito bite there."
+        ],
+        "tf-idf score": [
+            0.7255020150686069,
+            0.7004507440367123,
+            0.835112061930224
+        ]
+    },
+    "0.23390428935354593-3-33": {
+        "average clique similarity": 0.23390428935354593,
+        "clique": [
+            "3-Dr Frieden said that",
+            "1- But the virus could",
+            "0- Everyone coming bac"
+        ],
+        "median tf-idf score": 0.6841227348241481,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Dr Frieden said that the one woman and three men, residents of   and Broward Counties, were not related, but that all had been in a section of Wynwood around the time they were infected in early July.",
+            "\"But the virus could be hitchhiking in their blood. That's why everyone who travels to one of those areas should use insect repellent for at least three weeks after they return\".",
+            "\"Everyone coming back should use repellent for three weeks in case a mosquito bites them and they get infected,\" Frieden said."
+        ],
+        "tf-idf score": [
+            0.6841227348241481,
+            0.538322876244151,
+            0.7504708551184267
+        ]
+    },
+    "0.23559600999368868-3-304": {
+        "average clique similarity": 0.23559600999368868,
+        "clique": [
+            "1-It s a   development",
+            "4-However  CDC directo",
+            "2- In Miami  aggressiv"
+        ],
+        "median tf-idf score": 0.7629420101898827,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "It's a   development with upscale as well as economically stressed businesses and homes, which CDC Director Dr Tom Frieden said complicates mosquito control efforts.",
+            "However, CDC director Tom Frieden told USA Today, \"We don't have ideal ways to control the mosquitoes that control Zika.",
+            "\"In Miami, aggressive mosquito control effects don't seem to be working as well as we would have liked,\" he said."
+        ],
+        "tf-idf score": [
+            0.8364588399428817,
+            0.7629420101898827,
+            0.5870029946530194
+        ]
+    },
+    "0.24201399898598944-3-304": {
+        "average clique similarity": 0.24201399898598944,
+        "clique": [
+            "4- The Associated Pres",
+            "0-All of the cases hav",
+            "2-Fourteen people like"
+        ],
+        "median tf-idf score": 0.8426081762693578,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "[The Associated Press reports that \"of the 14 people infected, two are women and 12 are men. \" \"The Florida infections are thought to have occurred in a small area just north of downtown Miami, in the Wynwood arts district.",
+            "All of the cases have surfaced in a densely populated community north of downtown Miami.",
+            "Fourteen people likely caught Zika in a neighborhood north of downtown Miami, health officials said Monday."
+        ],
+        "tf-idf score": [
+            0.9155898368568037,
+            0.22895094616428743,
+            0.8426081762693578
+        ]
+    },
+    "0.24402120838984934-3-251": {
+        "average clique similarity": 0.24402120838984934,
+        "clique": [
+            "3-Gov  Rick Scott said",
+            "0-Florida Gov  Rick Sc",
+            "1-Florida Gov  Rick Sc"
+        ],
+        "median tf-idf score": 0.47956797416632485,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "Gov. Rick Scott said in a statement that none of the four \"exhibited symptoms to be admitted to the hospital. \"",
+            "Florida Gov. Rick Scott on asking for aid to battle the Zika virus: 'This is a national issue, we're just at the front of it.'",
+            "Florida Gov. Rick Scott wasted no time in asking for CDC assistance. \"Following today's announcement, I have requested that the Centers for Disease Control activate their emergency response team to assist (the Department of Health) in their investigation, research and sample collection efforts,\" Scott said."
+        ],
+        "tf-idf score": [
+            0.2848621898425992,
+            0.47956797416632485,
+            0.9527592137274934
+        ]
+    },
+    "0.2559926622642979-3-304": {
+        "average clique similarity": 0.2559926622642979,
+        "clique": [
+            "3-Two prominent public",
+            "2-Pregnant women shoul",
+            "0-     For the first t"
+        ],
+        "median tf-idf score": 0.9493674440413589,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Two prominent public health experts had sharply different opinions about the C D C's decision against advising pregnant women to avoid travel to the area.",
+            "Pregnant women should avoid travel to an approximately    area in the Wynwood Arts District of Miami, the CDC said Monday.",
+            "     For the first time, the Zika virus has prompted public health officials to warn pregnant women to avoid traveling to a part of the continental United States."
+        ],
+        "tf-idf score": [
+            0.6748075777769504,
+            0.9493674440413589,
+            0.9517373766755411
+        ]
+    },
+    "0.25764626676101454-3-162": {
+        "average clique similarity": 0.25764626676101454,
+        "clique": [
+            "4-Pregnant women who a",
+            "0- In Miami  Zika s ar",
+            "1-Additional precautio"
+        ],
+        "median tf-idf score": 1.209822392371111,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Pregnant women who already live in the area have been urged to undergo testing for the virus, which can cause birth defects.",
+            "[In Miami, Zika's arrival greeted with worry  --   and shrugs]   Because the virus can have devastating consequences for a fetus, the Centers for Disease Control and Prevention urged pregnant women to avoid traveling to the area, and for pregnant women who live and work there to make every effort to avoid mosquito bites and to get tested for possible exposure during each prenatal visit.",
+            "Additional precautions recommended by the CDC about the Miami outbreak include: Pregnant women who live in or travel to the area should be tested for Zika infection in the first and second trimesters of pregnancy, even if they have no symptoms of the virus."
+        ],
+        "tf-idf score": [
+            0.5937562346719122,
+            1.4010453573622215,
+            1.209822392371111
+        ]
+    },
+    "0.26298026338531194-3-97": {
+        "average clique similarity": 0.26298026338531194,
+        "clique": [
+            "1-  CNN  The Centers f",
+            "3-The C D C and Florid",
+            "4-The travel warning c"
+        ],
+        "median tf-idf score": 0.9839361710730603,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            " (CNN) The Centers for Disease Control and Prevention issued an unprecedented travel warning Monday, advising pregnant women and their partners not to travel to a small community just north of downtown Miami, where Zika is actively circulating.",
+            "The C D C and Florida officials said that for now, the area of concern is limited to one square mile in the Wynwood neighborhood of Miami, a gentrifying area with restaurants and art galleries just north of downtown.",
+            "The travel warning covers an area of about one square mile in Wynwood to the east of Interstate 95 and south of Interstate 195,\" the AP reports. \"The area, known for murals   across warehouses, art galleries, restaurants and boutiques, is rapidly gentrifying and has a number of construction sites where standing water can collect and serve as a breeding ground for mosquitoes. \""
+        ],
+        "tf-idf score": [
+            0.9839361710730603,
+            0.8310773680576989,
+            0.9946137727949548
+        ]
+    },
+    "0.2653475570263238-3-52": {
+        "average clique similarity": 0.2653475570263238,
+        "clique": [
+            "2-He adds that he plan",
+            "0-Any pregnant women w",
+            "1- Because of this fin"
+        ],
+        "median tf-idf score": 0.7859344352700838,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "He adds that he plans to test all pregnant patients who have traveled to   and Broward counties for Zika. Doctors at Baylor College of Medicine in Houston are considering expanding their travel advisory to all of Florida.",
+            "Any pregnant women who have traveled to Zika areas    including this area of Florida on or after June 15    are advised to talk with their healthcare providers and get tested for Zika.",
+            "\"Because of this finding, we are advising pregnant women not to travel to that area and if they have traveled there on or after June 15 to visit their health care provider for testing\"."
+        ],
+        "tf-idf score": [
+            0.7859344352700838,
+            0.7873978295365206,
+            0.6846428430318323
+        ]
+    },
+    "0.26572952748164286-3-82": {
+        "average clique similarity": 0.26572952748164286,
+        "clique": [
+            "0-In addition  the mos",
+            "3-Although the Aedes a",
+            "2- We can t predict th"
+        ],
+        "median tf-idf score": 0.8865127347102916,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "In addition, the mosquito can only travel about about 150 yards during its lifetime, he said.",
+            "Although the Aedes aegypti mosquito, which transmits the Zika virus, cannot travel far  --   its range is a maximum of 150 meters or a little under 500 feet  --   finding individual mosquitoes carrying the virus would be a rare stroke of investigative luck, he said.",
+            "\"We can't predict the future, but we do know that the Aedes aegypti mosquito travels only about 150 meters [about 500 feet] maximum in its life,\" Frieden said. So he expects the current outbreak will be contained inside the small neighborhood."
+        ],
+        "tf-idf score": [
+            0.4820918194860646,
+            0.9743974001185828,
+            0.8865127347102916
+        ]
+    }
+}

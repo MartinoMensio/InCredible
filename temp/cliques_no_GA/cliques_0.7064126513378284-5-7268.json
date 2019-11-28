@@ -1,0 +1,482 @@
+{
+    "0.1941693676935811-3-168": {
+        "average clique similarity": 0.1941693676935811,
+        "clique": [
+            "2-While police and sec",
+            "1-Olympic officials an",
+            "4-But with heavy secur"
+        ],
+        "median tf-idf score": 0.6386559215929694,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "While police and security officials say the city\u2019s overall crime rate fell during the first week of the Games, helped by more than 80, 000 soldiers and police deployed on the streets around stadiums and along bus routes, thieves have managed to prey on several Olympic participants and   officials, even in   areas and near Olympic venues.",
+            "Olympic officials and Lochte\u2019s coach initially denied that the swimmers had been robbed, but the US Olympic Committee later confirmed the robbery.",
+            "But with heavy security in and around the Olympic venues, reports of problems have been isolated so far."
+        ],
+        "tf-idf score": [
+            0.6386559215929694,
+            0.8192756300581048,
+            0.2881399660445545
+        ]
+    },
+    "0.22370709531825123-3-176": {
+        "average clique similarity": 0.22370709531825123,
+        "clique": [
+            "4-That gave him 12 Oly",
+            "2- Led by Phelps  Lede",
+            "3-With 12 Olympic meda"
+        ],
+        "median tf-idf score": 0.47923161594341246,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "That gave him 12 Olympic medals in his career, tying him for the most among swimmers   aside from Michael Phelps.",
+            "[Led by Phelps, Ledecky, U S swim team racks up medals in Rio]      Michael Phelps, already the   Olympian of   just keeps adding to his personal medal total at the Rio Games.",
+            "With 12 Olympic medals, Lochte, 32, is the   decorated male Olympic swimmer of all time, behind Michael Phelps."
+        ],
+        "tf-idf score": [
+            0.47923161594341246,
+            0.41571827585570553,
+            0.6998129805265682
+        ]
+    },
+    "0.2438685294118402-3-26": {
+        "average clique similarity": 0.2438685294118402,
+        "clique": [
+            "2-It s not every day  ",
+            "0-  He had said his in",
+            "3-Rio de Janeiro civil"
+        ],
+        "median tf-idf score": 1.1730389464535724,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "It\u2019s not every day,\u201d said the officer, who had not been briefed on the incident.",
+            "\u201d He had said his information came from the swimmer and the USOC Rio organizers spokesman Mario Andrada said he has been briefed on an \u201cissue\u201d involving the swimmer, but could not say if Lochte was held at gunpoint.",
+            "Rio de Janeiro civil police told CNN they have opened an investigation, a few hours after first learning about the robbery from the media, and had not been contacted by the USOC Fellow Team USA swimmer Nathan Adrian said he heard the news about the incident when he woke up, but said he wasn\u2019t worried."
+        ],
+        "tf-idf score": [
+            0.2909218863113517,
+            1.1730389464535724,
+            1.1795691479311994
+        ]
+    },
+    "0.3010056144258582-3-140": {
+        "average clique similarity": 0.3010056144258582,
+        "clique": [
+            "0-Lochte  who has 12 c",
+            "1-Lochte  32  won his ",
+            "2- The Olympics are a "
+        ],
+        "median tf-idf score": 0.857219776780427,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Lochte, who has 12 career Olympic medals and five gold medals, swam in two events at the Rio Games, winning gold in the   freestyle relay.",
+            "Lochte, 32, won his sixth career Olympic gold as part of the 4\u00d7  relay but failed to medal in his only individual event, the   medley, where Michael Phelps took gold.",
+            "[The Olympics are a test Brazil has yet to pass]      1, 000 times gold View Graphic     1, 000 times gold  Lochte, who won a gold medal as part of a relay in these Games, had been traveling home in a taxi, heading to the Olympic Village after a dance party, along with teammates Gunnar Bentz, Jimmy Feigen, and Jack Conger, when the robbery took place, according to the U S Olympic Committee."
+        ],
+        "tf-idf score": [
+            0.857219776780427,
+            0.7665130818977339,
+            1.4153213580163575
+        ]
+    },
+    "0.31631054885099824-3-176": {
+        "average clique similarity": 0.31631054885099824,
+        "clique": [
+            "3-  I m  certainly ver",
+            "1-Very happy all those",
+            "2- We are all safe   B"
+        ],
+        "median tf-idf score": 0.13039873560507173,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d[I\u2019m] certainly very happy that all those boys are safe, you know that\u2019s the number one priority on top of everything,\u201d he said.",
+            "Very happy all those boys are safe.",
+            "\u201cWe are all safe,\u201d Bentz tweeted."
+        ],
+        "tf-idf score": [
+            0.35247984325665976,
+            0.10429700774044125,
+            0.13039873560507173
+        ]
+    },
+    "0.3227719600180738-3-176": {
+        "average clique similarity": 0.3227719600180738,
+        "clique": [
+            "1- That is outside the",
+            "0-The investigation is",
+            "2- While it is true th"
+        ],
+        "median tf-idf score": 0.04821564147155439,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cThat is outside the village though.",
+            "The investigation is in progress\u201d.",
+            "\u201cWhile it is true that my teammates and I were the victims of a robbery early Sunday morning, what is most important is that we are safe and unharmed,\u201d Lochte tweeted on Sunday evening."
+        ],
+        "tf-idf score": [
+            0.04821564147155439,
+            0.029519150061246294,
+            0.6390049218965269
+        ]
+    },
+    "0.3273953676495286-4-1": {
+        "average clique similarity": 0.3273953676495286,
+        "clique": [
+            "3-Lochte released a st",
+            "0-Lochte later tweeted",
+            "2- Thank you for your ",
+            "1-  Bentz tweeted Sund"
+        ],
+        "median tf-idf score": 0.3009632403610767,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Lochte released a statement thanking family, friends, and fans for their support.",
+            "Lochte later tweeted thanks to family, friends for \u2019overwhelming support\u2019 after the robbery.",
+            "\u201cThank you for your love and support.",
+            "\u201d Bentz tweeted Sunday afternoon, \u201cThank you for your love and support."
+        ],
+        "tf-idf score": [
+            0.39925911580992357,
+            0.4686470464409747,
+            0.06463788124664599,
+            0.2026673649122298
+        ]
+    },
+    "0.3337503743489556-4-5": {
+        "average clique similarity": 0.3337503743489556,
+        "clique": [
+            "3-Rio de Janeiro  Braz",
+            "4-Ryan Lochte and thre",
+            "1-US swimmer Ryan Loch",
+            "2-  RIO DE JANEIRO    "
+        ],
+        "median tf-idf score": 1.2792759433572742,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "Rio de Janeiro, Brazil (CNN) Olympic medalist Ryan Lochte and three other US swimmers were safe and cooperating with police Sunday after being robbed at gunpoint in Rio de Janeiro, the U S Olympic Committee said.",
+            "Ryan Lochte and three other U S swimmers were robbed by thieves who put a cocked gun to Lochte\u2019s head in Rio de Janeiro early Sunday morning, the U S swimmer told NBC  Lochte and his friends were in a taxi, going to visit a Brazilian swimmer, when the robbers stopped them.",
+            "US swimmer Ryan Lochte and three of his Olympic teammates were robbed at gunpoint as they left a party in Rio de Janeiro early Sunday, with one thug pressing a cocked pistol to the athlete\u2019s head after he refused to kneel.",
+            "  RIO DE JANEIRO  \u2014   The three other United States swimmers were lying on the ground, following their assailant\u2019s orders, when the gunman turned to Ryan Lochte, one of Team USA\u2019s charming stars."
+        ],
+        "tf-idf score": [
+            1.3443054205455016,
+            1.2904238930324279,
+            1.2681279936821208,
+            0.8229173747291136
+        ]
+    },
+    "0.38538727431070036-3-128": {
+        "average clique similarity": 0.38538727431070036,
+        "clique": [
+            "4-Patrick Sandusky  a ",
+            "1-Lochte said he and f",
+            "3-Lochte and fellow sw"
+        ],
+        "median tf-idf score": 1.138182488203951,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Patrick Sandusky, a spokesman for the U S Olympic Committee, said in a statement that in addition to Lochte, three other swimmers were robbed: Gunnar Bentz, Jack Conger and Jimmy Feigen.",
+            "Lochte said he and fellow Rio   relay swimmers Gunnar Bentz, Jack Conger and Jimmy Feigen were heading back to the Olympic Village at around 2:30 a. m. to 3 a. m. when their cab was stopped by armed men claiming to be cops.",
+            "Lochte and fellow swimmers Gunnar Bentz, Jack Conger and Jimmy Feigen had left a hospitality house hosted by France early Sunday in a taxi bound for the Olympic Village."
+        ],
+        "tf-idf score": [
+            1.138182488203951,
+            1.4417829172203374,
+            1.0868097312017708
+        ]
+    },
+    "0.4219141398432454-3-152": {
+        "average clique similarity": 0.4219141398432454,
+        "clique": [
+            "4-Lochte  who s known ",
+            "0- I refused  I was li",
+            "3- While it is true th"
+        ],
+        "median tf-idf score": 1.1252063675306658,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Lochte, who\u2019s known for his   nonchalant attitude, added: \u201dAnd then the guy pulled out his gun, he cocked it, put it to my forehead, and he said, \u2019Get down,\u2019 and I put my hands up, I was like \u2019whatever.\u2019 He took our money, he took my wallet  \u2014   he left my cellphone, he left my credentials\u201d.",
+            "\u201dI refused, I was like, \u2019We didn\u2019t do anything wrong, so  \u2014   I\u2019m not getting down on the ground.\u2019 \u201dAnd then the guy pulled out his gun, he cocked it, put it to my forehead and he said, \u2019Get down,\u2019 and I put my hands up, I was like \u2019Whatever.\u2019 He took our money, he took my wallet  \u2014   he left my cellphone, he left my credentials\u201d.",
+            "\u201dWhile it is true that my teammates and I were victims of a robbery early Sunday morning, what is most important is that we are safe and unharmed,\u201d he said."
+        ],
+        "tf-idf score": [
+            1.2578963811067636,
+            1.1252063675306658,
+            0.5544162184727583
+        ]
+    },
+    "0.47428624691890986-5-100": {
+        "average clique similarity": 0.47428624691890986,
+        "clique": [
+            "1- These guys came out",
+            "2-Lochte told NBC that",
+            "0-Lochte  32  told NBC",
+            "3- We got pulled over ",
+            "4- We got pulled over "
+        ],
+        "median tf-idf score": 1.123398548477691,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cThese guys came out with a badge, a police badge, no lights, no nothing, just a police badge and pulled us over,\u201d Lochte told the \u201cToday\u201d show\u2019s Billy Bush.",
+            "Lochte told NBC that after the taxi pulled over, men approached them with a police badge.",
+            "Lochte, 32, told NBC the quartet of swimmers were in a taxi coming home from a party at Club France when the cab pulled over and was accosted by a group of men who flashed a police badge and guns.",
+            "\u201dWe got pulled over, in the taxi, and these guys came out with a police badge, no lights, no nothing    just a police badge and they pulled us over,\u201d Lochte told NBC \u201dThey pulled out their guns, they told the other swimmers to get down on the ground    they got down on the ground.",
+            "\u201dWe got pulled over, in the taxi, and these guys came out with a badge, a police badge  \u2014   no lights, no nothing, just a police badge  \u2014   and they pulled us over,\u201d Lochte told NBC \u201dThey pulled out their guns, they told the other swimmers to get down on the ground  \u2014   they got down on the ground."
+        ],
+        "tf-idf score": [
+            0.7267363238310242,
+            0.6947051082367425,
+            1.3078214892317503,
+            1.123398548477691,
+            1.123398548477691
+        ]
+    },
+    "0.4789981758645716-3-176": {
+        "average clique similarity": 0.4789981758645716,
+        "clique": [
+            "0- I think they re all",
+            "1- I think they re all",
+            "3- I think they re all"
+        ],
+        "median tf-idf score": 0.4629936073053646,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cI think they\u2019re all shaken up,\u201d Ileana Lochte told USA Today.",
+            "\u201cI think they\u2019re all shaken up,\u201d Illeana Lochte told  .",
+            "\u201dI think they\u2019re all shaken up,\u201d Lochte\u2019s mother, Ileana Lochte, told USA Today."
+        ],
+        "tf-idf score": [
+            0.4629936073053646,
+            0.39077571513730275,
+            0.47716571317445566
+        ]
+    },
+    "0.5251711029860069-3-176": {
+        "average clique similarity": 0.5251711029860069,
+        "clique": [
+            "2- And then the guy pu",
+            "3-One of the bandits r",
+            "1- The guy pulled out "
+        ],
+        "median tf-idf score": 0.502596967124815,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cAnd then the guy pulled out his gun, he cocked it, put it to my forehead and he said, \u2018Get down,\u2019 and I put my hands up.",
+            "One of the bandits reportedly put a gun to Lochte\u2019s forehead.",
+            "\u201cThe guy pulled out his gun, he cocked it, put it on my forehead, and he said, \u2018Get down.\u2019 I put my hands up."
+        ],
+        "tf-idf score": [
+            0.502596967124815,
+            0.37100087324798264,
+            0.502596967124815
+        ]
+    },
+    "0.5724161540143266-4-77": {
+        "average clique similarity": 0.5724161540143266,
+        "clique": [
+            "4- Their taxi was stop",
+            "1- Their taxi was stop",
+            "2-   The four swimmers",
+            "3-The vehicle was  sto"
+        ],
+        "median tf-idf score": 0.7729918353001219,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dTheir taxi was stopped by individuals posing as armed police officers who demanded the athletes\u2019 money and other personal belongings.",
+            "\u201cTheir taxi was stopped by individuals posing as armed police officers who demanded the athletes\u2019 money and other personal belongings,\u201d the USOC said in a statement.",
+            "\u2019\u201d The four swimmers on the U S Olympic team lost their money and wallets but otherwise escaped unharmed from the gunmen who were posing as police officers.",
+            "The vehicle was \u201dstopped by individuals posing as armed police officers who demanded the athletes\u2019 money and other personal belongings,\u201d said USOC spokesman Patrick Sandusky."
+        ],
+        "tf-idf score": [
+            0.6411687663168962,
+            0.9048149042833478,
+            0.6084466720708773,
+            0.9139742496670279
+        ]
+    },
+    "0.6453810036563796-3-52": {
+        "average clique similarity": 0.6453810036563796,
+        "clique": [
+            "1- All four athletes a",
+            "4-All four athletes ar",
+            "0-A U S Olympic Commit"
+        ],
+        "median tf-idf score": 0.40738735438967194,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cAll four athletes are safe and cooperating with authorities.",
+            "All four athletes are safe and cooperating with authorities,\u201d the statement said.",
+            "A U S Olympic Committee spokesman identified the other swimmers    Gunnar Bentz, Jack Conger and Jimmy Feigen    and said all four were \u201dsafe and cooperating with authorities\u201d."
+        ],
+        "tf-idf score": [
+            0.17951798894698193,
+            0.40738735438967194,
+            0.8844213074878353
+        ]
+    },
+    "0.6574739916556543-3-142": {
+        "average clique similarity": 0.6574739916556543,
+        "clique": [
+            "4-The swimming competi",
+            "2-Lochte has not been ",
+            "1-  The Rio swimming c"
+        ],
+        "median tf-idf score": 0.24402760785438427,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "The swimming competition in Rio ended on Saturday night.",
+            "Lochte has not been in an event since Thursday, and swimming ended Saturday night.",
+            "\u201d The Rio swimming competition ended Saturday night."
+        ],
+        "tf-idf score": [
+            0.24402760785438427,
+            0.4469382689734358,
+            0.24402760785438427
+        ]
+    },
+    "0.6737672778978586-4-176": {
+        "average clique similarity": 0.6737672778978586,
+        "clique": [
+            "3-I refused  I was lik",
+            "2-I was like we didn t",
+            "1-I was like   We didn",
+            "4-I refused  I was lik"
+        ],
+        "median tf-idf score": 0.36302201990759053,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "I refused, I was like we didn\u2019t do anything wrong, so    I\u2019m not getting down on the ground.",
+            "I was like we didn\u2019t do anything wrong, so  \u2014   I\u2019m not getting down on the ground.",
+            "I was like, \u2018We didn\u2019t do anything wrong, so I\u2019m not getting down on the ground.\u2019\u2009\u2019\u2019 One of the thugs then aimed a gun at Lochte\u2019s head, he said.",
+            "I refused, I was like, we didn\u2019t do anything wrong, so  \u2014   I\u2019m not getting down on the ground\u201d."
+        ],
+        "tf-idf score": [
+            0.36302201990759053,
+            0.33325311986298467,
+            0.8972767936631297,
+            0.36302201990759053
+        ]
+    },
+    "0.7190155867885114-3-176": {
+        "average clique similarity": 0.7190155867885114,
+        "clique": [
+            "1- He took our money  ",
+            "2-  After the man thre",
+            "3- And then the guy pu"
+        ],
+        "median tf-idf score": 0.7801940584878254,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cHe took our money, he took my wallet.",
+            "\u201d After the man threatened him with the gun, Lochte said, \u201cHe took our money, he took my wallet  \u2014   he left my cellphone, he left my credentials.",
+            "\u201dAnd then the guy pulled out his gun, he cocked it, put it to my forehead and he said, \u2019Get down,\u2019 and I put my hands up, I was like \u2019whatever.\u2019 He took our money, he took my wallet    he left my cell phone, he left my credentials\u201d."
+        ],
+        "tf-idf score": [
+            0.1445647569681294,
+            0.7801940584878254,
+            0.9690346183651735
+        ]
+    },
+    "0.7806410094019813-3-176": {
+        "average clique similarity": 0.7806410094019813,
+        "clique": [
+            "1-They told the other ",
+            "0- They pulled out the",
+            "2- They pulled out the"
+        ],
+        "median tf-idf score": 0.9652039704649167,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "They told the other swimmers to get down on the ground  \u2014   they got down on the ground.",
+            "\u201dThey pulled out their guns, they told the other swimmers to get down on the ground  \u2014   they got down on the ground,\u201d Lochte said.",
+            "\u201cThey pulled out their guns, they told the other swimmers to get down on the ground  \u2014   they got down on the ground,\u201d Lochte said."
+        ],
+        "tf-idf score": [
+            0.36930846640273174,
+            0.9652039704649167,
+            0.9652039704649167
+        ]
+    }
+}

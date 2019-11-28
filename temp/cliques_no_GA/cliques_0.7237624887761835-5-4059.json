@@ -1,0 +1,1230 @@
+{
+    "0.1503088744972091-3-199": {
+        "average clique similarity": 0.1503088744972091,
+        "clique": [
+            "3-Donald Trump will   ",
+            "1- They took their vie",
+            "2- It is a moral oblig"
+        ],
+        "median tf-idf score": 0.5523121829590264,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "Donald Trump will   support our military and their families, and we will defeat the   enemies of our freedom\u201d.",
+            "\u201cThey took their view of their faith and used it to justify killing innocents and attacking them,\u201d he said of Khan\u2019s killers.",
+            "\u201dIt is a moral obligation    history will not forgive them,\u201d Khan said of Ryan and McConnell on CNN\u2019s \u201dState of the Union\u201d."
+        ],
+        "tf-idf score": [
+            0.6357985365758708,
+            0.5140479981346947,
+            0.5523121829590264
+        ]
+    },
+    "0.151742846994066-3-172": {
+        "average clique similarity": 0.151742846994066,
+        "clique": [
+            "3- Due to the disastro",
+            "1-Senator Roy Blunt  w",
+            "2-Clinton response  De"
+        ],
+        "median tf-idf score": 0.6486866927469133,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dDue to the disastrous decisions of   Barack Obama and Hillary Clinton, a once stable Middle East has   now been overrun by ISIS This must not stand.",
+            "Senator Roy Blunt, who is defending his seat in Missouri, said: \u201cMy advice to Donald Trump has been and will continue to be to focus on jobs and national security and stop responding to every criticism whether it\u2019s from a grieving family or Hillary Clinton.",
+            "Clinton response, Democratic nominee Hillary Clinton also criticized Trump on Sunday, speaking to reporters alongside Kaine, a Virginia senator."
+        ],
+        "tf-idf score": [
+            0.28326242808780183,
+            1.0232775317698963,
+            0.6486866927469133
+        ]
+    },
+    "0.1525482117503926-3-522": {
+        "average clique similarity": 0.1525482117503926,
+        "clique": [
+            "4-Two weeks ago  in th",
+            "2- Captain Khan  kille",
+            "0-First  Trump made li"
+        ],
+        "median tf-idf score": 0.7167463885004283,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Two weeks ago, in the midst of controversy over the fact his wife, Melania, had plagiarized passages of her convention speech from Michelle Obama, Donald Trump tweeted that \u201dall press is good press\u201d.",
+            "\u201dCaptain Khan, killed 12 years ago, was a hero, but this is about RADICAL ISLAMIC TERROR and the weakness of our \u201dleaders\u201d to eradicate it!\u201d Trump wrote in the first of two tweets.",
+            "First, Trump made light of the fact that Ghazala Khan had not spoken."
+        ],
+        "tf-idf score": [
+            0.6875396345263488,
+            1.0242336634244473,
+            0.7167463885004283
+        ]
+    },
+    "0.15719317552987522-3-52": {
+        "average clique similarity": 0.15719317552987522,
+        "clique": [
+            "3-       There is no g",
+            "1- When you say your j",
+            "0-Debating the Khans o"
+        ],
+        "median tf-idf score": 0.20891401972383625,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u2019 \u2019   \u201dThere is no greater sacrifice than to lay down one\u2019\u2019s life for   their country, and that\u2019\u2019s the sacrifice that Capt.",
+            "\u201cWhen you say your job building buildings is akin to our sacrifice, you are attacking our sacrifice.",
+            "Debating the Khans over sacrifice isn\u2019t a   move."
+        ],
+        "tf-idf score": [
+            0.20891401972383625,
+            0.16345494761166798,
+            0.358374688832569
+        ]
+    },
+    "0.1581609143854848-3-354": {
+        "average clique similarity": 0.1581609143854848,
+        "clique": [
+            "0-A campaign s most se",
+            "4-That seems to be the",
+            "2-Ghazala Khan  Khizr "
+        ],
+        "median tf-idf score": 0.9729717687924445,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "A campaign\u2019s most serious errors are only sometimes obvious in retrospect, but Trump\u2019s decision to launch an   rhetorical war with Khizr and Ghazala Khan looks like an unforced error.",
+            "That seems to be the mindset the Republican presidential nominee was embracing Monday morning as he continued to pick a fight with Khizr and Ghazala Khan, the parents of an Army captain killed in Iraq.",
+            "Ghazala Khan, Khizr Khan\u2019s wife, hit Trump back hard herself in an   in The Washington Post Sunday, saying she declined to speak because she was emotionally distraught    and suggested Trump lacks empathy if he fails to understand that decision."
+        ],
+        "tf-idf score": [
+            0.9729717687924445,
+            0.9637812298367792,
+            1.1328410588162343
+        ]
+    },
+    "0.15941969546831383-3-71": {
+        "average clique similarity": 0.15941969546831383,
+        "clique": [
+            "4-He has suggested tha",
+            "3-       I am appalled",
+            "1-He did not mention T"
+        ],
+        "median tf-idf score": 0.5686390032741672,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "He has suggested that the likes of their son should not be allowed in the United States  \u2014   to say nothing of entering its service.",
+            "\u2019 \u2019   \u201dI am appalled that Donald Trump would disparage them and that he   had the gall to compare his own sacrifices to those of a Gold   Star family,\u201d she continued, using the term for relatives of   those killed in military service.",
+            "He did not mention Trump by name, but he expressed sharp disapproval of any criticism of those who serve in the military and their families."
+        ],
+        "tf-idf score": [
+            0.37050900007744764,
+            0.8676915807788782,
+            0.5686390032741672
+        ]
+    },
+    "0.16036338210446757-3-320": {
+        "average clique similarity": 0.16036338210446757,
+        "clique": [
+            "3-      Graham  a onet",
+            "2-But there are two ke",
+            "0-  Trump s standing i"
+        ],
+        "median tf-idf score": 0.6740709076516077,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "\u2019 \u2019   Graham, a onetime 2016 presidential hopeful, has not endorsed   Trump, the Republican nominee.",
+            "But there are two key differences: Trump was not yet the GOP nominee and McCain    himself the 2008 GOP      is a   public figure with experience parrying on the presidential level.",
+            "\u201d Trump\u2019s standing in the GOP primary didn\u2019t falter, and McCain has since endorsed him for president."
+        ],
+        "tf-idf score": [
+            0.6740709076516077,
+            0.6788882112254274,
+            0.5896478905058833
+        ]
+    },
+    "0.1721228780651908-3-553": {
+        "average clique similarity": 0.1721228780651908,
+        "clique": [
+            "4-That proves the poin",
+            "0-Trump also made his ",
+            "1- This is going to a "
+        ],
+        "median tf-idf score": 0.7811417979474626,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "That proves the point he has not read the Constitution of the country\u201d.",
+            "Trump also made his point about Ghazala Khan in a conversation with The New York Times\u2019 Maureen Dowd.",
+            "\u201cThis is going to a place where we\u2019ve never gone before, to push back against the families of the fallen,\u201d Graham, who has not endorsed Trump, told the New York Times."
+        ],
+        "tf-idf score": [
+            0.26112567944865306,
+            0.7811417979474626,
+            0.7976973489713497
+        ]
+    },
+    "0.17440079693331256-3-23": {
+        "average clique similarity": 0.17440079693331256,
+        "clique": [
+            "0-I like people who we",
+            "4- Everywhere people a",
+            "2-A lot of people have"
+        ],
+        "median tf-idf score": 0.10362060322186999,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "I like people who weren\u2019t captured.",
+            "\u201dEverywhere people are supporting our message.",
+            "A lot of people have said that\u201d."
+        ],
+        "tf-idf score": [
+            0.10362060322186999,
+            0.05228245887724715,
+            0.20126267095922712
+        ]
+    },
+    "0.18011329583837235-3-58": {
+        "average clique similarity": 0.18011329583837235,
+        "clique": [
+            "4-That is the goodness",
+            "1-com  a   conspiracy ",
+            "2-Trump tweeted during"
+        ],
+        "median tf-idf score": 0.6731581982486098,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "That is the goodness of America I was speaking about\u201d.",
+            "com, a   conspiracy site that speculates that Humayun Khan, who emigrated to the United States at the age of two and was awarded the Bronze Star after his death, was a \u201cMuslim martyr\u201d who was only killed \u201cbefore his Islamist mission was accomplished\u201d.",
+            "Trump tweeted during the interview that the issue was not the Khans, it was stopping the spread of radical Islamic terrorism."
+        ],
+        "tf-idf score": [
+            0.20973458841524872,
+            0.6731581982486098,
+            0.8881193712756343
+        ]
+    },
+    "0.1811795446815141-3-26": {
+        "average clique similarity": 0.1811795446815141,
+        "clique": [
+            "1-Trump s campaign has",
+            "4-In a Monday morning ",
+            "0-On Sunday morning  T"
+        ],
+        "median tf-idf score": 1.0887687936212798,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Trump\u2019s campaign has remained largely silent on the growing outrage, save for a pair of tweets sent on Monday morning in which Trump declared that \u201cthis story is not about Mr Khan   \u2026     but rather RADICAL ISLAMIC TERRORISM and the U S \u201d and sarcastically called Khan\u2019s statements \u201cNice!\u201d But at least one senior campaign official has lifted a conspiracy theory from the darkest fringes of the internet to accuse Khizr Khan of being a \u201cMuslim Brotherhood agent\u201d.",
+            "In a Monday morning appearance on the Today Show, Khizr Khan said of Trump\u2019s response, \u201dthis candidate amazes me  \u2014   his ignorance.",
+            "On Sunday morning, Trump defended his right to swing at Khizr Khan: I was viciously attacked by Mr Khan at the Democratic Convention."
+        ],
+        "tf-idf score": [
+            1.265669746163133,
+            1.027052221907488,
+            1.0887687936212798
+        ]
+    },
+    "0.18471190707487747-3-224": {
+        "average clique similarity": 0.18471190707487747,
+        "clique": [
+            "2-Captain Khan was one",
+            "1- No one can truly un",
+            "0-   Khan added   You "
+        ],
+        "median tf-idf score": 0.47248334325297303,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Captain Khan was one such brave example.",
+            "\u201cNo one can truly understand the sacrifice a family makes when their loved one serves their country or the heartbreak of losing a loved one,\u201d Kinzinger, who has not backed Trump, said in a statement.",
+            "\u2019\u201d Khan added, \u201cYou have sacrificed nothing and no one."
+        ],
+        "tf-idf score": [
+            0.47248334325297303,
+            0.9971945947574375,
+            0.33242491541722974
+        ]
+    },
+    "0.1856686985388906-3-234": {
+        "average clique similarity": 0.1856686985388906,
+        "clique": [
+            "2-The Khans are not ",
+            "4-While our Party has ",
+            "1-While Rubio has said"
+        ],
+        "median tf-idf score": 0.2859098089988432,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "The Khans are not.",
+            "While our Party has bestowed upon him the nomination, it is not accompanied by unfettered license to defame those who are the best among us.",
+            "While Rubio has said he does not support a ban on all Muslims, the senator said \u201cit\u2019s very difficult to vet people from certain parts of the world where there are not vetted governments\u201d."
+        ],
+        "tf-idf score": [
+            0.2859098089988432,
+            0.2254262004415813,
+            0.5228920783667621
+        ]
+    },
+    "0.19183209781114896-3-579": {
+        "average clique similarity": 0.19183209781114896,
+        "clique": [
+            "4-We re a better count",
+            "1-He added   We live i",
+            "0-I think they re sacr"
+        ],
+        "median tf-idf score": 0.10147173392411069,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "We\u2019re a better country because of you.",
+            "He added: \u201cWe live in a world now where we have to know exactly who\u2019s coming in, why they\u2019re coming, who they are, and what they\u2019re up to.",
+            "I think they\u2019re sacrifices,\u201d Trump said, likening his pursuit of monetary success to parents\u2019 loss of a child in service of the nation."
+        ],
+        "tf-idf score": [
+            0.10147173392411069,
+            0.08880736184830072,
+            0.7008370182531561
+        ]
+    },
+    "0.2022044520292777-3-595": {
+        "average clique similarity": 0.2022044520292777,
+        "clique": [
+            "4-Gold Star families i",
+            "2-The White House also",
+            "0-I am a Gold Star mot"
+        ],
+        "median tf-idf score": 0.3635722623765066,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Gold Star families is a term the military uses for the parents, sibilings and children of men and women killed in combat.",
+            "The White House also weighed in with an implicit rebuke of Trump, saying that Gold Star families deserve only \u201dhonor and gratitude\u201d for their loved ones\u2019 service.",
+            "I am a Gold Star mother."
+        ],
+        "tf-idf score": [
+            0.3635722623765066,
+            0.7006949867505314,
+            0.09754992024052914
+        ]
+    },
+    "0.2027958648020197-3-179": {
+        "average clique similarity": 0.2027958648020197,
+        "clique": [
+            "1-They continue to ins",
+            "2-If they do not  I wi",
+            "0-        For us to co"
+        ],
+        "median tf-idf score": 0.0530854497517821,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "They continue to inspire us every day, every moment.",
+            "If they do not, I will continue to speak\u201d.",
+            "        For us to continue writing great stories, we need to display ads."
+        ],
+        "tf-idf score": [
+            0.0530854497517821,
+            0.04993034633698879,
+            0.07046653928258259
+        ]
+    },
+    "0.20310685942408788-3-5": {
+        "average clique similarity": 0.20310685942408788,
+        "clique": [
+            "2-Hillary voted for th",
+            "0-Trump supported the ",
+            "3-The New Hampshire   "
+        ],
+        "median tf-idf score": 0.48221736780456476,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "Hillary voted for the Iraq war, not me!\u201d Trump tweeted.",
+            "Trump supported the war in Iraq, though he has repeatedly claimed he did not.",
+            "The New Hampshire   senator\u2019\u2019s husband is an Iraq War veteran."
+        ],
+        "tf-idf score": [
+            0.48221736780456476,
+            0.5619131757621522,
+            0.19162946770833367
+        ]
+    },
+    "0.20772857312219864-3-433": {
+        "average clique similarity": 0.20772857312219864,
+        "clique": [
+            "1-  Pat Toomey  a sena",
+            "4-It is time for Donal",
+            "2- Families who make t"
+        ],
+        "median tf-idf score": 0.6958963916276145,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201d Pat Toomey, a senator locked in a close race in Pennsylvania, said: \u201cThe Khan family, like all Americans who lose loved ones in the defense of our country, deserve our gratitude and honor.",
+            "It is time for Donald Trump to set the example for our country and the future of the Republican Party.",
+            "\u201dFamilies who make the ultimate sacrifice for this country\u2019s freedom and this country\u2019s safety deserve nothing but our country\u2019s honor and gratitude and deepest respect,\u201d Schultz said."
+        ],
+        "tf-idf score": [
+            0.8943741050635579,
+            0.6958963916276145,
+            0.5313548503561725
+        ]
+    },
+    "0.2133980185195948-3-499": {
+        "average clique similarity": 0.2133980185195948,
+        "clique": [
+            "4- Lastly  I d like to",
+            "2- I d like to hear hi",
+            "0-He said he would lik"
+        ],
+        "median tf-idf score": 0.49526819276990136,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201dLastly, I\u2019d like to say to Mr and Mrs Khan: thank you for immigrating to America.",
+            "\u201dI\u2019d like to hear his wife say something,\u201d Trump told Dowd.",
+            "He said he would like to hear from me."
+        ],
+        "tf-idf score": [
+            0.49526819276990136,
+            0.543484528182504,
+            0.20741617399361528
+        ]
+    },
+    "0.2152419880791567-3-129": {
+        "average clique similarity": 0.2152419880791567,
+        "clique": [
+            "4-And you are certainl",
+            "1-  On Monday  McCain ",
+            "0-The Most Inspiring a"
+        ],
+        "median tf-idf score": 0.883553145936262,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "And you are certainly right your son was the best of America, and the memory of his sacrifice will make us a better nation  \u2014   and he will never be forgotten\u201d.",
+            "\u201d On Monday, McCain, a decorated Vietnam veteran, thanked the Khans for coming to the US  \u2014   they are of Pakistani heritage and their son was born in the UAE  \u2014   and said their son\u2019s death \u201cwas a shining example of the valor and bravery inculcated into our military\u201d.",
+            "The Most Inspiring and Depressing Moment of the Democratic Convention  \u201cHillary Clinton was right when she called my son \u2018the best of America,\u2019\u201d Khizr Khan said."
+        ],
+        "tf-idf score": [
+            0.4138813470346535,
+            0.883553145936262,
+            0.9410382378760174
+        ]
+    },
+    "0.21568186294673386-3-280": {
+        "average clique similarity": 0.21568186294673386,
+        "clique": [
+            "3-Lindsey Graham of So",
+            "1-Prominent Republican",
+            "2-Washington  CNN  Don"
+        ],
+        "median tf-idf score": 1.2837247649018142,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Lindsey Graham of South Carolina and Kelly   Ayotte of New Hampshire delivered blistering rebukes of Donald   Trump on Sunday for his attacks against the family of Humayun   Khan, a Muslim American solider who was killed serving the US in   the Iraq War.",
+            "Prominent Republicans have condemned Donald Trump over his comments about Khizr and Ghazala Khan, the parents of an American soldier who was killed in Iraq.",
+            "Washington (CNN) Donald Trump\u2019s criticism about the Muslim parents of a slain American soldier has generated    once again    a backlash within his own party."
+        ],
+        "tf-idf score": [
+            1.4845889184855263,
+            1.2837247649018142,
+            0.8367247241087522
+        ]
+    },
+    "0.21826002419226675-3-419": {
+        "average clique similarity": 0.21826002419226675,
+        "clique": [
+            "0- He was a war hero b",
+            "1-He nonetheless added",
+            "2-He said a federal ju"
+        ],
+        "median tf-idf score": 0.3165011371515146,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cHe was a war hero because he was captured.",
+            "He nonetheless added that it was \u201ca complex issue\u201d because Khan had \u201clost his life in the hands of radical jihadists\u201d.",
+            "He said a federal judge was unqualified because of his Mexican heritage."
+        ],
+        "tf-idf score": [
+            0.23368918916365497,
+            0.528924348691868,
+            0.3165011371515146
+        ]
+    },
+    "0.22075522258228317-3-595": {
+        "average clique similarity": 0.22075522258228317,
+        "clique": [
+            "1-This weekend  in an ",
+            "2-Trump suggested    f",
+            "4-Speaking to ABC s Th"
+        ],
+        "median tf-idf score": 0.9542153976099876,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "This weekend, in an interview with ABC and on Twitter, Trump questioned the authorship of the speech, insisted he had made sacrifices for his country comparable to those of the Khans, and complained of being \u201cviciously attacked\u201d by Khizr Khan.",
+            "Trump suggested    first in an interview with New York Times columnist Maureen Dowd, then in an interview with ABC News\u2019 George Stephanopoulos aired Sunday on \u201dThis Week\u201d    that Khan\u2019s wife wasn\u2019t allowed to speak.",
+            "Speaking to ABC\u2019s This Week, he asked whether Ghazala Khan \u201dwasn\u2019t allowed to have anything to say\u201d."
+        ],
+        "tf-idf score": [
+            1.020225728638798,
+            0.9542153976099876,
+            0.49900076866174004
+        ]
+    },
+    "0.23310981815202006-3-265": {
+        "average clique similarity": 0.23310981815202006,
+        "clique": [
+            "1-Khizr Khan responded",
+            "2- What he s saying is",
+            "0-He told The Washingt"
+        ],
+        "median tf-idf score": 0.8541345791019028,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "Khizr Khan responded in a CNN interview on Sunday, saying Trump had a \u201cblack soul\u201d.",
+            "\u201dWhat he\u2019s saying is that Mr Trump has a right to defend himself, to make clear what he\u2019s saying is this is about Islamic terrorism, for him to be criticized like that he didn\u2019t think was fair,\u201d Trump aide Jason Miller told CNN\u2019s Brian Stelter on \u201dReliable Sources\u201d Sunday.",
+            "He told The Washington Post that Trump\u2019s attacks on his wife were \u201ctypical of a person without a soul\u201d and told CNN, \u201cHe is a black soul, and this is totally unfit for the leadership of this country."
+        ],
+        "tf-idf score": [
+            0.8541345791019028,
+            1.0032622410325698,
+            0.660637098799136
+        ]
+    },
+    "0.24022359939064342-3-529": {
+        "average clique similarity": 0.24022359939064342,
+        "clique": [
+            "1-John McCain  the GOP",
+            "2-Sen  John McCain iss",
+            "4-On Monday morning  A"
+        ],
+        "median tf-idf score": 1.0225987671277708,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "John McCain, the GOP presidential nominee in 2008, challenged Trump on Monday \u201cto set an example\u201d and said: \u201cI cannot emphasize how deeply I disagree with Mr Trump\u2019s statement [about the Khans].",
+            "Sen. John McCain issue a very personal statement Monday blasting Trump\u2019s comments about the Khans and paying homage to their son Humayun\u2019s sacrifice.",
+            "On Monday morning, Arizona Sen. John McCain, whom Trump once mocked for being shot down and captured during the Vietnam War, issued a nearly   statement denouncing Trump\u2019s critiques of the Khans."
+        ],
+        "tf-idf score": [
+            1.1791579138906327,
+            1.0225987671277708,
+            1.0092742305452607
+        ]
+    },
+    "0.2633701891564055-3-539": {
+        "average clique similarity": 0.2633701891564055,
+        "clique": [
+            "2-You tell me ",
+            "0-Whoever saw me felt ",
+            "1- This candidate amaz"
+        ],
+        "median tf-idf score": 0.031112914086414322,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "You tell me.",
+            "Whoever saw me felt me in their heart.",
+            "\u201cThis candidate amazes me,\u201d Khan said."
+        ],
+        "tf-idf score": [
+            0.0032747533527638035,
+            0.031112914086414322,
+            0.47216101468012667
+        ]
+    },
+    "0.2679461538452133-3-112": {
+        "average clique similarity": 0.2679461538452133,
+        "clique": [
+            "1-The Republican nomin",
+            "3-      Trump  on Satu",
+            "0-  Ghazala Khan  mean"
+        ],
+        "median tf-idf score": 0.8634944977252308,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The Republican nominee also questioned why Ghazala Khan, the fallen soldier\u2019s mother, stood silently onstage at the DNC  \u2014   insinuating that she was not permitted to speak because of her faith.",
+            "\u2019 \u2019   Trump  on Saturday, suggesting that Ghazala Khan might not   have been permitted to speak at the convention because of her   Muslim religion.",
+            "\u201d Ghazala Khan, meanwhile, replied in a column in the Post: Donald Trump has asked why I did not speak at the Democratic convention."
+        ],
+        "tf-idf score": [
+            0.7784013705970201,
+            0.8634944977252308,
+            1.0228917999326752
+        ]
+    },
+    "0.2775474226747984-3-514": {
+        "average clique similarity": 0.2775474226747984,
+        "clique": [
+            "0-The Khans  Muslims i",
+            "1-Captain Humayun Khan",
+            "2-The controversy is o"
+        ],
+        "median tf-idf score": 0.6527169565544063,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "The Khans, Muslims immigrants from Pakistan, spoke Thursday at the Democratic National Convention, recalling their son, Captain Humayun Khan, who died while serving in Iraq in 2004.",
+            "Captain Humayun Khan died while protecting his army unit from a suicide bombing in 2004.",
+            "The controversy is over Trump\u2019s response to the Khans, whose son was killed in Iraq by a suicide bomber in 2004."
+        ],
+        "tf-idf score": [
+            0.6527169565544063,
+            0.3926227512287922,
+            0.9337334508046814
+        ]
+    },
+    "0.28020199571743687-3-557": {
+        "average clique similarity": 0.28020199571743687,
+        "clique": [
+            "4- Her response  speak",
+            "1- When you question a",
+            "2-Khan s mother  a Gol"
+        ],
+        "median tf-idf score": 0.6407771608983456,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "(Her response: speaking about her dead son is too painful for her to do in public.)",
+            "\u201cWhen you question a mother\u2019s pain, by implying that her religion, not her grief, kept her from addressing an arena of people, you are attacking us,\u201d the families wrote in a letter to Trump.",
+            "Khan\u2019s mother, a Gold Star mother, who stood there on that stage with her husband honoring the sacrifice of their son and who has in the days since spoken out about the overwhelming emotion that any mother would feel as her son was being honored and then to have Trump do what he did, I don\u2019t know where the bounds are."
+        ],
+        "tf-idf score": [
+            0.13435570025305316,
+            0.6407771608983456,
+            1.1998933160321896
+        ]
+    },
+    "0.28126107687464347-3-385": {
+        "average clique similarity": 0.28126107687464347,
+        "clique": [
+            "1-On Monday  Ghazala K",
+            "0-   Ghazala Khan said",
+            "2-Trump has since resp"
+        ],
+        "median tf-idf score": 0.7698993900671026,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "On Monday, Ghazala Khan told NBC, as she had written in the Washington Post a day before, that the reason she had remained silent on stage was that she was too overcome by grief over her son\u2019s death to speak about it.",
+            "\u201d (Ghazala Khan said she was too overcome with emotions to speak.)",
+            "Trump has since responded by criticizing Ghazala Khan\u2019s silence and suggesting she wasn\u2019t allowed to speak."
+        ],
+        "tf-idf score": [
+            0.7698993900671026,
+            0.6611321013898661,
+            0.899246749489567
+        ]
+    },
+    "0.2830694132350659-3-595": {
+        "average clique similarity": 0.2830694132350659,
+        "clique": [
+            "3-           Trump  mo",
+            "4-Khizr Khan delivered",
+            "1-Last Thursday  at th"
+        ],
+        "median tf-idf score": 0.9014620676168569,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u2019 \u2019  \u2019 \u2019   Trump  morning that he could not understand why he   was earning scorn for questioning the two Gold Star parents who   slammed him during a speech at the Democratic National Convention   in Philadelphia on Thursday night.",
+            "Khizr Khan delivered a powerful speech criticizing Trump at last week\u2019s Democratic National Convention.",
+            "Last Thursday, at the Democratic national convention in Philadelphia, his father, Khizr Khan, spoke about his opposition to Trump\u2019s proposed ban on Muslim immigration."
+        ],
+        "tf-idf score": [
+            0.8617963377987391,
+            0.9014620676168569,
+            0.9507100359764414
+        ]
+    },
+    "0.2973281543304804-3-595": {
+        "average clique similarity": 0.2973281543304804,
+        "clique": [
+            "3-       By suspending",
+            "2- By suspending immig",
+            "1- I can t talk      m"
+        ],
+        "median tf-idf score": 0.8183655160009904,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u2019 \u2019   \u201dBy suspending immigration from countries that have been   compromised by terrorism, rebuilding our military, defeating ISIS   at its source, and projecting strength on the global stage, we   will reduce the likelihood that other American families will face   the enduring heartbreak of the Khan family.",
+            "\u201dBy suspending immigration from countries that have been compromised by terrorism, rebuilding our military, defeating ISIS at its source and projecting strength on the global stage, we will reduce the likelihood that other American families will face the enduring heartbreak of the Khan family\u201d.",
+            "\u201cI can\u2019t talk  \u2014   my words will be not that strong or I will start crying."
+        ],
+        "tf-idf score": [
+            0.8183655160009904,
+            0.8183655160009904,
+            0.035503138547709166
+        ]
+    },
+    "0.30276384729279754-3-209": {
+        "average clique similarity": 0.30276384729279754,
+        "clique": [
+            "1-I can t   she said ",
+            "0-She concluded   Dona",
+            "3-      Ayotte  who ha"
+        ],
+        "median tf-idf score": 0.7582784527907875,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Business Insider"
+        ],
+        "sentences": [
+            "I can\u2019t,\u201d she said.",
+            "She concluded: \u201cDonald Trump said he has made a lot of sacrifices.",
+            "\u2019 \u2019   Ayotte, who has said she will vote for Trump, said she was   \u201dappalled\u201d by the Republican nominee\u2019\u2019s attacks."
+        ],
+        "tf-idf score": [
+            0.1456266804725723,
+            0.7582784527907875,
+            0.9391113145625228
+        ]
+    },
+    "0.3046390537404174-3-524": {
+        "average clique similarity": 0.3046390537404174,
+        "clique": [
+            "1-At the Democratic co",
+            "4-On the final night o",
+            "3- Am I not allowed to"
+        ],
+        "median tf-idf score": 1.134412026577971,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "At the Democratic convention, Khan waved a   US constitution and questioned whether Trump had ever read it.",
+            "On the final night of the Democratic convention, Khizr Khan spoke out against Trump\u2019s call to temporarily ban all Muslim immigrants from the United States, asking whether the candidate had read the Constitution before pulling out a copy from his suit jacket and offering to lend Trump his personal copy.",
+            "\u201dAm I not allowed to respond?\u201d \u2019 \u2019   Khizr Khan, speaking alongside his wife, Ghazala, offered a   powerful rebuke of Trump on the final night of the DNC \u2019 \u2019   In an   speech, Khan questioned whether Trump had ever   read the US Constitution or sacrificed anything for his country."
+        ],
+        "tf-idf score": [
+            0.7913692360939066,
+            1.134412026577971,
+            1.192550721822682
+        ]
+    },
+    "0.3055410987288439-3-472": {
+        "average clique similarity": 0.3055410987288439,
+        "clique": [
+            "2-Khan as a  hero  and",
+            "3-In a     statement  ",
+            "1-  Trump  who as a yo"
+        ],
+        "median tf-idf score": 0.700200699704326,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Khan as a \u201dhero\u201d and saying the real problem is \u201dradical Islamic terrorists who killed him\u201d.",
+            "In a     statement, he called the Khans\u2019\u2019 son a \u201dhero to our country\u201d and   tried to shift the issue to what he described as \u201dthe real   problem,\u201d or \u201dthe radical Islamic terrorists who killed him\u201d.",
+            "\u201d Trump, who as a young man obtained deferments and did not serve in Vietnam, also faced criticism from the families of 17 Americans who died in war, who in an open letter asked him to apologize to the Khans and other families of fallen soldiers for comments they said were \u201crepugnant, and personally offensive\u201d."
+        ],
+        "tf-idf score": [
+            0.48049372814864016,
+            0.700200699704326,
+            1.278233404587822
+        ]
+    },
+    "0.3130571057882718-3-79": {
+        "average clique similarity": 0.3130571057882718,
+        "clique": [
+            "2-Trump says Putin is ",
+            "1-   In his appearance",
+            "4-Republicans like Hou"
+        ],
+        "median tf-idf score": 0.8030860626092378,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Trump says Putin is \u2019not going to go into Ukraine\u2019 despite Crimea, Senate Majority Leader Mitch McConnell,   offered similar sentiments.",
+            "\u201d  In his appearance on NBC\u2019s Today Show, Khizr Khan said he was grateful that the Senate majority leader, Mitch McConnell, and House speaker, Paul Ryan, had condemned Trump\u2019s comments over the weekend, but suggested they were not listening to the Republican party.",
+            "Republicans like House Speaker Paul Ryan and Senate Majority Leader Mitch McConnell spent the weekend issuing statements distancing themselves from Trump\u2019s attacks on the Muslim immigrants."
+        ],
+        "tf-idf score": [
+            0.5598889086524745,
+            1.3364460733047874,
+            0.8030860626092378
+        ]
+    },
+    "0.34663880198339836-3-90": {
+        "average clique similarity": 0.34663880198339836,
+        "clique": [
+            "3- He was a true Ameri",
+            "2-Trump said at the ti",
+            "0- He s not a war hero"
+        ],
+        "median tf-idf score": 0.5872933138635237,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dHe was a true American hero.",
+            "Trump said at the time that McCain is not a war hero because he was captured and imprisoned in Vietnam.",
+            "\u201cHe\u2019s not a war hero,\u201d said Trump."
+        ],
+        "tf-idf score": [
+            0.2569149988525262,
+            0.8259277235365023,
+            0.5872933138635237
+        ]
+    },
+    "0.3620242362339759-3-595": {
+        "average clique similarity": 0.3620242362339759,
+        "clique": [
+            "1- His ignorance  he c",
+            "4-Khan continued   And",
+            "2- He is a black soul "
+        ],
+        "median tf-idf score": 0.5259912422941895,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cHis ignorance, he can get up and malign the entire nation, the religions, the communities, the minorities, the judges  \u2014   and yet a private citizen in this political process, in his candidacy for the stewardship of this country, I cannot say what I feel?",
+            "Khan continued, \u201dAnd yet a private citizen in this political process, in his candidacy for the stewardship of this country, I cannot say what I feel?",
+            "\u201dHe is a black soul, and this is totally unfit for the leadership of this country,\u201d Khan said."
+        ],
+        "tf-idf score": [
+            0.31674302820975586,
+            0.5259912422941895,
+            0.5686323536999027
+        ]
+    },
+    "0.3627354135085777-3-260": {
+        "average clique similarity": 0.3627354135085777,
+        "clique": [
+            "4-Mike Pence  that sou",
+            "2-But he said honoring",
+            "3-      Pence said he "
+        ],
+        "median tf-idf score": 1.2512328819997802,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Mike Pence, that sought to paint a more conciliatory picture, saying, \u201dDonald Trump and I believe that Captain Humayun Khan is an American hero and his family, like all Gold Star families, should be cherished by every American\u201d.",
+            "But he said honoring Gold Star families should rise \u201dabove politics\u201d.",
+            "\u201d \u2019   Pence said he and Trump thought Khan was \u201dan American hero and   his family, like all Gold Star families, should be cherished by   every American\u201d."
+        ],
+        "tf-idf score": [
+            1.2512328819997802,
+            0.35726139352720987,
+            1.3227143567135038
+        ]
+    },
+    "0.39162368246160567-3-595": {
+        "average clique similarity": 0.39162368246160567,
+        "clique": [
+            "0-She probably    mayb",
+            "2-She probably    mayb",
+            "1-Anything else is ina"
+        ],
+        "median tf-idf score": 0.0931554993000345,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "She probably \u2014  maybe she wasn\u2019t allowed to have anything to say.",
+            "She probably    maybe she wasn\u2019t allowed to have anything to say.",
+            "Anything else is inappropriate."
+        ],
+        "tf-idf score": [
+            0.0931554993000345,
+            0.0931554993000345,
+            0.004492458882326861
+        ]
+    },
+    "0.39340036960004027-3-238": {
+        "average clique similarity": 0.39340036960004027,
+        "clique": [
+            "4-I cannot emphasize e",
+            "3- Mr Trump can  t ",
+            "2-Mr Trump can t   Gra"
+        ],
+        "median tf-idf score": 0.571217294458564,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "I cannot emphasize enough how deeply I disagree with Mr Trump\u2019s statement,\u201d McCain said.",
+            "\u201dMr Trump can\u2019\u2019t.",
+            "Mr Trump can\u2019t,\u201d Graham said."
+        ],
+        "tf-idf score": [
+            0.676734276930212,
+            0.39359026930000746,
+            0.571217294458564
+        ]
+    },
+    "0.39568958368956314-3-14": {
+        "average clique similarity": 0.39568958368956314,
+        "clique": [
+            "4- My belief in the go",
+            "0-Here is my answer to",
+            "3-       Without sayin"
+        ],
+        "median tf-idf score": 0.2159577420522995,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dMy belief in the goodness of America is reaffirmed,\u201d he said.",
+            "Here is my answer to Donald Trump: Because without saying a thing, all the world, all America, felt my pain.",
+            "\u201d \u2019   \u201dWithout saying a thing, all the world, all America, felt my   pain,\u201d she wrote."
+        ],
+        "tf-idf score": [
+            0.2159577420522995,
+            0.6017390823374164,
+            0.19793081373145777
+        ]
+    },
+    "0.4041614343135052-3-443": {
+        "average clique similarity": 0.4041614343135052,
+        "clique": [
+            "4-Trump s sustained ho",
+            "2- While I feel deeply",
+            "0-Trump also issued a "
+        ],
+        "median tf-idf score": 1.3420177740940877,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Trump\u2019s sustained hostility toward the Khans has made other Republican candidates and officeholders deeply uncomfortable.",
+            "\u201dWhile I feel deeply for the loss of his son, Mr Khan who has never met me, has no right to stand in front of millions of people and claim I have never read the Constitution, (which is false) and say many other inaccurate things,\u201d Trump said in the statement.",
+            "Trump also issued a statement Saturday night, in which he said, in part: While I feel deeply for the loss of his son, Mr Khan who has never met me, has no right to stand in front of millions of people and claim I have never read the Constitution, (which is false) and say many other inaccurate things."
+        ],
+        "tf-idf score": [
+            0.8974005440841626,
+            1.3420177740940877,
+            1.401123346930141
+        ]
+    },
+    "0.423419515181306-3-226": {
+        "average clique similarity": 0.423419515181306,
+        "clique": [
+            "1- If you re going to ",
+            "3-       If you  re go",
+            "2- Lastly  I d like to"
+        ],
+        "median tf-idf score": 0.49526819276990136,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201cIf you\u2019re going to be leader of the free world, you have to be able to accept criticism, and Mr Trump can\u2019t.",
+            "\u2019 \u2019   \u201dIf you\u2019\u2019re going to be the leader of the free world, you have to   be able to accept criticism,\u201d the South Carolina Republican said.",
+            "\u201dLastly, I\u2019d like to say to Mr and Mrs Khan: thank you for immigrating to America."
+        ],
+        "tf-idf score": [
+            0.5581923061236896,
+            0.42292802114678296,
+            0.49526819276990136
+        ]
+    },
+    "0.4302593202825363-3-428": {
+        "average clique similarity": 0.4302593202825363,
+        "clique": [
+            "0-As Philip Rucker sum",
+            "3-The   Khan family de",
+            "1-The Khan family dese"
+        ],
+        "median tf-idf score": 0.5760131696880184,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Business Insider"
+        ],
+        "sentences": [
+            "As Philip Rucker summed it up, with less than 99 days until the election, the Republican nominee is debating with the parents of a slain American serviceman over whether he has sacrificed as much they have.",
+            "The   Khan family deserves nothing less than our deepest support,   respect, and gratitude, and they have every right to express   themselves in any way they choose.",
+            "The Khan family deserves nothing less than our deepest support, respect and gratitude, and they have every right to express themselves in any way they choose."
+        ],
+        "tf-idf score": [
+            0.46497538182389775,
+            0.5760131696880184,
+            0.5760131696880184
+        ]
+    },
+    "0.44846604598048484-3-167": {
+        "average clique similarity": 0.44846604598048484,
+        "clique": [
+            "0-He doesn t know what",
+            "2- The problem is   un",
+            "3-The problem is    un"
+        ],
+        "median tf-idf score": 0.04735828992521943,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "He doesn\u2019t know what the word sacrifice means.",
+            "\u201dThe problem is, \u2019unacceptable\u2019 doesn\u2019t even begin to describe it\u201d.",
+            "The problem is, \u2019\u2019unacceptable\u2019\u2019 doesn\u2019\u2019t even   begin to describe it\u201d."
+        ],
+        "tf-idf score": [
+            0.09456467730419343,
+            0.04735828992521943,
+            0.04735828992521943
+        ]
+    },
+    "0.46405984303847364-3-379": {
+        "average clique similarity": 0.46405984303847364,
+        "clique": [
+            "2- It is time for Dona",
+            "3-       I was vicious",
+            "1- It is time for Dona"
+        ],
+        "median tf-idf score": 0.8894167615338424,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dIt is time for Donald Trump to set the example for our country and the future of the Republican Party,\u201d McCain said.",
+            "\u2019 \u2019   \u201dI was viciously attacked by Mr Khan at the Democratic   Convention,\u201d the Republican nominee for president said .",
+            "\u201cIt is time for Donald Trump to set the example for our country and the future of the Republican party,\u201d McCain said."
+        ],
+        "tf-idf score": [
+            0.8894167615338424,
+            0.8462454068754566,
+            0.8894167615338424
+        ]
+    },
+    "0.47999391822931176-3-595": {
+        "average clique similarity": 0.47999391822931176,
+        "clique": [
+            "2-Sen  Lindsey Graham ",
+            "3-       This is going",
+            "0-I ve done    I ve ha"
+        ],
+        "median tf-idf score": 0.23771149627308666,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Sen. Lindsey Graham,   Carolina, said in a statement: \u201dThis is going to a place where we\u2019ve never gone before, to push back against the families of the fallen.",
+            "\u2019 \u2019   \u201dThis is going to a place where we\u2019\u2019ve never gone before, to push   back against the families of the fallen,\u201d Graham .",
+            "I\u2019ve done \u2014  I\u2019ve had tremendous success."
+        ],
+        "tf-idf score": [
+            0.4823221872788598,
+            0.23771149627308666,
+            0.017436302974822893
+        ]
+    },
+    "0.5295518748205481-3-107": {
+        "average clique similarity": 0.5295518748205481,
+        "clique": [
+            "2- Captain Khan gave h",
+            "1- Rob does not agree ",
+            "3-       Captain Khan "
+        ],
+        "median tf-idf score": 0.6068267001364556,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dCaptain Khan gave his life to defend our country in the global war on terror.",
+            "\u201cRob does not agree with [Trump\u2019s] remarks and believes that Captain Khan was an American hero who gave his life for his country,\u201d the statement read.",
+            "\u2019 \u2019   \u201dCaptain Khan gave his life to defend our country in the global   war on terror,\u201d Pence wrote."
+        ],
+        "tf-idf score": [
+            0.5507227232138471,
+            1.1785640868573908,
+            0.6068267001364556
+        ]
+    },
+    "0.5855011134572751-4-68": {
+        "average clique similarity": 0.5855011134572751,
+        "clique": [
+            "3- There used to be so",
+            "2-There used to be som",
+            "4- In recent days  Don",
+            "1- There used to be so"
+        ],
+        "median tf-idf score": 0.35437125443246836,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dThere used to be some things   that were sacred in American politics  \u2014   that you don\u2019\u2019t do  \u2014   like   criticizing the parents of a fallen soldier even if they   criticize you\u201d.",
+            "There used to be some things that were sacred in American politics    that you don\u2019t do    like criticizing the parents of a fallen soldier even if they criticize you\u201d.",
+            "\u201dIn recent days, Donald Trump disparaged a fallen soldier\u2019s parents.",
+            "\u201cThere used to be some things that were sacred in American politics, that you don\u2019t do, like criticizing the parents of a fallen soldier, even if they criticize you,\u201d Graham added."
+        ],
+        "tf-idf score": [
+            0.3282452402372606,
+            0.3282452402372606,
+            0.5499654970480716,
+            0.38049726862767613
+        ]
+    },
+    "0.6342851008436677-3-254": {
+        "average clique similarity": 0.6342851008436677,
+        "clique": [
+            "2-On Sunday night Trum",
+            "4-But Monday morning  ",
+            "3-      Trump s runnin"
+        ],
+        "median tf-idf score": 0.46588394296777674,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "On Sunday night Trump\u2019s running mate, Indiana Gov.",
+            "But Monday morning, Trump continued to tweet: That\u2019s despite a Sunday night statement issued by Trump\u2019s running mate, Indiana Gov.",
+            "\u2019 \u201d   Trump\u2019s running mate, Gov."
+        ],
+        "tf-idf score": [
+            0.46588394296777674,
+            0.6643045543067957,
+            0.39509817213148557
+        ]
+    }
+}

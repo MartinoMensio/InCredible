@@ -1,0 +1,610 @@
+{
+    "0.18192120055211322-3-184": {
+        "average clique similarity": 0.18192120055211322,
+        "clique": [
+            "3-House Speaker Paul R",
+            "0- A foreign adversary",
+            "4- We ve never had a f"
+        ],
+        "median tf-idf score": 0.35881621030190713,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "House Speaker Paul Ryan has also decried foreign intervention in the election.",
+            "\u201cA foreign adversary has been caught trying to influence an American election.",
+            "\u201cWe\u2019ve never had a foreign government trying to interfere in our election,\u201d she said."
+        ],
+        "tf-idf score": [
+            0.35422937504807483,
+            0.35881621030190713,
+            0.40646254687941413
+        ]
+    },
+    "0.1825769473145844-3-350": {
+        "average clique similarity": 0.1825769473145844,
+        "clique": [
+            "4-Though Obama stumped",
+            "3-We just gave them th",
+            "0-  Michael McFaul  fo"
+        ],
+        "median tf-idf score": 0.7050267472035225,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "Though Obama stumped for Clinton around the country, the administration didn\u2019t want to open him up to attacks that he unfairly used intelligence to undermine Trump\u2019s campaign, the Post reported.",
+            "We just gave them the facts and it\u2019s up to the policy makers to do what they want with it,\u201d a US intelligence official said.",
+            "\u201d Michael McFaul, former US ambassador to Russia, said that during the election, Republicans had wanted to \u201cavoid the subject altogether and the Obama administration did not want to appear to be influencing the election\u201d."
+        ],
+        "tf-idf score": [
+            0.7050267472035225,
+            0.4774258052334547,
+            0.7188842655140266
+        ]
+    },
+    "0.18477661917868562-3-204": {
+        "average clique similarity": 0.18477661917868562,
+        "clique": [
+            "3-It s clear not even ",
+            "4-It s also possible t",
+            "1- I m sure they re go"
+        ],
+        "median tf-idf score": 0.5855851813459187,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "It\u2019s clear not even the Russians thought he would win\u201d.",
+            "It\u2019s also possible that the administration, like most pollsters and pundits, was overconfident in its assessment that Clinton would win the election.",
+            "\u201dI\u2019m sure they\u2019re going to declassify some elements of the report and I\u2019m sure there will be leaks,\u201d he adds, but the Obama administration can\u2019t disclose the full details of the case, because it would be \u201dcompromising what\u2019s known as \u2019sources and methods,\u2019 which would then make it harder for the CIA and the NSA and other spy agencies to get more information in the future\u201d."
+        ],
+        "tf-idf score": [
+            0.15609513510116946,
+            0.5855851813459187,
+            0.6759651388947477
+        ]
+    },
+    "0.19152222978222588-3-23": {
+        "average clique similarity": 0.19152222978222588,
+        "clique": [
+            "3-That revelation  fir",
+            "2-And they made a case",
+            "0- They leaked the inf"
+        ],
+        "median tf-idf score": 0.5370811136588467,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "That revelation, first reported by CNN a week ago, went beyond the October statement by the 17 intelligence agencies that only said that Russia was seeking to undermine the election, but did not go as far as to say it was to benefit Trump.",
+            "And they made a case for a united, bipartisan front in response to what one official described as \u201cthe threat posed by unprecedented meddling by a foreign power in our election process.",
+            "\u201cThey leaked the information as if it was run by one of the great political operatives in America when in fact it was run by the political operatives in Russia."
+        ],
+        "tf-idf score": [
+            1.3621994479534156,
+            0.5370811136588467,
+            0.5354337486906339
+        ]
+    },
+    "0.19807395629126223-3-293": {
+        "average clique similarity": 0.19807395629126223,
+        "clique": [
+            "1- But there was low c",
+            "0-He should be investi",
+            "3- There was no way th"
+        ],
+        "median tf-idf score": 0.43540369956687935,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dBut there was low confidence on what the direction and intentionality of the interference was.",
+            "He should be investigated by other agencies of the government including the security agencies because if ever there was a matter of security it\u2019s this   \u2026     I don\u2019t think any of us understood how partisan Comey was.",
+            "\u201dThere was no way that any one could have walked out of there with that the evidence and conclude that the Russian government was not behind this,\u201d this source said."
+        ],
+        "tf-idf score": [
+            0.22557034244152438,
+            0.43540369956687935,
+            0.5196407460752555
+        ]
+    },
+    "0.20201386956255907-3-368": {
+        "average clique similarity": 0.20201386956255907,
+        "clique": [
+            "1-While the leadership",
+            "3-The CIA produces raw",
+            "0-  In its report on t"
+        ],
+        "median tf-idf score": 0.5735709457583614,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "While the leadership of the CIA has changed hands several times in the years since then, many intelligence officers and analysts who worked on the Iraq intelligence still serve at CIA and in other parts of the U S intelligence community.",
+            "The CIA produces raw intelligence, the FBI moves more slowly to reach conclusions based on the intelligence and other investigative work.",
+            "\u201d In its report on the CIA conclusions, the Post quoted an unnamed senior US official who had been briefed on the intelligence agency findings."
+        ],
+        "tf-idf score": [
+            0.5735709457583614,
+            0.42497018038610246,
+            0.7288826283711276
+        ]
+    },
+    "0.20697619010465496-3-256": {
+        "average clique similarity": 0.20697619010465496,
+        "clique": [
+            "3-The US intelligence ",
+            "1-Now they  the CIA  h",
+            "4-But if it would have"
+        ],
+        "median tf-idf score": 0.864749979785192,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "The US intelligence community is increasingly confident that Russian meddling in the American election was intended to steer the election toward Donald Trump, multiple sources have said.",
+            "Now they [the CIA] have come to the conclusion that Russia was trying to tip the election to Trump\u201d.",
+            "But if it would have given voters reason to doubt Trump, the administration\u2019s unwillingness to publicize the specifics of the Kremlin\u2019s meddling may have helped cost Clinton the election."
+        ],
+        "tf-idf score": [
+            1.1625810892999817,
+            0.864749979785192,
+            0.59697194853786
+        ]
+    },
+    "0.21661682541623486-3-33": {
+        "average clique similarity": 0.21661682541623486,
+        "clique": [
+            "2-Trump has consistent",
+            "1- Those officials des",
+            "0-Trump has repeatedly"
+        ],
+        "median tf-idf score": 0.6495632928596482,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Trump has consistently dismissed the intelligence community\u2019s findings about Russian hacking.",
+            "\u201dThose officials described the individuals as actors known to the intelligence community and part of a wider Russian operation to boost Trump and hurt Clinton\u2019s chances\u201d.",
+            "Trump has repeatedly praised Russian president Vladimir Putin and rejected the intelligence community\u2019s findings."
+        ],
+        "tf-idf score": [
+            0.6483191975747006,
+            0.7801492809184376,
+            0.6495632928596482
+        ]
+    },
+    "0.21822205622484314-3-231": {
+        "average clique similarity": 0.21822205622484314,
+        "clique": [
+            "0- It is the assessmen",
+            "4-Perhaps the latest i",
+            "1-The official adds   "
+        ],
+        "median tf-idf score": 1.1152385309955422,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cIt is the assessment of the intelligence community that Russia\u2019s goal here was to favour one candidate over the other, to help Trump get elected,\u201d the official said.",
+            "Perhaps the latest intelligence from the CIA \u2014  that Russia was trying to help Trump win \u2014  wouldn\u2019t have changed the outcome of the vote.",
+            "The official adds: \u201dThe reason the assessment changed is that new information became available\u201d since Oct. 7, when the Department of Homeland Security and the Director of National Intelligence released a joint statement accusing Russia of interfering with the American election process."
+        ],
+        "tf-idf score": [
+            1.1236018795929406,
+            0.9212303367626502,
+            1.1152385309955422
+        ]
+    },
+    "0.2283357817310525-3-281": {
+        "average clique similarity": 0.2283357817310525,
+        "clique": [
+            "4- On Sunday morning  ",
+            "0- Reports of the CIA ",
+            "3-Incoming Democratic "
+        ],
+        "median tf-idf score": 0.4975892962437356,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "(On Sunday morning, a bipartisan statement condemning the hacks came from incoming Senate Minority Leader Chuck Schumer, Jack Reed, a Democrat, and Republicans John McCain and Lindsey Graham.)",
+            "\u201cReports of the CIA\u2019s conclusion that Russia actively sought to help elect Donald Trump are simultaneously stunning and not surprising, given Russia\u2019s disdain for democracy and admiration for autocracy,\u201d said Chuck Schumer, Reid\u2019s successor as Senate minority leader.",
+            "Incoming Democratic Senate Leader Chuck Schumer said Sunday that lack of agreement among agencies is more reason for further scrutiny."
+        ],
+        "tf-idf score": [
+            0.4975892962437356,
+            0.9654481155943996,
+            0.44041816690873387
+        ]
+    },
+    "0.2634118450841685-3-216": {
+        "average clique similarity": 0.2634118450841685,
+        "clique": [
+            "2- That s the consensu",
+            "3-That assessment  lea",
+            "1- That s the consensu"
+        ],
+        "median tf-idf score": 0.45204979554728236,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cThat\u2019s the consensus view.",
+            "That assessment \u201dleans\u201d toward the view that the Russians were trying to hurt Clinton and help Trump.",
+            "\u2019That\u2019s the consensus view.\u2019 \u201d In a previous assessment, CIA officials had thought Russians intervened with the intention of undermining Americans\u2019 electoral system, Adam Entous, one of the Post story\u2019s reporters, tells NPR\u2019s Scott Simon."
+        ],
+        "tf-idf score": [
+            0.035060332171469165,
+            0.45204979554728236,
+            0.6813870112805317
+        ]
+    },
+    "0.2673317346134759-3-368": {
+        "average clique similarity": 0.2673317346134759,
+        "clique": [
+            "4-The CIA only shared ",
+            "3-That disagreement wa",
+            "2-Agency briefers told"
+        ],
+        "median tf-idf score": 0.8167330668419409,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The CIA only shared its latest findings with top senators last week, the Post reported, but it\u2019s not clear when the agency made the determination.",
+            "That disagreement was evident when members of Congress were briefed on the latest intelligence findings recently and the FBI officials did not concur, according to the Washington Post.",
+            "Agency briefers told the senators it was now \u201cquite clear\u201d that electing Trump was Russia\u2019s goal, according to the officials, who spoke on the condition of anonymity to discuss intelligence matters."
+        ],
+        "tf-idf score": [
+            0.4795639394017761,
+            0.8167330668419409,
+            1.1841557236053866
+        ]
+    },
+    "0.27255323712211094-3-7": {
+        "average clique similarity": 0.27255323712211094,
+        "clique": [
+            "3-The briefers did not",
+            "4-The statement said t",
+            "1-In early October  th"
+        ],
+        "median tf-idf score": 0.9882831813613617,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "The briefers did not explicitly say that Russian hackers were trying to help Trump, but it was a clear from the evidence that they presented that Russia was meddling in the elections    and Trump was benefiting.",
+            "The statement said the thefts and disclosures were \u201cintended to interfere with the U S election process,\u201d but it didn\u2019t say whether they were meant to help one candidate more than another.",
+            "In early October, they released a strongly worded statement saying they were \u2019confident that the Russian Government directed the recent compromises of   from U S persons and institutions, including from U S political organizations.\u2019 The statement went on to say \u2019these thefts and disclosures are intended to interfere with the U S election process.\u2019 \u201d The U S official says that \u201dthere is a determination to do something\u201d before the Obama administration leaves power."
+        ],
+        "tf-idf score": [
+            1.0307228192840827,
+            0.5607487607108622,
+            0.9882831813613617
+        ]
+    },
+    "0.2770354957974519-4-96": {
+        "average clique similarity": 0.2770354957974519,
+        "clique": [
+            "1-Earlier Friday  Pres",
+            "4-The White House anno",
+            "0-On Friday  Barack Ob",
+            "2-  The White House an"
+        ],
+        "median tf-idf score": 0.7520904052242987,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Earlier Friday, President Obama ordered the intelligence community to conduct a \u201dfull review\u201d of \u201dmalicious cyber activity\u201d timed to U S elections, as we previously reported: \u201dIn the 2016 election, U S intelligence officials charged that Russia had interfered.",
+            "The White House announced that the president had ordered the intelligence community to perform a \u201cfull review\u201d of   hacking, kicking off a sweeping investigation that officials say should be complete before President Obama\u2019s second term ends in less than six weeks.",
+            "On Friday, Barack Obama ordered a review of evidence that Russia had interfered in the election.",
+            "\u201d The White House and President Obama had ordered a \u201cfull review\u201d of Russian hacking during the presidential campaign, as pressure from Congress has grown for greater public understanding of exactly what Moscow did to influence the electoral process."
+        ],
+        "tf-idf score": [
+            0.9879432357805294,
+            0.8430633354692397,
+            0.5383287709161858,
+            0.6611174749793577
+        ]
+    },
+    "0.3394654442915573-3-368": {
+        "average clique similarity": 0.3394654442915573,
+        "clique": [
+            "2-       CIA briefers ",
+            "0-  CIA agents told se",
+            "3-Congressional pushba"
+        ],
+        "median tf-idf score": 1.1052941694226353,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201d      CIA briefers told senators in a   briefing it was now \u201dquite clear\u201d that electing Trump was Russia\u2019s goal, according to officials.",
+            "\u201d CIA agents told senators it was \u201cquite clear\u201d that putting Trump in the White House was Russia\u2019s goal, according to officials who spoke to the Post.",
+            "Congressional pushback, Back in September, at a briefing of congressional leadership, Republican Senator Mitch McConnell was among those who pushed back at a meeting when presented with intelligence that Russia was trying to steer the elections to Trump, according to a source briefed on the meeting."
+        ],
+        "tf-idf score": [
+            1.029176576914522,
+            1.1052941694226353,
+            1.282801437063179
+        ]
+    },
+    "0.3499696898904869-3-90": {
+        "average clique similarity": 0.3499696898904869,
+        "clique": [
+            "1-In addition to hacki",
+            "0-Meanwhile  a New Yor",
+            "3-The New York Times r"
+        ],
+        "median tf-idf score": 0.6256979757001319,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "In addition to hacking into Democratic organizations, Russians hacked the Republican National Committee\u2019s computer systems, according to a separate report from The New York Times  \u2014   but they did not release any information that might have been retrieved from Republican networks.",
+            "Meanwhile, a New York Times report suggested that the Republican National Committee was also hacked.",
+            "The New York Times reported this weekend that part of the reason for the change is that the CIA believes the Russians hacked not only Democratic organizations but Republican groups too, but that they only published documents from Democrats."
+        ],
+        "tf-idf score": [
+            0.6727046717294922,
+            0.5026886832856267,
+            0.6256979757001319
+        ]
+    },
+    "0.3525930015300825-3-38": {
+        "average clique similarity": 0.3525930015300825,
+        "clique": [
+            "0- The silence from Wi",
+            "4-The silence from the",
+            "2-  He added that sile"
+        ],
+        "median tf-idf score": 0.3343624708822674,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cThe silence from WikiLeaks and others since election day has been deafening.",
+            "The silence from the White House and the CIA was a stark contrast to the Comey\u2019s announcement just weeks before the election that it was examining new documents related to its investigation into Clinton\u2019s emails.",
+            "\u201d He added that silence from WikiLeaks and others has been \u201cdeafening."
+        ],
+        "tf-idf score": [
+            0.3343624708822674,
+            0.8904702522149492,
+            0.14448789580434704
+        ]
+    },
+    "0.38538995028190354-3-68": {
+        "average clique similarity": 0.38538995028190354,
+        "clique": [
+            "1-Updated at 1 49 p  m",
+            "2-     The CIA s findi",
+            "4-The CIA had conclude"
+        ],
+        "median tf-idf score": 1.207966062841744,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Updated at 1:49 p. m. ET Saturday with confirmation from the U S official and comments from Sen. Ron Wyden, Updated at 3:20 p. m. ET Saturday with comments from Sen. Angus King, The CIA has concluded that Russia intervened in the 2016 election specifically to help Donald Trump win the presidency, a U S official has confirmed to NPR \u201dBefore, there was confidence about the fact that Russia interfered,\u201d the official says.",
+            "     The CIA\u2019s findings that Russia intervened in the 2016 election to help Donald Trump win the presidency are both \u201cstunning and not surprising,\u201d the next leader of Senate Democrats said, raising the need for Congress to conduct a full investigation.",
+            "The CIA had concluded that Russia \u201cintervened in the 2016 election to help Donald Trump win the presidency."
+        ],
+        "tf-idf score": [
+            1.4592720061264743,
+            1.207966062841744,
+            0.7660633498764492
+        ]
+    },
+    "0.38655540353020973-3-186": {
+        "average clique similarity": 0.38655540353020973,
+        "clique": [
+            "2-And it could be Chin",
+            "0-It could be Russia ",
+            "3- It s pretty clear t"
+        ],
+        "median tf-idf score": 0.14863466332409336,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "And it could be China.",
+            "It could be Russia.",
+            "\u201dIt\u2019s pretty clear to me that WikiLeaks was designed to hurt Clinton and it could be us tomorrow, to my Republican friends,\u201d said the South Carolina Republican."
+        ],
+        "tf-idf score": [
+            0.013032208364784482,
+            0.14863466332409336,
+            0.5396491136048621
+        ]
+    },
+    "0.38927798353076143-3-132": {
+        "average clique similarity": 0.38927798353076143,
+        "clique": [
+            "3-Also in September  m",
+            "1-Citing anonymous off",
+            "2- It is the assessmen"
+        ],
+        "median tf-idf score": 1.257511710646722,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Also in September, multiple intelligence agencies briefed House and Senate intelligence committees about information they had gathered showing that Russia was interfering with the elections, according to a congressional source close to the process.",
+            "Citing anonymous officials briefed on the issue, the Post says the CIA shared its findings with senators in a   briefing last week, saying it was now \u201dquite clear\u201d that Russia\u2019s goal was to tip the presidency in Trump\u2019s favor: \u201d \u2019It is the assessment of the intelligence community that Russia\u2019s goal here was to favor one candidate over the other, to help Trump get elected,\u2019 said a senior U S official briefed on an intelligence presentation made to U S senators.",
+            "\u201cIt is the assessment of the intelligence community that Russia\u2019s goal here was to favor one candidate over the other, to help Trump get elected,\u201d said a senior U S official briefed on the intelligence presentation made to U S senators."
+        ],
+        "tf-idf score": [
+            1.2034409464997806,
+            1.756991265715467,
+            1.257511710646722
+        ]
+    },
+    "0.40021947479088094-3-42": {
+        "average clique similarity": 0.40021947479088094,
+        "clique": [
+            "4- After the CIA s ass",
+            "1-On Friday evening  t",
+            "0- These are the same "
+        ],
+        "median tf-idf score": 0.4738540592914769,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "(After the CIA\u2019s assessment leaked on Friday, Trump\u2019s campaign team tried to discredit the agency: \u201cThese are the same people that said Saddam Hussein had weapons of mass destruction,\u201d it said in a statement.",
+            "On Friday evening, the Trump transition team fired back with a statement dismissing the report of the agency\u2019s conclusion.",
+            "\u201cThese are the same people that said Saddam Hussein had weapons of mass destruction,\u201d his transition team said in a statement."
+        ],
+        "tf-idf score": [
+            0.8281868623935387,
+            0.4738540592914769,
+            0.3437211698754984
+        ]
+    },
+    "0.4773091893547036-3-156": {
+        "average clique similarity": 0.4773091893547036,
+        "clique": [
+            "2-  In his statement  ",
+            "0-That any country cou",
+            "1- And is that going t"
+        ],
+        "median tf-idf score": 0.3268108764457101,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d In his statement, Schumer said the idea that any country \u201ccould be meddling in our elections should shake both political parties to their core.",
+            "That any country could be meddling in our elections should shake both political parties to their core.",
+            "\u201dAnd is that going to be the case in our elections?"
+        ],
+        "tf-idf score": [
+            0.5620948893700891,
+            0.3268108764457101,
+            0.22551412857861997
+        ]
+    },
+    "0.5632930601306959-3-28": {
+        "average clique similarity": 0.5632930601306959,
+        "clique": [
+            "0-A secret CIA analysi",
+            "1- Intelligence agenci",
+            "2-Y  issued Saturday m"
+        ],
+        "median tf-idf score": 1.0621047829375887,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "A secret CIA analysis found that people with connections to the Russian government provided emails, hacked from the Democratic National Committee and Hillary Clinton\u2019s campaign, to the whistleblower website WikiLeaks in the final months of the election, according to a Washington Post report published late Friday.",
+            "\u201dIntelligence agencies have identified individuals with connections to the Russian government who provided WikiLeaks with thousands of hacked emails from the Democratic National Committee and others, including Hillary Clinton\u2019s campaign chairman, according to U S officials,\u201d the Post reports.",
+            "Y) issued Saturday morning, was in response to a Washington Post story that intelligence agencies have identified individuals with connections to the Russian government who provided WikiLeaks with thousands of hacked emails from the Democratic National Committee to boost Trump and hurt Hillary Clinton\u2019s chances."
+        ],
+        "tf-idf score": [
+            1.0268628264963828,
+            1.0621047829375887,
+            1.3085764522986456
+        ]
+    },
+    "0.5804132850199396-4-50": {
+        "average clique similarity": 0.5804132850199396,
+        "clique": [
+            "3- All year  the Intel",
+            "0- The election ended ",
+            "2-The election ended a",
+            "1- The election ended "
+        ],
+        "median tf-idf score": 0.41101302419249075,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dAll year, the Intelligence Community, law enforcement, and state and local election officials have been working to ensure that this election was conducted consistent with our long history of free and fair elections.",
+            "\u201cThe election ended a long time ago in one of the biggest electoral college victories in history.",
+            "The election ended a long time ago in one of the biggest Electoral College victories in history.",
+            "\u201dThe election ended a long time ago in one of the biggest Electoral College victories in history."
+        ],
+        "tf-idf score": [
+            0.8576063611576265,
+            0.41101302419249075,
+            0.41101302419249075,
+            0.41101302419249075
+        ]
+    },
+    "0.6385863018588859-3-39": {
+        "average clique similarity": 0.6385863018588859,
+        "clique": [
+            "1-It s now time to mov",
+            "2-It s now time to mov",
+            "0-It s now time to mov"
+        ],
+        "median tf-idf score": 0.2029016449870368,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "It\u2019s now time to move on and \u2019Make America Great Again.\u2019 \u201d In fact, Trump\u2019s percentage of the electoral vote in the 2016 election ranks 46th among presidential election winners in U S history, according to factcheck.",
+            "It\u2019s now time to move on and \u2018Make America Great Again,\u2019\u2009\u201d the statement read.",
+            "It\u2019s now time to move on and \u2018Make America Great Again\u2019."
+        ],
+        "tf-idf score": [
+            0.669675740231148,
+            0.2029016449870368,
+            0.12445629972042742
+        ]
+    }
+}

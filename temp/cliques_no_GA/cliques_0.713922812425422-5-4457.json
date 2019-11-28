@@ -1,0 +1,794 @@
+{
+    "0.11781467032488213-3-150": {
+        "average clique similarity": 0.11781467032488213,
+        "clique": [
+            "2-And they don t come ",
+            "4-There is something a",
+            "1-Don t Let Obama have"
+        ],
+        "median tf-idf score": 0.24653394944658955,
+        "publications": [
+            "Vox",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "And they don\u2019t come tougher than Hillary Clinton.",
+            "There is something about Kaine that his colleagues don\u2019t find boring.",
+            "Don\u2019t Let Obama have a 3rd Term."
+        ],
+        "tf-idf score": [
+            0.24653394944658955,
+            0.383468369824938,
+            0.10203256913803459
+        ]
+    },
+    "0.12691063933099145-3-0": {
+        "average clique similarity": 0.12691063933099145,
+        "clique": [
+            "3-Playing off the Repu",
+            "0-In 2001  Kaine was e",
+            "2-In Miami  Clinton to"
+        ],
+        "median tf-idf score": 0.6804511283834365,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "Playing off the Republican nominee\u2019s \u201dMake America Great Again!\u201d slogan, Kaine asked, \u201dIsn\u2019t it great already?\u201d Clinton introduced Kaine as \u201ca progressive who likes to get things done\u201d and added the former Virginia governor cares more about making a difference than making headlines.",
+            "In 2001, Kaine was elected as Virginia\u2019s lieutenant governor and in 2005 he won election as governor.",
+            "In Miami, Clinton touted Kaine as a \u201cpragmatic progressive\u201d."
+        ],
+        "tf-idf score": [
+            1.0085518426720037,
+            0.6804511283834365,
+            0.6086158258503308
+        ]
+    },
+    "0.1275531621732456-3-191": {
+        "average clique similarity": 0.1275531621732456,
+        "clique": [
+            "2- This drives home th",
+            "3-The Associated Press",
+            "1-Virginia was the fir"
+        ],
+        "median tf-idf score": 0.2754812905722813,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cThis drives home the stakes of this election,\u201d Kaine said, noting that his son was a US Marine who would deploy next week to Europe \u201cto uphold America\u2019s commitment to our Nato allies\u201d.",
+            "The Associated Press contributed to this report.",
+            "Virginia was the first state in the south to enact a ban of this nature."
+        ],
+        "tf-idf score": [
+            0.7824460150548798,
+            0.037589963412138896,
+            0.2754812905722813
+        ]
+    },
+    "0.13716410120147082-3-579": {
+        "average clique similarity": 0.13716410120147082,
+        "clique": [
+            "1-Last week  Clinton a",
+            "3-His wife  Anne Holto",
+            "0-My wife is the most "
+        ],
+        "median tf-idf score": 0.46112856949874337,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Last week, Clinton and Kaine spent 90 minutes together, followed by another meeting on Saturday that brought together the two families, including Clinton\u2019s husband, daughter and    as well as Kaine\u2019s wife.",
+            "His wife, Anne Holton, is the daughter of a former Virginia governor and is herself a former state judge and the state\u2019s education secretary.",
+            "My wife is the most honest,\u201d Kaine said."
+        ],
+        "tf-idf score": [
+            0.7215922613123028,
+            0.24510872089778332,
+            0.46112856949874337
+        ]
+    },
+    "0.1406287352718908-3-163": {
+        "average clique similarity": 0.1406287352718908,
+        "clique": [
+            "2-It was after that ra",
+            "3-News that Kaine was ",
+            "4-The headlines I saw "
+        ],
+        "median tf-idf score": 0.8159853560722826,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "It was after that rally, aides said, that Clinton moved closer to settling on Kaine.",
+            "News that Kaine was Clinton\u2019s pick was greeted warmly by some Republicans Friday evening.",
+            "The headlines I saw in the hours after the pick  \u2014   including at Vox  \u2014   largely emphasized that Kaine was a \u201dsafe choice\u201d."
+        ],
+        "tf-idf score": [
+            0.8159853560722826,
+            0.8386218489711951,
+            0.648698684970883
+        ]
+    },
+    "0.14090166427796658-3-585": {
+        "average clique similarity": 0.14090166427796658,
+        "clique": [
+            "1-His governorship was",
+            "2-He was greeted by to",
+            "0-He was later elected"
+        ],
+        "median tf-idf score": 0.4009979950020734,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "His governorship was a study in practical   and political maneuvering    qualities valued by the Clinton organization.",
+            "He was greeted by top officials from the campaign and later received a congratulatory call from Obama, who nearly chose Kaine as his running mate in 2008.",
+            "He was later elected by the council to be the city\u2019s mayor."
+        ],
+        "tf-idf score": [
+            0.4009979950020734,
+            0.8199254786368882,
+            0.23159855046552408
+        ]
+    },
+    "0.14578817444010148-3-18": {
+        "average clique similarity": 0.14578817444010148,
+        "clique": [
+            "2- America is built on",
+            "4-To win  you have to ",
+            "1-Ultimately  Clinton "
+        ],
+        "median tf-idf score": 0.29821536716096064,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cAmerica is built on courage, on imagination and on an unbeatable determination to do the job at hand.",
+            "To win, you have to do better than Romney with one of those groups and Clinton\u2019s got to do worse.",
+            "Ultimately, Clinton was swayed by her personal comfort with Kaine, as well as the belief that the senator is fully prepared to do the job."
+        ],
+        "tf-idf score": [
+            0.11444975261871587,
+            0.29821536716096064,
+            0.8192793542697977
+        ]
+    },
+    "0.14584751359243622-3-567": {
+        "average clique similarity": 0.14584751359243622,
+        "clique": [
+            "2-He added   Hillary C",
+            "0-After a heated first",
+            "1-It s also a chance f"
+        ],
+        "median tf-idf score": 0.600661304623967,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "He added: \u201cHillary Clinton is the direct opposite of Donald Trump.",
+            "After a heated first debate between Hillary Clinton and Donald Trump became the   presidential debate in history last week, it\u2019s now time for the two vice presidential picks to take the stage.",
+            "It\u2019s also a chance for Kaine, a fluent Spanish speaker, to introduce Clinton to Latino voters, a critical slice of the electorate in her quest to defeat Donald Trump."
+        ],
+        "tf-idf score": [
+            0.3947896201720395,
+            0.600661304623967,
+            0.836597377705507
+        ]
+    },
+    "0.1499187643390356-3-142": {
+        "average clique similarity": 0.1499187643390356,
+        "clique": [
+            "1-Kaine  58  has long ",
+            "2-A popular figure amo",
+            "4-What Clinton has in "
+        ],
+        "median tf-idf score": 0.9990801468371675,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Kaine, 58, has long been seen as a seasoned and safe choice for Clinton, who could help shore up support among white   voters.",
+            "A popular figure among evangelical conservatives and known, like Kaine, for his polite demeanor, Pence has nonetheless shed the   image in his new role as attack dog for Trump, echoing the real estate mogul\u2019s message that Clinton is corrupt and disqualified from the presidency.",
+            "What Clinton has in Kaine is a vice presidential candidate who doesn\u2019t help Trump\u2019s effort to mobilize a white male backlash and may even help blunt it, but who is also able to appeal to the Democrats\u2019 multicultural coalition: Kaine was the first member of the Senate to deliver a floor speech in Spanish, and while mayor of Richmond, Virginia, he made headlines for officially apologizing for the city\u2019s role in slavery."
+        ],
+        "tf-idf score": [
+            0.8577074873304275,
+            0.9990801468371675,
+            1.455422340524366
+        ]
+    },
+    "0.1574145619792191-3-426": {
+        "average clique similarity": 0.1574145619792191,
+        "clique": [
+            "1-Advisers to Clinton ",
+            "2-Trump sought to bran",
+            "0-On the floor  he spo"
+        ],
+        "median tf-idf score": 0.6866838494938405,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "Advisers to Clinton see Kaine as a stable force on the bottom of the ticket, foregoing the allure of a pick that could provide more star power in favor of one they are hoping will be void of drama.",
+            "Trump sought to brand Kaine as beholden to special interests, tweeting early on Saturday that Clinton had in effect rejected the will of progressives and Sanders backers.",
+            "On the floor, he spoke of his experience in the aftermath of the shooting: \u201dThat was the worst day of my life, and it will always be the worst day of my life  \u2014   comforting the families of the victims, talking to the first responders who went into a classroom where bodies littered the floor and who heard in the pockets of deceased students and professors cell phones ringing as parents who had seen it on the news were calling their kids, just knowing they were at Virginia Tech to ask them if they were all right  \u2014   calls that would never be answered\u201d."
+        ],
+        "tf-idf score": [
+            0.6866838494938405,
+            0.7985747702362791,
+            0.6044080356847362
+        ]
+    },
+    "0.16459786030089754-3-219": {
+        "average clique similarity": 0.16459786030089754,
+        "clique": [
+            "0-On the campaign trai",
+            "2- Tim Kaine is  and a",
+            "3-Kaine has been bashe"
+        ],
+        "median tf-idf score": 0.5734484141051872,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "On the campaign trail, Kaine has been teaching crowds how to say \u201dReady for Hillary\u201d in Spanish.",
+            "\u201cTim Kaine is, and always has been, owned by the banks,\u201d he said.",
+            "Kaine has been bashed by some who says he\u2019s too conservative on issues like abortion and trade deals."
+        ],
+        "tf-idf score": [
+            0.652006738908754,
+            0.5530644848890156,
+            0.5734484141051872
+        ]
+    },
+    "0.17299369681175203-3-585": {
+        "average clique similarity": 0.17299369681175203,
+        "clique": [
+            "1-  she tweeted ",
+            "4-She needed someone w",
+            "2-  Trump  she said  r"
+        ],
+        "median tf-idf score": 0.1685560515549585,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d she tweeted.",
+            "She needed someone who will help her win the election, but she also needed someone she trusted with the job.",
+            "\u201d Trump, she said, reminded her of the Cuban regime she fled from more than four decades ago."
+        ],
+        "tf-idf score": [
+            0.009966403656470746,
+            0.1685560515549585,
+            0.24268516241874255
+        ]
+    },
+    "0.18077945094971415-3-510": {
+        "average clique similarity": 0.18077945094971415,
+        "clique": [
+            "0-As NPR has reported ",
+            "3-His selection comple",
+            "4-Trump s only hope of"
+        ],
+        "median tf-idf score": 0.48500645326288927,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "As NPR has reported, the original law authorizing military force was signed in 2001 and gave the president the power to use force against groups which aided the September 11 attacks, not terrorists in general.",
+            "His selection completes the   for the general election, in which Clinton and Kaine will face off against Trump and Pence.",
+            "Trump\u2019s only hope of winning the general election is to mobilize a white backlash vote that didn\u2019t manage to manifest even against the first   president."
+        ],
+        "tf-idf score": [
+            0.48500645326288927,
+            0.7719190351899093,
+            0.3412300766929509
+        ]
+    },
+    "0.18165794145558614-3-585": {
+        "average clique similarity": 0.18165794145558614,
+        "clique": [
+            "0-President Obama near",
+            "1-Kaine was vetted by ",
+            "4-In 2008  he was one "
+        ],
+        "median tf-idf score": 0.2654767329490239,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "President Obama nearly picked him in 2008, but this time he got the job.",
+            "Kaine was vetted by the Obama team, but in the end Obama chose Sen. Joe Biden of Delaware    someone with a deeper foreign policy resume, an issue at the time that was considered a weak spot for Obama.",
+            "In 2008, he was one of three names on Barack Obama\u2019s shortlist for the vice presidency."
+        ],
+        "tf-idf score": [
+            0.25221906649419007,
+            0.7647906503468063,
+            0.2654767329490239
+        ]
+    },
+    "0.18196305089222412-3-96": {
+        "average clique similarity": 0.18196305089222412,
+        "clique": [
+            "2-  It was one of his ",
+            "1-Early during his tim",
+            "3-During his political"
+        ],
+        "median tf-idf score": 0.3076202595224616,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201d It was one of his biggest applause lines.",
+            "Early during his time as governor, Kaine took one his biggest political risks: offering a hearty endorsement to  .",
+            "During his political career, he\u2019s demonstrated an ability to woo voters across party lines, winning his 2006 gubernatorial race with support in both Democratic and traditionally Republican strongholds."
+        ],
+        "tf-idf score": [
+            0.17228376392109984,
+            0.5274014698457048,
+            0.3076202595224616
+        ]
+    },
+    "0.18251382297106697-3-585": {
+        "average clique similarity": 0.18251382297106697,
+        "clique": [
+            "1-After 10 years worki",
+            "0-Kaine started out as",
+            "3-Kaine  58  was long "
+        ],
+        "median tf-idf score": 0.6438995807126973,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "After 10 years working as a civil rights lawyer and lecturer at the University of Richmond\u2019s law school, Kaine mounted a successful campaign for city council from Richmond\u2019s Northside.",
+            "Kaine started out as a lawyer in Richmond, Va. where he spent years suing landlords for discrimination against   but his political career began on the Richmond City Council in 1994.",
+            "Kaine, 58, was long viewed as a likely choice, a former governor of politically important Virginia and mayor of Richmond who also served as chairman of the Democratic National Committee."
+        ],
+        "tf-idf score": [
+            0.6438995807126973,
+            0.5500697452091537,
+            0.8778857196519779
+        ]
+    },
+    "0.18306863359738457-3-202": {
+        "average clique similarity": 0.18306863359738457,
+        "clique": [
+            "3-Clinton offered Kain",
+            "0-Clinton running mate",
+            "4-In general  I don t "
+        ],
+        "median tf-idf score": 0.7603616330189682,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Clinton offered Kaine the vice presidential spot on the Democratic ticket in a phone call on Friday night.",
+            "Clinton running mate Tim Kaine and Trump running mate Mike Pence will debate each other on Tuesday night at Longwood University in Farmville, Va. Vice presidential picks don\u2019t typically receive as much attention as the people at the top of the ticket.",
+            "In general, I don\u2019t think the evidence suggests that vice presidential candidates routinely swing elections; Kaine\u2019s impact on the race is likely to be marginal."
+        ],
+        "tf-idf score": [
+            0.7603616330189682,
+            1.0570701031306198,
+            0.5961225769726879
+        ]
+    },
+    "0.1833665739943582-3-178": {
+        "average clique similarity": 0.1833665739943582,
+        "clique": [
+            "2-  Trump last week ch",
+            "3-  Kaine got some pra",
+            "1-The audition  At a j"
+        ],
+        "median tf-idf score": 0.8656193434519847,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d Trump last week chose Pence, the Indiana governor, as his   candidate.",
+            "\u201d Kaine got some practice challenging Trump\u2019s message when he campaigned with Clinton last week in northern Virginia, where he spoke briefly in Spanish and offered a strident assault on Trump\u2019s White House credentials.",
+            "The audition, At a joint campaign appearance last week in Virginia, which served as a final audition, Clinton stood    Kaine and beamed as he spoke of her virtues in Spanish."
+        ],
+        "tf-idf score": [
+            0.2610970476873149,
+            1.0050458380948806,
+            0.8656193434519847
+        ]
+    },
+    "0.1834132328701212-3-283": {
+        "average clique similarity": 0.1834132328701212,
+        "clique": [
+            "4-Of course  the quest",
+            "1-And he will make a g",
+            "3-Do you want a   pres"
+        ],
+        "median tf-idf score": 0.27457856411887305,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "Of course, the question behind any vice presidential pick isn\u2019t whether he makes the president\u2019s job easier but whether he can do the president\u2019s job in the event of a catastrophe.",
+            "And he will make a great vice president\u201d.",
+            "Do you want a   president or a   president?\u201d Speaking in Spanish at times, Kaine drew comparisons between the Democratic ticket and Trump."
+        ],
+        "tf-idf score": [
+            0.27457856411887305,
+            0.1386256742290418,
+            0.724665745417136
+        ]
+    },
+    "0.1846339867942152-3-34": {
+        "average clique similarity": 0.1846339867942152,
+        "clique": [
+            "4- A few hours before ",
+            "2-Tim Kaine  Hillary C",
+            "1-  CNN  Hillary Clint"
+        ],
+        "median tf-idf score": 0.8754066498329722,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            " A few hours before Hillary Clinton announced Tim Kaine would be her running mate, I had an interesting conversation with Stuart Stevens, Mitt Romney\u2019s 2012 campaign manager.",
+            "Tim Kaine, Hillary Clinton\u2019s newly minted running mate, had barely taken his place at the podium in Miami when he started speaking Spanish.",
+            " (CNN) Hillary Clinton has chosen Virginia Sen. Tim Kaine to be her running mate, turning to a steady and seasoned hand in government to fill out the Democratic ticket, she announced Friday."
+        ],
+        "tf-idf score": [
+            0.8754066498329722,
+            0.8310703831059878,
+            1.074697319834738
+        ]
+    },
+    "0.1955315138537939-3-320": {
+        "average clique similarity": 0.1955315138537939,
+        "clique": [
+            "3-But Clinton s campai",
+            "1-I m honored to be he",
+            "4-But Kaine managed to"
+        ],
+        "median tf-idf score": 0.584741665018353,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "But Clinton\u2019s campaign faced mounting unrest from some liberal groups and supporters of Vermont Sen. Bernie Sanders over her choice of running mate.",
+            "I\u2019m honored to be her running mate.",
+            "But Kaine managed to go from opposing Hillary Clinton when she needed him most to persuading her  \u2014   and her husband  \u2014   that he\u2019s the person who should be president in the event of her death."
+        ],
+        "tf-idf score": [
+            0.584741665018353,
+            0.10349949110358704,
+            0.7055976459759893
+        ]
+    },
+    "0.1994192462771299-3-403": {
+        "average clique similarity": 0.1994192462771299,
+        "clique": [
+            "2-Kaine pledged   We w",
+            "0-And the last thing w",
+            "1- We all know we need"
+        ],
+        "median tf-idf score": 0.39075666904252965,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Kaine pledged: \u201cWe will not rest until we get universal background checks.",
+            "And the last thing we need is government intruding into those personal decisions\u201d.",
+            "\u201dWe all know we need a bridge builder, not a trash talker,\u201d Kaine said last week as he introduced Clinton at the Virginia rally."
+        ],
+        "tf-idf score": [
+            0.39075666904252965,
+            0.09122025649542626,
+            0.8047644718663611
+        ]
+    },
+    "0.20054904070247534-3-405": {
+        "average clique similarity": 0.20054904070247534,
+        "clique": [
+            "0-It marked the first ",
+            "1-Kaine was the first ",
+            "2-Kaine  who showed of"
+        ],
+        "median tf-idf score": 0.5128396092770582,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "It marked the first time a senator gave a speech on the floor in a language that was not English, although others have spoken briefly in Spanish before.",
+            "Kaine was the first member to give an entire speech on the Senate floor in Spanish.",
+            "Kaine, who showed off a confident but freewheeling style on the stump, did not practice his speech, an aide said."
+        ],
+        "tf-idf score": [
+            0.37600456673269617,
+            0.6252945242092863,
+            0.5128396092770582
+        ]
+    },
+    "0.20723618767738264-3-490": {
+        "average clique similarity": 0.20723618767738264,
+        "clique": [
+            "2-He later vowed to ad",
+            "0-In 2013  Kaine spoke",
+            "1-It was during a deba"
+        ],
+        "median tf-idf score": 0.3533414402734104,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "He later vowed to advance comprehensive immigration reform with a pathway to citizenship for the roughly 11 million undocumented immigrants living in the US, in the first 100 days of a Clinton presidency.",
+            "In 2013, Kaine spoke in Spanish for almost 13 minutes on the Senate floor advocating for an immigration bill crafted by the bipartisan \u201dGang of Eight\u201d.",
+            "It was during a debate in support of the bipartisan \u201dGang of 8\u201d immigration reform package."
+        ],
+        "tf-idf score": [
+            0.3533414402734104,
+            0.5481960948178153,
+            0.2397000621044448
+        ]
+    },
+    "0.2118105446394601-3-438": {
+        "average clique similarity": 0.2118105446394601,
+        "clique": [
+            "1-At the time Obama wa",
+            "3-Trump  in a text to ",
+            "4-Kaine was one of the"
+        ],
+        "median tf-idf score": 0.9639418817349318,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Vox"
+        ],
+        "sentences": [
+            "At the time Obama was the underdog to Hillary Clinton and Kaine was the first sitting governor to endorse his campaign.",
+            "Trump, in a text to his own supporters, said Obama, Clinton and Kaine were \u201dthe ultimate insiders\u201d and implored voters to not \u201dlet Obama have a 3rd term.",
+            "Kaine was one of the first statewide elected officials outside Illinois to endorse Obama in the 2008 race."
+        ],
+        "tf-idf score": [
+            0.9727029600522169,
+            0.9639418817349318,
+            0.6337652090168899
+        ]
+    },
+    "0.2290115824951455-3-515": {
+        "average clique similarity": 0.2290115824951455,
+        "clique": [
+            "2- Thank you for choos",
+            "0- She says   Hey  you",
+            "3-Wasting no time targ"
+        ],
+        "median tf-idf score": 0.45758889951461335,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cThank you for choosing us,\u201d Kaine said, to another rousing reception.",
+            "\u201dShe says, \u2019Hey, you ought to play anytime they ask you because as soon as you\u2019re not in elected office, they\u2019re not going to ask you anymore.",
+            "Wasting no time targeting Trump, Kaine asked the Miami crowd, \u201cDo you want a \u2018you\u2019re fired\u2019 president or a \u2018you\u2019re hired\u2019 president?"
+        ],
+        "tf-idf score": [
+            0.45758889951461335,
+            0.130011880073912,
+            0.6728489466270361
+        ]
+    },
+    "0.24556276338740565-3-564": {
+        "average clique similarity": 0.24556276338740565,
+        "clique": [
+            "3-Congrats to a good m",
+            "0-But he also told the",
+            "1-The President later "
+        ],
+        "median tf-idf score": 0.0603676328315516,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Congrats to a good man and a good friend.",
+            "But he also told the Post that he\u2019s not very good.",
+            "The President later praised Clinton\u2019s choice, telling supporters in a fundraising email Saturday that \u201dTim is a good man."
+        ],
+        "tf-idf score": [
+            0.0603676328315516,
+            0.05539122099989105,
+            0.4642192293701949
+        ]
+    },
+    "0.2616160381388109-3-378": {
+        "average clique similarity": 0.2616160381388109,
+        "clique": [
+            "2-Just ask the NRA   K",
+            "0-Like his running mat",
+            "1-Kaine also earned hi"
+        ],
+        "median tf-idf score": 0.7015669171329987,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Just ask the NRA \u201d Kaine was governor during the 2007 Virginia Tech shooting, in which 32 students and faculty members were killed.",
+            "Like his running mate, Kaine supports expanded gun control legislation, having served as Virginia\u2019s governor during the 2007 mass shooting at Virginia Tech.",
+            "Kaine also earned high marks for his stewardship of the state after the Virginia Tech Massacre, at the time the worst mass shooting in U S history."
+        ],
+        "tf-idf score": [
+            0.7015669171329987,
+            0.7572289463772669,
+            0.6171587210099561
+        ]
+    },
+    "0.3055324872766542-3-55": {
+        "average clique similarity": 0.3055324872766542,
+        "clique": [
+            "3-He learned Spanish d",
+            "0-Kaine learned Spanis",
+            "2-Such promises could "
+        ],
+        "median tf-idf score": 0.3094593985433049,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "He learned Spanish during a mission trip to Honduras while in law school.",
+            "Kaine learned Spanish while living in Honduras in 1980 during a year off from law school.",
+            "Such promises could be seen as wishful thinking, as Barack Obama has learned during his time in the White House."
+        ],
+        "tf-idf score": [
+            0.12947859801074965,
+            0.5070547034033467,
+            0.3094593985433049
+        ]
+    },
+    "0.3071749434539763-3-207": {
+        "average clique similarity": 0.3071749434539763,
+        "clique": [
+            "4-And she s hoping the",
+            "2- We ve got this beau",
+            "0-   but boring is the"
+        ],
+        "median tf-idf score": 0.05062279481174262,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "And she\u2019s hoping the country will, too.",
+            "\u201cWe\u2019ve got this beautiful country that should be a country of welcome, a country of inclusion,\u201d Kaine said.",
+            ".. but boring is the   demographic in this country\u201d."
+        ],
+        "tf-idf score": [
+            0.034296752433864416,
+            0.4983095755931722,
+            0.05062279481174262
+        ]
+    },
+    "0.3182812363593586-3-585": {
+        "average clique similarity": 0.3182812363593586,
+        "clique": [
+            "2- It was the worst da",
+            "1- I m thrilled to ann",
+            "3-When the news came v"
+        ],
+        "median tf-idf score": 0.28240933396175144,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cIt was the worst day of my life,\u201d he said.",
+            "\u201dI\u2019m thrilled to announce my running mate, @TimKaine, a man who\u2019s devoted his life to fighting for others.",
+            "When the news came via text, she quickly followed it with a message on Twitter: \u201dI\u2019m thrilled to announce my running mate, (at) TimKaine, a man who\u2019s devoted his life to fighting for others\u201d."
+        ],
+        "tf-idf score": [
+            0.28240933396175144,
+            0.19870460055512962,
+            0.32377957946663927
+        ]
+    },
+    "0.34570377553708687-3-585": {
+        "average clique similarity": 0.34570377553708687,
+        "clique": [
+            "1-It may be an   year ",
+            "0-He s a former chairm",
+            "4-In 2009  Obama named"
+        ],
+        "median tf-idf score": 0.5186740086926461,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "It may be an   year, but Clinton\u2019s running mate is an insider: A senator and former governor from the critical battleground of Virginia and a former chairman of the Democratic National Committee.",
+            "He\u2019s a former chairman of the Democratic National Committee and has been a mayor, governor, and senator.",
+            "In 2009, Obama named Kaine to chair the Democratic National Committee."
+        ],
+        "tf-idf score": [
+            0.6361670411823072,
+            0.29104956092455014,
+            0.5186740086926461
+        ]
+    },
+    "0.37196338293720155-3-65": {
+        "average clique similarity": 0.37196338293720155,
+        "clique": [
+            "2- Tim Kaine is everyt",
+            "4-The topic was Donald",
+            "3-She also called hers"
+        ],
+        "median tf-idf score": 0.5411191811290498,
+        "publications": [
+            "Fox News",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cTim Kaine is everything Donald Trump and [his   pick] Mike Pence are not.",
+            "The topic was Donald Trump.",
+            "She also called herself and Kaine \u201ceverything that Donald Trump and Mike Pence are not\u201d."
+        ],
+        "tf-idf score": [
+            0.5919737685910059,
+            0.2857207816193001,
+            0.5411191811290498
+        ]
+    }
+}

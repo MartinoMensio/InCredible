@@ -1,0 +1,442 @@
+{
+    "0.1903908406902627-3-153": {
+        "average clique similarity": 0.1903908406902627,
+        "clique": [
+            "3-Kerry spoke to Irani",
+            "2-       Secretary of ",
+            "4-The Guard s Navy con"
+        ],
+        "median tf-idf score": 1.1046653525566554,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Kerry spoke to Iranian Foreign Minister Mohammad Javad Zarif several times as the United States sought to win the release of the sailors, a U S official said.",
+            "       Secretary of State John F Kerry spoke at least five times yesterday by telephone with his Iranian counterpart in intense diplomacy that led to the release Wednesday morning of 10 American sailors who were picked up and detained overnight when their small ships strayed into Iranian waters the day before.",
+            "The Guard's Navy confiscated the sailors' GPS equipment to \"prove that American ships were 'snooping' around in Iranian waters,\" according to The New York Times."
+        ],
+        "tf-idf score": [
+            1.1046653525566554,
+            1.12389027415907,
+            0.9181514252906916
+        ]
+    },
+    "0.2053030325392874-3-112": {
+        "average clique similarity": 0.2053030325392874,
+        "clique": [
+            "3-There were also imag",
+            "4-Once the U N nuclear",
+            "2-The   which in the U"
+        ],
+        "median tf-idf score": 0.5699353452616012,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "There were also images of American passports being inspected. The incident raised tensions between Iran and the United States, which, along with other world powers, reached a deal last year under which Iran will curb its nuclear activities in exchange for the lifting of economic sanctions.",
+            "Once the U N nuclear agency confirms Iran's actions to roll back its program, the United States and other Western powers are obliged to suspend   oil, trade and financial sanctions on Tehran.",
+            "The   which in the United States drew calls for reprisal from Republican lawmakers and candidates, came at a sensitive time. Economic sanctions against Iran could be lifted as soon as this month under the nuclear deal."
+        ],
+        "tf-idf score": [
+            0.6702646975097251,
+            0.563873160766797,
+            0.5699353452616012
+        ]
+    },
+    "0.20757775073874504-3-250": {
+        "average clique similarity": 0.20757775073874504,
+        "clique": [
+            "3-He added   I want to",
+            "2-Secretary of State J",
+            "4-In a written stateme"
+        ],
+        "median tf-idf score": 0.7567583867761245,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "He added: \"I want to personally thank Secretary of State John Kerry for his diplomatic engagement with Iran to secure our sailors' swift return\".",
+            "Secretary of State John Kerry said he was \"pleased\" by the safe release of U S sailors from Iranian custody Jan. 13.",
+            "In a written statement, Secretary of State John Kerry thanked Iranian authorities \"for their cooperation in swiftly resolving this matter. \""
+        ],
+        "tf-idf score": [
+            0.7567583867761245,
+            1.033570202162967,
+            0.5400337215391526
+        ]
+    },
+    "0.20881606045445436-3-5": {
+        "average clique similarity": 0.20881606045445436,
+        "clique": [
+            "2-Since the tests  Pre",
+            "4-GOP presidential can",
+            "1-Zarif had reportedly"
+        ],
+        "median tf-idf score": 0.6788401731664752,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "Since the tests, President Hassan Rouhani vowed to expand the country's ballistic missile program. Even though details about the incident were sparse, former Florida governor Jeb Bush, a Republican presidential candidate, had quickly weighed in, accusing President Obama of having a \"humiliatingly weak Iran policy. \" If our sailors aren't coming home yet, they need to be now.",
+            "GOP presidential candidate Ted Cruz said the detention of the sailor's was a \"manifestation of the weakness of Obama's foreign policy\".",
+            "Zarif had reportedly assured him Tuesday the sailors would be returned \"promptly. \" GOP presidential hopefuls were quick to call out Obama for the detentions. \"If our sailors aren't coming home yet, they need to be now,\"  . \"No more bargaining."
+        ],
+        "tf-idf score": [
+            0.8880815274413125,
+            0.6788401731664752,
+            0.6283317916930226
+        ]
+    },
+    "0.22415482385471455-3-172": {
+        "average clique similarity": 0.22415482385471455,
+        "clique": [
+            "0-    Ten American sai",
+            "3- Iran freed ten U S ",
+            "1-Ten American sailors"
+        ],
+        "median tf-idf score": 1.00397634284642,
+        "publications": [
+            "Business Insider",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "'' 'Ten American sailors are reportedly being held by Iran after two  drifted into Iranian waters after experiencing mechanical difficulties.'",
+            " Iran freed ten U S sailors on Wednesday a day after detaining them aboard two U S Navy patrol boats in the Gulf, bringing a swift end to an incident that had rattled nerves shortly before the expected implementation of a landmark nuclear accord.",
+            "Ten American sailors were arrested by Iranian authorities Tuesday after two US Navy boats briefly strayed into the country's territorial waters, according to an Iranian news agency."
+        ],
+        "tf-idf score": [
+            0.896446735742994,
+            1.00397634284642,
+            1.0577188226236962
+        ]
+    },
+    "0.22430014070182688-3-250": {
+        "average clique similarity": 0.22430014070182688,
+        "clique": [
+            "1-President Obama was ",
+            "2-In his initial call ",
+            "0- A senior US officia"
+        ],
+        "median tf-idf score": 0.9451288988156555,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "President Obama was briefed on the detainment and Secretary of State John Kerry called Iranian Foreign Minister Mohammed Javad Zarif, with whom he spent years negotiating a nuclear deal, \"to try to get to this outcome,\"  .",
+            "In his initial call with Iranian Foreign Minister Javad Zarif early Tuesday afternoon, Kerry was assured that the sailors would quickly be set free, said a senior State Department official on condition of anonymity set by the Department.",
+            "\"A senior US official told The Associated Press that US Secretary of State John Kerry immediately called Iran's minister of foreign affairs, Javad Zarif, upon learning of the incident at around 12:30 p. m. EST\"."
+        ],
+        "tf-idf score": [
+            0.9374137183306958,
+            1.2653943658743383,
+            0.9451288988156555
+        ]
+    },
+    "0.24379349705765974-3-250": {
+        "average clique similarity": 0.24379349705765974,
+        "clique": [
+            "4-The incident came on",
+            "2-Iranian and U S ship",
+            "3-Last month  the U S "
+        ],
+        "median tf-idf score": 0.6284180503883283,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The incident came on the heels of an incident in late December when Iran launched a rocket test near U S warships and boats passing through the Strait of Hormuz.",
+            "Iranian and U S ships often come within hailing distance in the Persian Gulf during patrols and maneuvers. The gulf is also the route for more than   of the world's oil tanker traffic through the Strait of Hormuz, which is jointly controlled by Iran and   Oman.",
+            "Last month, the U S Navy said an IRGC vessel fired unguided rockets near the aircraft carrier USS Harry S Truman in the Strait of Hormuz, a critical shipping route for crude oil that connects the Gulf to the Indian Ocean."
+        ],
+        "tf-idf score": [
+            0.5777434866920248,
+            0.6936883443465578,
+            0.6284180503883283
+        ]
+    },
+    "0.2459874446292197-4-94": {
+        "average clique similarity": 0.2459874446292197,
+        "clique": [
+            "4-The boats were movin",
+            "1-In a statement Tuesd",
+            "2- Sepahnews via AP   ",
+            "0- Iran had originally"
+        ],
+        "median tf-idf score": 0.8122409613186434,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The boats were moving between Kuwait and Bahrain at the time, and the Pentagon briefly lost contact with the crew.",
+            "In a statement Tuesday, the Iranians insisted crew members were safe,  . The United States lost contact with the boats late Tuesday afternoon as they were en route from Kuwait to Bahrain, according to a senior defense official.",
+            "(Sepahnews via AP)  The exact circumstances surrounding the incident remained unclear. The two small boats, used largely on coastal waters and on rivers, had been en route from Kuwait to Bahrain in the Persian Gulf when they disappeared from the Navy's scopes.",
+            "'Iran had originally told the US that the sailors would be returned \"promptly,\" but officials now say that the sailors will spend the night in Iran, ' '' '\"Earlier today, we lost contact with two small US naval craft en route from Kuwait to Bahrain,\" a senior administration official told Business Insider.'"
+        ],
+        "tf-idf score": [
+            0.30831255820581865,
+            0.9979781843648936,
+            0.6265037382723933,
+            1.0613241255096413
+        ]
+    },
+    "0.2488639634965523-4-57": {
+        "average clique similarity": 0.2488639634965523,
+        "clique": [
+            "4-The incident came am",
+            "2-Their last call  to ",
+            "1- If  during the inte",
+            "0- The latest incident"
+        ],
+        "median tf-idf score": 0.7298269421011063,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The incident came amid heightened tensions with Iran, and only hours before President Barack Obama gave his final State of the Union address to Congress and the public.",
+            "Their last call, to confirm the release, took place late at night, following President Obama's State of the Union address.",
+            "\"If, during the interrogation, we find out that they were on an intelligence gathering mission, we will treat them differently,\" spokesman Ramazan Sharif said in an interview with Tasnim news agency. The tough talk came after the Obama administration, speaking in the hours before Tuesday's State of the Union Address, said the crews would be released Wednesday morning.",
+            "\"The latest incident comes on the heels of Iran's  in late December near US warships and boats passing through the Strait of Hormuz\". 'The incident also comes hours before US President Barack Obama is due to give his final State of the Union address before Congress.'"
+        ],
+        "tf-idf score": [
+            0.6210770374407971,
+            0.3340234463311293,
+            0.9085753028886577,
+            0.8385768467614156
+        ]
+    },
+    "0.24993970757877024-3-250": {
+        "average clique similarity": 0.24993970757877024,
+        "clique": [
+            "3- I think we can all ",
+            "0-  The traditional re",
+            "2- It is clear that to"
+        ],
+        "median tf-idf score": 0.5466680791944794,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"I think we can all imagine how a similar situation might have played out three or four years ago, and the fact that today this kind of issue can be resolved peacefully and efficiently is a testament to the critical role diplomacy plays in keeping our country safe, secure, and strong,\" Kerry said.",
+            "'\"The traditional response would be to issue some kind of warning rather than to detain the ship, and now . .. they''re going to be detaining 10 sailors overnight, which is obviously not insignificant,\" Schanzer said.' '' 'Ben Rhodes, the White House''s deputy national security adviser, told reporters that the US is \"working to resolve the situation such that any US personnel are returned to their normal deployment. \"'",
+            "\"It is clear that today this kind of issue was able to be peacefully resolved, and efficiently resolved, and that is a testament to the critical role diplomacy plays in keeping our country safe, secure and strong. \""
+        ],
+        "tf-idf score": [
+            0.5466680791944794,
+            0.906620879881762,
+            0.3427587827549657
+        ]
+    },
+    "0.2538099162076033-3-21": {
+        "average clique similarity": 0.2538099162076033,
+        "clique": [
+            "0-Iran has now seized ",
+            "4- Iran s Revolutionar",
+            "3-Iran s Islamic Revol"
+        ],
+        "median tf-idf score": 1.2010078105567163,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "Iran has now seized the 10 American sailors, who are  being held at an Iranian Revolutionary Guard Corps base on Farsi Island in the Persian Gulf.'",
+            " Iran's Revolutionary Guard released 10 U S Navy sailors who were detained after two small Riverine boats crossed into Iranian territorial waters, the Pentagon confirmed Wednesday.",
+            "Iran's Islamic Revolutionary Guard Corps (IRGC) said it had released the sailors after determining they had entered Iranian territorial waters by mistake."
+        ],
+        "tf-idf score": [
+            1.0352391114132717,
+            1.232612845980538,
+            1.2010078105567163
+        ]
+    },
+    "0.2575511962036967-3-198": {
+        "average clique similarity": 0.2575511962036967,
+        "clique": [
+            "3-COOPERATION A carefu",
+            "2- These are the U S N",
+            "4-The Pentagon stateme"
+        ],
+        "median tf-idf score": 0.8348267152287784,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "COOPERATION A carefully worded statement did not explain how the sailors and their two riverine command boats ended up being detained by Iran, saying only that \"the Navy will investigate the circumstances that led to the sailors' presence in Iran\".",
+            "[These are the U S Navy riverine command boats that Iran 'took into custody'] Three years ago, before talks between the two countries started, the official said, \"it undoubtedly would have been much more complicated to unwind, with the risk of all sorts of ancillary events that would have been unpredictable. \"",
+            "The Pentagon statement also promised the Navy would \"investigate the circumstances that led to the Sailors' presence in Iran\"."
+        ],
+        "tf-idf score": [
+            0.8348267152287784,
+            0.8804740540396377,
+            0.6418822545791693
+        ]
+    },
+    "0.26104280315481604-3-134": {
+        "average clique similarity": 0.26104280315481604,
+        "clique": [
+            "2-But State Department",
+            "4-A senior State Depar",
+            "3- No  there was no ap"
+        ],
+        "median tf-idf score": 0.7781415711927544,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But State Department spokesman John Kirby said there was \"zero truth\" to reports of a formal U S apology, citing only Kerry's expression of thanks to Iranian officials.",
+            "A senior State Department official, though, told Fox News that there was \"no apology from Kerry\" to the Iranians.",
+            "\"No, there was no apology, nothing to apologize for . .. and there's no looking for any apology,\" Biden said on CBS's 'This Morning' program."
+        ],
+        "tf-idf score": [
+            0.8735467850510632,
+            0.7781415711927544,
+            0.3600456710132431
+        ]
+    },
+    "0.2880923518909425-3-13": {
+        "average clique similarity": 0.2880923518909425,
+        "clique": [
+            "3-Earlier  the Guards ",
+            "4-The Iran Revolutiona",
+            "1-The Iranian Revoluti"
+        ],
+        "median tf-idf score": 0.9607707777963855,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Earlier, the Guards had said the boats were \"snooping\" in Iranian territory and Zarif had demanded an apology from Washington.",
+            "The Iran Revolutionary Guard's naval chief said earlier Wednesday that Iran's foreign minister had demanded an apology from the U S for entering Iranian waters.",
+            "The Iranian Revolutionary Guard's navy seized the two vessels, which had traveled just over a mile into Iran's waters, for \"snooping around,\"    The boats each had three,   machine guns on board, according to the Iranian outlet."
+        ],
+        "tf-idf score": [
+            0.6822053086082354,
+            0.9607707777963855,
+            0.9673281510786318
+        ]
+    },
+    "0.30014099067591826-3-33": {
+        "average clique similarity": 0.30014099067591826,
+        "clique": [
+            "4- Certainly U S prese",
+            "0- The official contin",
+            "1- Certainly  everybod"
+        ],
+        "median tf-idf score": 0.8208229614227698,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"Certainly U S presence in Persian Gulf and their passage has never been innocent and we do not deem their passage as innocent,\" Fadavi said, adding that Iran Foreign Minister Javad Zarif \"had a firm stance (during a telephone conversation with U S Secretary of State John Kerry) on their presence in our territorial waters and said they should not have come and should apologize\".",
+            "'The official continued: \"We subsequently have been in communication with Iranian authorities, who have informed us of the safety and   of our personnel. We have received assurances the sailors will promptly be allowed to continue their journey. \"'",
+            "\"Certainly, everybody should be aware of the fact we have been in touch with the Iranians and they have assured us that our sailors are safe and that they'll be allowed to continue their journey promptly,\"  ."
+        ],
+        "tf-idf score": [
+            1.1288477448665144,
+            0.8208229614227698,
+            0.6391599981099042
+        ]
+    },
+    "0.3214045689168548-3-250": {
+        "average clique similarity": 0.3214045689168548,
+        "clique": [
+            "4- The first concern i",
+            "1- We subsequently hav",
+            "2-Kerry also said the "
+        ],
+        "median tf-idf score": 0.47527354145792966,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"The first concern is the safety and well being of the crew and then we will investigate the incident,\" the official said.",
+            "\"We subsequently have been in communication with Iranian authorities, who have informed us of the safety and   of our personnel,\" the official added.",
+            "Kerry also said the sailors appeared to have been \"well taken care of\" by Iranian authorities."
+        ],
+        "tf-idf score": [
+            0.4296217310236924,
+            0.47527354145792966,
+            0.763264049692952
+        ]
+    },
+    "0.336653896207699-3-250": {
+        "average clique similarity": 0.336653896207699,
+        "clique": [
+            "2-The Iranian military",
+            "1-The sailors were tak",
+            "4-A statement said tha"
+        ],
+        "median tf-idf score": 0.7346196916772306,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The Iranian military took the boats and their crews to Farsi Island, where Iran maintains a naval base.",
+            "The sailors were taken to Farsi Island in the Persian Gulf, where Iran has a naval base,  .",
+            "A statement said that the sailors and the boats left the Iranian naval base where they had been held shortly before 9 a. m. GMT (4 a. m. EST)."
+        ],
+        "tf-idf score": [
+            0.7346196916772306,
+            0.7206884751185108,
+            0.8668675823035301
+        ]
+    },
+    "0.3929440583410478-3-88": {
+        "average clique similarity": 0.3929440583410478,
+        "clique": [
+            "3-The sailors were lat",
+            "4-The nine men and one",
+            "2-They were picked up "
+        ],
+        "median tf-idf score": 0.666264603884908,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The sailors were later taken ashore by U S Navy aircraft, while other sailors took charge of the boats and headed towards Bahrain, their original destination.",
+            "The nine men and one woman were later transferred ashore by Navy aircraft, while the boats continued toward Bahrain, their intended destination. There was no indication the sailors had been harmed.",
+            "They were picked up by Navy aircraft and transferred ashore, eventually ending up in Qatar, while other sailors took charge of the vessels, called riverine command boats, and continued to Bahrain."
+        ],
+        "tf-idf score": [
+            0.5891524817694862,
+            0.6727486731910385,
+            0.666264603884908
+        ]
+    }
+}

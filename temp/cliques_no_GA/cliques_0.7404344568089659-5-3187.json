@@ -1,0 +1,726 @@
+{
+    "0.1551472369384814-3-106": {
+        "average clique similarity": 0.1551472369384814,
+        "clique": [
+            "3-We just want justice",
+            "2-   I want to receive",
+            "1- I love my wife and "
+        ],
+        "median tf-idf score": 0.07481016173006859,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "We just want justice  \u2014   justice for all.",
+            "   I want to receive updates from partners and sponsors.",
+            "\u201cI love my wife and family for supporting me I want them to be proud of me."
+        ],
+        "tf-idf score": [
+            0.07196770989946494,
+            0.07481016173006859,
+            0.1407304084325266
+        ]
+    },
+    "0.17121023767712026-3-92": {
+        "average clique similarity": 0.17121023767712026,
+        "clique": [
+            "3- Another black man h",
+            "4- A former New York C",
+            "2-Gurley s death came "
+        ],
+        "median tf-idf score": 0.6313379528996323,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cAnother black man has been murdered by the hands of the Police Department and the officer is not being held accountable,\u201d she said.",
+            " A former New York City police officer avoided prison on Tuesday for the killing of an unarmed black man in an unlit stairwell, prompting demonstrations outside a Brooklyn courthouse.",
+            "Gurley\u2019s death came just four months after the death of Eric Garner, another unarmed black man killed by police (though no one was  charged in that incident)."
+        ],
+        "tf-idf score": [
+            0.5476877542156405,
+            0.6313379528996323,
+            0.7597813339783488
+        ]
+    },
+    "0.19300930285685794-3-270": {
+        "average clique similarity": 0.19300930285685794,
+        "clique": [
+            "0-  More than 200 extr",
+            "2-Outside  protesters ",
+            "4-Outside the courthou"
+        ],
+        "median tf-idf score": 0.3059186674494952,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201d More than 200 extra cops  \u2014   including those from the NYPD\u2019s counterterrorism unit  \u2014   were stationed outside the courthouse as throngs of supporters and protesters screamed and waved signs during and after the proceeding.",
+            "Outside, protesters held signs calling him a \u201ckiller cop\u201d and demanded the judge sentence him to prison time.",
+            "Outside the courthouse, dueling groups of protesters   one supporting Liang, the other Gurley\u2019s family   stood on opposite sides of the street, holding signs and chanting."
+        ],
+        "tf-idf score": [
+            0.25699362114814045,
+            0.3059186674494952,
+            0.6733196129734431
+        ]
+    },
+    "0.2303098995588265-3-111": {
+        "average clique similarity": 0.2303098995588265,
+        "clique": [
+            "4-Members of Gurley s ",
+            "3-But after the convic",
+            "1-Brooklyn District At"
+        ],
+        "median tf-idf score": 0.5478499746856578,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "Members of Gurley\u2019s family have criticized Brooklyn District Attorney Kenneth Thompson for recommending no prison time.",
+            "But after the conviction, Mr Thompson issued a letter recommending that Mr Liang should not serve time in prison.",
+            "Brooklyn District Attorney Ken Thompson had previously requested Liang not be sent to prison."
+        ],
+        "tf-idf score": [
+            0.5478499746856578,
+            0.5814063004184485,
+            0.5169049541314151
+        ]
+    },
+    "0.23571062866945977-3-47": {
+        "average clique similarity": 0.23571062866945977,
+        "clique": [
+            "1- It was a dream come",
+            "0-The Police Academy i",
+            "2-Liang had graduated "
+        ],
+        "median tf-idf score": 0.4215330598232375,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cIt was a dream come true when I graduated the police academy.",
+            "The Police Academy instructor who was supposed to have taught them the   technique has since been stripped of her badge and gun while the department probes the allegation.",
+            "Liang had graduated from the police academy a year before."
+        ],
+        "tf-idf score": [
+            0.39780258942692287,
+            0.49240779407489677,
+            0.4215330598232375
+        ]
+    },
+    "0.23580096999511346-3-156": {
+        "average clique similarity": 0.23580096999511346,
+        "clique": [
+            "3-The sentence      in",
+            "2-  Chun  the judge  s",
+            "4-Before imposing the "
+        ],
+        "median tf-idf score": 0.9675052044566844,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "The sentence  \u2014   in one of the most divisive police misconduct cases in recent New York City history  \u2014   came just moments after the judge took the unusual steps of ruling that the shooting was essentially an accident and reducing the jury\u2019s verdict on manslaughter charges to the less severe criminally negligent homicide.",
+            "\u201d Chun, the judge, said he reduced the manslaughter charge to negligent homicide because \u201cas I watched the video of the defendant entering the lobby of the Pink Houses, I couldn\u2019t help but feel he was entering with the serious mind of protecting the people.",
+            "Before imposing the sentence, Chun reduced Liang\u2019s manslaughter count to the lesser felony of criminally negligent homicide, finding prosecutors failed to prove Liang \u201dconsciously disregarded\u201d the risk of causing another person\u2019s death."
+        ],
+        "tf-idf score": [
+            0.9675052044566844,
+            1.0183502195176222,
+            0.7227369562385133
+        ]
+    },
+    "0.2361926463146542-4-197": {
+        "average clique similarity": 0.2361926463146542,
+        "clique": [
+            "2-Liang later said he ",
+            "3-In February  a jury ",
+            "4-Liang testified at t",
+            "0-He had his    "
+        ],
+        "median tf-idf score": 0.6060028413581202,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "Liang later said he didn\u2019t know anyone had been shot, so he and his partner, Shaun Landau, stepped outside into the hallway and debated who would call and tell their superior that the gun had been discharged.",
+            "In February, a jury convicted him of manslaughter and official misconduct, rejecting his testimony that the gun had simply gone off in his hand and finding that he had failed to help Mr Gurley as he lay dying on a   landing.",
+            "Liang testified at trial that he did not realize the bullet had hit anyone until he saw Gurley\u2019s girlfriend desperately trying to revive him.",
+            "He had his   ."
+        ],
+        "tf-idf score": [
+            0.6668887564290575,
+            0.6246999117509604,
+            0.58730577096528,
+            0.0
+        ]
+    },
+    "0.2474765687950311-3-86": {
+        "average clique similarity": 0.2474765687950311,
+        "clique": [
+            "4-Before he was senten",
+            "3-It is rare for polic",
+            "2-  When it was his tu"
+        ],
+        "median tf-idf score": 0.9913464222645632,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Before he was sentenced, Liang apologized to Gurley\u2019s family in court and said he never intended to fire the fatal bullet.",
+            "It is rare for police officers even to be charged and brought to court in shooting cases while this one resulted in a guilty verdict at a   trial this winter, the sentencing was deeply disappointing to the family of the victim, Akai Gurley.",
+            "\u201d When it was his turn to speak, Liang apologized to Butler, to Gurley\u2019s family, and said he loved his family."
+        ],
+        "tf-idf score": [
+            1.056378506109583,
+            0.9621901397465777,
+            0.9913464222645632
+        ]
+    },
+    "0.24813461003742576-3-74": {
+        "average clique similarity": 0.24813461003742576,
+        "clique": [
+            "0-Prosecutors had argu",
+            "4-The officer claimed ",
+            "2-  During the trial  "
+        ],
+        "median tf-idf score": 0.358920891310563,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Prosecutors had argued that Liang breached department protocol by having his finger on the trigger.",
+            "The officer claimed a noise startled him, causing his finger to pull the trigger.",
+            "\u201d During the trial, jurors repeatedly asked to touch Liang\u2019s gun, even pulling the trigger for themselves Liang, who never confronted Gurley, had said his finger accidentally jerked the trigger when he was surprised by a loud sound."
+        ],
+        "tf-idf score": [
+            0.358920891310563,
+            0.16799482632102994,
+            1.0307407510666453
+        ]
+    },
+    "0.24972529740898164-3-299": {
+        "average clique similarity": 0.24972529740898164,
+        "clique": [
+            "2-Before the judge rea",
+            "1-  I apologize to Mel",
+            "3-Before the sentence "
+        ],
+        "median tf-idf score": 0.8952125183562976,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "Before the judge read the sentence, the court listened to Gurley\u2019s girlfriend, Melissa Butler.",
+            " \u201cI apologize to Melissa Butler and Akai Gurley\u2019s family,\u201d Liang said in court as he turned and faced the gallery.",
+            "Before the sentence was issued, Mr Gurley\u2019s girlfriend, Melissa Butler, who was with him when he died, told Mr Liang that even today, she was still in pain and needed the solace of justice."
+        ],
+        "tf-idf score": [
+            0.4342309722136929,
+            0.8952125183562976,
+            1.0409646724139934
+        ]
+    },
+    "0.25431154424748054-3-104": {
+        "average clique similarity": 0.25431154424748054,
+        "clique": [
+            "2- We are outraged at ",
+            "1- While our sentencin",
+            "3-Though the Brooklyn "
+        ],
+        "median tf-idf score": 0.7971982959591697,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cWe are outraged at District Attorney Thompson\u2019s inadequate sentencing recommendation,\u201d the family said in a statement responding to the office\u2019s decision.",
+            "\u201cWhile our sentencing recommendation was fair under the unique circumstances of this case, we respectfully disagree with the judge\u2019s decision to reduce the jury\u2019s verdict and will fight to reverse it on appeal,\u201d the district attorney said in a statement.",
+            "Though the Brooklyn district attorney\u2019s office promised to appeal the ruling, the sentencing was a decisive move in the politically contentious case that highlighted concerns over police accountability, especially in black neighborhoods, but never neatly fit the narrative of other killings by   officers around the country."
+        ],
+        "tf-idf score": [
+            0.5144158085805876,
+            0.8733426049589025,
+            0.7971982959591697
+        ]
+    },
+    "0.26004739414539674-3-255": {
+        "average clique similarity": 0.26004739414539674,
+        "clique": [
+            "2-Liang faced 15 years",
+            "4-Liang  a rookie who ",
+            "0-It carried a maximum"
+        ],
+        "median tf-idf score": 0.7096202231072404,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "Liang faced 15 years in prison for the manslaughter charge, but there was little chance he\u2019d receive such a sentence.",
+            "Liang, a rookie who lost his badge after his conviction, had faced up to 15 years for his manslaughter conviction in the death of Akai Gurley, 28.",
+            "It carried a maximum of four years in prison, while manslaughter would have meant up to 15 years."
+        ],
+        "tf-idf score": [
+            0.7430582762284629,
+            0.7096202231072404,
+            0.1793300186265382
+        ]
+    },
+    "0.268411727064243-5-7": {
+        "average clique similarity": 0.268411727064243,
+        "clique": [
+            "1-   Liang fired his s",
+            "0-Liang and his partne",
+            "3-Akai Gurley s life d",
+            "2-On the day of Gurley",
+            "4-The officer was patr"
+        ],
+        "median tf-idf score": 0.6776119565040954,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "New York Post",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201d  Liang fired his service weapon while he was on the eighth floor stair landing of the Pink Houses in Brooklyn.",
+            "Liang and his partner were doing a sweep of an apartment building at the   Pink Houses in East New York around 11:15 p. m. on Nov. 20, 2014, when a steel door slammed, apparently startling him.",
+            "Akai Gurley\u2019s life didn\u2019t matter!\u201d Mr Gurley died on Nov. 20, 2014, when his heart was pierced by a ricocheting bullet that Mr Liang had fired while on a night patrol in a dark stairwell in the Louis H Pink Houses in the East New York neighborhood.",
+            "On the day of Gurley\u2019s death in November 2014, Liang and his partner were patrolling the Louis H Pink Houses in Brooklyn.",
+            "The officer was patrolling the darkened stairs inside a public housing building in Brooklyn on Nov. 20, 2014, when he fired a single shot that he testified was accidental."
+        ],
+        "tf-idf score": [
+            0.7510840293456804,
+            0.5005071792413923,
+            1.2057345998665685,
+            0.6776119565040954,
+            0.5617623899968416
+        ]
+    },
+    "0.27296987454394694-4-299": {
+        "average clique similarity": 0.27296987454394694,
+        "clique": [
+            "3- This was a criminal",
+            "2-The other charges in",
+            "1-  Thompson  meanwhil",
+            "0-Chun also downgraded"
+        ],
+        "median tf-idf score": 0.24116124147654153,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cThis was a criminally negligent act.",
+            "The other charges included   manslaughter, criminally negligent homicide,   assault, and reckless endangerment.",
+            "\u201d Thompson, meanwhile, vowed to appeal the modification from manslaughter to the lesser criminally negligent homicide.",
+            "Chun also downgraded   to criminally negligent homicide."
+        ],
+        "tf-idf score": [
+            0.31674474919759554,
+            0.2113595761244525,
+            0.27096290682863056,
+            0.17515241852399727
+        ]
+    },
+    "0.2732033374675899-3-41": {
+        "average clique similarity": 0.2732033374675899,
+        "clique": [
+            "3-As such  I find inca",
+            "2- I find that given t",
+            "0- I find incarceratio"
+        ],
+        "median tf-idf score": 0.020293384674167192,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "As such, I find incarceration not necessary.",
+            "\u201cI find that given the defendant\u2019s background, and given how remorseful he is that it would not be necessary to incarcerate the defendant to have a just sentence in this case,\u201d said Brooklyn Supreme Court Justice Danny Chun.",
+            "\u201cI find incarceration to be unnecessary."
+        ],
+        "tf-idf score": [
+            0.020293384674167192,
+            0.6167147995003824,
+            0.01978604115022577
+        ]
+    },
+    "0.30562316014781216-4-17": {
+        "average clique similarity": 0.30562316014781216,
+        "clique": [
+            "3- You took a piece of",
+            "1- When you stole Akai",
+            "0-I m suffering while ",
+            "2- You took a piece of"
+        ],
+        "median tf-idf score": 0.39806521760142477,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cYou took a piece of me,\u201d she said.",
+            "\u201cWhen you stole Akai\u2019s life, you stole mine as well,\u201d Gurley\u2019s girlfriend, Melissa Butler, said as she addressed the former officer.",
+            "I\u2019m suffering while you still have your life.",
+            "\u201cYou took a piece of me,\u201d she said to Liang, \u201cyou took a piece of my heart."
+        ],
+        "tf-idf score": [
+            0.2662398109515243,
+            0.664671723850786,
+            0.056933959680727356,
+            0.5298906242513252
+        ]
+    },
+    "0.32506734632089984-3-75": {
+        "average clique similarity": 0.32506734632089984,
+        "clique": [
+            "2-Of the recommendatio",
+            "4- This prosecution ha",
+            "0-He said he and Liang"
+        ],
+        "median tf-idf score": 0.46523837336224455,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "Of the recommendation, prosecutor Ken Thompson said that \u201cfrom the beginning, this tragic case has always been about justice and not about revenge.",
+            "\u201dThis prosecution has always been about justice; it\u2019s not about revenge\u201d.",
+            "He said he and Liang have already talked about him working with children."
+        ],
+        "tf-idf score": [
+            0.47127495700924554,
+            0.11003843768035697,
+            0.46523837336224455
+        ]
+    },
+    "0.3276551333003955-3-62": {
+        "average clique similarity": 0.3276551333003955,
+        "clique": [
+            "2-Akai took his last b",
+            "0-But the girlfriend  ",
+            "1-You took a piece of "
+        ],
+        "median tf-idf score": 0.13638028653600012,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Akai took his last breath and died in my hands.",
+            "But the girlfriend, Melissa Butler, who desperately tried to perform CPR on the dying Gurley, told Liang in an emotional   statement, \u201cAkai took his last breath and died in my hands.",
+            "You took a piece of my heart."
+        ],
+        "tf-idf score": [
+            0.13638028653600012,
+            0.7875483325454844,
+            0.09089699609167867
+        ]
+    },
+    "0.3313382991465146-3-56": {
+        "average clique similarity": 0.3313382991465146,
+        "clique": [
+            "2-  After the judge re",
+            "3-When the hourlong he",
+            "1- There is no justice"
+        ],
+        "median tf-idf score": 0.9420746036241094,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d After the judge read Liang\u2019s sentence Tuesday, Gurley\u2019s aunt, Hertencia Petersen, reportedly said, \u201cAkai\u2019s life does not matter.",
+            "When the hourlong hearing came to an end and it was clear that Mr Liang would not serve time in prison, Hertencia Petersen, Mr Gurley\u2019s aunt, stepped into a hallway shouting: \u201cThere is no justice!",
+            "\u201cThere is no justice,\u201d Gurley\u2019s aunt, Hertencia Petersen, said as she exited the courtroom after the hearing."
+        ],
+        "tf-idf score": [
+            0.9420746036241094,
+            1.0795048639823257,
+            0.5444362195538363
+        ]
+    },
+    "0.3700415668186468-3-299": {
+        "average clique similarity": 0.3700415668186468,
+        "clique": [
+            "0-The bullet ricochete",
+            "4-The bullet ricochete",
+            "2-A New York jury had "
+        ],
+        "median tf-idf score": 0.5463778335749404,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The bullet ricocheted off the wall and struck Gurley, who was on the landing below, in the chest.",
+            "The bullet ricocheted off a wall and struck Gurley in the chest as he walked one floor below.",
+            "A New York jury had convicted Liang of manslaughter in February for killing Akai Gurley in a housing complex stairwell after Liang\u2019s gun fired, ricocheted off a wall, and struck Gurley in the chest."
+        ],
+        "tf-idf score": [
+            0.5463778335749404,
+            0.3336307903989085,
+            0.8551154350452495
+        ]
+    },
+    "0.37292245714037325-3-195": {
+        "average clique similarity": 0.37292245714037325,
+        "clique": [
+            "2-Black lives do not m",
+            "3-All people s lives m",
+            "4-But the case differe"
+        ],
+        "median tf-idf score": 0.10552694850747106,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "Black lives do not matter.",
+            "All people\u2019s lives matter.",
+            "But the case differed from many other   incidents that helped intensify the Black Lives Matter movement."
+        ],
+        "tf-idf score": [
+            0.10552694850747106,
+            0.09914467621167825,
+            0.19341896996592517
+        ]
+    },
+    "0.38101155302944917-4-208": {
+        "average clique similarity": 0.38101155302944917,
+        "clique": [
+            "2-Liang  who was convi",
+            "3-Former Officer Peter",
+            "1-Brooklyn Supreme Cou",
+            "0-  Brooklyn Supreme C"
+        ],
+        "median tf-idf score": 1.104716368281998,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Liang, who was convicted in February of manslaughter and official misconduct in the shooting death of an unarmed black man in 2014, was sentenced Tuesday to five years of probation and community service after the judge in the case reduced his conviction from manslaughter to criminally negligent homicide moments before sentencing.",
+            "Former Officer Peter Liang will not serve any time in prison for fatally shooting an unarmed man in a Brooklyn housing project stairwell two years ago, but was instead sentenced on Tuesday to probation and community service.",
+            "Brooklyn Supreme Court Judge Danny Chun sentenced Liang to five years probation and 800 hours of community service.",
+            "\u201d Brooklyn Supreme Court Justice Danny Chun largely followed   in sentencing   Peter Liang to five years probation and 800 hours of community service for the death of Akai Gurley."
+        ],
+        "tf-idf score": [
+            1.2962871404193719,
+            1.1604796797192622,
+            0.7179843981528283,
+            1.0489530568447336
+        ]
+    },
+    "0.3926200472880721-3-299": {
+        "average clique similarity": 0.3926200472880721,
+        "clique": [
+            "0-The shot was an acci",
+            "3- The shot was accide",
+            "2- The shot was an acc"
+        ],
+        "median tf-idf score": 0.2892488003895018,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The shot was an accident,\u2019\u2019 the    insisted.",
+            "\u201cThe shot was accidental,\u201d he said.",
+            "\u201cThe shot was an accident."
+        ],
+        "tf-idf score": [
+            0.2892488003895018,
+            0.45954455062642185,
+            0.28050055198863577
+        ]
+    },
+    "0.39575638800855306-3-299": {
+        "average clique similarity": 0.39575638800855306,
+        "clique": [
+            "2- This was not an int",
+            "1-This was an act of c",
+            "3- This was not an int"
+        ],
+        "median tf-idf score": 0.2860992979325944,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201cThis was not an intentional act.",
+            "This was an act of criminal negligence.",
+            "\u201cThis was not an intentional act,\u201d the judge said."
+        ],
+        "tf-idf score": [
+            0.2717428525003392,
+            0.2860992979325944,
+            0.5184699369478782
+        ]
+    },
+    "0.4374321250534481-3-267": {
+        "average clique similarity": 0.4374321250534481,
+        "clique": [
+            "4- There is no evidenc",
+            "3-  It was at that poi",
+            "0-There is  no evidenc"
+        ],
+        "median tf-idf score": 0.7309397215738666,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201dThere is no evidence, circumstantially or otherwise, that the defendant was aware of Akai Gurley\u2019s presence,\u201d he said.",
+            "\u201d It was at that point that Justice Chun announced that he was going to reduce the manslaughter verdict, saying there was no evidence that Mr Liang was even aware of Mr Gurley\u2019s presence in the stairwell.",
+            "There is \u201cno evidence, either direct or circumstantial, that the defendant was aware of Akai Gurley\u2019s presence and therefore disregarded any risk [to him],\u2019\u2019 Chun explained."
+        ],
+        "tf-idf score": [
+            0.7309397215738666,
+            1.128082142335258,
+            0.6505879842076819
+        ]
+    },
+    "0.4400749205788657-4-120": {
+        "average clique similarity": 0.4400749205788657,
+        "clique": [
+            "1- Shooting that gun a",
+            "3-  He added that on t",
+            "2-   Shooting somebody",
+            "0- Shooting somebody n"
+        ],
+        "median tf-idf score": 0.39991110201013663,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cShooting that gun and killing somebody was probably the last thing on his mind.",
+            "\u201d He added that on that November night two years ago, shooting Mr Gurley was \u201cprobably the last thing\u201d on Mr Liang\u2019s mind.",
+            "\u201d \u201cShooting somebody never entered his mind,\u201d Chun said.",
+            "\u201cShooting somebody never entered his mind,\u2019\u2019 Chun said."
+        ],
+        "tf-idf score": [
+            0.41995013074617416,
+            0.9976470364136818,
+            0.3798720732740991,
+            0.3798720732740991
+        ]
+    },
+    "0.44483816347308897-3-1": {
+        "average clique similarity": 0.44483816347308897,
+        "clique": [
+            "2- I m not a man of ma",
+            "0- I m not a man of ma",
+            "4-Chun said he had rec"
+        ],
+        "median tf-idf score": 0.5027680873058209,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cI\u2019m not a man of many words,\u201d Liang said.",
+            "\u201cI\u2019m not a man of many words.",
+            "Chun said he had received 40, 000 letters in support of Liang, though many were identical."
+        ],
+        "tf-idf score": [
+            0.5027680873058209,
+            0.06377445914617438,
+            0.5606840543340339
+        ]
+    },
+    "0.5141506866096245-3-299": {
+        "average clique similarity": 0.5141506866096245,
+        "clique": [
+            "1- As I watched the vi",
+            "3-Speaking after the h",
+            "0-The judge said he ag"
+        ],
+        "median tf-idf score": 0.8634391533828122,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cAs I watched the video of the defendant entering the lobby of the Pink Houses, I couldn\u2019t help but get the impression that he was entering with a serious mind of doing his job of protecting the people,\u201d Chun said.",
+            "Speaking after the hearing, Mr Shechtman said he was pleased with the sentence and understood the disappointment of Mr Gurley\u2019s family.",
+            "The judge said he agreed with Thompson\u2019s   recommendation because \u201cas I watched the video of the defendant entering the lobby of the Pink Houses, I couldn\u2019t help but feel he was entering with the serious mind of protecting the people."
+        ],
+        "tf-idf score": [
+            0.7960022507872158,
+            0.8956469903424866,
+            0.8634391533828122
+        ]
+    },
+    "0.7527221808114114-3-209": {
+        "average clique similarity": 0.7527221808114114,
+        "clique": [
+            "1-The shooting was an ",
+            "4- My life is forever ",
+            "3- My life has forever"
+        ],
+        "median tf-idf score": 0.27117234629605713,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The shooting was an accident  \u2026    My life has forever changed.",
+            "\u201dMy life is forever changed,\u201d he said.",
+            "\u201cMy life has forever changed."
+        ],
+        "tf-idf score": [
+            0.41180280692272264,
+            0.27117234629605713,
+            0.11045663383011345
+        ]
+    }
+}

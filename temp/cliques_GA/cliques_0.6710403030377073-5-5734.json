@@ -1,0 +1,122 @@
+{
+    "0.23781561893593098-3-5": {
+        "average clique similarity": 0.23781561893593098,
+        "clique": [
+            "2-News of Abrini s arr",
+            "0-The  man in the hat ",
+            "3-He was arrested Frid"
+        ],
+        "median tf-idf score": 1.1988219509754705,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "News of Abrini's arrest comes one day after the government released a video in which they reconstructed the movements made by the man from the airport, with police laying out his motions in the city for some two hours after the bombs exploded.",
+            "The \"man in the hat\" left the airport shortly after the twin suicide bombings and was tracked on CCTV for several miles into the city center. On Thursday, investigators released new video footage of him and urged people to look for his discarded coat. Wearing glasses and a hat, he had been very difficult to identify from the footage showing him pushing a laden luggage trolley alongside the two who blew themselves up with similar bags.",
+            "He was arrested Friday in the Schaerbeek section of Brussels, not far from the apartment where he and his collaborators left for the airport on the morning of the attacks. \"After being confronted with the results of the different expert examinations, he confessed his presence at the crime scene,\" the federal prosecutor said in a statement."
+        ],
+        "tf-idf score": [
+            0.7885134743414738,
+            1.1988219509754705,
+            1.2348897986062242
+        ]
+    },
+    "0.26438139655704523-3-55": {
+        "average clique similarity": 0.26438139655704523,
+        "clique": [
+            "3-  PARIS       The Be",
+            "1- Arrested terror sus",
+            "2-Belgian prosecutors "
+        ],
+        "median tf-idf score": 1.604218324069715,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "  PARIS  --   The Belgian federal prosecutor confirmed Saturday that Mohamed Abrini  --   who was arrested Friday afternoon  --   was the \"man in the hat\" captured in surveillance footage alongside two suicide bombers at Brussels Airport on March 22.",
+            " Arrested terror suspect Mohamed Abrini has been positively identified as the \"man in the hat\" wanted in connection with the bombing last month at the Brussels Airport, Belgian prosecutors said Saturday.",
+            "Belgian prosecutors made an official announcement of Abrini's arrest late Friday, local time, with spokesman Thierry Werts saying that police are \"continuing to determine\" whether Abrini, 31, is also the \"man in the hat\"  --   a suspect wearing a white raincoat and a fishing hat, who has been wanted for questioning since security cameras showed him walking alongside two suicide bombers at the Brussels airport."
+        ],
+        "tf-idf score": [
+            1.6450808017602472,
+            1.3788759731608273,
+            1.604218324069715
+        ]
+    },
+    "0.2713522307458172-3-32": {
+        "average clique similarity": 0.2713522307458172,
+        "clique": [
+            "2- Two days before the",
+            "4-Abrini had been soug",
+            "0-Four days after the "
+        ],
+        "median tf-idf score": 1.1655464657918881,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\"Two days before the Paris attacks Abrini was seen together with Salah Abdeslam, as he drove his friend to the French capital. They were photographed at a filling station in Ressons along the motorway bound for Paris.",
+            "Abrini had been sought by Belgian and French authorities after he was caught on video with Salah Abdeslam at a gas station on the road to Paris two days before the Nov. 13 attacks there.",
+            "Four days after the March 18 arrest of Salah Abdeslam, with whom Abrini was seen driving towards Paris two days before the Paris attacks, brothers Brahim and Khalid El Bakraoui and a third local man Najim Laachraoui killed 32 people at Brussels airport and on a metro line running under EU institutions."
+        ],
+        "tf-idf score": [
+            1.0837815140338902,
+            1.1655464657918881,
+            1.8144947563613845
+        ]
+    },
+    "0.30413088126035026-3-70": {
+        "average clique similarity": 0.30413088126035026,
+        "clique": [
+            "0-Mohamed Abrini  want",
+            "4-A jihadist wanted fo",
+            "2-Public broadcaster R"
+        ],
+        "median tf-idf score": 1.4317983450191942,
+        "publications": [
+            "Breitbart",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Mohamed Abrini, wanted over November's Islamic State attacks in Paris, has been arrested in Brussels, Belgium's public broadcasters said on Friday, adding that he was probably involved in last month's Brussels bombings.",
+            "A jihadist wanted for the terror attacks in Paris and believed to be the third Brussels airport attacker  --   the   \"man in the hat\"  --   was caught in Belgium Friday along with at least one other suspect, officials said.",
+            "Public broadcaster RTBF also says Abrini may be the \"man in the hat\" wanted in connection to last month's bombings in Brussels."
+        ],
+        "tf-idf score": [
+            1.4815893894223842,
+            1.4317983450191942,
+            0.7859837408557551
+        ]
+    },
+    "0.3386822412481203-3-70": {
+        "average clique similarity": 0.3386822412481203,
+        "clique": [
+            "0-Abrini  a    Belgian",
+            "1-The Federal Prosecut",
+            "4-Mohamed Abrini  31  "
+        ],
+        "median tf-idf score": 1.2491727608030219,
+        "publications": [
+            "Breitbart",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Abrini, a    Belgian, was \"more than likely\" the \"man in the hat\" seen on security camera footage at Brussels airport on March 22 with two suicide bombers, VRT and RTBF said on their websites, citing unidentified sources.",
+            "The Federal Prosecutor's Office in Brussels said Abrini confessed to being the third man present at Brussels Airport during the March 22 suicide bombings there.",
+            "Mohamed Abrini, 31, was \"more than likely\" the man seen in surveillance video at the Brussels airport on March 22 walking with suicide bombers Ibrahim   and Najim Laachraoui, VRT and RTBF reported."
+        ],
+        "tf-idf score": [
+            1.4670880765037053,
+            0.9881963742254078,
+            1.2491727608030219
+        ]
+    }
+}

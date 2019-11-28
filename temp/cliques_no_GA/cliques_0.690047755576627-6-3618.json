@@ -1,0 +1,2938 @@
+{
+    "0.11723649544245635-3-119": {
+        "average clique similarity": 0.11723649544245635,
+        "clique": [
+            "2-At a venue just off ",
+            "3-Trump called it a te",
+            "1-I just saw a clip of"
+        ],
+        "median tf-idf score": 0.43739213372278185,
+        "publications": [
+            "NPR",
+            "National Review",
+            "Atlantic"
+        ],
+        "sentences": [
+            "At a venue just off the famous Las Vegas Strip, that moment  \u2014   in which the GOP nominee bucked centuries of American political tradition  \u2014   was the only real gamble of the night.",
+            "Trump called it a terrible thing \u201dto think you can rip the baby out of the womb of the mother, just prior to the birth\u201d.",
+            "I just saw a clip of the speech now."
+        ],
+        "tf-idf score": [
+            0.43739213372278185,
+            0.5300842546614122,
+            0.03536571893744124
+        ]
+    },
+    "0.12191281308011143-3-852": {
+        "average clique similarity": 0.12191281308011143,
+        "clique": [
+            "0-With tens of million",
+            "2-The first 45 minutes",
+            "5-He was far more disc"
+        ],
+        "median tf-idf score": 0.7534775195966109,
+        "publications": [
+            "CNN",
+            "National Review",
+            "Guardian"
+        ],
+        "sentences": [
+            "With tens of millions watching, he did little to change the trajectory of the race.",
+            "The first 45 minutes showcased Trump at his sharpest: Offering a reminder of the potential for an outsider candidate, he used plainspoken arguments to aggressively prosecute Clinton as a failed political insider incapable of bringing change to the country.",
+            "He was far more disciplined for much of the debate, and did his best to avoid taking Clinton\u2019s bait, showing restraint as he and Clinton debated the Supreme Court, the Second Amendment, abortion and the economy."
+        ],
+        "tf-idf score": [
+            0.05769290874462196,
+            0.7959535658379316,
+            0.7534775195966109
+        ]
+    },
+    "0.1244377525398352-3-1720": {
+        "average clique similarity": 0.1244377525398352,
+        "clique": [
+            "1-  My one criticism o",
+            "3- Donald thinks belit",
+            "2-As for China  she sa"
+        ],
+        "median tf-idf score": 0.7665415784726022,
+        "publications": [
+            "National Review",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d My one criticism of Wallace\u2019s   is the one Paul Krugman lays out in more detail here.",
+            "\u201dDonald thinks belittling women makes him bigger,\u201d Clinton said in one of her strongest moments of the debate.",
+            "As for China, she said, one of the biggest problems is their illegal dumping of steel and aluminum in the U S \u201cDonald has bought Chinese steel and aluminum  \u2014   in fact, the Trump Hotel right here in Las Vegas was made with Chinese steel,\u201d Clinton said."
+        ],
+        "tf-idf score": [
+            0.06954072326271418,
+            0.7665415784726022,
+            1.2353224707166333
+        ]
+    },
+    "0.12579060760233615-3-1106": {
+        "average clique similarity": 0.12579060760233615,
+        "clique": [
+            "0-For far too long  th",
+            "1-To a first order of ",
+            "3-I don t want to see "
+        ],
+        "median tf-idf score": 0.33191146837791874,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "For far too long, the Republican candidate has let the campaign be about the circus and not about policy.",
+            "To a first order of approximation, everything that Donald Trump has said about his opponents should be understood as projection, in the psychological sense of the term.",
+            "I don\u2019t want to see the deportation force that Donald has talked about in action in our country\u201d."
+        ],
+        "tf-idf score": [
+            0.33191146837791874,
+            0.7078694434010205,
+            0.27813629912158044
+        ]
+    },
+    "0.13035620999568495-3-1110": {
+        "average clique similarity": 0.13035620999568495,
+        "clique": [
+            "1-From the opening mom",
+            "2-  It was Clinton s s",
+            "0-The major takeaway f"
+        ],
+        "median tf-idf score": 0.5581847446554276,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "Guardian"
+        ],
+        "sentences": [
+            "From the opening moments of the first debate, she sent out a a nonstop stream of provocations, subtle or obvious, all tailored to wounding Trump\u2019s vanities.",
+            "\u201d It was Clinton\u2019s strongest moment of the debate\u2019s first half.",
+            "The major takeaway from the debate is that, barring a stunning revelation of the type that Hillary Clinton is a secret member of Isis, she will be the next president of the United States."
+        ],
+        "tf-idf score": [
+            0.5718661300915505,
+            0.5581847446554276,
+            0.5427522271454646
+        ]
+    },
+    "0.1313917647751156-3-775": {
+        "average clique similarity": 0.1313917647751156,
+        "clique": [
+            "1-They re quite someth",
+            "0-  For her part  Hill",
+            "4-So once he was warne"
+        ],
+        "median tf-idf score": 0.5856536491056381,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "They\u2019re quite something, starting with numerous lascivious Trump comments about his daughter Ivanka.",
+            "\u201d For her part, Hillary stayed calm and cool, avoiding any serious errors and hitting Trump on his major weaknesses, from his misogynistic comments about women to his perceived lack of presidential temperament.",
+            "So once he was warned just how dangerous his comments are here, Trump doubled down."
+        ],
+        "tf-idf score": [
+            0.42178521475947073,
+            0.6853827319363549,
+            0.5856536491056381
+        ]
+    },
+    "0.1391741750506592-3-672": {
+        "average clique similarity": 0.1391741750506592,
+        "clique": [
+            "5-Clinton noted that T",
+            "1-Not this group ",
+            "4-It was not impressiv"
+        ],
+        "median tf-idf score": 0.16747663275147512,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "Clinton noted that Trump had implied at several rallies that he could not have made inappropriate advances toward the women because they were not sufficiently attractive.",
+            "Not this group.",
+            "It was not impressive."
+        ],
+        "tf-idf score": [
+            0.7458627281750163,
+            0.01193673620170587,
+            0.16747663275147512
+        ]
+    },
+    "0.14069607025823114-3-257": {
+        "average clique similarity": 0.14069607025823114,
+        "clique": [
+            "1-Now 23 days and a fe",
+            "2-Still  up until that",
+            "4-The Facebook Live vi"
+        ],
+        "median tf-idf score": 0.5231033662780354,
+        "publications": [
+            "National Review",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "Now 23 days and a few hours until the election.",
+            "Still, up until that point, Trump was clearly ahead on points.",
+            "The Facebook Live video, however, suggests that Trump\u2019s team isn\u2019t even bothering to wait until after the election to pull this off."
+        ],
+        "tf-idf score": [
+            0.13311433696807543,
+            0.585221117416095,
+            0.5231033662780354
+        ]
+    },
+    "0.14278160170692003-3-2070": {
+        "average clique similarity": 0.14278160170692003,
+        "clique": [
+            "3- I will tell you at ",
+            "2-  When Wallace remin",
+            "1-You have probably he"
+        ],
+        "median tf-idf score": 0.551918211852282,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "National Review"
+        ],
+        "sentences": [
+            "\u201dI will tell you at the time,\u201d Trump said in a shocking statement that signals a break from the traditional transfer of power.",
+            "\u201d When Wallace reminded Trump of America\u2019s tradition of peaceful transitions of power, and pressed for a more specific answer, Trump replied: \u201dI\u2019ll keep you in suspense.",
+            "You have probably heard about the power of the first lady\u2019s speech, in New Hampshire, on the implications of Donald Trump\u2019s   rhetoric and behavior."
+        ],
+        "tf-idf score": [
+            0.6504191797462969,
+            0.551918211852282,
+            0.5009322730928508
+        ]
+    },
+    "0.14485632528775447-3-2242": {
+        "average clique similarity": 0.14485632528775447,
+        "clique": [
+            "0-As Clinton made clea",
+            "3-The two candidates d",
+            "2-  RELATED  Tonight s"
+        ],
+        "median tf-idf score": 0.6402638250297149,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "National Review"
+        ],
+        "sentences": [
+            "As Clinton made clear tonight, it\u2019s about women everywhere.",
+            "The two candidates did have bitter exchanges over the allegations from multiple women who say Trump groped them or made unwanted sexual advances.",
+            "\u201d RELATED: Tonight\u2019s Debate Perfectly Summed Up the State of the Race, Everything changed, though, moments later, when Wallace announced that he wanted a discussion about the candidates\u2019 fitness to serve as president  \u2014   and began by asking Trump about the numerous recent allegations of sexual assault by a host of women."
+        ],
+        "tf-idf score": [
+            0.3532271433717664,
+            0.6402638250297149,
+            1.0169707229672693
+        ]
+    },
+    "0.14532613485413773-3-1569": {
+        "average clique similarity": 0.14532613485413773,
+        "clique": [
+            "2-  When Wallace press",
+            "3-The relatively cordi",
+            "0-  She said the intel"
+        ],
+        "median tf-idf score": 0.8015313535379106,
+        "publications": [
+            "Guardian",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d When Wallace pressed Clinton on her advocacy of \u201copen trade and open borders\u201d in a 2013 speech  \u2014   revealed in the hacked   of Clinton campaign manager John Podesta published by WikiLeaks  \u2014   she answered feebly that her remarks were in reference to energy policy, before shifting the focus to U S intelligence agencies\u2019 claims that the Russian government had stolen and leaked the   to meddle in the U S election.",
+            "The relatively cordial discussion on immigration reform quickly devolved into talk of the email hack into Clinton\u2019s campaign chairman\u2019s account that U S intelligence has said was done by Russian entities.",
+            "\u201d She said the intelligence agencies blamed   cyberattacks on Russia."
+        ],
+        "tf-idf score": [
+            0.8015313535379106,
+            0.8525239601961421,
+            0.1935590256321418
+        ]
+    },
+    "0.14587541331248682-3-2436": {
+        "average clique similarity": 0.14587541331248682,
+        "clique": [
+            "3-Putin has outsmarted",
+            "1-But she sounded as i",
+            "2-After promising not "
+        ],
+        "median tf-idf score": 0.20592054821545666,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "National Review"
+        ],
+        "sentences": [
+            "Putin has outsmarted her in Syria, he has outsmarted her every step of the way\u201d.",
+            "But she sounded as if she were talking around the issue, in the way her critics assume her always to do.",
+            "After promising not to add \u201ca penny\u201d to the debt, Clinton touted her the economic growth and fiscal responsibility characteristic of her husband\u2019s administration."
+        ],
+        "tf-idf score": [
+            0.20592054821545666,
+            0.09680352206241268,
+            0.3080496520472396
+        ]
+    },
+    "0.1461317398075767-3-635": {
+        "average clique similarity": 0.1461317398075767,
+        "clique": [
+            "4-Unfortunately  it s ",
+            "2- There s only one of",
+            "1-CLINTON  There is a "
+        ],
+        "median tf-idf score": 0.38791716241822577,
+        "publications": [
+            "National Review",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Unfortunately, it\u2019s just not convincing on the presidential stage  \u2014   especially because Trump has a lot of troubling ties to Russia, while Clinton doesn\u2019t.",
+            "\u201cThere\u2019s only one of us on this stage who has actually shipped jobs to Mexico,\u201d Clinton replied.",
+            "CLINTON: There is a lot of evidence about the very good work ."
+        ],
+        "tf-idf score": [
+            0.7947961093230037,
+            0.38791716241822577,
+            0.2572437629730867
+        ]
+    },
+    "0.14627346957008708-3-1814": {
+        "average clique similarity": 0.14627346957008708,
+        "clique": [
+            "4-When asked if there ",
+            "2- The problem is you ",
+            "0-Trump proceeded to m"
+        ],
+        "median tf-idf score": 0.5158041012060897,
+        "publications": [
+            "Vox",
+            "National Review",
+            "Guardian"
+        ],
+        "sentences": [
+            "When asked if there is anything to the rumors, Bannon responded with a smile and said, \u201dTrump is an entrepreneur\u201d.",
+            "\u201cThe problem is you talk but you don\u2019t get anything done, Hillary.",
+            "Trump proceeded to make a fool of himself: \u201cIf you go with what Hillary is saying,\u201d he began, \u201c ."
+        ],
+        "tf-idf score": [
+            0.5712701166735009,
+            0.08644918805466348,
+            0.5158041012060897
+        ]
+    },
+    "0.14757773094281587-3-1183": {
+        "average clique similarity": 0.14757773094281587,
+        "clique": [
+            "5-Clinton and Trump al",
+            "4- It s over ",
+            "3-Clinton explained th"
+        ],
+        "median tf-idf score": 0.5014632113436545,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "Clinton and Trump also bitterly sparred over the theme of who is qualified to be president.",
+            " It\u2019s over.",
+            "Clinton explained that she was upset over the District of Columbia v. Heller decision because the nation\u2019s capital was trying to protect toddlers who might injure themselves or others from guns."
+        ],
+        "tf-idf score": [
+            0.6406581709047852,
+            0.0,
+            0.5014632113436545
+        ]
+    },
+    "0.15121420631485893-3-1302": {
+        "average clique similarity": 0.15121420631485893,
+        "clique": [
+            "5-Two other states tha",
+            "1-And I think the Repu",
+            "4-So many states are p"
+        ],
+        "median tf-idf score": 0.11879119938291517,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "Two other states that have voted almost exclusively Republican for decades, Utah and Arizona, are now considered battlegrounds.",
+            "And I think the Republican establishment will regret the choice so many of its members are making now.",
+            "So many states are putting very stringent regulations on women that block them from exercising that choice to the extent that they are defunding Planned Parenthood, which, of course, provides all kinds of cancer screenings and other benefits for women in our country."
+        ],
+        "tf-idf score": [
+            0.11786269722508134,
+            0.11879119938291517,
+            0.3104486335089226
+        ]
+    },
+    "0.15239461986647176-3-1037": {
+        "average clique similarity": 0.15239461986647176,
+        "clique": [
+            "3-Clinton said she did",
+            "2-RELATED  No  Trump D",
+            "4-I didn t see these w"
+        ],
+        "median tf-idf score": 0.4189115168422512,
+        "publications": [
+            "National Review",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "Clinton said she didn\u2019t want to \u201drip families apart.",
+            "RELATED: No, Trump Didn\u2019t Get It Done Tonight, Clinton wouldn\u2019t let that rhetorical maneuver slide.",
+            "I didn\u2019t see these women."
+        ],
+        "tf-idf score": [
+            0.4189115168422512,
+            0.6452349803015421,
+            0.11049375063849134
+        ]
+    },
+    "0.15306627791260133-3-1167": {
+        "average clique similarity": 0.15306627791260133,
+        "clique": [
+            "1-It was one day befor",
+            "2-But it was unsuccess",
+            "0-His line of question"
+        ],
+        "median tf-idf score": 0.3622676020060674,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "Guardian"
+        ],
+        "sentences": [
+            "It was one day before some of his GOP supporters began peeling off.",
+            "But it was unsuccessful she kept the focus on Trump\u2019s negatives, reverting to the    tactic of rattling off the GOP nominee\u2019s   history of insulting practically every voting bloc in the electorate.",
+            "His line of questioning, particularly when it came to the Clinton Foundation, kept Hillary off balance."
+        ],
+        "tf-idf score": [
+            0.25743798481694763,
+            0.6972094211278215,
+            0.3622676020060674
+        ]
+    },
+    "0.15330125014289667-3-955": {
+        "average clique similarity": 0.15330125014289667,
+        "clique": [
+            "2-  The debate ended w",
+            "4-The first question o",
+            "0-But she also fumbled"
+        ],
+        "median tf-idf score": 0.5244617905617545,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "National Review"
+        ],
+        "sentences": [
+            "\u201d The debate ended with a whimper, as the candidates offered few specifics to questions about the national debt, entitlement spending, and the humanitarian crisis in Syria.",
+            "The first question of the debate was about the Supreme Court  \u2014   perhaps the biggest issue of the election.",
+            "But she also fumbled needlessly, at one point answering a question about Syria by saying the US must work with \u201cAmerican Muslim communities who are on the front lines to identify and prevent attacks,\u201d then awkwardly following up with a  : \u201cThe killer of the dozens of people at the nightclub in Orlando was born in Queens, the same place Donald was born."
+        ],
+        "tf-idf score": [
+            0.2851716572815784,
+            0.5244617905617545,
+            0.5359269905120084
+        ]
+    },
+    "0.1543075141633397-3-378": {
+        "average clique similarity": 0.1543075141633397,
+        "clique": [
+            "5-Calm start  The show",
+            "1-Or assume from the s",
+            "4-When I saw what they"
+        ],
+        "median tf-idf score": 0.21401299009348826,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "Calm start, The showdown began in a more civil and calm way than the two previous debates, in which Trump and Clinton repeatedly flung sharp, bitter jabs at one another.",
+            "Or assume from the start that the opposition will oppose, and begin by asking for more than you can get?",
+            "When I saw what they did, which is a criminal act, by the way, where they\u2019re telling people to go out and start fistfights and start violence, I tell you what, in particular in Chicago, people were hurt and people could have been killed in that riot."
+        ],
+        "tf-idf score": [
+            0.8526625894164092,
+            0.03633139268205229,
+            0.21401299009348826
+        ]
+    },
+    "0.15441195321134032-3-494": {
+        "average clique similarity": 0.15441195321134032,
+        "clique": [
+            "1-Trump says that Hill",
+            "2-  Clinton  in turn  ",
+            "3-She continued   So w"
+        ],
+        "median tf-idf score": 0.7028499441763887,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "Trump says that Hillary Clinton is secretive and scheming, and she too has her moments.",
+            "\u201d Clinton, in turn, argued that Trump\u2019s response illustrated a larger character failing: \u201cHe never apologizes or says he\u2019s sorry for anything.",
+            "She continued: \u201dSo we now know what Donald thinks and what he says and how he acts toward women."
+        ],
+        "tf-idf score": [
+            0.8246991990079211,
+            0.7028499441763887,
+            0.2978107038034988
+        ]
+    },
+    "0.15447303336786378-3-177": {
+        "average clique similarity": 0.15447303336786378,
+        "clique": [
+            "3-Here are some of the",
+            "1-  That s the title o",
+            "4-In fact  in the past"
+        ],
+        "median tf-idf score": 0.1480058494737021,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Here are some of the key moments of the debate: A huge cloud that hung over the past week were Trump\u2019s repeated claims that the election is \u201drigged\u201d.",
+            "\u201d That\u2019s the title of a WaPo essay this week by Robert Kagan.",
+            "In fact, in the past week, People magazine published a   article corroborating much of one accuser\u2019s claims."
+        ],
+        "tf-idf score": [
+            0.7387906024331415,
+            0.039700882973570266,
+            0.1480058494737021
+        ]
+    },
+    "0.1569454002576043-3-1742": {
+        "average clique similarity": 0.1569454002576043,
+        "clique": [
+            "5-He added   I will ke",
+            "4-And that will happen",
+            "1-See you in court "
+        ],
+        "median tf-idf score": 0.03654782721306385,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "He added: \u201dI will keep you in suspense\u201d.",
+            "And that will happen automatically in my opinion because I\u2019m putting   justices on the Court.",
+            "See you in court."
+        ],
+        "tf-idf score": [
+            0.029801967561528912,
+            0.0879290960186618,
+            0.03654782721306385
+        ]
+    },
+    "0.15696828036506816-3-1670": {
+        "average clique similarity": 0.15696828036506816,
+        "clique": [
+            "0-He began it by sayin",
+            "5-We ve accepted the o",
+            "1-A textbook example i"
+        ],
+        "median tf-idf score": 0.30612967310030115,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "He began it by saying Mexicans were rapists, and he continued in that vein the final debate, saying: \u201cWe have some bad hombres here and we have to get them out\u201d  \u2014   using a    dogwhistle to stoke sexual fears of Latino men.",
+            "We\u2019ve accepted the outcomes when we may not have liked them.",
+            "A textbook example is provided by President George Bush Sr. whose concession speech included the following statement: \u201cHere\u2019s the way we see it and the country should see it \u2014  that the people have spoken and we respect the majesty of the democratic system."
+        ],
+        "tf-idf score": [
+            0.3179645807565142,
+            0.019757766768982818,
+            0.30612967310030115
+        ]
+    },
+    "0.15771616520464024-3-401": {
+        "average clique similarity": 0.15771616520464024,
+        "clique": [
+            "3-The GOP nominee pres",
+            "2-  Trump wasn t just ",
+            "0-Admirably  Clinton k"
+        ],
+        "median tf-idf score": 0.7667348532496994,
+        "publications": [
+            "Guardian",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "The GOP nominee pressed Clinton again on her deleted emails from her private server when she was at the State Department.",
+            "\u201d Trump wasn\u2019t just hitting the right notes to mobilize GOP voters, he was consistently putting Clinton her heels.",
+            "Admirably, Clinton kept her cool throughout, particularly Trump when spoke over her to call her \u201csuch a nasty woman\u201d."
+        ],
+        "tf-idf score": [
+            0.5421568511975758,
+            0.8756788469020831,
+            0.7667348532496994
+        ]
+    },
+    "0.15997464439374656-3-54": {
+        "average clique similarity": 0.15997464439374656,
+        "clique": [
+            "4-She should not be al",
+            "2-And yet Trump let Cl",
+            "1-He let the chants ru"
+        ],
+        "median tf-idf score": 0.06337775427472973,
+        "publications": [
+            "National Review",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "She should not be allowed to run.",
+            "And yet Trump let Clinton off the hook and allowed the conversation to settle on Russia.",
+            "He let the chants run for a few seconds."
+        ],
+        "tf-idf score": [
+            0.02850421196518292,
+            0.649929554869927,
+            0.06337775427472973
+        ]
+    },
+    "0.16055086540989372-3-1218": {
+        "average clique similarity": 0.16055086540989372,
+        "clique": [
+            "5-He s down eight poin",
+            "3-The debate kicked of",
+            "1-On the merits as I u"
+        ],
+        "median tf-idf score": 0.3183121069616896,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "He\u2019s down eight points in the latest CNN Poll of Polls and is nearly out of time to launch what would have to be one of the most remarkable comebacks of modern times.",
+            "The debate kicked off with a discussion between the candidates of what kind of justices they would appoint to the Supreme Court, showcasing a wide divide between them on two of the most   issues  \u2014   gun control and abortion.",
+            "On the merits as I understand them, most of the \u201cpay for play\u201d with the Clinton Foundation is stuck in the realm of \u201clingering questions\u201d and \u201cgives rise to questionable appearances,\u201d rather than of anyone having nailed down a   ."
+        ],
+        "tf-idf score": [
+            0.16876595008816017,
+            0.42648027536439115,
+            0.3183121069616896
+        ]
+    },
+    "0.162620482364535-3-1224": {
+        "average clique similarity": 0.162620482364535,
+        "clique": [
+            "4-He also pointed out ",
+            "1-My Social Security p",
+            "3-That comment quickly"
+        ],
+        "median tf-idf score": 0.21101763782103936,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "He also pointed out Trump\u2019s social media prowess on Facebook and Twitter.",
+            "My Social Security payroll contribution will go up, as will Donald\u2019s, assuming he can\u2019t figure out how to get out of it.",
+            "That comment quickly blew up on social media after the debate, with many interpreting it as a racial slur."
+        ],
+        "tf-idf score": [
+            0.4423490752009817,
+            0.10395336967452488,
+            0.21101763782103936
+        ]
+    },
+    "0.1644520602257595-3-822": {
+        "average clique similarity": 0.1644520602257595,
+        "clique": [
+            "5-And I for one  am ap",
+            "1-So  for Chris Wallac",
+            "4-I tell you one other"
+        ],
+        "median tf-idf score": 0.10544318372221918,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "And I for one, am appalled that somebody who is the nominee of one of our two major parties would take that kind of position\u201d.",
+            "So, for Chris Wallace: if you\u2019d swapped even one of your deficit questions for a climate one, it would have been an even better job.",
+            "I tell you one other thing."
+        ],
+        "tf-idf score": [
+            0.10544318372221918,
+            0.14317785850155584,
+            0.05544506757781478
+        ]
+    },
+    "0.16536897389558247-3-703": {
+        "average clique similarity": 0.16536897389558247,
+        "clique": [
+            "3-Clinton used this as",
+            "5-Trump s debate perfo",
+            "1-  This in turn gave "
+        ],
+        "median tf-idf score": 0.6558515480333351,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Clinton used this as a chance to attack Trump over not releasing his tax returns, a break from every other modern presidential candidate.",
+            "Trump\u2019s debate performance could doom his chance to win over any remaining undecided voters at this late stage in the campaign.",
+            "\u201d This in turn gave her a chance to start talking about his objectively   foundation."
+        ],
+        "tf-idf score": [
+            0.7439536549824949,
+            0.6558515480333351,
+            0.08425207791360427
+        ]
+    },
+    "0.16545967880128623-3-283": {
+        "average clique similarity": 0.16545967880128623,
+        "clique": [
+            "1-If Mr Trump disagree",
+            "2-Trump responded that",
+            "5-Trump said he had ne"
+        ],
+        "median tf-idf score": 0.7614736605974759,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "National Review"
+        ],
+        "sentences": [
+            "If Mr Trump disagrees, if he believes that American citizens had no right to hear what those women had to say and that the law of this country forces us and those who would dare to criticize him to stand silent or be punished, we welcome the opportunity to have a court set him straight.",
+            "Trump responded that Clinton\u2019s husband had also signed NAFTA, which he said had decimated the American manufacturing industry, and warned that she secretly supports the   Partnership, which he implied would flood the American market with cheap,   products.",
+            "Trump said he had never met Putin but allowed that the Russian leader had said nice things about him, and said it would be good if Washington and Moscow worked together to fight ISIS But he added: \u201dThis is not my best friend\u201d."
+        ],
+        "tf-idf score": [
+            0.7614736605974759,
+            0.8612327784221074,
+            0.7338644969258022
+        ]
+    },
+    "0.1674187916347314-3-19": {
+        "average clique similarity": 0.1674187916347314,
+        "clique": [
+            "2-More 2016 Presidenti",
+            "1-moment from the Trum",
+            "3-The final presidenti"
+        ],
+        "median tf-idf score": 1.0959010787799093,
+        "publications": [
+            "NPR",
+            "National Review",
+            "Atlantic"
+        ],
+        "sentences": [
+            "More 2016 Presidential Debates Five Abortion FactsKrauthammer\u2019s Take: Rigging the Presidential Election \u2018Would Require an Enormous Conspiracy\u2019Chris Wallace Was Right about How to Moderate a Debate After AllBut any points Trump might have scored down the debate\u2019s home stretch were negated when Wallace broached the topic Trump has hammered in recent days: a \u201crigged election.",
+            "moment from the Trump campaign:  his suggestion today in New Hampshire that the candidates take a drug test before the third and final presidential debate.",
+            "The final presidential debate between Hillary Clinton and Donald Trump was overall more cordial and more   than their nasty second debate faceoff."
+        ],
+        "tf-idf score": [
+            1.2217299695645405,
+            0.7460944615353771,
+            1.0959010787799093
+        ]
+    },
+    "0.1674734296747488-3-139": {
+        "average clique similarity": 0.1674734296747488,
+        "clique": [
+            "1-Propose a  compromis",
+            "5-The Republican nomin",
+            "0-He refused to say if"
+        ],
+        "median tf-idf score": 0.3070481294678222,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "Propose a \u201ccompromise\u201d measure \u2014  on health insurance, gun control, taxes, a Supreme Court nominee, whatever \u2014  in hopes that you\u2019ll win over some of the opposition?",
+            "The Republican nominee doubled down on his comments about the election Thursday during a rally in Delaware, Ohio, where he said he would accept the results \u201dif I win\u201d.",
+            "He refused to say if he\u2019ll accept the results of the election, stating: \u201cI\u2019ll tell you at the time, I\u2019ll keep you in suspense."
+        ],
+        "tf-idf score": [
+            0.19873345164483072,
+            0.45055757059353674,
+            0.3070481294678222
+        ]
+    },
+    "0.16884764412721276-3-1961": {
+        "average clique similarity": 0.16884764412721276,
+        "clique": [
+            "2-She promised to purs",
+            "3- I think we are both",
+            "1-days to go "
+        ],
+        "median tf-idf score": 0.3082240053522854,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "She promised to pursue comprehensive immigration reform, an issue that has bitterly divided the GOP over the past decade, during her first 100 days in office.",
+            "\u201dI think we are both a nation of immigrants and we are a nation of laws, and that we can act accordingly and that\u2019s why I am introducing comprehensive immigration reform within the first hundred days with a path to citizenship,\u201d Clinton promised.",
+            "days to go."
+        ],
+        "tf-idf score": [
+            0.3082240053522854,
+            0.38670726276525,
+            0.02962874681893432
+        ]
+    },
+    "0.17008862347014686-3-2235": {
+        "average clique similarity": 0.17008862347014686,
+        "clique": [
+            "0-For years he has sty",
+            "4-  It was a reference",
+            "1-The first is that Do"
+        ],
+        "median tf-idf score": 0.6416348037354481,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "For years he has styled himself as the world\u2019s greatest   Winner.",
+            "\u201d It was a reference to the reports that Trump once wrote off a loss so large that he may not have paid taxes for as much as 18 years.",
+            "The first is that Donald Trump still has not released his tax forms, although he effectively conceded last night that he has paid no federal income tax for years."
+        ],
+        "tf-idf score": [
+            0.18297845282243266,
+            0.6416348037354481,
+            0.64999597002809
+        ]
+    },
+    "0.1704860206804927-3-768": {
+        "average clique similarity": 0.1704860206804927,
+        "clique": [
+            "4-Because she should n",
+            "0-At which point  Trum",
+            "3- Should have gotten "
+        ],
+        "median tf-idf score": 0.4128457680823109,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Because she should never    Chris, she should never have been allowed to run for the presidency based on what she did with emails and so many other things.",
+            "At which point, Trump leaned into his microphone and said: \u201cShould have gotten it.",
+            "\u201dShould have gotten it,\u201d Trump interjected, still apparently holding a grudge for the snub of The Apprentice."
+        ],
+        "tf-idf score": [
+            0.10951233644289396,
+            0.5610734666964429,
+            0.4128457680823109
+        ]
+    },
+    "0.17123549626388015-3-373": {
+        "average clique similarity": 0.17123549626388015,
+        "clique": [
+            "5-Clinton blasted Trum",
+            "2-On a range of differ",
+            "4-And she was forced t"
+        ],
+        "median tf-idf score": 1.0744585890294327,
+        "publications": [
+            "National Review",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "Clinton blasted Trump as a \u201dpuppet\u201d of Putin and directly called on him to condemn what she said was a Russian effort to use cyberattacks to influence the election in her opponent\u2019s favor.",
+            "On a range of different issues  \u2014   guns,   abortion, her former support for a border fence, and a speech in which she called for \u201copen trade and open borders\u201d  \u2014   Trump dictated the tempo and forced Clinton to confront subjects that she was endeavoring to pivot away from.",
+            "And she was forced to apologize, and apologize she did."
+        ],
+        "tf-idf score": [
+            1.1459955716777124,
+            1.0744585890294327,
+            0.18676437006868526
+        ]
+    },
+    "0.17306860798410872-3-1133": {
+        "average clique similarity": 0.17306860798410872,
+        "clique": [
+            "0-That s not acceptabl",
+            "5- That is not the way",
+            "4-CLINTON  Well  that "
+        ],
+        "median tf-idf score": 0.22845023998715946,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "That\u2019s not acceptable.",
+            "\u201dThat is not the way our democracy works,\u201d Clinton said.",
+            "CLINTON: Well, that is not what happens in these cases."
+        ],
+        "tf-idf score": [
+            0.006225529180057454,
+            0.41457150998871034,
+            0.22845023998715946
+        ]
+    },
+    "0.17354624500268387-3-295": {
+        "average clique similarity": 0.17354624500268387,
+        "clique": [
+            "3-While Pence has said",
+            "1-I will bet    oh  le",
+            "4-And that no matter h"
+        ],
+        "median tf-idf score": 0.26636259430926684,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "While Pence has said that the campaign will accept the results on Nov. 8, Trump struck a very different and shocking tone on Wednesday night.",
+            "I will bet \u2014  oh, let\u2019s say, a trillion dollars \u2014  that when someone looks back on the 2016 campaign and asks, \u201cWhat\u2019s a major   danger that got shockingly little attention in the campaign?\u201d the answer is not going to be \u201cthe federal budget deficit.",
+            "And that no matter how   a campaign is, that at the end of the campaign that the loser concedes to the winner."
+        ],
+        "tf-idf score": [
+            0.830357597763443,
+            0.26636259430926684,
+            0.11402047466803696
+        ]
+    },
+    "0.17441631540264513-3-1308": {
+        "average clique similarity": 0.17441631540264513,
+        "clique": [
+            "0-He needed a big nigh",
+            "1- He is that big alph",
+            "5-She continued   He i"
+        ],
+        "median tf-idf score": 0.044399994000611294,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "He needed a big night  \u2014   and he got one.",
+            "\u201cHe is that big alpha male.",
+            "She continued: \u201dHe is denigrating    he\u2019s talking down    our democracy."
+        ],
+        "tf-idf score": [
+            0.06203620866201333,
+            0.01602837505472681,
+            0.044399994000611294
+        ]
+    },
+    "0.17691975054281994-3-796": {
+        "average clique similarity": 0.17691975054281994,
+        "clique": [
+            "0-He accused US forces",
+            "1-What s hardest for a",
+            "4-I think that would b"
+        ],
+        "median tf-idf score": 0.0662655772318462,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "He accused US forces of attacking Isis in Mosul simply to help Clinton get elected, before giving us his Cliffs Notes on the city.",
+            "What\u2019s hardest for any president would be simply impossible for him, as he reminds us yet again today.",
+            "I think that would be a great benefit to us."
+        ],
+        "tf-idf score": [
+            0.3169942029918766,
+            0.0662655772318462,
+            0.04808646450718253
+        ]
+    },
+    "0.1799076249792921-3-489": {
+        "average clique similarity": 0.1799076249792921,
+        "clique": [
+            "1-In context  this did",
+            "4-And I didn t even ap",
+            "5-Trump didn t have mu"
+        ],
+        "median tf-idf score": 0.5493242046745588,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "In context, this didn\u2019t \u201cmatter,\u201d because so much else was going her way, and because Trump jumped in after a minute with a standard    accusation that the Clinton Foundation was \u201ca criminal enterprise.",
+            "And I didn\u2019t even apologize to my wife, who is sitting right here, because I didn\u2019t do anything.",
+            "Trump didn\u2019t have much margin for error going into the debate."
+        ],
+        "tf-idf score": [
+            0.8823012282626144,
+            0.05774139607163716,
+            0.5493242046745588
+        ]
+    },
+    "0.18130353998029455-3-813": {
+        "average clique similarity": 0.18130353998029455,
+        "clique": [
+            "4-But Clinton s answer",
+            "2-But it s not okay wi",
+            "0-But all this was not"
+        ],
+        "median tf-idf score": 0.17279529253479867,
+        "publications": [
+            "Vox",
+            "National Review",
+            "Guardian"
+        ],
+        "sentences": [
+            "But Clinton\u2019s answer did not come off as convincing.",
+            "But it\u2019s not okay with me.",
+            "But all this was not nearly enough."
+        ],
+        "tf-idf score": [
+            0.24709799526631882,
+            0.020676793421334945,
+            0.17279529253479867
+        ]
+    },
+    "0.18151497295349603-3-276": {
+        "average clique similarity": 0.18151497295349603,
+        "clique": [
+            "5- Everybody  includin",
+            "1-As noted back in ins",
+            "4-Those people  I don "
+        ],
+        "median tf-idf score": 0.20364243651755387,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201dEverybody, including Al Gore in 2000, waits to see what those election results are,\u201d she later added.",
+            "As noted back in installment #134, Daniel Nichanian of the University of Chicago has been keeping a running update of the elected GOP officials in several groups: those who \u201ccriticize\u201d Trump but still endorse him (the \u201cfull Ryan\u201d) those who actually have   him, and those who withdrew support after last week\u2019s tape but, incredibly, have crawled back.",
+            "Those people, I don\u2019t know those people."
+        ],
+        "tf-idf score": [
+            0.20364243651755387,
+            0.6905267641332565,
+            0.09545090162138514
+        ]
+    },
+    "0.18209276456518286-3-2019": {
+        "average clique similarity": 0.18209276456518286,
+        "clique": [
+            "1-That statement by Ni",
+            "2-we will make a deter",
+            "3-He repeated the need"
+        ],
+        "median tf-idf score": 0.43325524116239605,
+        "publications": [
+            "National Review",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "That statement by Nixon was one of two crucial acknowledgments in modern times of process over person, country over party, by people who (in their very different circumstances) would have preferred to stay and fight.",
+            "we will make a determination as for the rest\u201d of the people who remain in the country illegally.",
+            "He repeated the need for strict border controls during the debate: \u201dIn the audience tonight we have four mothers of, I mean these are unbelievable people that I\u2019ve gotten to know over a period of years, whose children have been killed, brutally killed, by people that came into the country illegally."
+        ],
+        "tf-idf score": [
+            0.43325524116239605,
+            0.1814932583541584,
+            0.546630589056383
+        ]
+    },
+    "0.18590729962562005-3-1151": {
+        "average clique similarity": 0.18590729962562005,
+        "clique": [
+            "4-And in this case  it",
+            "0-Roe v Wade is meant ",
+            "3-Even when pressed by"
+        ],
+        "median tf-idf score": 0.18977958412647417,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "And in this case, it\u2019s not only about Roe v. Wade.",
+            "Roe v Wade is meant to protect women\u2019s right to abortion up until \u201cfetal viability\u201d which in Planned Parenthood v Casey, in 1992, was defined as 23 or 24 weeks or earlier.",
+            "Even when pressed by Wallace, he wouldn\u2019t say whether he wants Roe v. Wade to be overturned."
+        ],
+        "tf-idf score": [
+            0.05376603868397453,
+            0.48779500134998843,
+            0.18977958412647417
+        ]
+    },
+    "0.18629597935693076-3-1580": {
+        "average clique similarity": 0.18629597935693076,
+        "clique": [
+            "4-The lighting was poo",
+            "3-But both Trump s dau",
+            "1-I just called Gov "
+        ],
+        "median tf-idf score": 0.19179987952351388,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "The lighting was poor, the sound was messy, and the show featured former Arizona Gov.",
+            "But both Trump\u2019s daughter Ivanka and his running mate, Indiana Gov.",
+            "I just called Gov."
+        ],
+        "tf-idf score": [
+            0.19179987952351388,
+            0.40131380108951414,
+            0.02073236932392378
+        ]
+    },
+    "0.1880599543432999-3-1329": {
+        "average clique similarity": 0.1880599543432999,
+        "clique": [
+            "5-  CNN  Donald Trump ",
+            "4-There will be no mor",
+            "0-On Wednesday night  "
+        ],
+        "median tf-idf score": 0.8476782642718873,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            " (CNN) Donald Trump on Wednesday refused to say he would accept the result of the presidential election if he loses to Hillary Clinton, raising the possibility of an extraordinary departure from principles that have underpinned American democracy for more than two centuries.",
+            "There will be no more presidential debates between Hillary Clinton and Donald Trump.",
+            "On Wednesday night, in the last presidential debate of what has been an emotional tornado of a campaign, Hillary Clinton spoke directly to women."
+        ],
+        "tf-idf score": [
+            1.062228226106795,
+            0.8476782642718873,
+            0.7773435195361119
+        ]
+    },
+    "0.18820313329462568-3-616": {
+        "average clique similarity": 0.18820313329462568,
+        "clique": [
+            "4-Enjoy   The ensuing ",
+            "1-So this stands on it",
+            "3-The two also defende"
+        ],
+        "median tf-idf score": 0.020760164425514236,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Enjoy!\u201d The ensuing show had its own anchors and guests.",
+            "So this stands on its own.",
+            "The two also defended their own family\u2019s charitable endeavors."
+        ],
+        "tf-idf score": [
+            0.020760164425514236,
+            0.014805096792473622,
+            0.030199093121766087
+        ]
+    },
+    "0.18824725860070754-3-2436": {
+        "average clique similarity": 0.18824725860070754,
+        "clique": [
+            "0-He came into the thi",
+            "1-Imagine the debate p",
+            "4-The final debate loo"
+        ],
+        "median tf-idf score": 0.2512066981518624,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "He came into the third and final presidential debate far behind in the polls.",
+            "Imagine the debate planning that would have Trump use the final few seconds of his final debate appearance thus: \u201cOur inner cities are a disaster.",
+            "The final debate looked, at first, like it could have been pretty normal."
+        ],
+        "tf-idf score": [
+            0.2512066981518624,
+            0.581516497502687,
+            0.216761429940553
+        ]
+    },
+    "0.18854391054042965-3-2097": {
+        "average clique similarity": 0.18854391054042965,
+        "clique": [
+            "5-CNN Reality Check  D",
+            "1-That was Trump s com",
+            "0- There was even a ti"
+        ],
+        "median tf-idf score": 0.8907845915813,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "CNN Reality Check, Democratic nominee Hillary Clinton, who is leading Trump in most polls, said her competitor\u2019s remarks were \u201dhorrifying\u201d and accused him of taking refuge in the idea that any event that turns out against him    even an Emmy award that goes to a rival    is \u201drigged\u201d.",
+            "That was Trump\u2019s comment about 30 minutes in that if he were president, Hillary Clinton would be in jail.",
+            "\u201cThere was even a time when he didn\u2019t get an Emmy for his TV program three years in a row and he started tweeting that the Emmys were rigged,\u201d said Hillary Clinton."
+        ],
+        "tf-idf score": [
+            1.0482181762913316,
+            0.8907845915813,
+            0.7291705350766424
+        ]
+    },
+    "0.1885807621518333-4-927": {
+        "average clique similarity": 0.1885807621518333,
+        "clique": [
+            "3-The Las Vegas debate",
+            "0-Unlike previous mode",
+            "2-RELATED  Trump s Bes",
+            "5-But Trump seemed to "
+        ],
+        "median tf-idf score": 0.8732095839905554,
+        "publications": [
+            "CNN",
+            "NPR",
+            "National Review",
+            "Guardian"
+        ],
+        "sentences": [
+            "The Las Vegas debate, moderated by Chris Wallace of Fox News, focused more on issues facing the country compared with the two previous events.",
+            "Unlike previous moderators, Chris Wallace was willing to properly challenge both Trump and Clinton.",
+            "RELATED: Trump\u2019s Best Debate So Far   \u2026     And His Worst, Having clearly prepared for this final audition, Trump was crisp and rhetorically polished in responding to an opening volley of policy questions from moderator Chris Wallace of Fox News.",
+            "But Trump seemed to lose his cool as the debate went on, harshly criticizing Clinton and occasionally getting testy with the debate moderator, Chris Wallace of Fox News."
+        ],
+        "tf-idf score": [
+            0.4005432867593983,
+            0.8695099968780835,
+            0.9746800474000133,
+            0.8769091711030272
+        ]
+    },
+    "0.1903398274864202-3-1439": {
+        "average clique similarity": 0.1903398274864202,
+        "clique": [
+            "0-Donald Trump came to",
+            "3-His   stance came af",
+            "1-    This is the cont"
+        ],
+        "median tf-idf score": 0.5894642346324441,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Donald Trump came to this behind in the polls and reeling after weeks of negative media coverage.",
+            "His   stance came after a week in which he has ramped up talk that the election is \u201drigged\u201d in favor of Clinton, even as national polls and surveys in battleground states show the Democratic nominee opening up a consistent lead.",
+            "*** This is the context in which to view Donald Trump\u2019s willfully destructive \u201cElection is rigged!\u201d complaints, as he descends to an irretrievable position in the polls."
+        ],
+        "tf-idf score": [
+            0.5310119097605894,
+            0.6796634667616771,
+            0.5894642346324441
+        ]
+    },
+    "0.19155733790627524-3-757": {
+        "average clique similarity": 0.19155733790627524,
+        "clique": [
+            "3-That s who Donald is",
+            "1-What Trump is doing ",
+            "5-And that is what is "
+        ],
+        "median tf-idf score": 0.25585306011844955,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "That\u2019s who Donald is.",
+            "What Trump is doing is new.",
+            "And that is what is expected of anyone standing on a debate stage during a general election\u201d."
+        ],
+        "tf-idf score": [
+            0.04794185624079589,
+            0.39039589350928033,
+            0.25585306011844955
+        ]
+    },
+    "0.19177785255691257-3-184": {
+        "average clique similarity": 0.19177785255691257,
+        "clique": [
+            "1-The other  of course",
+            "3- I was at Little Hai",
+            "5-That s a flawed comp"
+        ],
+        "median tf-idf score": 0.40358296340038885,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "The other, of course, was Al Gore\u2019s decision to accept the Supreme Court\u2019s politically driven decision to stop the Florida recount and effectively declare George W Bush president in 2000.",
+            "\u201dI was at Little Haiti the other day in Florida and I want to tell you they hate the Clintons,\u201d he said.",
+            "That\u2019s a flawed comparison, however, since Gore\u2019s fate was in the hands of an automatic recount due to the narrow margin of George W Bush\u2019s lead in Florida."
+        ],
+        "tf-idf score": [
+            0.40358296340038885,
+            0.6405769062087837,
+            0.268500605843412
+        ]
+    },
+    "0.19410362639627188-3-1398": {
+        "average clique similarity": 0.19410362639627188,
+        "clique": [
+            "4-And it s weird that ",
+            "3-But he did say that ",
+            "1- Why would you assum"
+        ],
+        "median tf-idf score": 0.23641768800553248,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "And it\u2019s weird that Trump would emphasize that he did not apologize to his wife over this whole scandal.",
+            "But he did say that the justices he would appoint would overturn Roe and the decision would be sent back to the states.",
+            "\u201cWhy would you assume this would change when he is in office?\u201d To say it again: Nothing remotely like any of this has happened before."
+        ],
+        "tf-idf score": [
+            0.4020960437639161,
+            0.17826282180443687,
+            0.23641768800553248
+        ]
+    },
+    "0.1967262119720652-3-452": {
+        "average clique similarity": 0.1967262119720652,
+        "clique": [
+            "5- What Donald Trump h",
+            "2- He has no respect f",
+            "1-The standard through"
+        ],
+        "median tf-idf score": 0.861126300836228,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "National Review"
+        ],
+        "sentences": [
+            "\u201dWhat Donald Trump has said, over time, if you take all of his statements together, he has said that he will respect the results of the election,\u201d said Kellyanne Conway, although she argued what he\u2019s saying is not without precedent.",
+            "\u201cHe has no respect for this person,\u201d Trump said, pointing to Clinton.",
+            "The standard throughout this Time Capsule series has been: what is happening in this Age of Trump that has not happened before in our politics."
+        ],
+        "tf-idf score": [
+            0.9371706772310432,
+            0.861126300836228,
+            0.5795640796524941
+        ]
+    },
+    "0.1972904522543231-3-2436": {
+        "average clique similarity": 0.1972904522543231,
+        "clique": [
+            "1-Every inaugural spee",
+            "5-The stance threatens",
+            "4-WALLACE  Sir  there "
+        ],
+        "median tf-idf score": 0.25593487434393625,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "Every inaugural speech, by every one of the first 44 U S presidents, has struck the theme of peaceful transfer of power, and a regard for institutions whose health and integrity transcend even the deepest political disagreements.",
+            "The stance threatens to cast doubt on one of the fundamental principles of American politics    the peaceful, undisputed transfer of power from one president to a successor who is recognized as legitimate after winning an election.",
+            "WALLACE: Sir, there is a tradition in this country, in fact one of the prides of this country is the peaceful transition of power."
+        ],
+        "tf-idf score": [
+            0.25593487434393625,
+            0.2765622607388013,
+            0.16682519294510725
+        ]
+    },
+    "0.1975361881184411-3-512": {
+        "average clique similarity": 0.1975361881184411,
+        "clique": [
+            "4-But that the loser c",
+            "3-And he also argued t",
+            "2-He pointed to women "
+        ],
+        "median tf-idf score": 0.33096478095068976,
+        "publications": [
+            "NPR",
+            "Vox",
+            "National Review"
+        ],
+        "sentences": [
+            "But that the loser concedes to the winner, and that the country comes together in part for the good of the country.",
+            "And he also argued that the border problem was contributing to the drug and opioid crisis in the country by allowing them to pour over the border.",
+            "He pointed to women in attendance whose children were murdered by illegal immigrants, promising to secure the border and rid the country of foreign criminals."
+        ],
+        "tf-idf score": [
+            0.11822226088731164,
+            0.33096478095068976,
+            0.33153872747164354
+        ]
+    },
+    "0.19789629584553695-3-2055": {
+        "average clique similarity": 0.19789629584553695,
+        "clique": [
+            "4-Our country  it s so",
+            "0-  What we ve all see",
+            "3-I think it s really "
+        ],
+        "median tf-idf score": 0.3539345060529485,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "Our country, it\u2019s so, so, just so imperative that we have the right justices.",
+            "\u201d What we\u2019ve all seen from Trump is so bad, but he somehow managed to be even worse on stage in Las Vegas.",
+            "I think it\u2019s really up to all of us to demonstrate who we are and who our country is, and to stand up and be very clear about what we expect from our next president, how we want to bring our country together, where we don\u2019t want to have the kind of pitting of people one against the other where instead we celebrate our diversity, we lift people up, and we make our country even greater."
+        ],
+        "tf-idf score": [
+            0.11843135491980067,
+            0.47127755266792803,
+            0.3539345060529485
+        ]
+    },
+    "0.19932330660257067-3-733": {
+        "average clique similarity": 0.19932330660257067,
+        "clique": [
+            "1-But in context you c",
+            "2- Why don t you give ",
+            "0- You talk but you do"
+        ],
+        "median tf-idf score": 0.1039858367448342,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "National Review"
+        ],
+        "sentences": [
+            "But in context you can give him this.]",
+            "\u201cWhy don\u2019t you give that money back?\u201d Trump challenged her.",
+            "\u201cYou talk but you don\u2019t get anything done Hillary,\u201d he later added."
+        ],
+        "tf-idf score": [
+            0.005774859717234847,
+            0.39131261673344303,
+            0.1039858367448342
+        ]
+    },
+    "0.20223954567880284-3-2436": {
+        "average clique similarity": 0.20223954567880284,
+        "clique": [
+            "1-Now the U S Supreme ",
+            "2-He deftly used the o",
+            "4-Trump immediately tu"
+        ],
+        "median tf-idf score": 0.2058976246845472,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "Vox"
+        ],
+        "sentences": [
+            "Now the U S Supreme Court has spoken.",
+            "He deftly used the opening subjects  \u2014   the Supreme Court, immigration, the economy  \u2014   to speak directly to critical elements of the Republican base.",
+            "Trump immediately turned the question to himself:  The Supreme Court, it\u2019s what it\u2019s all about."
+        ],
+        "tf-idf score": [
+            0.17117987587904918,
+            0.2058976246845472,
+            0.4753019419731645
+        ]
+    },
+    "0.20636392615259433-3-893": {
+        "average clique similarity": 0.20636392615259433,
+        "clique": [
+            "0- No  you re the pupp",
+            "4-You just said you wa",
+            "3- I see no conflict b"
+        ],
+        "median tf-idf score": 0.2657459835626868,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201cNo, you\u2019re the puppet.",
+            "You just said you want to see the Court protect the Second Amendment.",
+            "\u201dI see no conflict between saving people\u2019s lives and defending the Second Amendment,\u201d the Democratic nominee said."
+        ],
+        "tf-idf score": [
+            0.03821998025023662,
+            0.2657459835626868,
+            0.3127989087908376
+        ]
+    },
+    "0.2095863358719177-3-525": {
+        "average clique similarity": 0.2095863358719177,
+        "clique": [
+            "1-With two and a half ",
+            "0-Now  at the peak of ",
+            "3- I will look at it a"
+        ],
+        "median tf-idf score": 0.18615408661318353,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "With two and a half weeks to go, the debate phase of the competition is at last at its end.",
+            "Now, at the peak of his celebrity, the GOP nominee is staring at the cold, hard prospect of defeat.",
+            "\u201dI will look at it at the time,\u201d Trump said."
+        ],
+        "tf-idf score": [
+            0.18615408661318353,
+            0.1141031405256402,
+            0.5770401036700598
+        ]
+    },
+    "0.21007259457745653-4-1539": {
+        "average clique similarity": 0.21007259457745653,
+        "clique": [
+            "2-As Wallace granted t",
+            "0-The only thing the m",
+            "3-But the stunning mom",
+            "5-Trump s remark about"
+        ],
+        "median tf-idf score": 0.8460409392724205,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "NPR",
+            "National Review"
+        ],
+        "sentences": [
+            "As Wallace granted the candidates a closing statement, and reminded Americans of their sacred responsibility to vote, it was apparent that Trump\u2019s remarks about the election results would dominate the   coverage.",
+            "The only thing the media will talk about in the hours and days after the debate will be Trump\u2019s refusal to say he will accept the results of the election, making him appear small, petty and conspiratorial.",
+            "But the stunning moment that will stand out is the GOP nominee\u2019s statement that he won\u2019t necessarily accept the results of the election on Nov. 8.",
+            "Trump\u2019s remark about the election result is certain to dominate the aftermath of the debate with only 19 days to go before the election, and it seemed likely to overshadow the GOP\u2019s nominee\u2019s strongest performance in any of the three presidential debates."
+        ],
+        "tf-idf score": [
+            0.8944242242646975,
+            0.8481847896643379,
+            0.31693172130324104,
+            0.8438970888805032
+        ]
+    },
+    "0.2130272519504699-3-1649": {
+        "average clique similarity": 0.2130272519504699,
+        "clique": [
+            "2-  Please  everybody ",
+            "4-WALLACE  Secretary C",
+            "1-    CROSSTALK  WALLA"
+        ],
+        "median tf-idf score": 0.2677906301152628,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "Vox"
+        ],
+        "sentences": [
+            "(\u201cPlease, everybody,\u201d Wallace warned the crowd.)",
+            "WALLACE: Secretary Clinton?",
+            ".. (CROSSTALK) WALLACE: Please let Mr Trump speak."
+        ],
+        "tf-idf score": [
+            0.07747973091158941,
+            0.2677906301152628,
+            0.45721418551838205
+        ]
+    },
+    "0.21356155175070843-3-1905": {
+        "average clique similarity": 0.21356155175070843,
+        "clique": [
+            "4-I have to say that ",
+            "5-We have had free and",
+            "3-We have no country i"
+        ],
+        "median tf-idf score": 0.1034428331177048,
+        "publications": [
+            "CNN",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "I have to say that.",
+            "We have had free and fair elections.",
+            "We have no country if we have no border."
+        ],
+        "tf-idf score": [
+            0.0452684546829253,
+            0.1034428331177048,
+            0.11037247052585505
+        ]
+    },
+    "0.21451059574353523-3-1941": {
+        "average clique similarity": 0.21451059574353523,
+        "clique": [
+            "1-The logic of  birthe",
+            "4-She is the one      ",
+            "5-Trump replied that P"
+        ],
+        "median tf-idf score": 0.5946841053156863,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "The logic of \u201cbirtherism,\u201d with Trump as its most prominent exponent, was that Barack Obama had an illegitimate claim on office.",
+            "She is the one  \u2014   and Obama  \u2014   that caused the violence.",
+            "Trump replied that Putin had no respect for Clinton or President Barack Obama."
+        ],
+        "tf-idf score": [
+            0.5946841053156863,
+            0.02299599365420867,
+            0.6951022354738259
+        ]
+    },
+    "0.21659122276359874-3-655": {
+        "average clique similarity": 0.21659122276359874,
+        "clique": [
+            "5-The billionaire real",
+            "1-Back in her 2000 rac",
+            "4-And Clinton  for the"
+        ],
+        "median tf-idf score": 0.619772007461209,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "The billionaire reality    did a better job than in the first two debates of prosecuting Clinton\u2019s weaknesses, lambasting her over her record as secretary of state and the controversy over her private email server, and painting her as the symptom of a tired political establishment who had achieved nothing in her 30 years in public life.",
+            "Back in her 2000 race for the U S Senate from New York, polls suggested that Hillary Clinton was significantly helped rather than hurt when her opponent Rick Lazio did a very mild version of the   move by walking over very close to her during a debate.",
+            "And Clinton, for the first time on the debate stage, got very passionate in her response."
+        ],
+        "tf-idf score": [
+            0.619772007461209,
+            0.6735543451158478,
+            0.43761502490242676
+        ]
+    },
+    "0.2167774608366176-3-1212": {
+        "average clique similarity": 0.2167774608366176,
+        "clique": [
+            "2-The second half of t",
+            "1-Without further elab",
+            "5-The debate began to "
+        ],
+        "median tf-idf score": 0.24886497250126904,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "National Review"
+        ],
+        "sentences": [
+            "The second half of the debate wasn\u2019t without any highlights for the Republican nominee.",
+            "Without further elaboration, the outbreak of   war between the Republican nominee and the Republican establishment is unlike anything anyone has previously seen.",
+            "The debate began to take a turn when Trump and Clinton clashed over the Republican nominee\u2019s relationship with Russian President Vladimir Putin."
+        ],
+        "tf-idf score": [
+            0.24886497250126904,
+            0.2394260490856265,
+            0.9275122075069744
+        ]
+    },
+    "0.2170771609674255-3-973": {
+        "average clique similarity": 0.2170771609674255,
+        "clique": [
+            "4-CLINTON  I strongly ",
+            "1-Let s make him the m",
+            "3-On abortion  Clinton"
+        ],
+        "median tf-idf score": 0.5261525715090375,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "CLINTON: I strongly support Roe v. Wade, which guarantees a constitutional right to a woman to make the most intimate, most difficult in many cases decisions about her health care that one can imagine.",
+            "Let\u2019s make him the most powerful man in the world!",
+            "On abortion, Clinton reaffirmed her support for a \u201dwoman\u2019s right to choose\u201d and explained why she supported late abortions, arguing that such \u201dcases that fall at the end of pregnancy are often the most heartbreaking, painful decisions for families to make\u201d and that the government shouldn\u2019t be regulating \u201dthose most personal decisions\u201d."
+        ],
+        "tf-idf score": [
+            0.5261525715090375,
+            0.09583859956149408,
+            0.6152300669122551
+        ]
+    },
+    "0.21727544990413736-3-1048": {
+        "average clique similarity": 0.21727544990413736,
+        "clique": [
+            "1-She told me she woul",
+            "5-The election remarks",
+            "3-Mike Pence  have sai"
+        ],
+        "median tf-idf score": 0.47761067191087614,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "She told me she would be thinking of Mike as she watched the upcoming debates.",
+            "The election remarks also expose a divide with Republican vice presidential nominee Mike Pence, who told CNN\u2019s Wolf Blitzer before the debate, \u201dWe\u2019ll certainly accept the outcome of this election\u201d.",
+            "Mike Pence, have said recently that Trump would accept the election results."
+        ],
+        "tf-idf score": [
+            0.1555358428676513,
+            0.47761067191087614,
+            0.694417930755749
+        ]
+    },
+    "0.21970030236736315-4-1924": {
+        "average clique similarity": 0.21970030236736315,
+        "clique": [
+            "2-He even ended with a",
+            "0-I ve spent the elect",
+            "4-Women I ve known ove",
+            "3- Hillary  what you s"
+        ],
+        "median tf-idf score": 0.1402647099041023,
+        "publications": [
+            "National Review",
+            "Vox",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "He even ended with an effective,   line: \u201cThe one thing you\u2019ve got over me is experience.",
+            "I\u2019ve spent the election writing about the women who\u2019ve known Trump.",
+            "Women I\u2019ve known over the course of my life.",
+            "\u201dHillary, what you should\u2019ve done, you should\u2019ve changed the law when you were a United States senator."
+        ],
+        "tf-idf score": [
+            0.08708286900096847,
+            0.5977090402966412,
+            0.14384097296422896,
+            0.13668844684397566
+        ]
+    },
+    "0.2202906375927329-3-1114": {
+        "average clique similarity": 0.2202906375927329,
+        "clique": [
+            "2- That s a nice pivot",
+            "1-CLINTON  Well  it is",
+            "4-Who knows if Clinton"
+        ],
+        "median tf-idf score": 0.3530936342994036,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "National Review"
+        ],
+        "sentences": [
+            "\u201cThat\u2019s a nice pivot from \u2018open borders,\u2019\u201d Trump interrupted, smirking.",
+            "CLINTON: Well, it is an open discussion.",
+            "Who knows if Clinton secretly supports open borders?"
+        ],
+        "tf-idf score": [
+            0.485384151565202,
+            0.25197645923183604,
+            0.3530936342994036
+        ]
+    },
+    "0.22182305582893103-3-348": {
+        "average clique similarity": 0.22182305582893103,
+        "clique": [
+            "0-At one point  Clinto",
+            "2-  At that point  Cli",
+            "1-But at what point  i"
+        ],
+        "median tf-idf score": 0.3910670199621161,
+        "publications": [
+            "National Review",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "At one point, Clinton more or less said so.",
+            "\u201d At that point, Clinton chimed in to underline the moment: \u201cThat\u2019s horrifying.",
+            "But at what point, if any, are they obligated to disavow Trump?"
+        ],
+        "tf-idf score": [
+            0.3910670199621161,
+            0.29024702158956334,
+            0.40550367399330095
+        ]
+    },
+    "0.22215326844164285-3-985": {
+        "average clique similarity": 0.22215326844164285,
+        "clique": [
+            "4-I would say the only",
+            "3-Trump said he was   ",
+            "5-You are the puppet  "
+        ],
+        "median tf-idf score": 0.5497344748356133,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "I would say the only way, because the stories are all totally false.",
+            "Trump said he was \u201d \u201d and that the justices he would nominate are all \u201d \u201d.",
+            "You are the puppet,\u201d Trump said."
+        ],
+        "tf-idf score": [
+            0.10077919744246532,
+            0.7083884963243264,
+            0.5497344748356133
+        ]
+    },
+    "0.22295250658574897-3-1705": {
+        "average clique similarity": 0.22295250658574897,
+        "clique": [
+            "5-Treatment of women  ",
+            "0-But the evening was ",
+            "1-But just briefly  th"
+        ],
+        "median tf-idf score": 0.6802611580819539,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "Treatment of women, Clinton said that Trump\u2019s treatment of women was part of pattern of behavior that saw him insult a disabled reporter, go after the parents of a fallen Muslim soldier and question the impartiality of an American judge of Mexican descent.",
+            "But the evening was also a referendum on Trump\u2019s personal treatment of women.",
+            "But just briefly, the Clinton Foundation made it possible for 11 million people around the world with   to afford treatment, and that\u2019s about half all the people in the world who are getting treatment."
+        ],
+        "tf-idf score": [
+            1.1574787356613454,
+            0.6802611580819539,
+            0.36636409496121597
+        ]
+    },
+    "0.2234519243704416-3-506": {
+        "average clique similarity": 0.2234519243704416,
+        "clique": [
+            "3-Because your donors ",
+            "0-   It s one thing to",
+            "1-Can t tell your Trum"
+        ],
+        "median tf-idf score": 0.05022966703376227,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Because your donors and your special interests are doing the same thing as I do, except even more so\u201d.",
+            "\u201d  It\u2019s one thing to lose your   on Twitter.",
+            "Can\u2019t tell your Trump lineup without a scorecard."
+        ],
+        "tf-idf score": [
+            0.03444984358898129,
+            0.05022966703376227,
+            0.4040471386032071
+        ]
+    },
+    "0.22362443102423124-3-1411": {
+        "average clique similarity": 0.22362443102423124,
+        "clique": [
+            "1-CLINTON  Well  every",
+            "2-  Furthermore  she s",
+            "5-She said such tactic"
+        ],
+        "median tf-idf score": 0.48332197921435766,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "National Review"
+        ],
+        "sentences": [
+            "CLINTON: Well, everything I did as secretary of state was in furtherance of our country\u2019s interests and our values.",
+            "\u201d Furthermore, she said, Trump\u2019s sardonic suggestion that some of the women were too unattractive for him to bother assaulting is characteristic of his \u201cdark and dangerous vision for our country.",
+            "She said such tactics were in line with a divisive and very \u201ddangerous vision of our country\u201d."
+        ],
+        "tf-idf score": [
+            0.48332197921435766,
+            0.7402086221736079,
+            0.24004783424872508
+        ]
+    },
+    "0.2248669081297241-4-904": {
+        "average clique similarity": 0.2248669081297241,
+        "clique": [
+            "1-    He seems to igno",
+            "5-He goes after their ",
+            "4-I can tell you the g",
+            "0-He goes after their "
+        ],
+        "median tf-idf score": 0.30208154193682585,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            ".. \u201cHe seems to ignore their advice,\u201d Hayden said.",
+            "He goes after their dignity and their self worth,\u201d Clinton said.",
+            "I can tell you the government has no business in the decisions that women make with their families in accordance with their faith, with medical advice, and I will stand up for that right.",
+            "He goes after their dignity, their   and I don\u2019t think there\u2019s a woman anywhere who doesn\u2019t know what that feels like."
+        ],
+        "tf-idf score": [
+            0.1482066545504716,
+            0.3680195820757178,
+            0.41000961730382485,
+            0.2361435017979339
+        ]
+    },
+    "0.22521243401183608-3-483": {
+        "average clique similarity": 0.22521243401183608,
+        "clique": [
+            "0-Trump s campaign has",
+            "3-Trump s promise to d",
+            "2-Indeed  when Wallace"
+        ],
+        "median tf-idf score": 0.7032199898132806,
+        "publications": [
+            "NPR",
+            "National Review",
+            "Guardian"
+        ],
+        "sentences": [
+            "Trump\u2019s campaign has been that of an aggrieved white man, losing his place in the world, who is trying to scare his way back to power with racialized fears of the other.",
+            "Trump\u2019s promise to deport immigrants in the U S illegally and build a massive wall along the Mexican border has been one of his signature issues of this campaign.",
+            "Indeed, when Wallace turned to immigration  \u2014   the issue that fueled Trump\u2019s rise in the GOP primary and sustained much of the enthusiasm behind his candidacy  \u2014   Trump reiterated his promise to deport illegal immigrants who have committed crimes and to build a wall on the Southern border."
+        ],
+        "tf-idf score": [
+            0.6919989356694972,
+            0.715338822123888,
+            0.7032199898132806
+        ]
+    },
+    "0.22614906722589492-3-2436": {
+        "average clique similarity": 0.22614906722589492,
+        "clique": [
+            "1-We know all we need ",
+            "0-We had Mosul ",
+            "4-You know  we trade m"
+        ],
+        "median tf-idf score": 0.0570655136561368,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Vox"
+        ],
+        "sentences": [
+            "We know all we need to know.",
+            "We had Mosul.",
+            "You know, we trade more energy with our neighbors than we trade with the rest of the world combined."
+        ],
+        "tf-idf score": [
+            0.0570655136561368,
+            0.023134284354231854,
+            0.1109789401960459
+        ]
+    },
+    "0.22660296631587604-3-307": {
+        "average clique similarity": 0.22660296631587604,
+        "clique": [
+            "0-But this isn t just ",
+            "1- This isn t about po",
+            "4-This isn t coming fr"
+        ],
+        "median tf-idf score": 0.031234494365737105,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "But this isn\u2019t just about the women I interviewed  \u2014   Machado, Sheena Monnin, Jill Harth.",
+            "\u201cThis isn\u2019t about politics.",
+            "This isn\u2019t coming from me, from fury report and other places."
+        ],
+        "tf-idf score": [
+            0.1423963058555669,
+            0.01275345727223762,
+            0.031234494365737105
+        ]
+    },
+    "0.22707655053558454-3-2436": {
+        "average clique similarity": 0.22707655053558454,
+        "clique": [
+            "4-The exchange was not",
+            "1-People will look bac",
+            "0- I will look at it a"
+        ],
+        "median tf-idf score": 0.7127018539281197,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "The exchange was not reassuring:  TRUMP: Excuse me, Chris, if you look at your voter rolls, you will see millions of people registered to vote.",
+            "People will look back on this era in our history to see what was known about Donald Trump while Americans were deciding whether to choose him as president.",
+            "\u201cI will look at it at the time."
+        ],
+        "tf-idf score": [
+            0.7127018539281197,
+            0.7536582105643952,
+            0.06552560908468312
+        ]
+    },
+    "0.22793120896675298-3-2184": {
+        "average clique similarity": 0.22793120896675298,
+        "clique": [
+            "0- You have no idea ",
+            "3-They concluded there",
+            "1-CLINTON  Well  but t"
+        ],
+        "median tf-idf score": 0.18487964484730668,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cYou have no idea.",
+            "They concluded there was no case.",
+            "CLINTON: Well, but there is no \u2014  but there is no evidence \u2014  but there is ."
+        ],
+        "tf-idf score": [
+            0.017500762632238688,
+            0.18487964484730668,
+            0.21843458969701401
+        ]
+    },
+    "0.2279890930924624-3-2215": {
+        "average clique similarity": 0.2279890930924624,
+        "clique": [
+            "4-She shouldn t be all",
+            "1-He did run a strong ",
+            "0-The scriptwriters ha"
+        ],
+        "median tf-idf score": 0.035487475556553676,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "She shouldn\u2019t be allowed to run.",
+            "He did run a strong campaign.",
+            "The scriptwriters have run out of ideas."
+        ],
+        "tf-idf score": [
+            0.02850421196518292,
+            0.07571823285721595,
+            0.035487475556553676
+        ]
+    },
+    "0.23283111285663102-3-2436": {
+        "average clique similarity": 0.23283111285663102,
+        "clique": [
+            "3-The audience began t",
+            "4-At the top  moderato",
+            "1-    2  Moderator "
+        ],
+        "median tf-idf score": 0.13741631118736386,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The audience began to laugh at that statement, and moderator Chris Wallace had to quiet it down.",
+            "At the top, moderator Chris Wallace asked the candidates to clarify their stances on Roe v. Wade, the Supreme Court decision that effectively legalized abortion nationwide:  WALLACE: What I\u2019m asking you, sir, is do you want to see the Court overturn?",
+            "*** 2) Moderator."
+        ],
+        "tf-idf score": [
+            0.13741631118736386,
+            0.38683500302102,
+            0.013013196309171273
+        ]
+    },
+    "0.23303368171711644-3-1346": {
+        "average clique similarity": 0.23303368171711644,
+        "clique": [
+            "1-  And it was before ",
+            "5-Wallace pressed Trum",
+            "4-Trump s sexual assau"
+        ],
+        "median tf-idf score": 1.0297072792550253,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d And it was before the stream of   events in which more and more women have come forward to say that in fact he had kissed or groped them before Trump essentially declared war on the GOP establishment (along with the press and most other institutions) before members of that same GOP establishment retracted their criticism of Trump and crawled back to support him and before Trump responded to   allegations by saying, in effect, that these losers (including Hillary Clinton) aren\u2019t hot enough for him to have bothered with.",
+            "Wallace pressed Trump on why so many women had come forward to accuse him of sexual assault if the allegations were not true.",
+            "Trump\u2019s sexual assault allegations came up  \u2014   and Trump denied them completely     Over the past couple of weeks, the big election issue was the leaked 2005 tape showing Trump saying he can sexually assault women  \u2014   \u201cgrab \u2019em by the pussy\u201d  \u2014   because of his celebrity status and the several women who have come out and accused Trump of sexual misconduct and assault."
+        ],
+        "tf-idf score": [
+            1.2196104864049937,
+            0.6416835177183313,
+            1.0297072792550253
+        ]
+    },
+    "0.23403744037405047-3-1490": {
+        "average clique similarity": 0.23403744037405047,
+        "clique": [
+            "3-He said nice things ",
+            "0- Let me tell you   h",
+            "4-So let me just give "
+        ],
+        "median tf-idf score": 0.17463809868595054,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "He said nice things about me.",
+            "\u201cLet me tell you,\u201d he said, \u201cMosul is so sad.",
+            "So let me just give you one other thing as I talk about the corrupt media."
+        ],
+        "tf-idf score": [
+            0.17463809868595054,
+            0.2175084016621815,
+            0.09318001183136022
+        ]
+    },
+    "0.23434688713352506-3-2163": {
+        "average clique similarity": 0.23434688713352506,
+        "clique": [
+            "2-Unfortunately for Tr",
+            "1-No less an authority",
+            "0-In the final preside"
+        ],
+        "median tf-idf score": 0.7499698645031235,
+        "publications": [
+            "National Review",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "Unfortunately for Trump, the result was an evening that did little to alter the trajectory of an election now less than three weeks away.",
+            "No less an authority than Nigel Farage,   leader in the U K and now enthusiastic Trump backer, gave an interview in the spin room in which he said that Trump \u201clooked like a big silverback gorilla\u201d \u2014  and meant it as a compliment.",
+            "In the final presidential debate of the 2016 carnival, Trump refused to acknowledge that he might just need to play the role of the Loser, and accept the result of an election that is less than a month away."
+        ],
+        "tf-idf score": [
+            0.7499698645031235,
+            0.6239998871944772,
+            0.8282912734378058
+        ]
+    },
+    "0.23480090128868739-3-578": {
+        "average clique similarity": 0.23480090128868739,
+        "clique": [
+            "4-This is one of the w",
+            "0-Trump stuck to the i",
+            "1-    5  Trump s worst"
+        ],
+        "median tf-idf score": 0.41529722924069,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "This is one of the worst possible choices that any woman and her family has to make.",
+            "Trump stuck to the issues and forced Hillary to talk policy and  \u2014   quite frankly  \u2014   she had her worst debate performance.",
+            "*** 5) Trump\u2019s worst moment."
+        ],
+        "tf-idf score": [
+            0.2983917807845936,
+            0.695954650817574,
+            0.41529722924069
+        ]
+    },
+    "0.23741962218849477-3-2436": {
+        "average clique similarity": 0.23741962218849477,
+        "clique": [
+            "1-The reasoning of the",
+            "4-Trump was asked abou",
+            "3-Trump said that  the"
+        ],
+        "median tf-idf score": 0.6133508957806878,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "The reasoning of the Supreme Court\u2019s ruling was so nakedly   that the Court itself said that it should not be taken as a precedent in any future rulings.",
+            "Trump was asked about the Supreme Court.",
+            "Trump said that \u201dthe Supreme Court is what it\u2019s all about\u201d and that he would nominate justices who are \u201d  have a conservative bent, will protect the Second Amendment and interpret the Constitution the way the Founders wanted it\u201d."
+        ],
+        "tf-idf score": [
+            0.39247494482678535,
+            0.6133508957806878,
+            0.723957733118167
+        ]
+    },
+    "0.2402365827188735-3-1393": {
+        "average clique similarity": 0.2402365827188735,
+        "clique": [
+            "1-And why isn t what h",
+            "4-For those that don t",
+            "3- Because what happen"
+        ],
+        "median tf-idf score": 0.2624072320575529,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "And why isn\u2019t what happened and what went on between you and the Clinton Foundation, why isn\u2019t it what Mr Trump calls pay to play?",
+            "For those that don\u2019t know what this is about, read Vox\u2019s explainer on what happened with Ginsburg.",
+            "\u201dBecause what happened in Haiti with the Clinton Foundation is a disgrace\u201d."
+        ],
+        "tf-idf score": [
+            0.6648107723916573,
+            0.08852377019872769,
+            0.2624072320575529
+        ]
+    },
+    "0.2448606913663406-3-1798": {
+        "average clique similarity": 0.2448606913663406,
+        "clique": [
+            "4-Trump once again sug",
+            "1-And while Paul Ryan ",
+            "3-He said the Republic"
+        ],
+        "median tf-idf score": 0.7391721839001554,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Trump once again suggested that the election will be rigged     Later on in the debate, Wallace asked Trump about his baseless claims the election is \u201crigged\u201d against him.",
+            "And while Paul Ryan said today that he was \u201cfully confident\u201d in the election process and rejected the \u201crigged\u201d suspicions, he still supports Trump for president.",
+            "He said the Republican primary was rigged against him."
+        ],
+        "tf-idf score": [
+            0.7391721839001554,
+            0.9039250942520447,
+            0.3838260182103401
+        ]
+    },
+    "0.2532696770795249-3-929": {
+        "average clique similarity": 0.2532696770795249,
+        "clique": [
+            "1-On through the list ",
+            "2- That s because he d",
+            "5- That s because he w"
+        ],
+        "median tf-idf score": 1.0022692830325495,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "CNN"
+        ],
+        "sentences": [
+            "On through the list, as an AP story has usefully catalogued: Trump has said that Hillary Clinton is turning the campaign negative through personal attacks rather than policy.",
+            "\u201cThat\u2019s because he\u2019d rather have a puppet as president,\u201d Clinton shot back.",
+            "\u201dThat\u2019s because he would rather have a puppet as president of the United States,\u201d Clinton said, implying that Putin wanted Trump to win the election."
+        ],
+        "tf-idf score": [
+            1.021446006069837,
+            0.29156373176381195,
+            1.0022692830325495
+        ]
+    },
+    "0.25793581330193893-3-1881": {
+        "average clique similarity": 0.25793581330193893,
+        "clique": [
+            "3-He lost the Iowa cau",
+            "1-  In making this sta",
+            "0-We lost Mosul "
+        ],
+        "median tf-idf score": 0.04135654770046944,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "He lost the Iowa caucus he lost the Wisconsin primary.",
+            "\u201d In making this statement, President Bush signaled that the election was over and he lost fair and square.",
+            "We lost Mosul."
+        ],
+        "tf-idf score": [
+            0.04135654770046944,
+            0.358812723327769,
+            0.038392317400753495
+        ]
+    },
+    "0.2636637284032682-3-1721": {
+        "average clique similarity": 0.2636637284032682,
+        "clique": [
+            "2-He said he disapprov",
+            "3-America is great bec",
+            "4-It is about what s h"
+        ],
+        "median tf-idf score": 0.053933784583488915,
+        "publications": [
+            "National Review",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "He said he disapproved of the country\u2019s interference in the election  \u2014   and clarified that Vladimir Putin isn\u2019t his \u201cbest friend\u201d  \u2014   but said the Russian leader is right not to fear America\u2019s political class.",
+            "America is great because America is good.",
+            "It is about what\u2019s happening right now in America."
+        ],
+        "tf-idf score": [
+            0.4846846119171418,
+            0.03807883787656616,
+            0.053933784583488915
+        ]
+    },
+    "0.26458680897016956-3-1024": {
+        "average clique similarity": 0.26458680897016956,
+        "clique": [
+            "5-As the event wound d",
+            "4-The suggestion being",
+            "1-The topics ranged fr"
+        ],
+        "median tf-idf score": 0.7072613843505552,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "As the event wound down, Clinton said that under her economic plan, the payroll taxes of both herself and Trump would go up to ensure the solvency of Social Security    unless her rival could figure out a way to avoid paying taxes.",
+            "The suggestion being that if Trump got out of paying taxes before, he could dodge paying his Social Security taxes in the future, even if Clinton raises the payroll tax for the wealthy.",
+            "The topics ranged from his not really being rich, to being a man of the   world, to not paying taxes, to being a chronic liar, to generally being preposterous."
+        ],
+        "tf-idf score": [
+            0.915536807503872,
+            0.7072613843505552,
+            0.11040036303718559
+        ]
+    },
+    "0.2693372068530915-3-2436": {
+        "average clique similarity": 0.2693372068530915,
+        "clique": [
+            "1-But you don t have t",
+            "4-I certainly don t ",
+            "3-I don t get anything"
+        ],
+        "median tf-idf score": 0.017126963540750148,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "But you don\u2019t have to believe me, or her.",
+            "I certainly don\u2019t.",
+            "I don\u2019t get anything I don\u2019t buy boats, I don\u2019t buy planes\u201d."
+        ],
+        "tf-idf score": [
+            0.017126963540750148,
+            0.010947054925154395,
+            0.02105122583031697
+        ]
+    },
+    "0.27868654277081994-3-718": {
+        "average clique similarity": 0.27868654277081994,
+        "clique": [
+            "3- It is a   charity  ",
+            "2-But it s bad experie",
+            "1-And it s bad "
+        ],
+        "median tf-idf score": 0.16695425646421672,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dIt is a   charity, and I am so proud of the work that it does,\u201d she said, detailing the work it does to provide   treatment.",
+            "But it\u2019s bad experience,\u201d he said.",
+            "And it\u2019s bad."
+        ],
+        "tf-idf score": [
+            0.19920971792457168,
+            0.16695425646421672,
+            0.018147144612843558
+        ]
+    },
+    "0.27916125048167256-3-2436": {
+        "average clique similarity": 0.27916125048167256,
+        "clique": [
+            "4-I have a feeling how",
+            "2-And just like that  ",
+            "3- I have a feeling ho"
+        ],
+        "median tf-idf score": 0.033821496008658386,
+        "publications": [
+            "Vox",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "I have a feeling how they came.",
+            "And just like that, Trump\u2019s momentum came to a screeching halt.",
+            "\u201dI have a feeling how they came."
+        ],
+        "tf-idf score": [
+            0.033821496008658386,
+            0.4536785663323361,
+            0.033821496008658386
+        ]
+    },
+    "0.282293923420633-4-828": {
+        "average clique similarity": 0.282293923420633,
+        "clique": [
+            "0-Now we re fighting a",
+            "3- We re going to get ",
+            "4-Trump tried out some",
+            "1-As noted before  I m"
+        ],
+        "median tf-idf score": 0.514390720811242,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Now we\u2019re fighting again to get Mosul.",
+            "\u201dWe\u2019re going to get them out, we\u2019re going to secure the border, and once the border is secured, at a later date, we\u2019ll make a determination as to the rest, but we have some bad hombres here, and we\u2019re going to get them out,\u201d Trump said.",
+            "Trump tried out some Spanish     Speaking on immigration, Trump said, \u201cWe have some bad hombres here, and we\u2019re going to get them out.",
+            "As noted before, I\u2019m wary of speculating about whether what we\u2019re seeing from Trump amounts to some kind of diagnosable mental disorder."
+        ],
+        "tf-idf score": [
+            0.028111733029179256,
+            0.7106533756134037,
+            0.6175559776537248,
+            0.41122546396875925
+        ]
+    },
+    "0.2826594410132988-3-1249": {
+        "average clique similarity": 0.2826594410132988,
+        "clique": [
+            "1-The substance offens",
+            "5- I will look at it a",
+            "2-  The Republican nom"
+        ],
+        "median tf-idf score": 0.7823122566112347,
+        "publications": [
+            "CNN",
+            "National Review",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The substance offense was of course Trump\u2019s refusal to say that he would \u201caccept\u201d the results of the election, if he lost.",
+            "\u201dI will look at it at the time,\u201d Trump said when asked during the final presidential debate whether he would concede if he loses on November 8, following his claims that the election is \u201drigged\u201d against him.",
+            "\u201d The Republican nominee refused to say he would accept the results on November 8, promising only that he would examine them \u201cat the time."
+        ],
+        "tf-idf score": [
+            0.7823122566112347,
+            0.9553662129595824,
+            0.2710884288666532
+        ]
+    },
+    "0.28312309550092357-3-2436": {
+        "average clique similarity": 0.28312309550092357,
+        "clique": [
+            "4-They have hacked Ame",
+            "3- They have hacked Am",
+            "1-In partnership with "
+        ],
+        "median tf-idf score": 0.18565801945099503,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "They have hacked American websites, American accounts of private people, of institutions, then they have given that information to WikiLeaks for the purpose of putting it on the internet.",
+            "\u201dThey have hacked American websites, American accounts of private people, of institutions, then they have given that information to WikiLeaks for the purpose of putting it on the Internet,\u201d Clinton said.",
+            "In partnership with the American Health Association ."
+        ],
+        "tf-idf score": [
+            0.18565801945099503,
+            0.5330624332150433,
+            0.04656098817957528
+        ]
+    },
+    "0.28773436799844515-4-664": {
+        "average clique similarity": 0.28773436799844515,
+        "clique": [
+            "3-Then Trump Universit",
+            "0-If its about policy ",
+            "4-Then Trump happened ",
+            "1-That was then "
+        ],
+        "median tf-idf score": 0.3926284761070424,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Then Trump University gets sued for fraud and racketeering.",
+            "If its about policy then Trump has a shot.",
+            "Then Trump happened.",
+            "That was then."
+        ],
+        "tf-idf score": [
+            0.3948803516389914,
+            0.5191589846964298,
+            0.3903766005750934,
+            0.16451089497640164
+        ]
+    },
+    "0.29474081677001346-3-2436": {
+        "average clique similarity": 0.29474081677001346,
+        "clique": [
+            "3-On the story that ha",
+            "4-It s also not true t",
+            "5-Trump said the claim"
+        ],
+        "median tf-idf score": 0.551771428205207,
+        "publications": [
+            "NPR",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "On the story that has consumed the last week of the campaign  \u2014   the multiple women who have come forward to charge that Trump once groped or kissed them without permission  \u2014   Trump said their claims had been \u201dlargely debunked\u201d and that he didn\u2019t know any of the women.",
+            "It\u2019s also not true that the allegations have been debunked.",
+            "Trump said the claims had been \u201dlargely debunked\u201d."
+        ],
+        "tf-idf score": [
+            0.9720888364712631,
+            0.036928757339012006,
+            0.551771428205207
+        ]
+    },
+    "0.30305591397281856-3-2436": {
+        "average clique similarity": 0.30305591397281856,
+        "clique": [
+            "1-But the real problem",
+            "4-And that s not accep",
+            "3-That is not in confl"
+        ],
+        "median tf-idf score": 0.09966568964103635,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "But the real problem, Kagan says, is not that the party is not falling apart.",
+            "And that\u2019s not acceptable.",
+            "That is not in conflict with sensible,   regulation,\u201d she said."
+        ],
+        "tf-idf score": [
+            0.09966568964103635,
+            0.006225529180057454,
+            0.1592251160157323
+        ]
+    },
+    "0.30733479652402484-3-2436": {
+        "average clique similarity": 0.30733479652402484,
+        "clique": [
+            "0- Well  at least unti",
+            "5-And he referred to C",
+            "4-Trump called Clinton"
+        ],
+        "median tf-idf score": 0.3442040271849476,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "(Well, at least until the end when he lashed out and called her a \u201cnasty woman\u201d.)",
+            "And he referred to Clinton as a \u201dnasty woman\u201d.",
+            "Trump called Clinton \u201ca nasty woman\u201d     Toward the end of the debate, Clinton was giving a pretty normal policy response about Social Security."
+        ],
+        "tf-idf score": [
+            0.16943886957764148,
+            0.3442040271849476,
+            1.1509827076331753
+        ]
+    },
+    "0.3196931652055514-3-2436": {
+        "average clique similarity": 0.3196931652055514,
+        "clique": [
+            "4-Clinton called Trump",
+            "0-She called him a pup",
+            "3-Then it was Trump s "
+        ],
+        "median tf-idf score": 0.7899751989467235,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Clinton called Trump Putin\u2019s puppet     When Trump\u2019s ties to Russia and Russian President Vladimir Putin came up, this happened:  CLINTON: Well, that\u2019s because [Putin would] rather have a puppet as president.",
+            "She called him a puppet of Vladimir Putin.",
+            "Then it was Trump\u2019s turn: \u201dShe doesn\u2019t like Putin because Putin has outsmarted her at every step of the way, excuse me."
+        ],
+        "tf-idf score": [
+            0.8019970489067183,
+            0.09340848842652244,
+            0.7899751989467235
+        ]
+    },
+    "0.3321056742303663-3-1839": {
+        "average clique similarity": 0.3321056742303663,
+        "clique": [
+            "1-As for the rest    c",
+            "3-And as to U S intell",
+            "0- She has no idea whe"
+        ],
+        "median tf-idf score": 0.3384161364909715,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "As for the rest \u2014  courts, treaties, tax codes, norms, any idea of the civic or the public \u2014  it\u2019s tabula rasa.",
+            "And as to U S intelligence reports that the hacking came from Russia, Trump said Clinton has \u201dno idea whether it\u2019s Russia, China or anybody else\u201d.",
+            "\u201cShe has no idea whether it\u2019s Russia, China or anybody else,\u201d said the puppet."
+        ],
+        "tf-idf score": [
+            0.12352508138869972,
+            0.935259399762694,
+            0.3384161364909715
+        ]
+    },
+    "0.3324607400651974-3-685": {
+        "average clique similarity": 0.3324607400651974,
+        "clique": [
+            "2-It was a tale of two",
+            "0-   you can take baby",
+            "4-And here is another "
+        ],
+        "median tf-idf score": 0.6528836236718167,
+        "publications": [
+            "Guardian",
+            "National Review",
+            "Vox"
+        ],
+        "sentences": [
+            "It was a tale of two debates  \u2014   and two elections  \u2014   here on the campus of the University of Nevada Las Vegas, where the Republican nominee squared off against Hillary Clinton for a third and final time.",
+            ".. you can take baby and rip the baby out of the womb in the ninth month, on the final day.",
+            "And here is another part of the exchange, on   abortion:     TRUMP: I think it\u2019s terrible if you go with what Hillary is saying in the ninth month you can take the baby and rip the baby out of the womb of the mother just prior to the birth of the baby."
+        ],
+        "tf-idf score": [
+            0.864556907402288,
+            0.12897496088779611,
+            0.6528836236718167
+        ]
+    },
+    "0.33462138609290126-4-1733": {
+        "average clique similarity": 0.33462138609290126,
+        "clique": [
+            "5- I think they want e",
+            "3-I believe it was her",
+            "4-I believe it was her",
+            "2-Trump responded nonc"
+        ],
+        "median tf-idf score": 0.8490525620135526,
+        "publications": [
+            "Vox",
+            "CNN",
+            "National Review",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dI think they want either fame or her campaign did it,\u201d Trump said, referring to the women that came forward after he said at the last debate that he had never been abusive to any women.",
+            "I believe it was her campaign that did it,\u201d Trump said, adding that his opponent was also behind a Chicago rally he held earlier this year that was disrupted by violence.",
+            "I believe it was her campaign that did it.",
+            "Trump responded nonchalantly that many of the allegations had been \u201cdebunked,\u201d and then, with a nod toward his opponent, said, \u201cI think it was her campaign that did it  \u2014   her very sleazy campaign."
+        ],
+        "tf-idf score": [
+            0.9415363821030679,
+            0.8589563980445704,
+            0.24110821375256214,
+            0.8391487259825349
+        ]
+    },
+    "0.34259035925281384-4-2436": {
+        "average clique similarity": 0.34259035925281384,
+        "clique": [
+            "4-TRUMP  No puppet  no",
+            "2- You re the puppet  ",
+            "3-Trump interrupted   ",
+            "0-Trump also did a bet"
+        ],
+        "median tf-idf score": 0.42295122944674524,
+        "publications": [
+            "Vox",
+            "National Review",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "TRUMP: No puppet, no puppet.",
+            "\u201cYou\u2019re the puppet!\u201d Trump replied.",
+            "Trump interrupted: \u201dNo puppet.",
+            "Trump also did a better job at controlling his emotions when Hillary tried to bait him by calling him a choker and a \u201cpuppet\u201d."
+        ],
+        "tf-idf score": [
+            0.410658646263418,
+            0.4252588628027167,
+            0.42064359609077384,
+            0.5465562726371498
+        ]
+    },
+    "0.3506100661407472-3-2436": {
+        "average clique similarity": 0.3506100661407472,
+        "clique": [
+            "4-And I think it s her",
+            "3-Trump claimed the wo",
+            "1-I think it s impossi"
+        ],
+        "median tf-idf score": 0.09489878338437235,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "And I think it\u2019s her campaign.",
+            "Trump claimed the women \u201dwant either fame or her campaign did it and I think it\u2019s her campaign\u201d.",
+            "I think it\u2019s impossible to tell."
+        ],
+        "tf-idf score": [
+            0.09489878338437235,
+            0.6260214828127046,
+            0.07136804552691384
+        ]
+    },
+    "0.35862861085468056-3-212": {
+        "average clique similarity": 0.35862861085468056,
+        "clique": [
+            "5- Such a nasty woman ",
+            "4-By the end of the de",
+            "3-He frequently interr"
+        ],
+        "median tf-idf score": 0.5138479818526661,
+        "publications": [
+            "Vox",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dSuch a nasty woman,\u201d Trump interjected.",
+            "By the end of the debate, Trump had insulted Latino immigrants in Spanish, continued to say that he would not concede the election if he lost, and called Clinton \u201csuch a nasty woman.",
+            "He frequently interrupted her, and even at the end of the debate, interjected that she was a \u201dnasty woman\u201d."
+        ],
+        "tf-idf score": [
+            0.5138479818526661,
+            1.0932972542616828,
+            0.46911221795794766
+        ]
+    },
+    "0.3745142519783477-3-1563": {
+        "average clique similarity": 0.3745142519783477,
+        "clique": [
+            "0-Compared to the firs",
+            "1-Vote for Trump ",
+            "4-Millions of people t"
+        ],
+        "median tf-idf score": 0.39355511440370655,
+        "publications": [
+            "Guardian",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Compared to the first two debates, Trump did do a better job hammering home his message that a vote for Hillary Clinton is a vote for the status quo.",
+            "Vote for Trump!",
+            "Millions of people that are registered to vote that shouldn\u2019t be registered to vote."
+        ],
+        "tf-idf score": [
+            0.8571455569484783,
+            0.39355511440370655,
+            0.10055789863626144
+        ]
+    },
+    "0.3991699751858411-3-661": {
+        "average clique similarity": 0.3991699751858411,
+        "clique": [
+            "0- I will tell you at ",
+            "4-TRUMP  What I m sayi",
+            "3-When pressed by Wall"
+        ],
+        "median tf-idf score": 0.4776147773606573,
+        "publications": [
+            "NPR",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cI will tell you at the time,\u201d he said when pressed on the question by the election season\u2019s best moderator, Fox News\u2019s Chris Wallace.",
+            "TRUMP: What I\u2019m saying is I\u2019ll tell you at the time.",
+            "When pressed by Wallace, the reality TV star responded, \u201dWhat I\u2019m saying now is I will tell you at the time."
+        ],
+        "tf-idf score": [
+            0.4953265505686058,
+            0.4776147773606573,
+            0.2179161834097397
+        ]
+    },
+    "0.4962741778034652-3-432": {
+        "average clique similarity": 0.4962741778034652,
+        "clique": [
+            "1- For instance   Can ",
+            "2-And Hillary can say ",
+            "4-Now  you can say tha"
+        ],
+        "median tf-idf score": 0.11921331393990506,
+        "publications": [
+            "Atlantic",
+            "National Review",
+            "Vox"
+        ],
+        "sentences": [
+            "(For instance: \u201cCan I say this?",
+            "And Hillary can say that that\u2019s okay.",
+            "Now, you can say that that\u2019s okay, and Hillary can say that that\u2019s okay, but it\u2019s not okay with me."
+        ],
+        "tf-idf score": [
+            0.05006813587327555,
+            0.11921331393990506,
+            0.11921331393990506
+        ]
+    },
+    "0.4965873667921421-3-2436": {
+        "average clique similarity": 0.4965873667921421,
+        "clique": [
+            "1-And you  ",
+            "3-You re the puppet  ",
+            "4-CLINTON  It s pretty"
+        ],
+        "median tf-idf score": 0.03821998025023662,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Vox"
+        ],
+        "sentences": [
+            "And you .",
+            "You\u2019re the puppet\u201d.",
+            "CLINTON: It\u2019s pretty clear you won\u2019t admit \u2014   TRUMP: No, you\u2019re the puppet."
+        ],
+        "tf-idf score": [
+            0.0,
+            0.03821998025023662,
+            0.6550362858436258
+        ]
+    },
+    "0.5025944293347527-3-2436": {
+        "average clique similarity": 0.5025944293347527,
+        "clique": [
+            "1-Maybe that makes the",
+            "5- Donald thinks belit",
+            "0- Donald thinks belit"
+        ],
+        "median tf-idf score": 0.24582670367817774,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Maybe that makes their endorsement of him less damaging: it\u2019s not going to make any difference.",
+            "\u201dDonald thinks belittling women makes him bigger.",
+            "\u201cDonald thinks belittling women makes him bigger."
+        ],
+        "tf-idf score": [
+            0.09284711451044363,
+            0.24582670367817774,
+            0.24582670367817774
+        ]
+    },
+    "0.5892565476477806-3-2436": {
+        "average clique similarity": 0.5892565476477806,
+        "clique": [
+            "4-I ll keep you in sus",
+            "3-I will keep you in s",
+            "0- I ll keep you in su"
+        ],
+        "median tf-idf score": 0.03545611400973329,
+        "publications": [
+            "Vox",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "I\u2019ll keep you in suspense, okay?",
+            "I will keep you in suspense, OK?\u201d \u201dThat\u2019s horrifying,\u201d Clinton responded.",
+            "\u201cI\u2019ll keep you in suspense."
+        ],
+        "tf-idf score": [
+            0.03545611400973329,
+            0.2505810082911445,
+            0.014779320588398343
+        ]
+    }
+}

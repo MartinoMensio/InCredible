@@ -1,0 +1,266 @@
+{
+    "0.16370511934207355-3-13": {
+        "average clique similarity": 0.16370511934207355,
+        "clique": [
+            "3-   It s the exact th",
+            "1-    Steve King   Ste",
+            "2-The GOP caucuses are"
+        ],
+        "median tf-idf score": 0.23999552182937023,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201d \u201cIt\u2019s the exact thing the American people are tired of,\u201d he said.",
+            "\u2014   Steve King (@SteveKingIA)  \u201cFor months, my campaign has survived the lies and dirty tricks from opponents who profess to detest the games of the political class but in reality are masters at it,\u201d the retired surgeon said in a statement.",
+            "The GOP caucuses are not run by the state and are instead put on by each political party."
+        ],
+        "tf-idf score": [
+            0.23999552182937023,
+            0.7183563186889992,
+            0.158150716832788
+        ]
+    },
+    "0.17245670767543808-3-47": {
+        "average clique similarity": 0.17245670767543808,
+        "clique": [
+            "0-Carson confirmed he ",
+            "2-But Wednesday  Cruz ",
+            "4-Some reported that C"
+        ],
+        "median tf-idf score": 0.823852025153743,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Carson confirmed he spoke with Cruz about what happened and would wait to see what actions the senator would take.",
+            "But Wednesday, Cruz defended his team\u2019s actions, saying he would not throw staff under the bus and questioned whether \u201dpassing on a true and accurate news story\u201d was a dirty trick.",
+            "Some reported that Carson was going home to rest and would not travel to New Hampshire and South Carolina, while others suggested he was going home to beat a storm and would maintain his campaign schedule."
+        ],
+        "tf-idf score": [
+            0.6791501552861857,
+            0.823852025153743,
+            0.9393386253635838
+        ]
+    },
+    "0.21135440339672004-3-184": {
+        "average clique similarity": 0.21135440339672004,
+        "clique": [
+            "3- Unfortunately  they",
+            "4- No one on the campa",
+            "0-  Carson said he bas"
+        ],
+        "median tf-idf score": 0.8125079287433843,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201cUnfortunately, they did not then forward the subsequent story, that was Ben\u2019s campaign clarifying that he was continuing the campaign and was not canceling the campaign,\u201d Cruz said.",
+            "\u201cNo one on the campaign said he was going to drop out or suspend his campaign, that\u2019s up to him.",
+            "\u201d Carson said he bases his decision on whether or not to stay in the presidential race based on the the size and strength of his campaign, crowds, donations, and social media."
+        ],
+        "tf-idf score": [
+            0.9044035036690588,
+            0.571742314263693,
+            0.8125079287433843
+        ]
+    },
+    "0.22623599113987006-3-213": {
+        "average clique similarity": 0.22623599113987006,
+        "clique": [
+            "3-The Cruz campaign is",
+            "1- Please inform any C",
+            "2-Carson accused Cruz "
+        ],
+        "median tf-idf score": 0.7290439069944756,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The Cruz campaign is also taking heat for a \u201cmailer\u201d it sent out to potential voters before caucus night that seemingly accused them of voting violations.",
+            "\u201cPlease inform any Carson   of this news and urge them to caucus for Ted Cruz,\u201d the    urged.",
+            "Carson accused Cruz of \u201ddirty tricks\u201d the day after the caucuses, and Cruz later apologized to Carson for it."
+        ],
+        "tf-idf score": [
+            0.6383672467189204,
+            0.7290439069944756,
+            0.7591347250070513
+        ]
+    },
+    "0.2327517760894274-3-6": {
+        "average clique similarity": 0.2327517760894274,
+        "clique": [
+            "4-  The Carson campaig",
+            "3-  Early reports that",
+            "1-A furious   on Tuesd"
+        ],
+        "median tf-idf score": 1.1050829850590622,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201d The Carson campaign accused the Cruz campaign last night of \u201cdirty tricks\u201d for suggesting to   that Carson was leaving the race and that they should transfer their support to Cruz.",
+            "\u201d Early reports that Carson  \u2014   who was directly competing with Cruz for social conservative and evangelical supporters  \u2014   was leaving the campaign trail started to surface as caucusing began Monday evening.",
+            "A furious   on Tuesday accused  \u2019s campaign of spreading false rumors during the Iowa caucuses that Carson was quitting the campaign, and denounced the reports as \u201clies and dirty tricks from opponents."
+        ],
+        "tf-idf score": [
+            1.1050829850590622,
+            1.1967155243607837,
+            1.1009127047195262
+        ]
+    },
+    "0.24935712863255347-3-213": {
+        "average clique similarity": 0.24935712863255347,
+        "clique": [
+            "2-The CNN story Cruz w",
+            "0-Cruz told me that he",
+            "3-On Tuesday morning  "
+        ],
+        "median tf-idf score": 1.2598350443999595,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Fox News"
+        ],
+        "sentences": [
+            "The CNN story Cruz was referring to only noted that Carson was going home to Florida, not that he was \u201dmaking a big announcement\u201d in addition, which is what the Cruz campaign sent out to precinct captains.",
+            "Cruz told me that he was not aware of that when I talked to him and he did not agree with that kind of thing   \u2026     and we\u2019ll wait to see what he does to demonstrate that,\u201d Carson said.",
+            "On Tuesday morning, Cruz spokesman Rick Tyler also told MSNBC that the campaign simply repeated what Carson had said: that after Iowa, he was returning to Florida for a couple of days, then going to Washington for the National Prayer Breakfast."
+        ],
+        "tf-idf score": [
+            1.2598350443999595,
+            1.0810434543291252,
+            1.4894738321591796
+        ]
+    },
+    "0.25895144435179374-3-54": {
+        "average clique similarity": 0.25895144435179374,
+        "clique": [
+            "3-Upon hearing reports",
+            "4-Speaking to reporter",
+            "1-  Twenty minutes aft"
+        ],
+        "median tf-idf score": 1.513588175231529,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Upon hearing reports that their candidate was leaving the trail to return to his home in Florida, Team Carson responded swiftly, saying the retired neurosurgeon was only going home for clean clothes but was then headed to New Hampshire for the Feb. 9 primary.",
+            "Speaking to reporters in Windham, New Hampshire this morning, Cruz spokesman Rick Tyler said \u201cCNN reported that the Carson campaign was not going to New Hampshire or South Carolina but instead was going to Florida and was going to DC That\u2019s a news story.",
+            "\u201d Twenty minutes after the voting began, Cruz\u2019s campaign   Rep. Steve King, retweeted a CNN reporter\u2019s message about Carson heading home to Florida to prepare for next week\u2019s New Hampshire primary  \u2014   but then took it a step further, suggesting he was dropping out of the GOP presidential race."
+        ],
+        "tf-idf score": [
+            1.0805600268331461,
+            1.5849181130647114,
+            1.513588175231529
+        ]
+    },
+    "0.2746697235898718-3-124": {
+        "average clique similarity": 0.2746697235898718,
+        "clique": [
+            "1-3 percent for Donald",
+            "3-  Carson ended up fi",
+            "2-Two days after finis"
+        ],
+        "median tf-idf score": 0.5286550677548414,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "3 percent for Donald Trump.",
+            "\u201d Carson ended up finishing a distant fourth in Iowa, with 9 percent, while Cruz claimed a big victory over Donald Trump.",
+            "Two days after finishing second in Iowa, Donald Trump is now alleging that winner Ted Cruz cheated and is threatening to sue over the results."
+        ],
+        "tf-idf score": [
+            0.12249899148295973,
+            0.8089156722942337,
+            0.5286550677548414
+        ]
+    },
+    "0.3897087054027464-3-157": {
+        "average clique similarity": 0.3897087054027464,
+        "clique": [
+            "2-On Wednesday  Trump ",
+            "1-Most will go to Cruz",
+            "4-Most will go to Cruz"
+        ],
+        "median tf-idf score": 0.2724269688859918,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "On Wednesday, Trump seemed to take Carson\u2019s side, saying on Boston Herald radio that the Cruz campaign\u2019s response was \u201done of the most disgusting things I\u2019ve ever seen\u201d and that he \u201dprobably will\u201d sue over the results.",
+            "Most will go to Cruz, I hope.",
+            "Most will go to Cruz, I hope."
+        ],
+        "tf-idf score": [
+            1.139617769312279,
+            0.2724269688859918,
+            0.2724269688859918
+        ]
+    },
+    "0.568481997338924-3-97": {
+        "average clique similarity": 0.568481997338924,
+        "clique": [
+            "2-Cruz took 28 percent",
+            "3-Cruz  a Texas senato",
+            "1-6 percent to 24 "
+        ],
+        "median tf-idf score": 0.37610583901800243,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Cruz took 28 percent, followed by Trump at 24 percent.",
+            "Cruz, a Texas senator, had 28 percent, and Trump had 24 percent.",
+            "6 percent to 24."
+        ],
+        "tf-idf score": [
+            0.37610583901800243,
+            0.3967305039780444,
+            0.06082674028626165
+        ]
+    },
+    "0.6325387374651842-3-11": {
+        "average clique similarity": 0.6325387374651842,
+        "clique": [
+            "1- Carson looks like h",
+            "3-Carson looks like he",
+            "4-Iowa congressman Ste"
+        ],
+        "median tf-idf score": 0.3426401512153339,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cCarson looks like he is out.",
+            "Carson looks like he is out.",
+            "Iowa congressman Steve King, a Cruz endorser and surrogate on the campaign trail, tweeted on Monday night that \u201cCarson looks like he is out."
+        ],
+        "tf-idf score": [
+            0.3426401512153339,
+            0.3426401512153339,
+            1.000128802765349
+        ]
+    }
+}

@@ -1,0 +1,542 @@
+{
+    "0.15671354619622807-3-76": {
+        "average clique similarity": 0.15671354619622807,
+        "clique": [
+            "1-  And they thought i",
+            "3-But the impact of Be",
+            "2-On the trail  Democr"
+        ],
+        "median tf-idf score": 0.30225590657083773,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d And they thought it \u201cplausible\u201d to conclude that she forced Americans to stay in dangerous conditions because \u201cto leave Benghazi would have been viewed as her failure.",
+            "But the impact of Benghazi, much like her use of a private email server, is already baked into polling results that show her struggling to be viewed as trustworthy.",
+            "On the trail, Democrats still refer to her    performance as a testament to her endurance and ability to withstand and overcome partisan attacks."
+        ],
+        "tf-idf score": [
+            0.3553571039688323,
+            0.30225590657083773,
+            0.2501098932994323
+        ]
+    },
+    "0.16304256343241064-3-311": {
+        "average clique similarity": 0.16304256343241064,
+        "clique": [
+            "0- The Republicans on ",
+            "4- Benghazi Committee ",
+            "1-Clinton said the rep"
+        ],
+        "median tf-idf score": 0.8246279041843542,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201dThe Republicans on the House Benghazi Committee are finishing their work in the same, partisan way that we\u2019ve seen from them since the beginning,\u201d Clinton spokesman Brian Fallon said in a written statement.",
+            "\u201cBenghazi Committee Democrats\u2019 obsession with the former secretary of state is on full display,\u201d the committee\u2019s press secretary, Matt Wolking, said in a statement, which also accused the Democrats of issuing \u201crehashed, partisan talking points defending their endorsed candidate for president.",
+            "Clinton said the report \u201dtook on a partisan tinge\u201d."
+        ],
+        "tf-idf score": [
+            1.0102289206876502,
+            0.8246279041843542,
+            0.610628956154612
+        ]
+    },
+    "0.16392433061779058-3-34": {
+        "average clique similarity": 0.16392433061779058,
+        "clique": [
+            "1-C  and the committee",
+            "4-The release of the D",
+            "3-Still  by issuing th"
+        ],
+        "median tf-idf score": 0.9676687423096292,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "C) and the committee\u2019s Republican majority, and one by a rump group of conservatives on the panel.",
+            "The release of the Democrats\u2019 report came amid signs that the House Select Committee on Benghazi, led by its chairman, Representative Trey Gowdy, Republican of South Carolina, was nearing the release of its official findings.",
+            "Still, by issuing the report, Gowdy\u2019s panel thrust the issue of Benghazi back into the spotlight, and its findings won\u2019t stop Republicans from attacking Clinton over her actions."
+        ],
+        "tf-idf score": [
+            0.3462772873377882,
+            1.3109353876425192,
+            0.9676687423096292
+        ]
+    },
+    "0.16402705085097016-3-90": {
+        "average clique similarity": 0.16402705085097016,
+        "clique": [
+            "1- It is always better",
+            "0-It just never seems ",
+            "3-However  it appears "
+        ],
+        "median tf-idf score": 0.33879194442009203,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cIt is always better to be the first committee to investigate, and it is always better to investigate as contemporaneously to an incident or to an event as can be done,\u201d he said.",
+            "It just never seems to work the way it\u2019s supposed to with Clinton,\u201d he tweeted.",
+            "However, it appears that the infamous \u201dstand down\u201d order was never given, though some of the CIA security contractors who were the first to respond to the attacks said that their station chief had told them to wait while additional resources could be marshaled."
+        ],
+        "tf-idf score": [
+            0.33879194442009203,
+            0.30650652398137523,
+            0.6085473275012512
+        ]
+    },
+    "0.16709545688797256-3-50": {
+        "average clique similarity": 0.16709545688797256,
+        "clique": [
+            "0-The report said one ",
+            "1-Instead  they ended ",
+            "4-  Noting that in the"
+        ],
+        "median tf-idf score": 0.7142831567677181,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The report said one   security team known as the FAST unit sat waiting for three hours in Rota, Spain, as Marines changed \u201cin and out of their uniforms four times,\u201d and even debated whether they should carry personal weapons, according to one witness.",
+            "Instead, they ended their investigation this week with three more competing reports: one by committee Democrats, one by Chairman Trey Gowdy ( .",
+            "\u201d Noting that in the Democrats\u2019 report, Mrs Clinton\u2019s name appeared 339 times compared with 85 mentions of Ambassador Stevens, Mr Wolking added: \u201cAs Chairman Gowdy has said, this is not about one person."
+        ],
+        "tf-idf score": [
+            0.6225581007241835,
+            0.7142831567677181,
+            1.0353636428246469
+        ]
+    },
+    "0.17709783824691935-3-98": {
+        "average clique similarity": 0.17709783824691935,
+        "clique": [
+            "2-The state department",
+            "3-A State Department A",
+            "4-In recent days  the "
+        ],
+        "median tf-idf score": 0.4797117930835136,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "The state department also issued a statement on Tuesday, saying that the \u201cessential facts\u201d of the attacks \u201chave been known for some time\u201d and have been the subject of numerous reviews, including one by an independent review board.",
+            "A State Department Accountability Review Board investigation was launched soon after the incident, followed by several congressional inquiries.",
+            "In recent days, the committee has reiterated longstanding complaints about lack of cooperation with the investigation by the Obama administration, including a statement by Mr Gowdy on Monday citing obstruction by the State Department."
+        ],
+        "tf-idf score": [
+            0.4797117930835136,
+            0.462336116768462,
+            0.7692878884224656
+        ]
+    },
+    "0.1832564736160892-3-72": {
+        "average clique similarity": 0.1832564736160892,
+        "clique": [
+            "3-The report also says",
+            "2-The Associated Press",
+            "4-But House Republican"
+        ],
+        "median tf-idf score": 0.6704417488675366,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "The report also says that one of the reasons Stevens was at the mission in Benghazi was to help prepare for a trip that Clinton was planning to Libya in October, suggesting that could have contributed to keeping an unsecure facility active.",
+            "The Associated Press contributed to this report",
+            "But House Republicans have also contributed to the general sense that the committee overly focused its sights on Mrs Clinton."
+        ],
+        "tf-idf score": [
+            1.0061292419254169,
+            0.2665334799452076,
+            0.6704417488675366
+        ]
+    },
+    "0.1857028205648823-3-297": {
+        "average clique similarity": 0.1857028205648823,
+        "clique": [
+            "0-Appearing on MSNBC  ",
+            "3-Clinton s campaign d",
+            "1- You read the report"
+        ],
+        "median tf-idf score": 0.5937202836594905,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "Appearing on MSNBC, Gowdy said Democrats \u201cwill be shocked when they read the report, if they do bother to read the report.",
+            "Clinton\u2019s campaign dismissed the committee as \u201dpartisan,\u201d and that\u2019s how the report will be seen by Democrats.",
+            "\u201cYou read the report, you will not see any of those quotes,\u201d the chairman replied."
+        ],
+        "tf-idf score": [
+            0.5937202836594905,
+            0.7167028240095205,
+            0.32815168320574906
+        ]
+    },
+    "0.19259499425399954-3-45": {
+        "average clique similarity": 0.19259499425399954,
+        "clique": [
+            "2- You re going to hav",
+            "0- There s only one re",
+            "1-well  it looks as th"
+        ],
+        "median tf-idf score": 0.31973490072050675,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cYou\u2019re going to have to decide that for yourself,\u201d he said.",
+            "\u201cThere\u2019s only one remaining question, and it\u2019s simply this: is the RNC going to disclose the   contribution that they have received from House Republicans today,\u201d he said, claiming the investigation was meant to \u201ctear down Secretary Clinton\u2019s poll numbers.",
+            "well, it looks as though they\u2019re going to have to empanel another select committee to iron out the dueling conclusions reached by various members of the committee."
+        ],
+        "tf-idf score": [
+            0.15207720057902288,
+            0.9486829896402486,
+            0.31973490072050675
+        ]
+    },
+    "0.20987525700312504-3-291": {
+        "average clique similarity": 0.20987525700312504,
+        "clique": [
+            "2-The report reveals n",
+            "0-   The report releas",
+            "3-The report contains "
+        ],
+        "median tf-idf score": 0.6129251922558521,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "The report reveals new details about the night of the attack and concludes that the Obama administration failed to recognize the possibility of it happening.",
+            "\u201d  The report released Tuesday morning pointedly blamed a \u201crusty bureaucratic process\u201d for the Obama administration\u2019s   response the night of the attack.",
+            "The report contains no bombshell revelations, nor any new evidence of wrongdoing by Clinton, but it does fault the Obama administration for security lapses."
+        ],
+        "tf-idf score": [
+            0.5434306977804819,
+            0.6129251922558521,
+            0.7415584996385449
+        ]
+    },
+    "0.219314257286473-4-210": {
+        "average clique similarity": 0.219314257286473,
+        "clique": [
+            "4-  But it absolves Ms",
+            "3-The report details n",
+            "2-The Democrats  repor",
+            "1-   If Republicans le"
+        ],
+        "median tf-idf score": 0.8223272335623988,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Times",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d But it absolves Ms Clinton of responsibility, adding, \u201cSecretary Clinton never personally denied any requests for additional security in Benghazi.",
+            "The report details numerous requests the embassy made to bolster the security presence in Benghazi but finds that those requests were either ignored or rejected by officials in Washington.",
+            "The Democrats\u2019 report released on Monday saying that while the state department\u2019s security measures in Benghazi the night of 11 September 2012 were \u201cwoefully inadequate\u201d Clinton never personally turned down a request for additional security.",
+            "\u201d  If Republicans leveled wild accusations, Democrats went the other way, issuing their own report categorically asserting that the Pentagon \u201ccould not have done anything differently\u201d to save those killed, that \u201cSecretary Clinton never personally denied any requests for additional security in Benghazi,\u201d that intelligence assessments \u201cwere not influenced by political considerations\u201d and that officials \u201cdid not make intentionally misleading statements."
+        ],
+        "tf-idf score": [
+            0.5701652291116982,
+            0.5882439462119512,
+            1.0564105209128463,
+            1.3251077321575773
+        ]
+    },
+    "0.2244699082925499-3-420": {
+        "average clique similarity": 0.2244699082925499,
+        "clique": [
+            "2-The hearing was a tu",
+            "0-Clinton and her camp",
+            "4-The Republicans shar"
+        ],
+        "median tf-idf score": 0.4178476373100005,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "New York Times"
+        ],
+        "sentences": [
+            "The hearing was a turning point for Clinton\u2019s campaign.",
+            "Clinton and her campaign dismissed the document outright.",
+            "The Republicans sharply dismissed the report, turning the main Democratic criticism around  \u2014   saying that they were overly focused on Mrs Clinton."
+        ],
+        "tf-idf score": [
+            0.4178476373100005,
+            0.27935145377803494,
+            0.7581676631670999
+        ]
+    },
+    "0.230173739869267-3-420": {
+        "average clique similarity": 0.230173739869267,
+        "clique": [
+            "0-See Latest Coverage ",
+            "2-Committee chairman T",
+            "3-Though Republicans h"
+        ],
+        "median tf-idf score": 0.7703446588785856,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "See Latest Coverage \u2192 Republican committee members  \u2014   let by Chairman Trey Gowdy,  .",
+            "Committee chairman Trey Gowdy, a Republican from South Carolina, denied that presumptive Democratic presidential nominee Clinton was the target.",
+            "Though Republicans have denied a political motivation for the select committee\u2019s work, and Chairman Trey Gowdy won\u2019t talk politics, GOP members launched into their attacks right away."
+        ],
+        "tf-idf score": [
+            0.4785647411552077,
+            0.8889779393918863,
+            0.7703446588785856
+        ]
+    },
+    "0.24187857178274438-4-359": {
+        "average clique similarity": 0.24187857178274438,
+        "clique": [
+            "2-House Republicans in",
+            "0-    Hillary Clinton ",
+            "4-  In their counterna",
+            "1-At the end of her sp"
+        ],
+        "median tf-idf score": 1.5101762376592627,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "House Republicans investigating the 2012 terrorist attacks in Benghazi, Libya, have found no new evidence to conclude that Hillary Clinton, secretary of state at the time, was culpable in the deaths of four Americans, according to the committee\u2019s final report released on Tuesday.",
+            "    Hillary Clinton claimed Tuesday that the final report issued by the House Republican investigation into the deadly Sept. 11, 2012, Benghazi terror attack  \u2014   in which Clinton is accused of knowingly misleading the American public  \u2014    \u201chad found nothing,\u201d and that it\u2019s time to \u201cmove on.",
+            "\u201d In their counternarrative, the Democrats serving on the House Select Committee said they had been virtually shut out of the process of developing the report, and they accused their Republican counterparts of trying to besmirch Hillary Clinton, the presumptive Democratic nominee for president, who was secretary of state during the Benghazi attack.",
+            "At the end of her speech on technology in Denver, Hillary Clinton took a question from the press about the new report on the 2012 Benghazi attacks."
+        ],
+        "tf-idf score": [
+            1.7171864000193435,
+            1.3031660752991818,
+            1.7193770489281852,
+            0.8936401290124923
+        ]
+    },
+    "0.24972488171994614-3-250": {
+        "average clique similarity": 0.24972488171994614,
+        "clique": [
+            "0-And while various of",
+            "1-Pompeo and Jordan  i",
+            "2-It says   What we di"
+        ],
+        "median tf-idf score": 1.2639886481349596,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "And while various officials debated how to proceed  \u2014   and U S personnel were under attack at two sites in Benghazi  \u2014   the report said Clinton and other officials were occupied with pushing a narrative that an   YouTube video was the reason for the attack, a claim the administration later retracted.",
+            "Pompeo and Jordan, in their rival report, alleged that Clinton\u2019s State Department was \u201cseemingly more concerned with politics and Secretary Clinton\u2019s legacy than with protecting its people in Benghazi,\u201d and they said the Obama administration was \u201cso focused on the next election that it lost sight of its duty to tell the American people the truth.",
+            "It says: \u201cWhat we did find was a tragic failure of leadership  \u2014   in the   to the attack and the night of  \u2014   and an administration that, so blinded by politics and its desire to win an election, disregarded a basic duty of government: tell the people the truth."
+        ],
+        "tf-idf score": [
+            1.2639886481349596,
+            1.4799137414472665,
+            0.5716744146848203
+        ]
+    },
+    "0.2500455189006272-3-57": {
+        "average clique similarity": 0.2500455189006272,
+        "clique": [
+            "2-Donald Trump has use",
+            "4-  The work of the Be",
+            "3-The most recent  by "
+        ],
+        "median tf-idf score": 0.8611994296273845,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "Donald Trump has used the incident to discredit Clinton\u2019s time at the helm of the state department.",
+            "\u201d The work of the Benghazi committee led to the discovery that Mrs Clinton had used a private email server for many communications connected to her duties as secretary of state, a revelation that has led to separate inquiries into her conduct, including by the Federal Bureau of Investigation.",
+            "The most recent, by the Select Committee on Benghazi, discovered in the course of its review that Clinton had used a private email server to conduct official business while running the State Department."
+        ],
+        "tf-idf score": [
+            0.474586264025321,
+            1.0758915476170476,
+            0.8611994296273845
+        ]
+    },
+    "0.2790390006568968-3-215": {
+        "average clique similarity": 0.2790390006568968,
+        "clique": [
+            "3-House Democrats  how",
+            "2-The committee s Demo",
+            "4-WASHINGTON      Hous"
+        ],
+        "median tf-idf score": 0.8686157207447114,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "House Democrats, however, put out their own report Monday accusing the GOP of wasting taxpayer money on a political exercise whose goal was to tarnish Clinton.",
+            "The committee\u2019s Democrats, who have long derided the investigation as politically motivated, on Monday released their own report on the committee\u2019s findings.",
+            "WASHINGTON  \u2014   House Democrats on Monday moved to   the findings of a     investigation into the attacks in Benghazi, Libya, in which four Americans were killed, by issuing their own   report that cast the inquiry as a politically motivated crusade that wasted time and money."
+        ],
+        "tf-idf score": [
+            0.8686157207447114,
+            0.6537795819841612,
+            1.0790325513540162
+        ]
+    },
+    "0.288169880513567-3-177": {
+        "average clique similarity": 0.288169880513567,
+        "clique": [
+            "2-Democrats said the m",
+            "4-The Democrats  repor",
+            "1-Had Gowdy found evid"
+        ],
+        "median tf-idf score": 0.34862011556381395,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Democrats said the military could not have done anything differently that night to save the lives of the Americans.",
+            "The Democrats\u2019 report included praise for American personnel in Benghazi and Tripoli, the Libyan capital, saying they \u201cconducted themselves with extraordinary courage and heroism,\u201d and determined that the American personnel could not have saved the four who died.",
+            "Had Gowdy found evidence that the military could have saved the lives of the four Americans?"
+        ],
+        "tf-idf score": [
+            0.34862011556381395,
+            0.6941935693334704,
+            0.2465143518421143
+        ]
+    },
+    "0.3017966623719433-3-396": {
+        "average clique similarity": 0.3017966623719433,
+        "clique": [
+            "3-It also highlights t",
+            "2-The report faults th",
+            "0-The report said that"
+        ],
+        "median tf-idf score": 0.6829990367534184,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "It also highlights the military\u2019s inability to react quickly to the events on the ground, noting that it took over six hours for military assets to deploy after   of Defense Leon Panetta had ordered a military response.",
+            "The report faults the military for its slow response sending resources to the Libyan city during the deadly 2012 attacks on a US outpost, despite clear orders from Barack Obama and the then US defense secretary Leon Panetta.",
+            "The report said that despite orders from President Obama and   Secretary Leon Panetta to deploy assets in response to the attack on the compound to aid Ambassador Chris Stevens, his staff and security personnel, the first military force did not do so until more than 13 hours after the attack started."
+        ],
+        "tf-idf score": [
+            0.2472100099742155,
+            0.6829990367534184,
+            0.9228072142633446
+        ]
+    },
+    "0.32879769992427915-4-79": {
+        "average clique similarity": 0.32879769992427915,
+        "clique": [
+            "3-Washington  CNN  The",
+            "0-  The report faulted",
+            "4-In the face of inten",
+            "2-Ambassador Christoph"
+        ],
+        "median tf-idf score": 0.7747684387750103,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Fox News",
+            "New York Times"
+        ],
+        "sentences": [
+            "Washington (CNN) The U S mission in Benghazi, Libya was attacked and burned on September 11, 2012, resulting in the deaths of U S Ambassador Christopher Stevens and another State Department employee.",
+            "\u201d The report faulted the Obama administration for a range of missteps before, during and after the 2012 attacks in Benghazi, Libya that led to the deaths of Stevens, foreign service officer Sean Smith and former Navy SEALs Ty Woods and Glen Doherty.",
+            "In the face of intense criticism, Mr Gowdy has repeatedly defended the committee\u2019s work as the most comprehensive examination of the attacks in Benghazi, which occurred on Sept. 11, 2012, and resulted in the deaths of Ambassador J Christopher Stevens a State Department official, Sean Smith and two Central Intelligence Agency contractors, Tyrone S Woods and Glen Doherty.",
+            "Ambassador Christopher Stevens, his state department colleague Sean Smith and former Navy Seals Tyrone Woods and Glen Doherty were killed when Islamist militants stormed the US consulate in Benghazi on 11 September 2012."
+        ],
+        "tf-idf score": [
+            0.671880703451943,
+            0.8776561740980777,
+            1.1272132061601403,
+            0.5411882393234622
+        ]
+    },
+    "0.35179932054814883-3-145": {
+        "average clique similarity": 0.35179932054814883,
+        "clique": [
+            "2-The   document relea",
+            "1- The House Select Co",
+            "3-House Republicans fr"
+        ],
+        "median tf-idf score": 0.7708300560660031,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "The   document released by the Republicans on the House select committee on Benghazi brought to a close a fiercely partisan,   $7m investigation that included interviews with more than 80 witnesses.",
+            " The House Select Committee on Benghazi released its   findings Tuesday and concluded that .",
+            "House Republicans from the Select Committee released an   report covering a   investigation of the Benghazi attacks Tuesday."
+        ],
+        "tf-idf score": [
+            0.7708300560660031,
+            0.5339105654793709,
+            1.031136003954907
+        ]
+    },
+    "0.423509493591039-3-32": {
+        "average clique similarity": 0.423509493591039,
+        "clique": [
+            "2-And on Tuesday Reinc",
+            "3-That much was made c",
+            "0-  Republican Nationa"
+        ],
+        "median tf-idf score": 1.0896089831817564,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "And on Tuesday Reince Priebus, chairman of the Republican National Committee, weighed in: \u201cThe new information in the majority\u2019s report on the Benghazi terrorist attack makes clear that Hillary Clinton and the Obama administration engaged in a politically motivated   weeks before the 2012 presidential election.",
+            "That much was made clear by Republican National Committee Chairman Reince Priebus, who tweeted upon the report\u2019s release: \u201dHillary Clinton was in charge, knew the risks,  did nothing.",
+            "\u201d Republican National Committee Chairman Reince Priebus blamed Clinton outright, saying she was \u201cin charge, knew the risks and did nothing."
+        ],
+        "tf-idf score": [
+            1.5069581863453387,
+            1.0896089831817564,
+            0.8101357059584535
+        ]
+    }
+}

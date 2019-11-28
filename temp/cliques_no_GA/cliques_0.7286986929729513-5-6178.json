@@ -1,0 +1,250 @@
+{
+    "0.22951939137841024-3-52": {
+        "average clique similarity": 0.22951939137841024,
+        "clique": [
+            "1-But a federal distri",
+            "0-Moore  throughout th",
+            "4-A complaint was file"
+        ],
+        "median tf-idf score": 1.5027348614130898,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But a federal district court had already issued its own order to the state\u2019s probate judges, instructing them to not deny marriage licenses to   couples.",
+            "Moore, throughout the judicial fights over   couples\u2019 marriage rights, had used his role as the administrative head of the state courts to direct probate judges to follow Alabama\u2019s constitutional ban on   couples\u2019 marriages.",
+            "A complaint was filed by the Alabama Judicial Inquiry Commission charging Moore with violating judicial ethics in issuing an order in January stating that probate judges in the state \u201chave a ministerial duty not to issue\u201d marriage licenses to   couples."
+        ],
+        "tf-idf score": [
+            1.064335316609277,
+            1.5027348614130898,
+            1.6225375205555232
+        ]
+    },
+    "0.27451949395149194-3-31": {
+        "average clique similarity": 0.27451949395149194,
+        "clique": [
+            "4-     A guide to Roy ",
+            "2- To suspend Chief Ju",
+            "3- After his term thou"
+        ],
+        "median tf-idf score": 1.2752241233630206,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d   [A guide to Roy Moore, Alabama\u2019s top judge]   A group representing Moore in this case decried the court\u2019s decision as \u201can unbelievable violation of the law\u201d for suspending the justice through the end of his current term in 2019, noting that he will be unable to seek reelection at that time because of state age restrictions.",
+            "\u201dTo suspend Chief Justice Moore for the duration of his term is a miscarriage of justice and we will appeal this case to the Alabama Supreme Court.",
+            "\u201dAfter his term though, Moore\u2019s age will disqualify him from running for judge,\u201d notes Alabama Public Radio, which adds that Moore could file an appeal to send his case to the state\u2019s supreme court."
+        ],
+        "tf-idf score": [
+            1.4563193916611603,
+            1.0923918359024352,
+            1.2752241233630206
+        ]
+    },
+    "0.2834991564860419-3-19": {
+        "average clique similarity": 0.2834991564860419,
+        "clique": [
+            "0-Even after the 2015 ",
+            "2- Until further decis",
+            "3-But the   court also"
+        ],
+        "median tf-idf score": 1.5338807687141607,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Even after the 2015 ruling of the U S Supreme Court ending marriage bans and a federal court order applying that decision to Alabama\u2019s ban directly, Moore issued an order on Jan. 6, 2016, telling probate judges that prior state court orders supporting the state\u2019s marriage ban remained in effect.",
+            "\u201dUntil further decision by the Alabama Supreme Court, the existing orders of the Alabama Supreme Court that Alabama probate judges have a ministerial duty not to issue any marriage license contrary to the Alabama Sanctity of Marriage Amendment or the Alabama Marriage Protection Act remain in full force and effect,\u201d Moore wrote at the time.",
+            "But the   court also noted that the decision is based on a review of Moore\u2019s behavior and decisions, not on the justices\u2019 views of the Supreme Court\u2019s June 2015 ruling that   couples have the right to marry  \u2014   contrary to Alabama\u2019s law, adopted in 2016, that had reserved marriage for heterosexual couples only."
+        ],
+        "tf-idf score": [
+            1.7256019065518433,
+            1.5338807687141607,
+            1.3907701292357484
+        ]
+    },
+    "0.28602123882871844-3-24": {
+        "average clique similarity": 0.28602123882871844,
+        "clique": [
+            "0-Additionally  under ",
+            "4-He was reelected to ",
+            "2-He is 69 and will be"
+        ],
+        "median tf-idf score": 0.7082523923524437,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Additionally, under state rules, Moore is not be eligible to run for another term as chief justice due to his age  \u2014   although there is speculation that Moore could try, again, to run for governor of the state.",
+            "He was reelected to the bench in November 2012, and his   term runs through January 2019  \u2014   at which point he will be unable to run for another term, as Alabama has age limits preventing anyone 70 or older from being elected or appointed as a judge.",
+            "He is 69 and will be ineligible to run for   because of his age."
+        ],
+        "tf-idf score": [
+            0.7380682980184947,
+            0.7082523923524437,
+            0.061123803102126485
+        ]
+    },
+    "0.3281576693929506-3-131": {
+        "average clique similarity": 0.3281576693929506,
+        "clique": [
+            "1-His suspension witho",
+            "3-The order also requi",
+            "4-     Alabama s top j"
+        ],
+        "median tf-idf score": 0.7488195513890182,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "His suspension without pay will last for the remainder of his   term in office, which ends in 2019.",
+            "The order also requires the head of Alabama\u2019s highest court to pay the costs of the proceedings against him and stipulates that he will not be paid for the remainder of his   term.",
+            "     Alabama\u2019s top judge was suspended from the bench without pay for the remainder of his term, the state\u2019s Court of the Judiciary said Friday."
+        ],
+        "tf-idf score": [
+            0.30372190264509796,
+            0.7488195513890182,
+            1.148391893950869
+        ]
+    },
+    "0.3368090276505235-4-103": {
+        "average clique similarity": 0.3368090276505235,
+        "clique": [
+            "1-Please follow the st",
+            "0- Read the order    W",
+            "2-  CNN  Alabama s chi",
+            "3-Saying that Alabama "
+        ],
+        "median tf-idf score": 1.8368084952882102,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "Please follow the steps below, NEWS BRIEF An Alabama court indefinitely suspended Roy Moore, the state\u2019s controversial chief justice, from office Friday for ordering probate judges to defy federal court rulings on   marriage bans.",
+            "\u2019Read the order:\u2019] WASHINGTON  \u2014   Alabama Chief Justice Roy Moore has been suspended from office without pay from the remainder of his term, the fallout from his action of telling probate judges in the state that they were not bound by federal court rulings guaranteeing equal marriage rights to   couples.",
+            " (CNN) Alabama\u2019s chief justice Roy Moore was suspended without pay Friday for the rest of his term for directing probate judges to enforce the state\u2019s ban on   marriage.",
+            "Saying that Alabama Chief Justice Roy Moore violated judicial ethics when he ordered judges not to respect the U S Supreme Court\u2019s landmark ruling on   marriage, Alabama\u2019s Court of the Judiciary suspended Moore for the rest of his term in office."
+        ],
+        "tf-idf score": [
+            1.8491082232113951,
+            2.078480327574676,
+            1.4444160206834267,
+            1.8245087673650253
+        ]
+    },
+    "0.36277164959298247-3-43": {
+        "average clique similarity": 0.36277164959298247,
+        "clique": [
+            "0- There is no meaning",
+            "2- The rule of law sho",
+            "4- To suspend Chief Ju"
+        ],
+        "median tf-idf score": 0.8126926208755599,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cThere is no meaningful difference between suspension for the remaining of the term and removal from office,\u201d Mat Staver, Moore\u2019s lawyer from Liberty Counsel, said in a statement.",
+            "\u201dThe rule of law should trump political agendas,\u201d said Mat Staver, Liberty Counsel chairman and one of Moore\u2019s attorneys.",
+            "\u201cTo suspend Chief Justice Moore for the rest of his term is the same as removal,\u201d Mat Staver, founder and chairman of Liberty Counsel, said in a statement."
+        ],
+        "tf-idf score": [
+            0.841089482678561,
+            0.6133769503750103,
+            0.8126926208755599
+        ]
+    },
+    "0.36284934246925366-4-46": {
+        "average clique similarity": 0.36284934246925366,
+        "clique": [
+            "1-In 2003  a federal j",
+            "2-The chief justice ma",
+            "4-This is the second t",
+            "3-In 2003  he was remo"
+        ],
+        "median tf-idf score": 0.9569870868200697,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "In 2003, a federal judge ordered Moore to remove a   granite monument of the Ten Commandments he had installed in the state   building.",
+            "The chief justice made national headlines in 2003 when he defied a federal court order to remove a Ten Commandments monument from a public judicial building on the grounds that it was an unconstitutional endorsement of religion.",
+            "This is the second time Roy S Moore, chief justice of the Alabama Supreme Court, has been effectively pulled from office, following his ouster in 2003 over his refusal to obey judicial rulings ordering him to remove a Ten Commandments statue from the Alabama Judicial Building.",
+            "In 2003, he was removed from office after refusing a federal court\u2019s order to remove a prominent display of the Ten Commandments from the state judicial building."
+        ],
+        "tf-idf score": [
+            0.7599554775099244,
+            0.9235832094298335,
+            1.500455005363291,
+            0.9903909642103059
+        ]
+    },
+    "0.3697612287135363-3-75": {
+        "average clique similarity": 0.3697612287135363,
+        "clique": [
+            "4-In a   judgment Frid",
+            "0-The Court of the Jud",
+            "1-The Alabama Court of"
+        ],
+        "median tf-idf score": 0.9518822314114378,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In a   judgment Friday, two days after Moore appeared for a hearing in the case, Alabama\u2019s Court of the Judiciary found him guilty of failing to comply with the law, uphold the integrity of the court and \u201cperform the duties of his office impartially.",
+            "The Court of the Judiciary heard the complaint, with the   body unanimously finding Moore guilty of all six charges brought against him.",
+            "The Alabama Court of the Judiciary found Moore guilty on all six counts filed against him, including failure to \u201cuphold the integrity and independence of the judiciary."
+        ],
+        "tf-idf score": [
+            1.196681605741327,
+            0.8316562642214769,
+            0.9518822314114378
+        ]
+    },
+    "0.46113239415649177-3-131": {
+        "average clique similarity": 0.46113239415649177,
+        "clique": [
+            "1-Moore refused  and t",
+            "4-  Moore  a father of",
+            "0-Moore previously was"
+        ],
+        "median tf-idf score": 0.7868423056549333,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Moore refused, and the Court of the Judiciary removed him from office.",
+            "\u201d Moore, a father of four, was removed from office in 2003 after he refused to remove the Ten Commandments monument he had installed in a judicial building in Montgomery.",
+            "Moore previously was removed from office in 2003 when he refused to follow a federal court\u2019s order that he remove a display of the Ten Commandments from the courtroom."
+        ],
+        "tf-idf score": [
+            0.7868423056549333,
+            0.7615054679584999,
+            1.1023829104168723
+        ]
+    }
+}

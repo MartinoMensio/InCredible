@@ -1,0 +1,514 @@
+{
+    "0.21696271272595205-3-255": {
+        "average clique similarity": 0.21696271272595205,
+        "clique": [
+            "5-Meldonium became a b",
+            "0-The tribunal found t",
+            "6-It rejected Sharapov"
+        ],
+        "median tf-idf score": 0.9474183446349241,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Meldonium became a banned substance this year under the WADA code, and Sharapova claims she didn't notice its addition to the banned list. Sharapova immediately went on the offensive Wednesday,   that questioned the validity of the ITF's suspension.",
+            "The tribunal found that while she had not intentionally contravened   rules, she bore sole responsibility for the substance being in her system during the Australian Open and for her failure to notice that the drug had been added to the banned list.",
+            "It rejected Sharapova's argument that the ITF should have informed her that she and a number of other tennis players had tested positive for meldonium in 2015 before it was added to the banned list."
+        ],
+        "tf-idf score": [
+            0.9474183446349241,
+            0.744187755151579,
+            0.995758949231346
+        ]
+    },
+    "0.2260957302612933-3-122": {
+        "average clique similarity": 0.2260957302612933,
+        "clique": [
+            "3-ITF ruling Conclusio",
+            "4-However  Sharapova c",
+            "6- She was the sole au"
+        ],
+        "median tf-idf score": 1.1143514152038472,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "ITF ruling Conclusion: \"She (Sharapova) is the sole author of her own misfortune. \" pic. twitter. --   Philip Hersh (@olyphil) June 8, 2016  Meldonium was added to the World   Agency's list of banned substances on Jan. 1 after athletes were given months of warnings.",
+            "However, Sharapova certainly wasn't an innocent party, as laid out by the tribunal's   ruling. \"She is the sole author of her misfortune,\" it stated in its conclusion. And WTA head Steve Simon, replying to the verdict, emphasized the importance of players to follow the rules.",
+            "\"She was the sole author of her own misfortune,\" it said. On its website, the ITF said the ban, which could have been as long as four years, had been backdated due to Sharapova's \"prompt admission\" of taking the substance, and would end on midnight of Jan. 25, 2018."
+        ],
+        "tf-idf score": [
+            1.2005486578095188,
+            0.7407331575307368,
+            1.1143514152038472
+        ]
+    },
+    "0.23376309756898397-3-219": {
+        "average clique similarity": 0.23376309756898397,
+        "clique": [
+            "3-Tennis star Maria Sh",
+            "2-But on Jan  1  the r",
+            "1- The player s case i"
+        ],
+        "median tf-idf score": 0.9856509251596988,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Tennis star Maria Sharapova said she recently received a letter saying she had failed a drug test at the Australian Open, but says she did not know the drug prescribed by her doctor became \"a prohibited substance\".",
+            "But on Jan. 1, the rules had changed and meldonium became a prohibited substance, which I did not know. .. I was given this medicine by my doctor for several health issues I was having in 2006\".",
+            "\"The player's case is that she did not know that the active ingredient of Mildronate [a marketed form of meldonium] a medication which she had regularly been using for over 10 years, had been added to the Prohibited List from 1 January 2016 and she did not intentionally contravene the   rules in using Mildronate at the Australian Open,\" the decision reads."
+        ],
+        "tf-idf score": [
+            1.11197217746971,
+            0.6592556957505135,
+            0.9856509251596988
+        ]
+    },
+    "0.24367469553542456-3-40": {
+        "average clique similarity": 0.24367469553542456,
+        "clique": [
+            "2-It also disqualified",
+            "6-The World   Agency  ",
+            "3-The ban is retroacti"
+        ],
+        "median tf-idf score": 1.036907884346039,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "It also disqualified her results from the Australian Open. That means she will forfeit \"the ranking points and prize money that she won at the event,\" according to the tribunal statement.",
+            "The World   Agency (WADA) later issued a short statement saying it would review the decision before deciding whether to use its independent right of appeal to CAS Sharapova has regularly battled back from serious injuries during her glittering career but the   ban means she will not be eligible to play until after the 2018 Australian Open when she will be 30, and raises the question of whether she will ever play again.",
+            "The ban is retroactive to Jan. 26, and her run to the quarterfinals at the Australian Open  --   along with the 430 WTA points and $281, 633 in prize money she earned  --   has been erased from the record books. In a statement, Sharapova once again claimed that she did not intentionally violate tennis's   rules and said she would appeal her ban to the Court of Arbitration for Sport in Switzerland."
+        ],
+        "tf-idf score": [
+            0.4598320529718639,
+            1.036907884346039,
+            1.2505970365622086
+        ]
+    },
+    "0.2524630151073776-3-255": {
+        "average clique similarity": 0.2524630151073776,
+        "clique": [
+            "1-Taken together with ",
+            "2-If she had not had n",
+            "0-But the tribunal did"
+        ],
+        "median tf-idf score": 0.6638272811052851,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "Taken together with the evidence that over a period of 3 years she did not disclose her use of Mildronate to her coach, trainer, physio, nutritionist or any medical adviser she consulted through the WTA, the facts are only consistent with a deliberate decision to keep secret from the   authorities the fact that she was using Mildronate in competition. \"",
+            "If she had not had not concealed her use of Mildronate from the   authorities, members of her own support team and the doctors whom she consulted, but had sought advice, then the contravention would have been avoided\".",
+            "But the tribunal did find a consistent pattern of evasion around her use of meldonium. It rejected her evidence that she had failed to declare her use of the drug because she believed the rule applied only to substances ingested daily."
+        ],
+        "tf-idf score": [
+            0.7491646214129286,
+            0.39791126292497886,
+            0.6638272811052851
+        ]
+    },
+    "0.25538276525867915-4-255": {
+        "average clique similarity": 0.25538276525867915,
+        "clique": [
+            "6-Sharapova  29  said ",
+            "4-1  Sharapova    whos",
+            "5- The tribunal  whose",
+            "0-I will immediately a"
+        ],
+        "median tf-idf score": 0.9513128068552916,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "New York Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Sharapova, 29, said she would appeal to the Court of Arbitration for Sport (CAS) describing the punishment as \"unfairly harsh\". She said an independent tribunal in London on May   had found that she had not intentionally violated   rules.",
+            "1. Sharapova    whose case was heard by a   tribunal on May 18 and 19    immediately said on her Facebook page she would appeal to the Court of Arbitration for Sport, which will have the final say on the matter. Her lawyer, John Haggerty, told CNN he expected the hearing to take place next month.",
+            "\"The tribunal, whose members were selected by the ITF, agreed that I did not do anything intentionally wrong, yet they seek to keep me from playing tennis for two years. I will immediately appeal the suspension portion of this ruling to CAS, the Court of Arbitration for Sport. \"",
+            "I will immediately appeal the suspension portion of this ruling to CAS, the Court of Arbitration for Sport. \" The chief executive of the Women's Tennis Association, Steve Simon, said: \"It is important at all times for players to be aware of the rules and to follow them."
+        ],
+        "tf-idf score": [
+            0.917856993249781,
+            1.0501829235758473,
+            0.9847686204608024,
+            0.7699553515121643
+        ]
+    },
+    "0.2611915223272068-3-255": {
+        "average clique similarity": 0.2611915223272068,
+        "clique": [
+            "0-The ban announced on",
+            "4-Sharapova stunned th",
+            "2-Here s what she said"
+        ],
+        "median tf-idf score": 0.8728769595808655,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "The ban announced on Wednesday by the International Tennis Federation is deemed to have commenced on 26 January  --   the day she failed a test for the recently banned drug meldonium after losing to Serena Williams in the   of the Australian Open.",
+            "Sharapova stunned the world in March when the   grand slam winner said in a Los Angeles press conference arranged by her entourage that she had failed a drug test at the Australian Open on January 26.",
+            "Here's what she said in March when she announced having failed the drug test: \"I did fail the test, and I take full responsibility for it."
+        ],
+        "tf-idf score": [
+            0.8728769595808655,
+            0.903010217671919,
+            0.42120071541695814
+        ]
+    },
+    "0.274410958401751-3-102": {
+        "average clique similarity": 0.274410958401751,
+        "clique": [
+            "0-Nike  Tag Heuer and ",
+            "6-The ban will have an",
+            "4-She received a provi"
+        ],
+        "median tf-idf score": 0.6671504747017601,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "Nike, Tag Heuer and Porsche cut off their lucrative sponsorships  --   although the racket manufacturer Head remained faithful, a decision criticised by fellow client Andy Murray. At the time of the failed test, Nike said it was putting its   $70m deal on hold.",
+            "The ban will have an enormous impact on Sharapova's earning potential. Swiss watchmaker TAG Heuer cut its ties with Sharapova after the news of her doping violation while other sponsors such as Porsche distanced themselves from her. Nike however, said on Wednesday they would continue to work with Sharapova.",
+            "She received a provisional ban on March 12. While racket provider Head stood by her, other sponsors distanced themselves from Sharapova, including Nike and watch maker Tag Heuer. On Wednesday, though, despite the ruling, Nike backed Sharapova."
+        ],
+        "tf-idf score": [
+            0.6701934052673009,
+            0.6671504747017601,
+            0.5498014171192104
+        ]
+    },
+    "0.2797250369760948-3-174": {
+        "average clique similarity": 0.2797250369760948,
+        "clique": [
+            "6- Maria has always ma",
+            "4- It is important at ",
+            "0-It said   The ITF Tr"
+        ],
+        "median tf-idf score": 0.7963781322807815,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\"Maria has always made her position clear, has apologized for her mistake and is now appealing the length of the ban\". Sharapova has 35 WTA singles titles and has won all four of the sport's grand slam titles. Her career earnings amount to $36 million while her   earnings, according to Forbes, are around $200 million. (Editing by Clare Fallon and Robin Pomeroy) LONDON Bernard Tomic should be applauded for his honesty rather than ostracized, Mats Wilander told Reuters, after the Australian was hit by a barrage of criticism for saying he had been bored during his   loss at Wimbledon.",
+            "\"It is important at all times for players to be aware of the rules and to follow them,\" Simon said. \"In this case, Maria has taken responsibility for her mistake from the outset.",
+            "It said: \"The ITF Tribunal has found that Maria did not intentionally break its rules. Maria has always made her position clear, has apologised for her mistake and is now appealing the length of the ban."
+        ],
+        "tf-idf score": [
+            1.0709567192239249,
+            0.5800654696594325,
+            0.7963781322807815
+        ]
+    },
+    "0.29901547205649015-3-255": {
+        "average clique similarity": 0.29901547205649015,
+        "clique": [
+            "1- Sharapova  currentl",
+            "2-Sharapova admitted i",
+            "6-Around 180 athletes "
+        ],
+        "median tf-idf score": 1.0107600787629143,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "[Sharapova, currently ranked 24th in the world, tested positive at the Australian Open for meldonium, a drug banned by the World   Agency the very month the Russian player tested positive for it.",
+            "Sharapova admitted in March that she tested positive for meldonium, a substance banned beginning early this year, during a drug test at the Australian Open, as we reported.",
+            "Around 180 athletes have tested positive for the drug, manufactured in Latvia and common throughout eastern Europe, since January. Sharapova, the world's   female athlete, stunned the sporting world in March when she announced that she had tested positive for meldonium, a component of a product named Mildronate which she has taken since 2006 for health issues."
+        ],
+        "tf-idf score": [
+            0.8765464751885965,
+            1.0107600787629143,
+            1.0730535305196833
+        ]
+    },
+    "0.3068201751536564-3-98": {
+        "average clique similarity": 0.3068201751536564,
+        "clique": [
+            "0- It made me healthy ",
+            "6- CONCEALED  The repo",
+            "3-Sharapova  29  said "
+        ],
+        "median tf-idf score": 1.0181102446396484,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"It made me healthy and that is why I continued to take it,\" she said at the time. However, the subsequent revelation that scores of Russian athletes had also been taking meldonium did not help her case, and nor did evidence the tribunal found that she had continued to take meldonium after she had discontinued her relationship with Skalny in 2012 but had failed to inform her subsequent medical advisers.",
+            "\"CONCEALED\" The report also said that Sharapova had not made her use of Mildronate known to most of her team, including her coach, her trainer, her physiotherapist and her nutritionist, nor any of the doctors made available to players by the WTA Questioning why she continued taking Mildronate before matches, the report said: \"In the tribunal's view the answer is clear.",
+            "Sharapova, 29, said she started taking the substance in 2006 for magnesium deficiency and irregular EKG results, while also citing a family history of diabetes. She also said she did not read   notifications sent to her about the new prohibitions. \"It made me healthy, that's why I continued to take it,\" she said in March, at the time her provisional suspension was announced."
+        ],
+        "tf-idf score": [
+            0.7839813805857272,
+            1.0181102446396484,
+            1.0308914169530032
+        ]
+    },
+    "0.3096532294160877-3-159": {
+        "average clique similarity": 0.3096532294160877,
+        "clique": [
+            "1- The ITF accepts tha",
+            "2-The tribunal found t",
+            "4- The ITF tribunal un"
+        ],
+        "median tf-idf score": 0.8114059178116856,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "\"The ITF accepts that she did not know that Mildronate contained a Prohibited Substance but argues that in taking the medication she knowingly and manifestly disregarded the risk of contravening the   rules, and thus committed an intentional violation. \"",
+            "The tribunal found that Sharapova's violation \"was not intentional\" because she \"did not appreciate that Mildronate contained a substance prohibited from 1 January 2016\".",
+            "\"The ITF tribunal unanimously concluded that what I did was not intentional,\" the    Sharapova said."
+        ],
+        "tf-idf score": [
+            0.6242314092112448,
+            0.8271194402744871,
+            0.8114059178116856
+        ]
+    },
+    "0.32300020630544624-3-255": {
+        "average clique similarity": 0.32300020630544624,
+        "clique": [
+            "6- The career of Russi",
+            "0-Maria Sharapova  the",
+            "4-  CNN  Maria Sharapo"
+        ],
+        "median tf-idf score": 1.1297521433168078,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            " The career of Russian former world number one Maria Sharapova was in tatters on Wednesday after she was given a   ban by the International Tennis Federation (ITF) following her positive test for the banned drug meldonium.",
+            "Maria Sharapova, the richest athlete in the history of women's sport, has been banned for two years for failing a drugs test during the Australian Open in January, leaving her illustrious tennis career hanging in the balance.",
+            " (CNN) Maria Sharapova received a   suspension from the International Tennis Federation (ITF) after testing positive for banned drug meldonium, which may end the career of the richest female athlete of the past decade."
+        ],
+        "tf-idf score": [
+            1.2889755915755818,
+            1.1297521433168078,
+            1.1114746310241563
+        ]
+    },
+    "0.3292729340558199-3-213": {
+        "average clique similarity": 0.3292729340558199,
+        "clique": [
+            "0-While admitting she ",
+            "5-The    Sharapova   s",
+            "2-Sharapova  29  has m"
+        ],
+        "median tf-idf score": 0.8691325832181527,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "While admitting she had failed the test, Sharapova has maintained since that she took the drug before it was banned and for health reasons only, on the advice of her doctor over a   period.",
+            "The    Sharapova   she tested positive for meldonium, which she said she has been taking for 10 years to treat numerous health issues.",
+            "Sharapova, 29, has maintained that she had been taking meldonium for 10 years due to several health issues and that she was not aware of the ban."
+        ],
+        "tf-idf score": [
+            0.8691325832181527,
+            0.8846575115718518,
+            0.8598797177298518
+        ]
+    },
+    "0.35498995988747817-3-31": {
+        "average clique similarity": 0.35498995988747817,
+        "clique": [
+            "1-The International Te",
+            "3-       Tennis supers",
+            "2-An independent tribu"
+        ],
+        "median tf-idf score": 1.1414353020651247,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The International Tennis Federation (ITF) meted out a   suspension to Maria Sharapova for testing positive for a   drug.",
+            "       Tennis superstar Maria Sharapova has been banned from the sport for two years after she tested positive for the prohibited substance meldonium during the Australian Open in January, the International Tennis Federation announced Wednesday.",
+            "An independent tribunal has suspended Russian tennis star Maria Sharapova from play for a period of two years after she failed a drug test, the International Tennis Federation says."
+        ],
+        "tf-idf score": [
+            0.7704113769297775,
+            1.2648461601656031,
+            1.1414353020651247
+        ]
+    },
+    "0.4334278930559006-3-48": {
+        "average clique similarity": 0.4334278930559006,
+        "clique": [
+            "0- The tribunal found ",
+            "4- The tribunal found ",
+            "5-However  the tribuna"
+        ],
+        "median tf-idf score": 0.7053471612091176,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\"The tribunal found that I did not seek treatment from my doctor for the purpose of obtaining a [benefit from a]   substance,\" Sharapova said in the statement.",
+            "\"The tribunal found that I did not seek treatment from my doctor for the purpose of obtaining a performance enhancing substance.",
+            "However, the tribunal's report said various elements of Sharapova's case \"inevitably lead to the conclusion\" that she took the substance \"for the purpose of enhancing her performance,\" and revealed that her meldonium usage was concealed from everyone in her entourage except her father and agent."
+        ],
+        "tf-idf score": [
+            0.7053471612091176,
+            0.35415045650566057,
+            1.0799859214283387
+        ]
+    },
+    "0.44755212019983687-4-119": {
+        "average clique similarity": 0.44755212019983687,
+        "clique": [
+            "4- You need to know th",
+            "5-She says the ITF wan",
+            "3-She also said that t",
+            "0-You need to know tha"
+        ],
+        "median tf-idf score": 0.7227876854674854,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"You need to know that the ITF asked the tribunal to suspend me for four years    the required suspension for an intentional violation    and the tribunal rejected the ITF's position.",
+            "She says the ITF wanted to ban her for four years, but it was reduced to two years by a   Tennis   Program tribunal because the ITF had not found evidence that Sharapova's doping was intentional.",
+            "She also said that the ITF wanted to suspend her for four years, but the independent tribunal tasked with investigating her violation settled for two after she promptly admitted to taking the drug.",
+            "You need to know that the ITF asked the tribunal to suspend me for four years  --   the required suspension for an intentional violation  --   and the tribunal rejected the ITF's position."
+        ],
+        "tf-idf score": [
+            0.6296418149971273,
+            1.041615076958221,
+            0.8159335559378434,
+            0.6296418149971273
+        ]
+    },
+    "0.49380964421348367-3-153": {
+        "average clique similarity": 0.49380964421348367,
+        "clique": [
+            "5- While the tribunal ",
+            "0-Sharapova s statemen",
+            "4- While the tribunal "
+        ],
+        "median tf-idf score": 0.8326204332989037,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\"While the tribunal concluded correctly that I did not intentionally violate the   rules, I cannot accept an unfairly harsh   suspension,\" Sharapova said.",
+            "Sharapova's statement continued: \"The ITF spent tremendous amounts of time and resources trying to prove I intentionally violated the   rules and the tribunal concluded I did not.",
+            "\"While the tribunal concluded correctly that I did not intentionally violate the   rules, I cannot accept an unfairly harsh   suspension."
+        ],
+        "tf-idf score": [
+            0.8404837320003034,
+            0.8326204332989037,
+            0.4966902864619487
+        ]
+    },
+    "0.5072933610115236-3-255": {
+        "average clique similarity": 0.5072933610115236,
+        "clique": [
+            "2-Here s more   While ",
+            "6- The ITF spent treme",
+            "4-The ITF spent tremen"
+        ],
+        "median tf-idf score": 0.5430958001583711,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "Here's more: \"While the tribunal concluded correctly that I did not intentionally violate the   rules, I cannot accept an unfairly harsh   suspension.",
+            "\"The ITF spent tremendous amounts of time and resources trying to prove I intentionally violated the   rules and the tribunal concluded I did not,\" she said on Facebook.",
+            "The ITF spent tremendous amounts of time and resources trying to prove I intentionally violated the   rules and the tribunal concluded I did not."
+        ],
+        "tf-idf score": [
+            0.4966902864619487,
+            0.6851119676395289,
+            0.5430958001583711
+        ]
+    },
+    "0.5164017444405257-3-255": {
+        "average clique similarity": 0.5164017444405257,
+        "clique": [
+            "1-Sharapova vows to ap",
+            "2-It concluded   She i",
+            "6-The ITF had sought a"
+        ],
+        "median tf-idf score": 0.7314966142630942,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Sharapova vows to appeal. \"I cannot accept an unfairly harsh   suspension,\" Sharapova said in a statement.",
+            "It concluded: \"She is the sole author of her own misfortune\". In a Facebook post following the tribunal's decision, Sharapova described the   suspension as \"unfairly harsh\".",
+            "The ITF had sought a   suspension but the tribunal rejected that, she said. \"While the tribunal concluded correctly that I did not intentionally violate the   rules, I cannot accept an unfairly harsh   suspension\"."
+        ],
+        "tf-idf score": [
+            0.5885707153363513,
+            0.7314966142630942,
+            0.7799767860507
+        ]
+    },
+    "0.5206660327131284-3-255": {
+        "average clique similarity": 0.5206660327131284,
+        "clique": [
+            "6-Whatever the positio",
+            "4- It may be that she ",
+            "0- If she had not conc"
+        ],
+        "median tf-idf score": 0.7097080719336564,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Whatever the position may have been in 2006, there was in 2016 no diagnosis and no therapeutic advice supporting the continuing use of Mildronate. \"If she had not concealed her use of Mildronate from the   authorities, members of her own support team and the doctors whom she consulted, but had sought advice, then the contravention would have been avoided,\" it said.",
+            "\"It may be that she genuinely believed that Mildronate had some general beneficial effect on her health but the manner in which the medication was taken, its concealment from the   authorities, her failure to disclose it even to her own team, and the lack of any medical justification must inevitably lead to the conclusion that she took Mildronate for the purpose of enhancing her performance\".",
+            "\"If she had not concealed her use of Mildronate [the drug's trade name] from the   authorities, members of her own support team and the doctors whom she consulted, but had sought advice, then the contravention would have been avoided,\" the tribunal said in its judgment."
+        ],
+        "tf-idf score": [
+            0.7097080719336564,
+            0.5844925908435528,
+            0.7724500864495278
+        ]
+    }
+}

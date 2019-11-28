@@ -1,0 +1,250 @@
+{
+    "0.20909588097932333-3-125": {
+        "average clique similarity": 0.20909588097932333,
+        "clique": [
+            "0-Conway says she will",
+            "2-    She added   If  ",
+            "1- I won t discuss tha"
+        ],
+        "median tf-idf score": 0.9890092718435262,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Conway says she will support whomever Trump picks, but continues to argue that the   supporters who backed his improbable victory feel let down about Romney, considering he called Trump a \"con man\" and a \"phony. \"",
+            "'   She added: \"If   Trump chooses Mitt Romney as his   secretary of state, or whomever he chooses, that will have the   full support and backing of all of us.",
+            "\"I won't discuss that,\" Conway said, adding that Trump was the only person with final say on his cabinet picks. \"Whatever he decides will have my full support and respect, and he knows that. \""
+        ],
+        "tf-idf score": [
+            1.1339095511053578,
+            0.9890092718435262,
+            0.9203783134478547
+        ]
+    },
+    "0.26193808577930183-3-30": {
+        "average clique similarity": 0.26193808577930183,
+        "clique": [
+            "3- I m all for party u",
+            "1-     This Week   Thi",
+            "4- Donald Trump s form"
+        ],
+        "median tf-idf score": 1.4357021094508968,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"I'm all for party unity, but I'm not sure we have to pay for that with the secretary of state position,\" Kellyanne Conway, Trump's campaign manager, told CNN's Dana Bash on \"State of the Union\".",
+            "--   This Week (@ThisWeekABC) November 27, 2016   Kellyanne Conway, Donald Trump's senior adviser and former campaign manager, publicly criticized the possibility of Mitt Romney becoming secretary of state on the morning   circuit on Sunday.",
+            " Donald Trump's former campaign manager, Kellyanne Conway, launched an extraordinary critique of Mitt Romney on Sunday, joining a chorus of hardline conservatives opposed to the   appointing the former Massachusetts governor as secretary of state."
+        ],
+        "tf-idf score": [
+            1.085732654683025,
+            1.4749881808065812,
+            1.4357021094508968
+        ]
+    },
+    "0.275716930135742-3-10": {
+        "average clique similarity": 0.275716930135742,
+        "clique": [
+            "2-    Former House Spe",
+            "4-At the end of Conway",
+            "0-Trump  a Republican "
+        ],
+        "median tf-idf score": 1.1702979023102642,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "'   Former House Speaker Newt Gingrich and Fox News host Sean Hannity   last week both voiced displeasure at reports that Trump was   considering Romney over former New York City Mayor Rudy Giuliani.",
+            "At the end of Conway's takedown of Romney, CNN anchor Dana Bash responded, \"Pretty clear how you feel. \" In addition to Romney, Rudy Giuliani, the former New York City mayor and Trump loyalist, is considered a leading contender for the secretary of state position.",
+            "Trump, a Republican, and his team of advisers appear to be split on whether Trump should pick Romney, a former GOP presidential nominee, or former New York Mayor Rudy Giuliani, an early Trump loyalist."
+        ],
+        "tf-idf score": [
+            1.1702979023102642,
+            1.488545218895898,
+            1.0272397179791342
+        ]
+    },
+    "0.34681245215410805-3-59": {
+        "average clique similarity": 0.34681245215410805,
+        "clique": [
+            "3-Washington  CNN  One",
+            "0- He and his consulta",
+            "4- I m just saying tha"
+        ],
+        "median tf-idf score": 1.2269668703800825,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "Washington (CNN) One of   Donald Trump's top advisers said Sunday that his loyal supporters across the country feel \"betrayed\" that he is considering one of his most vicious critics, Mitt Romney, for secretary of state.",
+            "\"He and his consultants were nothing but awful to Donald Trump for a year   ...     \"I'm all for party unity. But I'm not sure we have to pay for that with the secretary of state position. I think there are concerns that those of us that are loyal have, and we want a secretary of state who's loyal to the president\".",
+            "\"I'm just saying that we don't even know if Mitt Romney voted for Donald Trump,\" she continued. \"So I think there are concerns that those of us who are loyal have and you want somebody  --   you want a secretary of state who is loyal to the president and loyal to the president's vision of the world. \""
+        ],
+        "tf-idf score": [
+            1.4161657796418838,
+            0.9546234048459613,
+            1.2269668703800825
+        ]
+    },
+    "0.38837205759068033-4-105": {
+        "average clique similarity": 0.38837205759068033,
+        "clique": [
+            "0- People feel betraye",
+            "3-She added   It s jus",
+            "2-I respect the brilli",
+            "4-Conway said she and "
+        ],
+        "median tf-idf score": 1.3208416357506905,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\"People feel betrayed to think that   ...     Romney, who went out of his way to question the character and the intellect and the integrity of Donald Trump   ...     would be given the most significant Cabinet post of all,\" Conway said on NBC's \"Meet the Press. \"",
+            "She added: \"It's just breathtaking in scope and intensity the type of messages I've received from all over the country . .. the number of people who feel betrayed to think that Gov. Romney would get the most prominent Cabinet post after he went so far out of his way to hurt Donald Trump\".",
+            "I respect the brilliance   and judgment and sheer instincts of   Trump to form   his Cabinet as he wishes. But I felt compelled to come forward on   behalf of the people who were weighing in\". '",
+            "Conway said she and others will ultimately support the  's final choice, but added she \"felt compelled to mention it because it's just breathtaking in scope and intensity the type of messages I've received from all over the country   ...     [from] the number of people who feel betrayed to think that Governor Romney would get the most prominent cabinet post after he went so far out of his way to hurt Donald Trump. \""
+        ],
+        "tf-idf score": [
+            1.366764623727375,
+            1.2749186477740058,
+            0.5801792349750419,
+            1.6427240593734542
+        ]
+    },
+    "0.3962438166207569-3-88": {
+        "average clique similarity": 0.3962438166207569,
+        "clique": [
+            "1-And I ll respect his",
+            "3-But Conway fired bac",
+            "4-Conway then retweete"
+        ],
+        "median tf-idf score": 1.1023947888895909,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "And I'll respect his decision. Point is the volume & intensity of grassroots resistance to Romney is breathtaking https:  . --   Kellyanne Conway (@KellyannePolls) November 27, 2016   On Sunday, Conway also derided plans by Hillary Clinton's campaign to participate in an election recount effort in Wisconsin initiated by Green Party candidate Jill Stein.",
+            "But Conway fired back: \"I did tell him privately. And I'll respect his decision. Point is the volume  intensity of grassroots resistance to Romney is breathtaking\".",
+            "Conway then retweeted Navarro's post, adding: I did tell him privately. And I'll respect his decision. Point is the volume  intensity of grassroots resistance t  ...     https:  . In a separate appearance on ABC's This Week, Conway doubled down on her Romney criticisms, but would not explain why she was going public on TV and on Twitter with her opinions."
+        ],
+        "tf-idf score": [
+            1.1023947888895909,
+            0.748275519635862,
+            1.1537259022818953
+        ]
+    },
+    "0.4286024458801105-3-119": {
+        "average clique similarity": 0.4286024458801105,
+        "clique": [
+            "1-     Ana Navarro   a",
+            "3-Ana Navarro  a Repub",
+            "4- Astounding to hear "
+        ],
+        "median tf-idf score": 1.3616466950190826,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "--   Ana Navarro (@ananavarro) November 27, 2016   Conway responded to Navarro by saying that she had told Trump privately, as well. I did tell him privately.",
+            "Ana Navarro, a Republican Trump critic and CNN political commentator, registered her surprise at the interview on Twitter, saying: \"Astounding to hear K Conway, who has the ability to tell Trump privately, trash possibility of Romney as Sec of State publicly on @CNNSotu\".",
+            "\"Astounding to hear K Conway, who has the ability to tell Trump privately, trash possibility of Romney as Sec of State publicly on @CNNSotu,\" Ana Navarro, a Republican commentator, tweeted after the show."
+        ],
+        "tf-idf score": [
+            0.7370916550375047,
+            1.4680964520426123,
+            1.3616466950190826
+        ]
+    },
+    "0.44778782276317947-3-125": {
+        "average clique similarity": 0.44778782276317947,
+        "clique": [
+            "1-On  State of the Uni",
+            "4- I m all for party u",
+            "2-Conway said   I  m a"
+        ],
+        "median tf-idf score": 0.9580838972305756,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "On \"State of the Union,\" Conway said Trump was not focused on prosecuting Clinton but wouldn't rule it out  --   which she said indicated that Trump was being \"incredibly gracious and magnanimous\" to Clinton.",
+            "\"I'm all for party unity but I'm not sure we have to pay for that with the secretary of state position,\" she said on CNN's State of the Union, describing a possible Romney appointment as a betrayal to Trump's hardcore supporters.",
+            "Conway said. \"I''m all for   party unity, but I''m not sure that we have to pay for that with   the secretary of state position\". '"
+        ],
+        "tf-idf score": [
+            0.9580838972305756,
+            1.2352715000245382,
+            0.621247876123461
+        ]
+    },
+    "0.5695082734943543-4-27": {
+        "average clique similarity": 0.5695082734943543,
+        "clique": [
+            "3- Receiving deluge of",
+            "1-Receiving deluge of ",
+            "4-On Thursday  Conway ",
+            "0-On Thursday  she twe"
+        ],
+        "median tf-idf score": 1.0297382448568313,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"Receiving deluge of social media  private comms re: Romney Some Trump loyalists warn against Romney as sec of state,\" she tweeted, including a link to a Politico story.",
+            "Receiving deluge of social media & private comms re: Romney Some Trump loyalists warn against Romney as sec of state https:  .",
+            "On Thursday, Conway tweeted that she had been receiving a \"deluge of social media  private [communications]\" warning against the appointment of Romney, but appearing on TV on Sunday it was clear that she, too, had personal issues with the 2012 Republican presidential candidate.",
+            "On Thursday, she tweeted: \"Receiving deluge of social media  private comms re: Romney. Some Trump loyalists warn against Romney as sec of state. \""
+        ],
+        "tf-idf score": [
+            1.0513664140565417,
+            0.9836624268511693,
+            1.0333369006335915,
+            1.0261395890800713
+        ]
+    },
+    "0.5866428448999336-3-70": {
+        "average clique similarity": 0.5866428448999336,
+        "clique": [
+            "1- There was the  Neve",
+            "2- The number of peopl",
+            "3- There was the Never"
+        ],
+        "median tf-idf score": 1.187457836589889,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\"There was the 'Never Trump' movement and then there was Governor Mitt Romney,\" Conway said.",
+            "\"The number of people who feel betrayed to think that Governor   Romney would get the most prominent Cabinet post, after he went   so far out of his way to hurt Donald Trump  --   there was the Never   Trump movement, and then there was Mitt Romney\". '",
+            "\"There was the Never Trump movement and then there was Mitt Romney he gave speeches against Donald Trump, he attacked his character,\" Conway said."
+        ],
+        "tf-idf score": [
+            1.1003086151440917,
+            1.2687765650898826,
+            1.187457836589889
+        ]
+    }
+}

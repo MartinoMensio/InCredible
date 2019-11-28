@@ -1,0 +1,2210 @@
+{
+    "0.13504978684971583-3-479": {
+        "average clique similarity": 0.13504978684971583,
+        "clique": [
+            "6-One officer appeared",
+            "3-One of the slain mem",
+            "0-A  from the police d"
+        ],
+        "median tf-idf score": 0.6850317595914939,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "New York Post"
+        ],
+        "sentences": [
+            "One officer appeared to brace himself against his SUV as grief overcame him.",
+            "One of the slain members of the Dallas police force was   a young father who described himself on Twitter as \"addicted to the thrill of this job. \"",
+            "A  from the police department said the man \"turned   himself in\". '"
+        ],
+        "tf-idf score": [
+            0.2958692680393885,
+            0.9152943350988756,
+            0.6850317595914939
+        ]
+    },
+    "0.13726602868616442-3-353": {
+        "average clique similarity": 0.13726602868616442,
+        "clique": [
+            "2-This shooting happen",
+            "6-The officer is seen ",
+            "0-         Here s more"
+        ],
+        "median tf-idf score": 1.0655956409220275,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "This shooting happened about two blocks away from where the president was killed. Lee Harvey Oswald knew the parade route, and picked an elevated position from which to attack\". Police say that the gunman Thursday night, too, knew the protest route and took an elevated position. And in both cases, Wade says, the effects were devastating.",
+            "The officer is seen falling to the ground. It is unclear if the officer survived. In this video taken from a rooftop, an individual with an   rifle shot a police officer in Dallas at   range on Thursday night.",
+            "'  ' \"   Here's more from the Dallas Police Department: \" '   An eyewitness told CNN he recorded video that appeared to show a   person shooting from a parking structure near the scene."
+        ],
+        "tf-idf score": [
+            1.1444686157258221,
+            1.0655956409220275,
+            0.8816248399302788
+        ]
+    },
+    "0.1406894998604224-3-327": {
+        "average clique similarity": 0.1406894998604224,
+        "clique": [
+            "5-The other official s",
+            "3-Three other people a",
+            "6-Johnson s Facebook p"
+        ],
+        "median tf-idf score": 0.4053666886925811,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "The other official said Johnson legally bought multiple firearms in the past.",
+            "Three other people are in custody but it appears that Johnson was the sole gunman whose attack also left two civilians wounded, a senior law enforcement official told The New York Times.",
+            "Johnson's Facebook page, confirmed by a federal law enforcement official, shows that Johnson made his primary picture an image of himself raising a single fist in the air, a symbol associated with the Black Power movement of the 1960s."
+        ],
+        "tf-idf score": [
+            0.4053666886925811,
+            0.7961712027490588,
+            0.35820010233618205
+        ]
+    },
+    "0.14756516416360063-3-226": {
+        "average clique similarity": 0.14756516416360063,
+        "clique": [
+            "6- I am so tired of se",
+            "1-10 53 a  m   The Los",
+            "0-    The man engaged "
+        ],
+        "median tf-idf score": 0.3919419887452845,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"I am so tired of seeing shootings in the news,\" she told The Post. \"When you see your own family in the news, it's heartbreaking. \"",
+            "10:53 a. m.  The Los Angeles Times, CBS News, and NBC News, citing anonymous sources, are identifying the shooter killed in the garage as Micah Johnson, 25, of Mesquite, Texas. Some news organizations are identifying him as Micah X Johnson others as Micah Xavier Johnson.",
+            "'   The man engaged in a shootout with police  killed himself, according to Sky News and   The Dallas Morning News, shortly before 3 a. m. local time. '"
+        ],
+        "tf-idf score": [
+            0.25526221155754575,
+            0.3919419887452845,
+            0.8199576753622383
+        ]
+    },
+    "0.15203037481233284-3-1186": {
+        "average clique similarity": 0.15203037481233284,
+        "clique": [
+            "6-Gathered in the shad",
+            "2- Once I realized wha",
+            "1- We received a phone"
+        ],
+        "median tf-idf score": 0.9992940470279434,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Gathered in the shade, a band of police officers watched on quietly . Several had left their homes late at night to do what they could. \"I pulled on my uniform and came to protect my brothers,\" said one officer, asking not to be named. \"I haven't slept, I can't.",
+            "\"Once I realized what had happened I was close enough to where I was rubbing my stomach and rubbing my chest because I thought it was possible that I had been shot.",
+            "\"We received a phone call that my face was on there as a suspect, and immediately I flagged a police officer,\" he said."
+        ],
+        "tf-idf score": [
+            0.9992940470279434,
+            0.39641024650158496,
+            1.2097400430663383
+        ]
+    },
+    "0.16128829387303167-3-762": {
+        "average clique similarity": 0.16128829387303167,
+        "clique": [
+            "6-One man passed out c",
+            "7-Although he told pol",
+            "3-He pledged that  any"
+        ],
+        "median tf-idf score": 0.8174479148158516,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "One man passed out copies of the Ten Commandments to the law enforcement officers guarding the crime scene. A woman held an \"All Lives Matter\" placard. There was not much of an audience for anyone with a protest, other than the TV crews waiting for the evening  .",
+            "Although he told police he was \"not affiliated\" with anyone else, three others were being held.",
+            "He pledged that \"anyone involved in the senseless murders will be held fully accountable. Justice will be done. \" \"Last night's horrific   shootings of 12 Dallas law enforcement officers   ...     is an attack on our country."
+        ],
+        "tf-idf score": [
+            0.8174479148158516,
+            0.639173911053433,
+            0.8471341983532247
+        ]
+    },
+    "0.16270523293488004-3-828": {
+        "average clique similarity": 0.16270523293488004,
+        "clique": [
+            "1-    We re   the majo",
+            "7-Obama  speaking from",
+            "3-It is a coordinated "
+        ],
+        "median tf-idf score": 0.8912983770151228,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "--  We're   the major updates, and you can read how it all unfolded below. All updates are in Eastern Standard Time (GMT  ). 4:56 p. m. The Dallas Police Department in a statement on the investigation said \"detectives have interviewed over 200 officers and it appears at least 12 officers discharged their duty weapons. \"",
+            "Obama, speaking from a NATO summit in Poland, said America is \"horrified\" over the shootings and asked all Americans to pray for the fallen officers and their families.",
+            "It is a coordinated, premeditated assault on the men and women who keep us safe,\" Trump said in a statement. On Twitter, Clinton said: \"I mourn for the officers shot while doing their sacred duty to protect peaceful protesters, for their families & all who serve with them. \""
+        ],
+        "tf-idf score": [
+            1.2750756061890027,
+            0.7824237312895174,
+            0.8912983770151228
+        ]
+    },
+    "0.1642889824445848-3-547": {
+        "average clique similarity": 0.1642889824445848,
+        "clique": [
+            "2-Dallas is in mournin",
+            "0-     We know you hav",
+            "1-Here s Abbott s stat"
+        ],
+        "median tf-idf score": 0.36805900693405663,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "Dallas is in mourning, reports NPR's Wade Goodwyn, who's based in the city: \"Last night was just devastating for the city of Dallas. You know, it's taken us 50 years to get over the charge that we are the city of hate, after the [President John] Kennedy assassination. And there were some strange similarities.",
+            "'   \"We know you have a tough job, we mourn those in uniform that are   protecting us, who lose their lives,\" he said. '",
+            "Here's Abbott's statement, in part (via the Morning News): In the coming days, there will be those who foment distrust and fan the flames of dissension. To come together   that would be the greatest rebuke to those who seek to tear us apart. There is far more that binds us together. We see that great strength in times of tragedy, in times of great need."
+        ],
+        "tf-idf score": [
+            0.7254877737041018,
+            0.36805900693405663,
+            0.2746061865672707
+        ]
+    },
+    "0.16457736387914926-3-1330": {
+        "average clique similarity": 0.16457736387914926,
+        "clique": [
+            "1-Here s what happened",
+            "0-         Earlier Thu",
+            "2-Jeff Hood  one of th"
+        ],
+        "median tf-idf score": 1.04053394289307,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "Here's what happened: The Dallas Police Department identified Hughes, who was carrying a gun during the protests, as a suspect in a tweet that was recirculated tens of thousands of times: This is one of our suspects. Please help us find him! pic.",
+            "'  ' '   Earlier Thursday night, the Dallas Police Department  of a man wearing a   shirt and   carrying what appeared to be a rifle, indicating that the man was   a person of interest.",
+            "Jeff Hood, one of the organizers of the march, said it was always intended to be nonviolent, and that the attack was \"not the work of peaceful protesters. This was the work of people who had planned this out very much in advance\"."
+        ],
+        "tf-idf score": [
+            1.133087637365353,
+            1.04053394289307,
+            0.7272564677582424
+        ]
+    },
+    "0.17052490080082497-3-945": {
+        "average clique similarity": 0.17052490080082497,
+        "clique": [
+            "4- BREAKING  Our camer",
+            "7-Before he died  he h",
+            "6- The shooter s own s"
+        ],
+        "median tf-idf score": 0.949642150016005,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "#BREAKING: Our cameras captured several shots ring out during a protest in Downtown Dallas, Holy fuck, The Federal Aviation Administration, meanwhile, had restricted flights over Dallas due to the police operation. Texas Lieutenant Gov. Dan Patrick had initially confirmed on Twitter that officers had been shot.",
+            "Before he died, he had claimed that explosives had been set around the city, and much of downtown Dallas was locked down while police searched before determining there were no bombs.",
+            "\"The shooter's own statement apparently was that he had acted alone,\" Kingston said around midday on Friday. During the standoff, Johnson also told authorities that \"the end is coming\" and spoke about bombs being placed downtown, though no explosives had been found by Friday."
+        ],
+        "tf-idf score": [
+            1.1706117524841297,
+            0.9466750553501737,
+            0.949642150016005
+        ]
+    },
+    "0.17285326193836562-3-1482": {
+        "average clique similarity": 0.17285326193836562,
+        "clique": [
+            "1-Whether fire or floo",
+            "7- I ask that everybod",
+            "6-It adds fuel to the "
+        ],
+        "median tf-idf score": 0.910467554190368,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Whether fire or flood or the acts of depraved individuals, Texans are the first to open their hearts, their homes, their wallets to offer charity and love. Patrick, appearing on Fox News, said: \"I do blame people on social media with their hatred toward police. I do blame   ...     [people] calling police racist without any facts.",
+            "\"I ask that everybody focus on one thing right now, and that is Dallas police officers, their families, those that are deceased [and] those that are in the hospital fighting for their lives\".",
+            "It adds fuel to the fire of hate. \" After the shooting in Dallas, police officers and agencies across the country offered their condolences and took steps to protect their officers."
+        ],
+        "tf-idf score": [
+            0.8342759166758262,
+            0.910467554190368,
+            0.9868565809734259
+        ]
+    },
+    "0.1733051891328952-3-1482": {
+        "average clique similarity": 0.1733051891328952,
+        "clique": [
+            "7-A Department of Just",
+            "6-The Tennessee Bureau",
+            "5-In Valdosta  Georgia"
+        ],
+        "median tf-idf score": 1.25147139229207,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "A Department of Justice investigation cleared the police officer who shot Brown, and, of the six Baltimore police officers charged in Gray's death, two have been acquitted, one's case was declared a mistrial and three more face trial.",
+            "The Tennessee Bureau of Investigation said that Lakeem Keon Scott, 37, the suspected shooter in that case, had killed one woman driving in her car, wounded two other people and shot a Bristol, Tenn. police officer in the leg before officers shot and wounded him.",
+            "In Valdosta, Georgia, a police officer was shot Friday morning by a man who placed a 911 call, the Georgia Bureau of Investigation said."
+        ],
+        "tf-idf score": [
+            1.1646927594920122,
+            1.25147139229207,
+            1.3869088196966692
+        ]
+    },
+    "0.17738326971390425-3-1258": {
+        "average clique similarity": 0.17738326971390425,
+        "clique": [
+            "0-It is not clear whet",
+            "1-7 40 a  m  It turns ",
+            "5-It s not clear where"
+        ],
+        "median tf-idf score": 0.6276695427553727,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "It is not clear whether the shooting and   the rally were related. ' ' ' ' ' ': Our cameras captured several shots ring out during a protest in Downtown Dallas ' '   Here, a witness tells . '",
+            "7:40 a. m. It turns out police mistakenly identified a suspect last night, but within hours it became clear Mark Hughes had nothing to do with the shootings.",
+            "It's not clear where the 12th officer was shot. Who are the slain officers?"
+        ],
+        "tf-idf score": [
+            0.593285403949064,
+            0.6661851600338131,
+            0.6276695427553727
+        ]
+    },
+    "0.18075769070199052-3-1482": {
+        "average clique similarity": 0.18075769070199052,
+        "clique": [
+            "6- Police nationwide o",
+            "7- It s a heartbreakin",
+            "2-Saying that he had s"
+        ],
+        "median tf-idf score": 1.1255933374354399,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "[Police nationwide order officers to ride in pairs after Dallas police ambush]   On Friday, Rawlings, the mayor, said that he believed the country had to honestly confront racial discrimination.",
+            "\"It's a heartbreaking moment for the city of Dallas,\" Mayor Mike Rawlings said.",
+            "Saying that he had spoken with Dallas Mayor Mike Rawlings, Obama said, \"I believe that I speak for every single American when I say that we are horrified over these events, and that we stand united with the people and the police department in Dallas\"."
+        ],
+        "tf-idf score": [
+            1.248726809075972,
+            0.593236905950481,
+            1.1255933374354399
+        ]
+    },
+    "0.1808818518330809-3-1295": {
+        "average clique similarity": 0.1808818518330809,
+        "clique": [
+            "1-The department s off",
+            "7-That  too  was captu",
+            "6- We as a city  we as"
+        ],
+        "median tf-idf score": 0.7496028035478786,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The department's official Twitter account posted photos earlier Thursday night of officers peacefully mingling with protesters at the demonstration. Demonstration in #Dallas @ Belo Garden Park pic. twitter.",
+            "That, too, was captured on a cellphone video. Other protests across the U S on Thursday were peaceful. In midtown Manhattan, protesters first gathered in Union Square Park. In Minnesota, where Castile was shot, hundreds of protesters marched in the rain from a vigil to the governor's official residence.",
+            "\"We as a city, we as a country, must come together and lock arms and heal the wounds we all feel,\" he said. [The acts of heroism during a deadly night in Dallas]   As in other cities across the country, protesters gathered in downtown Dallas just before 7 p. m. for a march from Belo Garden Park to the Old Red Courthouse. For nearly two hours, hundreds of demonstrators had marched through Dallas, at one point passing near a memorial plaza marking the site of President John F Kennedy's 1963 assassination in the city."
+        ],
+        "tf-idf score": [
+            0.7496028035478786,
+            0.6819206395151608,
+            0.9070442799459398
+        ]
+    },
+    "0.1813127842609704-3-859": {
+        "average clique similarity": 0.1813127842609704,
+        "clique": [
+            "6-While police in Dall",
+            "1-Texas Lieutenant Gov",
+            "2- Any time that I per"
+        ],
+        "median tf-idf score": 1.363310801993415,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "While police in Dallas have not said whether more than one shooter was involved, as they had reported after the gunfire began, Homeland Security Secretary Jeh Johnson said Friday afternoon that it appeared the attacker acted alone. \"At this time, there appears to have been one gunman with no known links to or inspiration from any international terrorist organization,\" Johnson said.",
+            "Texas Lieutenant Governor Dan Patrick initially said more than one officer had been shot in Dallas, but did not have further details on the number or their condition.",
+            "\"Any time that I personally have been a part of a rally or march or protest, the Dallas Police Department has been there to protect, to ensure that the march or the rally was orderly and to ensure that everyone made it home safely. On Thursday night, those gathered at the rally had observed a moment of silence and were beginning to return to their cars, Waters says. \"People were on their way home,\" he told NPR \"And it's as we were dispersing that gunshots began to ring out\"."
+        ],
+        "tf-idf score": [
+            1.443459602300251,
+            0.9130165965668684,
+            1.363310801993415
+        ]
+    },
+    "0.18271056674432326-3-631": {
+        "average clique similarity": 0.18271056674432326,
+        "clique": [
+            "6-One video showed a p",
+            "1-Indeed  he is seen i",
+            "4-One video posted by "
+        ],
+        "median tf-idf score": 0.7661357458813852,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "One video showed a person with an   rifle shoot a police officer in the back at   range. In the footage, a gunman is seen running up behind an officer moving behind a pillar and firing at his back.",
+            "Indeed, he is seen in a video handing his weapon over to a police officer.",
+            "One video posted by a witness showed what appeared to be an attacker exchanging gunfire with a police officer. \"They are yelling, 'Get down, get down,'\" Ismael Dejesus said in the video."
+        ],
+        "tf-idf score": [
+            0.7661357458813852,
+            0.6539172061353213,
+            1.0120805745653694
+        ]
+    },
+    "0.1844699801658555-3-224": {
+        "average clique similarity": 0.1844699801658555,
+        "clique": [
+            "0-     I heard about 2",
+            "6-Next thing you know ",
+            "5-Witnesses said they "
+        ],
+        "median tf-idf score": 0.6259226967221986,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "'   \"I heard about 20 shots in rapid succession,\" one witness told   KTVT A man  said \"there''s an officer down .",
+            "Next thing you know we heard 'officer down. '\"",
+            "Witnesses said they heard someone yell, \"Police suck!"
+        ],
+        "tf-idf score": [
+            0.7567430383570996,
+            0.3055744879190559,
+            0.6259226967221986
+        ]
+    },
+    "0.1898497998869776-3-1005": {
+        "average clique similarity": 0.1898497998869776,
+        "clique": [
+            "5-Brown was also shot ",
+            "4-The Dallas officers ",
+            "2-Last updated 7 23 p "
+        ],
+        "median tf-idf score": 1.3417073345592532,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Brown was also shot by a police officer.",
+            "The Dallas officers were targeted from \"elevated positions\" during a protest against police violence, and some had been shot in the back, Brown said.",
+            "Last updated 7:23 p. m. ET, Officials say a gunman shot and killed five police officers Thursday at a Dallas protest against police shootings of black men, in a bout of violence that didn't end until the suspected gunman was killed by police using explosives delivered by a robot."
+        ],
+        "tf-idf score": [
+            1.0014925154723626,
+            1.3417073345592532,
+            1.691027374023211
+        ]
+    },
+    "0.19344421477572024-3-985": {
+        "average clique similarity": 0.19344421477572024,
+        "clique": [
+            "2-Police Chief Brown s",
+            "6-Brown said it was un",
+            "5-The Dallas police ch"
+        ],
+        "median tf-idf score": 0.7494638563295926,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Police Chief Brown says the department used a \"bomb robot\" to place a device \"where the suspect was\" and detonate it  --   a move that he said was made to prevent any further risk to police officers.",
+            "Brown said it was unclear if any of the suspects were somehow connected to the protest.",
+            "The Dallas police chief told reporters it's too soon to speculate on the suspect's motives, and it's unclear whether more suspects are on the loose."
+        ],
+        "tf-idf score": [
+            1.4643347637253366,
+            0.7494638563295926,
+            0.7245126506307731
+        ]
+    },
+    "0.19384455767155262-3-569": {
+        "average clique similarity": 0.19384455767155262,
+        "clique": [
+            "1-They told him  he sa",
+            "5- He let the officer ",
+            "0-Ismael   Dejesus tol"
+        ],
+        "median tf-idf score": 0.7796962330462014,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "They told him, he said, that they had video of him shooting.",
+            "\"He let the officer know that he had a firearm and he was reaching for his wallet and the officer just shot him in his arm,\" she said as she broadcast the Wednesday shooting on Facebook.",
+            "Ismael   Dejesus told anchor Don Lemon he captured the video from his   hotel room. ' ' ' 'Witness Ismael Dejesus joins  to share the video he captured of the  shooting ' '   Bystanders  of that sniper using a set of pillars   at the base of a large building as cover, as he shot at the   police."
+        ],
+        "tf-idf score": [
+            0.45666374828884304,
+            1.0578183510520427,
+            0.7796962330462014
+        ]
+    },
+    "0.19410269438174774-3-591": {
+        "average clique similarity": 0.19410269438174774,
+        "clique": [
+            "6- We will not shy awa",
+            "4-In a news conference",
+            "2-We are not disclosin"
+        ],
+        "median tf-idf score": 1.0622749893359968,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "\"We will not shy away from the very real fact that we as city, as a state, as a nation are struggling with racial issues,\" he said during a prayer vigil. The center of downtown Dallas remained a crime scene Friday, and police said parts of it would be closed off until Wednesday.",
+            "In a news conference early on Friday, Dallas Police Department's Lt. Dale Bernard said large sections of downtown Dallas would be closed through Friday morning, and the closures could be an \"all day event\".",
+            "We are not disclosing any firearms information at this time\". Police have closed off around 15 blocks of downtown as their investigators work Friday, and they're unsure when the area will be reopened."
+        ],
+        "tf-idf score": [
+            1.0622749893359968,
+            1.1403059270519404,
+            0.5515011882900153
+        ]
+    },
+    "0.19479911062558095-3-1098": {
+        "average clique similarity": 0.19479911062558095,
+        "clique": [
+            "5-Protesters chanted  ",
+            "3-Shaun King  a blogge",
+            "7-Protesters also marc"
+        ],
+        "median tf-idf score": 0.7022224000149027,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Protesters chanted \"Hands up, don't shoot,\" the line made famous in the Michael Brown shooting in Ferguson, Missouri, about two years ago.",
+            "Shaun King, a blogger who rose to prominence after the 2014 fatal police shooting of Michael Brown in Ferguson, Missouri, said on Twitter that he hates police brutality but doesn't hate police. \"This violence is wrong on every level,\" he said.",
+            "Protesters also marched in Atlanta, Chicago and Philadelphia. protests have roiled the nation in each of the last two summers following controversial police shootings, including the 2014 shooting of Michael Brown in Ferguson, Mo."
+        ],
+        "tf-idf score": [
+            0.29339118249098733,
+            0.9424051546943207,
+            0.7022224000149027
+        ]
+    },
+    "0.1966570012647875-3-181": {
+        "average clique similarity": 0.1966570012647875,
+        "clique": [
+            "0-     We still don t ",
+            "5-The suspects  Though",
+            "2-Police  who took thr"
+        ],
+        "median tf-idf score": 0.7558533360684879,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "'   \"We still don't have a complete comfort level that we have all   the suspects,\" Brown said, adding they would work until they were   satisfied that all possible suspects were caught. '",
+            "The suspects, Though authorities said they're sure Johnson was the only shooter, they don't know if he had accomplices.",
+            "Police, who took three suspects into custody, initially said at least four people were involved in the attack. Officials now describe Johnson as the \"lone suspect,\" though they have not ruled out the possibility of  ."
+        ],
+        "tf-idf score": [
+            0.5059268085677564,
+            0.7558533360684879,
+            0.9720097107229567
+        ]
+    },
+    "0.19834807838849167-3-1475": {
+        "average clique similarity": 0.19834807838849167,
+        "clique": [
+            "6- At first we couldn ",
+            "0-One deceased officer",
+            "1-We know that five Da"
+        ],
+        "median tf-idf score": 0.8062618958128503,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\"At first we couldn't identify it because we weren't expecting it, then we started hearing more, rapid fire. One police officer who was standing there pushed me out the way because it was coming our direction  ...    .",
+            "One deceased officer was from the   Dallas Area Rapid Transit agency. '",
+            "We know that five Dallas officers and one transit officer are dead."
+        ],
+        "tf-idf score": [
+            0.9125545666352061,
+            0.8062618958128503,
+            0.5243121345816693
+        ]
+    },
+    "0.1997344922350813-3-432": {
+        "average clique similarity": 0.1997344922350813,
+        "clique": [
+            "6- What we know about ",
+            "0-    Several reports ",
+            "1-My statement on toni"
+        ],
+        "median tf-idf score": 0.49664947794241415,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "[What we know about the attack on police in Dallas]      Videos shared on social media show the shooting in Dallas on July 7, which has left at least five police officers dead.",
+            "'   Several reports on social media later indicated that the man was   not involved in the shooting.",
+            "My statement on tonight's shooting in #Dallas. pic."
+        ],
+        "tf-idf score": [
+            1.1424886425547556,
+            0.49664947794241415,
+            0.3664459317519322
+        ]
+    },
+    "0.20094921256508846-3-1482": {
+        "average clique similarity": 0.20094921256508846,
+        "clique": [
+            "7-Greg Abbott released",
+            "1-twitter  Texas Gover",
+            "5-Nobody has been char"
+        ],
+        "median tf-idf score": 0.6978399537924331,
+        "publications": [
+            "Fox News",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "Greg Abbott released a statement saying he has directed the Texas Department of Public Safety director to offer \"whatever assistance the City of Dallas needs at this time\".",
+            "twitter. Texas Governor Greg Abbott said he would end an    trip and return to Dallas following the shootings.",
+            "Nobody has been charged, Gov. Greg Abbott said, but police want to make sure every lead is investigated."
+        ],
+        "tf-idf score": [
+            0.5092324103963111,
+            0.7036832622824503,
+            0.6978399537924331
+        ]
+    },
+    "0.20469235598179059-3-65": {
+        "average clique similarity": 0.20469235598179059,
+        "clique": [
+            "2-Officers Lorne Ahren",
+            "0-         Multiple po",
+            "5-Dallas Police Office"
+        ],
+        "median tf-idf score": 1.4749838211668538,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Officers Lorne Ahrens, 48, and Michael Smith, 55, were also killed in Thursday's attack. Most of the officers who were injured last night have now been released from medical care, Brown said, while some still need more treatment.",
+            "'  ' '   Multiple police officers were shot and at least five were killed   by \"snipers\" amid a protest and rally in Dallas, Texas, on   Thursday night, the Dallas Police Department said. '",
+            "Dallas Police Officers Lorne Ahrens, a   veteran of the department, and Michael Smith, a   veteran, were both killed, according to local media reports and Smith's sister, who spoke to CNN affiliate KFDM CNN affiliate WDIV said Dallas officer Michael Krol was killed."
+        ],
+        "tf-idf score": [
+            0.9036940870118711,
+            1.4749838211668538,
+            1.6029476329696277
+        ]
+    },
+    "0.20837946890931214-3-1156": {
+        "average clique similarity": 0.20837946890931214,
+        "clique": [
+            "2-Another man whose pi",
+            "1-An intensive search ",
+            "4-Brown said police ha"
+        ],
+        "median tf-idf score": 1.1086512270042177,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Another man whose picture had been circulated as a possible \"person of interest\" in the case turned himself in and was later released Dallas police had posted a picture of the man in a camouflage   carrying a long gun.",
+            "An intensive search for suspect is currently underway. \" The police department later said an eleventh officer had also been injured and a fourth officer had been killed.",
+            "Brown said police have not been able to get enough cooperation from any of the people in custody to determine what sparked the coordinated attack aimed at police. A \"person of interest\" whose image had been issued by police had also surrendered minutes later, but he was later released."
+        ],
+        "tf-idf score": [
+            0.9627531551719444,
+            1.1086512270042177,
+            1.1666729727236573
+        ]
+    },
+    "0.21098955997527535-3-45": {
+        "average clique similarity": 0.21098955997527535,
+        "clique": [
+            "6-Amidst protests  pol",
+            "7-One of the cops kill",
+            "3-Four of the slain co"
+        ],
+        "median tf-idf score": 1.2755230245797133,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Amidst protests, police heroics Stories of heroism emerged along with tales of horror. Several people said officers helped save them, including one man who said an officer pushed him out of the way as shooting began. Bystanders captured footage of cops dragging fallen comrades out of the line of fire.",
+            "One of the cops killed was identified as Dallas Area Rapid Transit Police Officer Brent Thompson, 43. The others were picked off as they stood guard during the protest.",
+            "Four of the slain cops were members of the Dallas Police Department and      Brent Thompson, officials said."
+        ],
+        "tf-idf score": [
+            1.2755230245797133,
+            1.3096198501929859,
+            0.9706100373265266
+        ]
+    },
+    "0.21154618677247075-3-1482": {
+        "average clique similarity": 0.21154618677247075,
+        "clique": [
+            "5- We ve got some leve",
+            "2-Toward the end of he",
+            "0-is  ladies         W"
+        ],
+        "median tf-idf score": 0.5142365732170597,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\"We've got some level that this one suspect did do some of the shooting. But we're not satisfied that we've exhausted every lead,\" he said. \"So if there's someone out there who's associated with this, we will find you, we will prosecute you, and we will bring you to justice\".",
+            "Toward the end of her address, Lynch said: \"And to all Americans: I ask you not to allow the events of this week to precipitate a 'new normal' in our country. I ask you to turn to each other, not against each other as we move forward. And I urge you to remember, today and every day, that we are one nation. We are one people\".",
+            "is  ladies  ' '   \"We as a city, we as a country must come together, lock arms and   heal the wounds that we all feel from time to time."
+        ],
+        "tf-idf score": [
+            0.5142365732170597,
+            0.5208936054511157,
+            0.15237810527006346
+        ]
+    },
+    "0.21187583349993852-3-979": {
+        "average clique similarity": 0.21187583349993852,
+        "clique": [
+            "6-He added that despit",
+            "4- We believe that the",
+            "2- We must summon the "
+        ],
+        "median tf-idf score": 0.5330795675398043,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "He added that despite the danger, officers \"with no chance to protect themselves   ...     put themselves in harm's way to make sure citizens can get to a safe place. \"",
+            "\"We believe that these suspects were positioning themselves to in a way to triangulate themselves from two different perches,\" Brown said. The plan, Brown said, appeared to be to \"injure and kill as many law enforcement officers as they could. \"",
+            "\"We must summon the ability to respond to this challenge in a way that will make Dallas and Texas even stronger,\" he said."
+        ],
+        "tf-idf score": [
+            0.3718555900351495,
+            0.8822173007641266,
+            0.5330795675398043
+        ]
+    },
+    "0.2127549002052852-3-1111": {
+        "average clique similarity": 0.2127549002052852,
+        "clique": [
+            "7-The protest was one ",
+            "4-Reports of an office",
+            "1-12 27 p  m  The pres"
+        ],
+        "median tf-idf score": 1.290216041197359,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The protest was one of several around the country, prompted by police shootings of black men in Louisiana and Minnesota. Prayers to the families, officers, all affected by this. Good will triumph over this evil.",
+            "Reports of an officer shot at the protest march. Police had been actively tweeting about the protest in the downtown area, which was in response to two black men who were shot and killed by police this week in Minnesota and Louisiana.",
+            "12:27 p. m. The president has ordered flags to fly at   until sunset on July 12 in response to the killings. Here it is, in part: As a mark of respect for the victims of the attack on police officers perpetrated on Thursday, July 7, 2016, in Dallas, Texas, by the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, I hereby order that the flag of the United States shall be flown at   at the White House and upon all public buildings and grounds, at all military posts and naval stations, and on all naval vessels of the Federal Government in the District of Columbia and throughout the United States and its Territories and possessions until sunset, July 12, 2016."
+        ],
+        "tf-idf score": [
+            1.1930143650309664,
+            1.290216041197359,
+            1.3268494998344855
+        ]
+    },
+    "0.21425638257351678-3-1482": {
+        "average clique similarity": 0.21425638257351678,
+        "clique": [
+            "4-He added that the sh",
+            "3-He is seen on Facebo",
+            "0-       Remaining gun"
+        ],
+        "median tf-idf score": 0.7006842039147256,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "He added that the shooter, who was cornered at El Centro College in downtown Dallas, acted alone and was not affiliated with any group.",
+            "He is seen on Facebook wearing a dashiki, a traditional West African shirt, as he raises his clenched right first. Johnson liked pages connected to Elijah Mohammed, the deceased founder of the Nation of Islam, and other militant groups such as The New Black Panther Party and the African American Defense League. \"Our hostage negotiating team did an exceptional job getting this suspect to talk,\" the city's top cop said about the man, who had been holed up for hours in an El Centro College garage.",
+            "' ' '  Remaining gunman in the El Centro College garage reported dead   ' '   The shootout between police and the gunman is now over. ' '   President Barack Obama addressed the shooting in a press   conference from Warsaw."
+        ],
+        "tf-idf score": [
+            0.6078083736990144,
+            0.9632654400469115,
+            0.7006842039147256
+        ]
+    },
+    "0.21706434166628985-3-937": {
+        "average clique similarity": 0.21706434166628985,
+        "clique": [
+            "2-   started out as wh",
+            "6-Undercover and unifo",
+            "5- As we ve started to"
+        ],
+        "median tf-idf score": 0.8649386108156729,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            ".. started out as what was, to me, the biggest and most inspiring rally I've been to in Dallas.",
+            "Undercover and uniformed police officers started running around the corner and \"froze,\" Mays said. \"Police officers started shooting in one direction, and whoever was shooting started shooting back. \"And that's where the war began. \"",
+            "\"As we've started to unravel this fishing knot, we've come to realize this shooting came from one building at different levels\". Rawlings said investigators' initial confusion about the number of shooters was partly because about 20 protesters wearing protective vests and carrying rifles scattered when the shooting started."
+        ],
+        "tf-idf score": [
+            0.4984484906976566,
+            1.2771770060701,
+            0.8649386108156729
+        ]
+    },
+    "0.21872334358773038-3-1482": {
+        "average clique similarity": 0.21872334358773038,
+        "clique": [
+            "5-Police initially sai",
+            "2-A gunman in a parkin",
+            "1-This was the suspect"
+        ],
+        "median tf-idf score": 1.237950555403469,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Police initially said at least two snipers fired \" \" from an \"elevated position\" before they exchanged gunfire and negotiated with a suspect, later identified as Johnson, for hours at a parking garage in downtown Dallas.",
+            "A gunman in a parking garage exchanged fire with police for 45 minutes, according to the Dallas Morning News.",
+            "This was the suspect Police Chief David Brown said had earlier been \"cornered\" in a downtown parking garage and exchanging gunfire with SWAT officers."
+        ],
+        "tf-idf score": [
+            1.237950555403469,
+            0.745677953066391,
+            1.4854346573299755
+        ]
+    },
+    "0.22656278721017706-3-1193": {
+        "average clique similarity": 0.22656278721017706,
+        "clique": [
+            "3-On Wednesday  a poli",
+            "5-Castile  a school fo",
+            "7- In times like this "
+        ],
+        "median tf-idf score": 1.149745014815571,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "On Wednesday, a police officer in Minnesota fatally shot Philando Castile as he sat in a car with his girlfriend, Diamond Reynolds, and her    daughter. Reynolds livestreamed the bloody aftermath of the shooting on Facebook, sparking further outrage over police shootings.",
+            "Castile, a school food services worker, was shot in Falcon Heights, outside Minneapolis, when a police officer pulled him over because of a broken taillight, said Reynolds, who was in the car with him.",
+            "\"In times like this we must remember    and emphasize    the importance of uniting as Americans,\" Abbott said. The protesters had gathered after a Minnesota officer on Wednesday fatally shot Philando Castile while he was in a car with a woman and a child in a St. Paul suburb."
+        ],
+        "tf-idf score": [
+            0.9717761972429338,
+            1.3060484816389468,
+            1.149745014815571
+        ]
+    },
+    "0.228463393718366-3-206": {
+        "average clique similarity": 0.228463393718366,
+        "clique": [
+            "5- Through our investi",
+            "6-During remarks at a ",
+            "1-Speaking at the vigi"
+        ],
+        "median tf-idf score": 0.6955615596226179,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"Through our investigation of some of the suspects, it's revealed to us that this was a      evil tragedy,\" he said.",
+            "During remarks at a prayer vigil on Friday afternoon, Brown said that \"this was a      evil tragedy by these suspects,\" adding: \"And we won't rest until we bring everyone involved to justice. \" Outside the Dallas police headquarters, a steady stream of people came to pay their respects, draping flowers and toys across police cars on the forecourt.",
+            "Speaking at the vigil, Chief David Brown, wiping away tears, said: \"This was a      evil tragedy. \""
+        ],
+        "tf-idf score": [
+            0.6414210491668232,
+            1.4790695713452435,
+            0.6955615596226179
+        ]
+    },
+    "0.23340254020310158-3-1220": {
+        "average clique similarity": 0.23340254020310158,
+        "clique": [
+            "2-Patrick Zamarripa  3",
+            "3-Another was identifi",
+            "6-They included Brent "
+        ],
+        "median tf-idf score": 1.1545200151738038,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Patrick Zamarripa, 32, was one of the four Dallas Police officers who died in the attack. He had served in the U S Navy, with deployments to Iraq and Bahrain.",
+            "Another was identified as Michael Krol, who joined the Dallas force in 2007 after spending four years working for the jail system of the Wayne County Sheriff's Office in Michigan,  \"We are saddened by the loss of the dedicated officers in Dallas --   one of whom was a former member of this agency  --   and also the wounding of the other officers,\" Sheriff Beny Napoleon said in a statement.",
+            "They included Brent Thompson, a    transit police officer; Patrick Zamarripa, a    police officer who served three tours in Iraq with the U S military; and Michael Krol, a    officer who joined the Dallas police in 2008; Lorne Ahrens, a former   football player and   veteran of the Dallas police; and an officer identified in media reports as Michael Smith."
+        ],
+        "tf-idf score": [
+            1.1545200151738038,
+            1.2615501471336732,
+            1.0439280835709819
+        ]
+    },
+    "0.2348791920068174-3-666": {
+        "average clique similarity": 0.2348791920068174,
+        "clique": [
+            "4-Later on Friday morn",
+            "6- Smiley N   Dallas M",
+            "2-Dallas officers are "
+        ],
+        "median tf-idf score": 0.863927706071496,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Later on Friday morning, Mayor Rawlings confirmed Johnson was killed in the standoff.",
+            "(Smiley N   Dallas Morning News)  Rawlings said it was \"a heartbreaking morning\" and called for unity.",
+            "Dallas officers are hurting,\" Brown said Friday morning."
+        ],
+        "tf-idf score": [
+            0.5872619245959355,
+            0.863927706071496,
+            0.9270580747339118
+        ]
+    },
+    "0.23574396417399104-3-76": {
+        "average clique similarity": 0.23574396417399104,
+        "clique": [
+            "5-They are analyzing i",
+            "1-Detectives are in th",
+            "6- As you can imagine "
+        ],
+        "median tf-idf score": 0.9259485516402283,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "They are analyzing information in the journal, police said in a statement.",
+            "Detectives are in the processing of analyzing the information contained in the journal, Separately, the department said, a man identified as Brandon Waller, 25, was arrested during the protests late Thursday on unrelated weapons charges. The statement did not offer any information on the three others --  two men and a woman --  arrested earlier.",
+            "\"As you can imagine, our hearts are broken,\" the agency said in a statement. \"We are grateful to report the three other DART police officers shot during the protest are expected to recover from their injuries. \" These three officers were named as Omar Cannon, 44; Misty McBride, 32; and Jesus Retana, 39."
+        ],
+        "tf-idf score": [
+            0.6569830461478847,
+            0.9259485516402283,
+            1.1825489597805183
+        ]
+    },
+    "0.2361230598030958-4-270": {
+        "average clique similarity": 0.2361230598030958,
+        "clique": [
+            "4-Early Friday morning",
+            "3-On Friday  Reynolds ",
+            "0-ABC News    that a l",
+            "1-Updated at 5 28 a  m"
+        ],
+        "median tf-idf score": 0.8857940822462118,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Early Friday morning, police officials confirmed a fifth officer died. It has been a devastating night. We are sad to report a fifth officer has died.",
+            "On Friday, Reynolds said: \"This thing that has happened in Dallas, it was not because of something that transpired in Minnesota.",
+            "ABC News    that a lawyer for the man confirmed he is not a suspect and has   been released by police. '",
+            "Updated at 5:28 a. m.  A fifth Dallas police officer has died: It has been a devastating night."
+        ],
+        "tf-idf score": [
+            0.8892823496358485,
+            0.882305814856575,
+            0.5729061123869529,
+            0.8949743374078087
+        ]
+    },
+    "0.23681654597559657-3-1482": {
+        "average clique similarity": 0.23681654597559657,
+        "clique": [
+            "5-The last two officer",
+            "0-       t t tDART ide",
+            "2-He is the first offi"
+        ],
+        "median tf-idf score": 0.8612789821586297,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "The last two officers were Dallas officer Patrick Zamarripa and DART Police officer Brent Thompson.",
+            "' ' ' 't't'tDART identifies Brent Thompson, 43, as DART officer killed in  shooting   ' '   The three other DART officers are expected to survive, they were   identified as  ' '  ' '   In a video that emerged on social media soon after first reports   of the incident, Dallas police officers could be seen shielding   themselves behind vehicles at a street corner after shots were   apparently fired during the protest. '",
+            "He is the first officer killed in the line of duty in DART's history. DART Police Chief James Spiller told CNN that Thompson had gotten married in just the last two weeks."
+        ],
+        "tf-idf score": [
+            0.8591269934202167,
+            1.4015506143971173,
+            0.8612789821586297
+        ]
+    },
+    "0.24173811339145368-3-1482": {
+        "average clique similarity": 0.24173811339145368,
+        "clique": [
+            "5-Investigators determ",
+            "6-Dallas Mayor Mike Ra",
+            "2-At a press conferenc"
+        ],
+        "median tf-idf score": 1.090539860636941,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Investigators determined Johnson was \"the lone shooter in this incident,\" Dallas Mayor Mike Rawlings said, confirming what federal officials had told CNN  \"This was a mobile shooter who had written manifestos on how to shoot and move, shoot and move, and that's what he did,\" Rawlings said at a news conference.",
+            "Dallas Mayor Mike Rawlings told CBS News that in addition to the police officers, two other people were wounded by gunfire, though their conditions were not immediately known.",
+            "At a press conference Friday, Dallas Mayor Mike Rawlings said \"the city is safe,\" and healing can begin."
+        ],
+        "tf-idf score": [
+            1.1291368475751893,
+            1.090539860636941,
+            0.6942167909355271
+        ]
+    },
+    "0.24437984322827414-3-1482": {
+        "average clique similarity": 0.24437984322827414,
+        "clique": [
+            "3-Two civilians also w",
+            "2-Seven other officers",
+            "1-Rawlings said eight "
+        ],
+        "median tf-idf score": 0.8819005811372072,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Two civilians also were wounded,   37, who was shot in the calf and was undergoing surgery Friday morning, said Mayor Mike Rawlings.",
+            "Seven other officers and two civilians were also injured. The suspect, who died in a parking garage, was Micah Xavier Johnson, authorities say.",
+            "Rawlings said eight Dallas police and five transit officers were shot, along with two civilians."
+        ],
+        "tf-idf score": [
+            0.8334258820265872,
+            0.8819005811372072,
+            1.2048735860809308
+        ]
+    },
+    "0.24438210885504452-3-1482": {
+        "average clique similarity": 0.24438210885504452,
+        "clique": [
+            "4- Twelve Texas police",
+            "7- Five Dallas police ",
+            "5-The victims  The fiv"
+        ],
+        "median tf-idf score": 1.4486308941946477,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "'Twelve Texas police officers were shot by sniper fire, five of them fatally, on Thursday night in what appeared to be a targeted ambush during a protest in downtown Dallas, officials said. Two civilians were also injured in the attack.'",
+            " Five Dallas police officers were killed and seven wounded by a sniper who \"wanted to kill white people\" during an   brutality protest Thursday, an explosion of violence that President Obama declared a \"vicious, calculated and despicable attack on law enforcement. \"",
+            "The victims, The five slain officers were identified on Friday."
+        ],
+        "tf-idf score": [
+            1.5549203069287294,
+            1.4486308941946477,
+            0.3829427117085499
+        ]
+    },
+    "0.2459328630062776-3-1209": {
+        "average clique similarity": 0.2459328630062776,
+        "clique": [
+            "4-The president noted ",
+            "0-    Obama also said ",
+            "1-7 23 a  m   Speaking"
+        ],
+        "median tf-idf score": 1.1416506152998283,
+        "publications": [
+            "Buzzfeed News",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The president noted facts about the shooting were still emerging but cautioned: \"When people are armed with powerful weapons, unfortunately it makes attacks these attacks more dangerous and more deadly. \" Texas Gov. Greg Abbott also released a statement Thursday night, saying the state would provide whatever assistance the city of Dallas needed. \"In times like this we must remember  --   and emphasize  --   the importance of uniting as Americans,\" he said.",
+            "'   Obama also said t he   believed he spoke for all Americans in saying \"we are horrified   and stand united with Dallas police force\". '",
+            "7:23 a. m.  Speaking in Warsaw, President Obama said the officers had been targeted. You can watch the president's remarks here: \"We are horrified over these events, and that we stand united with the people and the police department as it deals with this tremendous tragedy,\" Obama said. \"We still don't know all the facts."
+        ],
+        "tf-idf score": [
+            1.1416506152998283,
+            0.9352796499979042,
+            1.1676975247991754
+        ]
+    },
+    "0.2483318955317871-3-421": {
+        "average clique similarity": 0.2483318955317871,
+        "clique": [
+            "0-Four of the deceased",
+            "2-Praising his city s ",
+            "1- At 8 58 p  m  our w"
+        ],
+        "median tf-idf score": 1.0753106863987654,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Four of the deceased officers were from the   Dallas Police Department.",
+            "Praising his city's police department, Mayor Rawlings said Dallas recently had the lowest rate of   shootings of any large American city.",
+            "\"At 8:58 p. m. our worst nightmare happened,\" Dallas Mayor Mike Rawlings said at the press conference. Two of the deceased officers are from the Dallas Police Department."
+        ],
+        "tf-idf score": [
+            0.8500414356656485,
+            1.0753106863987654,
+            1.2483759636291998
+        ]
+    },
+    "0.2530696028669223-3-162": {
+        "average clique similarity": 0.2530696028669223,
+        "clique": [
+            "6-After the bloodshed ",
+            "2-The five deaths make",
+            "4-Mayor Rawlings said "
+        ],
+        "median tf-idf score": 1.439961691388279,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "After the bloodshed  --   the deadliest single day for law enforcement officers since the Sept. 11, 2001 attacks  --   authorities said one attacker was dead, three potential suspects were in custody and police were still investigating who may have been involved in the attack.",
+            "The five deaths make this the deadliest attack on American law enforcement since Sept. 11, 2001, which the National Law Enforcement Officers Memorial Fund calls \"the deadliest day in U S law enforcement history\".",
+            "Mayor Rawlings said he had been told by the police chief that the detained woman was a \"   . \" In a press conference Friday morning from a NATO conference in Poland, President Obama described the sniper attacks as a \"vicious, calculated, and despicable attack on law enforcement. \""
+        ],
+        "tf-idf score": [
+            1.4892117912315521,
+            0.528311185492579,
+            1.439961691388279
+        ]
+    },
+    "0.2561035146683424-4-1406": {
+        "average clique similarity": 0.2561035146683424,
+        "clique": [
+            "5-It ended when a Dall",
+            "6- Gillian   Washingto",
+            "7-He was killed when p",
+            "3-Micah Xavier Johnson"
+        ],
+        "median tf-idf score": 0.9681974628234175,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "It ended when a Dallas police bomb squad robot killed a gunman after negotiations failed. Investigators identified the dead attacker as Micah Xavier Johnson, 25, of Mesquite, Texas, a military veteran who'd served in Afghanistan.",
+            "(Gillian   Washington Post)   Police said Friday that Micah Xavier Johnson, a black    believed to be from the Dallas area, was the attacker killed by the police explosive.",
+            "He was killed when police sent a robot in to detonate a bomb, police said.",
+            "Micah Xavier Johnson, 25, of Mesquite, who served a tour of duty in Afghanistan, was killed Friday morning when police detonated a bomb after negotiations broke down with him."
+        ],
+        "tf-idf score": [
+            0.9531316445091293,
+            1.4001788541185536,
+            0.9742593872976952,
+            0.9621355383491397
+        ]
+    },
+    "0.25657013910946547-3-1109": {
+        "average clique similarity": 0.25657013910946547,
+        "clique": [
+            "6- Dallas police Chief",
+            "4- We were able to tak",
+            "5- We saw no other opt"
+        ],
+        "median tf-idf score": 1.4746727348383541,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "[Dallas police Chief David Brown lost his son, former partner and brother to violence]   Ultimately, Brown said police had no other option but to place an explosive device on their bomb robot and send it to the suspect, who was killed when the bomb detonated.",
+            "\"We were able to take out one of the suspects who was cornered in a garage  ...    with an explosive device,\" the mayor told CNN Chief Brown said Johnson exchanged gunfire with police and had \"told our negotiators that the end is coming, and he's going to hurt and kill more of us, meaning law enforcement. \"",
+            "\"We saw no other option but to use our bomb robot and place a device on its extension for it to detonate where the suspect was,\" Brown said. \"Other options would have exposed our officers to grave danger."
+        ],
+        "tf-idf score": [
+            1.4746727348383541,
+            1.497949121041304,
+            1.0699520351413117
+        ]
+    },
+    "0.25695456918170073-3-396": {
+        "average clique similarity": 0.25695456918170073,
+        "clique": [
+            "2-   run  run  run    ",
+            "4-Awaiting further det",
+            "5- I was screaming   R"
+        ],
+        "median tf-idf score": 0.6900250572356986,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            ".. run, run, run!' \"It's just devastating that these five officers have lost their lives, that they won't be going home to their families this morning. I am devastated, I am angry, I am frustrated,\" he said.",
+            "Awaiting further details. As the incident unfolded, police officers could be seen taking cover behind patrol cars as they responded to the incident. #breaking Crowd on the run downtown Dallas.",
+            "\"I was screaming, 'Run! Run!"
+        ],
+        "tf-idf score": [
+            0.6900250572356986,
+            0.9503675416045405,
+            0.26949109912969477
+        ]
+    },
+    "0.25887992090583245-3-1482": {
+        "average clique similarity": 0.25887992090583245,
+        "clique": [
+            "2-Then  close to the e",
+            "4-The suspect said he ",
+            "1- At the end of the d"
+        ],
+        "median tf-idf score": 0.7107999672535477,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Then, close to the end of the march, Hood was talking to a police sergeant when he heard gunshots. \"At first I didn't know what had happened,\" he said.",
+            "The suspect said he was upset at white people.",
+            "\"At the end of the day,\" he said, \"the system was trying to get me. \""
+        ],
+        "tf-idf score": [
+            0.9570328575597288,
+            0.7107999672535477,
+            0.55987576953109
+        ]
+    },
+    "0.2590423027040581-3-1482": {
+        "average clique similarity": 0.2590423027040581,
+        "clique": [
+            "6-The gunman was kille",
+            "1-11 05 a  m  Details ",
+            "3-The   who was killed"
+        ],
+        "median tf-idf score": 0.7168043117911453,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "The gunman was killed when police detonated a   robot.",
+            "11:05 a. m. Details are emerging about the man who was killed by a police robot bomb in the Dallas garage.",
+            "The   who was killed by a   robot in Dallas appears to have been the lone gunman whose sniper attack   according to a report."
+        ],
+        "tf-idf score": [
+            0.6982086853597699,
+            0.9651671806603769,
+            0.7168043117911453
+        ]
+    },
+    "0.2617918518664826-3-1482": {
+        "average clique similarity": 0.2617918518664826,
+        "clique": [
+            "0-    Dallas Mayor Mik",
+            "1-8 15 a  m  Dallas Ma",
+            "4- Our worst nightmare"
+        ],
+        "median tf-idf score": 0.8127128434335278,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "'   Dallas Mayor Mike Rawlings spoke around 12:30 a. m. local time   about the shootings: ' '   \"It is a   morning to lose these four officers that   proudly served their citizens.",
+            "8:15 a. m. Dallas Mayor Mike Rawlings says the suspect involved in a   with police died after officers used explosives to \"blast him out. \"",
+            "\"Our worst nightmare happened,\" Dallas Mayor Mike Rawlings said Thursday night. \"It is a heartbreaking moment for this city. \""
+        ],
+        "tf-idf score": [
+            0.8127128434335278,
+            1.0252742200971114,
+            0.690607067946915
+        ]
+    },
+    "0.2628147421473375-3-323": {
+        "average clique similarity": 0.2628147421473375,
+        "clique": [
+            "2-In addition to those",
+            "7-As many as three cit",
+            "4-Two officers were in"
+        ],
+        "median tf-idf score": 0.7155242025973508,
+        "publications": [
+            "Fox News",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "In addition to those officers, many of the police who were trapped at the scene were in their patrol and bike uniforms. For minutes afterward, gunfire echoed through the city's streets.",
+            "As many as three city police officers reportedly were in critical condition.",
+            "Two officers were in surgery Thursday night and three others were in critical condition, according to a police statement."
+        ],
+        "tf-idf score": [
+            0.7155242025973508,
+            0.6637997666392591,
+            0.7522949236435615
+        ]
+    },
+    "0.26293580119370097-3-1482": {
+        "average clique similarity": 0.26293580119370097,
+        "clique": [
+            "6-The eruption of viol",
+            "5-The deadly gunfire e",
+            "2-Two police shootings"
+        ],
+        "median tf-idf score": 0.8657982104665155,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "The eruption of violence at around 9 p. m. occurred during a calm protest over recent police shootings in Minnesota and Louisiana, with similar demonstrations occurring in cities across the country.",
+            "The deadly gunfire erupted in Dallas after videos showing two   men shot by police in Louisiana and Minnesota spurred protests and debate over police use of force across the country.",
+            "Two police shootings of black men prompted the protest in Dallas  --   and other cities across America  --   on Thursday night."
+        ],
+        "tf-idf score": [
+            0.6533663740948231,
+            0.8657982104665155,
+            0.882052957873432
+        ]
+    },
+    "0.2638849098869197-3-1482": {
+        "average clique similarity": 0.2638849098869197,
+        "clique": [
+            "5-Johnson had no crimi",
+            "3-Authorities initiall",
+            "1-Alleged Dallas gunma"
+        ],
+        "median tf-idf score": 0.7062089120627894,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Johnson had no criminal record or known terror ties, a law enforcement official said. He served in the U S Army Reserve from March 2009 to April 2015, training as a carpentry and masonry specialist, according to Pentagon records.",
+            "Authorities initially said that at least two snipers had carried out an ambush by firing from various positions, including from elevated ones downtown. Johnson, who identified himself on Facebook as a black nationalist, had no known criminal history or links to terror groups, officials said.",
+            "Alleged Dallas gunman Micah X Johnson was an Army veteran, an Army personnel spokesperson confirmed to me. #DallasPoliceShooting, Later, CNN, citing a   official, reported Johnson had no criminal record or known ties to terrorism."
+        ],
+        "tf-idf score": [
+            0.6191199552923006,
+            0.7062089120627894,
+            0.7570074318114965
+        ]
+    },
+    "0.26396403773246063-3-1482": {
+        "average clique similarity": 0.26396403773246063,
+        "clique": [
+            "6-and the aftermath of",
+            "5-Hundreds of miles aw",
+            "1- He was upset about "
+        ],
+        "median tf-idf score": 0.8666732334104946,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "and the aftermath of another in Minnesota. On Tuesday morning, Alton Sterling was fatally shot by police in Baton Rouge; less than 48 hours later, Philando Castile was fatally shot by an officer in Minnesota.",
+            "Hundreds of miles away, protesters marched outside a convenience store in Baton Rouge, Louisiana, where Alton Sterling was fatally shot Tuesday while police tackled him in a parking lot.",
+            "\"He was upset about Black Lives Matter,\" Brown said of the suspect."
+        ],
+        "tf-idf score": [
+            1.148671364507166,
+            0.8666732334104946,
+            0.7769746558035382
+        ]
+    },
+    "0.26886501973999416-3-491": {
+        "average clique similarity": 0.26886501973999416,
+        "clique": [
+            "5-Johnson killed by bo",
+            "2-But authorities tell",
+            "7-The suspect was kill"
+        ],
+        "median tf-idf score": 1.115688279445046,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Johnson killed by bomb, As officials condemned the attack, details emerged about the man who died after a lengthy standoff with police in a parking garage.",
+            "But authorities tell NPR the suspected gunman, who appears to have been working alone, was killed after an   standoff with police at a parking garage at El Centro College in downtown Dallas.",
+            "The suspect was killed when police sent an   robot into the El Centro Community College parking garage to detonate the bomb after negotiations went nowhere, Brown said, refuting earlier reports that the man killed himself."
+        ],
+        "tf-idf score": [
+            0.7284496869264154,
+            1.115688279445046,
+            1.351742500912073
+        ]
+    },
+    "0.2695472390621845-3-1067": {
+        "average clique similarity": 0.2695472390621845,
+        "clique": [
+            "6-He called on America",
+            "4-Obama described last",
+            "0-         The city is"
+        ],
+        "median tf-idf score": 0.7121429135832856,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "He called on Americans to \"profess our profound gratitude to the men and women in blue\" and to remember the victims in particular. \"Today, our focus is on the victims and their families,\" Obama said. \"They are heartbroken, and the entire city of Dallas is grieving.",
+            "Obama described last night's events as a \"wrenching reminder\" of the sacrifices made by police officers over country. \"Our focus is on the victims and their families. They are heartbroken. The whole city of Dallas is grieving. \"",
+            "'  ' '   The city is still on lockdown as the police operation to find all   the shooters goes on."
+        ],
+        "tf-idf score": [
+            0.7121429135832856,
+            1.022574759241559,
+            0.41528715814861994
+        ]
+    },
+    "0.2738743957926399-3-1482": {
+        "average clique similarity": 0.2738743957926399,
+        "clique": [
+            "6-In those conversatio",
+            "0-Both of those shooti",
+            "1-    The deadly attac"
+        ],
+        "median tf-idf score": 0.4219330293229634,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In those conversations, Brown said the suspect told police that \"he was upset about Black Lives Matter\" and angered by the police shootings in Louisiana and Minnesota that dominated national news this week after officers in both places fatally shot black men.",
+            "Both of those shootings  --   in which   black men were killed during encounters with law enforcement  --     have prompted rebukes from   leaders and elected   officials across the country. '",
+            "--  The deadly attacks occurred during protests against   shootings of black men this week in Louisiana and Minnesota."
+        ],
+        "tf-idf score": [
+            1.7828512958086649,
+            0.4219330293229634,
+            0.3638714700570882
+        ]
+    },
+    "0.2769323690741098-3-1482": {
+        "average clique similarity": 0.2769323690741098,
+        "clique": [
+            "2-During negotiations ",
+            "7- We re hurting   sai",
+            "5-Authorities said thr"
+        ],
+        "median tf-idf score": 1.1134961705747055,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "During negotiations with police, the man later identified as Johnson spoke about his motivations, Police Chief David Brown said at a Friday morning news conference.",
+            "\"We're hurting,\" said Dallas Police Chief David Brown in a Friday morning news conference.",
+            "Authorities said three suspects were in custody earlier Friday, but later told CNN they had been questioned and released.  ' ' attack  Dallas police Chief David Brown provided more details during a prayer rally Friday."
+        ],
+        "tf-idf score": [
+            1.0982314512331635,
+            1.1134961705747055,
+            1.3514387249193969
+        ]
+    },
+    "0.27851321337589374-3-1482": {
+        "average clique similarity": 0.27851321337589374,
+        "clique": [
+            "2-Early in the investi",
+            "1- Tonight it appears ",
+            "6-While police said th"
+        ],
+        "median tf-idf score": 1.1435720856614193,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Early in the investigation, police said they believed multiple shooters, whom police described as snipers, took elevated positions in a parking garage so they could \"triangulate\" their attacks and inflict harm on as many officers as they could.",
+            "\"Tonight it appears that two snipers shot ten police officers from elevated positions during the \" Brown said in an initial statement.",
+            "While police said they were killed by \"snipers\" perched atop \"elevated positions\" and initially said there were two snipers, it was unclear Friday how many attackers were involved."
+        ],
+        "tf-idf score": [
+            1.1588894030944428,
+            1.1435720856614193,
+            1.080634399811599
+        ]
+    },
+    "0.2860407991708198-3-1482": {
+        "average clique similarity": 0.2860407991708198,
+        "clique": [
+            "3-The new information ",
+            "5-Five police officers",
+            "6-       DALLAS       "
+        ],
+        "median tf-idf score": 1.125489853699935,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The new information emerged after snipers gunned down five police officers and injured seven others during protests over two fatal police shootings of black men  --   an explosion of violence described as the deadliest day for law enforcement since  .",
+            "Five police officers were killed and seven others wounded in the ambush.",
+            "       DALLAS  --   Five Dallas police officers were killed and seven others wounded Thursday night when sniper fire turned a peaceful protest over recent police shootings into a scene of chaos and terror."
+        ],
+        "tf-idf score": [
+            1.125489853699935,
+            0.7225507500064434,
+            1.2327575185717425
+        ]
+    },
+    "0.2885876213569187-3-844": {
+        "average clique similarity": 0.2885876213569187,
+        "clique": [
+            "4-Three people had bee",
+            "3-He wanted to kill wh",
+            "1-At a late night pres"
+        ],
+        "median tf-idf score": 1.5243542798338667,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Three people had been initially taken into custody, while Johnson had been cornered by officers on the second floor of a parking garage, Dallas Police Chief David Brown said late Thursday night.",
+            "He wanted to kill white people, especially police officers,\" Dallas Police Chief David Brown said.",
+            "At a late night press conference, Dallas Police Department Chief David Brown said a male suspect is \"cornered\" and exchanging gunfire with SWAT officers in a downtown parking garage."
+        ],
+        "tf-idf score": [
+            1.5243542798338667,
+            1.3266397253952145,
+            1.555303663853804
+        ]
+    },
+    "0.29268212425473206-3-1482": {
+        "average clique similarity": 0.29268212425473206,
+        "clique": [
+            "1-The death toll makes",
+            "5-It was the deadliest",
+            "7-Police and federal a"
+        ],
+        "median tf-idf score": 0.7391959705347697,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "The death toll makes this one of the deadliest days for police in the history of American law enforcement.",
+            "It was the deadliest single incident for U S law enforcement since September 11, 2001. Two civilians were also hurt, the Dallas mayor's office said.",
+            "Police and federal authorities were working to determine whether more people were involved in what was the nation's deadliest day for police since  ."
+        ],
+        "tf-idf score": [
+            0.5126196384059531,
+            0.9089632724914023,
+            0.7391959705347697
+        ]
+    },
+    "0.30065531781178895-3-947": {
+        "average clique similarity": 0.30065531781178895,
+        "clique": [
+            "4-Dallas Police Chief ",
+            "0-    Dallas Police Ch",
+            "6-The gunfire was foll"
+        ],
+        "median tf-idf score": 1.937872886190787,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Dallas Police Chief David Brown said during a press conference Friday that the gunman in the attack, who was eventually killed by a robotic bomb, told officers and negotiators during a standoff that he was upset with the recent killings of black people by the police.",
+            "'   Dallas Police Chief David O Brown said the officers were shot by   two snipers in \"elevated positions\" near the protest.",
+            "The gunfire was followed by a standoff that lasted for hours with a suspect who told authorities \"he was upset about the recent police shootings\" and \"said he wanted to kill white people, especially white officers,\" according to Dallas Police Chief David Brown."
+        ],
+        "tf-idf score": [
+            1.9514717397373282,
+            1.4028814578738669,
+            1.937872886190787
+        ]
+    },
+    "0.30112229620859193-3-388": {
+        "average clique similarity": 0.30112229620859193,
+        "clique": [
+            "2-The suspect who was ",
+            "4-The shooter was iden",
+            "6-Johnson had no crimi"
+        ],
+        "median tf-idf score": 1.0105581177509986,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The suspect who was killed is Micah Xavier Johnson, two federal law enforcement officials briefed on the investigation tell NPR The Pentagon confirms that Johnson served in the Army Reserve and was deployed to Afghanistan.",
+            "The shooter was identified by Dallas Police as Micah Johnson, a    former member of the Army Reserves who served a tour in Afghanistan.",
+            "Johnson had no criminal history, police said. Johnson deployed to Afghanistan with the U S Army from November 2013 through July 2014 and was in the Army Reserve from 2009 until last year."
+        ],
+        "tf-idf score": [
+            0.771865214940995,
+            1.0118511902594276,
+            1.0105581177509986
+        ]
+    },
+    "0.3126472578026964-3-1482": {
+        "average clique similarity": 0.3126472578026964,
+        "clique": [
+            "6-said Friday  that of",
+            "4- We are being very c",
+            "7-There are no words t"
+        ],
+        "median tf-idf score": 0.8384367968560889,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "said Friday, that officers nationwide \"really are going to have to have vigilance. Any traffic stop, at any time, can be deadly. I don't know what this means. I don't know if this means more violence perpetrated toward law enforcement as a result of this. \"",
+            "\"We are being very careful in our tactics so we don't put any of our officers in harm, as well as the citizens of Dallas,\" Brown said.",
+            "There are no words to describe the atrocity that occurred to our city. All I know is this must stop, this divisiveness betweeen our police and our citizens\"."
+        ],
+        "tf-idf score": [
+            0.8435852995091669,
+            0.8384367968560889,
+            0.45039257240090674
+        ]
+    },
+    "0.3182710924592325-3-1482": {
+        "average clique similarity": 0.3182710924592325,
+        "clique": [
+            "6-He also said he was ",
+            "1-Brown said the suspe",
+            "7- He said he was upse"
+        ],
+        "median tf-idf score": 0.7052268642403067,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Fox News"
+        ],
+        "sentences": [
+            "He also said he was not involved with any groups and acted alone, the police chief said.",
+            "Brown said the suspect said he wasn't affiliated with any group and was acting alone.",
+            "\"He said he was upset at white people,\" Brown said."
+        ],
+        "tf-idf score": [
+            0.9135824743049159,
+            0.7008138971502664,
+            0.7052268642403067
+        ]
+    },
+    "0.32488906292069675-5-674": {
+        "average clique similarity": 0.32488906292069675,
+        "clique": [
+            "6-President Obama  who",
+            "4- There is no possibl",
+            "7-He renewed his calls",
+            "0-He called it a  vici",
+            "2-Obama added that whi"
+        ],
+        "median tf-idf score": 0.8621537641398032,
+        "publications": [
+            "Buzzfeed News",
+            "Fox News",
+            "Washington Post",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "President Obama, who after arriving in Warsaw discussed how troubling the events in Minnesota and Louisiana were, spoke about the Dallas attack and said  there was \"no possible justification\" for the shooting in the city.",
+            "\"There is no possible justification for these kinds of attacks or any violence against law enforcement,\" Obama said.",
+            "He renewed his calls for more gun control. \"There's no possible justification for these kinds of attacks or any violence against law enforcement,\" Obama said, hours after a   speech in which he cited two racially charged police shootings earlier in the week and called for an end to bias in law enforcement.",
+            "He called it a \"vicious, calculated   attack,\" adding that there was no possible justification for   those actions and that justice would be done.",
+            "Obama added that while the \"twisted motivations\" of the attackers will surely emerge, \"there is no possible justification for these kinds of attacks, or any violence against law enforcement\". The president added that the FBI is in contact with Dallas police about the case."
+        ],
+        "tf-idf score": [
+            1.097628428918942,
+            0.5110980757144585,
+            1.0886584379053075,
+            0.3974060661413965,
+            0.8621537641398032
+        ]
+    },
+    "0.3301336227631452-3-1482": {
+        "average clique similarity": 0.3301336227631452,
+        "clique": [
+            "1-I do blame former Bl",
+            "4- The suspect said he",
+            "2-In the short purport"
+        ],
+        "median tf-idf score": 0.5712970979863837,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "I do blame former Black Lives Matter protests.",
+            "\"The suspect said he was upset about Black Lives Matter. He was upset about the recent shootings.",
+            "In the short purported manifesto, the writer points to police shootings of black Americans as his motivation and criticizes the Black Lives Matter movement."
+        ],
+        "tf-idf score": [
+            0.14019111444873078,
+            0.8185376347553598,
+            0.5712970979863837
+        ]
+    },
+    "0.3361173637836423-3-1482": {
+        "average clique similarity": 0.3361173637836423,
+        "clique": [
+            "2-He had the rank of P",
+            "1-He served in the 420",
+            "6-He did not have a co"
+        ],
+        "median tf-idf score": 0.2745308319838481,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He had the rank of Private First Class and was a carpentry and masonry specialist.",
+            "He served in the 420th Engineering Brigade, which is based in Texas, as a carpentry and masonry specialist. Johnson served in the Army from March 2009 to April 2015.",
+            "He did not have a combat job and was listed as a carpentry and masonry specialist."
+        ],
+        "tf-idf score": [
+            0.2745308319838481,
+            0.1866602620640389,
+            0.2905522177537309
+        ]
+    },
+    "0.3372701451770978-3-747": {
+        "average clique similarity": 0.3372701451770978,
+        "clique": [
+            "6-Read more   Two year",
+            "2-This is a developing",
+            "4-The City of Dallas r"
+        ],
+        "median tf-idf score": 0.3299251063831901,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "Read more:  Two years after Ferguson, fatal shootings by police are up The Post's database of fatal police shootings  The Dallas sniper attack was the deadliest event for police since     [This developing news story will be continually updated.",
+            "This is a developing story.",
+            "The City of Dallas released a traffic plan detailing the   areas. This is a developing story."
+        ],
+        "tf-idf score": [
+            1.1330875515056082,
+            0.02371607685425637,
+            0.3299251063831901
+        ]
+    },
+    "0.33917849023355695-5-368": {
+        "average clique similarity": 0.33917849023355695,
+        "clique": [
+            "6-They were apprehende",
+            "2-Three other suspects",
+            "0-    A woman was take",
+            "4-Two sweeps for explo",
+            "7-A woman was taken in"
+        ],
+        "median tf-idf score": 0.9579086025081411,
+        "publications": [
+            "NPR",
+            "Business Insider",
+            "Fox News",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "They were apprehended in the Oak Cliff neighborhood of Dallas. A third possible suspect, a woman, was taken into custody near a garage where the attacker who exchanged gunfire with police wound up.",
+            "Three other suspects were initially taken into custody, three men at a traffic stop and a woman by the parking garage.",
+            "'   A woman was taken into custody near a parking garage where a   gunman was believed to be firing shots, as well as two men who   were carrying camouflage bag, Chief Brown said. '",
+            "Two sweeps for explosives did not find any devices, an officer with the Dallas police said. The other three people taken into custody included a woman who had been in the garage and two men who were seen throwing a duffel bag into a Mercedes before speeding away from the area, Brown told reporters.",
+            "A woman was taken into custody near the garage and two men reportedly seen packing a camouflage bag into a Mercedes before speeding from the scene were apprehended and detained, the mayor said."
+        ],
+        "tf-idf score": [
+            1.0414891649750442,
+            0.2517380665741031,
+            0.9579086025081411,
+            1.4865570297944182,
+            0.7639249735334757
+        ]
+    },
+    "0.3503108258428932-3-1482": {
+        "average clique similarity": 0.3503108258428932,
+        "clique": [
+            "6-The slain police inc",
+            "1-Of these  four Dalla",
+            "2-Dallas Area Rapid Tr"
+        ],
+        "median tf-idf score": 0.9015388854142306,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "The slain police included four Dallas police officers and one Dallas Area Rapid Transit (DART) officer.",
+            "Of these, four Dallas police officers and one officer from the Dallas Area Rapid Transit were killed.",
+            "Dallas Area Rapid Transit officer Brent Thompson, 43, was among the slain, according to DART Thompson had joined the agency in 2009."
+        ],
+        "tf-idf score": [
+            0.9015388854142306,
+            0.9122849115621954,
+            0.8917241540154534
+        ]
+    },
+    "0.35555241946737365-3-280": {
+        "average clique similarity": 0.35555241946737365,
+        "clique": [
+            "1-Here s more  They sa",
+            "5-Police have said at ",
+            "0-    Dallas Police of"
+        ],
+        "median tf-idf score": 1.1975148082357334,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Here's more: They said without further explanation that the officer was shot at least once from behind and there were at least three shots fired at him.",
+            "Police have said at least 10 officers were shot by a sniper and one officer was shot in a shootout at the parking garage.",
+            "'   Dallas Police officials said at least 11 officers and one   civilian were shot."
+        ],
+        "tf-idf score": [
+            0.8819944049337222,
+            1.2894562137753542,
+            1.1975148082357334
+        ]
+    },
+    "0.35891075167776215-3-1482": {
+        "average clique similarity": 0.35891075167776215,
+        "clique": [
+            "4-That officer was ide",
+            "6-DART grieving the lo",
+            "1-DART identified its "
+        ],
+        "median tf-idf score": 0.7827426193310545,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "That officer was identified as    Brent Thompson, a   veteran of the force and the first DART officer killed in the line of duty. DART grieving the loss of Ofc Brent Thompson, 43, killed during Thurs protest.",
+            "DART grieving the loss of Ofc Brent Thompson, 43, killed during Thurs protest.",
+            "DART identified its slain officers as Brent Thompson, 43, who joined the transit agency's police department in 2009."
+        ],
+        "tf-idf score": [
+            0.7982767136075143,
+            0.20265610287210062,
+            0.7827426193310545
+        ]
+    },
+    "0.36659571771402305-3-1482": {
+        "average clique similarity": 0.36659571771402305,
+        "clique": [
+            "3-The wounded DART off",
+            "1-The transit police d",
+            "2-DART also released t"
+        ],
+        "median tf-idf score": 0.7461616644276554,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "The wounded DART officers were identified as Omar Cannon, 44, Misty McBride, 32, and Jesus Retana, 39. Most of the injured cops have been released from a hospital, Brown told reporters. Their conditions are improving, he said.",
+            "The transit police department identified the injured officers as Omar Cannon, Misty McBride, and Jesus Retana.",
+            "DART also released the names of three injured officers who are expected to recover. They are Omar Cannon, 44, Misty McBride, 32, and Jesus Retana, 39."
+        ],
+        "tf-idf score": [
+            0.8912659786273506,
+            0.7461616644276554,
+            0.39292821785123716
+        ]
+    },
+    "0.37549111702307175-3-302": {
+        "average clique similarity": 0.37549111702307175,
+        "clique": [
+            "5-Johnson s neighbor  ",
+            "6-The Dallas Police De",
+            "2-A search of Johnson "
+        ],
+        "median tf-idf score": 0.8223183724880568,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Johnson's neighbor, Wayne Bynoe, said police cars were outside his home Friday.",
+            "The Dallas Police Department said Friday that during a search of Johnson's home, they found \"bomb making materials, ballistic vests, rifles, ammunition, and a personal journal of combat tactics. \"",
+            "A search of Johnson's home uncovered \"  materials, ballistic vests, rifles, ammunition and a personal journal of combat tactics,\" police said Friday."
+        ],
+        "tf-idf score": [
+            0.7876478208045007,
+            1.0964801875812342,
+            0.8223183724880568
+        ]
+    },
+    "0.3850303486687994-3-833": {
+        "average clique similarity": 0.3850303486687994,
+        "clique": [
+            "6-Dallas Police respon",
+            "3-Meanwhile  the famil",
+            "7-A day earlier  Alton"
+        ],
+        "median tf-idf score": 1.1598439397593514,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Dallas Police respond after shots were fired at a Black Lives Matter rally in downtown Dallas on Thursday, July 7, 2016. Dallas protestors rallied in the aftermath of the killing of Alton Sterling by police officers in Baton Rouge, La.",
+            "Meanwhile, the family of Alton Sterling  --   who was shot Tuesday after being pinned to the pavement by two white cops in Baton Rouge, Louisiana  --   denounced the shootings of Dallas police.",
+            "A day earlier, Alton Sterling was shot in Louisiana after being pinned to the pavement by two white officers."
+        ],
+        "tf-idf score": [
+            1.2158601608748012,
+            1.1598439397593514,
+            0.7415819733955118
+        ]
+    },
+    "0.3858917447421189-3-699": {
+        "average clique similarity": 0.3858917447421189,
+        "clique": [
+            "4-Our thoughts and pra",
+            "2- There are no words ",
+            "1-Our thoughts and pra"
+        ],
+        "median tf-idf score": 0.913277865616936,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Our thoughts and prayers are with the police officers who were shot in #Dallas tonight.",
+            "\"There are no words to describe the atrocity that occurred to our city,\" Dallas Police Chief David Brown said Friday morning. \"All I know is that this must stop, this divisiveness between our police and our citizens\".",
+            "Our thoughts and prayers are with the police officers who were shot in #Dallas tonight. Awaiting further details."
+        ],
+        "tf-idf score": [
+            0.9087030070514758,
+            1.145700132927909,
+            0.913277865616936
+        ]
+    },
+    "0.3992312978455286-3-1482": {
+        "average clique similarity": 0.3992312978455286,
+        "clique": [
+            "6- I mourn for the off",
+            "4- Police in Dallas we",
+            "1-9 15 a  m  We have r"
+        ],
+        "median tf-idf score": 0.7591767689366451,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"I mourn for the officers shot while doing their sacred duty to protect peaceful protesters, for their families [and] all who serve with them,\" Hillary Clinton, the presumptive Democratic nominee for president, wrote in a message on Twitter. Her likely Republican opponent, Donald J Trump, called the shooting \"a coordinated, premeditated assault on the men and women who keep us safe. \"",
+            "\"Police in Dallas were on duty, doing their jobs, keeping people safe during peaceful protests,\" the president said.",
+            "9:15 a. m. We have reactions from the presumptive presidential nominees of the two main political parties: Prayers and condolences to all of the families who are so thoroughly devastated by the horrors we are all watching take place in our country, I mourn for the officers shot while doing their sacred duty to protect peaceful protesters, for their families  all who serve with them."
+        ],
+        "tf-idf score": [
+            0.7591767689366451,
+            0.9967604347898964,
+            0.5711157523794426
+        ]
+    },
+    "0.4235163055825089-3-1482": {
+        "average clique similarity": 0.4235163055825089,
+        "clique": [
+            "0-The suspect reported",
+            "5-Before authorities k",
+            "2-Police Chief David B"
+        ],
+        "median tf-idf score": 1.1926289566666608,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "The suspect reportedly   declared, \"The end is coming,\" Brown said, adding that the   suspect said he would \"hurt and kill\" more police officers and   that he had placed bombs inside the garage. '",
+            "Before authorities killed him with an explosive, Johnson told negotiators more officers were going to get hurt, and that bombs were planted all over downtown.",
+            "Police Chief David Brown said Johnson told negotiators \"the end was coming,\" that he's \"going to hurt and kill more\" law enforcement, and that there were bombs planted all over the garage and downtown."
+        ],
+        "tf-idf score": [
+            1.1926289566666608,
+            0.597384115505318,
+            1.3826742306943969
+        ]
+    },
+    "0.44196974425294266-3-1482": {
+        "average clique similarity": 0.44196974425294266,
+        "clique": [
+            "0-Two officers   under",
+            "5-The suspect was arre",
+            "1- Three officers are "
+        ],
+        "median tf-idf score": 0.6506731388932845,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Two officers   underwent surgery and three are in critical condition, according   to police. '",
+            "The suspect was arrested and the office was in critical condition, Scott said.",
+            "\"Three officers are deceased, two are in surgery, and three are in critical condition."
+        ],
+        "tf-idf score": [
+            0.6506731388932845,
+            0.6637172923917358,
+            0.31844208711187955
+        ]
+    },
+    "0.4503700135672649-3-1482": {
+        "average clique similarity": 0.4503700135672649,
+        "clique": [
+            "1-He said  he wanted t",
+            "2-Johnson was a U S mi",
+            "7-An unidentified gunm"
+        ],
+        "median tf-idf score": 1.2222814010444933,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "He said \"he wanted to kill white people, especially white officers. \"",
+            "Johnson was a U S military veteran who had served in Afghanistan, and told negotiators he was upset about police shootings and wanted to kill white police officers.",
+            "An unidentified gunman negotiated with police from inside a parking garage into the early morning hours, telling police he was angered over racially charged shootings and wanted to kill white people, police said."
+        ],
+        "tf-idf score": [
+            0.6720277814079356,
+            1.2222814010444933,
+            1.2957942030029688
+        ]
+    },
+    "0.47938043779060296-3-1482": {
+        "average clique similarity": 0.47938043779060296,
+        "clique": [
+            "2- He was upset about ",
+            "3- He was upset about ",
+            "5-Johnson told police "
+        ],
+        "median tf-idf score": 1.505099219728133,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\"He was upset about Black Lives Matter,\" Brown said, adding that the man cited the recent killings of black people and said that he wanted to kill white people  --   particularly white police officers.",
+            "\"He was upset about Black Lives Matter, the recent police shootings, he was upset at white people.",
+            "Johnson told police negotiators that he was upset about recent police shootings, that he wanted to kill white people    especially white officers    and that he acted alone, the police chief said."
+        ],
+        "tf-idf score": [
+            1.505099219728133,
+            0.882873841426559,
+            1.5610502064440748
+        ]
+    },
+    "0.4827013327644605-3-809": {
+        "average clique similarity": 0.4827013327644605,
+        "clique": [
+            "1-Meanwhile  investiga",
+            "6- Preliminarily  the ",
+            "5-The TBI said a preli"
+        ],
+        "median tf-idf score": 1.0350754524967074,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Meanwhile, investigators say a man who opened fire on a highway in Tennessee on Thursday, killing one person and wounding three others, including a police officers shot in the leg, may have acted after \"being troubled by recent incidents involving   and law enforcement officers in other parts of the country. \"",
+            "\"Preliminarily, the investigation reveals Scott may have targeted individuals and officers after being troubled by recent incidents involving   and law enforcement officers in other parts of the country,\" the agency said in a statement. They added that there was no current safety threat to the area and that the investigation suggested that Scott had worked alone.",
+            "The TBI said a preliminary investigation reveals the suspect, Lakeem Keon Scott, 37, may have targeted individuals and officers after being troubled by recent incidents involving   and law enforcement officers in other parts of the country."
+        ],
+        "tf-idf score": [
+            1.0350754524967074,
+            1.102094907452341,
+            0.8468083913611021
+        ]
+    },
+    "0.48703133988673913-3-1169": {
+        "average clique similarity": 0.48703133988673913,
+        "clique": [
+            "0-    A  from the tran",
+            "4-The Dallas Area Rapi",
+            "1-Dallas Area Rapid Tr"
+        ],
+        "median tf-idf score": 1.0471578580980554,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "'   A  from the transit agency said that four of its officers   were injured, with one deceased.",
+            "The Dallas Area Rapid Transit, or DART, also confirmed four of its officers were among the injured Thursday night, including one who was killed in the attack.",
+            "Dallas Area Rapid Transit also said four of the officers were from its police department, including one of the fatalities, on its official Twitter account."
+        ],
+        "tf-idf score": [
+            0.6085376826900107,
+            1.0471578580980554,
+            1.2477148420722626
+        ]
+    },
+    "0.5547372614160133-3-1482": {
+        "average clique similarity": 0.5547372614160133,
+        "clique": [
+            "1-    Three suspects a",
+            "4-The suspect stated h",
+            "7- He said he wanted t"
+        ],
+        "median tf-idf score": 0.9973974604759908,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Fox News"
+        ],
+        "sentences": [
+            "--  Three suspects are in custody and being questioned. One was killed. The slain suspect said he \"wanted to kill white people,\" the Dallas police chief said.",
+            "The suspect stated he wanted to kill white people, especially white officers,\" Brown said.",
+            "\"He said he wanted to kill white people, especially white police officers\"."
+        ],
+        "tf-idf score": [
+            1.4038428569327748,
+            0.8364241561822463,
+            0.9973974604759908
+        ]
+    }
+}

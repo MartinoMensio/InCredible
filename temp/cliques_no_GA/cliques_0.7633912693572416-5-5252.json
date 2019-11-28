@@ -1,0 +1,850 @@
+{
+    "0.15305848476019038-3-42": {
+        "average clique similarity": 0.15305848476019038,
+        "clique": [
+            "4-Gabor said she was h",
+            "3- A girl must marry f",
+            "2-Every time I leave a"
+        ],
+        "median tf-idf score": 0.3970694141276679,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Gabor said she was heartbroken by his death, calling him \u201cthe major love of my life.",
+            "\u201cA girl must marry for love, and keep on marrying until she finds it,\u201d Ms Gabor once said.",
+            "Every time I leave a man I keep his house,\u201d she said."
+        ],
+        "tf-idf score": [
+            0.7247956083991115,
+            0.3970694141276679,
+            0.16016555428058718
+        ]
+    },
+    "0.2059423080840078-3-154": {
+        "average clique similarity": 0.2059423080840078,
+        "clique": [
+            "1-Sanders would end up",
+            "2-When people unable t",
+            "0-She would have turne"
+        ],
+        "median tf-idf score": 0.11218113061402776,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Sanders would end up married to Magda.",
+            "When people unable to keep up would check with her how many husbands she had had, she would say: \u201cYou mean just my own?",
+            "She would have turned 100 in February."
+        ],
+        "tf-idf score": [
+            0.18710368823474938,
+            0.11218113061402776,
+            0.04654736919128692
+        ]
+    },
+    "0.2586562045302403-3-169": {
+        "average clique similarity": 0.2586562045302403,
+        "clique": [
+            "4-Every time I leave a",
+            "3-Exploiting her naugh",
+            "2-Her movie credits in"
+        ],
+        "median tf-idf score": 0.26771774368189083,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "Every time I leave a man, I keep his house.",
+            "Exploiting her naughty celebrity, Ms Gabor, with the help of collaborators and ghost writers, published four books: \u201cZsa Zsa Gabor: My Story\u201d (1960) \u201cZsa Zsa\u2019s Complete Guide to Men\u201d (1969) \u201cHow to Catch a Man, How to Keep a Man, How to Get Rid of a Man\u201d (1970) and \u201cOne Lifetime Is Not Enough\u201d (1991).",
+            "Her movie credits include decent contributions to two classics  \u2014   John Huston\u2019s Moulin Rouge (1952) and Orson Welles\u2019s Touch of Evil (1958)  \u2014   and her published works range from a   novel to    handbooks such as How to Catch a Man, How to Keep a Man, How to Get Rid of a Man."
+        ],
+        "tf-idf score": [
+            0.11378414002137793,
+            0.6220886813333992,
+            0.26771774368189083
+        ]
+    },
+    "0.26692225119713414-5-56": {
+        "average clique similarity": 0.26692225119713414,
+        "clique": [
+            "4-The couple divorced ",
+            "2-Curiously  Gabor and",
+            "1-2  hotel mogul Conra",
+            "0-2  hotel mogul Conra",
+            "3-Her husbands include"
+        ],
+        "median tf-idf score": 0.48090841883643254,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Reuters",
+            "Business Insider",
+            "New York Times"
+        ],
+        "sentences": [
+            "The couple divorced in 1947.\u2019 \u2019 On April, 1, 1949, Gabor announced she planned to wed actor George Sanders.",
+            "Curiously, Gabor and Taylor both married into the same American hotel empire (marrying Conrad Hilton Sr and Jr respectively).",
+            "2, hotel mogul Conrad Hilton, was financially   motivated.",
+            "2, hotel mogul Conrad Hilton, was financially motivated.",
+            "Her husbands included a Turkish diplomat, the hotel heir Conrad Hilton, the actor George Sanders, an industrialist, an oil magnate, a toy designer, a divorce lawyer and a man often referred to in the news media as the Duke of Saxony."
+        ],
+        "tf-idf score": [
+            0.4901401597563627,
+            0.5835601192640426,
+            0.4034638877225845,
+            0.4034638877225845,
+            0.48090841883643254
+        ]
+    },
+    "0.28872494948284916-3-259": {
+        "average clique similarity": 0.28872494948284916,
+        "clique": [
+            "3-Zsa Zsa Gabor  the H",
+            "1-         Actress Zsa",
+            "4-  Zsa Zsa Gabor  who"
+        ],
+        "median tf-idf score": 0.8969774884769429,
+        "publications": [
+            "New York Times",
+            "Business Insider",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Zsa Zsa Gabor, the Hungarian actress whose   glamour and   marriages to millionaires put a luster of American celebrity on a long but only modestly successful career in movies and television, died on Sunday in Los Angeles.",
+            "\u2019  \u2019 \u2019   Actress Zsa Zsa Gabor, who parlayed beauty,     glamor and nine marriages into a long celebrity career, died on   Sunday, Variety and other media outlets reported, She was 99.",
+            "\u2019 Zsa Zsa Gabor, who died on Sunday at 99, lived a long and glamorous life in the spotlight."
+        ],
+        "tf-idf score": [
+            0.8969774884769429,
+            1.0808276260990413,
+            0.5753614289141517
+        ]
+    },
+    "0.31369515245331764-3-259": {
+        "average clique similarity": 0.31369515245331764,
+        "clique": [
+            "0-The 1986 marriage to",
+            "1-The 1986   marriage ",
+            "3-Mr Prinz von Anhalt "
+        ],
+        "median tf-idf score": 0.5055499679847173,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "New York Times"
+        ],
+        "sentences": [
+            "The 1986 marriage to von Anhalt, which lasted until her death, was by far her longest.",
+            "The 1986   marriage to von Anhalt, which lasted until her death, was by far   her longest.",
+            "Mr Prinz von Anhalt, often described in the news media as a prince or the Duke of Saxony, was born Hans Robert Lichtenberg, the son of a police officer in Germany."
+        ],
+        "tf-idf score": [
+            0.5055499679847173,
+            0.5055499679847173,
+            0.5582048900340528
+        ]
+    },
+    "0.32458513647907317-3-3": {
+        "average clique similarity": 0.32458513647907317,
+        "clique": [
+            "0-Edward Lozzi  who wa",
+            "3-The cause was heart ",
+            "1-      Ed Lozzi  a pu"
+        ],
+        "median tf-idf score": 0.5676142139702595,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "New York Times"
+        ],
+        "sentences": [
+            "Edward Lozzi, who was a longtime publicist for Gabor, said  the   actress passed away at her Los Angeles home after years of decline and illness.",
+            "The cause was heart failure, her longtime publicist Edward Lozzi said.",
+            "\u2019 \u2019   Ed Lozzi, a publicist for Gabor, told Variety that the     actress, who would have turned 100 in February,   passed away at her home on Sunday afternoon."
+        ],
+        "tf-idf score": [
+            0.8794623155321969,
+            0.4044420916513022,
+            0.5676142139702595
+        ]
+    },
+    "0.3355963025917021-4-30": {
+        "average clique similarity": 0.3355963025917021,
+        "clique": [
+            "0-In 1949  after divor",
+            "4-     Gabor s next ro",
+            "3-Her other marriages ",
+            "1-      In 1949  after"
+        ],
+        "median tf-idf score": 0.9661239466982567,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "In 1949, after divorcing Hilton, Gabor married British actor George Sanders, whom she later was to call her one true love.",
+            "\u201d\u2019 \u2019 Gabor\u2019s next romance was with Dominican diplomat Porfirio Rubirosa, who was married at the time to heiress Barbara Hutton.\u2019 \u2019 Gabor later hinted she was close to marrying wealthy Los Angeles contractor Hal B Hayes, but a wedding never happened.\u2019 \u2019 Gabor\u2019s fourth husband was industrialist Herbert L Hutner, whom she married on Nov. 5, 1962.\u2019 \u2019 They divorced four years later.\u2019 \u2019After divorcing Hutner, Gabor wed in 1966 for a fifth time.",
+            "Her other marriages were to Mr Sanders ( ) who later married Magda Gabor the   Herbert L Hutner ( ) the oil magnate Joshua S Cosden Jr ( ) Jack Ryan, an inventor and toy designer who helped create the Barbie doll ( ) Michael O\u2019Hara, a lawyer ( ) and Fr\u00e9d\u00e9ric Prinz von Anhalt, whom she married in 1986.",
+            "\u2019 \u2019   In 1949, after divorcing Hilton, Gabor married British actor   George Sanders, whom she later was to call her one true love."
+        ],
+        "tf-idf score": [
+            0.8955283498929967,
+            1.2029302081766235,
+            1.0367195435035168,
+            0.8955283498929967
+        ]
+    },
+    "0.3363217311135109-3-259": {
+        "average clique similarity": 0.3363217311135109,
+        "clique": [
+            "1-         While her a",
+            "2-Which  for Zsa Zsa G",
+            "0-While her acting ski"
+        ],
+        "median tf-idf score": 0.7254682200934237,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u2019 \u2019\u2019 \u2019   While her acting skills were rarely lauded, Zsa Zsa Gabor carved   out a career in her early days in Hollywood.",
+            "Which, for Zsa Zsa Gabor, was a definition of success.",
+            "While her acting skills were rarely lauded, Zsa Zsa Gabor carved out a career in her early days in Hollywood."
+        ],
+        "tf-idf score": [
+            0.7254682200934237,
+            0.7553849798889705,
+            0.7254682200934237
+        ]
+    },
+    "0.3375820028739653-4-34": {
+        "average clique similarity": 0.3375820028739653,
+        "clique": [
+            "0-She had a penchant f",
+            "2-Her Hungarian backgr",
+            "1-She had a penchant f",
+            "3- A real vicked voman"
+        ],
+        "median tf-idf score": 0.06682731178145333,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "She had a penchant for calling everyone \u201d \u201d in her thick Hungarian accent.",
+            "Her Hungarian background always worked to her advantage.",
+            "She had a penchant for   calling everyone \u201d \u201d in her thick Hungarian accent.",
+            "\u201cA real vicked voman,\u201d she described the character in her Hungarian accent."
+        ],
+        "tf-idf score": [
+            0.06682731178145333,
+            0.04523600943359729,
+            0.06682731178145333,
+            0.08639718849126729
+        ]
+    },
+    "0.3551208263691838-5-38": {
+        "average clique similarity": 0.3551208263691838,
+        "clique": [
+            "2-Most showbiz agents ",
+            "0-When World War Two a",
+            "3-Zsa Zsa  who divorce",
+            "4-  Here s a look back",
+            "1-When World War Two a"
+        ],
+        "median tf-idf score": 0.740197733682259,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Reuters",
+            "Business Insider",
+            "New York Times"
+        ],
+        "sentences": [
+            "Most showbiz agents in the 1940s, if seeking a US career for a Hungarian war refugee called Zsa Zsa Gabor, might have kept the surname (with its useful echo of Garbo, already a star) but changed her first name to Zelda, and dispatched her to voice school to lose those Budapest vowels.",
+            "When World War Two approached, Zsa Zsa and her sisters headed for the United States, leaving behind her first husband, Burhan Belge, a Turkish diplomat.",
+            "Zsa Zsa, who divorced seven of her eight husbands, was first married to Burhan Belge, a Turkish diplomat in Budapest, from 1937 to 1941.",
+            "\u201d Here\u2019s a look back at her many relationships.\u2019 \u2019 Zsa Zsa Gabor, then known as Sari, was first married in 1937 to Turkish diplomat Burhan Belge.",
+            "When World War Two approached, Zsa Zsa and her   sisters headed for the United States, leaving behind her first   husband, Burhan Belge, a Turkish diplomat."
+        ],
+        "tf-idf score": [
+            0.7414495852119389,
+            0.4304372715491201,
+            0.740197733682259,
+            0.9753362449232623,
+            0.4304372715491201
+        ]
+    },
+    "0.3697453954479187-3-88": {
+        "average clique similarity": 0.3697453954479187,
+        "clique": [
+            "2-Although she was bor",
+            "0-GABORS GO HOLLYWOOD ",
+            "1-      Born Sari Gabo"
+        ],
+        "median tf-idf score": 0.7946895903884821,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Although she was born in the year of the Soviet revolution and her final claim to fame was longevity, Zsa Zsa Gabor, who has died at 99, was in many ways an oddly modern figure.",
+            "GABORS GO HOLLYWOOD Born Sari Gabor into a wealthy family, she was named Miss Hungary in the 1930s.",
+            "\u201d \u2019   Born Sari Gabor into a wealthy family, she was named Miss Hungary   in the 1930s."
+        ],
+        "tf-idf score": [
+            0.9861123771724658,
+            0.7946895903884821,
+            0.7341640826014328
+        ]
+    },
+    "0.3994588259953728-3-259": {
+        "average clique similarity": 0.3994588259953728,
+        "clique": [
+            "0-Her finest film role",
+            "1-Her finest film   ro",
+            "3-Critics said her bes"
+        ],
+        "median tf-idf score": 0.20503889226275074,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "New York Times"
+        ],
+        "sentences": [
+            "Her finest film roles came with \u201dMoulin Rouge,\u201d where she earned good reviews, in 1952 and \u201dLili\u201d in 1953.",
+            "Her finest film   roles came with \u201dMoulin Rouge,\u201d where she earned good reviews, in   1952 and \u201dLili\u201d in 1953.",
+            "Critics said her best roles were early in her career, in \u201cMoulin Rouge\u201d (1952) and \u201cLili\u201d (1953)."
+        ],
+        "tf-idf score": [
+            0.20503889226275074,
+            0.20503889226275074,
+            0.2132616756767964
+        ]
+    },
+    "0.4109243761178743-3-151": {
+        "average clique similarity": 0.4109243761178743,
+        "clique": [
+            "1-      Soon after arr",
+            "2-Gabor was a personal",
+            "0-Soon after arriving "
+        ],
+        "median tf-idf score": 1.005877512126871,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u2019 \u2019   Soon after arriving in Hollywood, where Eva was working as an   actress, Gabor married Hilton, with whom she had a daughter,   Francesca, who died in January 2015.",
+            "Gabor was a personal experiment in becoming an American princess, combining Mitteleuropa breeding with Hollywood glamour in a way that enchanted gossip columnists and TV producers.",
+            "Soon after arriving in Hollywood, where Eva was working as an actress, Gabor married Hilton, with whom she had a daughter, Francesca, who died in January 2015."
+        ],
+        "tf-idf score": [
+            1.005877512126871,
+            0.82679391327982,
+            1.005877512126871
+        ]
+    },
+    "0.4123292482344219-3-110": {
+        "average clique similarity": 0.4123292482344219,
+        "clique": [
+            "0-Gabor s most recent ",
+            "3-Released from the ho",
+            "1-      Gabor s most r"
+        ],
+        "median tf-idf score": 0.5341620558378408,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "Gabor\u2019s most recent stint at the hospital came just days after her 99th birthday last February for breathing difficulties.",
+            "Released from the hospital in August, she was readmitted two days later for treatment of unspecified complications.",
+            "\u201d \u201d   Gabor\u2019s most recent stint at the hospital came just days after   her 99th birthday in February 2016 for breathing difficulties."
+        ],
+        "tf-idf score": [
+            0.5341620558378408,
+            0.41705470418019475,
+            0.5341620558378408
+        ]
+    },
+    "0.41270559290007885-3-135": {
+        "average clique similarity": 0.41270559290007885,
+        "clique": [
+            "3-Born Sari Gabor in B",
+            "0-Throughout her Holly",
+            "1-      Throughout her"
+        ],
+        "median tf-idf score": 0.5196815623678892,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "Born Sari Gabor in Budapest in 1917  \u2014   she always gave a birth date of Feb. 6 or 7, but not the year, though Mr Lozzi confirmed on Sunday that it was 1917  \u2014   Ms Gabor grew up in relative prosperity, the second of three daughters of Vilmos and Jolie Gabor.",
+            "Throughout her Hollywood heyday, Gabor listed her birthday only as Feb. 6, steadfastly refusing to reveal the year.",
+            "\u201d \u2019   Throughout her Hollywood heyday, Gabor listed her birthday only   as Feb. 6, steadfastly refusing to reveal the year."
+        ],
+        "tf-idf score": [
+            0.9288368583296132,
+            0.5196815623678892,
+            0.5196815623678892
+        ]
+    },
+    "0.4157209456640561-3-238": {
+        "average clique similarity": 0.4157209456640561,
+        "clique": [
+            "3-In addition to her s",
+            "1-      Greater succes",
+            "0-Greater success came"
+        ],
+        "median tf-idf score": 0.37081584011022534,
+        "publications": [
+            "New York Times",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "In addition to her steady appearances in movies and on television, Ms Gabor operated a   cosmetics company.",
+            "\u2019 \u2019   Greater success came with nightclub and TV appearances where she   disclosed she called everyone \u201d \u201d because she could not   remember names well, and she relied on   jokes based   on her marriages, haughty demeanor and taste for opulence.",
+            "Greater success came with nightclub and TV appearances where she disclosed she called everyone \u201d \u201d because she could not remember names well, and she relied on   jokes based on her marriages, haughty demeanor and taste for opulence."
+        ],
+        "tf-idf score": [
+            0.42380176895489785,
+            0.37081584011022534,
+            0.37081584011022534
+        ]
+    },
+    "0.41748579213720216-3-258": {
+        "average clique similarity": 0.41748579213720216,
+        "clique": [
+            "3-Magda  who acted on ",
+            "1-Her bubbly demeanor ",
+            "0-Her bubbly demeanor "
+        ],
+        "median tf-idf score": 0.18288465142350768,
+        "publications": [
+            "New York Times",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "Magda, who acted on radio briefly and helped her mother operate a chain of jewelry boutiques, died in 1997, as did her mother.",
+            "Her bubbly demeanor and looks helped   land her a string of wealthy husbands.",
+            "Her bubbly demeanor and looks helped land her a string of wealthy husbands."
+        ],
+        "tf-idf score": [
+            0.1459001813542686,
+            0.18288465142350768,
+            0.18288465142350768
+        ]
+    },
+    "0.4216661264011307-3-194": {
+        "average clique similarity": 0.4216661264011307,
+        "clique": [
+            "1-      In 1989  Gabor",
+            "0-In 1989  Gabor s tem",
+            "3- You just cannot dri"
+        ],
+        "median tf-idf score": 0.49260646790753254,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u2019 \u201d   In 1989, Gabor\u2019s temper landed her in jail for three days after   she slapped a policeman who had stopped her   because   of an expired license tag.",
+            "In 1989, Gabor\u2019s temper landed her in jail for three days after she slapped a policeman who had stopped her   because of an expired license tag.",
+            "\u201cYou just cannot drive a   in Beverly Hills anymore, because they have it in for you,\u201d she said after things had blown over."
+        ],
+        "tf-idf score": [
+            0.49260646790753254,
+            0.49260646790753254,
+            0.09253340759903787
+        ]
+    },
+    "0.4235021140628685-3-112": {
+        "average clique similarity": 0.4235021140628685,
+        "clique": [
+            "0-She was once branded",
+            "2-It was no coincidenc",
+            "1-      She was once b"
+        ],
+        "median tf-idf score": 0.789524978575389,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "She was once branded \u201dthe most expensive courtesan since Madame de Pompadour,\u201d but Gabor insisted that only her marriage to husband No.",
+            "It was no coincidence that in both her first movie, Lovely to Look At (1952) and her last, A Very Brady Sequel (1996) the character she played was called Zsa Zsa Gabor.",
+            "\u2019 \u2019   She was once branded \u201dthe most expensive courtesan since Madame   de Pompadour,\u201d but Gabor insisted that only her marriage to   husband No."
+        ],
+        "tf-idf score": [
+            0.789524978575389,
+            0.876434823191712,
+            0.789524978575389
+        ]
+    },
+    "0.44180742525628086-3-102": {
+        "average clique similarity": 0.44180742525628086,
+        "clique": [
+            "1-She emerged from jai",
+            "3-The judge gave her 7",
+            "0-She emerged from jai"
+        ],
+        "median tf-idf score": 0.06546792903426427,
+        "publications": [
+            "New York Times",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "She emerged from jail complaining   about the food.",
+            "The judge gave her 72 hours in jail.",
+            "She emerged from jail complaining about the food."
+        ],
+        "tf-idf score": [
+            0.06546792903426427,
+            0.048865480499734174,
+            0.06546792903426427
+        ]
+    },
+    "0.44247435646518607-3-259": {
+        "average clique similarity": 0.44247435646518607,
+        "clique": [
+            "2-While other guests o",
+            "0-Gabor  by most accou",
+            "1-      Gabor  by most"
+        ],
+        "median tf-idf score": 0.41282236721908067,
+        "publications": [
+            "Guardian",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "While other guests on television shows were generally plugging books or films, Gabor was most often just promoting herself.",
+            "Gabor, by most accounts, had a personality that generally outshone her acting skills.",
+            "\u2019 \u2019   Gabor, by most accounts, had a personality that generally   outshone her acting skills."
+        ],
+        "tf-idf score": [
+            0.7094771156994172,
+            0.41282236721908067,
+            0.41282236721908067
+        ]
+    },
+    "0.442611488067693-3-228": {
+        "average clique similarity": 0.442611488067693,
+        "clique": [
+            "3-Ms Gabor had been in",
+            "0-She sued Francesca i",
+            "1-      She sued Franc"
+        ],
+        "median tf-idf score": 0.5754571028733103,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Ms Gabor had been in and out of hospitals for years.",
+            "She sued Francesca in 2005, saying her daughter had taken out a loan against Gabor\u2019s Bel Air, California, home and used the transaction to steal $2 million.",
+            "\u201d \u201d   She sued Francesca in 2005, saying her daughter had taken out a   loan against Gabor\u2019s Bel Air, California, home and used the   transaction to steal $2 million."
+        ],
+        "tf-idf score": [
+            0.36920636468463885,
+            0.5754571028733103,
+            0.5754571028733103
+        ]
+    },
+    "0.4465618887098775-3-189": {
+        "average clique similarity": 0.4465618887098775,
+        "clique": [
+            "0-Every time I leave a",
+            "3-Two months later  sh",
+            "1-Every time I leave a"
+        ],
+        "median tf-idf score": 0.4422879226495772,
+        "publications": [
+            "Business Insider",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "Every time I leave a man, I keep his house,\u201d she was quoted as saying.",
+            "Two months later, shock over the death of her friend Elizabeth Taylor sent her to the hospital with high blood pressure, and Ms Gabor\u2019s publicist, John Blanchette, quoted her as saying she feared she was next.",
+            "Every time I leave a man, I keep   his house,\u201d she was quoted as saying."
+        ],
+        "tf-idf score": [
+            0.4422879226495772,
+            0.847515085979202,
+            0.4422879226495772
+        ]
+    },
+    "0.45485703124926213-3-181": {
+        "average clique similarity": 0.45485703124926213,
+        "clique": [
+            "0-Gabor  one of the la",
+            "2-In public and privat",
+            "1-      Gabor  one of "
+        ],
+        "median tf-idf score": 0.9301224067643427,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Gabor, one of the last stars of Hollywood\u2019s golden age, was not seen in public in her final years as she struggled with her health, including broken bones and cuts from a car accident.",
+            "In public and private, she was the grandest of dames.",
+            "\u2019 \u201d   Gabor, one of the last stars of Hollywood\u2019s golden age, was not   seen in public in her final years as she struggled with her   health, including broken bones and cuts from a car accident."
+        ],
+        "tf-idf score": [
+            0.9301224067643427,
+            0.32089004022502965,
+            0.9301224067643427
+        ]
+    },
+    "0.45575978155338276-3-76": {
+        "average clique similarity": 0.45575978155338276,
+        "clique": [
+            "0-In fact  marriage co",
+            "1-      In fact  marri",
+            "3-She was the last sur"
+        ],
+        "median tf-idf score": 1.256593200644564,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "In fact, marriage could have been the Gabor family business and Zsa Zsa, the company\u2019s CEO Her nine marriages topped the five by Eva, who starred in the 1960s sitcom \u201dGreen Acres,\u201d and the six of Magda, whose Hollywood career was mostly based on being the third Gabor sister.",
+            "\u2019 \u2019   In fact, marriage could have been the Gabor family business and   Zsa Zsa, the company\u2019\u2019s CEO Her nine marriages topped the five by   Eva, who starred in the 1960s sitcom \u201dGreen Acres,\u201d and the six   of Magda, whose Hollywood career was mostly based on being the   third Gabor sister.",
+            "She was the last surviving Gabor sister."
+        ],
+        "tf-idf score": [
+            1.256593200644564,
+            1.256593200644564,
+            0.6364306210333894
+        ]
+    },
+    "0.4594197019412715-3-100": {
+        "average clique similarity": 0.4594197019412715,
+        "clique": [
+            "1-      She appeared i",
+            "3-Ms Gabor appeared in",
+            "0-She appeared in more"
+        ],
+        "median tf-idf score": 0.28719714731441615,
+        "publications": [
+            "New York Times",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u2019 \u2019   She appeared in more than 30 movies and by the 1970s she began to   reject smaller roles, saying: \u201dI may be a character but I do not   want to be a character actress\u201d.",
+            "Ms Gabor appeared in more than 60 television movies and feature films, mostly   although some were Italian, French, German and Australian.",
+            "She appeared in more than 30 movies and by the 1970s she began to reject smaller roles, saying: \u201dI may be a character but I do not want to be a character actress\u201d."
+        ],
+        "tf-idf score": [
+            0.28719714731441615,
+            0.44611052008277446,
+            0.28719714731441615
+        ]
+    },
+    "0.4652542641431872-4-11": {
+        "average clique similarity": 0.4652542641431872,
+        "clique": [
+            "1-      The marriage t",
+            "3-The ceremony was per",
+            "0-The marriage to de A",
+            "4-In 1982  Gabor marri"
+        ],
+        "median tf-idf score": 0.6590242798464153,
+        "publications": [
+            "Reuters",
+            "Business Insider",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201d \u201d   The marriage to de Alba was annulled because her divorce from   O\u2019Hara was not final at the time of the wedding.",
+            "The ceremony was performed by a ship\u2019s captain at sea but was probably illegal because the ship was not in international waters, and Ms Gabor was technically not yet divorced from Mr O\u2019Hara.",
+            "The marriage to de Alba was annulled because her divorce from O\u2019Hara was not final at the time of the wedding.",
+            "In 1982, Gabor married again, this time to Felipe de Alba, but the marriage proved invalid because her divorce from O\u2019Hara was not finalized.\u2019 \u2019 In 1986, Gabor married for the final time to Prince Frederick von Anhalt."
+        ],
+        "tf-idf score": [
+            0.5657605295235072,
+            0.7522880301693234,
+            0.5657605295235072,
+            1.0533065198685936
+        ]
+    },
+    "0.46617268020481556-3-107": {
+        "average clique similarity": 0.46617268020481556,
+        "clique": [
+            "3-She also appeared as",
+            "0-Gabor eventually end",
+            "1-      Gabor eventual"
+        ],
+        "median tf-idf score": 0.46476074720802313,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "She also appeared as a nightclub manager in Orson Welles\u2019s 1958 classic \u201cTouch of Evil\u201d and, the same year, as a sexy alien in \u201cQueen of Outer Space,\u201d a camp favorite about virile American astronauts landing on a planet populated by scantily clad women.",
+            "Gabor eventually ended up in   films with such titles as \u201dQueen of Outer Space\u201d and \u201dPicture Mommy Dead\u201d.",
+            "\u2019 \u2019   Gabor eventually ended up in   films with such titles as   \u201dQueen of Outer Space\u201d and \u201dPicture Mommy Dead\u201d."
+        ],
+        "tf-idf score": [
+            0.2663174481314555,
+            0.46476074720802313,
+            0.46476074720802313
+        ]
+    },
+    "0.4681437534553899-3-0": {
+        "average clique similarity": 0.4681437534553899,
+        "clique": [
+            "0-In addition to Belge",
+            "1-      In addition to",
+            "3-Some biographies of "
+        ],
+        "median tf-idf score": 1.331176852453577,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "In addition to Belge, Hilton and Sanders, Zsa Zsa Gabor was married to New York businessman Herbert Hutner, oilman Joshua Cosden, Barbie doll designer Jack Ryan, her divorce lawyer Michael O\u2019Hara, Count Felipe de Alba of Mexico and Frederic Prinz von Anhalt.",
+            "\u2019 \u201d   In addition to Belge, Hilton and Sanders, Gabor was married to   New York businessman Herbert Hutner, oilman Joshua Cosden, Barbie   doll designer Jack Ryan, her divorce lawyer Michael O\u2019Hara, Count   Felipe de Alba of Mexico and Frederic Prinz von Anhalt.",
+            "Some biographies of Ms Gabor also mention a 1983 marriage to Felipe de Alba, a lawyer who appeared in films in Mexico in the 1940s and \u201950s, but Ms Gabor said it lasted only a day."
+        ],
+        "tf-idf score": [
+            1.4810905679120534,
+            1.331176852453577,
+            0.6607043717273323
+        ]
+    },
+    "0.471296758672888-3-235": {
+        "average clique similarity": 0.471296758672888,
+        "clique": [
+            "1-Along   with her two",
+            "4-Gabor was in her   a",
+            "0-Along with her two s"
+        ],
+        "median tf-idf score": 0.25579633532318835,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Along   with her two sisters, Eva and Magda, she became a fixture on   Hollywood\u2019\u2019s social circuit in her prime.",
+            "Gabor was in her   and later said in her memoir that she became pregnant with their child, Francesca, after Hilton raped her.",
+            "Along with her two sisters, Eva and Magda, she became a fixture on Hollywood\u2019s social circuit in her prime."
+        ],
+        "tf-idf score": [
+            0.25579633532318835,
+            0.7711285621119989,
+            0.25579633532318835
+        ]
+    },
+    "0.5090541084609599-3-24": {
+        "average clique similarity": 0.5090541084609599,
+        "clique": [
+            "0-She had much of her ",
+            "3-In 2007  she again u",
+            "1-She had much of her "
+        ],
+        "median tf-idf score": 0.06653603263352603,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "She had much of her right leg amputated in 2011 because of an infection.",
+            "In 2007, she again underwent surgery to treat a leg infection and aftereffects of the stroke.",
+            "She had much of her right leg   amputated in 2011 because of an infection."
+        ],
+        "tf-idf score": [
+            0.06653603263352603,
+            0.09492416405958033,
+            0.06653603263352603
+        ]
+    },
+    "0.5149111507488556-3-147": {
+        "average clique similarity": 0.5149111507488556,
+        "clique": [
+            "1-She   also suffered ",
+            "0-She also suffered a ",
+            "3-She suffered a strok"
+        ],
+        "median tf-idf score": 0.1589390491935772,
+        "publications": [
+            "New York Times",
+            "Business Insider",
+            "Reuters"
+        ],
+        "sentences": [
+            "She   also suffered a stroke and a broken hip, enduring complications   from hip replacement surgery.",
+            "She also suffered a stroke and a broken hip, enduring complications from hip replacement surgery.",
+            "She suffered a stroke in 2005 and had surgery for a blocked carotid artery."
+        ],
+        "tf-idf score": [
+            0.1589390491935772,
+            0.1589390491935772,
+            0.07593886330064013
+        ]
+    },
+    "0.5678801253505149-4-160": {
+        "average clique similarity": 0.5678801253505149,
+        "clique": [
+            "2- I am a marvellous h",
+            "0- I am a marvelous ho",
+            "1-       I am a marvel",
+            "4-She married nine men"
+        ],
+        "median tf-idf score": 0.03378471590103161,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Buzzfeed News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201cI am a marvellous housekeeper.",
+            "\u201dI am a marvelous housekeeper.",
+            "\u2019 \u2019   \u201dI am a marvelous housekeeper.",
+            "She married nine men and had several other whirlwind romances.\u2019 \u2019 Gabor was famously quoted as saying, \u201cI am a marvelous housekeeper."
+        ],
+        "tf-idf score": [
+            0.02511247258528209,
+            0.03378471590103161,
+            0.03378471590103161,
+            0.7932381023673176
+        ]
+    }
+}

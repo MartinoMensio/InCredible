@@ -1,0 +1,298 @@
+{
+    "0.15702008544205986-3-99": {
+        "average clique similarity": 0.15702008544205986,
+        "clique": [
+            "0-However   their own ",
+            "3-Fraling also said Gr",
+            "2-Prosecutors have als"
+        ],
+        "median tf-idf score": 0.9726040848796522,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "However, \"their own witnesses have said they aren't sure that happened\". In closing arguments, Jennifer reported, prosecutors \"say Officer Goodson also bears responsibility for repeatedly failing to   Gray even though his hands and feet were shackled and for repeatedly failing to call a medic even after Gray said he wanted one\".",
+            "Fraling also said Gray said yes when Porter asked if he wanted to go to a hospital only because Gray hoped to avoid jail. \"They have failed to cobble together any type of case with reasonable inferences, let alone evidence,\" he said.",
+            "Prosecutors have also said they intend to retry Porter after his hung jury. Jaros pointed out at the outset that even if the Goodson case didn't result in conviction, the trials thus far have made a compelling case that police reform remains essential."
+        ],
+        "tf-idf score": [
+            1.2423820400702312,
+            0.7565235540861841,
+            0.9726040848796522
+        ]
+    },
+    "0.17389081506212026-3-43": {
+        "average clique similarity": 0.17389081506212026,
+        "clique": [
+            "1-Williams rejected th",
+            "2-After the Goodson ca",
+            "4-With more than 30 wi"
+        ],
+        "median tf-idf score": 1.0674463842123176,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Williams rejected the murder charge, along with less serious manslaughter, assault and misconduct in office charges. During trial, the case crumbled over prosecutors' attempts to prove that Goodson had given Gray a rough ride.",
+            "After the Goodson case, there are three more officers yet to be tried, all on charges less serious than his.",
+            "With more than 30 witnesses testifying over an   trial, prosecutors attempted to convince Williams that Goodson was culpable in Gray's death."
+        ],
+        "tf-idf score": [
+            1.424888903408986,
+            0.6937846519526495,
+            1.0674463842123176
+        ]
+    },
+    "0.1977071604236269-3-54": {
+        "average clique similarity": 0.1977071604236269,
+        "clique": [
+            "1-Throughout the trial",
+            "2-In order to prove th",
+            "3-During opening state"
+        ],
+        "median tf-idf score": 1.1539506318171364,
+        "publications": [
+            "Guardian",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Throughout the trial, Judge Barry Williams expressed skepticism over the state's theory that Goodson had killed Gray with a \"rough ride\" in which the handcuffed and shackled prisoner was left without a seatbelt in order to bounce around \"like a pinball\" according to prosecutors.",
+            "In order to prove that charge, prosecutors argued that Goodson had been giving Gray a \"rough ride,\" a form of punishment in which police drive vans erratically, turning sharply or braking suddenly, to throw prisoners in transit around.",
+            "During opening statements, prosecutors for the first time accused Goodson of giving Gray a \"rough ride,\" intentionally leaving him unbuckled \"to bounce him around in the back of the van. \""
+        ],
+        "tf-idf score": [
+            1.4674585144687637,
+            1.1539506318171364,
+            0.91789226162543
+        ]
+    },
+    "0.1991945305770146-3-107": {
+        "average clique similarity": 0.1991945305770146,
+        "clique": [
+            "2-What was not in disp",
+            "0-Goodson  is the offi",
+            "4-But according to the"
+        ],
+        "median tf-idf score": 0.98640497573528,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "What was not in dispute was that the shackled Gray was not   in the van, which is contrary to department policy but nonetheless common, according to witnesses.",
+            "Goodson \"is the officer prosecutors said was most responsible for Gray's death,\" according to The Associated Press.",
+            "But according to the judge, there was no evidence until the van arrived at the final stop that Goodson realized Gray  --   who had a bloodied face and was unresponsive  --   was in medical distress."
+        ],
+        "tf-idf score": [
+            0.6393520752871327,
+            1.2345984973982609,
+            0.98640497573528
+        ]
+    },
+    "0.20948706923756033-3-187": {
+        "average clique similarity": 0.20948706923756033,
+        "clique": [
+            "1- There has been no c",
+            "0-Here s the portion o",
+            "2- We have ample evide"
+        ],
+        "median tf-idf score": 1.3138955670715875,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\"There has been no credible evidence presented at this trial that the defendant intended any crime to happen,\" said Williams. \"Seemingly the state wants this court to assume simply because Mr Gray was injured   ...     that the defendant intentionally gave Mr Gray a rough ride. \"",
+            "Here's the portion of the verdict transcript that explains why Goodson was acquitted of   murder: \"Even assuming the failure to seat belt caused the death of Mr Gray, and this Court has already determined there is insufficient evidence concerning that issue, the State is required to show that the defendant was aware of the risk that this would, not could, cause and acted with extreme disregard for the life endangering consequences.",
+            "\"We have ample evidence that rough rides are occurring, even if there wasn't a rough ride in this case. We have the state's attorney acknowledging for the first time that police routinely grab people on the street, throw them up against the wall without probable cause, and search them,\" he said. \"How are we going to stop this egregious behavior?\""
+        ],
+        "tf-idf score": [
+            1.3138955670715875,
+            1.5022400160778697,
+            0.8408892117199334
+        ]
+    },
+    "0.21328334426590925-3-4": {
+        "average clique similarity": 0.21328334426590925,
+        "clique": [
+            "1- At some point does ",
+            "2-Goodson s case has b",
+            "4- The state made the "
+        ],
+        "median tf-idf score": 1.2081667207126803,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"At some point does the state's attorney's office evaluate the prospects and consider not continuing its prosecution of its remaining officers, particularly given the fact that Goodson was anointed as the most culpable actor among the six officers?\" said Warren Alperstein, a former prosecutor who now works in private practice and has been closely observing the case.",
+            "Goodson's case has been considered the centerpiece of the trials of six officers charged with Gray's death, and he faced the most serious charges.",
+            "\"The state made the 'rough ride' theory a centerpiece of its case, and when the 'rough ride' theory was not proven at all, a significant part of the state's case fell apart,\" Alperstein said."
+        ],
+        "tf-idf score": [
+            1.5040037920381728,
+            1.2081667207126803,
+            0.7398607729939968
+        ]
+    },
+    "0.23738015760452394-3-12": {
+        "average clique similarity": 0.23738015760452394,
+        "clique": [
+            "1-Nero was acquitted o",
+            "0-A Baltimore court ha",
+            "4-  BALTIMORE       A "
+        ],
+        "median tf-idf score": 1.232025396100368,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Nero was acquitted on all counts and testified for the defense in Goodson's case, where the deep rift between prosecutors and police in this city was laid bare.",
+            "A Baltimore court has acquitted Officer Caesar Goodson of   murder and all other charges in a case related to the death of Freddie Gray.",
+            "  BALTIMORE  --   A judge on Thursday found the sole officer charged with murder in the death of Freddie Gray not guilty of all counts, leaving prosecutors without a conviction for the third time in the   case that spurred riots and unrest in the city last year."
+        ],
+        "tf-idf score": [
+            0.9076478932273419,
+            1.345458350139476,
+            1.232025396100368
+        ]
+    },
+    "0.26188703501871335-3-216": {
+        "average clique similarity": 0.26188703501871335,
+        "clique": [
+            "1-The Baltimore police",
+            "2-   I want to receive",
+            "3-A judge acquitted a "
+        ],
+        "median tf-idf score": 0.9954589083566864,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "The Baltimore police officer who faced the most serious criminal charges over the death of Freddie Gray in police custody has been acquitted.",
+            "   I want to receive updates from partners and sponsors. Updated on June 23 at 11:04 a. m. Officer Caesar Goodson, the Baltimore police officer driving a van where Freddie Gray was mortally injured in April 2015, is not guilty of all seven charges, a judge ruled Thursday morning.",
+            "A judge acquitted a police driver of all charges Thursday in the death of    Freddie Gray, whose broken neck suffered while in custody set off Baltimore's worst riots in decades."
+        ],
+        "tf-idf score": [
+            0.9954589083566864,
+            1.510544504925496,
+            0.8405602996044608
+        ]
+    },
+    "0.2642441247814539-3-118": {
+        "average clique similarity": 0.2642441247814539,
+        "clique": [
+            "4-The verdict casts se",
+            "2-The verdict in the G",
+            "1-The case against Cae"
+        ],
+        "median tf-idf score": 1.150149916130316,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The verdict casts serious doubt as to whether prosecutors can win a conviction against the four officers awaiting trial, but Mosby is unlikely to drop the remaining cases, said Jeremy Eldridge, a Baltimore defense attorney who is not involved in the case. [Timeline and charges in the case]  \"Mosby made this part of her political agenda,\" Eldridge said. \"She made promises to the community about seeking out justice.",
+            "The verdict in the Goodson case has been viewed as crucial for Mosby, the state's attorney.",
+            "The case against Caesar Goodson has been viewed as potentially the state's strongest shot at a conviction, and the defeat deals another blow to the hopes of activists and state attorney Marilyn Mosby, Baltimore's beleaguered chief prosecutor who many hailed as a hero when she announced the charges on 1 May 2015."
+        ],
+        "tf-idf score": [
+            1.165438855254665,
+            0.6690790182712241,
+            1.150149916130316
+        ]
+    },
+    "0.27172749961083625-4-92": {
+        "average clique similarity": 0.27172749961083625,
+        "clique": [
+            "4-The first officer s ",
+            "0-As The   has reporte",
+            "1-After the first tria",
+            "2-The trial also came "
+        ],
+        "median tf-idf score": 1.1021782423409219,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "The first officer's trial ended in a hung jury. Goodson, 46, drove the van that transported Gray through West Baltimore the morning of April 12, 2015, when the    was arrested.",
+            "As The   has reported, the trial of Officer William Porter ended in a hung jury, while Officer Edward Nero was found not guilty. The Baltimore Sun notes that Porter and the other three officers charged will face trial this summer and fall: \"Next up is the trial of Lt. Brian Rice (July 5) Officer Garrett Miller (July 27) Porter (Sept. 6) and Sgt. Alicia White (Oct. 13).",
+            "After the first trial, of officer William Porter, ended in a hung jury  --   which requires a retrial  --   the entire process was delayed for months as higher courts determined whether prosecutors could compel Porter to testify against his fellow officers, putting the case in what Williams called \"uncharted territory\".",
+            "The trial also came after two   failures for the prosecution. First, Officer William Porter's prosecution ended in a hung jury. Then Officer Edward Nero was acquitted."
+        ],
+        "tf-idf score": [
+            1.2240563022090871,
+            1.0815065939057622,
+            1.1228498907760815,
+            0.7536713225728147
+        ]
+    },
+    "0.280443752859079-3-129": {
+        "average clique similarity": 0.280443752859079,
+        "clique": [
+            "4-Prosecutors did not ",
+            "2-Williams said in cou",
+            "3-Williams said the st"
+        ],
+        "median tf-idf score": 1.0538621445765073,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "New York Post"
+        ],
+        "sentences": [
+            "Prosecutors did not show Goodson gave Gray a \"rough ride,\" that Goodson knew Gray needed immediate medical care or that Goodson meant to harm Gray by failing to put him in a seat belt.",
+            "Williams said in court that while Goodson may have shown poor judgment, the prosecution failed to prove that he had intended any harm to come to Gray, according to The Baltimore Sun.",
+            "Williams said the state failed to show that Goodson knew he'd harm Gray by leaving him unbuckled, or that he was aware of the injury."
+        ],
+        "tf-idf score": [
+            0.9467607875566745,
+            1.0538621445765073,
+            1.126359692852778
+        ]
+    },
+    "0.3360659238322323-4-216": {
+        "average clique similarity": 0.3360659238322323,
+        "clique": [
+            "0-In addition to the c",
+            "4-He was acquitted of ",
+            "3-Goodson s acquittal ",
+            "2-He also faced   assa"
+        ],
+        "median tf-idf score": 0.8689906060531176,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In addition to the charge of     murder, Goodson also was acquitted on charges of involuntary manslaughter, assault, manslaughter by motor vehicle, criminally negligent manslaughter, reckless endangerment and misconduct in office.",
+            "He was acquitted of     murder,   assault, misconduct in office, reckless endangerment and three counts of manslaughter.",
+            "Goodson's acquittal may impact the remaining cases. Officer Garrett Miller and Lt. Brian Rice are scheduled to stand trial in July on charges of assault, reckless endangerment and misconduct in office; Rice also faces a manslaughter charge.",
+            "He also faced   assault, manslaughter, reckless endangerment, and misconduct charges. Judge Barry Williams adjudicated the case himself after Goodson waived his right to a jury trial."
+        ],
+        "tf-idf score": [
+            0.8452010017255446,
+            0.45657580245765694,
+            1.08323366697948,
+            0.8927802103806908
+        ]
+    }
+}

@@ -1,0 +1,414 @@
+{
+    "0.21472587661171824-3-74": {
+        "average clique similarity": 0.21472587661171824,
+        "clique": [
+            "2-  And this week  Pal",
+            "4-      A fellow Buffa",
+            "1-The Erie County Exec"
+        ],
+        "median tf-idf score": 0.5459233194775295,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201d And this week, Paladino, a Buffalo school board member, sought to have photos of Trump hung in all of the city\u2019s schools.",
+            "\u2019 \u2019   A fellow Buffalo school board member added that the   comments  \u201dmost assuredly about race\u201d.",
+            "The Erie County Executive, Mark Poloncarz, called on Paladino to resign his seat on the Buffalo school board."
+        ],
+        "tf-idf score": [
+            0.6310298634721525,
+            0.39253058044530525,
+            0.5459233194775295
+        ]
+    },
+    "0.22053168581415092-3-110": {
+        "average clique similarity": 0.22053168581415092,
+        "clique": [
+            "0-Paladino previously ",
+            "1-Long a provocative f",
+            "2-In a statement  New "
+        ],
+        "median tf-idf score": 0.685484732413313,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Paladino previously helped with Trump\u2019s New York campaign.",
+            "Long a provocative figure in New York politics, Paladino was a   of Trump\u2019s statewide campaign and spoke before him at some rallies in the state.",
+            "In a statement, New York Gov."
+        ],
+        "tf-idf score": [
+            0.685484732413313,
+            0.8925245265442031,
+            0.2744453245123101
+        ]
+    },
+    "0.25590492329292175-3-140": {
+        "average clique similarity": 0.25590492329292175,
+        "clique": [
+            "2-Reached briefly by p",
+            "4-       Tell that Rod",
+            "3-Paladino confirmed t"
+        ],
+        "median tf-idf score": 0.5219032160722921,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "Reached briefly by phone Friday, Paladino confirmed that he made the comments and that he is currently involved in Trump\u2019s transition efforts.",
+            "\u2019 \u2019   \u201dTell that Rod Watson I made that comment just for him,\u201d he   continued.",
+            "Paladino confirmed to the Buffalo News that he made the original comments."
+        ],
+        "tf-idf score": [
+            0.6665768612866921,
+            0.20545633016954903,
+            0.5219032160722921
+        ]
+    },
+    "0.2771909904883567-3-46": {
+        "average clique similarity": 0.2771909904883567,
+        "clique": [
+            "3-Paladino visited Tru",
+            "2-  As recently as Dec",
+            "1-Carl Paladino  an al"
+        ],
+        "median tf-idf score": 0.6200725139614524,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Paladino visited Trump Tower earlier this month, telling the Buffalo News he spent an hour with the  .",
+            "\u201d As recently as Dec. 5, Paladino visited Trump Tower after the election.",
+            "Carl Paladino, an ally of Trump who recently visited Trump Tower, told a weekly paper in Buffalo that Michelle Obama was the person whom he would \u201dmost like to see go in 2017\u201d."
+        ],
+        "tf-idf score": [
+            0.6200725139614524,
+            0.5049011561651705,
+            1.092665618430031
+        ]
+    },
+    "0.2801448369710184-3-20": {
+        "average clique similarity": 0.2801448369710184,
+        "clique": [
+            "4-      Paladino met w",
+            "1-The Trump transition",
+            "2-A Trump spokeswoman "
+        ],
+        "median tf-idf score": 0.5138569732623832,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u2019 \u2019   Paladino met with Trump earlier this month at Trump Tower, but   did not divulge what he discussed with the  .",
+            "The Trump transition did not immediately respond to a request for comment.",
+            "A Trump spokeswoman condemned Paladino\u2019s comments but did not comment on the future of his work for the transition."
+        ],
+        "tf-idf score": [
+            0.5138569732623832,
+            0.3684624414709354,
+            0.623983351758559
+        ]
+    },
+    "0.30032732953198193-3-84": {
+        "average clique similarity": 0.30032732953198193,
+        "clique": [
+            "0-This isn t the first",
+            "2- Carl Paladino  a Re",
+            "3-In response  Governo"
+        ],
+        "median tf-idf score": 0.8301745012918634,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "This isn\u2019t the first time Paladino made controversial remarks about the Obamas.",
+            "\u201dCarl Paladino, a Republican Party official from Western New York, made racist, ugly and reprehensible remarks about President Obama and the First Lady Michelle Obama,\u201d Cuomo said.",
+            "In response, Governor Andrew Cuomo condemned what he said were Paladino\u2019s \u201cracist, ugly, reprehensible remarks about the president and first lady\u201d."
+        ],
+        "tf-idf score": [
+            0.35779791835747893,
+            1.233396827720465,
+            0.8301745012918634
+        ]
+    },
+    "0.30720281523306775-3-144": {
+        "average clique similarity": 0.30720281523306775,
+        "clique": [
+            "4-         Carl Paladi",
+            "3-Carl Paladino  a    ",
+            "0-  Donald Trump s tra"
+        ],
+        "median tf-idf score": 1.6299405794334207,
+        "publications": [
+            "Breitbart",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u2019  \u2019 \u2019   Carl Paladino, the former   of   Donald   Trump\u2019\u2019s New York campaign and the Republican nominee for governor   of New York in 2010, told a Buffalo arts publication that his   wishes for 2017 included President Barack Obama dying of mad cow   disease and his wife, first lady Michelle Obama, \u201dreturn to being   a male\u201d.",
+            "Carl Paladino, a    entrepreneur who ran for New York governor in 2010, made the inflammatory comments to Artvoice, an alternative paper in Buffalo.",
+            "  Donald Trump\u2019s transition team responded to Carl Paladino\u2019s racist remarks that he allegedly made about President Obama and First Lady Michelle Obama to ArtVoice, a New York publication, saying that in 2017 he would like President Obama to die, and Michelle Obama to \u201creturn to being a male and let loose in the outback of Zimbabwe where she lives comfortably in a cave with Maxie, the gorilla."
+        ],
+        "tf-idf score": [
+            1.6299405794334207,
+            0.8881987052419091,
+            1.8829976671586146
+        ]
+    },
+    "0.3244537072992719-4-161": {
+        "average clique similarity": 0.3244537072992719,
+        "clique": [
+            "2-Full exchange  Artvo",
+            "0-What would you most ",
+            "4-      The Buffalo de",
+            "3-  Artvoice included "
+        ],
+        "median tf-idf score": 0.2381157392371807,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "Full exchange: Artvoice: What would you most like to happen in 2017?",
+            "What would you most like to happen in 2017?",
+            "\u2019 \u2019   The Buffalo developer and member of ths local school board    when asked   what he wished to see happen in 2017.",
+            "\u201d Artvoice included Paladino among a number of people asked what they wanted to see happen in 2017."
+        ],
+        "tf-idf score": [
+            0.2003183596158906,
+            0.11805840932284867,
+            0.27591311885847086,
+            0.49574535155681587
+        ]
+    },
+    "0.3911804400259009-3-42": {
+        "average clique similarity": 0.3911804400259009,
+        "clique": [
+            "4-Andrew Cuomo release",
+            "2-Andrew Cuomo  a Demo",
+            "1-Andrew Cuomo  who cr"
+        ],
+        "median tf-idf score": 0.6769337951343519,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "Andrew Cuomo released a statement calling the   remarks \u201dracist, ugly, and reprehensible,\u201d adding his former   opponent \u201dhas a long history of racist and incendiary comments\u201d.",
+            "Andrew Cuomo, a Democrat,  slammed Paladino for a \u201dlong history of racist and incendiary comments\u201d.",
+            "Andrew Cuomo, who crushed Paladino in the governor\u2019s race in 2010, called the comments \u201dracist, ugly and reprehensible\u201d."
+        ],
+        "tf-idf score": [
+            0.6769337951343519,
+            0.6256413540950833,
+            0.7284746081594774
+        ]
+    },
+    "0.4334723794473721-4-127": {
+        "average clique similarity": 0.4334723794473721,
+        "clique": [
+            "3-Amidst furious conde",
+            "2- It has nothing to d",
+            "4-      The Trump tran",
+            "1-Paladino said in par"
+        ],
+        "median tf-idf score": 0.6806877524092625,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Guardian",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Amidst furious condemnation on social media and in the press, Paladino released an open letter in which he said his comments to Artvoice had \u201cnothing to do with race\u201d.",
+            "\u201cIt has nothing to do with race,\u201d Paladino said.",
+            "\u2019 \u2019   The Trump transition team did not immediately return a request   for comment about n a      Paladino said the comments had \u201dnothing to do with race\u201d.",
+            "Paladino said in part in a statement, \u201dIt has nothing to do with race."
+        ],
+        "tf-idf score": [
+            0.7781846309055868,
+            0.5330392211722297,
+            0.8792386356256474,
+            0.5831908739129382
+        ]
+    },
+    "0.6177068870769926-4-62": {
+        "average clique similarity": 0.6177068870769926,
+        "clique": [
+            "2-Asked what he would ",
+            "4-       Obama catches",
+            "1-Of Barack Obama  Pal",
+            "3-  Barack  Obama catc"
+        ],
+        "median tf-idf score": 0.7221719932096314,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Asked what he would most like to see go, Paladino responded that Michelle Obama would \u201creturn to being male\u201d and be \u201clet loose\u201d in Zimbabwe.",
+            "\u2019 \u2019   \u201dObama catches mad cow disease after being caught having   relations with a Herford,\u201d he said.",
+            "Of Barack Obama, Paladino said in response to the question of what he would most like to see happen next year, \u201dObama catches mad cow disease after being caught having relations with a Herford.",
+            "\u201c[Barack] Obama catches mad cow disease after being caught having relations with a Her[e]ford,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.8503663668826134,
+            0.5609796517523231,
+            1.1036649218333738,
+            0.5939776195366495
+        ]
+    },
+    "0.6615674284241317-4-161": {
+        "average clique similarity": 0.6615674284241317,
+        "clique": [
+            "2-I d like her to retu",
+            "1- I d like her to ret",
+            "4-       I  d like her",
+            "3-The   of Donald Trum"
+        ],
+        "median tf-idf score": 0.7262275212532459,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Business Insider",
+            "Guardian"
+        ],
+        "sentences": [
+            "I\u2019d like her to return to being a male and let loose in the outback of Zimbabwe where she lives comfortably in a cave with Maxie, the gorilla.",
+            "\u201dI\u2019d like her to return to being a male and let loose in the outback of Zimbabwe where she lives comfortably in a cave with Maxie, the gorilla,\u201d Paladino said.",
+            "\u2019 \u2019   \u201dI\u2019\u2019d like her to return to being a male and let loose in the   outback of Zimbabwe where she lives comfortably in a cave with   Maxie, the gorilla\u201d.",
+            "The   of Donald Trump\u2019s New York state presidential campaign has denied that comments he made about Michelle Obama \u201cbeing a male\u201d who should be \u201clet loose in the outback of Zimbabwe\u201d to live \u201cin a cave with Maxie, the gorilla\u201d were racist."
+        ],
+        "tf-idf score": [
+            0.5263610256924841,
+            0.9260940168140076,
+            0.5263610256924841,
+            1.3497802653224862
+        ]
+    },
+    "0.729098942138312-3-25": {
+        "average clique similarity": 0.729098942138312,
+        "clique": [
+            "3-  Cuomo said Paladin",
+            "1- While most New York",
+            "4-       While most Ne"
+        ],
+        "median tf-idf score": 1.0655829459617359,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201d Cuomo said Paladino had a \u201clong history of racist and incendiary comments\u201d and most New Yorkers knew not to take him seriously, as \u201chis erratic behavior defies any rational analysis and he has no credibility\u201d.",
+            "\u201dWhile most New Yorkers know Mr Paladino is not to be taken seriously, as his erratic behavior defies any rational analysis and he has no credibility, his words are still jarring,\u201d Cuomo said in a statement.",
+            "\u2019 \u2019   \u201dWhile most New Yorkers know Mr Paladino is not to be taken   seriously, as his erratic behavior defies any rational analysis   and he has no credibility, his words are still jarring,\u201d Cuomo   said."
+        ],
+        "tf-idf score": [
+            1.148190263619088,
+            1.0655829459617359,
+            1.0154312932210272
+        ]
+    },
+    "0.7364752280358862-4-108": {
+        "average clique similarity": 0.7364752280358862,
+        "clique": [
+            "3- That s the typical ",
+            "1-That s the typical s",
+            "4-       That s the ty",
+            "2- That s the typical "
+        ],
+        "median tf-idf score": 0.2789246119578931,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cThat\u2019s the typical stance of the press when they can\u2019t otherwise defend the acts of the person being attacked,\u201d he wrote, accusing the first lady of having hated America before her husband won office in 2008.",
+            "That\u2019s the typical stance of the press when they can\u2019t otherwise defend the acts of the person being attacked\u201d.",
+            "\u2019 \u2019   \u201dThat\u2019s the typical stance of the press when they can\u2019t otherwise   defend the acts of the person being attacked,\u201d he said, later   adding that Michelle \u201dhated America before her husband won\u201d and   calling Barack \u201da   coward who left thousands to die   in Syria\u201d.",
+            "\u201cThat\u2019s the typical stance of the press when they can\u2019t otherwise defend the acts of the person being attacked."
+        ],
+        "tf-idf score": [
+            0.34702738097411445,
+            0.21082184294167175,
+            0.7686571332524404,
+            0.21082184294167175
+        ]
+    },
+    "0.811771504706988-4-23": {
+        "average clique similarity": 0.811771504706988,
+        "clique": [
+            "3-In his condemnation ",
+            "1- His remarks do not ",
+            "2- His remarks do not ",
+            "4- His remarks do not "
+        ],
+        "median tf-idf score": 0.6253977384870947,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "In his condemnation of Paladino\u2019s remarks, Governor Cuomo said his latest outburst did not reflect \u201cthe sentiments or opinions of any real New Yorker\u201d.",
+            "\u201dHis remarks do not reflect the sentiments or opinions of any real New Yorker and he has embarrassed the good people of the state with his latest   rage\u201d.",
+            "\u201dHis remarks do not reflect the sentiments or opinions of any real New Yorker and he has embarrassed the good people of the state with his latest   rage,\u201d he added.",
+            "\u201dHis remarks do not reflect the sentiments or opinions of   any real New Yorker and he has embarrassed the good people of the   state with his latest   rage\u201d."
+        ],
+        "tf-idf score": [
+            0.8675614588739002,
+            0.6109976835374756,
+            0.6397977934367137,
+            0.6109976835374756
+        ]
+    },
+    "0.9455221203560665-4-13": {
+        "average clique similarity": 0.9455221203560665,
+        "clique": [
+            "3- He dies before his ",
+            "2-He dies before his t",
+            "1-He dies before his t",
+            "4- He dies before his "
+        ],
+        "median tf-idf score": 0.6170890714526052,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cHe dies before his trial and is buried in a cow pasture next to [senior Obama adviser] Valerie Jarret[t] who died weeks prior, after being convicted of sedition and treason, when a Jihady [sic] cell mate mistook her for being a nice person and decapitated her.",
+            "He dies before his trial and is buried in a cow pasture next to Valerie Jarret, who died weeks prior, after being convicted of sedition and treason, when a Jihady cell mate mistook her for being a nice person and decapitated her.",
+            "He dies before his trial and is buried in a cow pasture next to Valerie Jarret, who died weeks prior, after being convicted of sedition and treason, when a Jihady cell mate mistook her for being a nice person and decapitated her\u201d.",
+            "\u201dHe dies before his trial and   is buried in a cow pasture next to Valerie Jarrett, who died   weeks prior, after being convicted of sedition and treason, when   a Jihady cell mate mistook her for being a nice person and   decapitated her\u201d."
+        ],
+        "tf-idf score": [
+            0.8263584220457262,
+            0.6170890714526052,
+            0.6170890714526052,
+            0.6033347779284731
+        ]
+    }
+}

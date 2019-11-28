@@ -1,0 +1,942 @@
+{
+    "0.16845016630748152-3-65": {
+        "average clique similarity": 0.16845016630748152,
+        "clique": [
+            "1-Several voices could",
+            "2- He had the gun with",
+            "3- Reuters    When pol"
+        ],
+        "median tf-idf score": 0.325817240136459,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Several voices could be heard in the background as multiple shots were fired.",
+            "\u201dHe had the gun with him and the officer fired several times\u201d.",
+            "(Reuters)   When police returned to the location with more riot gear, someone in the crowd fired shots into the air, the paper reported."
+        ],
+        "tf-idf score": [
+            0.1414910078827482,
+            0.325817240136459,
+            0.5903731463402484
+        ]
+    },
+    "0.17201894970653975-3-189": {
+        "average clique similarity": 0.17201894970653975,
+        "clique": [
+            "0- Parents  get your k",
+            "3-    Steven Radmer   ",
+            "4-Skirmishes between p"
+        ],
+        "median tf-idf score": 0.566934379543243,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201cParents, get your kids home,\u201d he said at the news conference.",
+            "\u2014   Steven Radmer (@Steven_R) August 14, 2016   Barrett said at the news conference that young people had encouraged others to join them by spreading news of the violence on social media, according to the Journal Sentinel.",
+            "Skirmishes between protesters and police continued on the city\u2019s north side until after midnight, when the mayor pleaded for calm in a televised news conference."
+        ],
+        "tf-idf score": [
+            0.3680032925107048,
+            0.7824577373529761,
+            0.566934379543243
+        ]
+    },
+    "0.1983349771698192-3-345": {
+        "average clique similarity": 0.1983349771698192,
+        "clique": [
+            "1-Milwaukee Police sai",
+            "3-Police said proteste",
+            "4-Hours after Smith s "
+        ],
+        "median tf-idf score": 0.8978321003057933,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Milwaukee Police said they were asking the crowd to disperse peacefully while rocks were being thrown at officers.",
+            "Police said protesters threw rocks and fired guns as officers that tried to break up demonstrations.",
+            "Hours after Smith\u2019s shooting scores of protesters clashed with police, set fire to buildings and threw rocks and bricks at officers."
+        ],
+        "tf-idf score": [
+            1.0489471218859638,
+            0.8978321003057933,
+            0.7697442525114261
+        ]
+    },
+    "0.20492507363065973-3-110": {
+        "average clique similarity": 0.20492507363065973,
+        "clique": [
+            "1-One of the officers ",
+            "2-In the related attac",
+            "4-In July the city saw"
+        ],
+        "median tf-idf score": 0.9631184417526787,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "One of the officers shot and killed one of the suspects, who police said was armed with a handgun.",
+            "In the related attacks August 9, a man was shot  dead while another one was fatally stabbed, police said.",
+            "In July the city saw protests over the shooting    Jay Andreson, who was shot dead in a suburb west of Milwaukee, the 2015 shooting of    Tony Robinson, and the 2014 killing of    Dontre Hamilton, an unarmed man with a history of mental health problems."
+        ],
+        "tf-idf score": [
+            1.1115542242389547,
+            0.9631184417526787,
+            0.8324149753807588
+        ]
+    },
+    "0.20911556156013766-3-362": {
+        "average clique similarity": 0.20911556156013766,
+        "clique": [
+            "2-By state law  the Wi",
+            "1-Hamilton said city o",
+            "4-In December the Just"
+        ],
+        "median tf-idf score": 0.5641579249401938,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "By state law, the Wisconsin Department of Justice will lead the investigation.",
+            "Hamilton said city officials would be working with the police department to ensure a transparent investigation and that information is released to the public regarding the police shooting.",
+            "In December the Justice Department and Milwaukee police department began a joint \u201ccollaborative reform initiative\u201d and a federal assessment is expected this fall."
+        ],
+        "tf-idf score": [
+            0.1892475646292234,
+            0.8958208319395856,
+            0.5641579249401938
+        ]
+    },
+    "0.2231297879829142-3-362": {
+        "average clique similarity": 0.2231297879829142,
+        "clique": [
+            "1- A large crowd turne",
+            "3-     Angry demonstra",
+            "0-Angry crowds confron"
+        ],
+        "median tf-idf score": 1.0396912541452468,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            " A large crowd turned violent Saturday night in Milwaukee, setting fires, damaging police cars, and injuring at least one officer with a brick after police shot and killed an armed man, officials said.",
+            "     Angry demonstrators clashed with police in Milwaukee on Saturday night after a police officer fatally shot a man who had a gun during a foot chase that turned deadly.",
+            "Angry crowds confronted the police in Milwaukee on Saturday night, setting fires and throwing rocks following the shooting that afternoon."
+        ],
+        "tf-idf score": [
+            1.4729280149656723,
+            1.0396912541452468,
+            0.8006497009466295
+        ]
+    },
+    "0.22434805463621912-3-22": {
+        "average clique similarity": 0.22434805463621912,
+        "clique": [
+            "0-The police did not p",
+            "3-When officers began ",
+            "2-The incident started"
+        ],
+        "median tf-idf score": 1.018654003098307,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The police did not provide details on why the car was stopped, though Mr Barrett said the episode began when police spotted a \u201csuspicious vehicle.",
+            "When officers began to leave the scene, some members of the crowd \u201cstarted smashing the windows and side of a squad car\u201d and \u201canother vehicle was set on fire,\u201d the paper reported.",
+            "The incident started Saturday afternoon when two officers stopped two people who were in a car in the north side, according to the Milwaukee Police Department."
+        ],
+        "tf-idf score": [
+            1.018654003098307,
+            0.8148263462545906,
+            1.0201777060510777
+        ]
+    },
+    "0.2279530677097751-3-215": {
+        "average clique similarity": 0.2279530677097751,
+        "clique": [
+            "0-At least two of thos",
+            "2-The shooting occurre",
+            "1-Here s the crowd gat"
+        ],
+        "median tf-idf score": 0.26612075154613235,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "At least two of those occurred near where the officer shot the man on Saturday.",
+            "The shooting occurred near the scene of a double homicide that happened this month.",
+            "Here\u2019s the crowd gathered near the scene Sherman Blvd near Auer before the rocks started flying."
+        ],
+        "tf-idf score": [
+            0.46473462352663897,
+            0.22087691369491377,
+            0.26612075154613235
+        ]
+    },
+    "0.22805352265462242-3-4": {
+        "average clique similarity": 0.22805352265462242,
+        "clique": [
+            "1-The Milwaukee County",
+            "3-Within hours of the ",
+            "2-     to restore orde"
+        ],
+        "median tf-idf score": 0.8506957295568354,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The Milwaukee County Sheriff on Sunday requested the National Guard be mobilized after at least four businesses were set on fire overnight by a crowd that officials said grew to hundreds in the hours after the shooting.",
+            "Within hours of the shooting, a crowd began to engage in skirmishes with police on the north side that stretched late into the night, according to the Milwaukee Journal Sentinel.",
+            "\u2019  \u2019 to restore order, Hours after the shooting, a large crowd turned out to protest later that night."
+        ],
+        "tf-idf score": [
+            0.8506957295568354,
+            0.8545972234465516,
+            0.38671949412640466
+        ]
+    },
+    "0.23074241110352897-3-37": {
+        "average clique similarity": 0.23074241110352897,
+        "clique": [
+            "2-  CNN  Angry crowds ",
+            "4-Milwaukee s police c",
+            "0-Scott Walker of Wisc"
+        ],
+        "median tf-idf score": 1.1762769239488764,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            " (CNN) Angry crowds took to the streets in Milwaukee on Saturday night to protest the shooting death of an armed man by a police officer hours earlier.",
+            "Milwaukee\u2019s police chief identified the man whose killing by an officer prompted protests, clashes with police and arson on Saturday night, as the state\u2019s governor activated the national guard for fear of more unrest.",
+            "Scott Walker of Wisconsin activated the Wisconsin National Guard on Sunday to assist local law enforcement following a night of violence in Milwaukee that began hours after a police officer fatally shot a fleeing armed man there."
+        ],
+        "tf-idf score": [
+            1.1762769239488764,
+            1.0389223590447474,
+            1.277653181447536
+        ]
+    },
+    "0.2342756116609818-3-355": {
+        "average clique similarity": 0.2342756116609818,
+        "clique": [
+            "1-The Journal Sentinel",
+            "3-A reporter and a pho",
+            "0-Five people were sho"
+        ],
+        "median tf-idf score": 0.4428009601841763,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "The Journal Sentinel reported at least one of its reporters was chased by members of the crowd, thrown to the ground and punched.",
+            "A reporter and a photographer from the paper were then chased from the scene and assaulted by someone in the crowd, the Journal Sentinel reported.",
+            "Five people were shot and killed overnight Friday, Mr Barrett said at a news conference recorded by The Milwaukee Journal Sentinel earlier on Saturday."
+        ],
+        "tf-idf score": [
+            0.4428009601841763,
+            0.30253760519073675,
+            0.9598793417520585
+        ]
+    },
+    "0.23457136446749474-3-298": {
+        "average clique similarity": 0.23457136446749474,
+        "clique": [
+            "1-Barrett said police ",
+            "2-The mayor said polic",
+            "3- Our police officers"
+        ],
+        "median tf-idf score": 0.7265371360683835,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Barrett said police recovered from the scene a handgun loaded with 23 rounds.",
+            "The mayor said police presence will be strong as part of  an \u201d  \u201d to restore order.",
+            "\u201cOur police officers are doing everything they can to restore order,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.7265371360683835,
+            0.6572951206033891,
+            0.7862713690320142
+        ]
+    },
+    "0.24757603375339743-3-40": {
+        "average clique similarity": 0.24757603375339743,
+        "clique": [
+            "4-On Sunday  Wisconsin",
+            "1-I am going to utiliz",
+            "0-  Mr Walker said he "
+        ],
+        "median tf-idf score": 0.6888920754848191,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "On Sunday, Wisconsin governor Scott Walker activated the national guard to assist if necessary, on the request of Milwaukee County sheriff David Clarke Jr At about 11pm, police reported responding to shots fired, at Sherman and Burleigh.",
+            "I am going to utilize all available resources to accomplish that,\u201d Sheriff David A Clarke, Jr said.",
+            "\u201d Mr Walker said he decided to make the National Guard available to provide assistance upon request after consulting with the mayor of Milwaukee and the Milwaukee County sheriff."
+        ],
+        "tf-idf score": [
+            0.9066151417880636,
+            0.3305484145213174,
+            0.6888920754848191
+        ]
+    },
+    "0.2590624626195796-4-152": {
+        "average clique similarity": 0.2590624626195796,
+        "clique": [
+            "0-During the pursuit  ",
+            "2-Police  Suspect had ",
+            "1-  Officials have not",
+            "4-  Another police off"
+        ],
+        "median tf-idf score": 0.9217106767367407,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "During the pursuit, Mr Barrett said, an officer ordered the man to drop his gun and fired when he did not, striking the man in the chest and an arm.",
+            "Police: Suspect had stolen gun  The suspect, 23, was shot twice    in the arm and chest, the mayor said.",
+            "\u201d Officials have not stated whether the suspect pointed or fired the gun at officers.",
+            "\u201d Another police official, Bill Jessup, told the Milwaukee Journal Sentinel that it was not clear if the suspect pointed the gun or fired at the officers."
+        ],
+        "tf-idf score": [
+            0.8572683379063477,
+            0.9861530155671338,
+            0.3858786533511963,
+            1.0836093833023666
+        ]
+    },
+    "0.280994759116814-3-26": {
+        "average clique similarity": 0.280994759116814,
+        "clique": [
+            "1-The crowd gathered a",
+            "0-The violence overnig",
+            "3-The violence erupted"
+        ],
+        "median tf-idf score": 1.1930867084695718,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "The crowd gathered after police shot and killed an armed man earlier in the day who ran from a car on the city\u2019s North Side, Milwaukee Police said in a statement.",
+            "The violence overnight Saturday erupted after an officer killed a man who the police said was armed with a semiautomatic handgun and who fled after a traffic stop.",
+            "The violence erupted on the city\u2019s predominantly black north side, an area beset with a history of violence and distrust between police and the community."
+        ],
+        "tf-idf score": [
+            1.1930867084695718,
+            1.269467216760086,
+            0.5616027329903467
+        ]
+    },
+    "0.2862088213147067-3-161": {
+        "average clique similarity": 0.2862088213147067,
+        "clique": [
+            "4- This is a warning c",
+            "0-Many of the proteste",
+            "3-  Near the end of th"
+        ],
+        "median tf-idf score": 0.25057433058286765,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cThis is a warning cry,\u201d Milwaukee alderman Khalif Rainey told reporters.",
+            "Many of the protesters were black, and Alderman Khalif J Rainey expressed the frustration within the community.",
+            "\u201d Near the end of the news conference, Alderman Khalif Rainey linked Saturday\u2019s violence to the ongoing tension between police and frustrated black Milwaukeeans, the Journal Sentinel reported."
+        ],
+        "tf-idf score": [
+            0.25057433058286765,
+            0.1746592005186658,
+            0.6964975029965893
+        ]
+    },
+    "0.30450249284391756-3-104": {
+        "average clique similarity": 0.30450249284391756,
+        "clique": [
+            "4-The handgun was trac",
+            "2-His handgun was stol",
+            "1-The gun  Barrett sai"
+        ],
+        "median tf-idf score": 0.6157853185461153,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "The handgun was traced to a burglary in nearby Waukesha in March, according to police, had been stopped for what Barrett called \u201csuspicious activity\u201d.",
+            "His handgun was stolen during a burglary in Waukesha in March, according to police.",
+            "The gun, Barrett said, was found to have been stolen."
+        ],
+        "tf-idf score": [
+            0.7498565492729896,
+            0.6157853185461153,
+            0.5910505673388636
+        ]
+    },
+    "0.3118341744391743-4-333": {
+        "average clique similarity": 0.3118341744391743,
+        "clique": [
+            "3-A gas station was se",
+            "1-The fires included a",
+            "4-   A fire burned for",
+            "0-One fire  at a gas s"
+        ],
+        "median tf-idf score": 0.5324730968440119,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "A gas station was set on fire about 10 p. m. police said, but firefighters could not reach the site because of gunfire.",
+            "The fires included a gas station that burned during the disturbance, but firefighters were unable to immediately tackle because gunshots were fired nearby, police said on Twitter.",
+            "\u201d  A fire burned for hours at a gas station in Sherman Park, with firefighters unable to approach because of gunshots in the area.",
+            "One fire, at a gas station in the Sherman Park neighborhood, burned unattended while gunshots kept firefighters from extinguishing it."
+        ],
+        "tf-idf score": [
+            0.8598292875612844,
+            0.7926751332362646,
+            0.2722710604517591,
+            0.23682131704903034
+        ]
+    },
+    "0.32328795020938683-3-130": {
+        "average clique similarity": 0.32328795020938683,
+        "clique": [
+            "3-Three people working",
+            "1-Three people were in",
+            "2-Three people who wer"
+        ],
+        "median tf-idf score": 0.7048931928973731,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Three people working inside the station got out safely, police said.",
+            "Three people were inside the gas station when it was set ablaze, but they were able to get out uninjured, officials said.",
+            "Three people who were in the gas station rushed out before it went up in flames, the mayor said."
+        ],
+        "tf-idf score": [
+            0.7048931928973731,
+            0.713983233847485,
+            0.5182425652005416
+        ]
+    },
+    "0.33388370185979954-3-320": {
+        "average clique similarity": 0.33388370185979954,
+        "clique": [
+            "0-Mr Barrett appealed ",
+            "1-Speaking to reporter",
+            "3-During a midnight ne"
+        ],
+        "median tf-idf score": 0.40743418573024043,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Mr Barrett appealed to parents to keep their children off the streets in order to restore calm in the neighborhood.",
+            "Speaking to reporters after midnight, Mayor Tom Barrett urged calm across the city, and for parents to reach out to their children to get home and off the city streets.",
+            "During a midnight news conference, Mayor Tom Barrett stood beside city leaders to plead for an end to the chaos that had been unfolding for hours on city streets, according to the Associated Press."
+        ],
+        "tf-idf score": [
+            0.32445415142933814,
+            0.40743418573024043,
+            0.4860570255472407
+        ]
+    },
+    "0.3341920369535469-3-17": {
+        "average clique similarity": 0.3341920369535469,
+        "clique": [
+            "0-The handgun had been",
+            "2- The victim of that ",
+            "3-  Police said he was"
+        ],
+        "median tf-idf score": 0.7062768553721372,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The handgun had been taken in a burglary in March, the police said.",
+            "\u201dThe victim of that burglary reported 500 rounds of ammunition were also stolen with the handgun,\u201d police said in a statement.",
+            "\u201d Police said he was carrying a semiautomatic handgun traced to a burglary in March."
+        ],
+        "tf-idf score": [
+            0.603826137343379,
+            0.7062768553721372,
+            0.7932797887274543
+        ]
+    },
+    "0.33733748844116185-3-362": {
+        "average clique similarity": 0.33733748844116185,
+        "clique": [
+            "1-The suspect was shot",
+            "4-Police said he was a",
+            "3-The paper reported t"
+        ],
+        "median tf-idf score": 0.6520955644644869,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The suspect was shot twice, the mayor said, including in the chest and arm.",
+            "Police said he was armed with a semiautomatic weapon, but they did not describe details of the shooting, except to say he was hit by bullets twice, in the chest and arm.",
+            "The paper reported that the man was struck once in his chest and once in the arm."
+        ],
+        "tf-idf score": [
+            0.6520955644644869,
+            0.8969606557999058,
+            0.3763304324534047
+        ]
+    },
+    "0.34326898349515816-3-194": {
+        "average clique similarity": 0.34326898349515816,
+        "clique": [
+            "1-One officer was take",
+            "4-Mayor Tom Barrett sa",
+            "0-One police officer w"
+        ],
+        "median tf-idf score": 1.1294355753504723,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "One officer was taken to a nearby hospital to be treated after he was injured by a brick that was thrown through the window of a patrol car, police said.",
+            "Mayor Tom Barrett said on Sunday that four officers were injured in the confrontations, including one by a brick hurled into a squad car, but that they had all been treated and released from the hospital.",
+            "One police officer was hospitalized with a head injury after a brick was thrown through the window of his patrol car, Mayor Tom Barrett said at a news conference early Sunday morning."
+        ],
+        "tf-idf score": [
+            1.1294355753504723,
+            0.8464923214072033,
+            1.3652372365750862
+        ]
+    },
+    "0.34681083017883396-3-362": {
+        "average clique similarity": 0.34681083017883396,
+        "clique": [
+            "3- If you love your so",
+            "2-Get them home right ",
+            "1- If you love your so"
+        ],
+        "median tf-idf score": 0.36585503543358766,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cIf you love your son, if you love your daughter, text them, call them, pull them by their ears, get them home.",
+            "Get them home right now before more damage is done,\u201d the mayor said.",
+            "\u201cIf you love your son, if you love your daughter, call them, text them, pull them by the ear and get them home,\u201d Barrett said."
+        ],
+        "tf-idf score": [
+            0.13470182445966028,
+            0.36585503543358766,
+            0.4700463259205053
+        ]
+    },
+    "0.3562735562264398-4-18": {
+        "average clique similarity": 0.3562735562264398,
+        "clique": [
+            "0-Other fires burned a",
+            "3-Fires were also star",
+            "4-They also extinguish",
+            "1-Estimates of the cro"
+        ],
+        "median tf-idf score": 0.39992010858876653,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Other fires burned at an   store, a beauty supply company and a bank branch.",
+            "Fires were also started at multiple businesses, including a bank, a beauty supply company and an O\u2019Reilly Auto Parts store, according to WISN By 2 a. m. a supermarket and a liquor store also had been set on fire, the station reported.",
+            "They also extinguished blazes in a police cruiser, a bank branch, car parts store and beauty supply store.",
+            "Estimates of the crowd varied from 200 to 800 people, with some eventually turning violent, setting fire to police cars and nearby businesses, including an auto parts store and beauty shop."
+        ],
+        "tf-idf score": [
+            0.10876888142290378,
+            0.37183193504773215,
+            0.4280082821298009,
+            0.6973480160224592
+        ]
+    },
+    "0.35937575874745775-3-362": {
+        "average clique similarity": 0.35937575874745775,
+        "clique": [
+            "3-The officer was not ",
+            "0-The officer was not ",
+            "1-The name of the offi"
+        ],
+        "median tf-idf score": 0.5822646945380281,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The officer was not injured.",
+            "The officer was not named, but officials said he was 24 and had been an officer for three years.",
+            "The name of the officer who shot the suspect was not released, but he was identified as a      veteran of the department."
+        ],
+        "tf-idf score": [
+            0.4084627686177509,
+            0.7003976686424023,
+            0.5822646945380281
+        ]
+    },
+    "0.37140557144239716-3-176": {
+        "average clique similarity": 0.37140557144239716,
+        "clique": [
+            "3-      The black peop",
+            "2-And there are a lot ",
+            "4- There are a lot of "
+        ],
+        "median tf-idf score": 0.2861256784134458,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u2026     The black people of Milwaukee are tired.",
+            "And there are a lot of really really good people who live in this area    in the Sherman Park area, who can\u2019t stand this violence\u201d.",
+            "\u201cThere are a lot of really good people who live in this neighborhood."
+        ],
+        "tf-idf score": [
+            0.3040722973485268,
+            0.2861256784134458,
+            0.18003931638682316
+        ]
+    },
+    "0.37706993013458084-3-95": {
+        "average clique similarity": 0.37706993013458084,
+        "clique": [
+            "2-The officer  24  was",
+            "4-The officer has not ",
+            "3-After being pulled o"
+        ],
+        "median tf-idf score": 0.9697501703042765,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The officer, 24, was assigned to District 7 and has six years of service with the Milwaukee Police Department     three of those as an officer.",
+            "The officer has not been identified, though police said the officer had been with the department for six years, three of which as an officer.",
+            "After being pulled over, two individuals fled from the car, prompting the officer  \u2014   a    with six years of experience  \u2014   to chase them, according to ABC affiliate WISN The    suspect  \u2014   who has not been identified by police  \u2014   died at the scene, the station reported."
+        ],
+        "tf-idf score": [
+            0.9697501703042765,
+            0.8639041662496125,
+            0.9963010843501687
+        ]
+    },
+    "0.3806211464749449-5-109": {
+        "average clique similarity": 0.3806211464749449,
+        "clique": [
+            "2-He was not injured a",
+            "1-The officer was plac",
+            "0-He was placed on adm",
+            "3-The officer has been",
+            "4-State officials will"
+        ],
+        "median tf-idf score": 0.44182534248468763,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "New York Times",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "He was not injured and will be placed on administrative duty during the investigation and subsequent review by the district attorney\u2019s office.",
+            "The officer was placed on administrative leave pending an investigation.",
+            "He was placed on administrative duty.",
+            "The officer has been placed on administrative duty while the shooting is reviewed by the district attorney\u2019s office.",
+            "State officials will investigate the shooting, and the officer involved has been placed on administrative leave, both standard practices."
+        ],
+        "tf-idf score": [
+            0.34045956813334827,
+            0.4664002825503086,
+            0.2263568290901304,
+            0.44182534248468763,
+            0.47210471258744025
+        ]
+    },
+    "0.38068895021826904-3-362": {
+        "average clique similarity": 0.38068895021826904,
+        "clique": [
+            "0- What has happened m",
+            "3- We have to have cal",
+            "4- We have to have cal"
+        ],
+        "median tf-idf score": 0.3613447867386756,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cWhat has happened may not have been right,\u201d Mr Rainey said, \u201cI\u2019m not justifying that, but nobody can deny that there are racial problems here in Milwaukee, Wisconsin, that have to be rectified, because if you don\u2019t, you\u2019re one day away.",
+            "\u201cWe have to have calm,\u201d Barrett said.",
+            "\u201cWe have to have calm,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.6812026544117228,
+            0.3613447867386756,
+            0.27202072893104895
+        ]
+    },
+    "0.40835477576357554-3-89": {
+        "average clique similarity": 0.40835477576357554,
+        "clique": [
+            "1- There were 23 round",
+            "4- There were 23 round",
+            "2- He  officer  ordere"
+        ],
+        "median tf-idf score": 0.8029142288370981,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cThere were 23 rounds in that gun,\u201d Barrett said.",
+            "\u201cThere were 23 rounds in that gun that that officer was staring at,\u201d Barrett said.",
+            "\u201dHe (officer) ordered that individual to drop his gun, the individual did not drop his gun,\u201d Milwaukee Mayor Tom Barrett said."
+        ],
+        "tf-idf score": [
+            0.4081312025299986,
+            0.8029142288370981,
+            0.8702773630696937
+        ]
+    },
+    "0.4126808262292527-5-309": {
+        "average clique similarity": 0.4126808262292527,
+        "clique": [
+            "1-Barrett said the off",
+            "4-Barrett said that th",
+            "3-   Police told the J",
+            "2-At the time of the s",
+            "0-Mr Barrett said that"
+        ],
+        "median tf-idf score": 0.9737790291876339,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Barrett said the officer was wearing a body camera at the time of the shooting, and the camera appeared to be in working order.",
+            "Barrett said that the officer who shot Smith was wearing a body camera at the time, and that video and photographic evidence showed \u201cwithout question\u201d that he had a gun in hand at the time.",
+            "\u201d  Police told the Journal Sentinel that the officer was wearing a body camera when he fired at the fleeing suspect.",
+            "At the time of the shooting, he was wearing a body camera, Barrett  said, adding that it was his understanding that it was operational.",
+            "Mr Barrett said that the officer was wearing a body camera that he understood to be operating and that the investigation into the shooting would be conducted by the Wisconsin Department of Justice because the case involved a Milwaukee police officer."
+        ],
+        "tf-idf score": [
+            0.9737790291876339,
+            1.014038133982141,
+            0.8815097235004851,
+            0.7131732564106644,
+            1.5216137177800464
+        ]
+    },
+    "0.4233154656565226-3-59": {
+        "average clique similarity": 0.4233154656565226,
+        "clique": [
+            "0-Three people were ar",
+            "4-Police arrested thre",
+            "3-Police said three pe"
+        ],
+        "median tf-idf score": 0.7707866334753208,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Three people were arrested on unspecified charges during the mayhem, in which crowds of at least 200 people filled the streets, said Assistant Chief James Harpole of the Milwaukee police.",
+            "Police arrested three people by the night\u2019s end, Barrett said.",
+            "Police said three people were arrested throughout the night."
+        ],
+        "tf-idf score": [
+            0.9816524042422519,
+            0.7707866334753208,
+            0.6675350959799409
+        ]
+    },
+    "0.43806032572331227-3-362": {
+        "average clique similarity": 0.43806032572331227,
+        "clique": [
+            "2-The man died at the ",
+            "0-The man  described b",
+            "1-The suspect  identif"
+        ],
+        "median tf-idf score": 0.5989848057057496,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The man died at the scene.",
+            "The man, described by the police as a    Milwaukee man with a lengthy arrest record, died at the scene.",
+            "The suspect, identified only as a    local man \u201cwith a lengthy arrest record,\u201d died at the scene, according to police."
+        ],
+        "tf-idf score": [
+            0.14589081946470103,
+            0.6186477725190146,
+            0.5989848057057496
+        ]
+    },
+    "0.449005054557912-3-143": {
+        "average clique similarity": 0.449005054557912,
+        "clique": [
+            "3-Where do we go as a ",
+            "4- Where do we go from",
+            "2-Go home  mayor plead"
+        ],
+        "median tf-idf score": 0.042854187667779146,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Where do we go as a community from here?",
+            "\u201cWhere do we go from here?",
+            "Go home, mayor pleads, As the chaos escalated, authorities implored the crowds to disperse and go home."
+        ],
+        "tf-idf score": [
+            0.042854187667779146,
+            0.0,
+            0.2665891140637105
+        ]
+    },
+    "0.467069883250078-3-80": {
+        "average clique similarity": 0.467069883250078,
+        "clique": [
+            "0- The black people of",
+            "2-At least three peopl",
+            "4-   Black people in M"
+        ],
+        "median tf-idf score": 0.5500927410017451,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cThe black people of Milwaukee are tired,\u201d he said.",
+            "At least three people have been arrested, he said.",
+            "\u201d \u201cBlack people in Milwaukee are tired,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.5500927410017451,
+            0.35075254490900565,
+            0.5500927410017451
+        ]
+    },
+    "0.4883807169500876-3-3": {
+        "average clique similarity": 0.4883807169500876,
+        "clique": [
+            "3-    This entire comm",
+            "4- This entire communi",
+            "0- This act of selfles"
+        ],
+        "median tf-idf score": 0.6307654533194424,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201d  \u201cThis entire community has sat back and witnessed how Milwaukee, Wisconsin, has become the worst place to live for   in the entire country,\u201d Rainey said.",
+            "\u201cThis entire community has sat back and witnessed how Milwaukee, Wisconsin, has become the worst place to live for African Americans in the entire country,\u201d Rainey said.",
+            "\u201cThis act of selfless caring sets a powerful example for Milwaukee\u2019s youth and the entire community,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.6307654533194424,
+            0.6595983659888354,
+            0.533104714073629
+        ]
+    },
+    "0.9137258377944594-3-200": {
+        "average clique similarity": 0.9137258377944594,
+        "clique": [
+            "0- They re tired of li",
+            "3-They re tired of liv",
+            "4- They are tired of l"
+        ],
+        "median tf-idf score": 0.046326950960162816,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cThey\u2019re tired of living under this oppression.",
+            "They\u2019re tired of living under this oppression.",
+            "\u201cThey are tired of living under this oppression."
+        ],
+        "tf-idf score": [
+            0.046326950960162816,
+            0.046326950960162816,
+            0.046326950960162816
+        ]
+    }
+}

@@ -1,0 +1,518 @@
+{
+    "0.18511126198018577-3-29": {
+        "average clique similarity": 0.18511126198018577,
+        "clique": [
+            "4-  Ginsburg declined ",
+            "3-   Congressional lea",
+            "2-The AP noted that Gi"
+        ],
+        "median tf-idf score": 0.4126448064393444,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d Ginsburg declined a request for comment.",
+            "\u2019\u201d Congressional leaders were quick to blast Ginsburg\u2019s comment as inappropriate.",
+            "The AP noted that Ginsburg smiled as she made that comment."
+        ],
+        "tf-idf score": [
+            0.37003322393898386,
+            0.4126448064393444,
+            0.41298516839630506
+        ]
+    },
+    "0.199713966266689-3-68": {
+        "average clique similarity": 0.199713966266689,
+        "clique": [
+            "4- And people thought ",
+            "2-Critics of Ginsburg ",
+            "0-In a hypothetical re"
+        ],
+        "median tf-idf score": 0.7084242212913294,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201cAnd people thought that Bush v Gore would tarnish the court\u2019s reputation,\u201d Lubet added.",
+            "Critics of Ginsburg point out that the court could easily find itself weighing in on the presidential race in an official capacity  \u2014   as it had to in the 2000 race between George W Bush and Al Gore.",
+            "In a hypothetical repeat of Bush v. Gore, Ginsburg\u2019s comments would mean a   majority for Trump  \u2014   assuming, as liberals did in 2000, that the justices simply vote to help the party whose president nominated them."
+        ],
+        "tf-idf score": [
+            0.3547868675311271,
+            0.7084242212913294,
+            1.0152398793781754
+        ]
+    },
+    "0.20278752665397234-3-80": {
+        "average clique similarity": 0.20278752665397234,
+        "clique": [
+            "2-Ginsburg isn t the f",
+            "1-  Trump added   It s",
+            "3-Not only was it unpr"
+        ],
+        "median tf-idf score": 0.5586064536222544,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Ginsburg isn\u2019t the first justice to wade into politics, but it is unusual for a Supreme Court justice to so directly criticize presidential candidates.",
+            "\u201d Trump added: \u201cIt\u2019s so beneath the court for her to be making statements like that.",
+            "Not only was it unprecedented for a member of the current court to delve so deeply into a presidential campaign, but a statement expressing regret is also quite rare."
+        ],
+        "tf-idf score": [
+            0.8702049785184498,
+            0.5586064536222544,
+            0.5255718785727742
+        ]
+    },
+    "0.20983864346211645-3-239": {
+        "average clique similarity": 0.20983864346211645,
+        "clique": [
+            "4-She said  no  ",
+            "1-  Supreme Court spok",
+            "2-Ginsburg had called "
+        ],
+        "median tf-idf score": 0.7830685867618968,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "She said \u2018no\u2019.",
+            "\u201d Supreme Court spokeswoman Kathleen Arberg said Ginsburg had no comment on Trump\u2019s reaction to her comments.",
+            "Ginsburg had called Trump \u201da faker\u201d with an \u201dego\u201d in an interview with CNN \u201dHe has no consistency about him."
+        ],
+        "tf-idf score": [
+            0.14360218090667473,
+            1.0152792025843416,
+            0.7830685867618968
+        ]
+    },
+    "0.21308731071869982-3-130": {
+        "average clique similarity": 0.21308731071869982,
+        "clique": [
+            "4- Litigants  the publ",
+            "1-Usually the most pub",
+            "2-Especially because i"
+        ],
+        "median tf-idf score": 0.6289404562667854,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cLitigants, the public, and the political branches respect the [US supreme] court\u2019s decisions because of the court\u2019s reputation for deciding cases based on the law rather than upon the justices\u2019 personal interests in outcomes,\u201d he said in an email.",
+            "Usually the most public interaction between the court and the political world comes at the annual State of the Union address, where the justices sit stoically among partisan cheers and catcalls.",
+            "Especially because it is an election year and the next president could affect the balance of the court, the Times writes, it is \u201dvital that the court remain outside the presidential process\u201d."
+        ],
+        "tf-idf score": [
+            0.8589093535791146,
+            0.6289404562667854,
+            0.5521125724618343
+        ]
+    },
+    "0.2186250060656845-3-261": {
+        "average clique similarity": 0.2186250060656845,
+        "clique": [
+            "2-And to The Associate",
+            "1-The    Ginsburg was ",
+            "3- Under this test  Ju"
+        ],
+        "median tf-idf score": 0.774188539089314,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "And to The Associated Press, Ginsburg said, \u201dIt\u2019s likely that the next president, whoever she will be, will have a few appointments to make,\u201d Ginsburg said, a clear nod to presumptive Democratic nominee Hillary Clinton.",
+            "The    Ginsburg was nominated to the court in 1993 by President Bill Clinton.",
+            "\u201dUnder this test, Justice Ginsburg\u2019s remarks would prevent her from sitting in the unlikely event of a \u2019Clinton v. Trump\u2019 case that determines the next president\u201d."
+        ],
+        "tf-idf score": [
+            0.774188539089314,
+            0.6834889837074786,
+            0.8592872275829619
+        ]
+    },
+    "0.22469108422538775-3-180": {
+        "average clique similarity": 0.22469108422538775,
+        "clique": [
+            "2-   The New York Time",
+            "4-It turns out that th",
+            "1-Justice Ruth Bader G"
+        ],
+        "median tf-idf score": 1.1240477685182624,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d: The New York Times ran an editorial Wednesday siding with Trump, saying he is \u201dright\u201d about Ginsburg and that \u201dJustice Ruth Bader Ginsburg needs to drop the political punditry and  \u201d.",
+            "It turns out that the New York Times\u2019 editorial board, the Washington Post\u2019s editorial board and Donald Trump can find one thing on which to agree: they all believe that US supreme court justice Ruth Bader Ginsburg ought not to have openly criticized the presumptive Republican nominee  \u2014   let alone, presumably, doubled down on her comments.",
+            "Justice Ruth Bader Ginsburg made clear that her criticism of Republican Donald Trump was not the result of an unguarded moment."
+        ],
+        "tf-idf score": [
+            1.1240477685182624,
+            1.5851664651374981,
+            1.0139062755795218
+        ]
+    },
+    "0.22699251129908005-3-116": {
+        "average clique similarity": 0.22699251129908005,
+        "clique": [
+            "1-Asked what would hap",
+            "4- I asked if she was ",
+            "2- At first I thought "
+        ],
+        "median tf-idf score": 0.28414579983380317,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Asked what would happen if Trump won instead, she said, \u201cI don\u2019t want to think about that possibility, but if it should be, then everything is up for grabs.",
+            "\u201cI asked if she was surprised about that criticism.",
+            "\u201dAt first I thought it was funny,\u201d she continued, \u201dto think that there\u2019s a possibility that he could be president\u201d."
+        ],
+        "tf-idf score": [
+            0.49168260877821507,
+            0.1529570792164939,
+            0.28414579983380317
+        ]
+    },
+    "0.25859440189777444-3-105": {
+        "average clique similarity": 0.25859440189777444,
+        "clique": [
+            "1- For the country  it",
+            "2-Late last week  she ",
+            "4- I think it s possib"
+        ],
+        "median tf-idf score": 0.6960844665746684,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cFor the country, it could be four years.",
+            "Late last week, she told the Times: \u201dI don\u2019t even want to contemplate\u201d four years of a Trump presidency and the effect it could have on the high court.",
+            "\u201cI think it\u2019s possible she profoundly believes that the legitimacy of the court and the country are at risk\u201d from a Trump presidency, Carmon said."
+        ],
+        "tf-idf score": [
+            0.05679299840040779,
+            0.6960844665746684,
+            0.7085193611721561
+        ]
+    },
+    "0.29132363978497805-3-119": {
+        "average clique similarity": 0.29132363978497805,
+        "clique": [
+            "3-  CNN  Supreme Court",
+            "1- The unusual and app",
+            "0-Supreme Court Justic"
+        ],
+        "median tf-idf score": 1.5811289373650665,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            " (CNN) Supreme Court Justice Ruth Bader Ginsburg said Thursday she regrets remarks she made earlier this week to CNN and other news outlets criticizing presumptive Republican presidential nominee Donald Trump.",
+            " The unusual and apparently unprecedented battle of words between a justice of the Supreme Court and a presumptive presidential nominee continued Tuesday.",
+            "Supreme Court Justice Ruth Bader Ginsburg  \u2014   who was appointed to the court by President Bill Clinton  \u2014   issued a statement on Thursday saying she regrets her \u201c \u201d remarks about presumptive Republican nominee Donald Trump."
+        ],
+        "tf-idf score": [
+            1.5928125512945797,
+            0.653233178057747,
+            1.5811289373650665
+        ]
+    },
+    "0.2963654103453977-4-6": {
+        "average clique similarity": 0.2963654103453977,
+        "clique": [
+            "0-   I can t imagine w",
+            "1- I can t imagine wha",
+            "4- Obviously  this is ",
+            "3-Ginsburg s remarks t"
+        ],
+        "median tf-idf score": 0.784733968878147,
+        "publications": [
+            "Guardian",
+            "Breitbart",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201d \u201cI can\u2019t imagine what this place would be  \u2014   I can\u2019t imagine what the country would be  \u2014   with Donald Trump as our president,\u201d she stated in an interview with the New York Times on Monday.",
+            "\u201cI can\u2019t imagine what this place would be  \u2014   I can\u2019t imagine what the country would be  \u2014   with Donald Trump as our president,\u201d Ginsburg told the New York Times.",
+            "\u201cObviously, this is something that will be talked about for as long as she\u2019s on the court,\u201d he said.",
+            "Ginsburg\u2019s remarks to CNN as well as to the Associated Press and The New York Times created a highly unusual week at the Supreme Court."
+        ],
+        "tf-idf score": [
+            0.6880979559487188,
+            0.8813699818075751,
+            0.3775795976059465,
+            0.9403049758649128
+        ]
+    },
+    "0.30804700832534043-3-261": {
+        "average clique similarity": 0.30804700832534043,
+        "clique": [
+            "3-In the future I will",
+            "0-In the future I will",
+            "1-Ginsburg has noted t"
+        ],
+        "median tf-idf score": 0.0372009864487475,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In the future I will be more circumspect\u201d.",
+            "In the future I will be more circumspect.",
+            "Ginsburg has noted that she and two others on the court will be 78 or older on Inauguration Day 2017."
+        ],
+        "tf-idf score": [
+            0.0372009864487475,
+            0.0372009864487475,
+            0.6394384561085189
+        ]
+    },
+    "0.3249429119210257-3-260": {
+        "average clique similarity": 0.3249429119210257,
+        "clique": [
+            "3-Earlier in the week ",
+            "2-Trump responded earl",
+            "4-In an interview with"
+        ],
+        "median tf-idf score": 1.158640355080335,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "Earlier in the week, in an interview with Joan Biskupic, CNN\u2019s legal analyst and Supreme Court biographer, Ginsburg had extensively criticized Trump as a\u201d faker.",
+            "Trump responded earlier Tuesday to the Times in a phone interview, calling Ginsburg\u2019s comments and involvement in a political campaign \u201dhighly inappropriate\u201d and \u201da disgrace to the court\u201d.",
+            "In an interview with CNN legal analyst and court biographer Joan Biskupic published on Tuesday, Ginsburg called Trump \u201ca faker\u201d who has \u201cno consistency about him\u201d escalating a public battle between her and Trump."
+        ],
+        "tf-idf score": [
+            1.0832244857032203,
+            1.158640355080335,
+            1.1691590161394374
+        ]
+    },
+    "0.3340024271959017-5-34": {
+        "average clique similarity": 0.3340024271959017,
+        "clique": [
+            "3-Her mind is shot   r",
+            "2-Trump ended his twee",
+            "4-Though the newspaper",
+            "0-Her mind is shot    ",
+            "1-Early Wednesday  a m"
+        ],
+        "median tf-idf score": 0.7604424889487686,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Guardian",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "Her mind is shot   resign!\u201d Trump tweeted.",
+            "Trump ended his tweet with \u201dHer mind is shot   resign!",
+            "Though the newspapers might believe that Trump\u2019s   statement  \u2014   \u201cHer mind is shot  \u2014   resign!\u201d  \u2014   went too far, he\u2019s clearly not the only person wondering what the justice was thinking, given the recent tradition of justices remaining above the political fray.",
+            "Her mind is shot  \u2014   resign!\u201d Trump continued throughout the day: Is Supreme Court Justice Ruth Bader Ginsburg going to apologize to me for her misconduct?",
+            "Early Wednesday, a more pointed message was posted to his Twitter account: \u201cHer mind is shot  \u2014   resign!\u201d  [Did Ginsburg cross a line in her criticism of Donald Trump?]"
+        ],
+        "tf-idf score": [
+            0.2925334081988917,
+            0.3042626380342669,
+            0.7604424889487686,
+            1.1670228317301008,
+            0.8432076857616863
+        ]
+    },
+    "0.4066890594145504-3-72": {
+        "average clique similarity": 0.4066890594145504,
+        "clique": [
+            "2-He also said her mak",
+            "0-  On reflection  my ",
+            "3- On reflection  my r"
+        ],
+        "median tf-idf score": 0.571178593476715,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Breitbart"
+        ],
+        "sentences": [
+            "He also said her making such comments \u201donly energizes my base more\u201d.",
+            "[\u201cOn reflection, my recent remarks in response to press inquiries were   and I regret making them,\u201d Ginsburg stated on Thursday.",
+            "\u201dOn reflection, my recent remarks in response to press inquiries were   and I regret making them,\u201d Ginsburg said in a statement."
+        ],
+        "tf-idf score": [
+            0.3034436173725348,
+            0.571178593476715,
+            0.7000055565809465
+        ]
+    },
+    "0.43232178381248204-3-169": {
+        "average clique similarity": 0.43232178381248204,
+        "clique": [
+            "3-The press seems to b",
+            "0-The press seems to b",
+            "4- People thought that"
+        ],
+        "median tf-idf score": 0.06283109711323949,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "The press seems to be very gentle with him on that\u201d.",
+            "The press seems to be very gentle with him on that.",
+            "\u201cPeople thought that Scalia\u2019s duck hunt with   [Dick] Cheney would have some impact, but it did not,\u201d he argued, referring to the   justice\u2019s 2004 hunting trip with the   shortly before the court was due to rule on whether Cheney was entitled to keep secret the files on an energy task he headed in 2001."
+        ],
+        "tf-idf score": [
+            0.06283109711323949,
+            0.06283109711323949,
+            0.6200963219588169
+        ]
+    },
+    "0.473826714797888-3-88": {
+        "average clique similarity": 0.473826714797888,
+        "clique": [
+            "4- Accordingly  the ju",
+            "0- Judges should avoid",
+            "3- Judges should avoid"
+        ],
+        "median tf-idf score": 0.17726383754246142,
+        "publications": [
+            "Guardian",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cAccordingly, the justices typically avoid public comment on political activities outside of cases presented to them.",
+            "\u201cJudges should avoid commenting on a candidate for public office.",
+            "\u201dJudges should avoid commenting on a candidate for public office."
+        ],
+        "tf-idf score": [
+            0.4364716379982592,
+            0.17726383754246142,
+            0.17726383754246142
+        ]
+    },
+    "0.5625811382807658-3-261": {
+        "average clique similarity": 0.5625811382807658,
+        "clique": [
+            "3- He has no consisten",
+            "1- He has no consisten",
+            "0- He has no consisten"
+        ],
+        "median tf-idf score": 0.12460937536103664,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\u201dHe has no consistency about him.",
+            "\u201cHe has no consistency about him.",
+            "\u201cHe has no consistency about him,\u201d the    previously stated about Trump."
+        ],
+        "tf-idf score": [
+            0.12460937536103664,
+            0.12460937536103664,
+            0.3862824454801831
+        ]
+    },
+    "0.5868717740479505-3-51": {
+        "average clique similarity": 0.5868717740479505,
+        "clique": [
+            "2-He tweeted late Tues",
+            "0-Trump reacted to Gin",
+            "3- Justice Ginsburg of"
+        ],
+        "median tf-idf score": 1.0144223305587345,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "He tweeted late Tuesday that she \u201dhas embarrassed all\u201d with her \u201dvery dumb political statements\u201d about the candidate.",
+            "Trump reacted to Ginsburg\u2019s statement on Twitter Wednesday morning, saying, \u201cJustice Ginsburg of the U S Supreme Court has embarrassed all by making very dumb political statements about me.",
+            "\u201dJustice Ginsburg of the U S Supreme Court has embarrassed all by making very dumb political statements about me."
+        ],
+        "tf-idf score": [
+            0.4027456495207398,
+            1.3327597805405538,
+            1.0144223305587345
+        ]
+    },
+    "0.9737106224974096-3-114": {
+        "average clique similarity": 0.9737106224974096,
+        "clique": [
+            "0- He says whatever co",
+            "1-He says whatever com",
+            "2-He says whatever com"
+        ],
+        "median tf-idf score": 0.12328815922083688,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cHe says whatever comes into his head at the moment.",
+            "He says whatever comes into his head at the moment.",
+            "He says whatever comes into his head at the moment,\u201d she said."
+        ],
+        "tf-idf score": [
+            0.12328815922083688,
+            0.12328815922083688,
+            0.2668903401275116
+        ]
+    },
+    "1.0-3-91": {
+        "average clique similarity": 1.0,
+        "clique": [
+            "3-   How has he gotten",
+            "0-      How has he got",
+            "1-How has he gotten aw"
+        ],
+        "median tf-idf score": 0.22171442173724756,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            ".. How has he gotten away with not turning over his tax returns?",
+            "\u2026     How has he gotten away with not turning over his tax returns?",
+            "How has he gotten away with not turning over his tax returns?"
+        ],
+        "tf-idf score": [
+            0.22171442173724756,
+            0.22171442173724756,
+            0.22171442173724756
+        ]
+    }
+}

@@ -1,0 +1,338 @@
+{
+    "0.16243835171415885-3-38": {
+        "average clique similarity": 0.16243835171415885,
+        "clique": [
+            "1-The ruling  expected",
+            "2-But even if it paid ",
+            "3-Under U S tax law  A"
+        ],
+        "median tf-idf score": 1.0753129314173033,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The ruling, expected to be announced early Tuesday in Brussels, will result in Apple having to pay back taxes to the Irish government, according to three people briefed on the decision who spoke on the condition of anonymity because they were not authorized to speak publicly. The amount is anticipated to be in the hundreds of millions of dollars, one of these people said.",
+            "But even if it paid today, Apple has 16 times the amount of cash and   on hand to pay the commission.",
+            "Under U S tax law, Apple's Irish profits are taxable if brought back to the United States  --   something the company would have to do if it wanted to use the money to pay dividends."
+        ],
+        "tf-idf score": [
+            1.2840639879933269,
+            0.6581499261925878,
+            1.0753129314173033
+        ]
+    },
+    "0.17003985143264108-3-8": {
+        "average clique similarity": 0.17003985143264108,
+        "clique": [
+            "3-Apple has said it pa",
+            "1-The Irish government",
+            "2-That s the amount in"
+        ],
+        "median tf-idf score": 0.84010680684095,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "Apple has said it paid Ireland's 12. 5 percent rate on all the income that it generates in the country.",
+            "The Irish government has said that it will appeal any tax decision announced by European officials, putting the country in the somewhat odd position of turning down potentially billions of dollars of extra revenue from Apple.",
+            "That's the amount in back taxes that the European Commission has    --   except the host country for the iPhone maker's   operations doesn't want it."
+        ],
+        "tf-idf score": [
+            0.84010680684095,
+            1.3781527106544684,
+            0.7598207223469569
+        ]
+    },
+    "0.1782021556902936-3-163": {
+        "average clique similarity": 0.1782021556902936,
+        "clique": [
+            "0-In its statement on ",
+            "1-While Apple has a la",
+            "3-But any tax paid in "
+        ],
+        "median tf-idf score": 1.2729451778933196,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "In its statement on the investigation into Apple and Ireland's tax arrangements, the European Commission said that two Irish tax rulings issued to Apple had \"substantially and artificially lowered the tax paid by Apple in Ireland since 1991. \"",
+            "While Apple has a large operation in Ireland, the company said its main corporate tax liabilities remain within the United States where it is based and conducts the majority of its research and development.",
+            "But any tax paid in Europe is reduced from the tax due in the United States."
+        ],
+        "tf-idf score": [
+            1.399649472419768,
+            1.2729451778933196,
+            0.47940558227942087
+        ]
+    },
+    "0.18171263606234436-3-53": {
+        "average clique similarity": 0.18171263606234436,
+        "clique": [
+            "3-Apple and Dublin sai",
+            "0- In the same call  A",
+            "4-Reuters reports that"
+        ],
+        "median tf-idf score": 1.1931809281534056,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "Apple and Dublin said the U S company's tax treatment was in line with Irish and European Union law and they would appeal the ruling, which is part of a drive against what the EU says are sweetheart tax deals that usually smaller states in the bloc offer multinational companies to lure jobs and investment.",
+            "\"In the same call, Apple General Counsel Bruce Sewell said that the company will be an active participant in the appeal following Ireland's lead and the company is developing its legal briefs, expects the appeal to be a   process.",
+            "Reuters reports that in a statement, the company describes the ruling as \"an effort to rewrite Apple's history in Europe, ignore Ireland's tax laws and upend the international tax system in the process\"."
+        ],
+        "tf-idf score": [
+            1.6255157002749308,
+            0.839667192451907,
+            1.1931809281534056
+        ]
+    },
+    "0.18939226801934853-3-101": {
+        "average clique similarity": 0.18939226801934853,
+        "clique": [
+            "0-He added that the go",
+            "1-Ireland can appeal a",
+            "4-Ireland s finance mi"
+        ],
+        "median tf-idf score": 0.7534429086922497,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "He added that the government \"will now seek cabinet approval to appeal the commission decision to the European Courts. \"",
+            "Ireland can appeal any judgment by suing in the Court of Justice of the European Union to stop any resulting penalty, and Apple could seek to support such an appeal. Such appeals are likely to take years.",
+            "Ireland's finance minister, Michael Noonan, says in a statement that he \"profoundly\" disagrees with the decision and plans to appeal. Apple also promises an appeal."
+        ],
+        "tf-idf score": [
+            0.4577431123058536,
+            0.7534429086922497,
+            0.7583947755654683
+        ]
+    },
+    "0.1959615857774173-3-90": {
+        "average clique similarity": 0.1959615857774173,
+        "clique": [
+            "3-For many technology ",
+            "4-But the European Com",
+            "1-The decision is set "
+        ],
+        "median tf-idf score": 1.419976831170715,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "For many technology firms like Google and Facebook, a key attraction is that Ireland allows companies to adopt tax structures which see them pay much less than the 12.",
+            "But the European Commission found that Ireland allowed Apple  --   which has two companies incorporated in Ireland, Apple Sales International and Apple Operations Europe  --   to pay far less in taxes than other companies did.",
+            "The decision is set to further stoke tensions between American officials and their European counterparts, with Europe claiming the right to oversee tax policies for companies like Apple and Amazon, among others, that have used complicated tax structures in nations like Ireland and Luxembourg to reduce the amount of corporate tax they pay in other countries."
+        ],
+        "tf-idf score": [
+            0.7702036605870533,
+            1.419976831170715,
+            1.446787945772503
+        ]
+    },
+    "0.20092272225675087-3-68": {
+        "average clique similarity": 0.20092272225675087,
+        "clique": [
+            "0-The ruling       whi",
+            "1-The European Commiss",
+            "2-The harsh tax ruling"
+        ],
+        "median tf-idf score": 1.1610298572323603,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The ruling  --   which came off the back of an   investigation by the commission, beginning in June 2014  --   stated that the undue tax benefits amounted to Apple being given \"selective treatment\" by the Irish government, as other large companies were not offered the same deal.",
+            "The European Commission opened a formal investigation in June 2014 into whether the tax deals granted to Apple in Ireland amounted to illegal state support.",
+            "The harsh tax ruling  --   40 times larger than the previous record ordered by the commission  --   ended a   investigation in which Apple and Ireland were found to be in cahoots."
+        ],
+        "tf-idf score": [
+            1.2282591798084268,
+            1.1610298572323603,
+            1.0954678623770966
+        ]
+    },
+    "0.20637763715553223-3-155": {
+        "average clique similarity": 0.20637763715553223,
+        "clique": [
+            "2- We never asked for ",
+            "0-It is effectively pr",
+            "1-In an interview last"
+        ],
+        "median tf-idf score": 0.9903975599389698,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"We never asked for, nor did we receive, any special deals,\" he wrote on Apple's website. \"We now find ourselves in the unusual position of being ordered to retroactively pay additional taxes to a government that says we don't owe them any more than we've already paid. \"",
+            "It is effectively proposing to replace Irish tax laws with a view of what the Commission thinks the law should have been. \" He added: \"We are committed to Ireland and we plan to continue investing there, growing and serving our customers with the same level of passion and commitment.",
+            "In an interview last week with The Washington Post, Timothy D Cook, Apple's chief executive, said that he hoped his company would get a fair hearing in Europe on the tax issue and that \"if we don't, then we would obviously appeal it. \""
+        ],
+        "tf-idf score": [
+            0.9903975599389698,
+            0.8656939806052848,
+            1.0910045360089209
+        ]
+    },
+    "0.22772519606011332-3-191": {
+        "average clique similarity": 0.22772519606011332,
+        "clique": [
+            "3- The European Commis",
+            "2-However  the EC clai",
+            "0-These rulings allowe"
+        ],
+        "median tf-idf score": 1.21136693010898,
+        "publications": [
+            "Reuters",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            " The European Commission ordered Apple Inc to pay Ireland unpaid taxes of up to 13 billion euros ($14. 5 billion) on Tuesday as it ruled the firm had received illegal state aid.",
+            "However, the EC claims Apple further benefited from the setup by attributing sales made in Europe, Africa, India and the Middle East to Apple Sales International in Ireland rather than to the stores that physically moved the goods.",
+            "These rulings allowed Apple to essentially set up shell companies in Ireland  --   Apple Sales International and Apple Operations Europe  --   which did \"not correspond to [the] economic reality\" of how much money the computer giant was actually making in Europe, the commission said."
+        ],
+        "tf-idf score": [
+            1.3821093574439303,
+            0.727716886198557,
+            1.21136693010898
+        ]
+    },
+    "0.23386986902481458-3-57": {
+        "average clique similarity": 0.23386986902481458,
+        "clique": [
+            "0- In a letter to the ",
+            "1-For Apple  the poten",
+            "3-Nonetheless  the Net"
+        ],
+        "median tf-idf score": 1.0961719830631096,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"In a letter to the company's European customers released later on Tuesday, Apple CEO Tim Cook criticized the decision and bemoaned the \"obvious targeting\" of Apple. He also emphasized the company's history in the southern Irish city of Cork, where it first opened a factory in 1980. Caught up with our   team in Cork today.",
+            "For Apple, the potential tax clawback would be a blow to the company's approximately 30 years of activity in Ireland, where it currently employs around 5, 500 people, mostly in Cork, a city in the south of the country.",
+            "Nonetheless, the Netherlands, Belgium and Luxembourg have already appealed EU rulings against their tax deals with multinationals. Apple employs 5, 500 people in areas such as logistics and distribution in the Irish city of Cork, which has about a quarter of Apple's   staff."
+        ],
+        "tf-idf score": [
+            0.9144544726171511,
+            1.0961719830631096,
+            1.1128375168704099
+        ]
+    },
+    "0.2612882615594246-3-138": {
+        "average clique similarity": 0.2612882615594246,
+        "clique": [
+            "3-The U S feels its fi",
+            "1-Those efforts accele",
+            "4-The tech giant says "
+        ],
+        "median tf-idf score": 1.0739964477708714,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "The U S feels its firms are being targeted by the EU and a U S Treasury spokesperson warned the move threatens to undermine U S investment in Europe and \"the important spirit of economic partnership between the U S and the EU\". Starbucks Corp has been ordered to pay up to 30 million euros ($33 million) to the Dutch state, while Amazon.",
+            "Those efforts accelerated after the 2008 financial crisis amid complaints that prosperous corporations were enjoying tax breaks while citizens faced mounting tax demands and cuts to their public services. Ms Vestager has already ordered Luxembourg to claw back 30 million euros, or $33 million, from Fiat, the Italian carmaker, and the Netherlands to recover a similar amount from Starbucks. Both Luxembourg and the Netherlands have appealed those decisions. She still is investigating similar cases in Luxembourg affecting Amazon and McDonald's. Last year, in another case, Ms Vestager ordered France to recover EUR1. 4 billion, or $1.",
+            "The tech giant says the decision \"will have a profound and harmful effect on investment and job creation in Europe\". Apple is not the only business facing a hefty tax bill after EU regulators scrutinized member country policies. Starbucks has been ordered to pay up to 30 million euros ($33."
+        ],
+        "tf-idf score": [
+            0.6117638051440404,
+            1.0739964477708714,
+            1.3799096321333837
+        ]
+    },
+    "0.2703932472605938-3-191": {
+        "average clique similarity": 0.2703932472605938,
+        "clique": [
+            "4-The European Union s",
+            "0- The European Commis",
+            "2-Will somebody please"
+        ],
+        "median tf-idf score": 1.177055808669547,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "The European Union's executive branch has found that Ireland granted unfair and illegal tax breaks to the tech giant Apple, and ruled that Apple now owes more than $14. 5 billion in back taxes.",
+            " The European Commission on Tuesday ruled that Ireland gave Apple illegal tax benefits of EUR13 billion ($14.",
+            "Will somebody please take the $14. 5 billion from Apple that Ireland doesn't want?"
+        ],
+        "tf-idf score": [
+            1.24281155057245,
+            1.177055808669547,
+            0.5825563106223208
+        ]
+    },
+    "0.3115212097725675-3-191": {
+        "average clique similarity": 0.3115212097725675,
+        "clique": [
+            "0-Ireland s Finance Mi",
+            "3-Irish Finance Minist",
+            "2- It would be like ea"
+        ],
+        "median tf-idf score": 0.6448579617306031,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "Ireland's Finance Minister Michael Noonan said in a statement, \"Ireland's position remains that the full amount of tax was paid in this case and no state aid was provided.",
+            "Irish Finance Minister Michael Noonan said he profoundly disagreed with the decision and in order to preserve Ireland's attractiveness for investment he would appeal.",
+            "\"It would be like eating the seed potatoes,\" Irish Finance Minister Michael Noonan said Tuesday on Irish national broadcaster RTE."
+        ],
+        "tf-idf score": [
+            0.936968076736575,
+            0.6448579617306031,
+            0.45578971491912745
+        ]
+    },
+    "0.3183963965062137-3-148": {
+        "average clique similarity": 0.3183963965062137,
+        "clique": [
+            "0-In a statement issue",
+            "4-In 2003  Apple paid ",
+            "2-Ireland s unusual ta"
+        ],
+        "median tf-idf score": 1.2261920522211058,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "In a statement issued on the European Commission's website, Vestager added: The commission revealed that in 2014 Apple's Ireland operation paid just EUR50 in tax for every EUR1 million in profit the company made  --   giving it an effective 0.",
+            "In 2003, Apple paid Ireland an effective tax rate of 1 percent on European profits, the commission says.",
+            "Ireland's unusual tax treatment reduced Apple's effective corporate tax rate in the republic from 1 percent in 2003 to 0."
+        ],
+        "tf-idf score": [
+            1.4187290059673077,
+            1.2261920522211058,
+            1.0046136717012308
+        ]
+    }
+}

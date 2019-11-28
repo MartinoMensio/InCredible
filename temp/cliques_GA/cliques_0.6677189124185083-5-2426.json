@@ -1,0 +1,1094 @@
+{
+    "0.12273002135777444-3-246": {
+        "average clique similarity": 0.12273002135777444,
+        "clique": [
+            "4-Trump has been aggre",
+            "1- RENO  Nevada       ",
+            "2-Would she even have "
+        ],
+        "median tf-idf score": 0.9647096715562453,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Trump has been aggressively trying to shed the label of racist by appealing to minority voters in his speeches at rallies, messages that are often delivered to overwhelmingly white crowds, even when Trump appears in cities with large minority populations.",
+            " RENO, Nevada  --   In a speech tying Donald Trump to the white   movement known as the \"\" Hillary Clinton came closer than ever in this election to a subject she's been reticent to broach: his character.",
+            "Would she even have a place in Donald Trump's America?"
+        ],
+        "tf-idf score": [
+            0.9651920810151123,
+            0.9647096715562453,
+            0.5818500469192383
+        ]
+    },
+    "0.12871798694430336-3-21": {
+        "average clique similarity": 0.12871798694430336,
+        "clique": [
+            "4-Trump has increased ",
+            "0-Farage has called fo",
+            "1-But Clinton has alwa"
+        ],
+        "median tf-idf score": 0.9081806171588309,
+        "publications": [
+            "Buzzfeed News",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Trump has increased the number of minority surrogates speaking on his behalf on cable news and at his rallies, and he is planning to take trips into urban areas soon to visit churches, charter schools and small businesses in black and Latino communities.",
+            "Farage has called for a ban on the children of legal immigrants from public schools and health services, has said women are quote \"worth less\" than men, and supports scrapping laws that prevent employers from discriminating based on race  --   that's who Trump wants by his side.",
+            "But Clinton has always shied from making judgments on what those comments say about Trump himself, telling reporters she would \"let others comment on his character and his motivation and his behavior. \""
+        ],
+        "tf-idf score": [
+            0.8531195968156403,
+            1.0287296504070114,
+            0.9081806171588309
+        ]
+    },
+    "0.14407746242787403-3-5": {
+        "average clique similarity": 0.14407746242787403,
+        "clique": [
+            "0-Don t worry  some wi",
+            "1- Now  I know some pe",
+            "2-Now  some people wil"
+        ],
+        "median tf-idf score": 0.6099779057438854,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Don't worry, some will say, as President, Trump will be surrounded by smart advisors who will rein in his worst impulses.",
+            "\"Now, I know some people still want to give Trump the benefit of the doubt,\" she said. \"They hope that he will eventually reinvent himself  --   that there's a kinder, gentler, more responsible Donald Trump waiting in the wings somewhere.",
+            "Now, some people will say that his bluster and bigotry is just   campaign rhetoric  --   an outrageous person saying outrageous things for attention."
+        ],
+        "tf-idf score": [
+            0.6099779057438854,
+            0.848861207381052,
+            0.3959617013120493
+        ]
+    },
+    "0.15393160625881727-3-630": {
+        "average clique similarity": 0.15393160625881727,
+        "clique": [
+            "3-Please select the ex",
+            "4- Adriana   Washingto",
+            "2- Hillary Clinton acc"
+        ],
+        "median tf-idf score": 0.8945471813838083,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "Please select the extension that is blocking ads. Please follow the steps below, Hillary Clinton aimed a fierce barrage at Donald Trump on Thursday, accusing him of fomenting racism, bigotry, and paranoia with his presidential campaign.",
+            "(Adriana   Washington Post)    [Donald Trump shouts: 'Hillary Clinton is a bigot! ']",
+            " Hillary Clinton accused Donald Trump of allying with racists and racist ideas in a widely anticipated speech Thursday afternoon."
+        ],
+        "tf-idf score": [
+            0.998947614489942,
+            0.7013094351679058,
+            0.8945471813838083
+        ]
+    },
+    "0.16458648484473307-3-57": {
+        "average clique similarity": 0.16458648484473307,
+        "clique": [
+            "3-Though the speech ha",
+            "4-On Thursday morning ",
+            "1-Perhaps not since he"
+        ],
+        "median tf-idf score": 1.0913114556388726,
+        "publications": [
+            "Buzzfeed News",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Though the speech had been billed as an exploration of Trump s ties to the    ? \"a political niche catering to white nationalists, xenophobes, and others \"she only touched on the topic toward the end of the speech.",
+            "On Thursday morning, the Trump campaign in a statement said Clinton's speech was an attempt to \"delete the single worst week of her political career. \"",
+            "Perhaps not since her speech in San Diego two months ago  --   a brutal critique of Trump's   credentials that drove cable news coverage for days and had an immediate resonance on the campaign trail  --   has Clinton's team invested so much in a speech."
+        ],
+        "tf-idf score": [
+            0.6702374782953605,
+            1.0913114556388726,
+            1.0982610536730457
+        ]
+    },
+    "0.16756220121726298-3-107": {
+        "average clique similarity": 0.16756220121726298,
+        "clique": [
+            "3-Yet Clinton s speech",
+            "4- Hillary Clinton s  ",
+            "1-Thursday s speech di"
+        ],
+        "median tf-idf score": 0.974845129168696,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Yet Clinton s speech was also   to bait Trump and his supporters, right down to her quotation of a Mexican proverb.",
+            "[Hillary Clinton's ' ' speech, annotated]  \"Trump is reinforcing harmful stereotypes and offering a dog whistle to his most hateful supporters,\" Clinton said. \"It's a disturbing preview of what kind of president he'd be. \"",
+            "Thursday's speech didn't contain the   Trump has engaged in  --   \"Hillary Clinton is a bigot,\" he told voters Wednesday  --   but it offered a sweeping evaluation of Trump as no better than the racist ideology and fringe supporters he's elevated with his campaign."
+        ],
+        "tf-idf score": [
+            0.8152849663108476,
+            0.974845129168696,
+            1.2595751430877893
+        ]
+    },
+    "0.17002125106303936-3-504": {
+        "average clique similarity": 0.17002125106303936,
+        "clique": [
+            "3-The careful indictme",
+            "1-And  as her campaign",
+            "4-She and her top aide"
+        ],
+        "median tf-idf score": 0.8888193692841312,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The careful indictment was designed to make Trump supporters uncomfortable, forcing them to reckon with some of the less savory remarks their candidate has made, and to encourage Republicans who are on the fence to forsake Trump and back her.",
+            "And, as her campaign has done in recent days as Trump has signaled that he might attempt to modify   positions, she made the case that her campaign has hammered again and again.",
+            "She and her top aides have spent several days trying to fend off new questions about foreign donations to the Clinton Foundation and her use of a private email server during her tenure as secretary of state. In a contest in which both Clinton and Trump are viewed unfavorably by wide swaths of the electorate, both are seeking to make the race a referendum on the fitness of the other."
+        ],
+        "tf-idf score": [
+            0.889639311172061,
+            0.8049241502698419,
+            0.8888193692841312
+        ]
+    },
+    "0.17126368564201896-3-349": {
+        "average clique similarity": 0.17126368564201896,
+        "clique": [
+            "2-Just imagine       D",
+            "3-The Radical   of Ste",
+            "4-The movement has com"
+        ],
+        "median tf-idf score": 0.9152720372130789,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Just imagine  --   Donald Trump reading that and thinking: \"this is what I need more of in my campaign\". Bannon has nasty things to say about pretty much everyone.",
+            "The Radical   of Stephen Bannon   Donald Trump has built his campaign on prejudice and paranoia.",
+            "The movement has come under new scrutiny in the wake of a leadership   in the Trump campaign that included the installation of Breitbart News head Steve Bannon as the campaign's chief executive."
+        ],
+        "tf-idf score": [
+            0.9494056346404675,
+            0.8632620338094953,
+            0.9152720372130789
+        ]
+    },
+    "0.17136260299143616-3-114": {
+        "average clique similarity": 0.17136260299143616,
+        "clique": [
+            "4- Hillary Clinton for",
+            "3-He is taking hate gr",
+            "1- There s an old Mexi"
+        ],
+        "median tf-idf score": 1.039270284588308,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "[Hillary Clinton forcefully defends foundation: 'There's a lot of smoke and there's no fire']   Her speech Thursday afternoon, delivered to a crowd of about 1, 100 people at a community college in this   battleground state, was advertised as focusing on Trump's connection to the  .",
+            "He is taking hate groups mainstream, and helping a radical fringe take over the Republican Party, ? Clinton said at Truckee Meadows Community College in Reno, Nevada. (A video ad released Thursday covers much of the same ground.)",
+            "\"There's an old Mexican proverb that says, 'Tell me with whom you walk, and I will tell you who you are,'\" Clinton told a crowd of 1, 100 here in an atrium at Truckee Meadows Community College, where \"USA\" posters lined the walls. \"Well, we know who Trump is. \" \"He says he wants to 'make America great again,' but more and more it seems as though his real message seems to be, 'Make America hate again. '\""
+        ],
+        "tf-idf score": [
+            1.039270284588308,
+            0.716677127796654,
+            1.1552061601966623
+        ]
+    },
+    "0.1725411673495577-3-292": {
+        "average clique similarity": 0.1725411673495577,
+        "clique": [
+            "3-Don t be distracted ",
+            "2-When Trump was getti",
+            "4-In her speech  Clint"
+        ],
+        "median tf-idf score": 1.0908025907805927,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "Don t be distracted by his recent attempts to muddy the waters. Her argument that Trump hasn t really changed was aided by the recent addition of Bannon to the campaign, since Breitbart has emerged, under Bannon s stewardship, as one of the marquee outlets for the   and a major point for   ideas to enter the mainstream \"sometimes via the Trump campaign.",
+            "When Trump was getting his start in business, he was sued by the Justice Department for refusing to rent apartments to black and Latino tenants.",
+            "In her speech, Clinton chided Trump for having questioned the citizenship of President Obama, the first African American to hold the position; for having been sued by the Justice Department for alleged discrimination in rental housing; for questioning the impartiality of a judge of Mexican heritage; and for proposing to use deportation forces to remove 11 million undocumented immigrants from the country  --   an idea from which Trump now seems to be backing off."
+        ],
+        "tf-idf score": [
+            1.0908025907805927,
+            0.6892282562038377,
+            1.1447483514472325
+        ]
+    },
+    "0.1743537394105993-3-51": {
+        "average clique similarity": 0.1743537394105993,
+        "clique": [
+            "4- What s the    A pri",
+            "3-Over more than a   o",
+            "1-The setup here did n"
+        ],
+        "median tf-idf score": 0.9671127585374458,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "[What's the  ? A primer]  Trump called both the speech and the video shameful as he continued a   appeal to minority voters by summoning black and Latino activists to Trump Tower in Manhattan to talk about ways to boost his low standing in their communities.",
+            "Over more than a   of sustained attack, Clinton added little new material to the record. Instead, she methodically plotted Trump s known ties, in what appeared to be an effort to energize her own voters and, in particular, to give pause to Republicans who have grudgingly opted to make their peace with a candidate they don t love.",
+            "The setup here did not resemble a campaign rally: Voters in the audience remained seated, and the sound of a formal band replaced the campaign's usual stable of Katy Perry and Sara Bareilles songs. Withholding the attacks she used to lob across the aisle, Clinton instead mourned what she described as the effective fall of the Republican Party to the white nationalist movement known as the   an informal but sprawling network of activists who have gained particular notoriety for their online harassment of Jewish and minority writers across both parties."
+        ],
+        "tf-idf score": [
+            0.7747457471253156,
+            0.9671127585374458,
+            1.0032027851839818
+        ]
+    },
+    "0.18021026090853245-3-610": {
+        "average clique similarity": 0.18021026090853245,
+        "clique": [
+            "2-We should  too  All ",
+            "3-She said Trump s rhe",
+            "1-And I think we shoul"
+        ],
+        "median tf-idf score": 0.9660399493531971,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "We should, too. All of this adds up to something we've never seen before.",
+            "She said Trump s rhetoric was  like nothing we ve heard before from a nominee for president of the United States from one of our two major parties.",
+            "And I think we should believe him,\" she said. \"There's been a steady stream of bigotry coming from him. \" The speech here in Reno, billed as a major address by Clinton's campaign aides, was the candidate's most aggressive use of a tactic she's employed before: using Trump's own words against him."
+        ],
+        "tf-idf score": [
+            0.02343781088576138,
+            0.9660399493531971,
+            1.2695553169943454
+        ]
+    },
+    "0.20376772913893224-3-372": {
+        "average clique similarity": 0.20376772913893224,
+        "clique": [
+            "4- What do you have to",
+            "2-People landing in U ",
+            "3-But Clinton noted th"
+        ],
+        "median tf-idf score": 0.7430661855645295,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "\"What do you have to lose?\"",
+            "People landing in U S airports would line up to get their passports stamped, just like they do now. But in Trump's America, when they step up to the counter, the immigration officer would ask every single person, \"What is your religion?\"",
+            "But Clinton noted that Trump had been accused of racial discrimination as far back as the 1970s. It really does take a lot of nerve to ask people he s mistreated and ignored for decades,  What do you have to lose? she said."
+        ],
+        "tf-idf score": [
+            0.0098778494430596,
+            0.7430661855645295,
+            0.9309818257780019
+        ]
+    },
+    "0.2059924526094518-3-630": {
+        "average clique similarity": 0.2059924526094518,
+        "clique": [
+            "0-When Trump was getti",
+            "1-What he s doing  Cli",
+            "2-Three years later  t"
+        ],
+        "median tf-idf score": 0.6892282562038377,
+        "publications": [
+            "Breitbart",
+            "Buzzfeed News",
+            "Vox"
+        ],
+        "sentences": [
+            "When Trump was getting his start in business, he was sued by the Justice Department for refusing to rent apartments to black and Latino tenants.",
+            "What he's doing, Clinton said, is \"sinister. \" Clinton argued that Trump has \"a long history of racial discrimination\"  --   a case she had never made directly until Thursday  --   drawing a line from his 2016 campaign to the birther movement he helped fuel four years ago, to the fine he received at his casinos for \"repeatedly removing black dealers from the floor\" and the Justice Department suit he was served for refusing to rent apartments to black and Latino tenants.",
+            "Three years later, the Justice Department took Trump back to court because he hadn't changed."
+        ],
+        "tf-idf score": [
+            0.6892282562038377,
+            1.5194735294958768,
+            0.519782568480614
+        ]
+    },
+    "0.20665378524508857-3-395": {
+        "average clique similarity": 0.20665378524508857,
+        "clique": [
+            "1-Clinton conceded tha",
+            "4-It s a movement that",
+            "2-Speaking at a commun"
+        ],
+        "median tf-idf score": 1.0567649513942496,
+        "publications": [
+            "Vox",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Clinton conceded that there's a history of \"fringe\" politics in the United States, but argued that Trump represents something different  --   \"a major party stoking it, encouraging it, and giving it a national megaphone. \" She addressed and dismissed conspiracy theories about her health, and the outlets that have promoted the rumors.",
+            "It's a movement that predates Trump, but it was his presidential campaign that brought it into the mainstream.",
+            "Speaking at a community college in Reno, Nevada, Clinton said Trump had brought a racist fringe into the \"mainstream\" in a way that no other major party nominee had in American history."
+        ],
+        "tf-idf score": [
+            1.0567649513942496,
+            0.7185509092559095,
+            1.0919559480368974
+        ]
+    },
+    "0.25203261203554106-3-630": {
+        "average clique similarity": 0.25203261203554106,
+        "clique": [
+            "2-And don t be distrac",
+            "4-At a rally Thursday ",
+            "0-They would put preju"
+        ],
+        "median tf-idf score": 0.41095042593536313,
+        "publications": [
+            "Vox",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "And don't be distracted by his latest attempts to muddy the waters.",
+            "At a rally Thursday afternoon in New Hampshire, Trump predicted that Clinton's speech later that afternoon would be \"one of the most brazen attempts at distraction in the history of politics\" and an attempt to spread \"smears and her lies about decent people. \"",
+            "They would put prejudice into practice. And don't be distracted by his latest attempts to muddy the waters. He may have some new people putting new words in his mouth  ...     but we know where he stands. He would form a deportation force to round up millions of immigrants and kick them out of the country."
+        ],
+        "tf-idf score": [
+            0.06363587446681652,
+            0.9394011024462131,
+            0.41095042593536313
+        ]
+    },
+    "0.26035290054951354-3-200": {
+        "average clique similarity": 0.26035290054951354,
+        "clique": [
+            "1-She cited former Ku ",
+            "0-White supremacists n",
+            "4-Prior to the speech "
+        ],
+        "median tf-idf score": 0.8236993007505783,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "She cited former Ku Klux Klan grand wizard David Duke's elation with the turn of events, and charged that while the label may change, the core philosophy remains the same: \"Racists now call themselves 'racialists.' White supremacists now call themselves 'white nationalists.' The paranoid fringe now calls itself ''\" she said. \"But the hate burns just as bright. \" As she frequently now does, Clinton made a pitch to disaffected Republicans alienated by Trump.",
+            "White supremacists now call themselves \"white nationalists. \"",
+            "Prior to the speech, her campaign released a   video with images of Trump interspersed with Ku Klux Klan members and other white supremacists touting his candidacy."
+        ],
+        "tf-idf score": [
+            1.3314008527657741,
+            0.13704126409149134,
+            0.8236993007505783
+        ]
+    },
+    "0.2675644176355602-4-43": {
+        "average clique similarity": 0.2675644176355602,
+        "clique": [
+            "3-She praised Presiden",
+            "0-The week after   Geo",
+            "1-The speech on Thursd",
+            "2-It s a moment of rec"
+        ],
+        "median tf-idf score": 0.7288531996937928,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "She praised President George W Bush for his inclusive rhetoric about Muslims immediately after   and lauded Senator Bob Dole for banishing racists during his 1996 run against her husband. (In an ironic turn, Dole is a Trump backer this year.) This is not conservatism as we have known it, this is not Republicanism, ?",
+            "The week after   George W Bush went to a mosque and declared for everyone to hear that Muslims \"love America just as much as I do. \"",
+            "The speech on Thursday  --   praising earlier actions by politicians from Bob Dole to George W Bush  --   seemed more explicitly that than previously. \"Every day, more Americans are standing up and saying 'enough is enough'  --   including a lot of Republicans,\" she said. \"And I am honored to have their support in this campaign. And I promise you this: With your help, I will be a president for Democrats, Republicans, and independents. \"",
+            "It's a moment of reckoning for all of us who love our country and believe that America is better than this. Twenty years ago, when Bob Dole accepted the Republican nomination, he pointed to the exits and told any racists in the Party to get out. The week after   George W Bush went to a mosque and declared for everyone to hear that Muslims \"love America just as much as I do\"."
+        ],
+        "tf-idf score": [
+            0.8050086643625158,
+            0.21910102195721937,
+            0.8266654530403962,
+            0.6526977350250697
+        ]
+    },
+    "0.29248493450593177-3-630": {
+        "average clique similarity": 0.29248493450593177,
+        "clique": [
+            "4-From the moment he t",
+            "0-And he accused the M",
+            "2-He described Mexican"
+        ],
+        "median tf-idf score": 0.2036465285751431,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Vox"
+        ],
+        "sentences": [
+            "From the moment he told a national audience that Mexico was sending rapists and drug dealers across the border, Trump surged in the polls.",
+            "And he accused the Mexican government of actively sending them across the border.",
+            "He described Mexican immigrants as rapists and criminals. And he accused the Mexican government of actively sending them across the border. None of that is true. Oh, and by the way, Mexico's not paying for his wall either."
+        ],
+        "tf-idf score": [
+            0.6385463156036265,
+            0.07326216772703639,
+            0.2036465285751431
+        ]
+    },
+    "0.2965579359901058-3-630": {
+        "average clique similarity": 0.2965579359901058,
+        "clique": [
+            "4-Hillary Clinton made",
+            "2-and   ideas         ",
+            "0-and   ideas       al"
+        ],
+        "median tf-idf score": 0.20130621080037103,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Hillary Clinton made that very argument in a blistering speech here that recounted Trump's racially inflammatory remarks and policies and highlighted his support from the \"\" a conservative movement associated with white nationalism that the Democratic nominee called \"an emerging racist ideology. \"",
+            "and   ideas  --   --   all key tenets making up an emerging racist ideology known as the ' . '\" is short for \"Alternative Right\".",
+            "and   ideas  --   all key tenets making up an emerging racist ideology known as the ' . '\" is short for \"Alternative Right. \""
+        ],
+        "tf-idf score": [
+            1.0418605094086584,
+            0.20130621080037103,
+            0.20130621080037103
+        ]
+    },
+    "0.2982275511654575-3-630": {
+        "average clique similarity": 0.2982275511654575,
+        "clique": [
+            "3-As she had in June  ",
+            "0-He says he wants to ",
+            "2-He says he wants to "
+        ],
+        "median tf-idf score": 0.34901885925128284,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "Vox"
+        ],
+        "sentences": [
+            "As she had in June, Clinton again labeled Trump  temperamentally unfit to be president of the United States.",
+            "He says he wants to \"make America great again,\" but his real message remains \"Make America hate again. \"",
+            "He says he wants to \"make America great again,\" but his real message remains \"Make America hate again\"."
+        ],
+        "tf-idf score": [
+            0.7738828113810766,
+            0.34901885925128284,
+            0.34901885925128284
+        ]
+    },
+    "0.30776186789415255-3-49": {
+        "average clique similarity": 0.30776186789415255,
+        "clique": [
+            "0-Now he s standing on",
+            "2-In fact  Farage has ",
+            "4-Although Trump has y"
+        ],
+        "median tf-idf score": 0.3277643527021468,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Now he's standing on the same stage as the Republican nominee.",
+            "In fact, Farage has appeared regularly on Russian propaganda programs. Now he's standing on the same stage as the Republican nominee.",
+            "Although Trump has yet to clearly state what he now believes, he has made a series of comments that seem to echo the immigration reform stances of several of his former Republican rivals whom he once mocked for being \"weak\" on illegal immigration."
+        ],
+        "tf-idf score": [
+            0.11913323919423394,
+            0.3277643527021468,
+            0.7789607252019245
+        ]
+    },
+    "0.31672463347614416-3-452": {
+        "average clique similarity": 0.31672463347614416,
+        "clique": [
+            "3-The   scenario for t",
+            "0-But the hate burns j",
+            "2-And now Trump is try"
+        ],
+        "median tf-idf score": 0.48390091504323857,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The   scenario for the Clinton campaign is to prod Trump himself into responding.",
+            "But the hate burns just as bright. And now Trump is trying to rebrand himself as well.",
+            "And now Trump is trying to rebrand himself as well. Don't be fooled."
+        ],
+        "tf-idf score": [
+            0.7100796755954742,
+            0.48390091504323857,
+            0.4412338927389989
+        ]
+    },
+    "0.31748958317829074-3-310": {
+        "average clique similarity": 0.31748958317829074,
+        "clique": [
+            "0-So when a tweet gets",
+            "2-It s the   Islamic S",
+            "3-She has characterize"
+        ],
+        "median tf-idf score": 0.7839566866386044,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "Vox"
+        ],
+        "sentences": [
+            "So when a tweet gets under his skin and he wants to retaliate with a cruise missile, maybe cooler heads will be there to convince him not to. Maybe.",
+            "It's the   Islamic State. The territory ISIS controls. It would be a cruel irony if America followed its lead. Don't worry, some will say, as President, Trump will be surrounded by smart advisors who will rein in his worst impulses. So when a tweet gets under his skin and he wants to retaliate with a cruise missile, maybe cooler heads will be there to convince him not to.",
+            "She has characterized him as easily baited to anger, and when he has lashed out in the past, his outbursts have often been damaging to his campaign. Although he s attempting a milder tone this week, he also said,  If people hit me, I will certainly hit back. That will never change. Clinton has served the ball right into his court to prove it."
+        ],
+        "tf-idf score": [
+            0.11158892206310868,
+            0.9306556749590703,
+            0.7839566866386044
+        ]
+    },
+    "0.31861819935332153-3-274": {
+        "average clique similarity": 0.31861819935332153,
+        "clique": [
+            "0-Only later  again un",
+            "2-Only later  again un",
+            "3- Although Trump late"
+        ],
+        "median tf-idf score": 0.5706749641280628,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "Vox"
+        ],
+        "sentences": [
+            "Only later, again under mounting pressure, did he backtrack.",
+            "Only later, again under mounting pressure, did he backtrack. And when Trump was asked about   slurs and death threats coming from his supporters, he refused to condemn them.",
+            "(Although Trump later did so, Duke remains enamored of Trump, she noted.) And she had criticized his latest immigration plan as both unworkable and  ."
+        ],
+        "tf-idf score": [
+            0.04017837991154962,
+            0.6471717546961046,
+            0.5706749641280628
+        ]
+    },
+    "0.3194307833095167-3-630": {
+        "average clique similarity": 0.3194307833095167,
+        "clique": [
+            "4-Trump said at a rall",
+            "0-Because I believe th",
+            "2-Because I believe th"
+        ],
+        "median tf-idf score": 0.473129156239842,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Vox"
+        ],
+        "sentences": [
+            "Trump said at a rally in Tampa on Wednesday afternoon. \"It cannot get any worse. And believe me, I'm going to fix it. I'll be able to make sure that when you walk down the street in your inner city or wherever you are, you're not going to be shot. Your child isn't going to be shot. \"",
+            "Because I believe that in America, if you can dream it, you should be able to build it. We'll be talking a lot more about our economic plans in the days and weeks ahead.",
+            "Because I believe that in America, if you can dream it, you should be able to build it. We'll be talking a lot more about our economic plans in the days and weeks ahead. But today, I want to address something I hear from Americans all over our country."
+        ],
+        "tf-idf score": [
+            0.8136796210925555,
+            0.2850505057139572,
+            0.473129156239842
+        ]
+    },
+    "0.32509640732545597-3-630": {
+        "average clique similarity": 0.32509640732545597,
+        "clique": [
+            "4-Though the Democrat ",
+            "0-There s an old Mexic",
+            "3-The last thing we ne"
+        ],
+        "median tf-idf score": 0.6115443083088599,
+        "publications": [
+            "Washington Post",
+            "Breitbart",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Though the Democrat stopped short of using the word \"racist\" to describe Trump, she said he is unfit to serve \"all voters\" and cited a Mexican proverb: \"Tell me with whom you walk, and I will tell you who you are. \"",
+            "There's an old Mexican proverb that says \"Tell me with whom you walk, and I will tell you who you are. \" We know who Trump is.",
+            "The last thing we need in the situation room is a loose cannon who can t tell the difference, or doesn t care to, between fact and fiction, ? Clinton said."
+        ],
+        "tf-idf score": [
+            0.7940982165157904,
+            0.6115443083088599,
+            0.4076259394617186
+        ]
+    },
+    "0.33557543015887553-3-412": {
+        "average clique similarity": 0.33557543015887553,
+        "clique": [
+            "2-Someone detached fro",
+            "0-It s another reason ",
+            "1-After all  it s hard"
+        ],
+        "median tf-idf score": 0.779106023074523,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Someone detached from reality should never be in charge of making decisions that are as real as they come. It's another reason why Donald Trump is simply temperamentally unfit to be President of the United States.",
+            "It's another reason why Donald Trump is simply temperamentally unfit to be President of the United States.",
+            "After all, it's hard to believe anyone  --   let alone a nominee for president of the United States  --   could really believe all the things he says. \"Here's the hard truth: There's no other Donald Trump."
+        ],
+        "tf-idf score": [
+            0.779106023074523,
+            0.6900463619660931,
+            0.9342043414795073
+        ]
+    },
+    "0.3556042067962616-4-630": {
+        "average clique similarity": 0.3556042067962616,
+        "clique": [
+            "4- The de facto merger",
+            "2-The de facto merger ",
+            "1- Bannon  the new CEO",
+            "0-The de facto merger "
+        ],
+        "median tf-idf score": 0.7668515484744969,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Buzzfeed News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\"The de facto merger between Breitbart and the Trump Campaign represents a landmark achievement for the '' \" Clinton said here. \"A fringe element has effectively taken over the Republican Party. \" She ticked off several recent headlines from the site in an effort to discredit Bannon.",
+            "The de facto merger between Breitbart and the Trump Campaign represents a landmark achievement for the \" \".",
+            "(Bannon, the new CEO of Trump's campaign, has described his news site Breitbart as a \"platform for the alt right. \")",
+            "The de facto merger between Breitbart and the Trump Campaign represents a landmark achievement for the \" . \""
+        ],
+        "tf-idf score": [
+            1.3089722454985622,
+            0.6251210141928744,
+            0.9085820827561195,
+            0.6251210141928744
+        ]
+    },
+    "0.3785107080573324-4-344": {
+        "average clique similarity": 0.3785107080573324,
+        "clique": [
+            "2-This is someone who ",
+            "0-This is someone who ",
+            "1-Look at the people h",
+            "3-It was a   attack  a"
+        ],
+        "median tf-idf score": 0.878454816953395,
+        "publications": [
+            "Breitbart",
+            "Vox",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "This is someone who retweets white supremacists online, like the user who goes by the name \"  \". Trump took this fringe bigot with a few dozen followers and spread his message to 11 million people.",
+            "This is someone who retweets white supremacists online, like the user who goes by the name \"  . \"",
+            "Look at the people he's allied his campaign with, Clinton said, citing the conspiracy theory --  friendly radio host Alex Jones, whom Trump has praised, and the executive at Breitbart Stephen Bannon, whom Trump recently brought in as campaign CEO \"This is someone who retweets white supremacists online,\" she said, voice rising, \"like the user who goes by the name 'WhiteGenocideTM' Trump took this fringe bigot with a few dozen followers and spread his message to 11 million people. \"",
+            "It was a   attack, a bracing inventory of Trump s connections \"some direct, others more tenuous \"to conspiracy theorists like Alex Jones, white supremacists like David Duke, and the    ? conservatism of Breitbart."
+        ],
+        "tf-idf score": [
+            0.8549091494489581,
+            0.20973564632649494,
+            1.6992510453457257,
+            0.902000484457832
+        ]
+    },
+    "0.38292014477564223-3-630": {
+        "average clique similarity": 0.38292014477564223,
+        "clique": [
+            "1- Throughout his care",
+            "2-Well  throughout his",
+            "0-From the start  Dona"
+        ],
+        "median tf-idf score": 0.8180049466293537,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\"Throughout his career and this campaign, Donald Trump has shown us exactly who he is.",
+            "Well, throughout his career and this campaign, Donald Trump has shown us exactly who he is. We should believe him.",
+            "From the start, Donald Trump has built his campaign on prejudice and paranoia."
+        ],
+        "tf-idf score": [
+            0.7873019056872019,
+            0.8353054552482465,
+            0.8180049466293537
+        ]
+    },
+    "0.3838850733037656-3-192": {
+        "average clique similarity": 0.3838850733037656,
+        "clique": [
+            "2-This is a moment of ",
+            "0-This is a moment of ",
+            "4-Speaking at a rally "
+        ],
+        "median tf-idf score": 0.9102038972766193,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "This is a moment of reckoning for every Republican dismayed that the Party of Lincoln has become the Party of Trump.",
+            "This is a moment of reckoning for every Republican dismayed that the Party of Lincoln has become the Party of Trump. It's a moment of reckoning for all of us who love our country and believe that America is better than this.",
+            "Speaking at a rally in New Hampshire on Aug. 25, Republican presidential candidate Donald Trump warned supporters that Democratic rival Hillary Clinton will accuse them of racism, saying that is a tired strategy of the Democratic party."
+        ],
+        "tf-idf score": [
+            0.709960304293199,
+            0.9102038972766193,
+            1.0319282324101988
+        ]
+    },
+    "0.3840158352234681-3-577": {
+        "average clique similarity": 0.3840158352234681,
+        "clique": [
+            "2-Thank you  Reno  It ",
+            "0-Read the full text o",
+            "4-  RENO  Nev        T"
+        ],
+        "median tf-idf score": 0.5494294058449671,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Thank you, Reno! It's great to be back in Nevada  ...     My original plan for this visit was to focus on our agenda to help small businesses and entrepreneurs.",
+            "Read the full text of Hillary Clinton's speech delivered Thursday in Reno, Nevada. [Thank you, Reno! It's great to be back in Nevada  ...      My original plan for this visit was to focus on our agenda to help small businesses and entrepreneurs.",
+            "  RENO, Nev.  --   The focus of the presidential contest turned Thursday to a blunt proposition: Do Donald Trump's views on race disqualify him from occupying the White House?"
+        ],
+        "tf-idf score": [
+            0.25625930271759517,
+            0.5494294058449671,
+            0.714416819459595
+        ]
+    },
+    "0.40791990052636456-3-33": {
+        "average clique similarity": 0.40791990052636456,
+        "clique": [
+            "0-Trump said thousands",
+            "3-She had mentioned hi",
+            "2-Trump said thousands"
+        ],
+        "median tf-idf score": 0.7047289016144975,
+        "publications": [
+            "Breitbart",
+            "Atlantic",
+            "Vox"
+        ],
+        "sentences": [
+            "Trump said thousands of American Muslims in New Jersey cheered the   attacks.",
+            "She had mentioned his fabricated account of Muslims celebrating   in New Jersey and his baseless accusation that the father of Senator Ted Cruz was implicated in the Kennedy assassination. She had criticized him for appearing on Alex Jones  show and praising the host, and for failing to promptly disavow David Duke, the former Ku Klux Klan grand wizard and current congressional candidate.",
+            "Trump said thousands of American Muslims in New Jersey cheered the   attacks. They didn't."
+        ],
+        "tf-idf score": [
+            0.7047289016144975,
+            0.543792839653336,
+            0.7047289016144975
+        ]
+    },
+    "0.4095814263886846-3-229": {
+        "average clique similarity": 0.4095814263886846,
+        "clique": [
+            "0-We all remember when",
+            "2-We all remember when",
+            "3-Clinton harkened bac"
+        ],
+        "median tf-idf score": 0.6774645471500121,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "Breitbart"
+        ],
+        "sentences": [
+            "We all remember when Trump said a distinguished federal judge born in Indiana couldn't be trusted to do his job because, quote, \"He's a Mexican. \"",
+            "We all remember when Trump said a distinguished federal judge born in Indiana couldn't be trusted to do his job because, quote, \"He's a Mexican\".",
+            "Clinton harkened back to moments when prominent Republicans have publicly rejected bigotry. Discussing Trump s attack against federal Judge Gonzalo Curiel, she quoted Republican House Speaker Paul Ryan, a Trump endorser who labeled the jab  the textbook definition of a racist comment."
+        ],
+        "tf-idf score": [
+            0.6774645471500121,
+            0.6774645471500121,
+            0.9657480905278565
+        ]
+    },
+    "0.41565060587660363-3-630": {
+        "average clique similarity": 0.41565060587660363,
+        "clique": [
+            "0-This is what I want ",
+            "4-Among them   Hoist I",
+            "2-This is what I want "
+        ],
+        "median tf-idf score": 0.4576933870271302,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "This is what I want to make clear today: A man with a long history of racial discrimination, who traffics in dark conspiracy theories drawn from the pages of supermarket tabloids and the far reaches of the internet, should never run our government or command our military.",
+            "Among them: \"Hoist It High And Proud: The Confederate Flag Proclaims A Glorious Heritage. \" That appeared, Clinton said, shortly after the mass shooting in a Charleston, S C church. Clinton, meanwhile, called Trump \"a man with a long history of racial discrimination, who traffics in dark conspiracy theories drawn from the pages of supermarket tabloids and the far dark reaches of the Internet. \"",
+            "This is what I want to make clear today: A man with a long history of racial discrimination, who traffics in dark conspiracy theories drawn from the pages of supermarket tabloids and the far reaches of the internet, should never run our government or command our military. If he doesn't respect respect all Americans, he can't serve all Americans!"
+        ],
+        "tf-idf score": [
+            0.3878126171203128,
+            1.0645801244370077,
+            0.4576933870271302
+        ]
+    },
+    "0.415786879230648-3-9": {
+        "average clique similarity": 0.415786879230648,
+        "clique": [
+            "3-In reaching out to b",
+            "2-In just the past wee",
+            "0-In just the past wee"
+        ],
+        "median tf-idf score": 0.8952459254312871,
+        "publications": [
+            "Atlantic",
+            "Breitbart",
+            "Vox"
+        ],
+        "sentences": [
+            "In reaching out to black voters, Trump has argued that African American communities are uniformly poor, dangerous, and hopeless, and suggested they should give him a chance.",
+            "In just the past week, under the guise of \"outreach\" to African Americans, Trump has stood up in front of largely white audiences and described black communities in insulting and ignorant terms:    \"Poverty. Rejection. Horrible education. No housing.",
+            "In just the past week, under the guise of \"outreach\" to African Americans, Trump has stood up in front of largely white audiences and described black communities in insulting and ignorant terms: \"Poverty."
+        ],
+        "tf-idf score": [
+            0.7851535061766571,
+            0.9204058742831462,
+            0.8952459254312871
+        ]
+    },
+    "0.41651242440164055-3-163": {
+        "average clique similarity": 0.41651242440164055,
+        "clique": [
+            "0-Just imagine       D",
+            "3-They hope that he wi",
+            "2-They hope that he wi"
+        ],
+        "median tf-idf score": 0.5822614001356721,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Just imagine  --   Donald Trump reading that and thinking: \"this is what I need more of in my campaign. \"",
+            "They hope that he will eventually reinvent himself, that there s a kinder, gentler more responsible Donald Trump waiting in the wings, ?",
+            "They hope that he will eventually reinvent himself  --   that there's a kinder, gentler, more responsible Donald Trump waiting in the wings somewhere."
+        ],
+        "tf-idf score": [
+            0.6719460339208112,
+            0.5822614001356721,
+            0.5822614001356721
+        ]
+    },
+    "0.41713341272473126-3-524": {
+        "average clique similarity": 0.41713341272473126,
+        "clique": [
+            "0-But look at who he s",
+            "3-she said  But no suc",
+            "2-Maybe  But look at w"
+        ],
+        "median tf-idf score": 0.7960306564650917,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "But look at who he's put in charge of his campaign. Trump likes to say he only hires the \"best people. \"",
+            "she said. But no such Trump exists, Clinton insisted. The policies that he as proposed would put prejudice into practice.",
+            "Maybe. But look at who he's put in charge of his campaign. Trump likes to say he only hires the \"best people\"."
+        ],
+        "tf-idf score": [
+            0.7960306564650917,
+            0.743570339162408,
+            0.8077491866599702
+        ]
+    },
+    "0.42154094690925165-3-530": {
+        "average clique similarity": 0.42154094690925165,
+        "clique": [
+            "3-she said  Reprising ",
+            "2-Parents and teachers",
+            "0-Parents and teachers"
+        ],
+        "median tf-idf score": 0.4585268739613982,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "she said. Reprising a campaign ad, she warned of the effect of hearing Trump on children.",
+            "Parents and teachers are already worried about what they're calling the \"Trump Effect\".",
+            "Parents and teachers are already worried about what they're calling the \"Trump Effect. \""
+        ],
+        "tf-idf score": [
+            0.7460280510964268,
+            0.4585268739613982,
+            0.4585268739613982
+        ]
+    },
+    "0.4364707075049192-3-37": {
+        "average clique similarity": 0.4364707075049192,
+        "clique": [
+            "4- When Democratic pol",
+            "2-He would form a depo",
+            "0-He d abolish the bed"
+        ],
+        "median tf-idf score": 0.4225729107072376,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"When Democratic policies fail, they are left with only this one tired argument: You're racist, you're racist, you're racist. They keep saying it: You're racist. It's a tired, disgusting argument and it's so totally predictable. \" The fact that questions about Trump's credibility with minority voters dominated the day was by itself a victory for Clinton.",
+            "He would form a deportation force to round up millions of immigrants and kick them out of the country. He'd abolish the bedrock constitutional principle that says if you're born in the United States, you're an American citizen.",
+            "He'd abolish the bedrock constitutional principle that says if you're born in the United States, you're an American citizen."
+        ],
+        "tf-idf score": [
+            0.96155381984224,
+            0.4225729107072376,
+            0.28987457877578754
+        ]
+    },
+    "0.4368020402144271-3-109": {
+        "average clique similarity": 0.4368020402144271,
+        "clique": [
+            "4-President Obama carr",
+            "2-Just recently  Trump",
+            "0-Just recently  Trump"
+        ],
+        "median tf-idf score": 0.5625472025879246,
+        "publications": [
+            "Vox",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "President Obama carried the state against Mitt Romney in 2012, but recent polls here have showed Clinton with no more than a modest lead over Trump.",
+            "Just recently, Trump claimed President Obama founded ISIS  And then he repeated that nonsense over and over.",
+            "Just recently, Trump claimed President Obama founded ISIS And then he repeated that nonsense over and over."
+        ],
+        "tf-idf score": [
+            0.7790160428820362,
+            0.5625472025879246,
+            0.5625472025879246
+        ]
+    },
+    "0.44497325897079215-3-630": {
+        "average clique similarity": 0.44497325897079215,
+        "clique": [
+            "2-He may have some new",
+            "3-I know that some peo",
+            "0-Now  I know some peo"
+        ],
+        "median tf-idf score": 0.5756620355709061,
+        "publications": [
+            "Vox",
+            "Atlantic",
+            "Breitbart"
+        ],
+        "sentences": [
+            "He may have some new people putting new words in his mouth  ...     but we know where he stands.",
+            "I know that some people still want to give Trump the benefit of the doubt.",
+            "Now, I know some people still want to give Trump the benefit of the doubt."
+        ],
+        "tf-idf score": [
+            0.18268457502534255,
+            0.5756620355709061,
+            0.5756620355709061
+        ]
+    },
+    "0.4826605695720055-3-630": {
+        "average clique similarity": 0.4826605695720055,
+        "clique": [
+            "3-Finally turning to t",
+            "2-com  as campaign CEO",
+            "0- Would You Rather Yo"
+        ],
+        "median tf-idf score": 0.5195290838924237,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Finally turning to the   she read off a series of headlines from Breitbart, whose CEO Steve Bannon recently became CEO of Trump s campaign:  Hoist It High And Proud: The Confederate Flag Proclaims A Glorious Heritage, ? Would You Rather Your Child Had Feminism or Cancer? Gabby Giffords: The Gun Control Movement s Human Shield.",
+            "com, as campaign CEO To give you a flavor of his work, here are a few headlines they've published: \"Birth Control Makes Women Unattractive and Crazy\". \"Would You Rather Your Child Had Feminism or Cancer?\" \"Gabby Giffords: The Gun Control Movement's Human Shield\" \"Hoist It High And Proud: The Confederate Flag Proclaims A Glorious Heritage\".",
+            "\"Would You Rather Your Child Had Feminism or Cancer?\" \"Gabby Giffords: The Gun Control Movement's Human Shield\" \"Hoist It High And Proud: The Confederate Flag Proclaims A Glorious Heritage. \""
+        ],
+        "tf-idf score": [
+            0.9366439078655665,
+            0.5195290838924237,
+            0.23878268038582254
+        ]
+    },
+    "0.5462814193500919-3-630": {
+        "average clique similarity": 0.5462814193500919,
+        "clique": [
+            "1-For 30 minutes on Th",
+            "2-Trump is reinforcing",
+            "0-Trump is reinforcing"
+        ],
+        "median tf-idf score": 0.6305350760336471,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "Breitbart"
+        ],
+        "sentences": [
+            "For 30 minutes on Thursday afternoon, Clinton unleashed a dark and blistering assessment of Trump as \"a man with a long history of racial discrimination,\" a man who believes every word he's said and every policy he's proposed, knows exactly what he's doing when he peddles conspiracy theories, treats the National Enquirer \"like Gospel,\" elevates white supremacists and   slurs, reinforces \"harmful stereotypes,\" and offers \"a dog whistle to his most hateful supporters. \" For months, she has described her opponent's statements as racist or bigoted.",
+            "Trump is reinforcing harmful stereotypes and offering a dog whistle to his most hateful supporters. It's a disturbing preview of what kind of President he'd be.",
+            "Trump is reinforcing harmful stereotypes and offering a dog whistle to his most hateful supporters."
+        ],
+        "tf-idf score": [
+            1.6630331332082577,
+            0.6305350760336471,
+            0.5143955517448332
+        ]
+    }
+}

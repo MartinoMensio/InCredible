@@ -1,0 +1,630 @@
+{
+    "0.136162866592737-3-51": {
+        "average clique similarity": 0.136162866592737,
+        "clique": [
+            "3-The idea that Warren",
+            "4-Trump on June 22 dev",
+            "1-Warren  though  has "
+        ],
+        "median tf-idf score": 0.8224182434017654,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The idea that Warren might become Clinton\u2019s vice presidential pick has been floating around for a while and is appealing if only for the prospect that two women could fill an entire presidential ticket.",
+            "Trump on June 22 devoted an entire speech to criticizing Clinton\u2019s entire career, quoting liberally from an upcoming book by a Secret Service agent who railed against Clinton\u2019s temperament as well as hitting Clinton on her private   server, The Clinton Foundation and Benghazi.",
+            "Warren, though, has also been an outspoken critic of the   Partnership trade deal, an Obama administration agreement Clinton was slow to take a position on during the campaign after calling it the \u201dgold standard\u201d as secretary of state."
+        ],
+        "tf-idf score": [
+            0.8224182434017654,
+            0.7177241796574674,
+            0.9457970802021383
+        ]
+    },
+    "0.14277557722878845-3-108": {
+        "average clique similarity": 0.14277557722878845,
+        "clique": [
+            "4-In that speech  Trum",
+            "0-Warren s speech offe",
+            "1-The murals seemed in"
+        ],
+        "median tf-idf score": 0.6154126971710029,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "In that speech, Trump called Clinton \u201dthe most corrupt person ever to seek the presidency\u201d.",
+            "Warren\u2019s speech offered a clear preview of the   role the senator is expected to play in the general election as Trump\u2019s chief public antagonist.",
+            "The murals seemed intended to complement Clinton\u2019s economic message but also highlight the very types of voters Clinton could struggle the most to reach this election year."
+        ],
+        "tf-idf score": [
+            0.6154126971710029,
+            0.7862269459452027,
+            0.3892308601614696
+        ]
+    },
+    "0.150071670599761-3-84": {
+        "average clique similarity": 0.150071670599761,
+        "clique": [
+            "0- Hillary Clinton wil",
+            "4-Except when he s ask",
+            "1- I m going to appoin"
+        ],
+        "median tf-idf score": 0.4238081153260688,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dHillary Clinton will be the next president because she knows what it takes to beat a   bully who is driven by greed and hate\u201d.",
+            "Except when he\u2019s asking to be our President.",
+            "\u201dI\u2019m going to appoint a trade prosecutor who will report to the president, so we are going to end the abuse of our market,\u201d Clinton said."
+        ],
+        "tf-idf score": [
+            0.4238081153260688,
+            0.05261964554992032,
+            0.49191186575777
+        ]
+    },
+    "0.1512362557985288-3-105": {
+        "average clique similarity": 0.1512362557985288,
+        "clique": [
+            "4-Well      that s his",
+            "2-      Appearing with",
+            "3-One needn t agree wi"
+        ],
+        "median tf-idf score": 0.05622602459000696,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Well  \u2014   that\u2019s his choice.",
+            "\u201d \u2019   Appearing with Hillary Clinton in Ohio on Monday, the populist   Massachusetts senator repeatedly laid into Trump, calling him    \u2019 \u2019   Over 15 minutes, Warren railed against the   magnate\u2019\u2019s   aggressive business tactics, noting a   lawsuit filed   against Trump University as well as Trump\u2019\u2019s claim that the UK\u2019\u2019s   Thursday decision to leave the European Union would \u201dbring more   rich people to his new golf course\u201d.",
+            "One needn\u2019t agree with her to appreciate her vigor, as well as a   softness that comes across in person."
+        ],
+        "tf-idf score": [
+            0.0112041590606493,
+            1.5414879233067569,
+            0.05622602459000696
+        ]
+    },
+    "0.1625951260005002-3-127": {
+        "average clique similarity": 0.1625951260005002,
+        "clique": [
+            "4-Brown returned to th",
+            "0-The two women  who a",
+            "3-Instead of two happy"
+        ],
+        "median tf-idf score": 0.8074303768639792,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Brown returned to that line of attack Monday after Trump took his shots, with the two forming a   approach similar to the   punch adopted by Warren and Clinton earlier in the day.",
+            "The two women, who are only one year apart in age, stepped onto the stage wearing suits of similar shades giving the event a coordinated feel: Warren\u2019s outfit a bright royal blue and Clinton\u2019s a deep purple.",
+            "Instead of two happy twins riding a tandem bicycle to celebrate chewing gum, the   sixties    \u2014   wearing blond bobs and shades of blue  \u2014   rode Trump with a gobsmacking double punch."
+        ],
+        "tf-idf score": [
+            1.05895473325149,
+            0.8074303768639792,
+            0.44913522699449554
+        ]
+    },
+    "0.16781917362199797-3-46": {
+        "average clique similarity": 0.16781917362199797,
+        "clique": [
+            "3-While Clinton was be",
+            "0-Clinton s   battle a",
+            "1-That energy was tran"
+        ],
+        "median tf-idf score": 0.7657174234869603,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "While Clinton was being forced leftward by Sen. Bernie Sanders ( .)",
+            "Clinton\u2019s   battle against Vermont Sen. Bernie Sanders in the Democratic primary spotlighted her struggle to win over liberal factions of her party and Warren\u2019s formal backing earlier this month signaled an important stamp of approval.",
+            "That energy was transferred to the Sanders campaign, but Clinton hopes with Warren on her side, Sanders holdouts will begin to trickle over to her."
+        ],
+        "tf-idf score": [
+            0.41116989552514066,
+            0.8840075121565043,
+            0.7657174234869603
+        ]
+    },
+    "0.18068742161670948-3-32": {
+        "average clique similarity": 0.18068742161670948,
+        "clique": [
+            "1- Donald Trump believ",
+            "0-Elected to the Senat",
+            "4-Clinton s introducti"
+        ],
+        "median tf-idf score": 1.0203119576770596,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dDonald Trump believes poor, sad, little Wall Street bankers need to be free to defraud anyone they want,\u201d said Warren, hitting on one of her favored issues.",
+            "Elected to the Senate in 2012, Warren is one of Congress\u2019 most outspoken critics of Wall Street and advocate of stringent financial regulations.",
+            "Clinton\u2019s introduction by Warren, a regular and vocal critic of Wall Street, was a \u201csad attempt at pandering\u201d to Sen. Bernie Sanders\u2019 wing of the party, the statement said."
+        ],
+        "tf-idf score": [
+            1.0239814131332647,
+            0.48536871287335426,
+            1.0203119576770596
+        ]
+    },
+    "0.18188565320652175-3-288": {
+        "average clique similarity": 0.18188565320652175,
+        "clique": [
+            "1-But she also continu",
+            "3-But it s also plain ",
+            "4-  Warren also called"
+        ],
+        "median tf-idf score": 0.6026239278399974,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But she also continued her role in recent weeks of attack dog against presumptive Republican nominee Donald Trump, calling him \u201da nasty man\u201d.",
+            "But it\u2019s also plain that Warren is her greatest asset.",
+            "\u201d Warren also called Trump \u201ca small, insecure, money grubber\u201d and \u201ca nasty man\u201d during her introduction of Clinton."
+        ],
+        "tf-idf score": [
+            0.6026239278399974,
+            0.3503897871841831,
+            0.9315680142957927
+        ]
+    },
+    "0.18300254660460014-3-198": {
+        "average clique similarity": 0.18300254660460014,
+        "clique": [
+            "3-Thus  when Warren sa",
+            "4- She s been totally ",
+            "1-On a Republican Nati"
+        ],
+        "median tf-idf score": 0.6474012912962668,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Thus, when Warren says he looks goofy in a hat, he calls her Pocahontas (for her having said she has Native American blood).",
+            "\u201cShe\u2019s been totally unable to prove she\u2019s Native American and yet used that to advance her career.",
+            "On a Republican National Committee conference call responding to the   event, former Massachusetts Sen. Scott Brown, who lost his seat to Warren in 2012, challenged her to take a DNA test to prove her Native American lineage."
+        ],
+        "tf-idf score": [
+            0.713445510516918,
+            0.12102732676196576,
+            0.6474012912962668
+        ]
+    },
+    "0.1849453205740129-3-204": {
+        "average clique similarity": 0.1849453205740129,
+        "clique": [
+            "2- The guy who wants i",
+            "3-That simple embrace ",
+            "1-She is speaking for "
+        ],
+        "median tf-idf score": 0.06940655441690674,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dThe guy who wants it   all for himself.",
+            "That simple embrace signified a new benchmark in women\u2019s and American history and changed the political narrative for all time.",
+            "She is speaking for all of us, and we thank her for that\u201d."
+        ],
+        "tf-idf score": [
+            0.06940655441690674,
+            0.21587010618596048,
+            0.021637154790978053
+        ]
+    },
+    "0.18944270081119485-3-80": {
+        "average clique similarity": 0.18944270081119485,
+        "clique": [
+            "3-Too much the same ",
+            "4-Warren  whom Trump r",
+            "0- Elizabeth and I cam"
+        ],
+        "median tf-idf score": 0.4495942189110731,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Too much the same?",
+            "Warren, whom Trump regularly calls \u201cgoofy Elizabeth Warren,\u201d used the same terminology to jab back at the billionaire mogul.",
+            "\u201dElizabeth and I came of age around the same time,\u201d Clinton said."
+        ],
+        "tf-idf score": [
+            0.0,
+            0.721787601151801,
+            0.4495942189110731
+        ]
+    },
+    "0.18954875793414425-3-218": {
+        "average clique similarity": 0.18954875793414425,
+        "clique": [
+            "1-Trump has dubbed War",
+            "0- Crooked Hillary is ",
+            "4-The controversy surr"
+        ],
+        "median tf-idf score": 0.8419365279417276,
+        "publications": [
+            "Fox News",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Trump has dubbed Warren \u201dgoofy Elizabeth Warren\u201d and has also repeatedly called her \u201dPocahontas\u201d because of an issue during her Senate campaign about claiming Native American heritage to get preference in hiring.",
+            "\u201dCrooked Hillary is wheeling out one of the least productive senators in the U S Senate, goofy Elizabeth Warren, who lied on heritage,\u201d Trump tweeted.",
+            "The controversy surrounding Warren\u2019s heritage entered the national spotlight during the 2012 Massachusetts senate race when Brown levelled   charges at Warren, accusing her of lying about her ancestry in the name of career advancement."
+        ],
+        "tf-idf score": [
+            0.9981634890298614,
+            0.8419365279417276,
+            0.5288237959555693
+        ]
+    },
+    "0.2189620630174031-3-18": {
+        "average clique similarity": 0.2189620630174031,
+        "clique": [
+            "4-Brown      the   sen",
+            "3- Melina   Washington",
+            "2-         Sen  Elizab"
+        ],
+        "median tf-idf score": 1.0124300854301131,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Fox News"
+        ],
+        "sentences": [
+            "Brown  \u2014   the   senator who lost his seat to Warren in 2012  \u2014   made the DNA remark on a conference call set up by the Republican National Committee on Monday afternoon, hours after Warren appeared with likely Democratic presidential nominee Hillary Clinton in Ohio and slammed Trump.",
+            "(Melina   Washington Post)  And so the Twitter wars between a   and the presumptive Republican presidential nominee will likely continue.",
+            "\u2019  \u2019 \u201d   Sen. Elizabeth Warren\u2019s attacks on presumptive Republican   presidential nominee Donald Trump are hitting the campaign trail."
+        ],
+        "tf-idf score": [
+            1.283394574544283,
+            0.21625113616209213,
+            1.0124300854301131
+        ]
+    },
+    "0.2234590974849364-3-164": {
+        "average clique similarity": 0.2234590974849364,
+        "clique": [
+            "0- I am here today bec",
+            "1- I m here today  bec",
+            "4- The war of words be"
+        ],
+        "median tf-idf score": 0.8106288357690937,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dI am here today because I\u2019m with her,\u201d Warren said on Monday.",
+            "\u201dI\u2019m here today, because I\u2019m with her, yes her,\u201d Warren said, alluding to a popular slogan of support for Clinton, to roaring applause from a capacity crowd at the Union Terminal.",
+            " The war of words between presumptive presidential candidates spilled over Monday to their designated attack dogs, with Donald Trump surrogate Scott Brown getting into a   street fight with Sen. Elizabeth Warren, calling on her to take a DNA test to prove her Native American heritage after she took shots at."
+        ],
+        "tf-idf score": [
+            0.4844142239936462,
+            0.8106288357690937,
+            1.2518080815779558
+        ]
+    },
+    "0.22414565420178198-3-257": {
+        "average clique similarity": 0.22414565420178198,
+        "clique": [
+            "1-Clinton  though  sai",
+            "2-       That  s who D",
+            "0-   she said "
+        ],
+        "median tf-idf score": 0.7755841406885559,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Clinton, though, said she wouldn\u2019t be \u201dmaking any news today\u201d when asked whether she would consider Warren for VP Warren is a hero of the progressive wing of the Democratic Party, someone who has battled with bank executives and campaigned to reduce student debt.",
+            "\u2019 \u2019   \u201dThat\u2019\u2019s who Donald Trump is,\u201d Warren said.",
+            "\u2019\u201d she said."
+        ],
+        "tf-idf score": [
+            0.9324200814342203,
+            0.7755841406885559,
+            0.10309712967667113
+        ]
+    },
+    "0.2591232800274959-3-151": {
+        "average clique similarity": 0.2591232800274959,
+        "clique": [
+            "4- Crooked Hillary cal",
+            "0-Because she tells it",
+            "2-      Standing onsta"
+        ],
+        "median tf-idf score": 0.4155073421932038,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dCrooked Hillary called it totally wrong on BREXIT   she went with Obama   and now she is saying we need her to lead.",
+            "Because she tells it like it is,\u201d Clinton said.",
+            "\u2019 \u2019   Standing onstage with Warren while she delivered her diatribe   against Trump, Clinton  the     telling the audience that she admired how Warren   \u201dtells it like it is\u201d."
+        ],
+        "tf-idf score": [
+            0.169071074862988,
+            0.4155073421932038,
+            1.0242203508997825
+        ]
+    },
+    "0.26129061959563066-3-186": {
+        "average clique similarity": 0.26129061959563066,
+        "clique": [
+            "4- It s right there ",
+            "1-There was a time whe",
+            "3-     Presumptive Dem"
+        ],
+        "median tf-idf score": 0.7993620410755723,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cIt\u2019s right there.",
+            "There was a time when it wasn\u2019t even clear Sen. Elizabeth Warren would endorse Hillary Clinton.",
+            "\u201d    Presumptive Democratic presidential nominee Hillary Clinton, right, with Sen. Elizabeth Warren ( .)"
+        ],
+        "tf-idf score": [
+            0.012527387839442652,
+            0.7993620410755723,
+            0.8247827905009526
+        ]
+    },
+    "0.26467311944565797-3-71": {
+        "average clique similarity": 0.26467311944565797,
+        "clique": [
+            "4-The style of rhetori",
+            "1-In a statement headl",
+            "0-In the afternoon  Tr"
+        ],
+        "median tf-idf score": 1.1330319104810176,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "The style of rhetoric from Brown and Trump was in stark contrast to a more moderate, but   statement sent by the Trump campaign attacking Warren as \u201ca turncoat\u201d for supporting Clinton in light of Clinton\u2019s ties to Wall Street.",
+            "In a statement headlined \u201dSellout Warren,\u201d Trump\u2019s campaign said \u201dSenator Elizabeth Warren ( ) has become a turncoat for the causes she supposedly supports\u201d.",
+            "In the afternoon, Trump released a statement calling Warren a \u201dsellout,\u201d pointing to the campaign contributions Clinton has received from Wall Street."
+        ],
+        "tf-idf score": [
+            1.1703971773577888,
+            0.96820674102582,
+            1.1330319104810176
+        ]
+    },
+    "0.3521357887837296-3-347": {
+        "average clique similarity": 0.3521357887837296,
+        "clique": [
+            "1-Clinton praised Warr",
+            "0-That s who Donald Tr",
+            "3-And   When Donald Tr"
+        ],
+        "median tf-idf score": 0.5706573872721857,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Clinton praised Warren, saying that when she is on   in Senate hearings pressing bank executives and regulators for answers, \u201dShe is speaking for every American who is frustrated and fed up.",
+            "That\u2019s who Donald Trump is.",
+            "And: \u201cWhen Donald Trump says \u2018great,\u2019 I ask: \u2018Great for who, exactly?\u2019\u2009\u201d she said."
+        ],
+        "tf-idf score": [
+            0.7293066864731633,
+            0.3569937270961569,
+            0.5706573872721857
+        ]
+    },
+    "0.35716164484252744-3-346": {
+        "average clique similarity": 0.35716164484252744,
+        "clique": [
+            "0- Imagine Donald Trum",
+            "4- Donald Trump says h",
+            "3-Railed the senator f"
+        ],
+        "median tf-idf score": 0.8279588455533372,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dImagine Donald Trump sitting in the Oval Office the next time America faces a crisis,\u201d Clinton said.",
+            "\u201cDonald Trump says he\u2019ll \u2018Make America Great Again,\u2019\u201d Warren said.",
+            "Railed the senator from Massachusetts: \u201cNow, Donald Trump says he\u2019ll make America great again."
+        ],
+        "tf-idf score": [
+            0.8279588455533372,
+            0.9221182315913705,
+            0.5796527850571376
+        ]
+    },
+    "0.3742061432485831-3-77": {
+        "average clique similarity": 0.3742061432485831,
+        "clique": [
+            "2-And watch out  becau",
+            "1-Perhaps trying to ge",
+            "0-Warren warned   You "
+        ],
+        "median tf-idf score": 0.42880744489255196,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "And watch out, because he will crush you into   the dirt to get whatever he wants\u201d.",
+            "Perhaps trying to get out ahead of this speech, Clinton repeated a   pledge she made earlier in the campaign.",
+            "Warren warned: \u201dYou have to watch out for him, because he\u2019ll crush you into the dirt to get whatever he wants\u201d."
+        ],
+        "tf-idf score": [
+            0.14037397609321922,
+            0.42880744489255196,
+            0.4630483503871362
+        ]
+    },
+    "0.37587937039742164-3-229": {
+        "average clique similarity": 0.37587937039742164,
+        "clique": [
+            "3-And watch out  becau",
+            "0-   And you have to w",
+            "4-You wanna see goofy "
+        ],
+        "median tf-idf score": 0.09208566985214277,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "And watch out, because he will crush you into the dirt.",
+            ".. And you have to watch out for him, because he\u2019ll crush you into the dirt\u201d.",
+            "You wanna see goofy?"
+        ],
+        "tf-idf score": [
+            0.09208566985214277,
+            0.09208566985214277,
+            0.048376640137439135
+        ]
+    },
+    "0.42778719214768524-3-347": {
+        "average clique similarity": 0.42778719214768524,
+        "clique": [
+            "0- When Donald says he",
+            "1-With Warren by her s",
+            "3- When Donald Trump s"
+        ],
+        "median tf-idf score": 0.609602783738083,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dWhen Donald says he\u2019ll make America great, he means greater for rich guys just like Donald Trump.",
+            "With Warren by her side, Clinton said, \u201dI do just love to see how she gets under Donald Trump\u2019s thin skin\u201d.",
+            "\u201cWhen Donald Trump says he\u2019ll make America great, he means make it even greater for rich guys just like Donald Trump."
+        ],
+        "tf-idf score": [
+            0.609602783738083,
+            1.0682469084473112,
+            0.609602783738083
+        ]
+    },
+    "0.5590160675094876-3-347": {
+        "average clique similarity": 0.5590160675094876,
+        "clique": [
+            "3-You want to see goof",
+            "0- You want to see goo",
+            "2-               You w"
+        ],
+        "median tf-idf score": 0.09106286684819093,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "You want to see goofy?",
+            "\u201dYou want to see goofy?",
+            "\u2019 \u2019  \u2019 \u2019\u2019 \u2019   \u201dYou want to see goofy?\u201d Warren said."
+        ],
+        "tf-idf score": [
+            0.09106286684819093,
+            0.09106286684819093,
+            0.5096532804405898
+        ]
+    },
+    "0.6102527705545654-4-347": {
+        "average clique similarity": 0.6102527705545654,
+        "clique": [
+            "0- I have to say  I do",
+            "3-It gets under his sk",
+            "4- I just love how she",
+            "2-       I do just lov"
+        ],
+        "median tf-idf score": 0.5984119802561947,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Fox News",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dI have to say, I do just love how she gets under Donald Trump\u2019s skin\u201d.",
+            "It gets under his skin like nothing else.",
+            "\u201cI just love how she gets under Donald Trump\u2019s skin,\u201d Clinton said.",
+            "\u2019 \u2019   \u201dI do just love to see how she gets under Donald Trump\u2019\u2019s skin,\u201d   Clinton said."
+        ],
+        "tf-idf score": [
+            0.44407033598080564,
+            0.06160335991875612,
+            0.7527536245315838,
+            0.7527536245315838
+        ]
+    },
+    "1.0-3-99": {
+        "average clique similarity": 1.0,
+        "clique": [
+            "4-Look at him in that ",
+            "0-Look at him in that ",
+            "2- Look at him in that"
+        ],
+        "median tf-idf score": 0.06792944020870442,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Look at him in that hat.",
+            "Look at him in that hat\u201d.",
+            "\u201dLook at him in that hat\u201d."
+        ],
+        "tf-idf score": [
+            0.06792944020870442,
+            0.06792944020870442,
+            0.06792944020870442
+        ]
+    }
+}

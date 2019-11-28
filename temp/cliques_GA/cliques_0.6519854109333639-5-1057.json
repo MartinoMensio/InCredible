@@ -1,0 +1,194 @@
+{
+    "0.2567096083415688-3-4": {
+        "average clique similarity": 0.2567096083415688,
+        "clique": [
+            "0-         The Commiss",
+            "3-WASHINGTON       Cri",
+            "1-Trump had complained"
+        ],
+        "median tf-idf score": 1.1631812651746078,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "'  ' \"   The Commission on Presidential Debates confirmed on Friday that   there were problems with Donald Trump's microphone during the   first debate earlier this week. \"",
+            "WASHINGTON  --   Critics charged that Donald Trump was making excuses when he complained that his microphone had been faulty at the first presidential debate.",
+            "Trump had complained earlier in the week that his microphone wasn't functioning properly at Monday's debate, though Friday's statement by the commission said nothing about a microphone problem."
+        ],
+        "tf-idf score": [
+            1.0497618934832962,
+            1.20076542278297,
+            1.1631812651746078
+        ]
+    },
+    "0.3237367764715255-3-22": {
+        "average clique similarity": 0.3237367764715255,
+        "clique": [
+            "2-Please follow the st",
+            "0-    The day after th",
+            "1-Trump s Democratic c"
+        ],
+        "median tf-idf score": 1.0668332750154155,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "Please follow the steps below, After critics savaged his performance at Monday's first presidential debate, Republican nominee Donald Trump alighted on several culprits: Hillary Clinton, the moderator, and especially his microphone.",
+            "'   The day after the debate, Trump said his microphone was \"going on   and off,\" and that its volume was lower than that of the mic   Democratic presidential nominee Hillary Clinton had.",
+            "Trump's Democratic challenger, Hillary Clinton, mocked Trump the day after the debate for complaining about his mic."
+        ],
+        "tf-idf score": [
+            1.0668332750154155,
+            1.5168440771165665,
+            0.7892081177813071
+        ]
+    },
+    "0.3510129680942728-3-103": {
+        "average clique similarity": 0.3510129680942728,
+        "clique": [
+            "2-The claim was met wi",
+            "4-And yet  On Friday a",
+            "3-The Commission on Pr"
+        ],
+        "median tf-idf score": 0.9718709287451186,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "The claim was met with some skepticism, but on Friday afternoon, the Commission on Presidential Debates seemed to confirm his claim, at least in part.",
+            "And yet: On Friday afternoon, the Commission on Presidential Debates confirmed that Trump did indeed have a microphone that was at least somewhat defective.",
+            "The Commission on Presidential Debates issued a   statement Friday saying there were indeed problems with Trump's mic."
+        ],
+        "tf-idf score": [
+            0.8702222807935626,
+            1.2761550890096602,
+            0.9718709287451186
+        ]
+    },
+    "0.3820123715859544-3-92": {
+        "average clique similarity": 0.3820123715859544,
+        "clique": [
+            "3-My mic was defective",
+            "4- I don t know if you",
+            "0-My mic was defective"
+        ],
+        "median tf-idf score": 0.7406299083492586,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "My mic was defective within the room,\" he said in the spin room.",
+            "\"I don't know if you saw that in the room, but my microphone was terrible,\" Trump said the next morning on \"Fox and Friends\".",
+            "My mic was defective   within the room. .. I wonder, was that on purpose?"
+        ],
+        "tf-idf score": [
+            0.7168490937873861,
+            0.9805944537870538,
+            0.7406299083492586
+        ]
+    },
+    "0.3867332660570996-3-80": {
+        "average clique similarity": 0.3867332660570996,
+        "clique": [
+            "1- No  but I wonder  w",
+            "4-No  but I wonder  wa",
+            "3- No  No sniffles    "
+        ],
+        "median tf-idf score": 0.6375189735839971,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"No, but I wonder, was that on purpose? Was that on purpose? But I had a mic that wasn't worked properly, with, working properly within the room\".",
+            "No, but I wonder, was that on purpose? Was that on purpose?\"",
+            "\"No! No sniffles,\"  . \"No. You know, the mic was very bad, but maybe it was good enough to hear breathing. \""
+        ],
+        "tf-idf score": [
+            0.7665349479426063,
+            0.46772547248981766,
+            0.6375189735839971
+        ]
+    },
+    "0.4187109590074007-3-69": {
+        "average clique similarity": 0.4187109590074007,
+        "clique": [
+            "1-Washington  CNN  The",
+            "2-The commission  whic",
+            "4- Regarding the first"
+        ],
+        "median tf-idf score": 1.1654975900004525,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Washington (CNN) The Commission on Presidential Debates revealed in a   statement Friday that Donald Trump's audio was impacted earlier in the week.",
+            "The commission, which controls the debates, released a cryptic statement that reads in full: Statement about first debate, Sep 30, 2016, Regarding the first debate, there were issues regarding Donald Trump's audio that affected the sound level in the debate hall.",
+            "\"Regarding the first debate, there were issues regarding Donald Trump's audio that affected the sound level in the debate hall,\" the commission said in an unfortunately brief   statement."
+        ],
+        "tf-idf score": [
+            1.356076756000995,
+            1.1434177140216613,
+            1.1654975900004525
+        ]
+    },
+    "0.7812876301773614-3-14": {
+        "average clique similarity": 0.7812876301773614,
+        "clique": [
+            "2-After the debate  Tr",
+            "1- And they also had  ",
+            "0-     They also had  "
+        ],
+        "median tf-idf score": 0.812606017378384,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "After the debate, Trump told reporters, \"They gave me a defective mic. Did you notice that?",
+            "\"And they also had, gave me a defective mic. Did you notice that? My mic was defective within the room,\" he told a group of reporters afterward.",
+            "'   \"They also had  --   gave me a defective mic,\" Trump told reporters   after the debate. \"Did you notice that?"
+        ],
+        "tf-idf score": [
+            0.812606017378384,
+            0.776638887810165,
+            0.812606017378384
+        ]
+    },
+    "0.8097854079761128-3-103": {
+        "average clique similarity": 0.8097854079761128,
+        "clique": [
+            "0-     Regarding the f",
+            "1- Regarding the first",
+            "3- Regarding the first"
+        ],
+        "median tf-idf score": 1.1114868527449144,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "'   \"Regarding the first debate, there were issues regarding Donald   Trump''s audio that affected the sound level in the debate hall,\"   the statement said. '",
+            "\"Regarding the first debate, there were issues regarding Donald Trump's audio that affected the sound level in the debate hall,\" the commission said in a statement.",
+            "\"Regarding the first debate, there were issues regarding Donald Trump's audio that affected the sound level in the debate hall,\" the commission said without further explanation."
+        ],
+        "tf-idf score": [
+            1.0588133711256338,
+            1.151549501595449,
+            1.1114868527449144
+        ]
+    }
+}

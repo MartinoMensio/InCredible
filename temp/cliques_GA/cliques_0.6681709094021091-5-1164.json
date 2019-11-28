@@ -1,0 +1,366 @@
+{
+    "0.1693523507494478-3-55": {
+        "average clique similarity": 0.1693523507494478,
+        "clique": [
+            "3-We will continue to ",
+            "2-It will always be wr",
+            "0-All eyes turned to t"
+        ],
+        "median tf-idf score": 1.0578769095359544,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "We will continue to fight this blatant discrimination against #LGBT NCers in court. #NCGA #NCPol  --   Lambda Legal (@LambdaLegal) December 22, 2016   The ugly battle in North Carolina could be a deterrent for other states to either pass broad   measures or enact laws regulating bathroom use by transgender people.",
+            "It will always be wrong for men to have access to women's showers and bathrooms. \"With certainty, if HB2 is repealed, we will fight this battle all over again with another city or county.",
+            "All eyes turned to the state Legislature, where lawmakers debated a bill proposed by Senate Republicans that would repeal HB2 and institute a \"    period\" during which no local government could pass a new ordinance protecting people from employment discrimination or regulating access to \"restrooms, showers, or changing facilities\"."
+        ],
+        "tf-idf score": [
+            1.0578769095359544,
+            0.5262083578623118,
+            1.2096972421672383
+        ]
+    },
+    "0.17145558872929853-3-60": {
+        "average clique similarity": 0.17145558872929853,
+        "clique": [
+            "1-Singers Bruce Spring",
+            "0-But according to The",
+            "3-On the other side  a"
+        ],
+        "median tf-idf score": 0.6200808985432906,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Singers Bruce Springsteen, Demi Lovato and Nick Jonas, as well as bands such as Pearl Jam and Boston,  canceled concerts in the state. PayPal and Deutsche Bank both said they would cancel plans to expand into the state.",
+            "But according to The Charlotte Observer, the City Council didn't actually repeal the full ordinance on Monday: \"Council members did remove the part of its ordinance that dealt with public accommodations, prohibiting business such as stores and restaurants from discriminating against people based on categories such as race and religion  --   and also sexual orientation and gender identity.",
+            "On the other side, a newspaper in the liberal city of Asheville argued that the compromise was a losing proposition for gay and transgender people  --   as well as the state."
+        ],
+        "tf-idf score": [
+            0.4926105667621939,
+            1.1675878922999003,
+            0.6200808985432906
+        ]
+    },
+    "0.18691541205104478-3-29": {
+        "average clique similarity": 0.18691541205104478,
+        "clique": [
+            "2-Discussions about re",
+            "1-And the NCAA said it",
+            "4-Numerous entertainer"
+        ],
+        "median tf-idf score": 0.7019417450677201,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Discussions about repealing the law increased after decisions by the NCAA and Atlantic Coast Conference to move their championship events out of North Carolina. The NBA also moved an   Game out of Charlotte.",
+            "And the NCAA said it would relocate several college athletic championship events for the   season that were scheduled to take place in North Carolina.",
+            "Numerous entertainers have   cancelled events in the state, and the NBA, NCAA, and ACC have   relocated major sports events since the law's passage. \" \"   The law has been staunchly defended by Gov. Pat McCrory and state   Republicans, who say the bathroom provision protects women from   sexual predators."
+        ],
+        "tf-idf score": [
+            0.7019417450677201,
+            0.45817737569800415,
+            0.8915375641392419
+        ]
+    },
+    "0.19431855265807077-3-104": {
+        "average clique similarity": 0.19431855265807077,
+        "clique": [
+            "4-     Roy Cooper and ",
+            "2-McCrory  claimed Dem",
+            "1-Roy Cooper  a Democr"
+        ],
+        "median tf-idf score": 1.0025648493428698,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "'   \"Roy Cooper and Charlotte City Council Democrats lied directly to   the people of North Carolina, the Legislature, and Gov.",
+            "McCrory, claimed Democrats had turned HB2 into an issue that \"was all about politics at the expense of Charlotte and the entire state of North Carolina\"..",
+            "Roy Cooper, a Democrat, and Senate Democrats. \"Their action proves they only wanted a repeal in order to force radical social engineering and shared bathrooms across North Carolina, at the expense of our state's families, our reputation and our economy,\" Berger said."
+        ],
+        "tf-idf score": [
+            1.0025648493428698,
+            0.9880535409411002,
+            1.175067468316389
+        ]
+    },
+    "0.21471893138618448-3-51": {
+        "average clique similarity": 0.21471893138618448,
+        "clique": [
+            "3-Some state Republica",
+            "2-For months  the stat",
+            "0-But some Republican "
+        ],
+        "median tf-idf score": 0.6427579190492858,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Some state Republicans were critical of Charlotte for its partial repeal.",
+            "For months, the state's Republican leaders said they were willing to consider repealing the law if Charlotte acted first to undo its expanded   ordinance.",
+            "But some Republican state leaders are furious about the way they say Charlotte handled its side of the agreement."
+        ],
+        "tf-idf score": [
+            0.6427579190492858,
+            0.9589568707629484,
+            0.5811645046032348
+        ]
+    },
+    "0.21640643430510345-3-128": {
+        "average clique similarity": 0.21640643430510345,
+        "clique": [
+            "4-    On Monday  Charl",
+            "0-Republican state law",
+            "3-Pat McCrory  R  who "
+        ],
+        "median tf-idf score": 1.2306189260336335,
+        "publications": [
+            "Business Insider",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"   On Monday, Charlotte's City Council announced it had  in an apparent deal with state   Republicans to repeal House Bill 2. However, local media reported   late Tuesday night that Charlotte had repealed only select parts   of the ordinance, drawing the ire of lawmakers who said Charlotte   didn't keep its word. \"",
+            "Republican state lawmakers and Democratic leaders in Charlotte had apparently struck a deal under which the city would repeal the local ordinance, and in return, state lawmakers would repeal HB2.",
+            "Pat McCrory (R) who this month conceded to Cooper, had called the special session on Monday, hours after Charlotte city officials said they would repeal the nondiscrimination ordinance the city passed in February."
+        ],
+        "tf-idf score": [
+            1.439740248491227,
+            1.2306189260336335,
+            1.1788823896801888
+        ]
+    },
+    "0.21943043685024213-3-85": {
+        "average clique similarity": 0.21943043685024213,
+        "clique": [
+            "4-         North Carol",
+            "2-James Esseks  direct",
+            "0-Updated at 8 00 p  m"
+        ],
+        "median tf-idf score": 1.3079257238844073,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Business Insider"
+        ],
+        "sentences": [
+            "'  ' '   North Carolina Republicans issued an unusual statement early   Wednesday morning signaling that the repeal of the state''s   contentious \"bathroom law\" may be in jeopardy. ' '   The law, called  or HB2, limits LGBT rights across the state.",
+            "James Esseks, director of the American Civil Liberties Union's LGBT  HIV Project, issued a statement after the adjournment pledging: \"The legislature may not be willing to undo their unconstitutional overreach and respect the rights of LGBT people, so we'll just have to see them in court. \"",
+            "Updated at 8:00 p. m. ET, The North Carolina Legislature began a special session on Wednesday morning to vote on the repeal of a controversial state law that limits civil rights protections for LGBT people, but the effort failed by day's end as the Legislature adjourned without passing any bill."
+        ],
+        "tf-idf score": [
+            1.3079257238844073,
+            0.5134758542926536,
+            1.366885653590333
+        ]
+    },
+    "0.23020447154532106-3-93": {
+        "average clique similarity": 0.23020447154532106,
+        "clique": [
+            "2-Lawmakers held a spe",
+            "4-    Later on Wednesd",
+            "3-After a series of at"
+        ],
+        "median tf-idf score": 0.8647706336521368,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Lawmakers held a special session to repeal House Bill 2 (HB2) which had spurred extensive economic boycotts and protests in the state. But the legislative body adjourned for the night without having voted on a proposal.",
+            "'   Later on Wednesday, an hour before state lawmakers gathered in   Raleigh to decide the fate of House Bill 2, the Charlotte council   voted to repeal its local ordinance in its entirety. ' '   Still, some state Republicans continue to oppose a repeal of   House Bill 2.",
+            "After a series of attempts to come to an agreement, the Senate voted down a bill to repeal the law and the House adjourned without acting. They are both scheduled to convene next in January."
+        ],
+        "tf-idf score": [
+            0.8647706336521368,
+            1.150217102232241,
+            0.4627474264363268
+        ]
+    },
+    "0.24067747989837648-3-213": {
+        "average clique similarity": 0.24067747989837648,
+        "clique": [
+            "3-     North Carolina ",
+            "1-Raleigh  North Carol",
+            "2-Plans to repeal the "
+        ],
+        "median tf-idf score": 0.9206441279777393,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "     North Carolina lawmakers failed Wednesday to repeal a law regulating transgender people's use of public restrooms, despite convening in a special legislative session for the express purpose of rescinding the controversial law.",
+            "Raleigh, North Carolina (CNN) North Carolina legislators failed to repeal the state's \"bathroom bill\" on Wednesday during a special session called for that purpose.",
+            "Plans to repeal the controversial North Carolina law limiting LGBT protections fell apart late on Wednesday, after hours of   wrangling."
+        ],
+        "tf-idf score": [
+            1.0454446506749497,
+            0.9206441279777393,
+            0.7580609239435337
+        ]
+    },
+    "0.24879425936843358-4-172": {
+        "average clique similarity": 0.24879425936843358,
+        "clique": [
+            "1-The Charlotte vote  ",
+            "2-Outgoing governorPat",
+            "4-One   provision mand",
+            "3- Reuters     Opponen"
+        ],
+        "median tf-idf score": 1.2319123898743607,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Charlotte vote, The state law was passed in response to a Charlotte city \"nondiscrimination ordinance\" that allowed transgender people to use bathrooms that correspond with their gender identity.",
+            "Outgoing governorPat McCrory had called the special session after the Charlotte city council gutted a local bill that had prompted the law in the first place  --   a nondiscrimination ordinance that expanded protections based on sexual orientation and gender identity in public accommodations.",
+            "One   provision mandates that transgender residents use the public   bathrooms that correspond with their biological sex rather than   their gender identity. ' \"   Republicans crafted the law in March to override a   nondiscrimination ordinance that protected LGBT residents in   Charlotte, the state's most populous city. \"",
+            "(Reuters)    Opponents of expanded transgender rights say that allowing explicit protections, particularly in the public sphere, not only breaks with   social mores when it comes to gender and bathrooms but could open the door to sexual predators gaining access to women's restrooms. Rights groups, however, contend that such arguments are rooted in offensive stereotypes and do not reflect the reality of most transgender people, who have already been quietly using their preferred bathrooms without incident."
+        ],
+        "tf-idf score": [
+            1.2576302025093238,
+            1.2061945772393978,
+            1.3216256443957288,
+            0.7804243050396601
+        ]
+    },
+    "0.2698479594315521-3-213": {
+        "average clique similarity": 0.2698479594315521,
+        "clique": [
+            "0-Charlotte officials ",
+            "3-The legislature adjo",
+            "2-HB2  known by some a"
+        ],
+        "median tf-idf score": 0.95632876251021,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Charlotte officials, meanwhile, are denying allegations that they misrepresented their actions. The state law in question is HB2  --   also called the \"bathroom bill\" because, among other things, it requires transgender people to use bathrooms that match the sex on their birth certificate.",
+            "The legislature adjourned Wednesday evening after a brutal day in which Republicans feuded over whether to fully or partially repeal the measure, and Democrats accused them of reneging on a pledge to eliminate completely the   \"bathroom bill,\" which requires people to use the public restroom that matches with the sex on their birth certificate regardless of their gender identity.",
+            "HB2, known by some as the \"bathroom bill\" because it required transgender individuals to use bathrooms that corresponded with the gender on their birth certificates, was passed nine months ago."
+        ],
+        "tf-idf score": [
+            1.0583529154935727,
+            0.95632876251021,
+            0.5353688484229371
+        ]
+    },
+    "0.27850166044871955-3-162": {
+        "average clique similarity": 0.27850166044871955,
+        "clique": [
+            "0-The City Council and",
+            "3- The Charlotte City ",
+            "4-McCrory   about repe"
+        ],
+        "median tf-idf score": 1.087339011367429,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The City Council and Cooper \"have now seriously harmed HB2 repeal efforts,\" the statement reads.",
+            "\"The Charlotte City Council acted in good faith to do everything it understood was needed to necessitate the state legislature repealing HB2,\" the statement said.",
+            "McCrory   about repealing the Charlotte City Council ordinance that caused   HB2,\" the statement read. \"They and they alone created this   problem and have now seriously harmed HB2 repeal efforts\". ' '   \"The HB2 blood is now stain soaked on their hands and theirs   alone."
+        ],
+        "tf-idf score": [
+            0.7055064930971623,
+            1.1198869969461502,
+            1.087339011367429
+        ]
+    },
+    "0.2995878060267226-3-213": {
+        "average clique similarity": 0.2995878060267226,
+        "clique": [
+            "0-Charlotte said it ha",
+            "1-But on Monday  the C",
+            "4-     The City Counci"
+        ],
+        "median tf-idf score": 0.8490802151022784,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Charlotte said it has carried out its side of the deal  --   but there are disputes about how the process worked, with Charlotte officials saying the City Council acted in good faith, and Republicans accusing them of lying.",
+            "But on Monday, the City Council there rescinded its nondiscrimination ordinance    apparently in exchange for a special session by the legislature to repeal HB2.",
+            "'   \"The City Council acted in good faith to do everything that it   understood was necessary to facilitate the repeal of HB2,\" the   city said in a statement. '"
+        ],
+        "tf-idf score": [
+            0.8717096273208386,
+            0.8372371557538619,
+            0.8490802151022784
+        ]
+    },
+    "0.32207085781694694-3-152": {
+        "average clique similarity": 0.32207085781694694,
+        "clique": [
+            "4-    In a strongly wo",
+            "0-Around 1 a  m  ET on",
+            "3-Dallas Woodhouse  ex"
+        ],
+        "median tf-idf score": 0.9986758916412781,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "NPR"
+        ],
+        "sentences": [
+            "\"   In a strongly worded statement released at 1 a. m. on Wednesday,   North Carolina's Republican Party accused the Charlotte council   and   Roy Cooper, a Democrat, of lying about   fulfilling their end of the bargain. \"",
+            "Around 1 a. m. ET on Wednesday, the executive director of the North Carolina Republican Party released a statement blasting Democrats in Charlotte, saying they \"lied directly to the people\".",
+            "Dallas Woodhouse, executive director of the North Carolina Republican Party, posted a statement on Facebook saying that Cooper and the Charlotte City Council \"lied to the public about a full repeal,\" and his group went on to call this a \"dishonest, disgraceful shame. \""
+        ],
+        "tf-idf score": [
+            0.9986758916412781,
+            0.9270280909511206,
+            1.273673489464521
+        ]
+    },
+    "0.35727929451856105-3-213": {
+        "average clique similarity": 0.35727929451856105,
+        "clique": [
+            "1-It would have impose",
+            "3-But its imposition o",
+            "2-During the debate on"
+        ],
+        "median tf-idf score": 0.7110504530345206,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "It would have imposed a   moratorium on any local government that wants to \"enact or amend an ordinance regulating employment practices or regulating public accommodations or access to restrooms, showers, or changing facilities\".",
+            "But its imposition of a temporary ban on any local government effort to \"enact or amend an ordinance\" regulating access to restrooms angered groups that had long opposed H B 2, which, in addition to its bathroom provision, also reversed local ordinances expanding protections for LGBT people. Gov.",
+            "During the debate on Wednesday, lawmakers had introduced a bill that would repeal the law, but would also place a   moratorium on local ordinances regulating employment practices, public accommodations or access to restrooms."
+        ],
+        "tf-idf score": [
+            0.45716277854336146,
+            0.7110504530345206,
+            0.7797175169845435
+        ]
+    }
+}

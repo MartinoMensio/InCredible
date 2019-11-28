@@ -1,0 +1,346 @@
+{
+    "0.16920287372768453-3-76": {
+        "average clique similarity": 0.16920287372768453,
+        "clique": [
+            "3-The Times reports   ",
+            "1-As of Aug  25  2016 ",
+            "0-His stepfather said "
+        ],
+        "median tf-idf score": 0.9625109647793012,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Breitbart"
+        ],
+        "sentences": [
+            "The Times reports: \"It's clear from the court docket that Cetin was struggling with emotional or mental health issues, and that the court, prosecutors office and defense team were trying to get him help.",
+            "As of Aug. 25, 2016, Cetin was in compliance with weekly sessions for mental health counseling. He complied with the alcohol assessment, according to court records, and he had a deferred prosecution review for a case involving a marijuana scheduled for 2018,\" CBS reports.",
+            "His stepfather said after Monday's court appearance that Cetin had unspecified mental health problems."
+        ],
+        "tf-idf score": [
+            0.9763374869159261,
+            0.9625109647793012,
+            0.756777420488908
+        ]
+    },
+    "0.1791357217392288-3-167": {
+        "average clique similarity": 0.1791357217392288,
+        "clique": [
+            "4-The    Turkish immig",
+            "5-Authorities said the",
+            "0-Cetin was arrested S"
+        ],
+        "median tf-idf score": 0.9008827261873342,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Guardian"
+        ],
+        "sentences": [
+            "The    Turkish immigrant remains in Skagit County Jail. 250+ tips, About 7 p. m. Friday night, police say Cetin opened fire in a Macy's store at the Cascade Mall in Burlington, located 65 miles north of Seattle.",
+            "Authorities said they have not ruled out terrorism as a motive in the shooting at the Cascade Mall in Burlington. Police arrested Cetin on Saturday evening after a nearly   manhunt. He was described as being \" \" when he was taken into custody.",
+            "Cetin was arrested Saturday, a day after the gunman opened fire in the department store's cosmetics department Friday night, killing a man, a teenage girl and three women."
+        ],
+        "tf-idf score": [
+            0.9008827261873342,
+            1.1441963640259372,
+            0.863612654268737
+        ]
+    },
+    "0.23892407877227373-3-30": {
+        "average clique similarity": 0.23892407877227373,
+        "clique": [
+            "3-The man suspected of",
+            "5-Cetin told detective",
+            "0-Court documents rele"
+        ],
+        "median tf-idf score": 0.9217733648336492,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "The man suspected of shooting five people in the cosmetics department of a Macy's store in Burlington, Wash. has confessed to the crimes, reports The Associated Press, citing court documents released by Skagit County Superior Court.",
+            "Cetin told detectives he was responsible for the mall murders, according to court documents released Monday.",
+            "Court documents released before the hearing said Cetin confessed to the slayings after his arrest, telling detectives who interviewed him that \"he did bring the rifle into Macy's and shot all five victims\"."
+        ],
+        "tf-idf score": [
+            0.7258116466411616,
+            0.9779543473770066,
+            0.9217733648336492
+        ]
+    },
+    "0.2402389854461548-3-175": {
+        "average clique similarity": 0.2402389854461548,
+        "clique": [
+            "2-Cetin is charged wit",
+            "3-Cetin has been charg",
+            "5-Charged with five co"
+        ],
+        "median tf-idf score": 0.670075148443266,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "Cetin is charged with 5 counts of 1st degree murder.",
+            "Cetin has been charged with five counts of   murder, NPR's Martin Kaste reports, and the documents charging him do not give a possible motive for the crime.",
+            "Charged with five counts of premeditated murder, Cetin was held on $2 million bail. He only spoke twice, both times to answer \"yes, your honor\" to a judge's question."
+        ],
+        "tf-idf score": [
+            0.435429971283338,
+            0.670075148443266,
+            0.8487691287226992
+        ]
+    },
+    "0.2681177049653853-3-146": {
+        "average clique similarity": 0.2681177049653853,
+        "clique": [
+            "0-Cathey said she bloc",
+            "1-A neighbor told the ",
+            "3-Amber Cathey  a form"
+        ],
+        "median tf-idf score": 0.7241155121342415,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Guardian"
+        ],
+        "sentences": [
+            "Cathey said she blocked him on Snapchat after he sent her a photo of his crotch. \"He was really creepy, rude and obnoxious,\" Cathey said. The two were in high school together as well, and Cathey said he acted the same way then.",
+            "A neighbor told the Associated Press that Cascade Mall shooter Arcan Cetin was so \"creepy, rude, and obnoxious\" that she kept a Taser near her front door, just in case he came calling.",
+            "Amber Cathey, a former high school classmate and neighbor in the apartment complex where Cetin lived in the town of Oak Harbor, told the AP she found him \"creepy, rude and obnoxious\"."
+        ],
+        "tf-idf score": [
+            0.6349492584647146,
+            0.9858497457931168,
+            0.7241155121342415
+        ]
+    },
+    "0.27613650669265-4-18": {
+        "average clique similarity": 0.27613650669265,
+        "clique": [
+            "0-The man accused of k",
+            "4-Arcan Cetin  the sus",
+            "2- Arcan Cetin  20  th",
+            "5-  The Turkish immigr"
+        ],
+        "median tf-idf score": 0.9302834747263766,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "The man accused of killing five people at a Macy's store in a Washington state shopping mall before leading authorities on a nearly   manhunt was charged Monday with five counts of   murder.",
+            "Arcan Cetin, the suspect facing five counts of murder in the   mall shooting, was arraigned Monday on the charges, and bail was set at $2 million.",
+            "'Arcan Cetin, 20, the suspected shooter in Friday's attack on a mall north of Seattle, was charged with five counts of murder in the first degree on Monday.",
+            "  The Turkish immigrant accused of gunning down five people at a Washington mall smirked at his first court appearance Monday even as reports revealed he had a blog with photo posts of ISIS leader Abu Bakr   and Iranian Supreme Leader Ayatollah Khamenei. Accused shooter Arcan Cetin, smirking slightly and wearing a blue, collared shirt, appeared for his first court appearance late Monday morning."
+        ],
+        "tf-idf score": [
+            0.818435501846185,
+            0.9178473534141763,
+            0.942719596038577,
+            1.215912315367503
+        ]
+    },
+    "0.27900531372043824-4-60": {
+        "average clique similarity": 0.27900531372043824,
+        "clique": [
+            "0-It gave no details o",
+            "1-Cetin also had a  st",
+            "5-No details were give",
+            "3- Island County Distr"
+        ],
+        "median tf-idf score": 0.8801114486498529,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "It gave no details on when the arrests took place or how the cases may have been resolved. In the assault case, Cetin was told by a judge last December that he was not to possess a gun, the newspaper reported.",
+            "Cetin also had a \"string of   with the law in recent years, including charges he assaulted his stepfather,\" as well as a drunk driving arrest. Due to his domestic violence case, a judge told him on December 29th that he should not possess a firearm.",
+            "No details were given on when the arrests took place or how the cases may have been resolved. In the assault case, Cetin was told by a judge last December that he was not to possess a gun, The Times reported. The Washington mall shooting comes amid a spate of mall attacks throughout the U S On Sept. 17, a    man stabbed 10 people at a Minnesota mall before being shot and killed by an   police officer.",
+            "\"Island County District Court records show that Cetin was told by a judge on Dec. 29 that he was not to possess a firearm."
+        ],
+        "tf-idf score": [
+            0.9001326078710248,
+            0.7998055588817871,
+            1.4033873045800345,
+            0.8600902894286812
+        ]
+    },
+    "0.29632560879498354-3-98": {
+        "average clique similarity": 0.29632560879498354,
+        "clique": [
+            "2-The newspaper also r",
+            "3-As The   reported  C",
+            "0-The newspaper said C"
+        ],
+        "median tf-idf score": 0.6867855697835313,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "The newspaper also reported that Cetin has been previously arrested for drunk driving.",
+            "As The   reported, Cetin was arrested on Saturday evening, about 24 hours after the shooting.",
+            "The newspaper said Cetin also was arrested on drunken driving charges."
+        ],
+        "tf-idf score": [
+            0.504943140237923,
+            0.6867855697835313,
+            0.7839900009169919
+        ]
+    },
+    "0.31563201341512187-3-175": {
+        "average clique similarity": 0.31563201341512187,
+        "clique": [
+            "3-According to the doc",
+            "1-The New York Times q",
+            "4-Prior to his appeara"
+        ],
+        "median tf-idf score": 0.893967652998331,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "CNN"
+        ],
+        "sentences": [
+            "According to the documents,    Arcan Cetin told detectives who interviewed him that \"he did bring the rifle into Macy's and shot all 5 victims,\" reports the wire service.",
+            "The New York Times quoted another classmate, Uhlaine Finnigan, who called Cetin \"sexist\" and said he often slapped or grabbed girls on their buttocks. \"He did that to girls of all grades at the high school including my best friend and I, regardless of the blatant disgust from the girls and being told to stop,\" Finnigan said.",
+            "Prior to his appearance, CNN obtained an arrest warrant declaration from the Mount Vernon Police Department that said, \"During a post Miranda interview with detectives, Cetin said that it was him in the video and he did bring the rifle into Macy's and shot all 5 victims\"."
+        ],
+        "tf-idf score": [
+            0.8099582267319196,
+            0.893967652998331,
+            1.1857401720495815
+        ]
+    },
+    "0.3266380066780061-3-67": {
+        "average clique similarity": 0.3266380066780061,
+        "clique": [
+            "4-  He was  just kind ",
+            "0-Cetin s lawyer  Keit",
+            "2-According to police "
+        ],
+        "median tf-idf score": 0.7991969185348686,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"[He was] just kind of  \". Motive unclear, According to authorities, Cetin emigrated from Turkey and is a legal permanent resident of the United States. It's unclear when he moved to the United States.",
+            "Cetin's lawyer, Keith Tyne, did not speak with reporters. Cetin immigrated to the US from Turkey and is a legal permanent resident, officials said.",
+            "According to police, but not included in the warrant, Cetin is a \"legal, permanent resident\" of the US He was born in Turkey and immigrated to the US with his parents as a young child."
+        ],
+        "tf-idf score": [
+            0.7991969185348686,
+            0.6286061797661524,
+            0.8008162417783459
+        ]
+    },
+    "0.3429438909125592-3-110": {
+        "average clique similarity": 0.3429438909125592,
+        "clique": [
+            "3- However  Cetin s st",
+            "0-However  the stepfat",
+            "1-CBS News reports tha"
+        ],
+        "median tf-idf score": 0.8611146304110799,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "\"However, Cetin's stepfather urged the judge not to impose a   order, saying his stepson was 'going through a hard time' and that he couldn't help him with the order in place\".",
+            "However, the stepfather urged the judge not to impose a   order, saying his stepson was \"going through a hard time\". Police said they interviewed the suspect's former girlfriend, who has worked at a different Macy's.",
+            "CBS News reports that a formal   order was nevertheless entered for both of Cetin's parents, but KIRO says the judge granted a motion to cancel the   order the next day."
+        ],
+        "tf-idf score": [
+            0.8611146304110799,
+            0.8786235035351141,
+            0.8371611027467811
+        ]
+    },
+    "0.41167329712015105-3-32": {
+        "average clique similarity": 0.41167329712015105,
+        "clique": [
+            "5-A    legal U S resid",
+            "0-A Facebook account s",
+            "1-He once participated"
+        ],
+        "median tf-idf score": 0.8724743998272191,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "Breitbart"
+        ],
+        "sentences": [
+            "A    legal U S resident, Cetin appeared to have two blogs on Tumblr that linked to each other, and one of which linked to his Twitter account, according to The Associated Press. Aside from the posts featuring noted Islamists, Cetin's blogs also featured posts about serial killer Ted Bundy and the Area 51 test site.",
+            "A Facebook account showed he liked   sites. Cetin also appeared to have blogs on the site Tumblr that had not been updated in many months.",
+            "He once participated in paintball and said he \"can't wait for Halo 5,\" the   shooter video game. He also tweeted: \"Shout out to the ROTC peeps. \" A Facebook account showed he liked   sites. Cetin also appeared to have blogs on the site Tumblr that had not been updated in many months."
+        ],
+        "tf-idf score": [
+            0.8756454496084426,
+            0.5846282905391536,
+            0.8724743998272191
+        ]
+    },
+    "0.41439569505381085-3-89": {
+        "average clique similarity": 0.41439569505381085,
+        "clique": [
+            "0-Amber Cathey  21  li",
+            "3-She told the wire se",
+            "1- The neighbor     Am"
+        ],
+        "median tf-idf score": 0.7784265511715263,
+        "publications": [
+            "Breitbart",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Amber Cathey, 21, lived in an apartment next to Cetin for the past three months and said she was so frightened by him that she complained to apartment management and kept a stun gun handy.",
+            "She told the wire service she had complained to apartment management about Cetin, and blocked him on Snapchat after he sent her a photo of his crotch.",
+            "[The neighbor,    Amber Cathey, said she blocked Cetin on Snapchat after he sent her a photo of his crotch. She found him so frightening that she would walk a longer route to her nearby apartment to avoid him, if she saw his car in the parking lot."
+        ],
+        "tf-idf score": [
+            0.8891814101868053,
+            0.591330288139686,
+            0.7784265511715263
+        ]
+    },
+    "0.5344200634437289-3-9": {
+        "average clique similarity": 0.5344200634437289,
+        "clique": [
+            "5-Court records show C",
+            "0-The Seattle Times re",
+            "3-The Seattle Times re"
+        ],
+        "median tf-idf score": 0.9750950452245802,
+        "publications": [
+            "Fox News",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "Court records show Cetin had previously faced three charges of assaulting his stepfather, The Seattle Times reported. Cetin also was arrested on drunken driving charges.",
+            "The Seattle Times reported that court records showed Cetin faced three charges of assaulting his stepfather.",
+            "The Seattle Times reported court records include three   charges against Cetin in two different counties, and that the victim in those cases was his stepfather."
+        ],
+        "tf-idf score": [
+            0.9750950452245802,
+            0.733282761274363,
+            1.022656586057729
+        ]
+    }
+}

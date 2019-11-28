@@ -1,0 +1,782 @@
+{
+    "0.16328869937083632-3-429": {
+        "average clique similarity": 0.16328869937083632,
+        "clique": [
+            "3-By midday  the Natio",
+            "4-Flood warnings were ",
+            "1-Initial forecasts pr"
+        ],
+        "median tf-idf score": 0.7994311216481542,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "By midday, the National Hurricane Center had issued hurricane warnings from Cocoa Beach in Florida to Surf City in North Carolina.",
+            "Flood warnings were also issued across parts of Volusia, Brevard and Seminole counties.",
+            "Initial forecasts projected the storm would affect the southern section of the state hurricane warnings are now in effect for the entire South Carolina coastline as well as parts of North Carolina."
+        ],
+        "tf-idf score": [
+            0.7994311216481542,
+            0.15351909953177836,
+            0.8912119687165061
+        ]
+    },
+    "0.1653243203217827-3-110": {
+        "average clique similarity": 0.1653243203217827,
+        "clique": [
+            "0-Police in Pawleys Is",
+            "1- We hope for the bes",
+            "3- We are prepared for"
+        ],
+        "median tf-idf score": 0.3396414136258738,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Police in Pawleys Island asked residents who decided to stay in spite of the evacuation orders to sign a waiver and list their next of kin, according to CNN affiliate WBTW Are we prepared for a major hurricane?",
+            "\u201dWe hope for the best but we want to prepare for the worst\u201d.",
+            "\u201cWe are prepared for the back end of this,\u201d Curry said during a Friday morning briefing,  ."
+        ],
+        "tf-idf score": [
+            0.44611403194089944,
+            0.0722757859151667,
+            0.3396414136258738
+        ]
+    },
+    "0.16793100122026583-3-420": {
+        "average clique similarity": 0.16793100122026583,
+        "clique": [
+            "3-Two million people w",
+            "4- Reuters    Millions",
+            "1-As NPR reported yest"
+        ],
+        "median tf-idf score": 0.3746854855001475,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "Two million people were ordered to move inland to escape Matthew, but many did not heed the warnings, hunkering down instead and hoping for the best.",
+            "(Reuters)   Millions have been ordered to evacuate homes along the Southeast, and all along the coast many more stocked up on supplies and hunkered down as the storm approached.",
+            "As NPR reported yesterday, millions of people were ordered or advised to head inland as state governors issued strongly worded evacuation orders."
+        ],
+        "tf-idf score": [
+            0.3446900250388578,
+            0.48847630144145077,
+            0.3746854855001475
+        ]
+    },
+    "0.1716884486688516-3-435": {
+        "average clique similarity": 0.1716884486688516,
+        "clique": [
+            "1-Storm surge flooding",
+            "0-The hurricane center",
+            "2- The storm surge can"
+        ],
+        "median tf-idf score": 0.5541764281399406,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Storm surge flooding remains a threat even as the hurricane skirts the shore.",
+            "The hurricane center said a tide gauge reported storm surge of 4.",
+            "\u201cThe storm surge can move very quickly."
+        ],
+        "tf-idf score": [
+            0.5541764281399406,
+            0.8038109398611611,
+            0.3070456743077846
+        ]
+    },
+    "0.18330453926647783-3-71": {
+        "average clique similarity": 0.18330453926647783,
+        "clique": [
+            "2- Matthew  He said th",
+            "3-At one point it felt",
+            "4-While her death did "
+        ],
+        "median tf-idf score": 0.7203698307322657,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "#Matthew, He said that while Floridians were now being instructed to stay where they were, \u201cthere\u2019s still time left in place likes Georgia and South Carolina for you to get out.",
+            "At one point it felt like the windows were going to blow even though they all were covered with plywood,\u201d he said.",
+            "While her death did not appear directly due to the storm, officials said they considered it   because first responders were unable to get to the woman due to the hurricane."
+        ],
+        "tf-idf score": [
+            0.7203698307322657,
+            0.308786211023622,
+            0.7586757741572515
+        ]
+    },
+    "0.18448765364970962-3-301": {
+        "average clique similarity": 0.18448765364970962,
+        "clique": [
+            "4-Scott said that offi",
+            "1- We have been very f",
+            "3- If you re hoping it"
+        ],
+        "median tf-idf score": 0.6059875655673508,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Scott said that officials remained very concerned about storm surge.",
+            "\u201dWe have been very fortunate that Matthew\u2019s category 3 winds have remained a short distance offshore of the Florida Coast thus far,\u201d the National Hurricane Center says, \u201dbut this should not be a reason to let down our guard.",
+            "\u201cIf you\u2019re hoping it\u2019s is just going to pass far enough offshore that this isn\u2019t a problem anymore  \u2014   that is a very, very big mistake that you could make that could cost you your life,\u201d Knabb said."
+        ],
+        "tf-idf score": [
+            0.6059875655673508,
+            1.0366377577449954,
+            0.3802084086717544
+        ]
+    },
+    "0.19061708750526388-3-51": {
+        "average clique similarity": 0.19061708750526388,
+        "clique": [
+            "3-Dangerous waves and ",
+            "4-Nikki Haley  R  said",
+            "0-Meteorologists said "
+        ],
+        "median tf-idf score": 0.6821900487578485,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Dangerous waves and rip currents were expected with storm surges of 9 feet or more, officials said.",
+            "Nikki Haley (R) said that more than 300, 000 people had already evacuated in the state, and she said more evacuations were going to follow.",
+            "Meteorologists said storm surge was measured at more than 4 feet in some areas."
+        ],
+        "tf-idf score": [
+            0.6821900487578485,
+            0.45778188713400586,
+            0.6998862365039795
+        ]
+    },
+    "0.1939583223875058-3-36": {
+        "average clique similarity": 0.1939583223875058,
+        "clique": [
+            "0-A woman in northeast",
+            "4-Local reports said t",
+            "3-An unidentified    w"
+        ],
+        "median tf-idf score": 0.6322480681105694,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "A woman in northeast Florida died after a tree fell on her camper trailer, the Putnam County Sheriff\u2019s Office said.",
+            "Local reports said there was one   death early Friday, a woman who authorities said died from a heart attack in St. Lucie County overnight.",
+            "An unidentified    woman in St. Lucie County who suffered cardiac arrest died after she could not be reached by medical personnel whose operations had been suspended,  ."
+        ],
+        "tf-idf score": [
+            0.6322480681105694,
+            0.6532064336883575,
+            0.2456933355135609
+        ]
+    },
+    "0.2026461884075612-3-180": {
+        "average clique similarity": 0.2026461884075612,
+        "clique": [
+            "3- People should liste",
+            "4- Crisis deepens in H",
+            "0-Officials in some ar"
+        ],
+        "median tf-idf score": 0.24445226156160987,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cPeople should listen to their local officials.",
+            "[Crisis deepens in Haiti in aftermath of hurricane]   Obama again urged residents to listen to what local officials are saying, expressing concerns about areas in northern Florida and Georgia.",
+            "Officials in some areas are going door to door, urging people to leave."
+        ],
+        "tf-idf score": [
+            0.1530219341756091,
+            0.7290325758257232,
+            0.24445226156160987
+        ]
+    },
+    "0.20577512939916898-3-509": {
+        "average clique similarity": 0.20577512939916898,
+        "clique": [
+            "4- Hurricane Matthew r",
+            "0-1 million customers ",
+            "2-Approximately 400  0"
+        ],
+        "median tf-idf score": 0.2743372768719978,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "[Hurricane Matthew remains a dangerous and destructive Category 3 storm]   About 600, 000 people were without power Friday morning, Scott said, warning that this number would likely rise.",
+            "1 million customers in Florida were without power.",
+            "Approximately 400, 000 across the state are without power."
+        ],
+        "tf-idf score": [
+            1.1501301182702466,
+            0.2743372768719978,
+            0.16711811742512836
+        ]
+    },
+    "0.2093201833280288-3-509": {
+        "average clique similarity": 0.2093201833280288,
+        "clique": [
+            "2-   Jon Passantino  M",
+            "1-The Category 3 storm",
+            "3-More than 22  000 pe"
+        ],
+        "median tf-idf score": 0.5788849484435714,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u2014  Jon Passantino, More than 1 million homes remained without power, but utility crews had restored service to 400, 000 others as they moved through neighborhoods and followed the storm north.",
+            "The Category 3 storm, even at a distance, has had gusts on land of more than 100 mph, causing power outages for more than 1 million customers as of 3 p. m. ET, according to the office of Florida Gov.",
+            "More than 22, 000 people hunkered down in shelters as the storm trudged north."
+        ],
+        "tf-idf score": [
+            0.5788849484435714,
+            0.8513006028143356,
+            0.41767271594584005
+        ]
+    },
+    "0.21302352286826975-3-65": {
+        "average clique similarity": 0.21302352286826975,
+        "clique": [
+            "4-The National Hurrica",
+            "3-After Florida  forec",
+            "0-Late Friday  Matthew"
+        ],
+        "median tf-idf score": 1.2207967293911786,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The National Hurricane Center reported that the hurricane\u2019s center was \u201chugging the coast of Central Florida\u201d  \u2014   moving   at 12 mph  \u2014   as it took aim at the northern part of the state and then onto Georgia and South Carolina.",
+            "After Florida, forecasters said Matthew would probably hug the coast of Georgia and South Carolina over the weekend before moving out to sea  \u2014   perhaps even looping back toward Florida in the middle of next week as a weakened tropical storm.",
+            "Late Friday, Matthew was hovering off the coast of Georgia and headed toward South Carolina, where officials issued warnings about the possibility of treacherous storm surge and up to 15 inches of rain."
+        ],
+        "tf-idf score": [
+            1.2207967293911786,
+            1.243086732617337,
+            1.1719568945472696
+        ]
+    },
+    "0.21327236549750586-3-148": {
+        "average clique similarity": 0.21327236549750586,
+        "clique": [
+            "0-Nikki Haley warned r",
+            "4-warned residents to ",
+            "3-In Jacksonville  the"
+        ],
+        "median tf-idf score": 0.3980068841316757,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Nikki Haley warned residents who didn\u2019t evacuate to go to a shelter.",
+            "warned residents to be prepared for flooding and storm surge from Hurricane Matthew.",
+            "In Jacksonville, the mayor warned that authorities would not be able to help stranded residents during the worst of the storm."
+        ],
+        "tf-idf score": [
+            0.11936148499249635,
+            0.7015198064728361,
+            0.3980068841316757
+        ]
+    },
+    "0.21505664104680491-3-311": {
+        "average clique similarity": 0.21505664104680491,
+        "clique": [
+            "0-  CNN  Floridians al",
+            "4-         ORMOND BEAC",
+            "2- What We Know So Far"
+        ],
+        "median tf-idf score": 1.536903484953123,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            " (CNN) Floridians along the Atlantic coast were coping Friday with rising water as Hurricane Matthew drenched the state with rain and as strong winds pushed waves over beaches.",
+            "         ORMOND BEACH, Fla.  \u2014   Hurricane Matthew churned along Florida\u2019s Atlantic coast Friday, looking increasingly like its center would remain just offshore as the storm battered the state with punishing rain,   sea surges and destructive wind gusts topping 100 mph.",
+            "\u2019What We Know So Far\u2019 \u2019Hurricane Matthew making itself felt in South Carolina.\u2019 \u2019Two more   deaths in Florida bring toll to 4\u2019 \u2019Second death reported in Florida from Hurricane Matthew\u2019 \u2019Florida governor says progress is being made in restoring infrastructure\u2019 \u2019First   death reported in Florida as Matthew rakes Atlantic coast\u2019 \u2019Matthew weakens to Category 2 storm off northern Florida coast\u2019 \u2019More than 1 million without power as Matthew pounds Florida\u2019 \u2019Here\u2019s the National Hurricane Center\u2019s projections as of 11 am local time:\u2019 \u2019Hillary Clinton just issued this statement on the hurricane:\u2019 \u2019These government \u201churricane hunters\u201d flew right into the eye of the storm:\u2019 \u2019Obama urges residents to heed to state and local officials for hurricane updates\u2019 \u2019Director of National Hurricane Center urges Georgia and South Carolina residents to evacuate\u2019 \u2019Satellite imagery shows Matthew \u201chugging\u201d the Florida coastline\u2019 \u2019Videos show Matthew ripping off a roof in the Bahamas  \u2026    \u2019 \u2019  \u2026    and the storm passing by Cocoa Beach on Florida\u2019s coast  \u2026    \u2019 \u2019  \u2026    and the impact on power lines in Merritt Island, Florida.\u2019 \u2019Florida governor\u2019s biggest concern is storm surging in the middle of the state\u2019]   winds are moving onshore at Hilton Head and Pritchards Island, South Carolina, the National Hurricane Center reported."
+        ],
+        "tf-idf score": [
+            0.8777560718777316,
+            1.536903484953123,
+            2.5131891586440136
+        ]
+    },
+    "0.2196127966061864-3-509": {
+        "average clique similarity": 0.2196127966061864,
+        "clique": [
+            "4-The chain said Frida",
+            "0-Reports from the sto",
+            "3- I emphasize this is"
+        ],
+        "median tf-idf score": 0.8630745942283717,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "The chain said Friday it had more than two dozen locations closed from Florida to South Carolina.",
+            "Reports from the storm\u2019s path, Georgia, South Carolina and North Carolina, As northeastern Florida braced for impact, coastal communities in Georgia, South Carolina and North Carolina also were on notice.",
+            "\u201cI emphasize this is still a really dangerous hurricane,\u201d said Obama, who had declared a state of emergency for Florida, Georgia and South Carolina."
+        ],
+        "tf-idf score": [
+            0.6427212869166329,
+            0.8630745942283717,
+            1.0287168197200747
+        ]
+    },
+    "0.2216836099873337-3-291": {
+        "average clique similarity": 0.2216836099873337,
+        "clique": [
+            "2-But as you know  jus",
+            "1-Throughout that area",
+            "3- I think the bigger "
+        ],
+        "median tf-idf score": 0.9812431668802153,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "But as you know, just the hurricane force winds, we\u2019re gonna see a lot of storm surge,\u201d he said, adding that residents in the Jacksonville area still had about an hour to evacuate.",
+            "Throughout that area, the National Hurricane Center warns of a dangerous storm surge and potentially   inundation levels, in addition to the risk of   winds.",
+            "\u201cI think the bigger concern at this point is not just   winds, but storm surge,\u201d Obama said in the Oval Office, stressing the threat to the Jacksonville area in northern Florida and all the way to Georgia."
+        ],
+        "tf-idf score": [
+            0.9812431668802153,
+            0.8724908157736537,
+            1.1291086510058022
+        ]
+    },
+    "0.22169599840552803-3-509": {
+        "average clique similarity": 0.22169599840552803,
+        "clique": [
+            "4-As Hurricane Matthew",
+            "3-Hurricane Matthew sc",
+            "0-The Category 2 hurri"
+        ],
+        "median tf-idf score": 0.9846275657566249,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "As Hurricane Matthew skirts around the Florida coast, devastating wind gusts are already pummeling residents up and down the state.",
+            "Hurricane Matthew scraped by Florida\u2019s Atlantic coast Friday, unleashing   winds that left about 600, 000 homes without power and claimed at least one   fatality as it bore up the coast on an uncertain path.",
+            "The Category 2 hurricane, while losing some of its wind speed, left more than 1 million people without power in Florida as it spent the day plowing north just off the state\u2019s east coast."
+        ],
+        "tf-idf score": [
+            0.8731488847406333,
+            0.9905129764642433,
+            0.9846275657566249
+        ]
+    },
+    "0.22519113511466865-4-509": {
+        "average clique similarity": 0.22519113511466865,
+        "clique": [
+            "3-Officials stressed t",
+            "0- The combination of ",
+            "2-      And to the peo",
+            "1-The AP notes that ac"
+        ],
+        "median tf-idf score": 1.0892561359378914,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "Officials stressed that the danger was far from over, though, with hundreds of miles of shoreline areas in Florida, Georgia and South Carolina still under threat of pummeling rain and dangerous storm surges.",
+            "\u201dThe combination of a dangerous storm surge, the tide and large and destructive waves will cause normally dry areas near the coast to be flooded by rising waters moving inland from the shoreline,\u201d the National Hurricane Center said.",
+            "\u2026     And to the people of Florida and the Southeast, and everyone in the eye of the storm: Stay safe, and know that America is with you.",
+            "The AP notes that according to forecasters, rain and storm surge may be more dangerous than the   wind speeds at the center of the storm: \u201dThey said the major threat to the Southeast would not be the winds  \u2014   which newer buildings can withstand  \u2014   but the massive surge of seawater that could wash over coastal communities\u201d."
+        ],
+        "tf-idf score": [
+            1.1504589361141861,
+            1.2582283938552852,
+            0.5493802074979721,
+            1.0280533357615966
+        ]
+    },
+    "0.22863977653965353-3-509": {
+        "average clique similarity": 0.22863977653965353,
+        "clique": [
+            "1-The storm s highest ",
+            "2-As of 4 pm ET  Matth",
+            "0-It s not as if Matth"
+        ],
+        "median tf-idf score": 0.416834307102581,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "The storm\u2019s highest sustained winds are 105 mph.",
+            "As of 4 pm ET, Matthew was packing maximum sustained winds of 115 mph.",
+            "It\u2019s not as if Matthew    with winds of 105 mph    won\u2019t cause further damage with its powerful winds."
+        ],
+        "tf-idf score": [
+            0.416834307102581,
+            0.47230112882155806,
+            0.3627932961941708
+        ]
+    },
+    "0.2288191871899327-3-73": {
+        "average clique similarity": 0.2288191871899327,
+        "clique": [
+            "4-South Carolina Gov ",
+            "0-Impact Your World  H",
+            "1-On Saturday  Hurrica"
+        ],
+        "median tf-idf score": 0.6772619496437933,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "South Carolina Gov.",
+            "Impact Your World: How to help, South Carolina, \u2022 Four counties and one city in South Carolina will be under nighttime curfews until further notice, said state Emergency Management Division spokesman Derrec Becker.",
+            "On Saturday, Hurricane Matthew will pass parallel to the South Carolina coast."
+        ],
+        "tf-idf score": [
+            0.22799280124469373,
+            0.7393029310084606,
+            0.6772619496437933
+        ]
+    },
+    "0.23454896866566158-4-451": {
+        "average clique similarity": 0.23454896866566158,
+        "clique": [
+            "1-Hurricane Matthew ki",
+            "0-After killing hundre",
+            "3-The Category 3 storm",
+            "4-Matthew roared acros"
+        ],
+        "median tf-idf score": 0.4930723977673079,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Hurricane Matthew killed hundreds of people in the Caribbean  \u2014   mostly in Haiti, where the full extent of the devastation is still being evaluated.",
+            "After killing hundreds in Haiti and other Caribbean nations, Matthew\u2019s frightening power led to the deaths of four people in Florida.",
+            "The Category 3 storm killed at least 842 people in Haiti and left a trail of devastation that left tens of thousands homeless in the Caribbean nation before whipping the eastern coast of the Sunshine State into a maelstrom.",
+            "Matthew roared across the Caribbean before approaching the United States, and officials blamed it for at least 300 deaths in Haiti, where some reports estimated a far greater toll."
+        ],
+        "tf-idf score": [
+            0.4587452965197173,
+            0.5273994990148985,
+            0.6688277821421769,
+            0.44434385195381504
+        ]
+    },
+    "0.23612962371743604-3-281": {
+        "average clique similarity": 0.23612962371743604,
+        "clique": [
+            "1-If you want a close ",
+            "2-    If I was where y",
+            "3- You need to leave  "
+        ],
+        "median tf-idf score": 0.36272624207932824,
+        "publications": [
+            "New York Post",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "If you want a close look at what, exactly, southern Florida managed to dodge, NOAA Hurricane Hunters flew a plane right through the eyewall and into the eye of the storm.",
+            "\u201d  \u201cIf I was where you were right now, I would leave,\u201d Knabb said.",
+            "\u201cYou need to leave, if you do not leave you will be on your own,\u201d Curry said."
+        ],
+        "tf-idf score": [
+            0.7618321730148188,
+            0.36272624207932824,
+            0.25255622362095725
+        ]
+    },
+    "0.2530468224232609-3-358": {
+        "average clique similarity": 0.2530468224232609,
+        "clique": [
+            "4-In the past hour  a ",
+            "2-At least one wind gu",
+            "0-Winds were already b"
+        ],
+        "median tf-idf score": 0.44986749774532336,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "In the past hour, a wind gust of 107 mph occurred at Cape Canaveral.",
+            "At least one wind gust of 61 mph (98 kph) was recorded at Beaufort, South Carolina.",
+            "Winds were already blustery in Hilton Head, South Carolina, with one gust measured at 63 mph."
+        ],
+        "tf-idf score": [
+            0.2441595487154371,
+            0.5326305325784019,
+            0.44986749774532336
+        ]
+    },
+    "0.25382633421496675-3-137": {
+        "average clique similarity": 0.25382633421496675,
+        "clique": [
+            "2- HurricaneMatthew  T",
+            "4- The storm has only ",
+            "3- This is not over "
+        ],
+        "median tf-idf score": 0.320747059007825,
+        "publications": [
+            "New York Post",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "#HurricaneMatthew, This is a serious storm, and it has already caused serious damage.",
+            "\u201cThe storm has only passed half our state, so this is not over,\u201d Florida Gov.",
+            "\u201cThis is not over."
+        ],
+        "tf-idf score": [
+            0.320747059007825,
+            0.5612249272405442,
+            0.0
+        ]
+    },
+    "0.2786396620626606-3-201": {
+        "average clique similarity": 0.2786396620626606,
+        "clique": [
+            "0-Rick Scott said ",
+            "3-Rick Scott said abou",
+            "4-    Rick Scott   FLG"
+        ],
+        "median tf-idf score": 0.42523860780146006,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Rick Scott said.",
+            "Rick Scott said about the possibility that Matthew could swing the other way.",
+            "\u2014   Rick Scott (@FLGovScott) October 7, 2016   Volusia County Manager Jim Dinneen said during a news conference that he was \u201choping and praying that the storm stays to the east,\u201d saying that movement of as little as five or 10 miles in the storm\u2019s path could make the difference between \u201cwind damage and catastrophic damage."
+        ],
+        "tf-idf score": [
+            0.25275051128054016,
+            0.42523860780146006,
+            1.0146475330475373
+        ]
+    },
+    "0.281258008680487-3-509": {
+        "average clique similarity": 0.281258008680487,
+        "clique": [
+            "0-What Florida looks l",
+            "1-Updated 11 50 p  m  ",
+            "3-National Hurricane C"
+        ],
+        "median tf-idf score": 0.9292142229941794,
+        "publications": [
+            "CNN",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "What Florida looks like now, \u201dJust because the center of circulation is offshore doesn\u2019t mean you can\u2019t be the center of action (along the coast),\u201d National Hurricane Center Director Rick Knabb said.",
+            "Updated 11:50 p. m. ET The eye of Hurricane Matthew is just off the coast of Georgia, pushing surge flooding into Florida and Georgia, according to the National Hurricane Center.",
+            "National Hurricane Center Director Rick Knabb also urged residents of the three states not to be complacent  \u2014   even if Matthew\u2019s eye remained over the ocean."
+        ],
+        "tf-idf score": [
+            0.9292142229941794,
+            1.0082731719463225,
+            0.6761670709712935
+        ]
+    },
+    "0.319959800298753-3-509": {
+        "average clique similarity": 0.319959800298753,
+        "clique": [
+            "0-The storm s center c",
+            "1-That eyewall      wh",
+            "2-Matthew is expected "
+        ],
+        "median tf-idf score": 1.067007477574945,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The storm\u2019s center could be near or over the coasts of Georgia and South Carolina on Saturday, the hurricane center said.",
+            "That eyewall  \u2014   where the strongest winds are  \u2014   has brushed against the Florida coast and will be traveling \u201dover or very near\u201d northeastern Florida and then Georgia later today.",
+            "Matthew is expected to continue moving near or over the coast of northeast Florida and Georgia tonight, and near or over the coast of South Carolina on Saturday, forecasters said."
+        ],
+        "tf-idf score": [
+            1.1219198273312303,
+            0.6835467936936686,
+            1.067007477574945
+        ]
+    },
+    "0.3462538322340204-4-509": {
+        "average clique similarity": 0.3462538322340204,
+        "clique": [
+            "1-Our original post  H",
+            "0-It was moving north ",
+            "2-The storm was moving",
+            "3-The hurricane      w"
+        ],
+        "median tf-idf score": 0.6630642706226186,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "Our original post: Hurricane Matthew is traveling north along the Florida coastline with sustained winds of 120 mph and gusts up to 150 mph  \u2014   but the most powerful winds primarily stayed offshore, sparing the coast from the    damage.",
+            "It was moving north at 12 mph.",
+            "The storm was moving north at 12 mph.",
+            "The hurricane  \u2014   which was downgraded to a Category 3 overnight on the     scale  \u2014   moved northward along the Florida coast at 12 mph as its center, the eye, hung just offshore."
+        ],
+        "tf-idf score": [
+            1.0390646057794095,
+            0.2630260159799964,
+            0.4833919943426755,
+            0.8427365469025617
+        ]
+    },
+    "0.3882839562350149-3-15": {
+        "average clique similarity": 0.3882839562350149,
+        "clique": [
+            "0-  The National Weath",
+            "4-The National Weather",
+            "2-We ll have your back"
+        ],
+        "median tf-idf score": 0.3369866567181706,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u2022 The National Weather Service warned that some places hit by Matthew could be uninhabitable for \u201dweeks or months\u201d.",
+            "The National Weather Service warned that brutal winds could leave some places \u201cuninhabitable for weeks or months.",
+            "We\u2019ll have your back every step of the way  \u2014   today, and in the weeks and months to come."
+        ],
+        "tf-idf score": [
+            0.35556423072133436,
+            0.3369866567181706,
+            0.08690424572934866
+        ]
+    },
+    "0.40479611259275683-3-54": {
+        "average clique similarity": 0.40479611259275683,
+        "clique": [
+            "4- We can always repla",
+            "2-Storm surge can kill",
+            "3-We can always replac"
+        ],
+        "median tf-idf score": 0.047410751823171574,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cWe can always replace property.",
+            "Storm surge can kill.",
+            "We can always replace property,\u201d but not lives."
+        ],
+        "tf-idf score": [
+            0.02675116955567545,
+            0.3018653944904879,
+            0.047410751823171574
+        ]
+    },
+    "0.4993181431344998-3-368": {
+        "average clique similarity": 0.4993181431344998,
+        "clique": [
+            "1-The storm is expecte",
+            "2-In a localized state",
+            "0-Matthew is expected "
+        ],
+        "median tf-idf score": 0.6323789015748694,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "The storm is expected to move near or over the coast of South Carolina Saturday.",
+            "In a localized statement, the NHC said: \u201cThe centre of the Category 2 hurricane should be   the Charleston County Coast around 8 a. m. Saturday   \u2026     then is expected to move northeast to a position off the southeast North Carolina coast by Saturday evening.",
+            "Matthew is expected to arrive near or over the shores of South Carolina by Saturday and over to North Carolina by Saturday evening."
+        ],
+        "tf-idf score": [
+            0.6323789015748694,
+            0.9229980537065141,
+            0.5281490537554152
+        ]
+    },
+    "0.5285082539885527-3-509": {
+        "average clique similarity": 0.5285082539885527,
+        "clique": [
+            "0-North Carolina    Go",
+            "2-gov for tips on stay",
+            "3-North Carolina Gov "
+        ],
+        "median tf-idf score": 0.21335386970381565,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "North Carolina, \u2022 Gov.",
+            "gov for tips on staying safe.",
+            "North Carolina Gov."
+        ],
+        "tf-idf score": [
+            0.21335386970381565,
+            0.05184231448184881,
+            0.21335386970381565
+        ]
+    }
+}

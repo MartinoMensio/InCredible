@@ -1,0 +1,630 @@
+{
+    "0.16469945676405603-3-108": {
+        "average clique similarity": 0.16469945676405603,
+        "clique": [
+            "1- A commuter train pl",
+            "0-Images posted on soc",
+            "4-Follow Breitbart New"
+        ],
+        "median tf-idf score": 0.8975583387734184,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            " A commuter train plowed into a station in New Jersey at the height of Thursday's morning rush hour, killing one person on the platform and injuring more than 100 as it brought down part of the roof and scattered debris over the concourse.",
+            "Images posted on social media showed severe structural damage at the station, where part of the roof appeared to have collapsed.",
+            "Follow Breitbart News for the latest media updates on the commuter train that crashed into a station in Hoboken, New Jersey."
+        ],
+        "tf-idf score": [
+            1.003507246501555,
+            0.2700393869351942,
+            0.8975583387734184
+        ]
+    },
+    "0.17462379097145256-3-113": {
+        "average clique similarity": 0.17462379097145256,
+        "clique": [
+            "2- There was a a big c",
+            "3-Afterward   there we",
+            "4-It apparently knocke"
+        ],
+        "median tf-idf score": 0.6350503921439291,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"There was a a big crowd of people with their phones out taking photos, so I knew something was up,\" she said.",
+            "Afterward, \"there were people climbing out of windows, there was water coming down from the top of the ceiling and there did appear to be folks who were unconscious\".",
+            "It apparently knocked out pillars as it ground to a halt in the covered waiting area, collapsing a section of the roof onto the first car. \"All of a sudden, there was an abrupt stop and a big jolt that threw people out of their seats."
+        ],
+        "tf-idf score": [
+            0.6401917186358763,
+            0.4566711213978238,
+            0.6350503921439291
+        ]
+    },
+    "0.17496322957846733-3-251": {
+        "average clique similarity": 0.17496322957846733,
+        "clique": [
+            "3-The PATH station at ",
+            "0-A New Jersey Transit",
+            "2-The crash occurred w"
+        ],
+        "median tf-idf score": 1.0938702851104192,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "The PATH station at Hoboken is structurally sound, Christie said Thursday.",
+            "A New Jersey Transit worker at the station said he heard an   sound as the lead car, coming into the station fast, slammed into the bumper block, a device meant to halt trains that pass their stops.",
+            "The crash occurred when Train No. 1614 came into the station at high rate of speed, burst through the barriers, and breaking into the interior wall of Hoboken terminal, Christie said."
+        ],
+        "tf-idf score": [
+            0.5627752083699914,
+            1.1805391000582404,
+            1.0938702851104192
+        ]
+    },
+    "0.17819085521558994-3-174": {
+        "average clique similarity": 0.17819085521558994,
+        "clique": [
+            "4-Gov  Chris Christie ",
+            "1-Linda Albelli  a    ",
+            "0-Contractors will hav"
+        ],
+        "median tf-idf score": 0.8079394508010779,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Reuters"
+        ],
+        "sentences": [
+            "Gov. Chris Christie says she had been standing on the platform when the train came barreling in and she was struck by debris.",
+            "Linda Albelli, a    from Closter, New Jersey, was sitting in one of the train's rear cars and described how she had felt something was wrong a moment before the impact.",
+            "Contractors will have to remove debris from the top of the train before investigators can get into the passenger cars, she said."
+        ],
+        "tf-idf score": [
+            0.8079394508010779,
+            0.9631932435321074,
+            0.6775943220586597
+        ]
+    },
+    "0.18267372899686304-3-88": {
+        "average clique similarity": 0.18267372899686304,
+        "clique": [
+            "3-said later Thursday ",
+            "0- I saw an old man  t",
+            "1-It was on track five"
+        ],
+        "median tf-idf score": 0.8455115092208955,
+        "publications": [
+            "Reuters",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "said later Thursday afternoon that it was now safe to recover one of the train's event recorders from the locomotive. \"Once we pull that we'll have more information about the speed, and braking, and other issues,\" she told reporters.",
+            "\"I saw an old man, too, who had head injuries, trying to get out of the first car\". Rail service suspended,   said the NTSB believes it can recover one of the train's two event recorders but it will take some time to get to one in the front car because the building is too dangerous to go into.",
+            "It was on track five when it hit the Hoboken terminal building at about 08:45 a. m. EDT White House spokesman Josh Earnest told reporters that the Obama administration was not aware of any evidence linking the crash to terrorism, but that it was too soon to rule that out."
+        ],
+        "tf-idf score": [
+            1.0343490836126308,
+            0.8455115092208955,
+            0.777763305364866
+        ]
+    },
+    "0.18584978404382638-3-310": {
+        "average clique similarity": 0.18584978404382638,
+        "clique": [
+            "4-People pulled chunks",
+            "3-Then the train came ",
+            "0-   and when the trai"
+        ],
+        "median tf-idf score": 0.7016011989234395,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "People pulled chunks of concrete off pinned and bleeding victims, passengers kicked out windows and crawled to safety, and cries and screams could be heard in the wreckage at the station just across the Hudson River from New York City as emergency workers tried to reach trapped victims.",
+            "Then the train came to a halt against the wall separating the tracks from the interior of the terminal, and passengers began to crawl out of the mangled train.",
+            ".. and when the train came to a stop, I could see the parts of the roof on the first car and some of the debris next to me,\" Shah said."
+        ],
+        "tf-idf score": [
+            0.7016011989234395,
+            0.5129627007453917,
+            0.7065705553278707
+        ]
+    },
+    "0.20285081543670028-3-125": {
+        "average clique similarity": 0.20285081543670028,
+        "clique": [
+            "3-Debris flew around t",
+            "4-She said the impact ",
+            "0-He was wearing a sui"
+        ],
+        "median tf-idf score": 0.4657390325179086,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Debris flew around the platform. Passengers inside the train were thrown against seats or to the ground.",
+            "She said the impact hurled passengers against her.",
+            "He was wearing a suit and blood was just gushing\". 'It kept going and going' Shah, one of the passengers, said people were thrown around upon impact."
+        ],
+        "tf-idf score": [
+            0.4657390325179086,
+            0.2764274658820917,
+            0.7418036218052508
+        ]
+    },
+    "0.20468788868033405-3-5": {
+        "average clique similarity": 0.20468788868033405,
+        "clique": [
+            "1- I thought to myself",
+            "0-Andrew Cuomo caution",
+            "4-The deadline is now "
+        ],
+        "median tf-idf score": 0.7402057347263724,
+        "publications": [
+            "Breitbart",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "\"I thought to myself, 'Oh my God, he's not slowing up, and this is where we're usually stop,'\" Albelli said. \"'We're going too fast,' and with that there was this tremendous crash\".",
+            "Andrew Cuomo cautioned people to wait until investigations are completed before concluding PTC would have prevented this incident. \"That's speculation that can only be based upon the cause of the accident, and until we know the cause of the accident were not going to be able to know what steps we can take in the future to avoid an accident like this,\" Christie said.",
+            "The deadline is now the end of 2018. \"While we are just beginning to learn the cause of this crash, it appears that once again an accident was not prevented because the trains our commuters were riding lacked positive train control,\" said Rep. Sean Patrick Maloney,  . Y \"The longer we fail to prioritize investing in rail safety technology, the more innocent lives we put in jeopardy. \""
+        ],
+        "tf-idf score": [
+            0.7402057347263724,
+            0.6678935243833006,
+            1.1853802425963103
+        ]
+    },
+    "0.21403473156054045-3-96": {
+        "average clique similarity": 0.21403473156054045,
+        "clique": [
+            "1-One person died on t",
+            "4-https          CNN I",
+            "2- Thankfully all I go"
+        ],
+        "median tf-idf score": 1.1790297720824259,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Breitbart"
+        ],
+        "sentences": [
+            "One person died on the platform after being struck by debris from the crash, and 108 people were injured, New Jersey Governor Chris Christie said.",
+            "https:  . --   CNN International (@cnni) September 29, 2016,  HOBOKEN, N J (AP)  --   The Latest on the commuter train that crashed into a station in New Jersey (all times local): 5:15 p. m. The only person who died in the New Jersey train crash has been identified as a    woman from Hoboken.",
+            "\"Thankfully all I got was a crack to my head,\" the person said.' ' Videos and photos from the scene showed the train and the wreckage in the station caused by the crash.'"
+        ],
+        "tf-idf score": [
+            0.8751558526656742,
+            1.1790297720824259,
+            1.2085954459505455
+        ]
+    },
+    "0.2160052056402161-3-59": {
+        "average clique similarity": 0.2160052056402161,
+        "clique": [
+            "2- The silver lining i",
+            "3- Whether or not it i",
+            "4-of them were hospita"
+        ],
+        "median tf-idf score": 0.8872960770963565,
+        "publications": [
+            "Buzzfeed News",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "\"The silver lining is that there was only one fatality thus far, as the destruction is significant and the power of the train coming in is devastating in its impact,\" he said.",
+            "\"Whether or not it is involved in this accident, that is definitely one of the things we will look at carefully\". Cuomo addressed the question of PTC at the news conference Thursday night, noting it was not yet clear why the train was moving at high speed.",
+            "of them were hospitalized, some in serious condition, with injuries that included broken bones, bumps and gashes. \"The train came in at much too high rate of speed, and the question is: 'Why is that? '\""
+        ],
+        "tf-idf score": [
+            0.9094770976139243,
+            0.8872960770963565,
+            0.4619615149205822
+        ]
+    },
+    "0.23829130387201633-3-111": {
+        "average clique similarity": 0.23829130387201633,
+        "clique": [
+            "3-NPR s Jeff Brady not",
+            "4-None of NJ Transit s",
+            "0-New Jersey Transit h"
+        ],
+        "median tf-idf score": 0.7441981624201229,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "NPR"
+        ],
+        "sentences": [
+            "NPR's Jeff Brady notes that Congress set a 2015 deadline for America's railroads to implement PTC That deadline was extended after industry complaints about cost and delays in approval for necessary radio towers. \"PTC has been one of our priorities  --   we know that it can prevent accidents,\"   said.",
+            "None of NJ Transit's trains are fully equipped with positive train control, a safety system designed to prevent accidents by automatically slowing or stopping trains that are going too fast. The industry is under government orders to install PTC, but the deadline has been repeatedly extended by regulators at the request of the railroads.",
+            "New Jersey Transit has not yet installed positive train control, although it does an older safety system. Congress originally required the newer safety system to be installed by the end of 2015, but extended the deadline to the end of 2018."
+        ],
+        "tf-idf score": [
+            0.7441981624201229,
+            0.7340194502283334,
+            0.77253598495694
+        ]
+    },
+    "0.242850963184757-3-164": {
+        "average clique similarity": 0.242850963184757,
+        "clique": [
+            "0- Now  looking back  ",
+            "4-Jamie   who was stan",
+            "3-He said he noticed t"
+        ],
+        "median tf-idf score": 0.6512647011743891,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "\"Now, looking back, I guess it didn't slow down. It definitely didn't slow down. There (were) no brakes.",
+            "Jamie   who was standing at a door between the first and second cars, said the train didn't slow down as it entered the station.",
+            "He said he noticed the train didn't seem to be slowing down as it approached the station, and he braced himself for impact."
+        ],
+        "tf-idf score": [
+            0.05177787663312825,
+            1.0089055182924855,
+            0.6512647011743891
+        ]
+    },
+    "0.2438763199115868-4-65": {
+        "average clique similarity": 0.2438763199115868,
+        "clique": [
+            "1-An investigation by ",
+            "3-There is no indicati",
+            "4-Andrew Cuomo said in",
+            "0-The crash comes five"
+        ],
+        "median tf-idf score": 0.5770864668811906,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "An investigation by the National Transportation Safety Board determined excessive speed was the main cause of the accident.",
+            "There is no indication of what may have caused the accident. The Federal Railroad Administration has investigators on site, NPR's David Schaper reports, while the National Transportation Safety Board is sending a \"go team\" to the site to investigate the cause of the crash.",
+            "Andrew Cuomo said investigators will determine whether the explanation was an equipment failure, an incapacitated engineer, or something else. The National Transportation Safety Board sent investigators.",
+            "The crash comes five years after more than 30 people were injured when a train overran its stop at the same station    which will be examined as investigators try to determine what caused Thursday's crash, said Bella   National Transportation Safety Board vice chairwoman."
+        ],
+        "tf-idf score": [
+            0.47793644633370075,
+            0.4108783480651894,
+            0.6762364874286805,
+            1.1323233340103571
+        ]
+    },
+    "0.2474061605041901-3-192": {
+        "average clique similarity": 0.2474061605041901,
+        "clique": [
+            "4-A crash at the same ",
+            "1-In May 2011  a Port ",
+            "0-It kept going and go"
+        ],
+        "median tf-idf score": 0.9128674182752499,
+        "publications": [
+            "CNN",
+            "Breitbart",
+            "Reuters"
+        ],
+        "sentences": [
+            "A crash at the same station on a PATH commuter train injured more than 30 people in 2011. The train crashed into bumpers at the end of the tracks on a Sunday morning.",
+            "In May 2011, a Port Authority of New York and New Jersey train crashed at Hoboken station, injuring more than 30 people when it hit a bumping post at the end of the track.",
+            "It kept going and going. At the end of it, it felt like eternity\". He saw people injured. \"There was a woman."
+        ],
+        "tf-idf score": [
+            0.9128674182752499,
+            1.10757875953732,
+            0.600284839098421
+        ]
+    },
+    "0.2514642693996755-3-310": {
+        "average clique similarity": 0.2514642693996755,
+        "clique": [
+            "4-The lights went out ",
+            "3-The train smashed in",
+            "1-Witnesses described "
+        ],
+        "median tf-idf score": 1.0652107618504658,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "The lights went out, and we heard a loud crashing noise  --   like an explosion  --   that turned out to be the roof of the terminal,\" said Ross Bauer, who was sitting in the third or fourth car when the train was pulling into the historic    station for its final stop.",
+            "The train smashed into the barriers at the end of the tracks, crashing through them and into the platform. It took out support beams holding up the ceiling of the   terminal, and the roof began to collapse.",
+            "Witnesses described terrifying scenes as the front of the train smashed through the track stop at high speed and into the Hoboken terminal, toppling support columns and creating chaos at one of the busiest transit hubs in the New York City area."
+        ],
+        "tf-idf score": [
+            1.2147147900338793,
+            0.5942502081157753,
+            1.0652107618504658
+        ]
+    },
+    "0.2518412034626954-3-15": {
+        "average clique similarity": 0.2518412034626954,
+        "clique": [
+            "0-of the NTSB  said pa",
+            "3-NTSB Vice Chairman B",
+            "4-Among other things  "
+        ],
+        "median tf-idf score": 0.7778993088065735,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "of the NTSB, said part of the focus of her agency's investigation will be on positive train control and whether it could have prevented the crash.",
+            "NTSB Vice Chairman Bella   said that among other things, the team will look into the possibility that the crash might have been prevented if positive train control, or PTC, were installed.",
+            "Among other things, they will want to know what the operator was doing before the crash and whether the person was distracted, said Bob Chipkevich, who formerly headed the NTSB train crash investigations section."
+        ],
+        "tf-idf score": [
+            0.7142186394219797,
+            0.7778993088065735,
+            1.0204391029766895
+        ]
+    },
+    "0.2586719215682541-3-310": {
+        "average clique similarity": 0.2586719215682541,
+        "clique": [
+            "4-NJ Transit service w",
+            "3-Meanwhile  New Jerse",
+            "0-New Jersey Transit t"
+        ],
+        "median tf-idf score": 0.6559807820632293,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "NJ Transit service was suspended in and out of Hoboken, all but assuring a difficult trip home for commuters.",
+            "Meanwhile, New Jersey Transit rail service in and out of Hoboken train station has been suspended indefinitely.",
+            "New Jersey Transit train service is suspended indefinitely, until the damage can be assessed and repaired."
+        ],
+        "tf-idf score": [
+            0.6098698140192161,
+            0.9203400267187752,
+            0.6559807820632293
+        ]
+    },
+    "0.2683784910506072-4-140": {
+        "average clique similarity": 0.2683784910506072,
+        "clique": [
+            "3-And it was going too",
+            "0-It was just going   ",
+            "1-Cuomo said it was ob",
+            "4-NJ Transit spokeswom"
+        ],
+        "median tf-idf score": 0.7420670090242242,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Reuters",
+            "Breitbart"
+        ],
+        "sentences": [
+            "And it was going too fast.",
+            "It was just going,\" Offengenden said.",
+            "Cuomo said it was obvious the train had come into the station too fast, but it was unclear why.",
+            "NJ Transit spokeswoman Jennifer Nelson said she didn't know how fast the train was going when it crashed through the barrier."
+        ],
+        "tf-idf score": [
+            0.34073380641657763,
+            0.5304675178285104,
+            0.9536665002199379,
+            1.0336567856735905
+        ]
+    },
+    "0.3107644332038617-3-225": {
+        "average clique similarity": 0.3107644332038617,
+        "clique": [
+            "0-Chris Christie said ",
+            "4-A woman standing on ",
+            "2-Christie told CNN th"
+        ],
+        "median tf-idf score": 0.9944107792750521,
+        "publications": [
+            "Buzzfeed News",
+            "CNN",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Chris Christie said the woman had been standing on the platform and was struck by debris.",
+            "A woman standing on the platform was killed by debris, and 108 others were injured, mostly on the train, Christie said.",
+            "Christie told CNN that 114 people were injured and that the train's engineer, who was also \"critically injured,\" had been released from the hospital and was cooperating with law enforcement officials in the investigation."
+        ],
+        "tf-idf score": [
+            0.6658333103720881,
+            0.9944107792750521,
+            1.0263652385200748
+        ]
+    },
+    "0.3275054051804677-4-310": {
+        "average clique similarity": 0.3275054051804677,
+        "clique": [
+            "1-The train s engineer",
+            "4-He was cooperating w",
+            "3-The engineer is coop",
+            "0-He was cooperating w"
+        ],
+        "median tf-idf score": 0.47553874815238617,
+        "publications": [
+            "Reuters",
+            "Breitbart",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "The train's engineer, or driver, was seriously injured and in a hospital, and was cooperating fully with investigators, Christie said. \"We have no indication that this is anything other than a tragic accident but .",
+            "He was cooperating with investigators, Gov.",
+            "The engineer is cooperating with authorities, he said.",
+            "He was cooperating with law enforcement officials, Christie said."
+        ],
+        "tf-idf score": [
+            1.058129840992165,
+            0.33526727438811865,
+            0.27381025268423576,
+            0.6158102219166537
+        ]
+    },
+    "0.3373633820720659-3-161": {
+        "average clique similarity": 0.3373633820720659,
+        "clique": [
+            "3-Hoboken Terminal is ",
+            "4-Many take ferries or",
+            "1-A major transit hub "
+        ],
+        "median tf-idf score": 0.9925895346760288,
+        "publications": [
+            "Breitbart",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Hoboken Terminal is a major commuter hub, connecting New Jersey Transit commuter rail to PATH trains into New York City.",
+            "Many take ferries or PATH commuter trains across the river to the city.",
+            "A major transit hub, the historic   Hoboken Station is served by NJ Transit commuter trains connecting much of New Jersey with the country's largest city, as well as the Port Authority     system known as PATH, a light rail service and ferry service to New York."
+        ],
+        "tf-idf score": [
+            0.9925895346760288,
+            0.42108749271148443,
+            1.2424342594648496
+        ]
+    },
+    "0.3419378850597072-5-175": {
+        "average clique similarity": 0.3419378850597072,
+        "clique": [
+            "0-Car s roof crushed d",
+            "4-The train had left S",
+            "3-The train that crash",
+            "1-Train  1614 was on t",
+            "2-The train  coming fr"
+        ],
+        "median tf-idf score": 0.8615008767579467,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Breitbart",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Car's roof crushed down to the seats, The train    which the NTSB said had an engine pushing three passenger cars    was at the end of a   route that had begun more than an hour earlier in Spring Valley, New York.",
+            "The train had left Spring Valley, New York, at 7:23 a. m. and crashed at 8:45 a. m. authorities said.",
+            "The train that crashed originated in Spring Valley, N Y and \"collided with the platform\" at Hoboken Terminal at around 8:45 a. m. ET, Cuomo said earlier in a statement.",
+            "Train #1614 was on the Pascack Valley line, which goes through Northern Bergen County, and had originated at Spring Valley, New York.",
+            "The train, coming from Spring Valley in New York, was on the Pascack Valley Line."
+        ],
+        "tf-idf score": [
+            1.2927234783752575,
+            0.8173334444179988,
+            0.8547558068904862,
+            0.864367920613605,
+            0.8615008767579467
+        ]
+    },
+    "0.34985571067457943-4-61": {
+        "average clique similarity": 0.34985571067457943,
+        "clique": [
+            "2-At least three peopl",
+            "0-Christie and New Yor",
+            "4-Christie said  New Y",
+            "3-Andrew Cuomo of New "
+        ],
+        "median tf-idf score": 0.4821568433873981,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "At least three people were in critical condition and eight people were in serious condition, an official from Jersey City Medical Center told reporters. There were also 40   at the center. \"We don't have any reason to believe there will be any more fatalities,\" Christie added. New York Gov. Andrew Cuomo added that the death toll could have been higher.",
+            "Christie and New York Gov.",
+            "Christie said. New York Gov.",
+            "Andrew Cuomo of New York said Thursday."
+        ],
+        "tf-idf score": [
+            0.8300468802834161,
+            0.2792323900109923,
+            0.4789308202586223,
+            0.4853828665161739
+        ]
+    },
+    "0.43694137564618263-3-38": {
+        "average clique similarity": 0.43694137564618263,
+        "clique": [
+            "3-The commuter train w",
+            "0-At the height of mor",
+            "2-  A commuter train c"
+        ],
+        "median tf-idf score": 1.0766792483872094,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The commuter train was approaching Hoboken Terminal in New Jersey, a crucial commuter hub for the New York City region, during rush hour Thursday morning.",
+            "At the height of morning rush hour, a New Jersey commuter train packed with passengers and traveling way too fast crashed into Hoboken Terminal, killing a woman waiting on the platform and injuring more than 100 others.",
+            "' A commuter train crashed into a New Jersey Transit station in Hoboken during rush hour Thursday, killing one person and injuring more than 100 others.'"
+        ],
+        "tf-idf score": [
+            1.2284477789008337,
+            1.0766792483872094,
+            1.0560470113165514
+        ]
+    },
+    "0.470412624550072-4-128": {
+        "average clique similarity": 0.470412624550072,
+        "clique": [
+            "4-The state medical ex",
+            "2-  Eyewitnesses told ",
+            "3-She was later identi",
+            "0-Fabiola Bittar de Kr"
+        ],
+        "median tf-idf score": 0.6181078618061833,
+        "publications": [
+            "NPR",
+            "Breitbart",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "The state medical examiner's office said Thursday that the victim is Fabiola Bittar de Kroon.",
+            "' Eyewitnesses told BuzzFeed News they saw injured people lying on the ground and that the roof had partially collapsed. '] She was later identified as    Fabiola Bittar de Kroon. She had moved to the area from Brazil earlier this year, the Associated Press reported.",
+            "She was later identified by the New Jersey State Medical Examiner's Office as    Fabiola Bittar de Kroon, of Hoboken.",
+            "Fabiola Bittar de Kroon, 34, of Hoboken, was killed, the State Medical Examiner's office announced. Gov."
+        ],
+        "tf-idf score": [
+            0.3345768133847104,
+            0.8498840095658282,
+            0.7296615541633185,
+            0.5065541694490482
+        ]
+    }
+}

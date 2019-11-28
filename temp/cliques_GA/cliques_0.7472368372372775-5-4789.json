@@ -1,0 +1,366 @@
+{
+    "0.1839081352676477-3-180": {
+        "average clique similarity": 0.1839081352676477,
+        "clique": [
+            "2-China sees the islan",
+            "3-China considers Taiw",
+            "4-The United States ma"
+        ],
+        "median tf-idf score": 0.6543644606123387,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "China sees the island nation as a breakaway province, and considers its   government illegitimate. The Chinese Foreign Ministry said Saturday that it had lodged \"stern representations\" with the \"relevant U S side\"  --   without saying whether that meant the U S State Department or the Trump transition team.",
+            "China considers Taiwan a wayward province and has never renounced the use of force to bring it under its control.",
+            "The United States maintains a military relationship with Taiwan, which Beijing considers a province, but closed its embassy there in 1979."
+        ],
+        "tf-idf score": [
+            1.2400519925596574,
+            0.6543644606123387,
+            0.5501290104015659
+        ]
+    },
+    "0.20157496496563745-3-133": {
+        "average clique similarity": 0.20157496496563745,
+        "clique": [
+            "0-At times  the paper ",
+            "1- The president also ",
+            "2-The White House  whi"
+        ],
+        "median tf-idf score": 1.283441573431201,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "At times, the paper reported, the White House has learned about the contact from statements made by the foreign governments. The phone call was lauded, however, both within Taiwan and by some in the defense policy community in the US as a signal the incoming administration will take a tougher stance on China.",
+            "\"The president also told U S   Trump that she hopes the U S will continue to support Taiwan's efforts in having more opportunities to participate in and contribute to international affairs in the future,\" Tsai's office said. The White House learned of the conversation after it had taken place, said a senior Obama administration official, who requested anonymity because of the sensitive diplomatic relations involved.",
+            "The White House, which was unaware of the phone call ahead of time, said that it changed nothing about the nation's \"longstanding policy\" on China and Taiwan."
+        ],
+        "tf-idf score": [
+            1.283441573431201,
+            1.5811525488404454,
+            1.1290285906852415
+        ]
+    },
+    "0.2157906443821486-3-124": {
+        "average clique similarity": 0.2157906443821486,
+        "clique": [
+            "3-Relations between th",
+            "2-Tsai  Taiwan s first",
+            "4-Tsai will have sympa"
+        ],
+        "median tf-idf score": 0.8218236014151975,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "Relations between the two sides have worsened since Tsai, who heads the   Democratic Progressive Party, was elected president in January. Chinese state media downplayed the possibility of a major   in Beijing's relations with Washington as Trump prepares to assume office.",
+            "Tsai, Taiwan's first female president, was elected in January as a   candidate.",
+            "Tsai will have sympathetic ears in the White House. Priebus is reported to have visited Taiwan with a Republican delegation in 2011 and in October 2015, meeting Tsai before she was elected president."
+        ],
+        "tf-idf score": [
+            1.0686887836874546,
+            0.7026560742472301,
+            0.8218236014151975
+        ]
+    },
+    "0.21740733994490422-3-6": {
+        "average clique similarity": 0.21740733994490422,
+        "clique": [
+            "3-Trump has eschewed t",
+            "1-That Trump might spe",
+            "4-It was planned weeks"
+        ],
+        "median tf-idf score": 0.9651483643674157,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Trump has eschewed tradition in other calls with foreign leaders since he won the U S election, prompting the White House to encourage him to make use of the diplomatic expertise and counsel of the State Department.",
+            "That Trump might speak directly with Taiwan's leader is not a huge surprise, considering how during the campaign season he extolled the leadership of Russian President Vladimir Putin and called for a tempered approach to diplomatic relations with the former Cold War rival. And since winning the Nov. 8 election, Trump has apparently undertaken calls with other foreign leaders without guidance customarily lent by the State Department, which oversees U S diplomacy.",
+            "It was planned weeks ahead by staffers and Taiwan specialists on both sides, according to people familiar with the plans. Immediately after Trump won the Nov. 8 election, his staffers compiled a list of foreign leaders with whom to arrange calls."
+        ],
+        "tf-idf score": [
+            0.8021276103277722,
+            1.455782034167729,
+            0.9651483643674157
+        ]
+    },
+    "0.22040015840923452-3-205": {
+        "average clique similarity": 0.22040015840923452,
+        "clique": [
+            "0-After the phone call",
+            "3- I believe that it w",
+            "4- There was no policy"
+        ],
+        "median tf-idf score": 0.8197656158344111,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "After the phone call, the White House National Security Council released a statement to several news outlets stating that there was no change to its \"one China\" policy, which recognizes the mainland government.",
+            "\"I believe that it won't change the longstanding 'one China' policy of the United States government\".",
+            "\"There was no policy discussion, and everyone involved is well aware of the 'One China' policy,\" Grenell said, referring to the   shift that established formal direct ties between Washington and Beijing."
+        ],
+        "tf-idf score": [
+            0.819925165197715,
+            0.5357573079433982,
+            0.8197656158344111
+        ]
+    },
+    "0.2440796494910522-3-95": {
+        "average clique similarity": 0.2440796494910522,
+        "clique": [
+            "0-Trump has repeatedly",
+            "4-Vice   Mike Pence an",
+            "3-Trump adviser Kellya"
+        ],
+        "median tf-idf score": 0.9565453978437536,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Trump has repeatedly blasted China on the campaign trail, accusing it of currency manipulation and criticizing the Obama administration for not being \"tough enough\" in dealing with the country. Speaking to CNN's Anderson Cooper, Trump senior advisor Kellyanne Conway defended the call as one of dozens he's taken from world leaders since his election victory.",
+            "Vice   Mike Pence and   Donald Trump's senior transition adviser Kellyanne Conway on Dec. 4 defended Trump's phone call with Taiwan's leader Tsai  .",
+            "Trump adviser Kellyanne Conway said on CNN that Trump was \"well aware of what U S policy has been\" on Taiwan."
+        ],
+        "tf-idf score": [
+            0.9565453978437536,
+            0.9287979647109795,
+            1.1114544813151193
+        ]
+    },
+    "0.24838156320226767-4-173": {
+        "average clique similarity": 0.24838156320226767,
+        "clique": [
+            "1-Washington has pursu",
+            "2-The call broke nearl",
+            "4-The historic communi",
+            "3-The   telephone call"
+        ],
+        "median tf-idf score": 1.1503255204919896,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Washington has pursued a   \"one China\" policy since 1979, when it shifted diplomatic recognition of China from the government in Taiwan to the communist government on the mainland. Under that policy, the United States recognizes Beijing as representing China but retains unofficial ties with Taiwan. Wang also expressed hope Saturday that the call would not \"damage\" or \"interfere with\"   relations.",
+            "The call broke nearly 40 years of strictly observed protocol. It was the first direct communication between a Taiwanese and American leader or    since 1979, when President Jimmy Carter withdrew diplomatic recognition of Taiwan in favor of a U S relationship with China.",
+            "The historic communication  --   the first between leaders of the United States and Taiwan since 1979  --   was the product of months of quiet preparations and deliberations among Trump's advisers about a new strategy for engagement with Taiwan that began even before he became the Republican presidential nominee, according to people involved in or briefed on the talks.",
+            "The   telephone call with Taiwan's leadership was the first by a U S   or president since President Jimmy Carter switched diplomatic recognition from Taiwan to China in 1979, acknowledging Taiwan as part of \"one China\"."
+        ],
+        "tf-idf score": [
+            1.3059012972990058,
+            1.1412165004912278,
+            1.1594345404927515,
+            0.9101273713452107
+        ]
+    },
+    "0.2570627702092228-3-41": {
+        "average clique similarity": 0.2570627702092228,
+        "clique": [
+            "1-The Taiwanese presid",
+            "0-A readout of the Tru",
+            "3-Taiwan s presidentia"
+        ],
+        "median tf-idf score": 1.0765078244996416,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The Taiwanese presidential office issued a statement early Saturday saying Trump and Tsai discussed issues affecting Asia and the future of U S relations with Taiwan. \"The (Taiwanese) president is looking forward to strengthening bilateral interactions and contacts as well as setting up closer cooperative relations,\" the statement said.",
+            "A readout of the Trump call issued by the Taiwan president's office stated the call was about 10 minutes long, during which developing closer economic and \"national defense\" ties was discussed.",
+            "Taiwan's presidential office said the two discussed strengthening bilateral interactions and establishing closer cooperation."
+        ],
+        "tf-idf score": [
+            1.4971210981177987,
+            1.0765078244996416,
+            0.6103681566028517
+        ]
+    },
+    "0.28113361461435715-3-88": {
+        "average clique similarity": 0.28113361461435715,
+        "clique": [
+            "4-Edward J Feulner  a ",
+            "3-WAYWARD PROVINCE Tru",
+            "0-According to a reado"
+        ],
+        "median tf-idf score": 0.9538919707099965,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Edward J Feulner, a longtime former president of the Heritage Foundation, has for decades cultivated extensive ties with Taiwan and is serving as an adviser to Trump's transition team.",
+            "WAYWARD PROVINCE Trump and Tsai noted that \"close economic, political and security ties exist between Taiwan and the United States\" the Trump transition team said in a statement.",
+            "According to a readout of the call provided by Trump's transition team, the   spoke with Taiwanese President Tsai   and noted the two nation's \"close economic, political and security ties. \""
+        ],
+        "tf-idf score": [
+            0.9538919707099965,
+            1.2816366948128821,
+            0.8690214656498343
+        ]
+    },
+    "0.2827228177782722-3-12": {
+        "average clique similarity": 0.2827228177782722,
+        "clique": [
+            "1-Chinese Foreign Mini",
+            "2-China s Foreign Mini",
+            "0-China s Foreign Mini"
+        ],
+        "median tf-idf score": 1.4838588270264725,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Chinese Foreign Minister Wang Yi said the call was \"just a small trick by Taiwan\" and that he didn't think it would change U S foreign policy toward China, according to Hong Kong's Phoenix TV The conversation Friday between Taiwanese President Tsai   and Trump, a   elected official with no official foreign policy experience, indeed broke with   diplomatic tradition.",
+            "China's Foreign Minister, Wang Yi, made light of the incident despite his government's formal objections, dismissing it as \"a little trick\" on Taiwan's part.",
+            "China's Foreign Minister Wang Yi said in a statement that the phone call between Trump and Taiwan's president was \"only a small move by the Taiwan side. \""
+        ],
+        "tf-idf score": [
+            2.0081201311868733,
+            0.7991501714928659,
+            1.4838588270264725
+        ]
+    },
+    "0.31580342247983695-3-205": {
+        "average clique similarity": 0.31580342247983695,
+        "clique": [
+            "3-Trump said on Twitte",
+            "1-Whether Trump or Tsa",
+            "4-Obviously he made a "
+        ],
+        "median tf-idf score": 1.0726645300404247,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Trump said on Twitter that Tsai had initiated the call he had with the Taiwan president.",
+            "Whether Trump or Tsai initiated their call continues to be an open question, with critics arguing that Trump made the potentially dangerous first move. Trump tweeted Friday: \"The President of Taiwan CALLED ME today to wish me congratulations on winning the Presidency.",
+            "Obviously he made a conscious decision to have the call arranged. She called him, but there was an agreement for it. \" Gordon Chang, an Asia expert and author of \" The Coming Collapse of China\" said Trump's tweet Friday night that he had just accepted a call from Tsai was \"not credible. \""
+        ],
+        "tf-idf score": [
+            1.0129144859059447,
+            1.0726645300404247,
+            1.0980963286985472
+        ]
+    },
+    "0.39423024506193444-3-56": {
+        "average clique similarity": 0.39423024506193444,
+        "clique": [
+            "1-Thank you   However ",
+            "0-In a tweet Friday  T",
+            "2-Trump said on Twitte"
+        ],
+        "median tf-idf score": 1.1322362971223447,
+        "publications": [
+            "New York Post",
+            "Fox News",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Thank you!\" However, The Taipei Times is reporting that the Trump team orchestrated the call. A statement from Trump's transition team said Tsai during the call offered her congratulations to the  .",
+            "In a tweet Friday, Trump insisted that Tsai was the one who made the call. The President of Taiwan CALLED ME today to wish me congratulations on winning the Presidency. Thank you!",
+            "Trump said on Twitter Friday that Tsai had initiated the call: \"The President of Taiwan CALLED ME today to wish me congratulations on winning the Presidency. \""
+        ],
+        "tf-idf score": [
+            0.7854874238645579,
+            1.1322362971223447,
+            1.1922286947806218
+        ]
+    },
+    "0.45621244241434794-3-63": {
+        "average clique similarity": 0.45621244241434794,
+        "clique": [
+            "2-In Trump s   talk wi",
+            "1-The statement also s",
+            "0-   Trump also congra"
+        ],
+        "median tf-idf score": 1.330938987017032,
+        "publications": [
+            "Fox News",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "In Trump's   talk with President Tsai   of Taiwan on Friday, aides said, the two leaders \"noted the close economic, political, and security ties   ...     between Taiwan and the United States\" and congratulated one another on their recent electoral victories.",
+            "The statement also said the two leaders discussed their \"close economic, political, and security ties\" and that Trump, a Republican, congratulated Tsai on becoming president of Taiwan earlier this year.",
+            "\"  Trump also congratulated President Tsai on becoming President of Taiwan earlier this year,\" the statement added."
+        ],
+        "tf-idf score": [
+            1.4991298825074624,
+            1.330938987017032,
+            0.9172550489675493
+        ]
+    },
+    "0.49560080620956737-3-30": {
+        "average clique similarity": 0.49560080620956737,
+        "clique": [
+            "2-But aides to both le",
+            "3-he said  Alex Huang ",
+            "4- Very early on  Taiw"
+        ],
+        "median tf-idf score": 0.9836359822075519,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "But aides to both leaders said that the conversation was prearranged. \"Of course both sides agreed ahead of time before making contact,\" said a spokesman for Tsai, who was even photographed while speaking to Trump.",
+            "he said. Alex Huang, a spokesman for Tsai, said: \"Of course both sides agreed ahead of time before making contact\".",
+            "\"Very early on, Taiwan was on that list,\" said Stephen Yates, a national security official during the presidency of George W Bush and an expert on China and Taiwan. \"Once the call was scheduled, I was told that there was a briefing for   Trump. They knew that there would be reaction and potential blowback. \" Alex Huang, a spokesman for Tsai, told the Reuters news agency, \"Of course both sides agreed ahead of time before making contact. \""
+        ],
+        "tf-idf score": [
+            0.9836359822075519,
+            0.4446816872686341,
+            1.5915074171873183
+        ]
+    },
+    "0.5606804323024819-3-20": {
+        "average clique similarity": 0.5606804323024819,
+        "clique": [
+            "0-That controversial s",
+            "2-And Trump pointed ou",
+            "3- Interesting how the"
+        ],
+        "median tf-idf score": 0.9670346409681073,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "That controversial sale of weapons was quickly pointed out by Trump on Twitter, who pushed back against criticism about taking the call from the Taiwan leader. Interesting how the U S sells Taiwan billions of dollars of military equipment but I should not accept a congratulatory call.",
+            "And Trump pointed out that the United States has continued its trade and defense relationships with Taiwan regardless of its official diplomatic status. \"Interesting how the U S sells Taiwan billions of dollars of military equipment but I should not accept a congratulatory call,\" he wrote on Twitter.",
+            "\"Interesting how the U S sells Taiwan billions of dollars of military equipment but I should not accept a congratulatory call,\" Trump said in another tweet."
+        ],
+        "tf-idf score": [
+            0.9670346409681073,
+            1.1293035687949384,
+            0.8718816677002346
+        ]
+    }
+}

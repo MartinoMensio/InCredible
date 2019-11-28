@@ -1,0 +1,270 @@
+{
+    "0.2042520974841254-3-20": {
+        "average clique similarity": 0.2042520974841254,
+        "clique": [
+            "3-When the judge asked",
+            "2-Judge Durkin said he",
+            "0-Hastert addressed th"
+        ],
+        "median tf-idf score": 0.7778560638708757,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "When the judge asked Hastert directly if he had sexually abused Cross, \"Hastert said he could not remember, but he did acknowledge [Cross'] statement,\" David reports.",
+            "Judge Durkin said he had researched precedent for sentencing prison time to offenders who are old and disabled. Hastert struggled to stand up when he addressed the court.",
+            "Hastert addressed the court last and apologized for \"mistreating athletes. \" When Durkin pointedly asked him whether he had sexually abused them, Hastert simply answered, \"Yes. \""
+        ],
+        "tf-idf score": [
+            0.833863550354912,
+            0.7778560638708757,
+            0.7085265910751563
+        ]
+    },
+    "0.21722528788016326-3-11": {
+        "average clique similarity": 0.21722528788016326,
+        "clique": [
+            "4-According to the bre",
+            "2- As a   wrestler  I ",
+            "1-The man who sued on "
+        ],
+        "median tf-idf score": 1.1536176798181939,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "New York Post"
+        ],
+        "sentences": [
+            "According to the breach of contract complaint, the man, identified only as James Doe, said Hastert, his wrestling coach, sexually abused him when he was 14 years old.",
+            "\"As a   wrestler, I looked up to Coach Hastert,\" Scott Cross said. \"I trusted him, I believed him  and took him at his word. \"",
+            "The man who sued on Monday  --   known in his own lawsuit as James Doe and in the federal case against Mr Hastert as Individual A  --   was molested when Mr Hastert asked him to stay alone with him in a motel room during a wrestling camp trip, his lawsuit says."
+        ],
+        "tf-idf score": [
+            1.1536176798181939,
+            0.68806469076308,
+            1.1673818018082185
+        ]
+    },
+    "0.21957442752575831-3-8": {
+        "average clique similarity": 0.21957442752575831,
+        "clique": [
+            "3-The former House spe",
+            "0-Hastert has not face",
+            "4-Hastert never faced "
+        ],
+        "median tf-idf score": 0.7949050072126661,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The former House speaker has been accused of abusing at least five teenage boys but hasn't been charged because the statute of limitations has expired. Hastert pleaded guilty in October to illegally structuring bank withdrawals to evade reporting rules for large transactions.",
+            "Hastert has not faced criminal charges for the acts, which now fall outside the statute of limitations. None of the acts occurred during his   career in the U S House of Representatives.",
+            "Hastert never faced charges for allegations that he sexually abused multiple high school boys because the statute of limitations had run out decades ago."
+        ],
+        "tf-idf score": [
+            0.8759282802228759,
+            0.6624567360583071,
+            0.7949050072126661
+        ]
+    },
+    "0.226063821684516-3-36": {
+        "average clique similarity": 0.226063821684516,
+        "clique": [
+            "3-Hastert served as Ho",
+            "4-After the man confro",
+            "0-The    former politi"
+        ],
+        "median tf-idf score": 0.8701204769686686,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Hastert served as House speaker from 1999 to 2007, and was a high school teacher and wresting coach in Yorkville, Ill. in the 1960s and '70s.",
+            "After the man confronted Hastert  --   a former high school teacher from a small town outside Chicago  --   in 2008 and demanded compensation for the abuse, the two reached a $3. agreement, according to the lawsuit.",
+            "The    former politician's downfall came not from the allegations of sexual abuse themselves, but from his efforts to cover them up: In or about 2010, according to the indictment, Hastert --  a former   teacher and coach --  met with an unnamed individual from Yorkville, Hastert's hometown."
+        ],
+        "tf-idf score": [
+            0.7826777364963137,
+            0.8701204769686686,
+            0.8762772115105164
+        ]
+    },
+    "0.22619606488877644-4-99": {
+        "average clique similarity": 0.22619606488877644,
+        "clique": [
+            "2-Disgraced   Speaker ",
+            "0-   I want to receive",
+            "3-Hastert  74  was sen",
+            "1-The suit adds to a m"
+        ],
+        "median tf-idf score": 0.9720697327612031,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "Disgraced   Speaker Dennis Hastert was sentenced to 15 months in prison Wednesday  --   after bombshell testimony from the brother of a former prominent GOP lawmaker who said Hastert sexually abused him.",
+            "   I want to receive updates from partners and sponsors. Updated on April 27 at 2:05 p. m. ET, Describing the   Republican speaker of the House as a \"serial child molester,\" a federal judge in Chicago sentenced Dennis Hastert to 15 months in prison on Wednesday for lying to investigators and evading federal banking regulations as part of a scheme to cover up   sexual abuse.",
+            "Hastert, 74, was sentenced to 15 months in prison in the case involving hush money that prosecutors say was used to cover up alleged sexual abuse of a minor.",
+            "The suit adds to a mounting set of legal problems for Mr Hastert, 74, who is expected to be sentenced on Wednesday in federal court here after pleading guilty to a banking violation tied to the abuse."
+        ],
+        "tf-idf score": [
+            1.0026853171719776,
+            1.1412861911393066,
+            0.9414541483504286,
+            0.8991896083523818
+        ]
+    },
+    "0.23201712747042716-3-67": {
+        "average clique similarity": 0.23201712747042716,
+        "clique": [
+            "2-5 million to an  Ind",
+            "3-As The   has reporte",
+            "0-They  discussed past"
+        ],
+        "median tf-idf score": 0.8863431661143748,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "5 million to an \"Individual A\" in order \"to compensate for and keep confidential\" past bad acts, according to prosecutors. \"Individual A\" remains mystery, even after filing a lawsuit against Hastert earlier this week, accusing him of owing him more than half of the promised money.",
+            "As The   has reported: \"The [plea] deal states that Hastert 'agreed to provide Individual A $3, 500, 000 in order to compensate for and keep confidential his prior misconduct against Individual A' \"It goes on to say that from July of 2012 to December 2014, Hastert withdrew $952, 000 in amounts below $10, 000 to 'evade currency transaction reporting requirements' on more than 100 occasions\".",
+            "They \"discussed past misconduct by defendant against Individual A that had occurred years earlier. \" In effect, Hastert fell victim to blackmail, the indictment alleges: He \"agreed to provide Individual A $3."
+        ],
+        "tf-idf score": [
+            0.8863431661143748,
+            0.9135747592279069,
+            0.7720743236907199
+        ]
+    },
+    "0.23739516042734934-3-45": {
+        "average clique similarity": 0.23739516042734934,
+        "clique": [
+            "4-The lawsuit says Has",
+            "2-Hastert paid  1  7 m",
+            "3-He says Hastert paid"
+        ],
+        "median tf-idf score": 0.5928023144082712,
+        "publications": [
+            "New York Post",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "The lawsuit says Hastert paid the alleged victim $1.",
+            "Hastert paid $1. 7 million between 2010 and 2014 but hasn't forked over the rest, according to the lawsuit filed by \"James Doe. \" All the   allegations are now far beyond the statute of allegations.",
+            "He says Hastert paid $1. 7 million out of $3. 5 million in \"compensation\"."
+        ],
+        "tf-idf score": [
+            0.5928023144082712,
+            0.7703026144447661,
+            0.5488618290825074
+        ]
+    },
+    "0.2810762427721014-3-73": {
+        "average clique similarity": 0.2810762427721014,
+        "clique": [
+            "2-Durkin s sentence we",
+            "3-Reporters tweeting f",
+            "0-Scott s brother  Tom"
+        ],
+        "median tf-idf score": 0.9405288040681136,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Durkin's sentence went beyond the prosecution recommendation of six months behind bars. Hasert showed no outward emotion as he was sentenced. Before Durkin's ruling, Hastert, 74, was confronted by banking executive Scott Cross  --   whose brother is former Illinois Republican House leader and Hastert protegee Tom Cross.",
+            "Reporters tweeting from the courtroom said he is Scott Cross. The   's brother is former longtime Illinois House Rep. Tom Cross, who has considered Hastert a political mentor, David reports.",
+            "Scott's brother, Tom Cross, served as the Illinois House GOP leader for 11 years and was a political protege of Hastert during his political career."
+        ],
+        "tf-idf score": [
+            1.0589276840975852,
+            0.9358080519347913,
+            0.9405288040681136
+        ]
+    },
+    "0.28887860959539685-3-17": {
+        "average clique similarity": 0.28887860959539685,
+        "clique": [
+            "3-Updated at 2 30 p  m",
+            "4- Read the complaint ",
+            "1-CHICAGO       A man "
+        ],
+        "median tf-idf score": 1.1385874594651528,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Updated at 2:30 p. m. ET, Former House Speaker Dennis Hastert admitted at his sentencing hearing Wednesday that he sexually abused more than one student when he was a teacher and wrestling coach in Illinois decades ago, and said he was \"ashamed\".",
+            "'Read the complaint here:'] A man who claims former House Speaker Dennis Hastert sexually abused him as a teenager filed a lawsuit Monday claiming he's still owed $1. 8 million in unpaid hush money.",
+            "CHICAGO  --   A man who says J Dennis Hastert, the former speaker of the House, molested him decades ago when the man was 14 filed a lawsuit against Mr Hastert on Monday, saying he was owed $1. 8 million of the money he had been promised as compensation for the abuse."
+        ],
+        "tf-idf score": [
+            1.1385874594651528,
+            1.0402877048700425,
+            1.2980287265597261
+        ]
+    },
+    "0.3643312465488046-3-115": {
+        "average clique similarity": 0.3643312465488046,
+        "clique": [
+            "0-The court also heard",
+            "3-  Jolene Burdge  who",
+            "2-What you did wasn t "
+        ],
+        "median tf-idf score": 0.663683740008706,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The court also heard from Jolene Burdge, whose brother, Stephen Reinboldt, had told her about repeated instances of abuse. He died of   complications in 1995. From the stand on Wednesday, she demanded Hastert admit what he had done to her brother and \"tell the truth. \"",
+            "\" Jolene Burdge, who also spoke Wednesday, says Hastert abused her brother, who died in 1995.",
+            "What you did wasn't misconduct. It was sexual abuse of a minor,\" testified Burdge, whose brother Steve Reinboldt died in 1995. Burdge had taken her brother's story to ABC News and the Associated Press in 2006."
+        ],
+        "tf-idf score": [
+            0.8021892788053561,
+            0.663683740008706,
+            0.49215311904504677
+        ]
+    },
+    "0.382124746225944-3-48": {
+        "average clique similarity": 0.382124746225944,
+        "clique": [
+            "3-In addition  accordi",
+            "0-Judge Thomas Durkin ",
+            "2-Hastert will also ha"
+        ],
+        "median tf-idf score": 0.6482098835683934,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In addition, according to The Associated Press, the sentence calls for \"sex offender treatment, two years of supervised release after his time behind bars and a $250, 000 fine that will go to a crime victims fund\".",
+            "Judge Thomas Durkin also imposed two years' supervised release, a $250, 000 fine, and attendance in a   treatment program. Hastert faced five years in prison for the charges under federal sentencing guidelines.",
+            "Hastert will also have to do two years of supervised release, undergo treatment for sex offenders, and pay $250, 000 to a group that advocates for   victims."
+        ],
+        "tf-idf score": [
+            0.4411780875802863,
+            0.8643744080877034,
+            0.6482098835683934
+        ]
+    }
+}

@@ -1,0 +1,474 @@
+{
+    "0.18054790202055102-3-61": {
+        "average clique similarity": 0.18054790202055102,
+        "clique": [
+            "1-The videos were rele",
+            "0-On Thursday night  a",
+            "3-Five men were arrest"
+        ],
+        "median tf-idf score": 0.8363775339171207,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "The videos were released after three nights of unruly and, at times, violent protests in El Cajon, and on the eve of a demonstration organized by clergy and supporters of Olango\u2019s family, who had pressured authorities to show the footage of the fatal encounter.",
+            "On Thursday night, about 75 protesters gathered near the scene of the shooting and threw rocks, bricks and bottles at officers, broke windows and jumped on cars, the El Cajon police chief, Jeff Davis, said at the news conference.",
+            "Five men were arrested after the rally of 50 to 75 turned violent, with car windows broken, bottles thrown at police and a rider pulled from his motorcycle."
+        ],
+        "tf-idf score": [
+            0.8363775339171207,
+            1.3013894170929097,
+            0.34458589504212667
+        ]
+    },
+    "0.1828280453183724-3-148": {
+        "average clique similarity": 0.1828280453183724,
+        "clique": [
+            "2-One officer fired hi",
+            "0-The second video sho",
+            "1-Olango is seen walki"
+        ],
+        "median tf-idf score": 0.6927426962254076,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "One officer fired his gun at Olango, while a second officer discharged his Taser, police have said.",
+            "The second video shows Mr Olango walking toward an officer and then walking away backward and sideways as the officer approaches.",
+            "Olango is seen walking through the parking lot and then stopping suddenly as Gonsalves approached, his weapon drawn at his side."
+        ],
+        "tf-idf score": [
+            0.9464468914097818,
+            0.6927426962254076,
+            0.41708326227095316
+        ]
+    },
+    "0.1988642198861653-4-207": {
+        "average clique similarity": 0.1988642198861653,
+        "clique": [
+            "4-      Police Chief J",
+            "1- Our only concern at",
+            "2-The man  rapidly dre",
+            "3-The investigation in"
+        ],
+        "median tf-idf score": 0.7759994249836855,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "\u2019 \u2019   Police Chief Jeff Davis relented, citing concerns over the   escalating violence during some of the protests.",
+            "\u201cOur only concern at this point was community safety,\u201d police Chief Jeff Davis said.",
+            "The man \u201drapidly drew an object\u201d and placed both hands on it \u201dlike you would be holding a firearm,\u201d police Chief Jeff Davis said.",
+            "The investigation into the shooting is continuing, El Cajon Police Chief Jeff Davis told reporters at a news conference."
+        ],
+        "tf-idf score": [
+            0.46078740259779605,
+            0.7950171559601319,
+            0.7996936368858346,
+            0.7569816940072389
+        ]
+    },
+    "0.21125757501680642-3-129": {
+        "average clique similarity": 0.21125757501680642,
+        "clique": [
+            "4-      When officers ",
+            "3-According to police ",
+            "0-As Mr Olango paced a"
+        ],
+        "median tf-idf score": 1.0780674728775153,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201d \u2019   When officers surrounded him, Olango assumed a shooting position,   police said, and reached for what they believed to be a weapon   before they opened fire.",
+            "According to police, Olango refused their commands and reached into his pocket for a   object and then assumed a \u201cshooting stance,\u201d aiming the device at an officer.",
+            "As Mr Olango paced and the officers tried to talk to him, he \u201crapidly drew an object from his front pants pocket, placed both hands together and extended them rapidly toward the officer taking up what appeared to be a shooting stance,\u201d the police said."
+        ],
+        "tf-idf score": [
+            1.0780674728775153,
+            0.9548125577969546,
+            1.2791229614728614
+        ]
+    },
+    "0.22106368399945422-4-181": {
+        "average clique similarity": 0.22106368399945422,
+        "clique": [
+            "2-Olango s mother  Pam",
+            "3-At the news conferen",
+            "1-His mother said he s",
+            "0-Mr Olango s mother s"
+        ],
+        "median tf-idf score": 0.7798566438545251,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "Olango\u2019s mother, Pamela Benge, said he was not mentally ill.",
+            "At the news conference Thursday, Olango\u2019s mother, Pamela Benge, said she feels the pain of other mothers who have had sons killed recently by police.",
+            "His mother said he suffered a mental breakdown recently after the death of his best friend.",
+            "Mr Olango\u2019s mother said during an emotional news conference on Thursday that her son was having a mental breakdown when he was confronted by the police at the taco shop, Reuters reported."
+        ],
+        "tf-idf score": [
+            0.7096193779203435,
+            0.8500939097887068,
+            0.31902802768783584,
+            1.1469841260358753
+        ]
+    },
+    "0.22551765554607794-3-190": {
+        "average clique similarity": 0.22551765554607794,
+        "clique": [
+            "3-Shane Harris  presid",
+            "1-Shane Harris of the ",
+            "0-The angle and distan"
+        ],
+        "median tf-idf score": 0.675985343747999,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "Shane Harris, president of the National Action Network, said Thursday that the killing was \u201crepresentative of what we\u2019ve seen around the country.",
+            "Shane Harris of the civil rights organization National Action Network said the   videos, shot at a distance, didn\u2019t clarify what led to the shooting and said they\u2019re likely to make people angrier.",
+            "The angle and distance of the videos made it difficult to see clearly what happened because one of the officers was standing in front of Mr Olango when the shooting happened."
+        ],
+        "tf-idf score": [
+            0.5075984138648041,
+            0.675985343747999,
+            0.972471434785119
+        ]
+    },
+    "0.22602807105268918-3-316": {
+        "average clique similarity": 0.22602807105268918,
+        "clique": [
+            "3-In response to a que",
+            "2-Police  Man killed b",
+            "4-      It was later r"
+        ],
+        "median tf-idf score": 0.8055951359471462,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "In response to a question, Davis said one caller had told the police dispatcher that Olango did not appear to have a gun.",
+            "Police: Man killed by officer pointed vaping device, not gun, The woman who called 911 claimed to be the man\u2019s sister and told the dispatcher he was mentally ill and unarmed, Davis said.",
+            "\u2019 \u201d   It was later revealed that Olango had been grieving the death of   a close friend and was not mentally ill, according to the man\u2019s   mother, ."
+        ],
+        "tf-idf score": [
+            0.8055951359471462,
+            1.2535786786522358,
+            0.7096862981938291
+        ]
+    },
+    "0.2268131524827576-3-346": {
+        "average clique similarity": 0.2268131524827576,
+        "clique": [
+            "1-The shots came less ",
+            "3-On Tuesday afternoon",
+            "2-Tuesday s shooting  "
+        ],
+        "median tf-idf score": 0.8954000188141539,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "The shots came less than a minute after police arrived at the scene in response to Olango\u2019s sister calling 911 and reporting he was acting erratically.",
+            "On Tuesday afternoon, the two El Cajon officers confronted Olango in a   parking lot after police received a call from his sister saying that he was acting erratically.",
+            "Tuesday\u2019s shooting, On Tuesday afternoon, police responded to a 911 call reporting a man in his 30s was behaving \u201derratically\u201d behind a restaurant."
+        ],
+        "tf-idf score": [
+            0.8954000188141539,
+            1.1033760839592737,
+            0.7449255100219626
+        ]
+    },
+    "0.23354898984689906-3-192": {
+        "average clique similarity": 0.23354898984689906,
+        "clique": [
+            "1-The incident is the ",
+            "4-      The incident i",
+            "3-  The incident follo"
+        ],
+        "median tf-idf score": 0.5740332223939264,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "The incident is the latest in a series of fatal shootings of black men that have roiled communities across the U S It came weeks after fatal shootings by police in Tulsa, Oklahoma, and Charlotte, North Carolina.",
+            "\u2019 \u2019   The incident is the latest in a number of   police   shootings involving people of color, which has repeatedly thrust   the issue into the national spotlight.",
+            "\u201d The incident followed controversial police shootings in several locations in the United States."
+        ],
+        "tf-idf score": [
+            0.5740332223939264,
+            0.6029561269450522,
+            0.4323457726841821
+        ]
+    },
+    "0.23609791731770216-3-163": {
+        "average clique similarity": 0.23609791731770216,
+        "clique": [
+            "0-At that point  the o",
+            "4-      Police later i",
+            "1-In addition to the v"
+        ],
+        "median tf-idf score": 0.7560881077523588,
+        "publications": [
+            "Business Insider",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "At that point, the officer with the electronic control device discharged his weapon, the police said.",
+            "\u2019 \u2019   Police later identified the unknown object as an electronic   cigarette.",
+            "In addition to the videos, police showed the   electronic cigarette device Olango had in his hands when he was shot."
+        ],
+        "tf-idf score": [
+            0.7560881077523588,
+            0.3591016818981467,
+            0.9570169364409463
+        ]
+    },
+    "0.23791340613983628-3-281": {
+        "average clique similarity": 0.23791340613983628,
+        "clique": [
+            "4-      The video show",
+            "1-Olango then bent ove",
+            "2-The videos show offi"
+        ],
+        "median tf-idf score": 1.058977307888774,
+        "publications": [
+            "Business Insider",
+            "New York Post",
+            "CNN"
+        ],
+        "sentences": [
+            "\u2019 \u2019   The video shows police firing four shots at    Alfred   Olango, a Ugandan refugee, Tuesday shortly after they arrived at   a Mexican restaurant in El Cajon, the AP report said.",
+            "Olango then bent over and assumed the shooting stance and Gonsalves quickly fired four shots at  .",
+            "The videos show officer Richard Gonsalves firing four shots at Alfred Olango, an unarmed man, who was pointing the cylindrical vape pen at officers earlier this week."
+        ],
+        "tf-idf score": [
+            1.1984119679862297,
+            0.5172617690197544,
+            1.058977307888774
+        ]
+    },
+    "0.2408348195690904-3-33": {
+        "average clique similarity": 0.2408348195690904,
+        "clique": [
+            "3-But backed by the di",
+            "1-Olango s family and ",
+            "4-      The police dep"
+        ],
+        "median tf-idf score": 0.918598661007692,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "But backed by the district attorney, the police chief had refused until Friday to release the full video.",
+            "Olango\u2019s family and demonstrators demanded to see the full video, saying the single frame was selectively misleading to support the police version of events.",
+            "\u2019 \u2019   The police department had previously released a single frame of   video that appeared to show Olango with his arms out in what they   described as a shooting position, but protesters and local news   media demanded the full video."
+        ],
+        "tf-idf score": [
+            0.5599540238267141,
+            0.918598661007692,
+            1.044297300141924
+        ]
+    },
+    "0.24159245909160798-3-10": {
+        "average clique similarity": 0.24159245909160798,
+        "clique": [
+            "2-Protesters have call",
+            "3-A rally demanding re",
+            "1-A lawyer for the fam"
+        ],
+        "median tf-idf score": 0.29019048053951896,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "Protesters have called for the investigation into the shooting to be run by the US Department of Justice.",
+            "A rally demanding release of the video and the shift of the investigation to the Justice Department is set for Saturday afternoon.",
+            "A lawyer for the family said they welcomed the release of the videos, but he questioned the tactics used by Officer Richard Gonsalves."
+        ],
+        "tf-idf score": [
+            0.2516195866416025,
+            0.29019048053951896,
+            0.7098145820689405
+        ]
+    },
+    "0.26151098142839024-3-84": {
+        "average clique similarity": 0.26151098142839024,
+        "clique": [
+            "0-Bonnie Dumanis  the ",
+            "4-      The video was ",
+            "3-  The decision to re"
+        ],
+        "median tf-idf score": 0.7980298409627163,
+        "publications": [
+            "New York Times",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Bonnie Dumanis, the San Diego County district attorney, said that the shooting was under investigation and that \u201cno decision has been made\u201d about filing charges.",
+            "\u2019 \u2019   The video was released after the shooting sparked several   days of demonstrations in the San Diego area.",
+            "\u201d The decision to release the videos was made collectively by the city\u2019s mayor, police chief, county sheriff, the district attorney, the area\u2019s county supervisor and the chiefs of the police departments in San Diego, Chula Vista and Escondido, officials said."
+        ],
+        "tf-idf score": [
+            0.7980298409627163,
+            0.6533267037817002,
+            1.1268075456509903
+        ]
+    },
+    "0.27085061972255736-3-155": {
+        "average clique similarity": 0.27085061972255736,
+        "clique": [
+            "2-Olango s death set o",
+            "3-The fuller release w",
+            "0-The shooting has tou"
+        ],
+        "median tf-idf score": 0.47705530396068496,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "Olango\u2019s death set off demonstrations in the San Diego suburb.",
+            "The fuller release was made to try to avoid a repeat of the violence that erupted at the Thursday night protest march on a downtown street in this suburb east of San Diego.",
+            "The shooting has touched off days of growing unrest and violence in El Cajon, a suburb of San Diego."
+        ],
+        "tf-idf score": [
+            0.38162311571656227,
+            0.47705530396068496,
+            0.5019208898701742
+        ]
+    },
+    "0.28147017672470626-3-183": {
+        "average clique similarity": 0.28147017672470626,
+        "clique": [
+            "3-Police on Tuesday ni",
+            "2-Still image  Earlier",
+            "1-That night  as an an"
+        ],
+        "median tf-idf score": 0.8503074421755883,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Police on Tuesday night had released a still photo taken from a video showing the police killing hours earlier of Alfred Olango, 38, an immigrant from Uganda.",
+            "Still image, Earlier this week, police released a video still showing the incident.",
+            "That night, as an angry crowd protested outside police headquarters, Davis released a single image from the video showing Olango with his hands clasped in front and in the shooting stance."
+        ],
+        "tf-idf score": [
+            0.8503074421755883,
+            0.5348355007111207,
+            1.0450576390342496
+        ]
+    },
+    "0.29825096694915243-3-68": {
+        "average clique similarity": 0.29825096694915243,
+        "clique": [
+            "0-The video came from ",
+            "2-A female employee of",
+            "1-The longer of the tw"
+        ],
+        "median tf-idf score": 0.3263143159084104,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "The video came from two perspectives  \u2014   one from a civilian\u2019s cellphone and the other from a surveillance camera at a   window at a taco shop.",
+            "A female employee of a   restaurant recorded video on her cell phone, as did a surveillance camera above a   window.",
+            "The longer of the two videos released by police came from a surveillance camera in the   of a restaurant."
+        ],
+        "tf-idf score": [
+            0.29608979809126024,
+            0.3263143159084104,
+            0.5360197924588569
+        ]
+    },
+    "0.3240607129434756-4-210": {
+        "average clique similarity": 0.3240607129434756,
+        "clique": [
+            "4-         Police in t",
+            "2-  CNN  Police in El ",
+            "3-         EL CAJON  C",
+            "0-The authorities in E"
+        ],
+        "median tf-idf score": 0.9894048024482058,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u2019  \u2019 \u2019   Police in the San Diego suburb of El Cajon released footage on   Friday showing the  of an unarmed man, The .",
+            " (CNN) Police in El Cajon, California, on Friday released cell phone and surveillance video that shows the controversial fatal shooting of a man who pointed a vaping device at officers.",
+            "         EL CAJON, Calif.  \u2014   In a turnabout, police here Friday decided to release two videos, taken by a   employee and a customer, showing the minutes leading to the fatal shooting by police of an unarmed black man.",
+            "The authorities in El Cajon, Calif. on Friday released video footage of an officer fatally shooting an unarmed black man, as part of an effort to quell what has been growing unrest in the community since the episode on Tuesday."
+        ],
+        "tf-idf score": [
+            0.7328973071703401,
+            1.1848515541020614,
+            0.9715007044483747,
+            1.007308900448037
+        ]
+    },
+    "0.3628686221742246-4-0": {
+        "average clique similarity": 0.3628686221742246,
+        "clique": [
+            "0-Multiple shots are f",
+            "1-In the second video ",
+            "3-The video taken by t",
+            "2-A woman can be heard"
+        ],
+        "median tf-idf score": 0.28854070114511976,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Multiple shots are fired, and a woman can then be heard screaming.",
+            "In the second video, taken on a cellphone by a witness in the   Olango\u2019s sister is seen approaching Gonsalves from behind and a woman can be heard screaming at Olango to put up his hands and telling police not to shoot.",
+            "The video taken by the   customer has audio of a woman screaming.",
+            "A woman can be heard screaming in the cell phone video as the shots are fired."
+        ],
+        "tf-idf score": [
+            0.14407234171739908,
+            0.9139874353347228,
+            0.25517835805969086,
+            0.3219030442305486
+        ]
+    }
+}

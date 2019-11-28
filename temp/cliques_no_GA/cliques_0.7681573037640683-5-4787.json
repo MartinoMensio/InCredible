@@ -1,0 +1,442 @@
+{
+    "0.1792865761913265-3-216": {
+        "average clique similarity": 0.1792865761913265,
+        "clique": [
+            "0-          After the ",
+            "4-7 million from June ",
+            "1-It was the large pay"
+        ],
+        "median tf-idf score": 0.5684634085964589,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "[  \u2026    ] After the 2010 meeting with Individual A, Hastert allegedly began withdrawing cash from his bank accounts to pay to the individual.",
+            "7 million from June 2010 to December 2014.",
+            "It was the large payments from Mr Hastert to Individual A starting around 2010 that led the authorities to begin investigating Mr Hastert."
+        ],
+        "tf-idf score": [
+            0.5684634085964589,
+            0.11228566200249451,
+            0.7640546635967583
+        ]
+    },
+    "0.1894347481469869-3-4": {
+        "average clique similarity": 0.1894347481469869,
+        "clique": [
+            "2-  Cross said he came",
+            "1-Individual A is not ",
+            "3-During today s heari"
+        ],
+        "median tf-idf score": 0.34042119949997,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d Cross said he came forward now by noting, \u201cThere is an alternative to staying silent.",
+            "Individual A is not expected to testify at Mr Hastert\u2019s sentencing hearing on Wednesday, though another victim is expected to, as is the sister of a man, now deceased, who told her he had been abused by Mr Hastert.",
+            "During today\u2019s hearing, another alleged victim, previously identified only as \u201dIndividual D,\u201d came forward to make a statement before sentencing."
+        ],
+        "tf-idf score": [
+            0.24900195916903461,
+            0.8701289972476431,
+            0.34042119949997
+        ]
+    },
+    "0.22530979003023033-3-123": {
+        "average clique similarity": 0.22530979003023033,
+        "clique": [
+            "3-The alleged victim  ",
+            "1-The name of the man ",
+            "4-The lawsuit says Has"
+        ],
+        "median tf-idf score": 0.5928023144082712,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The alleged victim, identified in court documents as \u201dIndividual A,\u201d is suing Hastert for not paying the full amount agreed upon between the two.",
+            "The name of the man was not made public in the lawsuit.",
+            "The lawsuit says Hastert paid the alleged victim $1."
+        ],
+        "tf-idf score": [
+            0.6661432004904746,
+            0.2451020694842306,
+            0.5928023144082712
+        ]
+    },
+    "0.22778471602632736-3-146": {
+        "average clique similarity": 0.22778471602632736,
+        "clique": [
+            "0-  The    former poli",
+            "3-Hastert served as Ho",
+            "4-After the man confro"
+        ],
+        "median tf-idf score": 0.7826777364963137,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201d The    former politician\u2019s downfall came not from the allegations of sexual abuse themselves, but from his efforts to cover them up: In or about 2010, according to the indictment, Hastert \u2014  a former   teacher and coach \u2014  met with an unnamed individual from Yorkville, Hastert\u2019s hometown.",
+            "Hastert served as House speaker from 1999 to 2007, and was a high school teacher and wresting coach in Yorkville, Ill. in the 1960s and \u201970s.",
+            "After the man confronted Hastert  \u2014   a former high school teacher from a small town outside Chicago  \u2014   in 2008 and demanded compensation for the abuse, the two reached a $3."
+        ],
+        "tf-idf score": [
+            0.8762772115105164,
+            0.7826777364963137,
+            0.7259555064045646
+        ]
+    },
+    "0.23497705671306743-3-216": {
+        "average clique similarity": 0.23497705671306743,
+        "clique": [
+            "2-Scott Cross said Has",
+            "0-Before entering poli",
+            "1-The suit was filed i"
+        ],
+        "median tf-idf score": 0.779979869492747,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "Scott Cross said Hastert molested him on a massage table at Yorkville High School in Illinois, where they were student and teacher.",
+            "Before entering politics, Hastert taught high school in Illinois and coached a wrestling team between 1965 and 1981.",
+            "The suit was filed in Kendall County, Ill. on the edge of Chicago\u2019s suburbs, where Mr Hastert worked as a high school wrestling coach in the 1960s, 1970s and early 1980s, and where at least four members of the wrestling team have said he sexually abused them."
+        ],
+        "tf-idf score": [
+            0.779979869492747,
+            0.5488770517553964,
+            1.1630213547300554
+        ]
+    },
+    "0.24193182372677527-4-81": {
+        "average clique similarity": 0.24193182372677527,
+        "clique": [
+            "1-The suit adds to a m",
+            "2-Disgraced   Speaker ",
+            "0-Updated on April 27 ",
+            "3-Hastert  74  was sen"
+        ],
+        "median tf-idf score": 0.9720697327612031,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The suit adds to a mounting set of legal problems for Mr Hastert, 74, who is expected to be sentenced on Wednesday in federal court here after pleading guilty to a banking violation tied to the abuse.",
+            "Disgraced   Speaker Dennis Hastert was sentenced to 15 months in prison Wednesday  \u2014   after bombshell testimony from the brother of a former prominent GOP lawmaker who said Hastert sexually abused him.",
+            "Updated on April 27 at 2:05 p. m. ET, Describing the   Republican speaker of the House as a \u201cserial child molester,\u201d a federal judge in Chicago sentenced Dennis Hastert to 15 months in prison on Wednesday for lying to investigators and evading federal banking regulations as part of a scheme to cover up   sexual abuse.",
+            "Hastert, 74, was sentenced to 15 months in prison in the case involving hush money that prosecutors say was used to cover up alleged sexual abuse of a minor."
+        ],
+        "tf-idf score": [
+            0.8991896083523818,
+            1.0026853171719776,
+            1.0979450544798612,
+            0.9414541483504286
+        ]
+    },
+    "0.25587429704392817-3-216": {
+        "average clique similarity": 0.25587429704392817,
+        "clique": [
+            "0-  When Durkin pointe",
+            "2-  Hastert said he  m",
+            "3-When the judge asked"
+        ],
+        "median tf-idf score": 0.6823527588550772,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d When Durkin pointedly asked him whether he had sexually abused them, Hastert simply answered, \u201cYes.",
+            "\u201d Hastert said he \u201cmistreated\u201d some of his   before Durkin  asked him directly if he sexually abused kids.",
+            "When the judge asked Hastert directly if he had sexually abused Cross, \u201dHastert said he could not remember, but he did acknowledge [Cross\u2019] statement,\u201d David reports."
+        ],
+        "tf-idf score": [
+            0.6016295877966773,
+            0.6823527588550772,
+            0.833863550354912
+        ]
+    },
+    "0.2657903692888581-3-199": {
+        "average clique similarity": 0.2657903692888581,
+        "clique": [
+            "0-Hastert has not face",
+            "3-The former House spe",
+            "4-Hastert never faced "
+        ],
+        "median tf-idf score": 0.5604622944078081,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Hastert has not faced criminal charges for the acts, which now fall outside the statute of limitations.",
+            "The former House speaker has been accused of abusing at least five teenage boys but hasn\u2019t been charged because the statute of limitations has expired.",
+            "Hastert never faced charges for allegations that he sexually abused multiple high school boys because the statute of limitations had run out decades ago."
+        ],
+        "tf-idf score": [
+            0.5604622944078081,
+            0.26935279336562074,
+            0.7949050072126661
+        ]
+    },
+    "0.26594327132299006-3-44": {
+        "average clique similarity": 0.26594327132299006,
+        "clique": [
+            "1-The man who sued on ",
+            "4-According to the bre",
+            "3-That money was used "
+        ],
+        "median tf-idf score": 1.1536176798181939,
+        "publications": [
+            "New York Times",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "The man who sued on Monday  \u2014   known in his own lawsuit as James Doe and in the federal case against Mr Hastert as Individual A  \u2014   was molested when Mr Hastert asked him to stay alone with him in a motel room during a wrestling camp trip, his lawsuit says.",
+            "According to the breach of contract complaint, the man, identified only as James Doe, said Hastert, his wrestling coach, sexually abused him when he was 14 years old.",
+            "That money was used to conceal alleged sexual misconduct  \u2014   given to a man who says Hastert abused him when he was 14."
+        ],
+        "tf-idf score": [
+            1.1673818018082185,
+            1.1536176798181939,
+            0.8964623542385884
+        ]
+    },
+    "0.2835899293818138-3-27": {
+        "average clique similarity": 0.2835899293818138,
+        "clique": [
+            "2-5 million to an  Ind",
+            "0-5 million in order t",
+            "3-As The   has reporte"
+        ],
+        "median tf-idf score": 0.7293757521354657,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "5 million to an \u201cIndividual A\u201d in order \u201cto compensate for and keep confidential\u201d past bad acts, according to prosecutors.",
+            "5 million in order to compensate for and conceal his prior misconduct against Individual A \u201d (Since leaving the House, Hastert has become a highly paid lobbyist.)",
+            "As The   has reported: \u201dThe [plea] deal states that Hastert \u2019agreed to provide Individual A $3, 500, 000 in order to compensate for and keep confidential his prior misconduct against Individual A\u2019 \u201dIt goes on to say that from July of 2012 to December 2014, Hastert withdrew $952, 000 in amounts below $10, 000 to \u2019evade currency transaction reporting requirements\u2019 on more than 100 occasions\u201d."
+        ],
+        "tf-idf score": [
+            0.3287271199944084,
+            0.7293757521354657,
+            0.9135747592279069
+        ]
+    },
+    "0.29265131258282656-3-60": {
+        "average clique similarity": 0.29265131258282656,
+        "clique": [
+            "3- Asked if he moleste",
+            "2-It was sexual abuse ",
+            "0-He died of   complic"
+        ],
+        "median tf-idf score": 0.3717324715616044,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201dAsked if he molested others, Hastert quietly said, \u2019Yes.\u2019 \u201d Jolene Burdge, who also spoke Wednesday, says Hastert abused her brother, who died in 1995.",
+            "It was sexual abuse of a minor,\u201d testified Burdge, whose brother Steve Reinboldt died in 1995.",
+            "He died of   complications in 1995."
+        ],
+        "tf-idf score": [
+            0.8408379830293371,
+            0.3717324715616044,
+            0.025096290377943288
+        ]
+    },
+    "0.3064368628756987-3-19": {
+        "average clique similarity": 0.3064368628756987,
+        "clique": [
+            "2-Hastert pleaded guil",
+            "4-In October  Hastert ",
+            "3-Hastert pleaded guil"
+        ],
+        "median tf-idf score": 0.658187702314464,
+        "publications": [
+            "New York Post",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "Hastert pleaded guilty last year to evading federal reporting statutes on cash withdrawals.",
+            "In October, Hastert pleaded guilty to breaking federal banking rules to structure the ensuing payments to hide \u201cprior bad acts.",
+            "Hastert pleaded guilty in October to illegally structuring bank withdrawals to evade reporting rules for large transactions."
+        ],
+        "tf-idf score": [
+            0.658187702314464,
+            0.684136819764011,
+            0.606575486857255
+        ]
+    },
+    "0.3067831336636126-3-37": {
+        "average clique similarity": 0.3067831336636126,
+        "clique": [
+            "3-He added   What I di",
+            "1-Eventually  after re",
+            "2- I am sorry to those"
+        ],
+        "median tf-idf score": 0.1655878220778431,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "He added: \u201dWhat I did was wrong and I regret it\u201d.",
+            "Eventually, after recording conversations between Mr Hastert and Individual A, the investigators dismissed the notion that it was a case of extortion, or that it was a false claim.",
+            "\u201cI am sorry to those I hurt and misled   \u2026     What I did was wrong, and I regret it."
+        ],
+        "tf-idf score": [
+            0.15179916735625573,
+            0.7783652424953446,
+            0.1655878220778431
+        ]
+    },
+    "0.31530643228779726-3-13": {
+        "average clique similarity": 0.31530643228779726,
+        "clique": [
+            "1-CHICAGO      A man w",
+            "3-Updated at 2 30 p  m",
+            "4- Read the complaint "
+        ],
+        "median tf-idf score": 1.1261543481680494,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "CHICAGO  \u2014   A man who says J Dennis Hastert, the former speaker of the House, molested him decades ago when the man was 14 filed a lawsuit against Mr Hastert on Monday, saying he was owed $1.",
+            "Updated at 2:30 p. m. ET, Former House Speaker Dennis Hastert admitted at his sentencing hearing Wednesday that he sexually abused more than one student when he was a teacher and wrestling coach in Illinois decades ago, and said he was \u201dashamed\u201d.",
+            "\u2019Read the complaint here:\u2019] A man who claims former House Speaker Dennis Hastert sexually abused him as a teenager filed a lawsuit Monday claiming he\u2019s still owed $1."
+        ],
+        "tf-idf score": [
+            1.1261543481680494,
+            1.1385874594651528,
+            0.9235430327117042
+        ]
+    },
+    "0.32877952777599334-3-105": {
+        "average clique similarity": 0.32877952777599334,
+        "clique": [
+            "0-Scott s brother  Tom",
+            "2-Before Durkin s ruli",
+            "3-The    s brother is "
+        ],
+        "median tf-idf score": 0.9165311327037647,
+        "publications": [
+            "NPR",
+            "New York Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Scott\u2019s brother, Tom Cross, served as the Illinois House GOP leader for 11 years and was a political prot\u00e9g\u00e9 of Hastert during his political career.",
+            "Before Durkin\u2019s ruling, Hastert, 74, was confronted by banking executive Scott Cross  \u2014   whose brother is former Illinois Republican House leader and Hastert protegee Tom Cross.",
+            "The   \u2019s brother is former longtime Illinois House Rep. Tom Cross, who has considered Hastert a political mentor, David reports."
+        ],
+        "tf-idf score": [
+            0.9491970314000027,
+            0.9165311327037647,
+            0.7486881839440291
+        ]
+    },
+    "0.3513934482773524-3-164": {
+        "average clique similarity": 0.3513934482773524,
+        "clique": [
+            "3-The   Republican spe",
+            "0-Hastert faced five y",
+            "4-  He faces up to fiv"
+        ],
+        "median tf-idf score": 0.2560832899088573,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The   Republican speaker in U S history had faced up to five years in prison for the financial crimes.",
+            "Hastert faced five years in prison for the charges under federal sentencing guidelines.",
+            "\u201d He faces up to five years in prison when he is sentenced Wednesday for the banking violations."
+        ],
+        "tf-idf score": [
+            0.24982159712219343,
+            0.6283902448670486,
+            0.2560832899088573
+        ]
+    },
+    "0.39325138250910746-4-102": {
+        "average clique similarity": 0.39325138250910746,
+        "clique": [
+            "4-8 million in unpaid ",
+            "1-8 million of the mon",
+            "0-8 million in compens",
+            "3-5 million in  compen"
+        ],
+        "median tf-idf score": 0.10932603709385003,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Buzzfeed News",
+            "New York Times"
+        ],
+        "sentences": [
+            "8 million in unpaid hush money.",
+            "8 million of the money he had been promised as compensation for the abuse.",
+            "8 million in compensation on Monday.",
+            "5 million in \u201dcompensation\u201d."
+        ],
+        "tf-idf score": [
+            0.11674467215833803,
+            0.17187437839167682,
+            0.10190740202936201,
+            0.06873643168900871
+        ]
+    },
+    "0.4146390156006518-3-22": {
+        "average clique similarity": 0.4146390156006518,
+        "clique": [
+            "3-In addition  accordi",
+            "2-Hastert will also ha",
+            "0-Judge Thomas Durkin "
+        ],
+        "median tf-idf score": 0.4411780875802863,
+        "publications": [
+            "New York Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In addition, according to The Associated Press, the sentence calls for \u201dsex offender treatment, two years of supervised release after his time behind bars and a $250, 000 fine that will go to a crime victims fund\u201d.",
+            "Hastert will also have to do two years of supervised release, undergo treatment for sex offenders, and pay $250, 000 to a group that advocates for   victims.",
+            "Judge Thomas Durkin also imposed two years\u2019 supervised release, a $250, 000 fine, and attendance in a   treatment program."
+        ],
+        "tf-idf score": [
+            0.4411780875802863,
+            0.6482098835683934,
+            0.3162051282071095
+        ]
+    }
+}

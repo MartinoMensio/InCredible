@@ -1,0 +1,462 @@
+{
+    "0.16972026385471062-3-66": {
+        "average clique similarity": 0.16972026385471062,
+        "clique": [
+            "2-But the footage of t",
+            "0-For those details th",
+            "6-The judge said he di"
+        ],
+        "median tf-idf score": 0.6776188578839715,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "But the footage of the confession later suggested that investigators had essentially pushed Dassey, who by his own admission is not very smart, into confessing by using leading questions.",
+            "For those details that were not publicly known but were known by the investigators at the time of his interrogation  \u2014   like that Halbach had been shot in the head  \u2014   the judge wrote that investigators prompted Dassey, telling him \u201csomething else was done  \u2026    Something with the head.",
+            "The judge said he didn\u2019t believe investigators tried to trick Dassey into confessing but instead misunderstood the constitutional ramifications of telling him that they already knew everything that happened and he would be OK if he told the truth."
+        ],
+        "tf-idf score": [
+            0.5668143313659016,
+            0.9180205565383427,
+            0.6776188578839715
+        ]
+    },
+    "0.20290888857426612-3-121": {
+        "average clique similarity": 0.20290888857426612,
+        "clique": [
+            "2-A second season of N",
+            "0- As we have done for",
+            "6-Netflix said last mo"
+        ],
+        "median tf-idf score": 0.2260853968556893,
+        "publications": [
+            "Buzzfeed News",
+            "Vox",
+            "CNN"
+        ],
+        "sentences": [
+            "A second season of Netflix\u2019s Making a Murderer was announced in July, but it\u2019s unclear how many episodes it will comprise.",
+            "\u201cAs we have done for the past 10 years, we will continue to document the story as it unfolds, and follow it wherever it may lead,\u201d the statement read.",
+            "Netflix said last month it has started production on new episodes of its docuseries that will act as a   to Season 1."
+        ],
+        "tf-idf score": [
+            0.4509808032455789,
+            0.2260853968556893,
+            0.21460127988697292
+        ]
+    },
+    "0.23763798690711274-3-297": {
+        "average clique similarity": 0.23763798690711274,
+        "clique": [
+            "7-Dassey by sarah lari",
+            "6-His uncle  Steven Av",
+            "4- absence ofsupportiv"
+        ],
+        "median tf-idf score": 0.8360020313040506,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Dassey by sarah_larimer on Scribd  Read More: More than 170, 000 call for pardon of \u2018Making a Murderer\u2019 subject Steven Avery Netflix takes a page from \u2018Serial\u2019 in gripping documentary series How listening to \u2018Serial\u2019 made us doubt \u2018Making a Murderer\u2019",
+            "His uncle, Steven Avery, the subject of \u201dMaking a Murderer,\u201d is in a Wisconsin prison also serving time for Halbach\u2019s murder.",
+            ".absence ofsupportive adult, rendered confession involuntary, The Netflix series Making a Murderer describes the story of Steven Avery and Dassey, Avery\u2019s nephew."
+        ],
+        "tf-idf score": [
+            0.8360020313040506,
+            0.6359658044340545,
+            0.9619030406074577
+        ]
+    },
+    "0.24365144123791038-3-297": {
+        "average clique similarity": 0.24365144123791038,
+        "clique": [
+            "5-He was sentenced to ",
+            "6-After serving 18 yea",
+            "7-Later that year  he "
+        ],
+        "median tf-idf score": 0.3115115548920402,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He was sentenced to 41 years.",
+            "After serving 18 years in prison he was exonerated based on DNA evidence connecting the attack to another man.",
+            "Later that year, he was sentenced to life in prison."
+        ],
+        "tf-idf score": [
+            0.24440887476990275,
+            0.35206692104472315,
+            0.3115115548920402
+        ]
+    },
+    "0.2587426815443365-3-297": {
+        "average clique similarity": 0.2587426815443365,
+        "clique": [
+            "1-They told the teen a",
+            "3-Investigators who in",
+            "0-In summarizing his p"
+        ],
+        "median tf-idf score": 0.5544750254909958,
+        "publications": [
+            "Business Insider",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "They told the teen at least   21 times that they knew exactly what happened to Halbach.",
+            "Investigators who interviewed Dassey during his confession told the teenager that they already \u201cknew everything that happened\u201d and that they would \u201cstand behind you no matter what you did\u201d.",
+            "In summarizing his position, Duffin said Dassey was led to believe that if he told investigators the version of the story that they wanted to hear, he would not face any negative consequences."
+        ],
+        "tf-idf score": [
+            0.22441179635232594,
+            0.5544750254909958,
+            0.8510746123877714
+        ]
+    },
+    "0.274288029337505-3-267": {
+        "average clique similarity": 0.274288029337505,
+        "clique": [
+            "3-Duffin called the co",
+            "4-John Diedrich  a rep",
+            "7-Fed judge calls cond"
+        ],
+        "median tf-idf score": 0.8193293745775456,
+        "publications": [
+            "Guardian",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Duffin called the conduct of Dassey\u2019s attorney \u201cindefensible\u201d in his ruling.",
+            "John Diedrich, a reporter with the Milwaukee   reported that the federal judge in the case called the actions by Dassey\u2019s attorney \u201cindefensible.",
+            "Fed judge calls conduct by #Dassey attorney\u2019s, Kachinsky, \u201dindefensible\u201d #MakingAMurderer  \u2014   John Diedrich (@john_diedrich) August 12, 2016     Records: In 3 weeks after appointment, Dassy\u2019s attorney, Kachinsky, spent about 1 hour   Dassey and at least 10 hrs communicating   press  \u2014   Ashley Luthern (@aluthern) August 12, 2016   Avery was convicted of   intentional homicide and being a felon in possession of a firearm in 2007."
+        ],
+        "tf-idf score": [
+            0.5495801707686706,
+            0.8193293745775456,
+            1.200191060381886
+        ]
+    },
+    "0.27452426715150435-4-297": {
+        "average clique similarity": 0.27452426715150435,
+        "clique": [
+            "7-  In his   filing  U",
+            "2-The state has 90 day",
+            "4-Brendan Dassey must ",
+            "6-In overturning the c"
+        ],
+        "median tf-idf score": 0.7641806968931611,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Atlantic",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201d In his   filing, U S Magistrate Judge William Duffin wrote that the    Dassey, who is Avery\u2019s nephew, should be released from custody unless the state decides to retry him within 90 days.",
+            "The state has 90 days to appeal and retry Dassey.",
+            "Brendan Dassey must be released from custody in 90 days, unless the State wants to retry him #MakingAMurderer pic.",
+            "In overturning the conviction, the judge cited the manner in which a confession was obtained from Dassey, who according to court documents has a low IQ Prosecutors have 90 days to bring Dassey, now 26, to trial again or he will be released."
+        ],
+        "tf-idf score": [
+            0.8956640558672778,
+            0.5039389145115595,
+            0.6326973379190445,
+            1.1006683725485222
+        ]
+    },
+    "0.27487298496895324-3-263": {
+        "average clique similarity": 0.27487298496895324,
+        "clique": [
+            "4-Please follow the st",
+            "0- Brendan Dassey  who",
+            "2-Once the documentary"
+        ],
+        "median tf-idf score": 1.5504610038291204,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "Vox"
+        ],
+        "sentences": [
+            "Please follow the steps below, NEWS BRIEF A federal judge in Milwaukee overturned Friday the murder conviction of Brendan Dassey, who was convicted as a teenager of killing Teresa Halbach, and whose case was the subject of the Netflix show Making a Murderer.",
+            "\u2019Brendan Dassey, whose murder case was the subject of Netflix\u2019s hit series Making a Murderer, had his conviction overturned by a federal judge on Friday.\u2019 \u2019 Judge William E Duffin found that Dassey\u2019s confession in the murder of Teresa Halbach was involuntary under the Fifth and 14th Amendments, according to court documents.\u2019 \u2019After Avery\u2019s arrest, investigators learned that his nephew, Dassey, had been acting strange, according to court records.\u2019 \u2019The Halbach case became widely known this year after it was the subject of the Netflix series Making a Murderer.\u2019 \u2019 Read the full court order here:\u2019] Dassey was 16 when he was accused of helping his uncle, Steven Avery, murder and rape Halbach and dispose of her body in Manitowoc County, Wisconsin.",
+            "Once the documentary launched, both men became the subject of frequent news headlines and calls for retrials after the show highlighted how the investigation and trial were handled (or rather, mishandled, in the show\u2019s point of view)."
+        ],
+        "tf-idf score": [
+            1.5504610038291204,
+            2.3461344585323802,
+            0.2651100402213468
+        ]
+    },
+    "0.2754920275398708-3-17": {
+        "average clique similarity": 0.2754920275398708,
+        "clique": [
+            "3-Kachinsky was the su",
+            "0-Although Avery was t",
+            "7-Avery s story was th"
+        ],
+        "median tf-idf score": 0.6726812425558402,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Kachinsky was the subject of an outpouring of criticism after the series was released and viewers questioned his conduct.",
+            "Although Avery was the focus of the story, Dassey\u2019s conviction was also seen by many viewers as an outrage.",
+            "Avery\u2019s story was the focus of \u201cMaking a Murderer,\u201d a   documentary series from Netflix that was released in December."
+        ],
+        "tf-idf score": [
+            0.4748131480411163,
+            0.7123609836517569,
+            0.6726812425558402
+        ]
+    },
+    "0.2908164183449954-3-297": {
+        "average clique similarity": 0.2908164183449954,
+        "clique": [
+            "4-They were both convi",
+            "2-As detailed in Makin",
+            "3-Dassey and his uncle"
+        ],
+        "median tf-idf score": 0.6467476452678176,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "They were both convicted in 2005 for Halbach\u2019s murder, and are serving life sentences.",
+            "As detailed in Making a Murder, which launched on Netflix in December and quickly became wildly popular, both Dassey and his uncle, Steven Avery, were accused of, put on trial for, and convicted of Halbach\u2019s murder.",
+            "Dassey and his uncle Steven Avery were found guilty in Halbach\u2019s 2005 death in separate trials."
+        ],
+        "tf-idf score": [
+            0.2936747808114098,
+            0.9564305173331863,
+            0.6467476452678176
+        ]
+    },
+    "0.29703776355386496-3-34": {
+        "average clique similarity": 0.29703776355386496,
+        "clique": [
+            "1-      According to  ",
+            "7-  In its report on t",
+            "5-Judge William Duffin"
+        ],
+        "median tf-idf score": 1.0271381127410817,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u2019 \u201d   According to  a federal judge in Milwaukee ruled that   Dassey\u2019s constitutional rights were violated when authorities   questioned him without an adult present.",
+            "\u201d In its report on the ruling, the Milwaukee Journal Sentinel noted that Duffin \u201cwas highly critical of investigators, Dassey\u2019s pretrial attorney and the state courts on how they handled the case, concluding that Dassey\u2019s constitutional rights were violated.",
+            "Judge William Duffin said Dassey\u2019s rights were violated when he was offered \u201cfalse promises\u201d by cops who grilled the     on the 2005 murder without an adult present."
+        ],
+        "tf-idf score": [
+            0.6849480294977957,
+            1.0975775946671928,
+            1.0271381127410817
+        ]
+    },
+    "0.29745274065755206-3-181": {
+        "average clique similarity": 0.29745274065755206,
+        "clique": [
+            "5-Dassey  a   student ",
+            "2-Kachinsky was appoin",
+            "3-Dassey  who was 16 a"
+        ],
+        "median tf-idf score": 0.8823750389104826,
+        "publications": [
+            "New York Post",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "Dassey, a   student, confessed to helping his uncle Steven Avery rape and kill Teresa Halbach.",
+            "Kachinsky was appointed to represent Dassey after Dassey confessed to police on March 1, 2005, that he\u2019d helped Avery kill Halbach.",
+            "Dassey, who was 16 at the time of the killing, confessed to having helped his uncle Steven Avery carry out the rape and murder of Halbach, but attorneys argued that the confession was coerced."
+        ],
+        "tf-idf score": [
+            0.7476943877097635,
+            0.8823750389104826,
+            1.1550030641000957
+        ]
+    },
+    "0.3214891487032362-3-297": {
+        "average clique similarity": 0.3214891487032362,
+        "clique": [
+            "1-      Dassey is one ",
+            "5-A Wisconsin man who ",
+            "2- On Friday  August 1"
+        ],
+        "median tf-idf score": 1.1704367834067073,
+        "publications": [
+            "Business Insider",
+            "New York Post",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201d \u2019   Dassey is one of the primary subjects of Netflix\u2019\u2019s hit     docuseries \u201dMaking a Murderer,\u201d which tracks the trials of both   Dassey and his uncle Steven Avery, who were both convicted for   the 2005 murder of Halbach on their family property in Manitowoc   County, Wisconsin.",
+            "A Wisconsin man who was convicted as a teen of helping his uncle rape and kill a woman  \u2014   in a case profiled in the hit Netflix documentary series \u201cMaking a Murderer\u201d  \u2014   will be  released from prison.",
+            " On Friday, August 12, it was announced that Brendan Dassey  \u2014   a convicted killer in the 2005 murder of Teresa Halbach and one of the subjects of the Netflix documentary series Making a Murderer  \u2014   could be a free man, or get a new trial."
+        ],
+        "tf-idf score": [
+            1.1704367834067073,
+            0.9833887420999838,
+            1.3310790363234142
+        ]
+    },
+    "0.3388952794425867-3-297": {
+        "average clique similarity": 0.3388952794425867,
+        "clique": [
+            "3-Federal magistrate W",
+            "7-         A federal j",
+            "1-         Brendan Das"
+        ],
+        "median tf-idf score": 1.1670337731063403,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Federal magistrate William Duffin handed down the ruling in the murder of Teresa Halbach of Wisconsin.",
+            "         A federal judge in Wisconsin on Friday overturned the conviction of Brendan Dassey, a figure in the Steven Avery case, which was featured in the Netflix documentary series \u201cMaking a Murderer.",
+            "\u2019  \u2019 \u2019   Brendan Dassey, the \u201dMaking a Murderer\u201d subject who was just 17   years old when he was convicted of the murder of Teresa Halbach,   has had his convictions overturned."
+        ],
+        "tf-idf score": [
+            0.44721418975553584,
+            1.3445795190867436,
+            1.1670337731063403
+        ]
+    },
+    "0.34509637231260487-3-105": {
+        "average clique similarity": 0.34509637231260487,
+        "clique": [
+            "7-    Chris Geidner   ",
+            "1-      John Diedrich ",
+            "3-If prosecutors don t"
+        ],
+        "median tf-idf score": 0.6364299826057891,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u2014   Chris Geidner (@chrisgeidner) August 12, 2016     Dassey goes free in 90 days if state does not refile #makingofamurderer  \u2014   John Diedrich (@john_diedrich) August 12, 2016   Steven Avery and Dassey were convicted in the 2005 murder of Teresa Halbach, a    photographer.",
+            "\u2019 \u2019   John Diedrich of the Journal Sentinel is reporting that Dassey   will go free in 90 days if state prosecutors do not refile   charges.",
+            "If prosecutors don\u2019t refile charges within 90 days, Dassey will walk free."
+        ],
+        "tf-idf score": [
+            1.0253031528699348,
+            0.6364299826057891,
+            0.48735918584727667
+        ]
+    },
+    "0.35875240698888705-3-297": {
+        "average clique similarity": 0.35875240698888705,
+        "clique": [
+            "5-A federal court in M",
+            "3-A judge overturned t",
+            "6-  CNN  The convictio"
+        ],
+        "median tf-idf score": 0.964858063289238,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "A federal court in Milwaukee overturned Brendan Dassey\u2019s 2007 conviction Friday and ordered him freed within 90 days.",
+            "A judge overturned the murder conviction of Brendan Dassey, the subject of the Netflix documentary series Making a Murderer, on Friday.",
+            " (CNN) The conviction of Brendan Dassey, a Wisconsin man who appeared in the documentary \u201dMaking a Murderer,\u201d has been overturned by a federal judge in Milwaukee, according to court documents obtained by CNN Dassey was convicted in 2007 of the murder of photographer Teresa Halbach."
+        ],
+        "tf-idf score": [
+            0.7379147833381052,
+            0.964858063289238,
+            1.5163347893744634
+        ]
+    },
+    "0.43992841782839615-3-297": {
+        "average clique similarity": 0.43992841782839615,
+        "clique": [
+            "6-Federal judge Willia",
+            "2-The Wisconsin Court ",
+            "0-   The court finds t"
+        ],
+        "median tf-idf score": 0.9856796181359906,
+        "publications": [
+            "CNN",
+            "Vox",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Federal judge William E Duffin overturned Dassey\u2019s convictions based on the way the confession was attained, calling it \u201dso clearly involuntary in a constitutional sense that the court of appeals\u2019 decision to the contrary was an unreasonable application of clearly established federal law\u201d.",
+            "The Wisconsin Court of Appeals\u2019 decision to the contrary was an unreasonable application of clearly established federal law.",
+            "\u201d \u201cThe court finds that the confession Dassey gave to the police on March 1, 2006 was so clearly involuntary in a constitutional sense that the court of appeals\u2019 decision to the contrary was an unreasonable application of clearly established federal law,\u201d he wrote."
+        ],
+        "tf-idf score": [
+            1.2040787328588896,
+            0.4842148702136922,
+            0.9856796181359906
+        ]
+    },
+    "0.5779713864275574-3-297": {
+        "average clique similarity": 0.5779713864275574,
+        "clique": [
+            "7- These repeated fals",
+            "2-Duffin wrote      Th",
+            "3- These repeated fals"
+        ],
+        "median tf-idf score": 0.9247916662757527,
+        "publications": [
+            "Washington Post",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201cThese repeated false promises, when considered in conjunction with all relevant factors, most especially Dassey\u2019s age, intellectual deficits, and the absence of a supportive adult, rendered Dassey\u2019s confession involuntary under the Fifth and Fourteenth Amendments.",
+            "Duffin wrote:     These repeated false promises, when considered in conjunction with all relevant factors, most especially Dassey\u2019s age, intellectual deficits, and the absence of a supportive adult, rendered Dassey\u2019s confession involuntary under the Fifth and Fourteenth Amendments.",
+            "\u201cThese repeated false promises, when considered in conjunction with all relevant factors, most especially Dassey\u2019s age, intellectual deficits, and the absence of a supportive adult, rendered Dassey\u2019s confession involuntary under the Fifth and Fourteenth Amendments,\u201d Duffin wrote in his   ruling."
+        ],
+        "tf-idf score": [
+            0.811206468670884,
+            0.9247916662757527,
+            0.9640516405624885
+        ]
+    },
+    "0.7016107467363047-3-250": {
+        "average clique similarity": 0.7016107467363047,
+        "clique": [
+            "1-      Dassey was con",
+            "5-Dassey  now 26  was ",
+            "7-In April 2007  Dasse"
+        ],
+        "median tf-idf score": 0.7002450907038235,
+        "publications": [
+            "Business Insider",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u2019 \u2019   Dassey was convicted in 2007 to 41 years in prison on     intentional homicide,   sexual assault,   and mutilation of a corpse.",
+            "Dassey, now 26, was convicted of   intentional homicide,   sexual assault and mutilation of a corpse.",
+            "In April 2007, Dassey was convicted of homicide, sexual assault and mutilation of a corpse."
+        ],
+        "tf-idf score": [
+            0.763256857490644,
+            0.7002450907038235,
+            0.6815499038781005
+        ]
+    }
+}

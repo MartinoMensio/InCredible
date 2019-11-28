@@ -1,0 +1,414 @@
+{
+    "0.2122598504024196-3-90": {
+        "average clique similarity": 0.2122598504024196,
+        "clique": [
+            "4- That was the extent",
+            "2-It was of little sur",
+            "3- It really was a soc"
+        ],
+        "median tf-idf score": 0.6214351447028779,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201cThat was the extent of that.",
+            "It was of little surprise that Republicans seized on Lynch\u2019s meeting with her husband.",
+            "\u201dIt really was a social meeting, and it was, it really was in that regard,\u201d she said."
+        ],
+        "tf-idf score": [
+            0.1677815246256184,
+            0.6958156883815823,
+            0.6214351447028779
+        ]
+    },
+    "0.2231951768025703-3-150": {
+        "average clique similarity": 0.2231951768025703,
+        "clique": [
+            "2- The most important ",
+            "3- Attorney General Ly",
+            "0- In light of the app"
+        ],
+        "median tf-idf score": 1.164414293312365,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201cThe most important thing for me as attorney general is the integrity of this Department of Justice,\u201d she said.",
+            "\u201dAttorney General Lynch\u2019s meeting with President Clinton creates the appearance of a violation of law, ethical standards and good judgment,\u201d the group said in a statement.",
+            "\u201cIn light of the apparent conflicts of interest, I have called repeatedly on Attorney General Lynch to appoint a special counsel to ensure the investigation is as far from politics as possible,\u201d Senator John Cornyn, Republican of Texas and a member of the Judiciary Committee, said in a statement on Thursday."
+        ],
+        "tf-idf score": [
+            0.5986845641938952,
+            1.23730373346872,
+            1.164414293312365
+        ]
+    },
+    "0.2287768487223195-3-63": {
+        "average clique similarity": 0.2287768487223195,
+        "clique": [
+            "3-The White House has ",
+            "2- This is something t",
+            "0-  At the White House"
+        ],
+        "median tf-idf score": 0.5957101411996442,
+        "publications": [
+            "New York Times",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "The White House has maintained that the Justice Department is keeping politics out of the investigation, which is happening at the same time as Hillary Clinton\u2019s run for office.",
+            "\u201cThis is something that is being handled completely independent of the president and completely independent of the White House,\u201d Earnest said at a press briefing on Friday.",
+            "\u201d At the White House, Mr Earnest was asked repeatedly about the propriety of the meeting."
+        ],
+        "tf-idf score": [
+            0.7887794892227401,
+            0.5957101411996442,
+            0.5915812872187357
+        ]
+    },
+    "0.23883981902334325-3-220": {
+        "average clique similarity": 0.23883981902334325,
+        "clique": [
+            "1-Lynch said on Friday",
+            "3-The criticism of the",
+            "2-Lynch said she would"
+        ],
+        "median tf-idf score": 1.0654246856197314,
+        "publications": [
+            "Reuters",
+            "CNN",
+            "Guardian"
+        ],
+        "sentences": [
+            "Lynch said on Friday that she had already decided to accept whatever recommendations prosecutors presented her before her meeting with Bill Clinton.",
+            "The criticism of the meeting prompted Lynch to say Friday that she will accept the determinations and findings of the FBI and career prosecutors who are investigating Clinton\u2019s email use.",
+            "Lynch said she would \u201cfully accept\u201d whatever recommendations were made by the FBI and prosecutors, but sought to quell concerns stemming from the encounter with Bill Clinton, at an airport in Phoenix, reiterating that the justice department process for the email case remained wholly independent."
+        ],
+        "tf-idf score": [
+            1.0248847932980665,
+            1.0654246856197314,
+            1.3291216470052705
+        ]
+    },
+    "0.2632291399179777-3-37": {
+        "average clique similarity": 0.2632291399179777,
+        "clique": [
+            "3-The meeting instantl",
+            "1-Republican lawmakers",
+            "4-    Attorney General"
+        ],
+        "median tf-idf score": 1.420282174633362,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Reuters"
+        ],
+        "sentences": [
+            "The meeting instantly drew criticism from Republicans and even some Democrats, who said that just the decision for the two to interact was a mistake while the Justice Department is conducting an investigation of Clinton\u2019s private email server.",
+            "Republican lawmakers have called for an independent investigation of Hillary Clinton\u2019s use of a private email server while secretary of state, saying the Obama administration\u2019s Justice Department could not be free of bias.",
+            "    Attorney General Loretta Lynch said Friday she will fully accept the recommendations of an   investigation into whether to bring charges against Hillary Clinton and her use of a private email sever while she was secretary of state."
+        ],
+        "tf-idf score": [
+            1.420282174633362,
+            1.1535144544367875,
+            1.605273592740646
+        ]
+    },
+    "0.2644879818408978-3-22": {
+        "average clique similarity": 0.2644879818408978,
+        "clique": [
+            "1-The private meeting ",
+            "0-The Obama administra",
+            "3-Bill Clinton and Lyn"
+        ],
+        "median tf-idf score": 0.6777613794264068,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "The private meeting with the former president took place on Lynch\u2019s plane after she landed in Phoenix on Monday night.",
+            "The Obama administration declined to say on Thursday whether the meeting between Ms Lynch and Mr Clinton, in Phoenix on Monday night, was appropriate.",
+            "Bill Clinton and Lynch met privately on Monday."
+        ],
+        "tf-idf score": [
+            0.6777613794264068,
+            1.072810151376929,
+            0.4864612940628
+        ]
+    },
+    "0.2778623079745139-4-1": {
+        "average clique similarity": 0.2778623079745139,
+        "clique": [
+            "3-Opinion  Bill Clinto",
+            "2-The presumptive GOP ",
+            "0-Donald J Trump  the ",
+            "1-Republicans  includi"
+        ],
+        "median tf-idf score": 0.7796722141579402,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "New York Times",
+            "Reuters"
+        ],
+        "sentences": [
+            "Opinion: Bill Clinton and Loretta Lynch meeting shows \u2019incredibly bad judgment\u2019 Presumptive Republican presidential nominee Donald Trump also spotlighted the encounter on the campaign trail and on Twitter.",
+            "The presumptive GOP nominee, Donald Trump, used Twitter to raise questions over the encounter and its timing.",
+            "Donald J Trump, the presumptive Republican nominee, seized on the incident, describing it in a radio interview as a \u201csneak\u201d meeting and saying it exposed the rigged nature of the process.",
+            "Republicans, including presumptive Republican presidential nominee Donald Trump, have said a political appointee like Lynch should not be involved in the email investigation and that the Monday night meeting with Bill Clinton shows Lynch is too close to the Clintons."
+        ],
+        "tf-idf score": [
+            1.0026200389387407,
+            0.22667770874208132,
+            0.5567243893771395,
+            1.461858672595732
+        ]
+    },
+    "0.30373494088283515-3-193": {
+        "average clique similarity": 0.30373494088283515,
+        "clique": [
+            "1-The FBI is investiga",
+            "4-The FBI is probing w",
+            "0-Since last summer  t"
+        ],
+        "median tf-idf score": 0.9807121303704723,
+        "publications": [
+            "New York Times",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "The FBI is investigating Hillary Clinton\u2019s email use and whether laws were broken as a result of a personal email server kept in her Chappaqua, New York, home while she was secretary of state, an issue that has overshadowed her campaign.",
+            "The FBI is probing whether Clinton or her aides violated the law by setting up a private email server for her to conduct government business while serving as President Obama\u2019s Secretary of State.",
+            "Since last summer, the F B I has been investigating whether Mrs Clinton or her aides violated laws on the protection of classified material by using a private email address and  server in the Clintons\u2019 home in Chappaqua, N Y The F B I is expected to make a recommendation to the Justice Department in the coming weeks."
+        ],
+        "tf-idf score": [
+            0.9913313836056975,
+            0.8129344064559925,
+            0.9807121303704723
+        ]
+    },
+    "0.32542759070557503-3-185": {
+        "average clique similarity": 0.32542759070557503,
+        "clique": [
+            "1- U S Attorney Genera",
+            "2-Loretta Lynch  the U",
+            "0-WASHINGTON      An a"
+        ],
+        "median tf-idf score": 1.7307868127189558,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "New York Times"
+        ],
+        "sentences": [
+            " U S Attorney General Loretta Lynch, seeking to tamp down a firestorm over meeting with former President Bill Clinton, said on Friday she will accept the recommendations of career prosecutors and the FBI director on whether to charge Hillary Clinton for mishandling emails.",
+            "Loretta Lynch, the US attorney general, acknowledged on Friday that her meeting with Bill Clinton this week had \u201ccast a shadow\u201d over the justice department\u2019s investigation into Hillary Clinton\u2019s use of a private email server while she was secretary of state.",
+            "WASHINGTON  \u2014   An airport encounter this week between Attorney General Loretta E Lynch and former President Bill Clinton has welled into a political storm, with Republicans asserting that it compromised the Justice Department\u2019s politically sensitive investigation into Hillary Clinton\u2019s email practices while she was secretary of state."
+        ],
+        "tf-idf score": [
+            1.5670479669842297,
+            1.8019651738413853,
+            1.7307868127189558
+        ]
+    },
+    "0.3401950328424066-3-12": {
+        "average clique similarity": 0.3401950328424066,
+        "clique": [
+            "1-The Justice Departme",
+            "0-The press secretary ",
+            "3-Without commenting d"
+        ],
+        "median tf-idf score": 1.1827479620937231,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "The Justice Department, along with the White House, has said the probe should be free of political interference.",
+            "The press secretary, Josh Earnest, said that the investigation of Mrs Clinton would be free of political influence and that he would leave it to the attorney general to explain the meeting.",
+            "Without commenting directly on Lynch\u2019s meeting, White House Press Secretary Josh Earnest reiterated Thursday that President Barack Obama is committed to avoiding \u201dpolitical interference\u201d in Department of Justice investigations, and said Lynch understands investigations should be \u201dconducted free of political influence and consistent with the facts\u201d."
+        ],
+        "tf-idf score": [
+            0.6357720184363317,
+            1.1827479620937231,
+            1.4939273490791347
+        ]
+    },
+    "0.34753655422242796-3-220": {
+        "average clique similarity": 0.34753655422242796,
+        "clique": [
+            "3-The 42nd president s",
+            "4-  Lynch acknowledged",
+            "1-With a regretful ton"
+        ],
+        "median tf-idf score": 1.4526782490197248,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "Reuters"
+        ],
+        "sentences": [
+            "The 42nd president\u2019s remarks echo those made by Lynch on Friday, who acknowledged that the meeting has cast a \u201dshadow\u201d over the Justice Department\u2019s investigation into a private email server used by Hillary Clinton while she was leading the State Department.",
+            "\u201d Lynch acknowledged an impromptu meeting with former President Bill Clinton earlier this week \u201ccast a shadow\u201d on public perception of the email investigation into his wife.",
+            "With a regretful tone, Lynch said on Friday she would not privately meet with Bill Clinton again and that she understood how the meeting \u201dcasts a shadow\u201d over the perception of the Justice Department\u2019s probe into Hillary Clinton\u2019s email use."
+        ],
+        "tf-idf score": [
+            1.7114225770498472,
+            1.1537449576354915,
+            1.4526782490197248
+        ]
+    },
+    "0.38611236595640785-3-220": {
+        "average clique similarity": 0.38611236595640785,
+        "clique": [
+            "2-John Cornyn  the   R",
+            "3-2 Republican in the ",
+            "4- In light of the app"
+        ],
+        "median tf-idf score": 0.6663567854732726,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "John Cornyn, the   Republican in the Senate, cited concerns over the ability of the justice department to prove its investigation was truly independent.",
+            "2 Republican in the Senate, Texas Sen. John Cornyn, called for a special counsel Thursday to take over the investigation into the private server, citing the appearance of impropriety.",
+            "\u201cIn light of the apparent conflicts of interest, I have called repeatedly on Attorney General Lynch to appoint a special counsel to ensure the investigation is as far from politics as possible,\u201d Sen.  John Cornyn,   said."
+        ],
+        "tf-idf score": [
+            0.6663567854732726,
+            0.5243069977621112,
+            1.0086291655776058
+        ]
+    },
+    "0.40423991183315094-3-145": {
+        "average clique similarity": 0.40423991183315094,
+        "clique": [
+            "3-And Democratic Sen  ",
+            "2- I do think that thi",
+            "0-But I do think that "
+        ],
+        "median tf-idf score": 0.6229521320913112,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "And Democratic Sen. Chris Coons also joined the fray, expressing confidence in Lynch\u2019s objectivity but decrying the meeting, even if innocuous, as sending the wrong signal.",
+            "\u201cI do think that this meeting sends the wrong signal, and I don\u2019t think it sends the right signal,\u201d Coons told CNN \u201cI think she should have steered clear, even of a brief, casual, social meeting with the former president.",
+            "But I do think that this meeting sends the wrong signal, and I don\u2019t think it sends the right signal."
+        ],
+        "tf-idf score": [
+            0.63113410453531,
+            0.6229521320913112,
+            0.35722857686882786
+        ]
+    },
+    "0.422027384855923-3-80": {
+        "average clique similarity": 0.422027384855923,
+        "clique": [
+            "3- No matter how I vie",
+            "2- It s important to m",
+            "4- No matter how I vie"
+        ],
+        "median tf-idf score": 0.6677316440956026,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dNo matter how I viewed it, I understand how people view it,\u201d she said.",
+            "\u201cIt\u2019s important to make it clear that that meeting with President Clinton does not have a bearing on how this matter will be reviewed and resolved.",
+            "\u201cNo matter how I viewed it, I understand how other people view it,\u201d she said, acknowledging the meeting raised eyebrows over the impartiality of the investigation into Hillary Clinton."
+        ],
+        "tf-idf score": [
+            0.3210427389051661,
+            0.6677316440956026,
+            0.9608762476380476
+        ]
+    },
+    "0.45006388714543544-3-136": {
+        "average clique similarity": 0.45006388714543544,
+        "clique": [
+            "0- He did come over an",
+            "4- He did come over an",
+            "2-Lynch said the conve"
+        ],
+        "median tf-idf score": 0.9356492462826792,
+        "publications": [
+            "Guardian",
+            "Fox News",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201cHe did come over and say hello, and speak to my husband and myself, and talk about his grandchildren and his travels and things like that,\u201d Ms Lynch said at a news conference in Los Angeles on Wednesday, where she was promoting community policing.",
+            "\u201cHe did come over and say hello, and speak to my husband and myself, and talk about his grandchildren and his travels and things like that,\u201d Lynch said at a news conference in Los Angeles on Wednesday, where she was promoting community policing.",
+            "Lynch said the conversation was \u201csocial\u201d touching on topics such as grandchildren, recent travels and golf."
+        ],
+        "tf-idf score": [
+            0.9356492462826792,
+            0.9356492462826792,
+            0.716369868818991
+        ]
+    },
+    "0.5845059671653093-3-115": {
+        "average clique similarity": 0.5845059671653093,
+        "clique": [
+            "2-Speaking at the Aspe",
+            "4- It has cast a shado",
+            "3- I certainly wouldn "
+        ],
+        "median tf-idf score": 0.7205697840419168,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Fox News"
+        ],
+        "sentences": [
+            "Speaking at the Aspen ideas festival in Colorado, Lynch said: \u201cI certainly wouldn\u2019t do it again because I think it has cast this shadow over what it should not, over what it will not, touch.",
+            "\u201cIt has cast a shadow over this.",
+            "\u201dI certainly wouldn\u2019t do it again because I think it has cast this shadow over what it should not, over what it will not touch,\u201d Lynch said Friday at the Aspen Ideas Festival, adding, \u201dIt\u2019s important to make it clear that that meeting with President Clinton does not have a bearing on how this matter will be reviewed and resolved\u201d."
+        ],
+        "tf-idf score": [
+            0.7205697840419168,
+            0.11460607150278672,
+            1.4333103363397357
+        ]
+    },
+    "0.9458357434239374-3-55": {
+        "average clique similarity": 0.9458357434239374,
+        "clique": [
+            "2- This incident does ",
+            "0- This incident does ",
+            "3- This incident does "
+        ],
+        "median tf-idf score": 0.7815405201204368,
+        "publications": [
+            "Guardian",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cThis incident does nothing to instill confidence in the American people that [Lynch\u2019s] department can fully and fairly conduct this investigation, and that\u2019s why a special counsel is needed now more than ever,\u201d Cornyn said in a statement on Thursday.",
+            "\u201cThis incident does nothing to instill confidence in the American people that her department can fully and fairly conduct this investigation, and that\u2019s why a special counsel is needed now more than ever,\u201d he said.",
+            "\u201dThis incident does nothing to instill confidence in the American people that her department can fully and fairly conduct this investigation, and that\u2019s why a special counsel is needed now more than ever,\u201d Cornyn said in a statement."
+        ],
+        "tf-idf score": [
+            1.0384826759231347,
+            0.733840969128605,
+            0.7815405201204368
+        ]
+    }
+}

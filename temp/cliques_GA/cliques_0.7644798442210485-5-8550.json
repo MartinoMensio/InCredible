@@ -1,0 +1,542 @@
+{
+    "0.2608335748519888-3-114": {
+        "average clique similarity": 0.2608335748519888,
+        "clique": [
+            "1-Due to a programming",
+            "3-According to Reuters",
+            "4-That decision led to"
+        ],
+        "median tf-idf score": 0.8858340873910158,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Due to a programming flaw, he told them hackers could have accessed the stored emails. Stamos's announcement in June 2015 that he had joined Facebook did not mention any problems with Yahoo. ( )     In a separate incident, Yahoo last month said \" \" hackers had gained access to 500 million customer accounts in 2014.",
+            "According to Reuters, he advised Yahoo that hackers beyond simply US spies would be able to access the stored emails due to a programming flaw.",
+            "That decision led to a programming error that left all Yahoo email vulnerable to hackers, the former Yahoo employee said."
+        ],
+        "tf-idf score": [
+            1.1715808979385554,
+            0.7747922743239214,
+            0.8858340873910158
+        ]
+    },
+    "0.30052867052982307-3-112": {
+        "average clique similarity": 0.30052867052982307,
+        "clique": [
+            "1-A Microsoft spokespe",
+            "3-In response to a req",
+            "0-In a statement  the "
+        ],
+        "median tf-idf score": 0.8356139733886101,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "A Microsoft spokesperson said in a statement, \"We have never engaged in the secret scanning of email traffic like what has been reported today about Yahoo\".",
+            "In response to a request for comment, an Apple spokesperson told BuzzFeed News, \"We have never received a request of this type.",
+            "In a statement, the company said: \"We have never worked with any government agency from any country to create a backdoor in any of our products or services. We have also never allowed access to our servers. And we never will. \" In a further statement, Apple said \"We have never received a request of this type."
+        ],
+        "tf-idf score": [
+            0.999356458374224,
+            0.378438120186867,
+            0.8356139733886101
+        ]
+    },
+    "0.32468157077918985-3-120": {
+        "average clique similarity": 0.32468157077918985,
+        "clique": [
+            "1-The NSA usually make",
+            "4-Google  which runs G",
+            "0-Twitter  which doesn"
+        ],
+        "median tf-idf score": 1.2325286947402252,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The NSA usually makes requests for domestic surveillance through the FBI, so it is hard to know which agency is seeking the information. Alphabet Inc's Google and Microsoft Corp, two major U S email service providers, separately said on Tuesday that they had not conducted such email searches. \"We've never received such a request, but if we did, our response would be simple: 'No way',\" a spokesman for Google said in a statement.",
+            "Google, which runs Gmail, said in a statement: \"We've never received such a request, but if we did, our response would be simple: 'no way'\". Microsoft, another major email provider, said, \"We have never engaged in the secret scanning of email traffic like what has been reported today about Yahoo\".",
+            "Twitter, which doesn't provide email service but does allow users to exchange direct messages, likewise said it has never received such a request and would challenge it in court if it did."
+        ],
+        "tf-idf score": [
+            1.2325286947402252,
+            1.2699763866795184,
+            0.7818122064551669
+        ]
+    },
+    "0.33159507512081565-3-77": {
+        "average clique similarity": 0.33159507512081565,
+        "clique": [
+            "2-Reuters was unable t",
+            "0-US phone and interne",
+            "1-U S phone and Intern"
+        ],
+        "median tf-idf score": 1.094972724523807,
+        "publications": [
+            "New York Post",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Reuters was unable to determine what data Yahoo may have handed over, if any, and if intelligence officials had approached other email providers besides Yahoo with this kind of request.",
+            "US phone and internet companies are known to have handed over bulk customer data to intelligence agencies.",
+            "U S phone and Internet companies are known to have handed over bulk customer data to intelligence agencies. But some former government officials and private surveillance experts said they had not previously seen either such a broad demand for   Web collection or one that required the creation of a new computer program."
+        ],
+        "tf-idf score": [
+            1.094972724523807,
+            0.6076789852107071,
+            1.3855483007344862
+        ]
+    },
+    "0.37821079194503954-4-32": {
+        "average clique similarity": 0.37821079194503954,
+        "clique": [
+            "0-They were also upset",
+            "1-They were also upset",
+            "4-Instead of looping i",
+            "3-Yahoo s email engine"
+        ],
+        "median tf-idf score": 1.0876468973722866,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "They were also upset that Mayer and Yahoo general counsel Ron Bell did not involve the company's security team in the process, instead asking Yahoo's email engineers to write a program to siphon off messages containing the character string the spies sought and store them for remote retrieval, according to the sources.",
+            "They were also upset that Mayer and Yahoo General Counsel Ron Bell did not involve the company's security team in the process, instead asking Yahoo's email engineers to write a program to siphon off messages containing the character string the spies sought and store them for remote retrieval, according to the sources.",
+            "Instead of looping in the security team, Mayer turned to the Yahoo's email engineers to develop the software, Reuters reported.",
+            "Yahoo's email engineers developed the program."
+        ],
+        "tf-idf score": [
+            1.310824935952525,
+            1.310824935952525,
+            0.864468858792048,
+            0.5836346751361403
+        ]
+    },
+    "0.3905719782914268-3-30": {
+        "average clique similarity": 0.3905719782914268,
+        "clique": [
+            "4-Apple  in a statemen",
+            "0-A Facebook spokesper",
+            "3-If we were to receiv"
+        ],
+        "median tf-idf score": 1.0290977869117832,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Apple, in a statement said, \"We have never received a request of this type. If we were to receive one, we would oppose it in court\". It was unclear which intelligence agency directed Yahoo to scan emails, the person familiar with the matter said.",
+            "A Facebook spokesperson said: \"Facebook has never received a request like the one described in these news reports from any government, and if we did we would fight it. \" Apple fought a legal case against a similar request by the US government in February after refusing to give access to the phone used by one the attackers in the 2015 San Bernardino massacre.",
+            "If we were to receive one, we would oppose it in court. \" A Microsoft spokesperson said, \"We have never engaged in the secret scanning of email traffic like what has been reported today about Yahoo. \""
+        ],
+        "tf-idf score": [
+            1.419068338553948,
+            0.9053603433702347,
+            1.0290977869117832
+        ]
+    },
+    "0.40274718676651533-3-110": {
+        "average clique similarity": 0.40274718676651533,
+        "clique": [
+            "4-The challenge was he",
+            "1-Details of the case ",
+            "0-Details of the case "
+        ],
+        "median tf-idf score": 1.0022921096877406,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "The challenge was heard in the secretive Foreign Intelligence Surveillance Court and some details about the case have remained under seal. But documents declassified in 2014 showed that the government threatened Yahoo with a massive $250, 000 per day fine if it did not comply.",
+            "Details of the case remain sealed, but a partially redacted published opinion showed Yahoo's challenge was unsuccessful. Some Yahoo employees were upset about the decision not to contest the more recent edict and thought the company could have prevailed, the sources said.",
+            "Details of the case remain sealed, but a partially redacted published opinion showed Yahoo's challenge was unsuccessful."
+        ],
+        "tf-idf score": [
+            1.0022921096877406,
+            1.1286252607350573,
+            0.5390190897035092
+        ]
+    },
+    "0.4248431560298606-3-97": {
+        "average clique similarity": 0.4248431560298606,
+        "clique": [
+            "0-Some Fisa experts sa",
+            "1-Some FISA experts sa",
+            "4-The company s decisi"
+        ],
+        "median tf-idf score": 1.5917460960559116,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Some Fisa experts said Yahoo could have tried to fight last year's directive on at least two grounds: the breadth of the demand and the necessity of writing a special program to search all customers' emails in transit. In the Apple case, the FBI dropped the lawsuit when it unlocked the phone with the help of a third party, so no precedent was set.",
+            "Some FISA experts said Yahoo could have tried to fight last year's demand on at least two grounds: the breadth of the directive and the necessity of writing a special program to search all customers' emails in transit. Apple Inc made a similar argument earlier this year when it refused to create a special program to break into an encrypted iPhone used in the 2015 San Bernardino massacre. The FBI dropped the case after it unlocked the phone with the help of a third party, so no precedent was set.",
+            "The company's decision not to fight the order from intelligence officials caused Yahoo's   information security officer Alex Stamos to resign last year    and at least one other security staffer left the company    due to ethical concerns about the surveillance program, according to the person, who spoke on the condition of anonymity because the matter was confidential."
+        ],
+        "tf-idf score": [
+            1.5317075771877307,
+            1.654370905005392,
+            1.5917460960559116
+        ]
+    },
+    "0.4272298445537082-3-34": {
+        "average clique similarity": 0.4272298445537082,
+        "clique": [
+            "3-In 2007  Yahoo did w",
+            "1-SECRET SIPHONING PRO",
+            "0-Yahoo in 2007 fought"
+        ],
+        "median tf-idf score": 1.3867834208116936,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "In 2007, Yahoo did wage a scrappy fight against a Foreign Intelligence Surveillance Act demand for the company to search specific email accounts without a warrant, but it was ultimately unsuccessful.",
+            "SECRET SIPHONING PROGRAM Mayer and other executives ultimately decided to comply with the directive last year rather than fight it, in part because they thought they would lose, said the people familiar with the matter. Yahoo in 2007 had fought a FISA demand that it conduct searches on specific email accounts without a   warrant.",
+            "Yahoo in 2007 fought a Fisa demand that it conduct searches on specific email accounts without a   warrant."
+        ],
+        "tf-idf score": [
+            1.3867834208116936,
+            1.5822913343318825,
+            0.860882925744367
+        ]
+    },
+    "0.42780592442136317-3-13": {
+        "average clique similarity": 0.42780592442136317,
+        "clique": [
+            "1-The NSA referred que",
+            "2-Yahoo declined any f",
+            "4-The Office of the Di"
+        ],
+        "median tf-idf score": 1.2170156725231802,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The NSA referred questions to the Office of the Director of National Intelligence, which declined to comment. The request to search Yahoo Mail accounts came in the form of a classified edict sent to the company's legal team, according to the three people familiar with the matter.",
+            "Yahoo declined any further comment. Through a Facebook spokesman, Stamos declined a request for an interview. The NSA referred questions to the Office of the Director of National Intelligence, which declined to comment.",
+            "The Office of the Director of National Intelligence did not respond to a request for comment. \"Yahoo is a law abiding company, and complies with the laws of the United States,\" the company said in a statement."
+        ],
+        "tf-idf score": [
+            1.5547749248987397,
+            0.9557889367003063,
+            1.2170156725231802
+        ]
+    },
+    "0.4517670104817138-3-27": {
+        "average clique similarity": 0.4517670104817138,
+        "clique": [
+            "0-If we were to receiv",
+            "1-The company declined",
+            "3-And after the Snowde"
+        ],
+        "median tf-idf score": 1.2447420094055013,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "If we were to receive one, we would oppose it in court. \" Under laws including the 2008 amendments to the Foreign Intelligence Surveillance Act, intelligence agencies can ask US phone and internet companies to provide customer data to aid foreign   efforts for a variety of reasons, including prevention of terrorist attacks. Disclosures by former NSA contractor Edward Snowden and others have exposed the extent of electronic surveillance and led US authorities to modestly scale back some of the programs, in part to protect privacy rights.",
+            "The company declined to comment on whether it had received such a request. CHALLENGING THE NSA Under laws including the 2008 amendments to the Foreign Intelligence Surveillance Act, intelligence agencies can ask U S phone and Internet companies to provide customer data to aid foreign   efforts for a variety of reasons, including prevention of terrorist attacks. Disclosures by former NSA contractor Edward Snowden and others have exposed the extent of electronic surveillance and led U S authorities to modestly scale back some of the programs, in part to protect privacy rights.",
+            "And after the Snowden leaks uncovered the PRISM scandal in 2013, tech companies, from Yahoo to Google to Apple, denied their involvement in the NSA's surveillance and emphasized how they had fought the government over orders for data from the Foreign Intelligence Surveillance Court."
+        ],
+        "tf-idf score": [
+            1.2447420094055013,
+            1.3939690222959118,
+            1.1982698763028679
+        ]
+    },
+    "0.4533803740457955-3-18": {
+        "average clique similarity": 0.4533803740457955,
+        "clique": [
+            "1-Some FISA experts de",
+            "3-Citing a few unnamed",
+            "0-Other Fisa experts h"
+        ],
+        "median tf-idf score": 0.8948932175972423,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Guardian"
+        ],
+        "sentences": [
+            "Some FISA experts defended Yahoo's decision to comply, saying nothing prohibited the surveillance court from ordering a search for a specific term instead of a specific account.",
+            "Citing a few unnamed sources familiar with the matter, Reuters reported that the software could search any incoming email to a Yahoo account for specific sequences of characters sought by the US government.",
+            "Other Fisa experts have defended Yahoo's decision to comply, saying nothing prohibited the surveillance court from ordering a search for a specific term instead of a specific account."
+        ],
+        "tf-idf score": [
+            0.8948932175972423,
+            1.1365951323191799,
+            0.8948932175972423
+        ]
+    },
+    "0.4615640084976392-3-55": {
+        "average clique similarity": 0.4615640084976392,
+        "clique": [
+            "3-Reuters notes that i",
+            "0-As tech companies be",
+            "1-As tech companies be"
+        ],
+        "median tf-idf score": 1.1444202414464746,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Reuters notes that it is likely that the government demanded that other email providers comply with its spying directive as well.",
+            "As tech companies become better at encrypting data, they are likely to face more such requests from spy agencies. Former NSA general counsel Stewart Baker said email providers \"have the power to encrypt it all, and with that comes added responsibility to do some of the work that had been done by the intelligence agencies\".",
+            "As tech companies become better at encrypting data, they are likely to face more such requests from spy agencies. Former NSA General Counsel Stewart Baker said email providers \"have the power to encrypt it all, and with that comes added responsibility to do some of the work that had been done by the intelligence agencies\"."
+        ],
+        "tf-idf score": [
+            0.522221425004153,
+            1.1444202414464746,
+            1.1444202414464746
+        ]
+    },
+    "0.4620600762656843-3-123": {
+        "average clique similarity": 0.4620600762656843,
+        "clique": [
+            "3-Yahoo s Chief Inform",
+            "0-According to the two",
+            "2-According to the two"
+        ],
+        "median tf-idf score": 1.1265082004707663,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "New York Post"
+        ],
+        "sentences": [
+            "Yahoo's Chief Information Security Officer, Alex Stamos, left the company after discovering the compliance with US intelligence.",
+            "According to the two former employees, Yahoo CEO Marissa Mayer's decision to obey the directive troubled some senior executives and led to the June 2015 departure of the chief information security officer, Alex Stamos, who now heads security at Facebook.",
+            "According to the two former employees, Yahoo Chief Executive Marissa Mayer's decision to obey the directive roiled some senior executives and led to the June 2015 departure of Chief Information Security Officer Alex Stamos, who now holds the top security job at Facebook."
+        ],
+        "tf-idf score": [
+            0.9639741151741169,
+            1.1265082004707663,
+            1.1567834794366618
+        ]
+    },
+    "0.4951659751557526-3-40": {
+        "average clique similarity": 0.4951659751557526,
+        "clique": [
+            "0-ACLU staff attorney ",
+            "1- It is deeply disapp",
+            "4-Patrick Toomey  a st"
+        ],
+        "median tf-idf score": 1.4125503494306044,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "ACLU staff attorney Patrick Toomey said that the demand made on Yahoo was \"unprecedented\" and potentially unconstitutional.",
+            "\"It is deeply disappointing that Yahoo declined to challenge this sweeping surveillance order, because customers are counting on technology companies to stand up to novel spying demands in court,\" Patrick Toomey, an attorney with the American Civil Liberties Union, said in a statement.",
+            "Patrick Toomey, a staff attorney with the American Civil Liberties Union, called the order \"unprecedented and unconstitutional\". \"It is deeply disappointing that Yahoo declined to challenge this sweeping surveillance order, because customers are counting on technology companies to stand up to novel spying demands in court,\" he said in a statement."
+        ],
+        "tf-idf score": [
+            0.7899766323530856,
+            1.4125503494306044,
+            1.481341384731449
+        ]
+    },
+    "0.5526233327065938-4-5": {
+        "average clique similarity": 0.5526233327065938,
+        "clique": [
+            "4-         Yahoo in Ap",
+            "2-The company complied",
+            "0-The company complied",
+            "1-The company complied"
+        ],
+        "median tf-idf score": 1.4576987335464002,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "New York Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "         Yahoo in April of last year began secretly scanning the incoming emails of its hundreds of millions of users to comply with an order from the U S intelligence community, a move that prompted at least two company officials to leave, according to a former Yahoo employee familiar with the matter.",
+            "The company complied with a classified US government directive, scanning hundreds of millions of Yahoo Mail accounts at the behest of the National Security Agency or FBI, said two former employees and a third person apprised of the events.",
+            "The company complied with a classified US government directive, scanning hundreds of millions of Yahoo Mail accounts at the behest of the National Security Agency (NSA) or FBI, two former employees and a third person who knew about the program told Reuters.",
+            "The company complied with a classified U S government demand, scanning hundreds of millions of Yahoo Mail accounts at the behest of the National Security Agency or FBI, said three former employees and a fourth person apprised of the events."
+        ],
+        "tf-idf score": [
+            1.3697580949451305,
+            1.4590204912376072,
+            1.4563769758551934,
+            1.5008145417193293
+        ]
+    },
+    "0.5546296718351565-3-123": {
+        "average clique similarity": 0.5546296718351565,
+        "clique": [
+            "0-Reuters was unable t",
+            "1-That could mean a ph",
+            "4-It s also unknown wh"
+        ],
+        "median tf-idf score": 1.094972724523807,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Reuters was unable to determine what data Yahoo may have handed over, if any, and whether intelligence officials had approached other email providers besides Yahoo with this kind of request.",
+            "That could mean a phrase in an email or an attachment, said the sources, who did not want to be identified. Reuters was unable to determine what data Yahoo may have handed over, if any, and if intelligence officials had approached other email providers besides Yahoo with this kind of request.",
+            "It's also unknown what the government officials were looking for and what, if any, data Yahoo turned over to the government, the person said."
+        ],
+        "tf-idf score": [
+            1.094972724523807,
+            1.4180524090143474,
+            0.787512214931291
+        ]
+    },
+    "0.5606351142060119-4-123": {
+        "average clique similarity": 0.5606351142060119,
+        "clique": [
+            "3-Will they defend thi",
+            "0- Yahoo is a law abid",
+            "1-According to two of ",
+            "2- Yahoo is a law abid"
+        ],
+        "median tf-idf score": 1.14603503497489,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "Will they defend this shameful practice? Yahoo replied to BuzzFeed News' requests for comment only with the following statement: \"Yahoo is a law abiding company, and complies with the laws of the United States. \"",
+            "\"Yahoo is a law abiding company, and complies with the laws of the United States,\" the company said in a brief statement in response to Reuters questions about the demand. Yahoo declined any further comment.",
+            "According to two of the former employees, Yahoo Chief Executive Marissa Mayer's decision to obey the directive roiled some senior executives and led to the June 2015 departure of Chief Information Security Officer Alex Stamos, who now holds the top security job at Facebook Inc. \"Yahoo is a law abiding company, and complies with the laws of the United States,\" the company said in a brief statement in response to Reuters questions about the demand.",
+            "\"Yahoo is a law abiding company, and complies with the laws of the United States,\" the company said in a brief statement in response to Reuters questions about the demand."
+        ],
+        "tf-idf score": [
+            0.9311542733133237,
+            1.191033418170973,
+            1.9325766208318291,
+            1.1010366517788073
+        ]
+    },
+    "0.6989726370482691-3-45": {
+        "average clique similarity": 0.6989726370482691,
+        "clique": [
+            "0-Sources said the pro",
+            "3-Reuters also reporte",
+            "1-The sources said the"
+        ],
+        "median tf-idf score": 0.8625757453854666,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "Sources said the program was discovered by Yahoo's security team in May 2015, within weeks of its installation.",
+            "Reuters also reported that Yahoo's security team, which was not informed about the company's development of the spying software, discovered the program in May 2015, just weeks after its installation, and thought it was a hack.",
+            "The sources said the program was discovered by Yahoo's security team in May 2015, within weeks of its installation."
+        ],
+        "tf-idf score": [
+            0.8625757453854666,
+            1.0409913278150082,
+            0.8625757453854666
+        ]
+    },
+    "0.7958987398563676-3-85": {
+        "average clique similarity": 0.7958987398563676,
+        "clique": [
+            "0-It is not known what",
+            "1-It is not known what",
+            "2-It is not known what"
+        ],
+        "median tf-idf score": 1.224665791126375,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "It is not known what information intelligence officials were looking for, only that they wanted Yahoo to search for a set of characters. That could mean a phrase in an email or an attachment, said the sources.",
+            "It is not known what information intelligence officials were looking for, only that they wanted Yahoo to search for a set of characters.",
+            "It is not known what information intelligence officials were looking for, only that they wanted Yahoo to search for a set of characters. That could mean a phrase in an email or an attachment, said the sources, who did not want to be identified."
+        ],
+        "tf-idf score": [
+            1.224665791126375,
+            0.7695952185285297,
+            1.2603306245888835
+        ]
+    },
+    "0.8443471756565523-3-10": {
+        "average clique similarity": 0.8443471756565523,
+        "clique": [
+            "2-Yahoo last year secr",
+            "1- Yahoo Inc last year",
+            "0-Yahoo last year secr"
+        ],
+        "median tf-idf score": 1.3690680933731665,
+        "publications": [
+            "New York Post",
+            "Reuters",
+            "Guardian"
+        ],
+        "sentences": [
+            "Yahoo last year secretly built a custom software program to search all of its customers' incoming emails for specific information provided by US intelligence officials, according to people familiar with the matter.",
+            " Yahoo Inc last year secretly built a custom software program to search all of its customers' incoming emails for specific information provided by U S intelligence officials, according to people familiar with the matter.",
+            "Yahoo last year secretly built a custom software program to search all of its customers' incoming emails for specific information at the request of US intelligence officials, according to a report."
+        ],
+        "tf-idf score": [
+            1.3690680933731665,
+            1.3690680933731665,
+            1.3394418307594
+        ]
+    },
+    "0.9357482280126507-3-11": {
+        "average clique similarity": 0.9357482280126507,
+        "clique": [
+            "0-Some surveillance ex",
+            "1-Some surveillance ex",
+            "2-Some surveillance ex"
+        ],
+        "median tf-idf score": 1.18741448089621,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "New York Post"
+        ],
+        "sentences": [
+            "Some surveillance experts said this represents the first known case of a US internet company agreeing to a spy agency's demand by searching all arriving messages, as opposed to examining stored messages or scanning a small number of accounts in real time.",
+            "Some surveillance experts said this represents the first case to surface of a U S Internet company agreeing to an intelligence agency's request by searching all arriving messages, as opposed to examining stored messages or scanning a small number of accounts in real time.",
+            "Some surveillance experts said this represents the first case to surface of a US internet company agreeing to a spy agency's demand by searching all arriving messages, as opposed to examining stored messages or scanning a small number of accounts in real time."
+        ],
+        "tf-idf score": [
+            1.18741448089621,
+            1.280352311218295,
+            1.1774156971208056
+        ]
+    }
+}

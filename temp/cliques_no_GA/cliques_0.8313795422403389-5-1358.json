@@ -1,0 +1,642 @@
+{
+    "0.18097851074400761-3-142": {
+        "average clique similarity": 0.18097851074400761,
+        "clique": [
+            "2-He described a compl",
+            "1-He said that during ",
+            "0-Choi said he met wit"
+        ],
+        "median tf-idf score": 0.8137556706775506,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "He described a compliant and   motorist who calmly informed Yanez that he was armed with a concealed weapon before Yanez pulled the trigger.",
+            "He said that during the exchange of words with Yanez, Castile \u201cvolunteered in good faith\u201d that he had a firearm.",
+            "Choi said he met with Castile\u2019s family on Tuesday night and informed them of the charges."
+        ],
+        "tf-idf score": [
+            0.6675727276383412,
+            0.9003424493482709,
+            0.8137556706775506
+        ]
+    },
+    "0.21054006552236626-3-26": {
+        "average clique similarity": 0.21054006552236626,
+        "clique": [
+            "4-Authorities said tha",
+            "1-After a minute  he p",
+            "0-Because the case is "
+        ],
+        "median tf-idf score": 0.6391621287538062,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Authorities said that they reviewed audio recordings from Yanez\u2019s squad car as well as video footage of the stop in determining the timeline.",
+            "After a minute, he pulled out his firearm and shot Castile seven times, killing him.\u2019 \u2019Here\u2019s what happened in the minutes preceding the shooting, based on squad car audio and video of the shooting, according to the criminal complaint.",
+            "Because the case is ongoing, Choi said he would not release the police car\u2019s video and audio."
+        ],
+        "tf-idf score": [
+            0.6391621287538062,
+            1.0123093781370764,
+            0.6120730114044924
+        ]
+    },
+    "0.21357148354854225-3-148": {
+        "average clique similarity": 0.21357148354854225,
+        "clique": [
+            "0-Castile had no invol",
+            "3- Philando Castile wa",
+            "4-Choi said Wednesday "
+        ],
+        "median tf-idf score": 0.7556288495890926,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Castile had no involvement in the robbery, he added.",
+            "\u201dPhilando Castile was not resisting or fleeing,\u201d Choi added at a press conference Wednesday.",
+            "Choi said Wednesday that Castile is not a suspect in the robbery."
+        ],
+        "tf-idf score": [
+            0.3759274448744721,
+            0.8647532087538998,
+            0.7556288495890926
+        ]
+    },
+    "0.213624965808526-3-131": {
+        "average clique similarity": 0.213624965808526,
+        "clique": [
+            "0-Castile was remember",
+            "4-Castile  a   cafeter",
+            "3-The beloved school c"
+        ],
+        "median tf-idf score": 0.7230906584368358,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Castile was remembered as a gentle man who was so smart he was considered   for his cafeteria supervisor job at a Minnesota public school, where kids loved him, according to friends, family and others.",
+            "Castile, a   cafeteria manager at a local school, is one of at least 840 people fatally shot by police this year, according to a Washington Post database.",
+            "The beloved school cafeteria manager was shot and killed by Yanez during a routine traffic stop."
+        ],
+        "tf-idf score": [
+            0.8075862681254657,
+            0.709451628776685,
+            0.7230906584368358
+        ]
+    },
+    "0.2149856408960645-3-130": {
+        "average clique similarity": 0.2149856408960645,
+        "clique": [
+            "1-    Based upon our t",
+            "3-A review of dashboar",
+            "4-A review by the Minn"
+        ],
+        "median tf-idf score": 0.7690751242482669,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u2019] \u201cBased upon our thorough and exhaustive review of the facts, I have come to the conclusion that there simply was no justificationfor the use of deadly force by Officer Yanez in this case,\u201d Choi said.",
+            "A review of dashboard camera video revealed that \u201dno reasonable officer\u201d would have used deadly force in this circumstance, Choi said.",
+            "A review by the Minneapolis Star Tribune conducted last year found that at least 143 people have been killed by police in Minnesota since 2000, and no officers were charged in any of these deaths until that point."
+        ],
+        "tf-idf score": [
+            1.217613945160074,
+            0.7690751242482669,
+            0.5219275013517897
+        ]
+    },
+    "0.2342048048142744-3-122": {
+        "average clique similarity": 0.2342048048142744,
+        "clique": [
+            "0-If convicted of the ",
+            "4-According to the   c",
+            "2-The maximum sentence"
+        ],
+        "median tf-idf score": 0.38347631401370835,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "If convicted of the manslaughter charge, Yanez could serve almost 5 years in prison.",
+            "According to the   criminal complaint filed in Ramsey County District Court, Yanez, who said he feared for his life at the time of the shooting, could face up to 20 years in prison and up to $40, 000 in fines.",
+            "The maximum sentence for the   manslaughter charge is 10 years and a $20, 000 fine."
+        ],
+        "tf-idf score": [
+            0.38347631401370835,
+            0.8739178441914005,
+            0.15784666581191573
+        ]
+    },
+    "0.2350848688551684-3-91": {
+        "average clique similarity": 0.2350848688551684,
+        "clique": [
+            "1- Minnesota police of",
+            "3-Choi says that when ",
+            "0-St  Anthony police o"
+        ],
+        "median tf-idf score": 1.6788999923467953,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "\u2019Minnesota police officer Jeronimo Yanez was charged with   manslaughter on Wednesday for the fatal shooting of Philando Castile during a traffic stop in July, Ramsey County Attorney, John Choi, announced.\u2019 \u2019On July 6, Yanez pulled over Castile for a   break light.",
+            "Choi says that when Castile was stopped July 6 in Falcon Heights, Minn. the car was registered under his name and his license was not suspended.",
+            "St. Anthony police officer Jeronimo Yanez broke the law when he shot and killed Philando Castile in Falcon Heights, a St. Paul suburb, during a traffic stop, Ramsey County Attorney John Choi said."
+        ],
+        "tf-idf score": [
+            1.8243821669246174,
+            0.9864238568179158,
+            1.6788999923467953
+        ]
+    },
+    "0.2586943485020112-4-98": {
+        "average clique similarity": 0.2586943485020112,
+        "clique": [
+            "1-He did not exhibit a",
+            "2-  Choi noted that an",
+            "0-Another officer stan",
+            "4-Kauser will not face"
+        ],
+        "median tf-idf score": 0.6667464658030604,
+        "publications": [
+            "Buzzfeed News",
+            "Guardian",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He did not exhibit any intent or reasons to shoot the officer.",
+            "\u201d Choi noted that another officer at the scene, who was standing by the passenger side window during the traffic stop, did not unholster or fire his gun.",
+            "Another officer standing on the car\u2019s passenger side said he did not see Castile make any sudden movements and was surprised by the shots, Choi said.",
+            "Kauser will not face any charges, Choi said, and the complaint states that he did not touch or remove his gun."
+        ],
+        "tf-idf score": [
+            0.20680351148442905,
+            0.7429379597723506,
+            1.2258075446352907,
+            0.5905549718337701
+        ]
+    },
+    "0.2677940546932613-3-199": {
+        "average clique similarity": 0.2677940546932613,
+        "clique": [
+            "1-When Yanez repeatedl",
+            "0-Castile tried to res",
+            "4-Seconds later  Yanez"
+        ],
+        "median tf-idf score": 1.0214909201746318,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "When Yanez repeatedly asked him not to pull out the firearm, Castile and Reynolds both assured him that he wasn\u2019t reaching for his gun.",
+            "Castile tried to respond but was interrupted by Yanez, who said, \u201dDon\u2019t pull it out\u201d.",
+            "Seconds later, Yanez told Castile not to pull out his gun, to which Castile said, \u201cI\u2019m not pulling it out,\u201d and Reynolds echoed the same message, the complaint said."
+        ],
+        "tf-idf score": [
+            0.86392189641913,
+            1.040232942062632,
+            1.0214909201746318
+        ]
+    },
+    "0.26810911541876437-3-137": {
+        "average clique similarity": 0.26810911541876437,
+        "clique": [
+            "3-Choi did not release",
+            "0-Castile  in a   mann",
+            "2-Choi then recounted "
+        ],
+        "median tf-idf score": 1.1235881595500088,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "Choi did not release dashcam video, but described it as showing Castile turning over his proof of insurance and then \u201dcalmly and in a   manner\u201d informing the officer that he was carrying a weapon.",
+            "Castile, in a   manner, told the officer about the firearm he was carrying, Choi said.",
+            "Choi then recounted the final moments of Castile\u2019s life: \u201cCalmly and in a   manner, [Castile] informed Officer Yanez, \u2018Sir, I have to tell you that I do have a firearm on me."
+        ],
+        "tf-idf score": [
+            1.1235881595500088,
+            1.140147735095338,
+            1.086382927397691
+        ]
+    },
+    "0.2907156239270205-3-199": {
+        "average clique similarity": 0.2907156239270205,
+        "clique": [
+            "0-When officers and pa",
+            "2-Paramedics found Cas",
+            "3-Investigators found "
+        ],
+        "median tf-idf score": 0.5698896097596218,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "NPR"
+        ],
+        "sentences": [
+            "When officers and paramedics were moving Castile, they found a   semiautomatic handgun in his right front pocket that had a loaded magazine but no round in chamber.",
+            "Paramedics found Castile\u2019s gun in his shorts pocket, Choi said.",
+            "Investigators found Castile\u2019s gun inside his pocket."
+        ],
+        "tf-idf score": [
+            0.5698896097596218,
+            0.795617146766733,
+            0.45034159436837895
+        ]
+    },
+    "0.29347319695217705-3-199": {
+        "average clique similarity": 0.29347319695217705,
+        "clique": [
+            "0-Yanez s attorney cou",
+            "2-An attorney for Yane",
+            "4-An attorney listed f"
+        ],
+        "median tf-idf score": 0.391894605053869,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Yanez\u2019s attorney could not be reached for comment but Dennis Flaherty, head of the Minnesota police union, said the police community was disappointed and expected Yanez to plead not guilty.",
+            "An attorney for Yanez, who is Latino, did not immediately respond to a request for comment.",
+            "An attorney listed for Yanez did not immediately respond to a request for comment Wednesday."
+        ],
+        "tf-idf score": [
+            0.8962243238250353,
+            0.3482981254295911,
+            0.391894605053869
+        ]
+    },
+    "0.2992256902481731-3-199": {
+        "average clique similarity": 0.2992256902481731,
+        "clique": [
+            "3-Ramsey County Attorn",
+            "4-John Choi  the Ramse",
+            "2-Ramsey County attorn"
+        ],
+        "median tf-idf score": 1.324730493979648,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Ramsey County Attorney John Choi said the use of force by St. Anthony police Officer Jeronimo Yanez was not justified.",
+            "John Choi, the Ramsey County attorney, said at a news conference in St. Paul, Minn. on Wednesday morning that Jeronimo Yanez, the officer who shot Castile, would also be charged with endangering the lives of Reynolds and her    daughter, who was also in the car.",
+            "Ramsey County attorney John Choi announced the manslaughter charge and two other felony charges on Wednesday, more than four months after Castile, 32, was killed."
+        ],
+        "tf-idf score": [
+            1.324730493979648,
+            1.872149873179549,
+            1.04569598335192
+        ]
+    },
+    "0.30657563453964554-3-39": {
+        "average clique similarity": 0.30657563453964554,
+        "clique": [
+            "2-Yanez interrupted as",
+            "3-He shot Castile seve",
+            "0-Choi said Yanez fear"
+        ],
+        "median tf-idf score": 1.3374280342555682,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "Yanez interrupted as Castile tried to respond, saying \u201cdon\u2019t pull it out\u201d multiple times in a brief exchange before shooting Castile seven times, about one minute after the traffic stop began, Choi said.",
+            "He shot Castile seven times within a minute of the traffic stop.",
+            "Choi said Yanez feared Castile was reaching for a gun he had just calmly said he had in his possession, moments before being shot seven times by the officer."
+        ],
+        "tf-idf score": [
+            1.3374280342555682,
+            0.56952729268332,
+            1.5760580279035665
+        ]
+    },
+    "0.36227072420790246-3-40": {
+        "average clique similarity": 0.36227072420790246,
+        "clique": [
+            "0-Yanez interrupted an",
+            "2-    According to the",
+            "4-  Yanez  before Cast"
+        ],
+        "median tf-idf score": 0.5883868855942797,
+        "publications": [
+            "Reuters",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Yanez interrupted and replied, \u201dOK,\u201d placed his hand on his gun, and then said, \u201dOK, don\u2019t reach for it then\u201d.",
+            "\u2019\u201d  According to the prosecutor\u2019s account, Yanez initially replied \u201cOK,\u201d while placing his hand on his own holstered gun.",
+            "\u201d Yanez, before Castile finished the sentence, put his hand on his holstered gun and calmly replied \u201cOkay,\u201d according to the complaint."
+        ],
+        "tf-idf score": [
+            0.5883868855942797,
+            0.4689901146914797,
+            0.8037988477786198
+        ]
+    },
+    "0.36487661664204096-3-77": {
+        "average clique similarity": 0.36487661664204096,
+        "clique": [
+            "2- I would submit that",
+            "1- No reasonable offic",
+            "0- I cannot allow the "
+        ],
+        "median tf-idf score": 0.6276348209316756,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201cI would submit that no reasonable officer knowing, seeing and hearing what Officer Yanez did at the time would have used deadly force under these circumstances.",
+            "\u201cNo reasonable officer who knew, saw, and heard what Officer Yanez did at the time would have used deadly force under these circumstances.",
+            "\u201dI cannot allow the death of a motorist who was lawfully carrying a firearm under these facts and circumstances to go unaccounted for,\u201d Choi said."
+        ],
+        "tf-idf score": [
+            0.6202265414930977,
+            0.6276348209316756,
+            0.7520185173685388
+        ]
+    },
+    "0.37401310154565287-3-58": {
+        "average clique similarity": 0.37401310154565287,
+        "clique": [
+            "2-The aftermath of the",
+            "4-The shooting s after",
+            "0-Starting about 40 se"
+        ],
+        "median tf-idf score": 0.9004624764678628,
+        "publications": [
+            "Guardian",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The aftermath of the shooting was   on Facebook by his girlfriend, Diamond Reynolds.",
+            "The shooting\u2019s aftermath was broadcast on Facebook Live by Diamond Reynolds, Castile\u2019s girlfriend, footage that quickly spread across social media and cable news, making it one of the most   fatal police shootings during the protests that have occurred across the country in recent years.",
+            "Starting about 40 seconds after the shooting, Castile\u2019s girlfriend, Diamond Reynolds, who was sitting in the vehicle\u2019s passenger seat, streamed images of a bloody Castile on Facebook live, and the recording went viral on social media."
+        ],
+        "tf-idf score": [
+            0.43801002146731505,
+            1.0586283070335356,
+            0.9004624764678628
+        ]
+    },
+    "0.38645233774552307-3-199": {
+        "average clique similarity": 0.38645233774552307,
+        "clique": [
+            "4-         Prosecutors",
+            "3-The police officer w",
+            "2-A Minnesota police o"
+        ],
+        "median tf-idf score": 1.169946248068849,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "         Prosecutors in Minnesota said Wednesday that they had charged a police officer with   manslaughter for fatally shooting Philando Castile during a traffic stop in a Twin Cities suburb over the summer.",
+            "The police officer who shot and killed Philando Castile in a St. Paul, Minn. suburb in July has been charged with   manslaughter.",
+            "A Minnesota police officer has been charged with   manslaughter in the killing of Philando Castile, an African American who was fatally shot in a suburb of St Paul, Minnesota, in July."
+        ],
+        "tf-idf score": [
+            1.169946248068849,
+            0.9605908282802198,
+            1.2162476531647244
+        ]
+    },
+    "0.39347482498550107-4-46": {
+        "average clique similarity": 0.39347482498550107,
+        "clique": [
+            "4-Castile had a permit",
+            "2-In his wallet were h",
+            "0-At the hospital  Cas",
+            "3-They also found his "
+        ],
+        "median tf-idf score": 0.32532755025648985,
+        "publications": [
+            "NPR",
+            "Guardian",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "Castile had a permit to carry his gun, something that sparked internal divisions among members of the National Rifle Association at the time.",
+            "In his wallet were his driver\u2019s license and his permit to carry a concealed weapon.",
+            "At the hospital, Castile\u2019s wallet contained a driver\u2019s license and his permit to carry a pistol.",
+            "They also found his Minnesota driver\u2019s license and his permit to carry a weapon."
+        ],
+        "tf-idf score": [
+            0.5164175170426982,
+            0.17674287727826377,
+            0.4615983931822166,
+            0.18905670733076302
+        ]
+    },
+    "0.4037876208906817-3-110": {
+        "average clique similarity": 0.4037876208906817,
+        "clique": [
+            "4- Family photo   Choi",
+            "2-Castile muttered his",
+            "1- Castile never remov"
+        ],
+        "median tf-idf score": 1.2800331140389423,
+        "publications": [
+            "Guardian",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "(Family photo)  Choi said that Yanez\u2019s use of deadly force was unjustified, noting that while Castile was armed at the time he was pulled over, he \u201cnever removed or tried to remove\u201d the gun he had in his pocket.",
+            "Castile muttered his final words  \u2014   \u201cI wasn\u2019t reaching for it\u201d  \u2014   as Yanez continued to scream at him: \u201cDon\u2019t pull it out!\u201d  \u201cBased upon the evidence we believe that Castile never removed nor tried to remove his handgun from his front, right pocket,\u201d Choi said on Wednesday.",
+            "\u201cCastile never removed or tried to remove his gun from his front right pocket,\u201d Choi said."
+        ],
+        "tf-idf score": [
+            1.5392585620491186,
+            1.2800331140389423,
+            0.8533824804412229
+        ]
+    },
+    "0.425309389639522-3-32": {
+        "average clique similarity": 0.425309389639522,
+        "clique": [
+            "3- There was absolutel",
+            "4-At a Nov  16 news co",
+            "1- There was no crimin"
+        ],
+        "median tf-idf score": 0.34743370501198184,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dThere was absolutely no criminal intent exhibited by him throughout this encounter.",
+            "At a Nov. 16 news conference in St. Paul, Minn. Ramsey County attorney John Choi updated the public on the investigation into the fatal police shooting of Philando Castile, saying he found that Castille exhibited \u201dabsolutely no criminal intent\u201d.",
+            "\u201cThere was no criminal intent exhibited by him through this encounter."
+        ],
+        "tf-idf score": [
+            0.34743370501198184,
+            1.1634470201487783,
+            0.3329606394826604
+        ]
+    },
+    "0.43082535688809637-3-8": {
+        "average clique similarity": 0.43082535688809637,
+        "clique": [
+            "0-Yanez then screamed ",
+            "4-Yanez then screamed ",
+            "1-However  Yanez pulle"
+        ],
+        "median tf-idf score": 0.7957162558801207,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Yanez then screamed, \u201dDon\u2019t pull it out,\u201d drew his own gun, and fired.",
+            "Yanez then screamed, \u201cDon\u2019t pull it out\u201d before pulling his own gun out and firing seven shots at Castile.",
+            "However, Yanez pulled out his gun and fired seven shots in rapid succession, Choi said."
+        ],
+        "tf-idf score": [
+            0.38815435827022354,
+            0.7957162558801207,
+            0.8494148652962873
+        ]
+    },
+    "0.4529737294855951-4-50": {
+        "average clique similarity": 0.4529737294855951,
+        "clique": [
+            "0-Yanez will make his ",
+            "2-St Anthony police of",
+            "1-  Yanez is scheduled",
+            "4-Yanez will make his "
+        ],
+        "median tf-idf score": 0.523905490722353,
+        "publications": [
+            "Guardian",
+            "Reuters",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Yanez will make his first appearance in criminal court on Friday.",
+            "St Anthony police officer Jeronimo Yanez will have his first court appearance on Friday, Choi said.",
+            "\u201d Yanez is scheduled to appear in court on Friday.",
+            "Yanez will make his first court appearance Friday at 1:30 p. m. and plans to turn himself in, Choi said."
+        ],
+        "tf-idf score": [
+            0.35526631541195863,
+            0.9668780746905368,
+            0.3075471298441801,
+            0.6925446660327473
+        ]
+    },
+    "0.45937255613253564-4-59": {
+        "average clique similarity": 0.45937255613253564,
+        "clique": [
+            "1- Choi filed a crimin",
+            "0-Yanez was also charg",
+            "2-Yanez suspected Cast",
+            "3-Yanez was also charg"
+        ],
+        "median tf-idf score": 1.1559983262282558,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Guardian",
+            "Reuters"
+        ],
+        "sentences": [
+            "\u201dChoi filed a criminal complaint on Wednesday charging Yanez with   manslaughter and two felony counts of intentional discharge of a dangerous weapon that \u201cendangered the safety of Castile\u2019s girlfriend, Diamond Reynolds, and her    daughter who were present in Castile\u2019s car during the incident.",
+            "Yanez was also charged with two felony counts of dangerous discharge of a firearm that endangered the safety of Reynolds and her    daughter, who was also in the car.",
+            "Yanez suspected Castile of being involved in a nearby robbery involving two black men he radioed another officer saying that the occupants of the car  \u2014   Castile, Reynolds, and Reynolds\u2019    daughter  \u2014   \u201cjust look like the people that were involved in a robbery\u201d according to the criminal complaint.",
+            "Yanez was also charged with two counts of \u201ddangerous discharge of a firearm,\u201d which endangered Castile\u2019s girlfriend, Diamond Reynolds, and her    daughter, who were also in the car."
+        ],
+        "tf-idf score": [
+            1.3383735524467957,
+            0.8332773034749161,
+            1.159782254274722,
+            1.1522143981817894
+        ]
+    },
+    "0.46463510880952724-3-37": {
+        "average clique similarity": 0.46463510880952724,
+        "clique": [
+            "3-  He was respectful ",
+            "0-Castile and Reynolds",
+            "1-He was respectful an"
+        ],
+        "median tf-idf score": 0.258910940796964,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "..He was respectful and compliant.",
+            "Castile and Reynolds both responded he was not.",
+            "He was respectful and compliant."
+        ],
+        "tf-idf score": [
+            0.258910940796964,
+            0.5967876369206564,
+            0.258910940796964
+        ]
+    },
+    "0.46547395950299114-3-199": {
+        "average clique similarity": 0.46547395950299114,
+        "clique": [
+            "1-Castile s final word",
+            "0-A moaning Castile s ",
+            "3-Castile s final word"
+        ],
+        "median tf-idf score": 0.7827534498391089,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Castile\u2019s final words before he died were, \u201cI wasn\u2019t reaching for it,\u201d Choi said.",
+            "A moaning Castile\u2019s final words after being shot were, \u201dI wasn\u2019t reaching for it,\u201d according to Choi, who said the conversation was picked up by a microphone Yanez was wearing.",
+            "Castile\u2019s final words were, \u201dI wasn\u2019t reaching for it\u201d."
+        ],
+        "tf-idf score": [
+            0.7827534498391089,
+            1.3704008954683378,
+            0.4132853967027048
+        ]
+    }
+}

@@ -1,0 +1,490 @@
+{
+    "0.17611962071322632-3-133": {
+        "average clique similarity": 0.17611962071322632,
+        "clique": [
+            "3-But Frieden noted th",
+            "1-In a call with repor",
+            "4-      But the discus"
+        ],
+        "median tf-idf score": 1.2216164034070776,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "But Frieden noted that officials expect it will be harder to contain the outbreak in Miami beach for several reasons.",
+            "In a call with reporters Friday, CDC director Tom Frieden said Miami Beach presents a difficult situation for health officials trying to halt the Zika outbreak.",
+            "\u2026     But the discussions on Thursday morning between the county health department and Miami Beach officials, along with an email from City Manager Jimmy Morales, indicate that Zika is spreading in Miami Beach and already may have met CDC guidelines for confirmed transmission of the disease."
+        ],
+        "tf-idf score": [
+            0.587657619834519,
+            1.2216164034070776,
+            1.2340644969157721
+        ]
+    },
+    "0.1911729236273695-3-82": {
+        "average clique similarity": 0.1911729236273695,
+        "clique": [
+            "4-During his announcem",
+            "1-Friday afternoon  th",
+            "2-The Texas Department"
+        ],
+        "median tf-idf score": 0.7254571438591861,
+        "publications": [
+            "Buzzfeed News",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "During his announcement Friday at the Florida Department of Health office, some reporters asked Scott why the news wasn\u2019t revealed sooner, because the Miami Herald reported local officials learned of the virus\u2019 transmission as early as Thursday morning.",
+            "Friday afternoon, the Florida Department of Health reported a total 488   cases of Zika and 36 locally acquired cases.",
+            "The Texas Department of State Health Services reported that case earlier this week."
+        ],
+        "tf-idf score": [
+            1.1927397914717266,
+            0.7254571438591861,
+            0.44689784361114093
+        ]
+    },
+    "0.19541291254224122-3-15": {
+        "average clique similarity": 0.19541291254224122,
+        "clique": [
+            "4-Pregnant women are m",
+            "2-Zika has its most de",
+            "0-Pregnant women are a"
+        ],
+        "median tf-idf score": 0.6090960843888772,
+        "publications": [
+            "Atlantic",
+            "Buzzfeed News",
+            "CNN"
+        ],
+        "sentences": [
+            "Pregnant women are most vulnerable to Zika, because it has been linked with birth defects in infants, like microcephaly, which inhibits full brain formation.",
+            "Zika has its most devastating effect on pregnant women  \u2014   arresting brain development in fetuses, who are born with shrunken heads.",
+            "Pregnant women are at greatest risk because the virus can have devastating consequences for an unborn baby, including the birth defect microcephaly and other neurological deficits, as well as miscarriage and stillbirth among women who were infected while pregnant."
+        ],
+        "tf-idf score": [
+            0.630569873060778,
+            0.6090960843888772,
+            0.567852547489661
+        ]
+    },
+    "0.19688926509883042-3-0": {
+        "average clique similarity": 0.19688926509883042,
+        "clique": [
+            "0- The issue there is ",
+            "2- The CDC is working ",
+            "3-The tourism industry"
+        ],
+        "median tf-idf score": 0.6831084162784549,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dThe issue there is that it\u2019s an area where they\u2019re looking hard for Zika they\u2019re finding some of it there have been other isolated instances of local spread of Zika, and when Zika starts to spread, it may be two or three weeks before there\u2019s any way to be sure it\u2019s spreading,\u201d CDC Director Dr Tom Frieden told CNN Chief Medical Correspondent Dr Sanjay Gupta.",
+            "\u201cThe CDC is working with the state of Florida to monitor Zika in real time,\u201d CDC Director Tom Frieden told reporters on a teleconference call.",
+            "The tourism industry in Florida is particularly concerned with the spread of Zika and the impact it may have on businesses."
+        ],
+        "tf-idf score": [
+            0.8978114158642218,
+            0.6831084162784549,
+            0.44748438623196884
+        ]
+    },
+    "0.19910514723844322-3-233": {
+        "average clique similarity": 0.19910514723844322,
+        "clique": [
+            "2-As of Friday  the De",
+            "1-He said that state h",
+            "3-The island s health "
+        ],
+        "median tf-idf score": 0.6135594795021178,
+        "publications": [
+            "Washington Post",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "As of Friday, the Department of Health reported 36 such   cases in the state.",
+            "He said that state health investigators had only finished their inquiry into the new cases Friday morning and that he had rushed to Miami to deliver the news and meet with local leaders.",
+            "The island\u2019s health department said Friday that 2, 496 more cases had been confirmed in Puerto Rico over the last week."
+        ],
+        "tf-idf score": [
+            0.4344524979425568,
+            0.857017130294757,
+            0.6135594795021178
+        ]
+    },
+    "0.20584177858099015-3-19": {
+        "average clique similarity": 0.20584177858099015,
+        "clique": [
+            "3-Of those  1  106 are",
+            "1-The CDC is tracking ",
+            "4-Nearly 600 people ha"
+        ],
+        "median tf-idf score": 0.40978483956661804,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Of those, 1, 106 are pregnant women.",
+            "The CDC is tracking 529 pregnant women with the virus nationwide and nearly 700 in those territories.",
+            "Nearly 600 people have contracted the virus across the state, though most of those are from travel outside the country."
+        ],
+        "tf-idf score": [
+            0.20252608847660666,
+            0.4571645118958169,
+            0.40978483956661804
+        ]
+    },
+    "0.2134517338907064-3-41": {
+        "average clique similarity": 0.2134517338907064,
+        "clique": [
+            "2-Florida is the only ",
+            "0-According to the CDC",
+            "1-The clusters of outb"
+        ],
+        "median tf-idf score": 0.5722417384912931,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Florida is the only state in the continental US where   mosquitoes are known to be spreading the virus by biting people.",
+            "According to the CDC, there 2, 260 cases of the virus in the continental United States.",
+            "The clusters of outbreaks around Miami are not a surprise to many health experts, who anticipated that the Zika virus would be tricky to contain after it began spreading locally in the United States."
+        ],
+        "tf-idf score": [
+            0.5722417384912931,
+            0.4641526284741536,
+            0.8893955114186272
+        ]
+    },
+    "0.23803044804628473-3-88": {
+        "average clique similarity": 0.23803044804628473,
+        "clique": [
+            "3-In response to the M",
+            "1-He said the state wo",
+            "4-In response  Scott s"
+        ],
+        "median tf-idf score": 0.6053314145283621,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In response to the Miami Beach outbreak, Scott said he had requested an additional 5, 000 Zika tests, additional lab personnel to expedite testing and 10, 000 more Zika prevention kits for pregnant women.",
+            "He said the state would be requesting more resources from the CDC, including additional Zika testing kits.",
+            "In response, Scott said he wanted to assure everyone that any local transmission would be announced immediately to the media and public."
+        ],
+        "tf-idf score": [
+            1.1994056134983007,
+            0.6053314145283621,
+            0.5186400585605345
+        ]
+    },
+    "0.2409056962192191-4-28": {
+        "average clique similarity": 0.2409056962192191,
+        "clique": [
+            "0-A few days later  in",
+            "3-The Wynwood outbreak",
+            "4-The CDC also caution",
+            "1-That prompted federa"
+        ],
+        "median tf-idf score": 0.6212627972567136,
+        "publications": [
+            "Washington Post",
+            "Atlantic",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "A few days later, in an unprecedented move, the CDC announced a travel warning, advising pregnant women not to visit that area.",
+            "The Wynwood outbreak prompted the CDC to take the unprecedented step of advising pregnant women to stay away from the area.",
+            "The CDC also cautioned pregnant women from any unnecessary travel to all of   County.",
+            "That prompted federal health authorities to urge pregnant women not to visit the area, the first time they ever had warned against travel to a part of the continental United States because of the outbreak of an infectious disease."
+        ],
+        "tf-idf score": [
+            0.6067181641696081,
+            0.6358074303438191,
+            0.4043123522999688,
+            0.8274581635959016
+        ]
+    },
+    "0.25369999152288947-3-7": {
+        "average clique similarity": 0.25369999152288947,
+        "clique": [
+            "0-Scott asked for pers",
+            "4-This makes 35 confir",
+            "2-Rick Scott said five"
+        ],
+        "median tf-idf score": 0.5431335964228536,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Scott asked for perspective Friday, noting that there are 36 locally transmitted cases of the virus and 20.",
+            "This makes 35 confirmed cases of locally transmitted Zika cases in Florida.",
+            "Rick Scott said five cases have been linked to an area on Miami Beach, confirming previous reports that the virus is being transmitted locally there."
+        ],
+        "tf-idf score": [
+            0.5427823464369588,
+            0.5431335964228536,
+            1.111121856241189
+        ]
+    },
+    "0.25849458846531076-3-70": {
+        "average clique similarity": 0.25849458846531076,
+        "clique": [
+            "2-The Centers for Dise",
+            "1-THE WASHINGTON POST ",
+            "4-The new updates said"
+        ],
+        "median tf-idf score": 1.0546759807355712,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "The Centers for Disease Control and Prevention has advised pregnant women to avoid traveling to the affected zones in Miami Beach and Wynwood.",
+            "THE WASHINGTON POST  The Centers for Disease Control and Prevention quickly issued a second travel advisory Friday afternoon, saying pregnant women should also avoid the designated area of Miami Beach.",
+            "The new updates said pregnant women and their partners should not go to the two affected areas, which now include a 1.  mile area on the island city of Miami Beach, which spans from Eighth Street in the south to 28th Street in the north."
+        ],
+        "tf-idf score": [
+            0.8885112315288634,
+            1.0546759807355712,
+            1.1443330924990833
+        ]
+    },
+    "0.2683308814949219-3-12": {
+        "average clique similarity": 0.2683308814949219,
+        "clique": [
+            "4-Please follow the st",
+            "3-That brings the tota",
+            "1-Rick Scott confirmed"
+        ],
+        "median tf-idf score": 1.5839453738802987,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Please follow the steps below, NEWS BRIEF Local cases of Zika infection have been found in Miami Beach, Florida Governor Rick Scott said Friday, which means the virus has spread beyond the small neighborhood that health officials had hoped to contain it to, and has infected one of South Florida\u2019s largest tourist areas.",
+            "That brings the total number of Zika cases that have been spread by mosquitoes in Florida to 36.",
+            "Rick Scott confirmed Friday that the Zika virus is being spread locally by mosquitoes in Miami Beach, a development that marks an expansion of the outbreak in South Florida and immediately prompted a new travel advisory by federal officials."
+        ],
+        "tf-idf score": [
+            2.0266456184615027,
+            0.589485607569326,
+            1.5839453738802987
+        ]
+    },
+    "0.2955579186344663-3-66": {
+        "average clique similarity": 0.2955579186344663,
+        "clique": [
+            "0-On July 29  Scott an",
+            "2-Up until the Thursda",
+            "4-The spread of Zika b"
+        ],
+        "median tf-idf score": 0.8732482195338198,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "On July 29, Scott announced that the first local transmission of the virus in the continental United States had occurred in the Wynwood neighborhood, north of downtown Miami.",
+            "Up until the Thursday, the Florida Department of Health had confined the zone of \u201cactive transmission\u201d  \u2014   in which you could encounter a   mosquito  \u2014   to a square mile of   Country, near a neighborhood known as Wynwood.",
+            "The spread of Zika by local mosquitos had been confined to one spot just north of downtown Miami, a   mile area in the Wynwood neighborhood."
+        ],
+        "tf-idf score": [
+            0.8793990613915803,
+            0.7054029179678849,
+            0.8732482195338198
+        ]
+    },
+    "0.3020059854358635-3-109": {
+        "average clique similarity": 0.3020059854358635,
+        "clique": [
+            "1-Health officials sai",
+            "3-Five Zika cases have",
+            "4-Of the five infected"
+        ],
+        "median tf-idf score": 1.103315197115896,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Health officials said at least five people have been infected with Zika in this area, including two who live in Miami Beach.",
+            "Five Zika cases have been linked to the new outbreak in Miami Beach, involving three men and two women from Miami, New York, Texas and Taiwan, officials said.",
+            "Of the five infected, three were tourists, and two live locally."
+        ],
+        "tf-idf score": [
+            1.103315197115896,
+            1.2106241971151928,
+            0.1376409120712585
+        ]
+    },
+    "0.3224746143401073-3-271": {
+        "average clique similarity": 0.3224746143401073,
+        "clique": [
+            "2- Florida s busy tour",
+            "3-Mosquitoes have begu",
+            "0-Rick Scott announced"
+        ],
+        "median tf-idf score": 1.2519476033211052,
+        "publications": [
+            "Buzzfeed News",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            " Florida\u2019s busy tourist hub of Miami Beach is the second neighborhood in the state to harbor mosquitoes infected with the Zika virus, officials confirmed Friday.",
+            "Mosquitoes have begun spreading the Zika virus in a second part of Miami  \u2014   the popular tourist destination of Miami Beach  \u2014   Florida officials announced Friday.",
+            "Rick Scott announced Friday that five locally transmitted cases of the Zika virus have been confirmed in an area of Miami Beach."
+        ],
+        "tf-idf score": [
+            1.3058528010858077,
+            1.1817033545023647,
+            1.2519476033211052
+        ]
+    },
+    "0.33981754020676247-3-204": {
+        "average clique similarity": 0.33981754020676247,
+        "clique": [
+            "1-It gave the same dir",
+            "3-The agency also went",
+            "0-The CDC also advised"
+        ],
+        "median tf-idf score": 0.4975790236125615,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "It gave the same direction for these women\u2019s sexual partners.",
+            "The agency also went a step further, advising pregnant women and their sexual partners \u201dwho are concerned about potential Zika virus exposure\u201d that they \u201dmay also consider postponing nonessential travel to all parts of   county\u201d.",
+            "The CDC also advised pregnant women and their sexual partners to consider postponing nonessential travel to all parts of   County."
+        ],
+        "tf-idf score": [
+            0.1582110469999187,
+            0.842691782141627,
+            0.4975790236125615
+        ]
+    },
+    "0.3569781876081-3-271": {
+        "average clique similarity": 0.3569781876081,
+        "clique": [
+            "0-The visitors have re",
+            "2-The five cases inclu",
+            "1-One person from Texa"
+        ],
+        "median tf-idf score": 0.3044844822415852,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The visitors have returned to their homes in Texas, New York and Taiwan.",
+            "The five cases include a tourist from Taiwan, and another from El Paso County in Texas.",
+            "One person from Texas, one from New York and another from Taiwan have returned home after being infected while in Miami Beach."
+        ],
+        "tf-idf score": [
+            0.17233794123435456,
+            0.3044844822415852,
+            0.5051583253335169
+        ]
+    },
+    "0.367914185416907-3-271": {
+        "average clique similarity": 0.367914185416907,
+        "clique": [
+            "4-Almost immediately a",
+            "0-  CNN  Pregnant wome",
+            "3-As a result  the fed"
+        ],
+        "median tf-idf score": 0.9298262094356882,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Almost immediately after Scott and health officials released the news, the U S Centers for Disease Control and Prevention updated its traveling warning.",
+            " (CNN) Pregnant women should not travel to an area of Miami Beach where local Zika virus transmission has been confirmed, the Centers for Disease Control and Prevention said Friday.",
+            "As a result, the federal Centers for Disease Control and Prevention expanded its advice to travelers, advising pregnant women to avoid the parts of Miami Beach where the virus is spreading."
+        ],
+        "tf-idf score": [
+            0.5407627558376812,
+            1.6753752585649766,
+            0.9298262094356882
+        ]
+    },
+    "0.40955503661298653-4-35": {
+        "average clique similarity": 0.40955503661298653,
+        "clique": [
+            "2- We believe there ar",
+            "0- We ve sampled a maj",
+            "1- We believe we have ",
+            "3- We believe we have "
+        ],
+        "median tf-idf score": 0.6844774417196837,
+        "publications": [
+            "CNN",
+            "Buzzfeed News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cWe believe there are two places where we have local transmission,\u201d Scott said.",
+            "\u201dWe\u2019ve sampled a majority of residents living in Wynwood,\u201d said Dr Celeste Philip, the state\u2019s surgeon general and secretary of health, adding, \u201dwe don\u2019t believe there is ongoing transmission\u201d.",
+            "\u201dWe believe we have a new area where local transmissions are occurring in Miami Beach,\u201d Scott said at a noon press conference.",
+            "\u201dWe believe we have a new area where local transmissions are occurring in Miami Beach,\u201d Gov."
+        ],
+        "tf-idf score": [
+            0.4265987218296641,
+            0.6499138468932527,
+            0.9645494553850797,
+            0.7190410365461147
+        ]
+    },
+    "0.4294331167003084-3-121": {
+        "average clique similarity": 0.4294331167003084,
+        "clique": [
+            "0-It is the second are",
+            "3- Tourism is a drivin",
+            "1- Tourism is a drivin"
+        ],
+        "median tf-idf score": 0.8701684493983156,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "It is the second area of   County where local transmission of the virus has been found.",
+            "\u201dTourism is a driving force of Florida\u2019s economy and this industry has the full support of our state in the fight against the Zika virus,\u201d Scott said in a statement.",
+            "\u201dTourism is a driving force of our economy, and this industry has the full support of our state in the fight against the Zika virus,\u201d Scott said."
+        ],
+        "tf-idf score": [
+            0.5738535415386573,
+            0.9748745577662227,
+            0.8701684493983156
+        ]
+    }
+}

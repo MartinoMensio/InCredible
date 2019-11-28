@@ -1,0 +1,166 @@
+{
+    "0.3286499746509192-3-14": {
+        "average clique similarity": 0.3286499746509192,
+        "clique": [
+            "2-  CNN  Donald Trump ",
+            "4- Donald Trump s camp",
+            "1-In a statement Frida"
+        ],
+        "median tf-idf score": 1.4157271351675518,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            " (CNN) Donald Trump\u2019s campaign chairman Paul Manafort has resigned from his position on the campaign, the Republican presidential nominee said in a statement Friday.",
+            " Donald Trump\u2019s campaign chairman, Paul Manafort, resigned from his position on Friday morning following a staff shakeup earlier in the week and increasing scrutiny over his ties to Russia and Ukraine.",
+            "In a statement Friday morning, Trump said that Manafort offered his resignation."
+        ],
+        "tf-idf score": [
+            1.4157271351675518,
+            1.5293318809704028,
+            0.8556780855915919
+        ]
+    },
+    "0.4671075267873084-3-8": {
+        "average clique similarity": 0.4671075267873084,
+        "clique": [
+            "0-Manafort s resignati",
+            "3-  Trump announced th",
+            "4-On Wednesday  Trump "
+        ],
+        "median tf-idf score": 1.3007614410224382,
+        "publications": [
+            "Breitbart",
+            "New York Post",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "Manafort\u2019s resignation comes days after Stephen K Bannon took a leave of absence from Breitbart News to serve as Trump\u2019s campaign CEO and Kellyanne Conway was promoted to campaign manager.",
+            "\u201d Trump announced this week the hiring of a new CEO, Stephen Bannon from Breitbart News, and campaign manager, Kellyanne Conway, a pollster who was already with the campaign.",
+            "On Wednesday, Trump hired Breitbart News executive Stephen K Bannon as his campaign\u2019s CEO and promoted pollster Kellyanne Conway to campaign manager  \u2014   an apparent demotion for Manafort."
+        ],
+        "tf-idf score": [
+            1.5737291542322613,
+            1.1377680614774848,
+            1.3007614410224382
+        ]
+    },
+    "0.5570968948572569-4-85": {
+        "average clique similarity": 0.5570968948572569,
+        "clique": [
+            "3- Paul Manafort s res",
+            "2- Paul Manafort s res",
+            "4-Hillary Clinton s ca",
+            "0-Paul Manafort  Donal"
+        ],
+        "median tf-idf score": 1.571958974529836,
+        "publications": [
+            "Breitbart",
+            "New York Post",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\u201cPaul Manafort\u2019s resignation is a clear admission that the disturbing connections between Donald Trump\u2019s team and   elements in Russia and Ukraine are untenable,\u201d said Clinton campaign manager Robby Mook.",
+            "\u201dPaul Manafort\u2019s resignation is a clear admission that the disturbing connections between Donald Trump\u2019s team and   elements in Russia and Ukraine are untenable,\u201d Clinton campaign manager Robby Mook said in a statement.",
+            "Hillary Clinton\u2019s campaign manager Robby Mook responded to the news in a statement on Friday, \u201cPaul Manafort\u2019s resignation is a clear admission that the disturbing connections between Donald Trump\u2019s team and   elements in Russia and Ukraine are untenable.",
+            "Paul Manafort, Donald Trump\u2019s campaign chairman, resigned from the campaign on Friday."
+        ],
+        "tf-idf score": [
+            1.5542117935871667,
+            1.5897061554725054,
+            1.6943089612057962,
+            1.1193716451529099
+        ]
+    },
+    "0.7503871188729927-3-89": {
+        "average clique similarity": 0.7503871188729927,
+        "clique": [
+            "0-  This morning Paul ",
+            "2- This morning Paul M",
+            "4- This morning Paul M"
+        ],
+        "median tf-idf score": 1.1817502922126126,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "[\u201cThis morning Paul Manafort offered, and I accepted, his resignation from the campaign.",
+            "\u201dThis morning Paul Manafort offered, and I accepted, his resignation from the campaign,\u201d Trump said.",
+            "\u201cThis morning Paul Manafort offered, and I accepted, his resignation from the campaign,\u201d Trump said in a statement."
+        ],
+        "tf-idf score": [
+            0.8419635910148703,
+            1.1817502922126126,
+            1.2172446540979511
+        ]
+    },
+    "0.8470399716383016-5-11": {
+        "average clique similarity": 0.8470399716383016,
+        "clique": [
+            "2-Paul is a true profe",
+            "4-Paul is a true profe",
+            "3- Paul is a true prof",
+            "1- Paul is a true prof",
+            "0-Paul is a true profe"
+        ],
+        "median tf-idf score": 0.30927324490468316,
+        "publications": [
+            "Breitbart",
+            "CNN",
+            "Buzzfeed News",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Paul is a true professional and I wish him the greatest success\u201d.",
+            "Paul is a true professional and I wish him the greatest success.",
+            "\u201cPaul is a true professional and I wish him the greatest success.",
+            "\u201dPaul is a true professional and I wish him the greatest success,\u201d Trump continued.",
+            "Paul is a true professional and I wish him the greatest success,\u201d Trump stated in a press release on Friday."
+        ],
+        "tf-idf score": [
+            0.30927324490468316,
+            0.30927324490468316,
+            0.30927324490468316,
+            0.5843539645533904,
+            0.7231897871784184
+        ]
+    },
+    "0.9575260873818504-5-13": {
+        "average clique similarity": 0.9575260873818504,
+        "clique": [
+            "2- I am very appreciat",
+            "3- I am very appreciat",
+            "1-The candidate said h",
+            "0-I am very appreciati",
+            "4- I am very appreciat"
+        ],
+        "median tf-idf score": 0.426377626891565,
+        "publications": [
+            "Buzzfeed News",
+            "New York Post",
+            "Breitbart",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dI am very appreciative for his great work in helping to get us where we are today, and in particular his work guiding us through the delegate and convention process.",
+            "\u201cI am very appreciative for his great work in helping to get us where we are today, and in particular his work guiding us through the delegate and convention process,\u201d he added.",
+            "The candidate said he is \u201dvery appreciative for his great work in helping to get us where we are today, and in particular his work guiding us through the delegate and convention process\u201d.",
+            "I am very appreciative for his great work in helping to get us where we are today, and in particular his work guiding us through the delegate and convention process.",
+            "\u201cI am very appreciative for his great work in helping to get us where we are today, and in particular his work guiding us through the delegate and convention process."
+        ],
+        "tf-idf score": [
+            0.426377626891565,
+            0.4511617355928624,
+            0.5232334773193343,
+            0.426377626891565,
+            0.426377626891565
+        ]
+    }
+}

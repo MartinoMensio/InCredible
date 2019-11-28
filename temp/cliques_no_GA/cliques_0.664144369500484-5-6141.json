@@ -1,0 +1,802 @@
+{
+    "0.13443550600047702-3-231": {
+        "average clique similarity": 0.13443550600047702,
+        "clique": [
+            "1-Who is Pence ",
+            "0-  Pence s unsteady h",
+            "3-Still  Pence is not "
+        ],
+        "median tf-idf score": 0.43950762175176544,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "Who is Pence?",
+            "\u201d Pence\u2019s unsteady handling of that crisis raises concerns about how he will perform under pressure, and as a   candidate, Pence is in for a pounding.",
+            "Still, Pence is not without some negatives, particularly his handling last year of the   Religious Freedom Restoration Act."
+        ],
+        "tf-idf score": [
+            0.3135617882914072,
+            0.43950762175176544,
+            0.45026623124715426
+        ]
+    },
+    "0.13701313849906302-3-487": {
+        "average clique similarity": 0.13701313849906302,
+        "clique": [
+            "3-   Mike Pence would ",
+            "4-Pence has been prais",
+            "2-Indeed  many GOP law"
+        ],
+        "median tf-idf score": 0.593605224259491,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d \u201dMike Pence would make an outstanding running mate,\u201d GOP strategist Rob Burgess said.",
+            "Pence has been praised for helping revive Indiana\u2019s economy  \u2014   an argument he can make on the stump with Trump.",
+            "Indeed, many GOP lawmakers praised Pence on Thursday."
+        ],
+        "tf-idf score": [
+            0.593605224259491,
+            0.908874121551231,
+            0.39898826585722513
+        ]
+    },
+    "0.13759428958371112-3-215": {
+        "average clique similarity": 0.13759428958371112,
+        "clique": [
+            "3-In a phone interview",
+            "1-Still  Pence heaped ",
+            "2-On Capitol Hill  Rep"
+        ],
+        "median tf-idf score": 0.878235279672097,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "In a phone interview just after the announcement on Fox News\u2019 \u201dOn The Record with Greta Van Sustern,\u201d Trump said \u201dwe\u2019re living in a whole different world and there\u2019s no respect for law and order\u201d.",
+            "Still, Pence heaped praise on Trump in the WIBC radio interview where he endorsed Cruz, pointing to Trump\u2019s focus on Carrier, the Indianapolis air conditioning company that was shipping 2, 100 jobs to Mexico.",
+            "On Capitol Hill, Republican lawmakers reacted to the reports by showering praise on Pence but cautioned that they, too, had received no word on the selection from Trump or his campaign."
+        ],
+        "tf-idf score": [
+            0.6979488784104225,
+            0.8976076241093314,
+            0.878235279672097
+        ]
+    },
+    "0.1430124096807795-3-468": {
+        "average clique similarity": 0.1430124096807795,
+        "clique": [
+            "1- A campaign ought to",
+            "2-Associates of Trump ",
+            "3-But he moved almost "
+        ],
+        "median tf-idf score": 0.7195696471777501,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "\u201dA campaign ought to be about the advancement of issues whose success or failure is more significant than that of the candidate,\u201d Pence wrote.",
+            "Associates of Trump said he has been torn between his gut instincts to tap a fiery combatant or heeding the advice of his advisers to tap the relatively   and   Pence, whose elevation to the ticket could help unify the divided Republican Party.",
+            "But he moved almost immediately to the top of the list, considering he gives the Trump campaign   social conservative credentials without the kind of political baggage that Democrats had hoped to exploit in other finalists like Christie or Gingrich."
+        ],
+        "tf-idf score": [
+            0.46127305781500816,
+            1.0871062612769808,
+            0.7195696471777501
+        ]
+    },
+    "0.14636825980829846-3-86": {
+        "average clique similarity": 0.14636825980829846,
+        "clique": [
+            "1-Pence is seen as a s",
+            "3-Mike Pence as his ru",
+            "2-Whereas Trump is kno"
+        ],
+        "median tf-idf score": 0.7364849747691529,
+        "publications": [
+            "Fox News",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Pence is seen as a safe political option for Trump, who also considered candidates who mirror his big personality such as New Jersey Gov.",
+            "Mike Pence as his running mate.",
+            "Whereas Trump is known as a gregarious and   New Yorker, Pence speaks frequently about God and prayer and refers to his work as \u201dservant leadership\u201d."
+        ],
+        "tf-idf score": [
+            0.8474514159855745,
+            0.4398535713710845,
+            0.7364849747691529
+        ]
+    },
+    "0.15301498661837834-3-12": {
+        "average clique similarity": 0.15301498661837834,
+        "clique": [
+            "1- They talked about p",
+            "4-He became a   Christ",
+            "2-The moves had Pence "
+        ],
+        "median tf-idf score": 0.337290084872772,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dThey talked about policies that are working in Indiana and the future of this country.",
+            "He became a   Christian in college and has talked about how his faith drives his politics, saying he is \u201da Christian, a conservative and a Republican, in that order\u201d.",
+            "The moves had Pence associates in Indiana abuzz about his likely selection."
+        ],
+        "tf-idf score": [
+            0.15392287603595012,
+            0.337290084872772,
+            0.45540404563342457
+        ]
+    },
+    "0.15312032207610202-3-174": {
+        "average clique similarity": 0.15312032207610202,
+        "clique": [
+            "2-Mike Pence emerged T",
+            "1-Pence took to Twitte",
+            "0-Several news reports"
+        ],
+        "median tf-idf score": 1.1349583963038532,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Mike Pence emerged Thursday as Donald Trump\u2019s likely running mate, with allies of Pence and Trump sending increasingly strong signals that Pence would join the GOP ticket and Republican leaders saying they have been told to stand by for an announcement.",
+            "Pence took to Twitter shortly after the announcement, saying, \u201dHonored to join @realDonaldTrump and work to make America great again,\u201d and the campaign debut a new logo featuring both names.",
+            "Several news reports \u2014  from the Indiannopolis Star, Roll Call, and The New York Times \u2014  suggest that after flirting with the     \u201cpirate\u201d Newt Gingrich and brash jock Chris Christie, presumptive Republican nominee Donald Trump has decided to settle down with the more   choice of Indiana Governor Mike Pence, asking him to be his running mate."
+        ],
+        "tf-idf score": [
+            1.1349583963038532,
+            0.589373409821376,
+            1.6227318073012418
+        ]
+    },
+    "0.1538471220499651-3-132": {
+        "average clique similarity": 0.1538471220499651,
+        "clique": [
+            "1-In joining Trump s t",
+            "2-Here s what you need",
+            "4-The Indiana governor"
+        ],
+        "median tf-idf score": 0.5959730086313197,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "In joining Trump\u2019s ticket, he leaves Indiana Republicans to replace him in what was expected to be a     battle against Democratic former state House Speaker John Gregg.",
+            "Here\u2019s what you need to know about him.",
+            "The Indiana governor emerged as a   in the past week, with many of Trump\u2019s advisers reportedly liking what the    would bring to the ticket."
+        ],
+        "tf-idf score": [
+            0.8262417968384268,
+            0.03129769364325661,
+            0.5959730086313197
+        ]
+    },
+    "0.15796194372549058-3-365": {
+        "average clique similarity": 0.15796194372549058,
+        "clique": [
+            "2-But some more modera",
+            "1-Since then  Pence ha",
+            "4-He won t run the ris"
+        ],
+        "median tf-idf score": 0.8029475176303321,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "But some more moderate Republican lawmakers said they were concerned Pence is too rigidly conservative to help Trump broaden his appeal to the general electorate.",
+            "Since then, Pence has repeatedly complimented Trump, vowing to help him in the general election.",
+            "He won\u2019t run the risk of overshadowing Trump and could help him appeal to disaffected conservatives and evangelical voters."
+        ],
+        "tf-idf score": [
+            0.9382794513769317,
+            0.8029475176303321,
+            0.4810558078419002
+        ]
+    },
+    "0.15891588091752143-3-311": {
+        "average clique similarity": 0.15891588091752143,
+        "clique": [
+            "3-Trump added that the",
+            "2-A Republican officia",
+            "4- I don t know if he "
+        ],
+        "median tf-idf score": 0.9663932289604514,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Trump added that the world was going to have to smart and tough or \u201dwe\u2019re not going to have a society, we\u2019re not going to have a world anymore\u201d.",
+            "A Republican official in touch with Pence\u2019s associates said Thursday morning that Pence told those associates he was convinced after his Wednesday meeting with Trump that he was going to be the pick.",
+            "\u201dI don\u2019t know if he\u2019s going to be your governor or your vice president, who the hell knows!\u201d Pence was already locked in a tough rematch with former State House Speaker John Gregg, in part owing to his falling standing in the state after the religious freedom law controversy."
+        ],
+        "tf-idf score": [
+            0.5231786973823187,
+            1.093041100474038,
+            0.9663932289604514
+        ]
+    },
+    "0.16096814723500544-3-151": {
+        "average clique similarity": 0.16096814723500544,
+        "clique": [
+            "0-Former Governor Mitc",
+            "2-said picking Pence w",
+            "3-See Latest Coverage "
+        ],
+        "median tf-idf score": 0.5877356026921459,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Former Governor Mitch Daniels, a fellow Republican who is now president of Purdue University, said on Thursday he would not try again for his old job.",
+            "said picking Pence would be a wise choice by Trump, though he said he had not heard directly from the governor that he had been selected.",
+            "See Latest Coverage \u2192 Trump said that as president, he would not allow people into the country from \u201dterrorist nations\u201d and would implement \u201dextreme vetting\u201d."
+        ],
+        "tf-idf score": [
+            0.40913551987166824,
+            0.8347224426006533,
+            0.5877356026921459
+        ]
+    },
+    "0.16270111237981275-3-318": {
+        "average clique similarity": 0.16270111237981275,
+        "clique": [
+            "1-But Pence made clear",
+            "4-Trump campaigned wit",
+            "2-Both men spoke with "
+        ],
+        "median tf-idf score": 0.8309384188789299,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "But Pence made clear this week that he\u2019s more than willing to play the role of attack dog, strongly criticizing Hillary Clinton during a rally with Trump.",
+            "Trump campaigned with Pence in Indiana this week, and the governor was the only one of the three finalists who introduced Trump to the crowd.",
+            "Both men spoke with Trump on Wednesday during the candidate\u2019s stay in Indiana, following a Tuesday night rally with Pence."
+        ],
+        "tf-idf score": [
+            0.7562797445275582,
+            0.9695973786582129,
+            0.8309384188789299
+        ]
+    },
+    "0.16360733344550482-3-477": {
+        "average clique similarity": 0.16360733344550482,
+        "clique": [
+            "1-I think Chris Christ",
+            "4-Chris Christie  were",
+            "0-Christie is still pe"
+        ],
+        "median tf-idf score": 0.14849245555888685,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "I think Chris Christie is a fantastic person, been a friend of mine for 15 years.",
+            "Chris Christie, were still in the mix, calling both of them \u201dfantastic\u201d people.",
+            "Christie is still persona non grata for embracing President Obama after Hurricane Sandy, and he\u2019s something of a moderate."
+        ],
+        "tf-idf score": [
+            0.14849245555888685,
+            0.11902914895742177,
+            0.15912093379937625
+        ]
+    },
+    "0.16395434192638672-3-402": {
+        "average clique similarity": 0.16395434192638672,
+        "clique": [
+            "4-Even with sources an",
+            "2-A decision has not b",
+            "1-Pence has had a frau"
+        ],
+        "median tf-idf score": 0.9777493497902024,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Even with sources and multiple news organizations reporting Pence has been offered the job, Trump called into Fox News Thursday night and said he hasn\u2019t \u201dmade my final, final decision\u201d.",
+            "A decision has not been made by Mr Trump.",
+            "Pence has had a fraught relationship with Indiana reporters    not unlike Trump    fueled in part by his quickly abandoned 2015 plans to launch a   news outlet called \u201dJust IN\u201d."
+        ],
+        "tf-idf score": [
+            1.122222853959476,
+            0.47296876096559165,
+            0.9777493497902024
+        ]
+    },
+    "0.16680098997333404-3-121": {
+        "average clique similarity": 0.16680098997333404,
+        "clique": [
+            "2-Should he join force",
+            "4-Pence would give Tru",
+            "3-If Trump settles on "
+        ],
+        "median tf-idf score": 0.9803609745068261,
+        "publications": [
+            "Washington Post",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "Should he join forces with Trump, Pence, a deeply conservative former congressman and   host, could help him unite the disparate blocs within the Republican coalition  \u2014   especially social conservatives and establishment leaders, who remain skeptical of if not outright hostile to Trump.",
+            "Pence would give Trump a younger, conservative favorite to help heal the rift within the Republican Party and ease the minds of many still skeptical of the presumptive presidential nominee.",
+            "If Trump settles on Pence, who went from dark horse to leading contender in a matter of days, the pick presumably is aimed at galvanizing support from the party\u2019s conservative base as Trump charges into the Republican nominating convention."
+        ],
+        "tf-idf score": [
+            0.9324799016223707,
+            0.9803609745068261,
+            1.0117421548936507
+        ]
+    },
+    "0.1738143441065875-3-384": {
+        "average clique similarity": 0.1738143441065875,
+        "clique": [
+            "0-Christie was one of ",
+            "4-But Pence is the onl",
+            "2-considered a   candi"
+        ],
+        "median tf-idf score": 0.6335158223645686,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Christie was one of the first major Republican figures to endorse Trump, and has often campaigned with him.",
+            "But Pence is the only one who has a clock ticking.",
+            "considered a   candidate but one who has grown close to Trump, also visited with Trump in Indiana and traveled with him to California late Wednesday."
+        ],
+        "tf-idf score": [
+            0.7055146281306037,
+            0.43914850056668503,
+            0.6335158223645686
+        ]
+    },
+    "0.1739625047851074-3-293": {
+        "average clique similarity": 0.1739625047851074,
+        "clique": [
+            "3-Pence  now in a toug",
+            "0-A   member of the U ",
+            "1-By 2009  Pence had r"
+        ],
+        "median tf-idf score": 0.5830758298724287,
+        "publications": [
+            "Atlantic",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "Pence, now in a tough   bid, spent 12 years in Congress including as the leader of the House Republican Conference.",
+            "A   member of the U S House, he came to Washington in 2001 and left in 2013, when he became governor of Indiana.",
+            "By 2009, Pence had risen to become the House Republican Conference chairman, a position he occupied as a leader of the party\u2019s socially conservative flank."
+        ],
+        "tf-idf score": [
+            0.5830758298724287,
+            0.25420319265509983,
+            0.6056144785226375
+        ]
+    },
+    "0.174565209421822-3-281": {
+        "average clique similarity": 0.174565209421822,
+        "clique": [
+            "3-The Trump campaign s",
+            "2-But less than 24 hou",
+            "1-But speaking at a fu"
+        ],
+        "median tf-idf score": 0.680737446520108,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "The Trump campaign still insists an offer has not formally been made to anyone    and nothing is final until the presumptive nominee announces his running mate.",
+            "But less than 24 hours before Trump was set to reveal his   choice at an event in New York, Trump had not made a formal offer, according Republicans familiar with the discussions who spoke   Thursday on the condition of anonymity because the ongoing talks were confidential.",
+            "But speaking at a fundraiser in Los Angeles later in the evening, Trump said he had made his pick and the campaign was \u201dready to announce,\u201d according to an attendee."
+        ],
+        "tf-idf score": [
+            0.680737446520108,
+            0.7452903502654165,
+            0.6637007507502347
+        ]
+    },
+    "0.17531375851150646-3-274": {
+        "average clique similarity": 0.17531375851150646,
+        "clique": [
+            "4-Donald Trump hears t",
+            "1-Trump s VP drama hea",
+            "3-Consideration of Pen"
+        ],
+        "median tf-idf score": 0.9058373134315558,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "Donald Trump hears the voice of the American people,\u201d Pence boasted, adding that, \u201dWe are ready to put a fighter, a builder and a patriot in the Oval Office of the United States of America\u201d.",
+            "Trump\u2019s VP drama headed for a climax, Pence said Trump has \u201dgiven voice to the frustration of millions of working Americans with the lack of progress in Washington, D C\u201d.",
+            "Consideration of Pence also has put Trump on the clock."
+        ],
+        "tf-idf score": [
+            0.9058373134315558,
+            0.9335334011783831,
+            0.7633993946607475
+        ]
+    },
+    "0.17745865686856574-3-424": {
+        "average clique similarity": 0.17745865686856574,
+        "clique": [
+            "3-The national and wid",
+            "0-The law earned the s",
+            "4-Many state businesse"
+        ],
+        "median tf-idf score": 0.5745383477492338,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The national and widespread criticism was so damaging it forced Pence and the state legislature to revise the law to clearly prohibit businesses from denying services to customers based on their sexual preference or gender choice.",
+            "The law earned the state widespread condemnation, especially from major businesses in the state, and Pence eventually backed down, backing a gutted version of the law.",
+            "Many state businesses  \u2014   including the NCAA, which was readying to hold the Final Four there  \u2014   said they reconsidered deals and investments."
+        ],
+        "tf-idf score": [
+            0.731449822730244,
+            0.5745383477492338,
+            0.3564860213496272
+        ]
+    },
+    "0.18357820163120434-3-155": {
+        "average clique similarity": 0.18357820163120434,
+        "clique": [
+            "0-More recently  Trump",
+            "2-In addition to Pence",
+            "1-A test of   chemistr"
+        ],
+        "median tf-idf score": 0.7866287615128903,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "More recently, Trump said he wanted an \u201cattack dog\u201d as a running mate, which suggested that the more pugnacious Gingrich, the former speaker of the House, or Christie, the current governor of New Jersey, might be leading the pack.",
+            "In addition to Pence, Gingrich and New Jersey Gov.",
+            "A test of   chemistry, Pence and his wife, Karen, who is also a close adviser, met on July 2 with Trump in person in New Jersey for more than an hour."
+        ],
+        "tf-idf score": [
+            0.8958409589121151,
+            0.4634650657359073,
+            0.7866287615128903
+        ]
+    },
+    "0.2030620632130207-3-182": {
+        "average clique similarity": 0.2030620632130207,
+        "clique": [
+            "2-He has not always ag",
+            "1-He also downplayed h",
+            "4-He was also presiden"
+        ],
+        "median tf-idf score": 0.448892836413564,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "He has not always agreed with Trump\u2019s policy ideas, however.",
+            "He also downplayed his disagreements with Trump on policy.",
+            "He was also president of a conservative think tank in the state, the Indiana Policy Review Foundation."
+        ],
+        "tf-idf score": [
+            0.46637524865368274,
+            0.35640358897691327,
+            0.448892836413564
+        ]
+    },
+    "0.2108430527752282-3-184": {
+        "average clique similarity": 0.2108430527752282,
+        "clique": [
+            "2-Indiana Governor Mik",
+            "3-Earlier on Thursday ",
+            "1-CNN reported Thursda"
+        ],
+        "median tf-idf score": 0.8769058095310752,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "Indiana Governor Mike Pence (R) is on Republican presidential candidate Donald Trump\u2019s short list of potential vice presidential candidates.",
+            "Earlier on Thursday, sources familiar with the Trump campaign\u2019s vice presidential selection process confirmed to Fox News that steps are underway for Donald Trump to name Indiana Gov.",
+            "CNN reported Thursday that Trump had called Pence and offered him the vice presidential slot on his ticket."
+        ],
+        "tf-idf score": [
+            1.1252841549789276,
+            0.8769058095310752,
+            0.8637334042618369
+        ]
+    },
+    "0.21438980127881568-3-400": {
+        "average clique similarity": 0.21438980127881568,
+        "clique": [
+            "0-But Christie and Gin",
+            "1-On Wednesday  Trump ",
+            "4-He s a more cautious"
+        ],
+        "median tf-idf score": 0.13029670506050994,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "But Christie and Gingrich both have plenty of detractors on the right.",
+            "On Wednesday, Trump held a series of auditions with Pence and other top contenders including Christie and Gingrich.",
+            "He\u2019s a more cautious,   choice over Gingrich and Christie."
+        ],
+        "tf-idf score": [
+            0.13029670506050994,
+            0.7862821457519884,
+            0.12202026921442104
+        ]
+    },
+    "0.2324691803684147-3-138": {
+        "average clique similarity": 0.2324691803684147,
+        "clique": [
+            "4-In 2015  he signed i",
+            "3-The original law  wh",
+            "1-Then Indiana became "
+        ],
+        "median tf-idf score": 0.21779835564447125,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "CNN"
+        ],
+        "sentences": [
+            "In 2015, he signed into law a controversial religious freedom bill, which spurred wide backlash and fears it would enable LGBT discrimination.",
+            "The original law, which he signed, allowed residents and companies being sued by a private party to cite their religious beliefs as a defense.",
+            "Then Indiana became the subject of a media storm in 2010 when Pence signed into law a \u201dreligious freedom\u201d measure that would have allowed companies to assert that their exercise of religion had been violated as a defense if sued for turning away customers."
+        ],
+        "tf-idf score": [
+            0.20735070357418023,
+            0.21779835564447125,
+            0.642988851540875
+        ]
+    },
+    "0.23480644326925595-3-403": {
+        "average clique similarity": 0.23480644326925595,
+        "clique": [
+            "4-He cannot run for bo",
+            "2-Pence has until midd",
+            "3-Pence faced a Friday"
+        ],
+        "median tf-idf score": 0.7056060461712252,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "He cannot run for both   as governor and for vice president, and he must withdraw by noon Friday so that the state party can replace him on the ballot.",
+            "Pence has until midday Friday to withdraw from his reelection campaign and remove himself from the Indiana ballot, something he would need to do if he were to run for vice president.",
+            "Pence faced a Friday deadline to file paperwork to appear on the official state ballot as either a gubernatorial or vice presidential candidate."
+        ],
+        "tf-idf score": [
+            0.39707064143193704,
+            0.7748756861599323,
+            0.7056060461712252
+        ]
+    },
+    "0.23657044202170474-3-518": {
+        "average clique similarity": 0.23657044202170474,
+        "clique": [
+            "1-Pence s selection gi",
+            "0-Pence would have his",
+            "4-Mike Pence as his vi"
+        ],
+        "median tf-idf score": 0.6009861795885149,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "Pence\u2019s selection gives Trump a running mate with strong ties to the Republican base    particularly social conservatives.",
+            "Pence would have his first real star turn as a running mate next week at the Republican National Convention in Cleveland.",
+            "Mike Pence as his vice presidential running mate, a source with direct knowledge confirms to NPR\u2019s Mara Liasson."
+        ],
+        "tf-idf score": [
+            0.9566836340992433,
+            0.584615177288006,
+            0.6009861795885149
+        ]
+    },
+    "0.24954089238436375-3-336": {
+        "average clique similarity": 0.24954089238436375,
+        "clique": [
+            "4-A rollout in New Yor",
+            "0-A formal announcemen",
+            "2- The Fix  10 things "
+        ],
+        "median tf-idf score": 0.7745300108133459,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "A rollout in New York City had been planned for Friday at 11 a. m. but Trump tweeted Thursday evening that \u201din light of the horrible attack in Nice, France,\u201d he was postponing that announcement.",
+            "A formal announcement is scheduled for Friday morning at 11 a. m. in New York City.",
+            "[The Fix: 10 things you should know about Mike Pence]   Also Thursday, Marc Lotter, Pence\u2019s deputy campaign manager, was spotted by reporters on a flight from Indianapolis to New York, where Friday\u2019s announcement will be made."
+        ],
+        "tf-idf score": [
+            0.7745300108133459,
+            0.19091245768000856,
+            0.7856444943952309
+        ]
+    },
+    "0.2677655561365589-3-518": {
+        "average clique similarity": 0.2677655561365589,
+        "clique": [
+            "0-The time has come fo",
+            "2-Last December  for i",
+            "1-He called Trump s at"
+        ],
+        "median tf-idf score": 0.7440307517295152,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "The time has come for all of us to urge the swift adoption of the Trans Pacific Partnership, He also blasted the idea of barring Muslims from entering the U S another signature Trump proposal: Calls to ban Muslims from entering the U S are offensive and unconstitutional.",
+            "Last December, for instance, Pence criticized Trump\u2019s controversial proposal to temporarily ban Muslims from entering the United States.",
+            "He called Trump\u2019s attacks on an   judge of Mexican heritage \u201dinappropriate,\u201d and said his proposal to temporarily ban Muslims from entering the United States was \u201doffensive and unconstitutional\u201d."
+        ],
+        "tf-idf score": [
+            0.6509951257558149,
+            0.8217627871814045,
+            0.7440307517295152
+        ]
+    },
+    "0.30942454854911766-3-339": {
+        "average clique similarity": 0.30942454854911766,
+        "clique": [
+            "0-Trump has long said ",
+            "2-Trump has long said ",
+            "4-Having served at bot"
+        ],
+        "median tf-idf score": 0.7028356208914716,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Trump has long said that he wanted to choose a   candidate with experience in politics and in Washington, filling out areas where Trump has no resume.",
+            "Trump has long said he wanted a running mate with governing experience who could help him enact his agenda in Washington.",
+            "Having served at both the state and federal levels, Pence also has the political experience Trump has said he is looking for to help him navigate Washington."
+        ],
+        "tf-idf score": [
+            0.6698962848225637,
+            0.7028356208914716,
+            1.0372486052538767
+        ]
+    },
+    "0.3181966673909526-3-518": {
+        "average clique similarity": 0.3181966673909526,
+        "clique": [
+            "1-  CNN  Donald Trump ",
+            "4-Donald Trump has cho",
+            "2-     CLEVELAND      "
+        ],
+        "median tf-idf score": 0.6047490936634463,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            " (CNN) Donald Trump said Friday Indiana Gov.",
+            "Donald Trump has chosen Indiana Gov.",
+            "     CLEVELAND  \u2014   Indiana Gov."
+        ],
+        "tf-idf score": [
+            0.6224435733282735,
+            0.6047490936634463,
+            0.13930410529677645
+        ]
+    },
+    "0.3258383861359035-4-114": {
+        "average clique similarity": 0.3258383861359035,
+        "clique": [
+            "1-An endorsement for T",
+            "2-Pence endorsed Trump",
+            "0-Pence waited until t",
+            "4-Even though Pence in"
+        ],
+        "median tf-idf score": 0.8584066167627175,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "An endorsement for Trump\u2019s rival, Pence had endorsed Texas Sen. Ted Cruz over Trump before Indiana\u2019s crucial early May primary    a contest Trump won, knocking Cruz from the contest and clinching the nomination.",
+            "Pence endorsed Trump\u2019s rival Ted Cruz shortly before the Indiana primary in May.",
+            "Pence waited until the eve of the Hoosier State primary to endorse, but when he did so, he threw his support behind Senator Ted Cruz.",
+            "Even though Pence initially endorsed Ted Cruz ahead of his state\u2019s May 3 primary, his blessing for the Texas senator was lukewarm  \u2014   he had also praised Trump."
+        ],
+        "tf-idf score": [
+            0.8965884440962043,
+            0.8202247894292306,
+            0.5260426830038787,
+            0.9505530851821072
+        ]
+    },
+    "0.35592219967509087-4-518": {
+        "average clique similarity": 0.35592219967509087,
+        "clique": [
+            "1-Chris Christie and f",
+            "3-Chris Christie and f",
+            "4-He underscored that ",
+            "2-Donald Trump Jr the "
+        ],
+        "median tf-idf score": 0.21145351730012002,
+        "publications": [
+            "CNN",
+            "Fox News",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Chris Christie and former House Speaker Newt Gingrich.",
+            "Chris Christie and former House Speaker Newt Gingrich, among others.",
+            "He underscored that the two other finalists, former House Speaker Newt Gingrich and New Jersey Gov.",
+            "Donald Trump Jr the candidate\u2019s eldest son, and Kushner have advocated for former House speaker Newt Gingrich (Ga.) even though Trump\u2019s political advisers prefer Pence, according to people close to the family."
+        ],
+        "tf-idf score": [
+            0.17959242250385896,
+            0.17959242250385896,
+            0.24331461209638106,
+            0.9912572758386405
+        ]
+    }
+}

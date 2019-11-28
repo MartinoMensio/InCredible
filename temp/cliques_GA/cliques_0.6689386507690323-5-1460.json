@@ -1,0 +1,222 @@
+{
+    "0.22812517127872714-3-83": {
+        "average clique similarity": 0.22812517127872714,
+        "clique": [
+            "3-It also refunded  2 ",
+            "4-The bank said it had",
+            "1-On Thursday  the ban"
+        ],
+        "median tf-idf score": 1.0232379730250423,
+        "publications": [
+            "Buzzfeed News",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "It also refunded $2. 6 million in fees it collected from customers. The bank said that \"accounts refunded represented a fraction of one percent of the accounts reviewed, and refunds averaged $25\".",
+            "The bank said it had completed its own review of its sales practices, beginning in 2011, and had paid out $2. 6 million in refunds for an average of $25 per customer. CFPB director Cordray said the \"full extent of appropriate refunds is not yet known. \"",
+            "On Thursday, the bank stressed that the refunds have been relatively small  --   averaging about $25. The bank hired an independent consultant that reviewed tens of millions of accounts from May 2011 through July 2015."
+        ],
+        "tf-idf score": [
+            1.0232379730250423,
+            1.0322416911600993,
+            0.6782855891999395
+        ]
+    },
+    "0.22956994479943482-3-64": {
+        "average clique similarity": 0.22956994479943482,
+        "clique": [
+            "0-Additionally  Wells ",
+            "4-The details were mad",
+            "3-It also will pay  50"
+        ],
+        "median tf-idf score": 1.4316418038933285,
+        "publications": [
+            "NPR",
+            "Buzzfeed News",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Additionally, Wells Fargo employees also submitted applications for 565, 443   accounts without their knowledge or consent, the CFPB said the analysis found. In addition to the lofty fines, Wells Fargo, one of the largest banks in the country, has agreed to refund customers $5 million.",
+            "The details were made public by the Consumer Financial Protection Bureau, one of the regulators involved in the settlement. Wells Fargo will pay $100 million to the CFPB  --   the largest penalty ever levied by the financial regulator, for what it calls \"the widespread illegal practice of secretly opening unauthorized deposit and credit card accounts. \"",
+            "It also will pay $50 million to the City and County of Los Angeles, along with a $35 million penalty to the Office of the Comptroller of the Currency. It's also on the hook to pay full restitution to all victims of the scheme."
+        ],
+        "tf-idf score": [
+            1.7056546985336205,
+            1.4316418038933285,
+            0.5558657350265859
+        ]
+    },
+    "0.23975681108322186-3-85": {
+        "average clique similarity": 0.23975681108322186,
+        "clique": [
+            "0-More from CNN Money ",
+            "2-The largest U S bank",
+            "4- Wells Fargo will pa"
+        ],
+        "median tf-idf score": 1.1199336917226115,
+        "publications": [
+            "Atlantic",
+            "Reuters",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "More from CNN Money: An analysis conducted by a consulting firm hired by Wells Fargo concluded that bank employees opened up over 1. 5 million deposit accounts that may not have been authorized, according to the CFPB The way it worked was that employees moved funds from customers' existing accounts into   accounts without their knowledge or consent, regulators say.",
+            "The largest U S bank by market capitalization will pay $185 million in penalties and $5 million to customers that regulators say were pushed into   accounts they never requested.",
+            " Wells Fargo will pay $185 million in penalties after admitting its employees set up unauthorized credit and debit accounts for customers, even on occasion transferring money between the accounts without the customer's knowledge and permission."
+        ],
+        "tf-idf score": [
+            1.7519613493420145,
+            1.0325001548401442,
+            1.1199336917226115
+        ]
+    },
+    "0.33914557148052077-3-100": {
+        "average clique similarity": 0.33914557148052077,
+        "clique": [
+            "0-As a result  Wells F",
+            "1-On Thursday  these i",
+            "3-Wells Fargo Bank has"
+        ],
+        "median tf-idf score": 1.000376890678103,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "As a result, Wells Fargo is being fined $185 million, in what is the largest fine since the Consumer Finance Protection Bureau was founded in 2011. Wells Fargo has also fired 5, 300 employees who were involved in the fraudulent practice.",
+            "On Thursday, these illegal banking practices cost Wells Fargo $185 million in fines, including a $100 million penalty from the Consumer Financial Protection Bureau, the largest such penalty the agency has issued.",
+            "Wells Fargo Bank has been ordered to pay $185 million in fines and penalties to settle what the Consumer Financial Protection Bureau calls \"the widespread illegal practice of secretly opening unauthorized deposit and credit card accounts\"."
+        ],
+        "tf-idf score": [
+            1.000376890678103,
+            0.9437793438852493,
+            1.480743188341056
+        ]
+    },
+    "0.34532192046738613-3-24": {
+        "average clique similarity": 0.34532192046738613,
+        "clique": [
+            "1- Consumers must be a",
+            "4-Federal regulators w",
+            "3- This is a major vic"
+        ],
+        "median tf-idf score": 0.7462483856566662,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Buzzfeed News"
+        ],
+        "sentences": [
+            "\"Consumers must be able to trust their banks,\" said Mike Feuer, the Los Angeles city attorney.",
+            "Federal regulators were not the only ones looking into the bank. The Los Angeles City Attorney Mike Feuer sued the bank in May of last year, alleging its staff engaged in \"unfair, unlawful and fraudulent conduct\" due to pressure from strict sales quotas.",
+            "\"This is a major victory for consumers,\" said Los Angeles City Attorney Mike Feuer, whose office sued Wells Fargo in 2015 after a Los Angeles Times investigation into the fake accounts."
+        ],
+        "tf-idf score": [
+            0.691946806743267,
+            0.7462483856566662,
+            0.9316662094558628
+        ]
+    },
+    "0.3528778392976687-4-100": {
+        "average clique similarity": 0.3528778392976687,
+        "clique": [
+            "2-The bank opened more",
+            "1-5 million bank accou",
+            "4-5 million accounts  ",
+            "3-More than 2 million "
+        ],
+        "median tf-idf score": 0.9565182818053741,
+        "publications": [
+            "Reuters",
+            "New York Times",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "The bank opened more than 2 million deposit and credit card accounts that may not have been authorized, the CFPB said Thursday.",
+            "5 million bank accounts and applied for 565, 000 credit cards that may not have been authorized by customers, the regulators said in a news conference.",
+            "5 million accounts \"that may not have been authorized and that may have been funded through simulated funding or transferring funds from consumers' existing accounts without their knowledge or consent,\" according to data collected by a consultancy hired by the bank.",
+            "More than 2 million deposit and credit card accounts may have been created without customer authorization."
+        ],
+        "tf-idf score": [
+            1.0265169451765657,
+            1.1235403994517323,
+            0.8865196184341826,
+            0.6392446412541712
+        ]
+    },
+    "0.36447091052946784-3-58": {
+        "average clique similarity": 0.36447091052946784,
+        "clique": [
+            "1- Wells Fargo is comm",
+            "4- Our entire culture ",
+            "2- We regret and take "
+        ],
+        "median tf-idf score": 0.9726766732804861,
+        "publications": [
+            "Buzzfeed News",
+            "Reuters",
+            "New York Times"
+        ],
+        "sentences": [
+            "\"Wells Fargo is committed to putting our customers' interests first 100 percent of the time, and we regret and take responsibility for any instances where customers may have received a product that they did not request,\" the bank said in a statement.",
+            "\"Our entire culture is centered on doing what is right for our customers,\" Wells Fargo chief executive officer John Stumpf wrote in a letter to employees. \"However, at Wells Fargo, when we make mistakes, we are open about it, we take responsibility, and we take action.",
+            "\"We regret and take responsibility for any instances where customers may have received a product that they did not request,\" the bank said of a settlement reached Thursday with California prosecutors and federal regulators."
+        ],
+        "tf-idf score": [
+            0.984224156849226,
+            0.6892145035623942,
+            0.9726766732804861
+        ]
+    },
+    "0.37055466352175187-3-100": {
+        "average clique similarity": 0.37055466352175187,
+        "clique": [
+            "2-The Consumer Financi",
+            "4-Of the  185 million ",
+            "3-The bank must pay  1"
+        ],
+        "median tf-idf score": 0.7342677883633834,
+        "publications": [
+            "Reuters",
+            "Buzzfeed News",
+            "NPR"
+        ],
+        "sentences": [
+            "The Consumer Financial Protection Bureau will receive $100 million of the total penalties   the largest fine ever levied by the federal agency.",
+            "Of the $185 million to be paid to regulators and local authorities, $100 million will go to the Consumer Financial Protection Bureau  --   the largest such fine ever levied by the CFPB Bank employees opened over 1.",
+            "The bank must pay $100 million to the CFPB  --   the largest fine ever levied by the federal consumer watchdog."
+        ],
+        "tf-idf score": [
+            0.5871480989549782,
+            1.0835962108474964,
+            0.7342677883633834
+        ]
+    },
+    "0.6788865261513939-3-18": {
+        "average clique similarity": 0.6788865261513939,
+        "clique": [
+            "2- Today s action shou",
+            "0-Officials with the b",
+            "3- Today s action shou"
+        ],
+        "median tf-idf score": 1.1318992856952719,
+        "publications": [
+            "Reuters",
+            "Atlantic",
+            "NPR"
+        ],
+        "sentences": [
+            "\"Today's action should serve notice to the entire industry that financial incentive programs, if not monitored carefully, carry serious risks that can have serious legal consequences,\" said CFPB Director Richard Cordray. Los Angeles officials and the Office of the Comptroller of the Currency were also party to the settlement.",
+            "Officials with the bank said they \"regret and take responsibility\" for the scheme. Richard Cordray, the director of the CFPB, said the bureau's actions \"should serve notice to the entire industry that financial incentive programs, if not monitored carefully, carry serious risks that can have serious legal consequences. \"",
+            "\"Today's action should serve notice to the entire industry that financial incentive programs, if not monitored carefully, carry serious risks that can have serious legal consequences\". The CFPB's consent order says the bank has already terminated 5, 300 employees as part of an internal review."
+        ],
+        "tf-idf score": [
+            0.9925777297651763,
+            1.1492961091080558,
+            1.1318992856952719
+        ]
+    }
+}

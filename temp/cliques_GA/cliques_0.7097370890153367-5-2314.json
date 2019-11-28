@@ -1,0 +1,306 @@
+{
+    "0.18685198455368504-3-91": {
+        "average clique similarity": 0.18685198455368504,
+        "clique": [
+            "3-Pence praised the hi",
+            "2- t t      Pence was ",
+            "4-Pence  who has been "
+        ],
+        "median tf-idf score": 0.9082406485436162,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "CNN"
+        ],
+        "sentences": [
+            "Pence praised the hit show and urged people to see it. Trump called the   show \"highly overrated\" Sunday. Pence noted that there were some boos and cheers when he arrived at the theater.",
+            "'t't' '   Pence was  when he entered the theater earlier in the evening. ' ' Pence   walked out of the theater before Dixon finished his remarks but   heard the rest from the lobby. '",
+            "Pence, who has been in New York to assist with Trump's transition, was greeted inside the theater earlier in the night by a chorus of boos and some applause."
+        ],
+        "tf-idf score": [
+            0.7969159817215187,
+            0.9082406485436162,
+            1.0498492135846424
+        ]
+    },
+    "0.2085246215779678-3-41": {
+        "average clique similarity": 0.2085246215779678,
+        "clique": [
+            "3-He s got heart for t",
+            "1-com after Friday s p",
+            "2-    In two tweets Sa"
+        ],
+        "median tf-idf score": 1.0097343841007405,
+        "publications": [
+            "Washington Post",
+            "Reuters",
+            "Business Insider"
+        ],
+        "sentences": [
+            "He's got heart for the American people\" and wanted to reassure \"anyone, including the actor who spoke that night, that   Donald Trump is going to be president of all the people\". Trump criticized the cast in a series of tweets on Saturday and again on Sunday.",
+            "com after Friday's performance that the cast was alerted ahead of time that Pence would be in the audience, and that they spoke to   Miranda, who created \"Hamilton,\" as well as show producer Jeffrey Seller.",
+            "'   In two tweets Saturday morning, Trump said Pence was   \"harassed\" and that the cast of \"Hamilton\" should \"apologize\" for   what they did. '"
+        ],
+        "tf-idf score": [
+            0.9646165003199996,
+            1.0097343841007405,
+            1.2174324227525375
+        ]
+    },
+    "0.23262211411260694-3-4": {
+        "average clique similarity": 0.23262211411260694,
+        "clique": [
+            "0-Dixon and other cast",
+            "2-Apologize   t t     ",
+            "4-Word spread on socia"
+        ],
+        "median tf-idf score": 0.9228826622863852,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "CNN"
+        ],
+        "sentences": [
+            "Dixon and other cast members of the Tony   show paused during Friday's curtain call to appeal directly to the vice  .",
+            "Apologize! 't't' '   Dixon addressed Pence on Friday night with the following: ' '   \"Hamilton\" creator   Miranda tweeted praise to Dixon and   the cast: ' ' ' ' 't't'tProud of .",
+            "Word spread on social media Friday night that Pence was in the house for the hit show, and during the curtain call, Dixon urged Pence to \"work on behalf of all of us\"."
+        ],
+        "tf-idf score": [
+            0.5146206696104192,
+            1.1228496621625623,
+            0.9228826622863852
+        ]
+    },
+    "0.2375071780886131-3-195": {
+        "average clique similarity": 0.2375071780886131,
+        "clique": [
+            "1-Apologize   Dixon re",
+            "2-Proud of  for leadin",
+            "4-Sam Rudy  a publicis"
+        ],
+        "median tf-idf score": 0.910840686511586,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Apologize!\" Dixon responded to Trump on Twitter, saying that conversation did not amount to harassment and that he appreciated that Pence stopped to listen.",
+            "Proud of  for leading with love. And proud to remind you that ALL are welcome at the theater. 't't' '   On Saturday, Dixon tweeted back Trump with this response: ' ' ' '  conversation is not harassment sir. And I appreciate  for stopping to listen.",
+            "Sam Rudy, a publicist for \"Hamilton,\" said Pence was exiting the theater at the time and stopped to listen to Dixon."
+        ],
+        "tf-idf score": [
+            0.765768227563476,
+            0.910840686511586,
+            1.0624629102220176
+        ]
+    },
+    "0.27833949855660184-3-155": {
+        "average clique similarity": 0.27833949855660184,
+        "clique": [
+            "3-After the show on Fr",
+            "4-Washington  CNN   Do",
+            "1-After Friday evening"
+        ],
+        "median tf-idf score": 1.2057811942665113,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "After the show on Friday evening, Brandon Victor Dixon, who plays America's third vice president, Aaron Burr, read a statement directed at Pence, who was in the audience, while standing in front of the cast in full costume.",
+            "Washington (CNN)  Donald Trump accused the \"Hamilton\" cast Saturday of harassing Vice   Mike Pence at a performance Friday evening after the actors called on Pence to \"uphold our American values\".",
+            "After Friday evening's performance, at which Vice   Mike Pence was in the audience, several dozen of the Broadway musical's cast zeroed in on Pence during their curtain call."
+        ],
+        "tf-idf score": [
+            1.2057811942665113,
+            1.304119192800738,
+            0.9984565204012762
+        ]
+    },
+    "0.33173147570802036-3-203": {
+        "average clique similarity": 0.33173147570802036,
+        "clique": [
+            "1- realDonaldTrump con",
+            "4-Apologize   Cast mem",
+            "0-Brandon Victor Dixon"
+        ],
+        "median tf-idf score": 0.6004216120525174,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "@realDonaldTrump conversation is not harassment sir.",
+            "Apologize!\" Cast member Brandon Dixon, who portrays Aaron Burr in the Broadway show and delivered the statement to Pence during the curtain call, soon replied on Twitter, \"@realDonaldTrump conversation is not harassment sir.",
+            "Brandon Victor Dixon, who plays Burr, responded to Trump's tweet within minutes: \"Conversation is not harassment sir."
+        ],
+        "tf-idf score": [
+            0.11479068715856247,
+            0.9792369411025192,
+            0.6004216120525174
+        ]
+    },
+    "0.3741899542047766-3-183": {
+        "average clique similarity": 0.3741899542047766,
+        "clique": [
+            "4-Let s close the hist",
+            "1- We  sir  we are the",
+            "0- But we truly hope t"
+        ],
+        "median tf-idf score": 0.6367763923466914,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "Let's close the history books on the failures in Washington and let's open a new chapter of success and prosperity for all of our people. We have a divided nation, a seriously divided nation. All of our people    that is how we will truly make American great again,\" Trump said in Washington last month. \"Hamilton\" creator   Miranda is no stranger to politics, having backed Hillary Clinton during this year's election cycle.",
+            "\"We, sir, we are the diverse America who are alarmed and anxious that your new administration will not protect us, our planet, our children, our parents, or defend us and uphold our inalienable rights, sir. But we truly hope this show has inspired you to uphold our American values and work on behalf of all of us. All of us.",
+            "\"But we truly hope this show has inspired you to uphold our American values and work on behalf of all of us. \""
+        ],
+        "tf-idf score": [
+            0.9607098566039326,
+            0.6367763923466914,
+            0.3145409570727528
+        ]
+    },
+    "0.4634512695690342-3-203": {
+        "average clique similarity": 0.4634512695690342,
+        "clique": [
+            "4- Vice   Pence  we we",
+            "3- We  sir   we   are ",
+            "1- Vice   Pence  we we"
+        ],
+        "median tf-idf score": 0.6504100849404798,
+        "publications": [
+            "CNN",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"Vice   Pence, we welcome you and we truly thank you for joining us here at 'Hamilton: An American Musical.' We really do,\" Dixon said. \"We, sir, we are the diverse America who are alarmed and anxious that your new administration will not protect us, our planet, our children, our parents or defend us and uphold our inalienable rights, sir. But we truly hope this show has inspired you to uphold our American values and work on behalf of all of us.",
+            "\"We, sir   we   are the diverse America who are alarmed and anxious that your new administration will not protect us, our planet, our children, our parents, or defend us and uphold our inalienable rights,\" Dixon said.",
+            "\"Vice   Pence, we welcome you, and we truly thank you for joining us here at 'Hamilton: An American Musical.'"
+        ],
+        "tf-idf score": [
+            1.4311329195978848,
+            0.5915124624481093,
+            0.6504100849404798
+        ]
+    },
+    "0.4658586235855175-5-54": {
+        "average clique similarity": 0.4658586235855175,
+        "clique": [
+            "1-The cast of Hamilton",
+            "3- The Theater must al",
+            "4-In a tweet that was ",
+            "2-This should not happ",
+            "0- Very rude and insul"
+        ],
+        "median tf-idf score": 1.2877445267624126,
+        "publications": [
+            "Business Insider",
+            "Reuters",
+            "CNN",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "The cast of Hamilton was very rude last night to a very good man, Mike Pence.",
+            "\"The Theater must always be a safe and special place. The cast of Hamilton was very rude last night to a very good man, Mike Pence.",
+            "In a tweet that was later deleted, Trump wrote, \"Very rude and insulting of Hamilton cast member to treat our great future V P Mike Pence to a theater lecture. Couldn't even memorize lines!\"",
+            "This should not happen! 't't' ' ' ' 't't'tThe Theater must always be a safe and special place. The cast of Hamilton was very rude last night to a very good man, Mike Pence.",
+            "\"Very rude and insulting of Hamilton cast member to treat our great future V P Mike Pence to a theater lecture,\" Trump tweeted shortly after 7:30 p. m. referring to Dixon. \"Couldn't even memorize lines!\""
+        ],
+        "tf-idf score": [
+            1.0300697328089905,
+            1.2441057313777313,
+            1.4267911002882652,
+            1.2877445267624126,
+            1.4133632159490637
+        ]
+    },
+    "0.49690590128517603-3-203": {
+        "average clique similarity": 0.49690590128517603,
+        "clique": [
+            "0-And I appreciate  mi",
+            "1-And I appreciate  mi",
+            "4-And I appreciate  mi"
+        ],
+        "median tf-idf score": 0.39648535443295985,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "And I appreciate @mike_pence for stopping to listen. \"",
+            "And I appreciate @mike_pence for stopping to listen.",
+            "And I appreciate @mike_pence for stopping to listen\". Trump fired back Saturday evening, reiterating his feelings about the statement and taking a jab at Dixon for reading it from a cue card."
+        ],
+        "tf-idf score": [
+            0.39648535443295985,
+            0.39648535443295985,
+            0.9445459218590146
+        ]
+    },
+    "0.5994388205847325-3-203": {
+        "average clique similarity": 0.5994388205847325,
+        "clique": [
+            "1-     Donald J Trump ",
+            "4-He followed up   The",
+            "0-This should not happ"
+        ],
+        "median tf-idf score": 0.49881758744938565,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Post"
+        ],
+        "sentences": [
+            "--   Donald J Trump (@realDonaldTrump) November 19, 2016     The Theater must always be a safe and special place.",
+            "He followed up: \"The Theater must always be a safe and special place. The cast of Hamilton was very rude last night to a very good man, Mike Pence.",
+            "This should not happen! --   Donald J Trump (@realDonaldTrump)  The Theater must always be a safe and special place."
+        ],
+        "tf-idf score": [
+            0.49881758744938565,
+            1.2512659499024186,
+            0.4886728609669315
+        ]
+    },
+    "0.7859434025974932-5-49": {
+        "average clique similarity": 0.7859434025974932,
+        "clique": [
+            "3- Our wonderful futur",
+            "2-       t t tOur wond",
+            "1-Our wonderful future",
+            "0- Our wonderful futur",
+            "4- Our wonderful futur"
+        ],
+        "median tf-idf score": 1.2381769043608322,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Reuters",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"Our wonderful future V P Mike Pence was harassed last night at the theater by the cast of Hamilton, cameras blazing. This should not happen!\"",
+            "' ' ' 't't'tOur wonderful future V P Mike Pence was harassed last night at the theater by the cast of Hamilton, cameras blazing.",
+            "Our wonderful future V P Mike Pence was harassed last night at the theater by the cast of Hamilton, cameras blazing.",
+            "\"Our wonderful future V P Mike Pence was harassed last night at the theater by the cast of Hamilton, cameras blazing,\" Trump tweeted in the first of several volleys.",
+            "\"Our wonderful future V P Mike Pence was harassed last night at the theater by the cast of Hamilton, cameras blazing. This should not happen!\" Trump tweeted Saturday morning."
+        ],
+        "tf-idf score": [
+            1.2381769043608322,
+            1.2305353812559834,
+            1.2125367451160671,
+            1.4563821954190435,
+            1.5664568976472266
+        ]
+    }
+}

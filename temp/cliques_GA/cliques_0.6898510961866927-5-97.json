@@ -1,0 +1,490 @@
+{
+    "0.1648642721345995-3-9": {
+        "average clique similarity": 0.1648642721345995,
+        "clique": [
+            "4-  He shouldn  t be m",
+            "3-Makes sense  As the ",
+            "0-Christie said he was"
+        ],
+        "median tf-idf score": 1.0251723773658614,
+        "publications": [
+            "Business Insider",
+            "Fox News",
+            "Washington Post"
+        ],
+        "sentences": [
+            "'\"He shouldn''t be making fun of people with disabilities,\" . \"It''s just not worthy of someone running for the president of the United States. \"'",
+            "Makes sense. As the governor of New Jersey, Christie likely had more interactions with Trump than anyone else who is running (or did run) for the Republican nomination.",
+            "Christie said he was not offered any position by Trump and intends to serve out the remainder of his governorship in New Jersey and eventually work in the private sector with the hopes of one day making more money than his wife, who works as an investment banker."
+        ],
+        "tf-idf score": [
+            0.23353539911970658,
+            1.0251723773658614,
+            1.2567340035231842
+        ]
+    },
+    "0.16873939995836063-3-104": {
+        "average clique similarity": 0.16873939995836063,
+        "clique": [
+            "0-A senior adviser to ",
+            "3-In announcing his en",
+            "1-Christie said he sat"
+        ],
+        "median tf-idf score": 0.6614430296831153,
+        "publications": [
+            "Fox News",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "A senior adviser to Rubio is interpreting Christie's endorsement as a remedy to what he calls the billionaire's inability to articulate his policy plans, explain why he won't release his tax returns and defend his past financial dealings.",
+            "In announcing his endorsement, Christie noted that he has known Trump for a number of years and that the two men have worked together effectively in the past.",
+            "Christie said he sat down with his wife and children to discuss the endorsement and said that they supported his decision."
+        ],
+        "tf-idf score": [
+            0.6614430296831153,
+            0.7916209025558633,
+            0.6370889860143328
+        ]
+    },
+    "0.22885815408789534-3-58": {
+        "average clique similarity": 0.22885815408789534,
+        "clique": [
+            "1- Desperate people in",
+            "3- No one is going to ",
+            "4-  This makes no sens"
+        ],
+        "median tf-idf score": 0.8986438124880534,
+        "publications": [
+            "Breitbart",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"Desperate people in campaign do desperate things,\" Christie replied. \"Failing punches in the last days of a losing campaign. Fact of the matter is, no one is going to get in this guy's head. \" He added that Rubio \"barely shows up for work\" at the Senate and was \"wholly unprepared\" for the presidency.",
+            "\"No one is going to get inside this guy's head. There is no better fighter than Donald Trump\".",
+            "'\"This makes no sense. I''ve met [Mexican] President Nieto a number of times. I don''t think if we present him with a bill he''s going to pay for it,\" . \"This is not negotiation of a real estate deal, OK? This is international diplomacy, and it''s different. \"' 'Christie  on the campaign trail, telling a crowd that, \"Everyone in Washington is a loser. \"'"
+        ],
+        "tf-idf score": [
+            0.9723258545188391,
+            0.4955872036656538,
+            0.8986438124880534
+        ]
+    },
+    "0.30346649029450695-3-156": {
+        "average clique similarity": 0.30346649029450695,
+        "clique": [
+            "0-Christie used the pl",
+            "3-3  Christie hates Ma",
+            "1- He s done a really "
+        ],
+        "median tf-idf score": 0.5240193154089355,
+        "publications": [
+            "Fox News",
+            "Washington Post",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Christie used the platform to both endorse Trump and attack Marco Rubio for what he sees as the freshman senator's lack of experience.",
+            "3. Christie hates Marco Rubio and Ted Cruz.",
+            "\"He's done a really good job, totally destroyed Marco Rubio the other day   ... I was standing next to Marco Rubio and he melted   ..."
+        ],
+        "tf-idf score": [
+            0.9147732244185705,
+            0.5240193154089355,
+            0.38905943875467175
+        ]
+    },
+    "0.3205020267528955-3-46": {
+        "average clique similarity": 0.3205020267528955,
+        "clique": [
+            "1-Trump used Christie ",
+            "3-Christie s   takedow",
+            "0-Christie attacked Ru"
+        ],
+        "median tf-idf score": 0.8078810662999674,
+        "publications": [
+            "Fox News",
+            "Breitbart",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Trump used Christie's appearance with him to remind reporters of Rubio's disastrous debate performance against the New Jersey governor in New Hampshire.",
+            "Christie's   takedown of Rubio in the New Hampshire debate just before that state's primary was a culmination of that anger.",
+            "Christie attacked Rubio at the final Republican debate before the New Hampshire primary, tripping up Rubio in a moment that likely contributed to his poor performance in the state's primary."
+        ],
+        "tf-idf score": [
+            1.0753046694290243,
+            0.7503986393162326,
+            0.8078810662999674
+        ]
+    },
+    "0.3231671413959802-4-80": {
+        "average clique similarity": 0.3231671413959802,
+        "clique": [
+            "4-  He  s got to answe",
+            "3- Donald Trump is som",
+            "2- He s got to answer ",
+            "0-Todd Harris told rep"
+        ],
+        "median tf-idf score": 0.6902711968626613,
+        "publications": [
+            "Talking Points Memo",
+            "Business Insider",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "'\"He''s got to answer for himself,\" he continued. \"Part of the folly of all this is that we''re answering for him. He''s said what''s he''s said, and now the people who vote will have to judge him. In the context of Donald, outrageous is a high bar. \"'",
+            "\"Donald Trump is someone who when he makes a promise, he keeps it,\" Christie said.",
+            "\"He's got to answer for himself,\" he continued. \"Part of the folly of all this is that we're answering for him. He's said what's he's said, and now the people who vote will have to judge him. In the context of Donald, outrageous is a high bar. \"",
+            "Todd Harris told reporters traveling with the Florida senator that, \"Donald Trump can't put a coherent noun and verb together to explain any of these things, so he had to bring in someone like Chris Christie to try to do it for him."
+        ],
+        "tf-idf score": [
+            0.44769186050775384,
+            0.9328505332175687,
+            0.44769186050775384,
+            0.9841922894709477
+        ]
+    },
+    "0.32544639560823957-4-24": {
+        "average clique similarity": 0.32544639560823957,
+        "clique": [
+            "1-Trump strategically ",
+            "2-That s the different",
+            "0-Marco Rubio and Ted ",
+            "4-That  s the differen"
+        ],
+        "median tf-idf score": 0.47439003162386206,
+        "publications": [
+            "Fox News",
+            "Talking Points Memo",
+            "Business Insider",
+            "Breitbart"
+        ],
+        "sentences": [
+            "Trump strategically deployed Christie to respond to Rubio after the Florida Senator attacked Trump this morning for being a \" . \"",
+            "That's the different between a governor and (senator) Marco Rubio. That's the different between a governor and (senator) Ted Cruz\".",
+            "Marco Rubio and Ted Cruz attacked Trump. Both Rubio and Cruz fought hard to throw Trump off his stride as the field charges into the   Super Tuesday contests.",
+            "That''s the different between a governor and (senator) Marco Rubio. That''s the different between a governor and (senator) Ted Cruz. \"'"
+        ],
+        "tf-idf score": [
+            0.8730808620421273,
+            0.3224562080620658,
+            0.6263238551856583,
+            0.3224562080620658
+        ]
+    },
+    "0.3425314122777246-3-39": {
+        "average clique similarity": 0.3425314122777246,
+        "clique": [
+            "0-Campaigning Friday a",
+            "4- America wants a fig",
+            "2-Said Trump s Propose"
+        ],
+        "median tf-idf score": 0.8570289284847994,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Campaigning Friday at Atlanta City Hall, Clinton talked about the job growth that took place during the administrations of her husband and President Obama. She compared that to \"  economics\" of Republican administrations. And she mocked Republicans for voting repeatedly in Congress to repeal the Affordable Care Act. She says \"they never really tell you what they're going to put in its place,\" because \"they know we won't like it\". The Associated Press contributed to this report,   Edmund DeMarche is a news editor for FoxNews. com.",
+            "\"America wants a fighter who''s not going to walk away from a fight, but will walk into one. \"' 'Christie  to ban Muslims was \"the kind of thing that people say when they have no experience and don''t know what they''re talking about. \"'",
+            "Said Trump's Proposed Muslim Ban Was \"Ridiculous\" Christie bashed Trump's proposal to ban Muslims was \"the kind of thing that people say when they have no experience and don't know what they're talking about\"."
+        ],
+        "tf-idf score": [
+            0.7930692814939535,
+            0.8570289284847994,
+            1.214885739934586
+        ]
+    },
+    "0.3692707158858005-3-156": {
+        "average clique similarity": 0.3692707158858005,
+        "clique": [
+            "1-New Jersey Governor ",
+            "3-       New Jersey Go",
+            "0- DEVELOPING STORY  N"
+        ],
+        "median tf-idf score": 1.1581819246581722,
+        "publications": [
+            "Breitbart",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "New Jersey Governor Chris Christie surprised reporters at a press conference with Donald Trump in Texas, endorsing the billionaire presidential candidate for president.",
+            "       New Jersey Gov. Chris Christie endorsed Donald Trump's presidential candidacy on Friday in Texas, a stunning development sure to add to the growing sense of inevitability around Trump's bid for the Republican nomination.",
+            " DEVELOPING STORY: New Jersey Gov. Chris Christie on Friday endorsed businessman Donald Trump for the Republican nomination for president, becoming the New York billionaire's most noteworthy endorsement to date."
+        ],
+        "tf-idf score": [
+            1.2110609892088575,
+            1.1438491005472673,
+            1.1581819246581722
+        ]
+    },
+    "0.3781700546670512-3-37": {
+        "average clique similarity": 0.3781700546670512,
+        "clique": [
+            "0-The endorsement was ",
+            "4- In a joint press co",
+            "2-In a joint press con"
+        ],
+        "median tf-idf score": 0.8311202801146161,
+        "publications": [
+            "Business Insider",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "The endorsement was announced at a news conference in Fort Worth, Texas. \"We don't need any more of these Washington, D C acts,\" Christie said. \"We don't need Washington politicians to come in and fix it\".",
+            "'In a joint press conference in Fort Worth it was all   and bonhomie between the two formal rivals.' 'But way back  --   er, two weeks ago  --   when Christie was still a candidate in the presidential race, he was targeting The Donald just like the other GOP  .'",
+            "In a joint press conference in Fort Worth it was all   and bonhomie between the two formal rivals."
+        ],
+        "tf-idf score": [
+            0.9273556293231959,
+            0.8311202801146161,
+            0.2376762293769453
+        ]
+    },
+    "0.3836740166208261-3-7": {
+        "average clique similarity": 0.3836740166208261,
+        "clique": [
+            "4- During a January to",
+            "3-Christie has a perso",
+            "2-Suggested Trump Didn"
+        ],
+        "median tf-idf score": 0.8621066599218246,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "'During a January town hall in New Hampshire, Christie pointed out that he has more experience than Trump.'",
+            "Christie has a personal relationship with Trump.",
+            "Suggested Trump Didn't Have Enough Experience, During a January town hall in New Hampshire, Christie pointed out that he has more experience than Trump."
+        ],
+        "tf-idf score": [
+            0.8621066599218246,
+            0.6589523177533851,
+            0.8677857458761706
+        ]
+    },
+    "0.39168931534167534-3-155": {
+        "average clique similarity": 0.39168931534167534,
+        "clique": [
+            "2-Called Trump     Chr",
+            "3-By endorsing Trump r",
+            "4- Christie also  that"
+        ],
+        "median tf-idf score": 0.8251340663520633,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "Called Trump \" \" Christie also told Boston Herald Radio that Trump's decision to skip the debate showed that the real estate mogul is \" \".",
+            "By endorsing Trump right now    the real estate mogul is on the verge of seizing a commanding lead on Super Tuesday    Christie puts himself in position to be considered for the national ticket.",
+            "'Christie also  that Trump''s decision to skip the debate showed that the real estate mogul is \" . \"'"
+        ],
+        "tf-idf score": [
+            0.8251340663520633,
+            0.8879638523606672,
+            0.785254169894927
+        ]
+    },
+    "0.40120982947159617-3-0": {
+        "average clique similarity": 0.40120982947159617,
+        "clique": [
+            "3-Anyone not named  Ma",
+            "2-Christie said   I do",
+            "4-  I tell everybody w"
+        ],
+        "median tf-idf score": 0.6489491602852062,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Anyone not named \"Marco Rubio\" or \"Ted Cruz\" can see how this Republican primary race likely ends. And that's with Trump as the GOP nominee.",
+            "Christie said. \"I don't care which of the things he talks about just ask him, 'How? How? '\" \"I can answer 'how?'",
+            "'\"I tell everybody who goes to a Donald Trump event, if you get to ask a question, just ask him ''how? ''\" \"I don't care which of the things he talks about just ask him, ''How? How? ''\"' '\"I can answer ''how? ''"
+        ],
+        "tf-idf score": [
+            0.6889969401305908,
+            0.6489491602852062,
+            0.6021486804540298
+        ]
+    },
+    "0.4094628707309546-3-138": {
+        "average clique similarity": 0.4094628707309546,
+        "clique": [
+            "1-That s who this man ",
+            "4-We are not electing ",
+            "2-Showmanship is fun  "
+        ],
+        "median tf-idf score": 0.9379592072280102,
+        "publications": [
+            "Business Insider",
+            "Talking Points Memo",
+            "Breitbart"
+        ],
+        "sentences": [
+            "That's who this man is,\" Christie said.",
+            "We are not electing an   . Showmanship is fun, but it is not the kind of leadership that will truly change America,\" Christie said of Trump.'",
+            "Showmanship is fun, but it is not the kind of leadership that will truly change America,\" Christie said of Trump."
+        ],
+        "tf-idf score": [
+            0.5162625360961819,
+            0.9478921727471938,
+            0.9379592072280102
+        ]
+    },
+    "0.41210384794343463-3-152": {
+        "average clique similarity": 0.41210384794343463,
+        "clique": [
+            "4- In July  Christie s",
+            "0- I can guarantee you",
+            "2-Said Trump s Comment"
+        ],
+        "median tf-idf score": 0.9940937060199598,
+        "publications": [
+            "Fox News",
+            "Talking Points Memo",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\"In July, Christie said he didn't want to talk about Trump, though the governor went on to address some of Trump's statements later in the election cycle\".",
+            "\"I can guarantee you that the one person that Bill and Hillary don't want to see on that stage in November is Donald Trump,\" Christie said.",
+            "Said Trump's Comments Weren't Worth His Time, In July, Christie said he didn't want to talk about Trump, though the governor went on to address some of Trump's statements later in the election cycle."
+        ],
+        "tf-idf score": [
+            0.9940937060199598,
+            0.9936172210826459,
+            1.0804853032294912
+        ]
+    },
+    "0.4182268331538715-3-28": {
+        "average clique similarity": 0.4182268331538715,
+        "clique": [
+            "2-Here are some of Chr",
+            "3-And  for him  this w",
+            "4- Here are some of Ch"
+        ],
+        "median tf-idf score": 1.0752872743803763,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Here are some of Christie's most pointed attacks on Trump from the primary campaign: Knocked Trump For Skipping Fox News Debate, In January, Christie slammed Trump for boycotting the Fox News presidential debate, saying that Trump was acting like a \"  \".",
+            "And, for him, this was the most pragmatic move. 2. Christie wants to be in the vice presidential mix.",
+            "\"Here are some of Christie's most pointed attacks on Trump from the primary campaign:\" 'In January,  for boycotting the Fox News presidential debate, saying that Trump was acting like a \"  \"."
+        ],
+        "tf-idf score": [
+            1.1011602625977859,
+            0.5032981198903387,
+            1.0752872743803763
+        ]
+    },
+    "0.43343396855942046-3-59": {
+        "average clique similarity": 0.43343396855942046,
+        "clique": [
+            "2- If someone brought ",
+            "4-  I wouldn  t have p",
+            "3-Christie is   out as"
+        ],
+        "median tf-idf score": 0.4451356228043764,
+        "publications": [
+            "Business Insider",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"If someone brought that up at a town hall of mine, I would have said 'Before we answer, let's clear some things up for the rest of the audience,' and I think you have an obligation as a leader to do that\".",
+            "'\"I wouldn''t have permitted that,\" . \"If someone brought that up at a town hall of mine, I would have said ''Before we answer, let''s clear some things up for the rest of the audience,'' and I think you have an obligation as a leader to do that. \"'",
+            "Christie is   out as governor of the Garden State in 2017 and clearly would like to keep up a profile on the national stage."
+        ],
+        "tf-idf score": [
+            0.43520265728519275,
+            0.4451356228043764,
+            0.5099624255263611
+        ]
+    },
+    "0.435143105941066-3-33": {
+        "average clique similarity": 0.435143105941066,
+        "clique": [
+            "4-He said Trump  s rea",
+            "2-He said Trump s reac",
+            "3-If you think there a"
+        ],
+        "median tf-idf score": 0.7665784967038978,
+        "publications": [
+            "Business Insider",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He said Trump''s reaction to Fox News'' coverage of him said a lot about the kind of president he would be.' '\"What''s that tell you about what we can expect if things go sideways when you go into the Oval Office?",
+            "He said Trump's reaction to Fox News' coverage of him said a lot about the kind of president he would be. \"What's that tell you about what we can expect if things go sideways when you go into the Oval Office?",
+            "If you think there are only three candidates who have any chance at all of being the nominee and you actively don't like two of them, then you are left with Donald Trump. 4."
+        ],
+        "tf-idf score": [
+            0.7665784967038978,
+            0.7665784967038978,
+            0.5318060933755773
+        ]
+    },
+    "0.43748119252246825-3-102": {
+        "average clique similarity": 0.43748119252246825,
+        "clique": [
+            "2-because I ve done it",
+            "4-because I  ve done i",
+            "1-He said he ultimatel"
+        ],
+        "median tf-idf score": 0.47870818160345807,
+        "publications": [
+            "Breitbart",
+            "Business Insider",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "because I've done it,\" he continued, adding, \"that's the difference between a governor and Donald Trump.",
+            "because I''ve done it,\" he continued, adding, \"that''s the difference between a governor and Donald Trump.",
+            "He said he ultimately chose Trump because he was a friend of the family and was best suited to keep Hillary Clinton out of the White House."
+        ],
+        "tf-idf score": [
+            0.47870818160345807,
+            0.47870818160345807,
+            0.7798396778284273
+        ]
+    },
+    "0.533895494736776-3-50": {
+        "average clique similarity": 0.533895494736776,
+        "clique": [
+            "4-    New Jersey Gov  ",
+            "0-Christie said no oth",
+            "2-New Jersey Gov  Chri"
+        ],
+        "median tf-idf score": 1.3500733568893684,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "'' 'New Jersey Gov. Chris Christie ( ) rocked the Republican presidential primary on Friday with an endorsement of Donald Trump, calling the real estate mogul the candidate best \"prepared to provide America with the strong leadership. \"'",
+            "Christie said no other candidate is better prepared to provide the United States with strong leadership both at home and around the world. He also said that no other Republican candidate is a more formidable challenger to Hillary Clinton.",
+            "New Jersey Gov. Chris Christie ( ) rocked the Republican presidential primary on Friday with an endorsement of Donald Trump, calling the real estate mogul the candidate best \"prepared to provide America with the strong leadership\"."
+        ],
+        "tf-idf score": [
+            1.3500733568893684,
+            0.8397468290825819,
+            1.3500733568893684
+        ]
+    }
+}

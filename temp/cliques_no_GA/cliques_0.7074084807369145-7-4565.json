@@ -1,0 +1,2394 @@
+{
+    "0.1478569558763595-3-1330": {
+        "average clique similarity": 0.1478569558763595,
+        "clique": [
+            "6-The Milwaukee office",
+            "2-A law enforcement so",
+            "0-      The final Bato"
+        ],
+        "median tf-idf score": 0.9276388482324117,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Milwaukee officer was taken to a hospital with serious but not   injuries, and the suspect was found dead after apparently taking his own life not far from the shooting.",
+            "A law enforcement source said Long \u201dwas not alone during his stay in Baton Rouge,\u201d but it\u2019s unclear if others he was with knew about or were actively involved in any plot.",
+            "\u2019 \u2019   The final Baton Rouge police officer involved in the incident   suffered    injuries, as well."
+        ],
+        "tf-idf score": [
+            0.6601893342402673,
+            1.0572460799334977,
+            0.9276388482324117
+        ]
+    },
+    "0.15735264862699194-3-1217": {
+        "average clique similarity": 0.15735264862699194,
+        "clique": [
+            "5- We re going to get ",
+            "2-Chief   I was an   b",
+            "0- And until we come  "
+        ],
+        "median tf-idf score": 0.7469814615420671,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dWe\u2019re going to get through this, and we\u2019re going to get through this together,\u201d Baton Rouge Police Chief Carl Dabadie told reporters, visibly emotional.",
+            "Chief: \u2019I was an   before I was a police officer\u2019 My hope is that one day soon we can come together and find solutions to the very important issues facing our nation rather than continuing to hurt one another\u201d.",
+            "\u201dAnd until we come   together as a nation, as a people, to heal as a people, if we   don\u2019\u2019t do that, and this madness continues, we will surely   perish\u201d."
+        ],
+        "tf-idf score": [
+            0.7469814615420671,
+            0.8156536417738641,
+            0.13938826211143832
+        ]
+    },
+    "0.15936433111789308-3-1046": {
+        "average clique similarity": 0.15936433111789308,
+        "clique": [
+            "1-And just bc you shed",
+            "6-And I know whenever ",
+            "4-You got to sacrifice"
+        ],
+        "median tf-idf score": 0.028060947666512886,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "And just bc you shed your physical body doesn\u2019t mean that you\u2019re dead.",
+            "And I know whenever this happens, wherever this happens, you feel it.",
+            "You got to sacrifice."
+        ],
+        "tf-idf score": [
+            0.0596510203520393,
+            0.028060947666512886,
+            0.02432288158298916
+        ]
+    },
+    "0.15991947026591727-3-495": {
+        "average clique similarity": 0.15991947026591727,
+        "clique": [
+            "1-   The rampage began",
+            "6-The largest protest ",
+            "0-           The shoot"
+        ],
+        "median tf-idf score": 1.0965268274740294,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u2019\u2019 The rampage began at 8:40 a. m. about a mile from Baton Rouge police headquarters, when officers responding to a 911 call spotted a masked Long dressed all in black and carrying an assault rifle.",
+            "The largest protest occurred on on July 9, when people lined Airport Highway for a quarter of a mile, carrying signs, singing and chanting.",
+            "\u2019 \u2019  \u2019 \u2019   The shooting  \u2014   what   of East Baton Rouge Parish   Kip Holden called an \u201dambush\u201d  attack  \u2014   occurred early   Sunday morning, less than one mile from police headquarters."
+        ],
+        "tf-idf score": [
+            1.1122301978800853,
+            0.21194379949772277,
+            1.0965268274740294
+        ]
+    },
+    "0.1641434359755257-3-620": {
+        "average clique similarity": 0.1641434359755257,
+        "clique": [
+            "6-In some states  hurt",
+            "4-I m an American citi",
+            "0-       This is not a"
+        ],
+        "median tf-idf score": 0.25818830711380464,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "In some states, hurting a police officer can be an \u201caggravating factor\u201d to an assault or battery charge.",
+            "I\u2019m an American citizen.",
+            "\u2019 \u2019   \u201dThis is not an   scenario,\u201d he said during an   afternoon press conference."
+        ],
+        "tf-idf score": [
+            0.5818674122234853,
+            0.022331517398472507,
+            0.25818830711380464
+        ]
+    },
+    "0.16576257640789574-3-1182": {
+        "average clique similarity": 0.16576257640789574,
+        "clique": [
+            "1-Vehicles near the in",
+            "6-A spokesman for the ",
+            "0-After the incident  "
+        ],
+        "median tf-idf score": 0.5407549599792356,
+        "publications": [
+            "Business Insider",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Vehicles near the incident were seen peeling away for safety.",
+            "A spokesman for the FBI in New Orleans said he was \u201cunsure\u201d whether the officers were targeted or what might have sparked the incident.",
+            "After the incident, police said they   were using a robot to check for explosives in the area."
+        ],
+        "tf-idf score": [
+            0.08964846399362955,
+            0.6881729351225522,
+            0.5407549599792356
+        ]
+    },
+    "0.16594912567807277-3-352": {
+        "average clique similarity": 0.16594912567807277,
+        "clique": [
+            "2-The law enforcement ",
+            "4-Violence against the",
+            "5-Edwards added   The "
+        ],
+        "median tf-idf score": 0.6507011184416989,
+        "publications": [
+            "CNN",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "The law enforcement official said the FBI has no indication any black separatist or other domestic terrorist groups are supporting or sending people to kill cops.",
+            "Violence against the police, Mr Edwards said, \u201cdoesn\u2019t address any injustice, perceived or real.",
+            "Edwards added: \u201dThe people who carried out this act, the individuals, they do not represent the people of Baton Rouge or the state of Louisiana, or what\u2019s best about our country."
+        ],
+        "tf-idf score": [
+            0.6659966080970781,
+            0.56514955630767,
+            0.6507011184416989
+        ]
+    },
+    "0.16897580030378392-3-238": {
+        "average clique similarity": 0.16897580030378392,
+        "clique": [
+            "4-  Colonel Edmonson s",
+            "6-    Charles Lussier ",
+            "1-Bystander Marquis Gi"
+        ],
+        "median tf-idf score": 0.8013428823559356,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201d Colonel Edmonson said a call came in to police dispatch early Sunday reporting \u201ca guy carrying a weapon\u201d in the vicinity of the Hammond Aire Plaza shopping center on Airline Highway  \u2014   a commercial thoroughfare dotted with carwashes, car dealerships and chain stores that cuts through a leafy residential neighborhood.",
+            "\u2014   Charles Lussier (@Charles_Lussier) July 17, 2016   At least 15 people have been demonstrating outside the Baton Rouge police headquarters at most times, Clements said.",
+            "Bystander Marquis Gibson was at the Hammond Aire Plaza mall when he heard shots and ran inside for cover."
+        ],
+        "tf-idf score": [
+            0.8013428823559356,
+            1.035877588624447,
+            0.36294240417053825
+        ]
+    },
+    "0.1718874994816133-3-1052": {
+        "average clique similarity": 0.1718874994816133,
+        "clique": [
+            "6- It sounded like a s",
+            "4-   You ve got to sta",
+            "3- I m waiting for mor"
+        ],
+        "median tf-idf score": 0.11472688493354528,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cIt sounded like a shootout.",
+            "\u201d \u201cYou\u2019ve got to stand on your rights, just like George Washington did, just like the other white rebels they celebrate and salute did,\u201d he added.",
+            "\u201cI\u2019m waiting for more information like everybody else,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.021511388178972426,
+            0.11472688493354528,
+            0.235092872973969
+        ]
+    },
+    "0.1725000852891162-3-833": {
+        "average clique similarity": 0.1725000852891162,
+        "clique": [
+            "2-Earlier reports had ",
+            "3- I have more questio",
+            "5-He vowed to deploy  "
+        ],
+        "median tf-idf score": 0.08911553023821986,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "Earlier reports had said authorities believed there might have been more than one attacker.",
+            "\u201cI have more questions than answers\u201d \u201cThe movement began as a call to end violence.",
+            "He vowed to deploy \u201devery resource available\u201d to \u201dbring these perpetrators  \u2014   if there\u2019s more than one  \u2014   to justice\u201d."
+        ],
+        "tf-idf score": [
+            0.26825609165115666,
+            0.08911553023821986,
+            0.0663610040550745
+        ]
+    },
+    "0.17281272471809284-3-234": {
+        "average clique similarity": 0.17281272471809284,
+        "clique": [
+            "0-      When officers ",
+            "4-  Avery Hall  17  wh",
+            "6-It was a beautiful m"
+        ],
+        "median tf-idf score": 0.4289903171318655,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u2019 \u2019   When officers responded, the gunfire began, as can be heard in   the amateur video below.",
+            "\u201d Avery Hall, 17, who works at a nearby carwash, said he was on his way to work when the gunfire erupted.",
+            "It was a beautiful morning, she said, until the gunfire erupted."
+        ],
+        "tf-idf score": [
+            0.32875401801527276,
+            0.4693928615931404,
+            0.4289903171318655
+        ]
+    },
+    "0.1801718784405407-3-663": {
+        "average clique similarity": 0.1801718784405407,
+        "clique": [
+            "1- For the second time",
+            "2- This is an unspeaka",
+            "6-  In the hours after"
+        ],
+        "median tf-idf score": 0.9481635540737314,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cFor the second time in two weeks, police officers who put their lives on the line for ours every day were doing their job when they were killed in a cowardly and reprehensible assault,\u201d President Obama said in an address hours later.",
+            "\u201dThis is an unspeakable and unjustified attack on all of us at a time when we need unity and healing,\u201d Edwards said Sunday in the hours after the Baton Rouge shooting.",
+            "\u201d In the hours after the shooting, police had warned people to stay inside as they said they sought two other potential suspects."
+        ],
+        "tf-idf score": [
+            1.0474399969567425,
+            0.9481635540737314,
+            0.6719642453088764
+        ]
+    },
+    "0.18106377604251678-3-1687": {
+        "average clique similarity": 0.18106377604251678,
+        "clique": [
+            "1-The fatal shooting  ",
+            "6- Gillian   Washingto",
+            "0-      The officers  "
+        ],
+        "median tf-idf score": 1.0217857402644823,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "The fatal shooting, and that of Philando Castile by a cop in Falcon Heights, Minn. the next day, prompted the killings of five officers in Dallas on July 7.",
+            "(Gillian   Washington Post)   But the shooting deaths came during a particularly deadly year for law enforcement, and not long after a gunman who said he was enraged by police killings targeted police in Dallas.",
+            "\u2019 \u201d   The officers\u2019 deaths come less than two weeks after    during protests following the   fatal shooting of    a    black man, outside a convenience   store in Baton Rouge."
+        ],
+        "tf-idf score": [
+            0.6034330883800708,
+            1.1959913803507805,
+            1.0217857402644823
+        ]
+    },
+    "0.18139024322095945-3-1098": {
+        "average clique similarity": 0.18139024322095945,
+        "clique": [
+            "5-Likewise  Attorney G",
+            "4-In the next four min",
+            "0-In addition to local"
+        ],
+        "median tf-idf score": 0.5706093697063046,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Likewise, Attorney General Loretta Lynch said in a statement that the Department of Justice will provide \u201dvictim services and federal funding support\u201d.",
+            "In the next four minutes, there were reports of shots fired and officers struck, said Colonel Edmonson, whose agency will take the lead on the investigation, helped by local and federal investigators.",
+            "In addition to local   and state law enforcement, the ATF, FBI, and the United States\u2019   Marshals Service are currently assisting the investigation, US   Attorney General Loretta Lynch said."
+        ],
+        "tf-idf score": [
+            0.3916578434225912,
+            0.6223950474995363,
+            0.5706093697063046
+        ]
+    },
+    "0.18259234242071112-3-954": {
+        "average clique similarity": 0.18259234242071112,
+        "clique": [
+            "0-They have since been",
+            "3-Mayor s office confi",
+            "1-Like their counterpa"
+        ],
+        "median tf-idf score": 0.6993507442118914,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "New York Post"
+        ],
+        "sentences": [
+            "They have since been released.",
+            "Mayor\u2019s office confirms 2 police officers have been killed in Baton Rouge shooting.",
+            "Like their counterparts across the nation, Baton Rouge police have been on high alert."
+        ],
+        "tf-idf score": [
+            0.017741082582007038,
+            1.0761541918007704,
+            0.6993507442118914
+        ]
+    },
+    "0.18389573531157546-3-1524": {
+        "average clique similarity": 0.18389573531157546,
+        "clique": [
+            "6- But one element of ",
+            "4-I think it s absurd ",
+            "2-An official said the"
+        ],
+        "median tf-idf score": 0.663419056217968,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cBut one element of war is being attacked by snipers.",
+            "I think it\u2019s absurd to insinuate that a movement that is doing nothing more than demanding that the war on black life come to an end is in any way responsible for these police officers getting shot.",
+            "An official said the belief is that Long identified as being associated with the black separatist movement in some capacity but there is no indication he was directed by it."
+        ],
+        "tf-idf score": [
+            0.024782171962722706,
+            0.6983531032405993,
+            0.663419056217968
+        ]
+    },
+    "0.1848098868651553-3-601": {
+        "average clique similarity": 0.1848098868651553,
+        "clique": [
+            "6-Sterling s death  pa",
+            "5-Memorial tributes fr",
+            "2-That was corroborate"
+        ],
+        "median tf-idf score": 0.65091717537324,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Sterling\u2019s death, partially captured in videos from the scene that were widely viewed on social media and television, prompted intense protests that stretched for days in Baton Rouge.",
+            "Memorial tributes from Gerald\u2019s family and friends streamed in on social media Sunday, including this note from his friend David Mulkey: The Post reports that Gerald served in the military before joining the Baton Rouge police force.",
+            "That was corroborated with social media posts."
+        ],
+        "tf-idf score": [
+            0.65091717537324,
+            0.9478386780609794,
+            0.2567408847770672
+        ]
+    },
+    "0.18601882770362255-3-167": {
+        "average clique similarity": 0.18601882770362255,
+        "clique": [
+            "5- Each one of these i",
+            "0-These attacks are th",
+            "2-These are trying tim"
+        ],
+        "median tf-idf score": 0.1483430305405749,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dEach one of these individuals is married, each one of these individuals has a family,\u201d Gautreaux said.",
+            "These attacks are the work of cowards who   speak for no one,\u201d the statement read.",
+            "These are trying times."
+        ],
+        "tf-idf score": [
+            0.3165625831484413,
+            0.1483430305405749,
+            0.04323284635516774
+        ]
+    },
+    "0.1861605660614607-3-338": {
+        "average clique similarity": 0.1861605660614607,
+        "clique": [
+            "1-Videos posted to You",
+            "3-In one video  posted",
+            "4-On a social media si"
+        ],
+        "median tf-idf score": 0.4214176332018602,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "New York Post"
+        ],
+        "sentences": [
+            "Videos posted to YouTube portrayed him as an egotistical madman who referred to himself as an \u201cAlpha Preneur\u201d and \u201clife coach\u201d  \u2014   including one chilling tirade about how he is simply affiliated with the \u201cspirit of justice\u201d and no one else.",
+            "In one video, posted on YouTube, the man promotes violence as a response to the deaths of young black men at the hands of the police.",
+            "On a social media site registered under the name Gavin Long, a young   man who refers to himself as \u201cCosmo\u201d posted videos and podcasts and shared biographical and personal information that aligned with the information that the authorities had released, so far, about the gunman."
+        ],
+        "tf-idf score": [
+            0.2584683769915734,
+            0.5486934939342142,
+            0.4214176332018602
+        ]
+    },
+    "0.19016069575246677-3-869": {
+        "average clique similarity": 0.19016069575246677,
+        "clique": [
+            "6-He also asked to be ",
+            "1-He could also be see",
+            "3-He also asked that o"
+        ],
+        "median tf-idf score": 0.1747867522936509,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "He also asked to be updated throughout the day about the shooting.",
+            "He could also be seen cruising around the Louisiana city just days before his rampage.",
+            "He also asked that officers not be deployed alone on street corners, asking instead that they be assigned in threes."
+        ],
+        "tf-idf score": [
+            0.1747867522936509,
+            0.16632980801672045,
+            0.2646591471449132
+        ]
+    },
+    "0.19096681729578738-3-925": {
+        "average clique similarity": 0.19096681729578738,
+        "clique": [
+            "4-They also sought to ",
+            "2-It has been an emoti",
+            "3-He added  After each"
+        ],
+        "median tf-idf score": 0.9573179293908757,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "They also sought to calm the tensions that welled up this month over the killings of black men by the police and the retaliatory violence directed at officers, including the July 7 killings of five officers in Dallas, carried out by a black man who said he wanted to kill white police officers.",
+            "It has been an emotionally charged few days across the country because of the protests stemming from the Sterling shooting and the shooting by police of Philando Castile in Minnesota, plus the ambush on Dallas police officers in which a sniper killed five officers.",
+            "He added: After each of these killings, police departments across the country asked what could have been done differently to protect officers."
+        ],
+        "tf-idf score": [
+            1.0773310998249332,
+            0.9573179293908757,
+            0.6077464649436871
+        ]
+    },
+    "0.19131606053898428-3-1080": {
+        "average clique similarity": 0.19131606053898428,
+        "clique": [
+            "4-Mark Clements  who l",
+            "3-He said he believed ",
+            "5-He was a police offi"
+        ],
+        "median tf-idf score": 0.6965891691175359,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Mark Clements, who lives near the shopping center, said in a telephone interview that he was in his backyard when he heard shots ring out.",
+            "He said he believed the suspect who was shot and killed was the man who shot the officers.",
+            "He was a police officer, he wanted peace\u201d."
+        ],
+        "tf-idf score": [
+            0.56978333281488,
+            0.8060548758343746,
+            0.6965891691175359
+        ]
+    },
+    "0.196184531634367-3-941": {
+        "average clique similarity": 0.196184531634367,
+        "clique": [
+            "4- That s what Nat Tur",
+            "6- All I can say beyon",
+            "5- We did our time in "
+        ],
+        "median tf-idf score": 0.14723525306007632,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cThat\u2019s what Nat Turner did.",
+            "\u201cAll I can say beyond that is look what happened in Dallas  \u2014   a very peaceful protest and then some crazy madman did what he did.",
+            "\u201dWe did our time in the military, and when that time was up, you just can\u2019t turn off that want to serve the people,\u201d Ryan D Cabral, who served with him in Iraq, told the Post."
+        ],
+        "tf-idf score": [
+            0.006262945817090772,
+            0.14723525306007632,
+            0.430429066108422
+        ]
+    },
+    "0.19650704751179326-3-1687": {
+        "average clique similarity": 0.19650704751179326,
+        "clique": [
+            "6-The    he said  was ",
+            "1-Don t try to say   O",
+            "5- He was a great guy "
+        ],
+        "median tf-idf score": 0.2582603872182848,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The    he said, was in critical condition.",
+            "Don\u2019t try to say, \u2018Oh, he was African, he was this and that.\u2019 No!",
+            "\u201dHe was a great guy."
+        ],
+        "tf-idf score": [
+            0.4081340045979031,
+            0.2582603872182848,
+            0.22585649512631464
+        ]
+    },
+    "0.19820581912761007-3-1687": {
+        "average clique similarity": 0.19820581912761007,
+        "clique": [
+            "0-      The killing wa",
+            "6- Stop this killing ",
+            "4- That was bull      "
+        ],
+        "median tf-idf score": 0.629957704506195,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201d \u2019   The killing was captured on cellphone video and circulated widely   on the internet and relations between police and the community   have remained tense.",
+            "\u201cStop this killing.",
+            "\u201cThat was bull  \u2014   it was a scare tactic to calm things down,\u201d Arthur Reed of Stop the Killing, the group that first released the video of Mr Sterling\u2019s shooting, said on Sunday."
+        ],
+        "tf-idf score": [
+            0.629957704506195,
+            0.05699890059803025,
+            0.8132612868862429
+        ]
+    },
+    "0.2002896381328444-3-1687": {
+        "average clique similarity": 0.2002896381328444,
+        "clique": [
+            "4-Police officials sai",
+            "3-That call remains ",
+            "0-      Initially  pol"
+        ],
+        "median tf-idf score": 0.5992561790735685,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Police officials said the officers had responded to a call about a man carrying a gun.",
+            "That call remains.",
+            "\u2019 \u2019   Initially, police received a call of \u201da guy, carrying a rifle\u201d   walking near Airline Highway, according to a Louisiana state   police official."
+        ],
+        "tf-idf score": [
+            0.794904593489187,
+            0.007352914116592024,
+            0.5992561790735685
+        ]
+    },
+    "0.20067011826190084-3-404": {
+        "average clique similarity": 0.20067011826190084,
+        "clique": [
+            "0-       We may not ye",
+            "1-John Bel Edwards cal",
+            "2- We as a nation have"
+        ],
+        "median tf-idf score": 0.5067223587326762,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u2019 \u2019   \u201dWe may not yet know the motives for this attack, but I want to   be clear: There is no justification for violence against law   enforcement.",
+            "John Bel Edwards called the attack \u201cunjustifiable,\u201d during a press conference with local and state law enforcement, saying there has to be a nationwide truce.",
+            "\u201dWe as a nation have to be loud and clear that nothing justifies violence against law enforcement,\u201d Obama said, speaking from the White House press briefing room."
+        ],
+        "tf-idf score": [
+            0.3100955692617918,
+            0.5067223587326762,
+            0.511175603067071
+        ]
+    },
+    "0.2019690249250247-3-593": {
+        "average clique similarity": 0.2019690249250247,
+        "clique": [
+            "5-Early in the day  th",
+            "6-As of 2 p  m  they w",
+            "3-   Details about the"
+        ],
+        "median tf-idf score": 0.7866342953952329,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Early in the day, the East Baton Rouge Sheriff\u2019s Office had said it believed there were two suspects still at large.",
+            "As of 2 p. m. they were still waiting inside the grocery store.",
+            "\u2014  Details about the shooting \u2014  such as the motive for it \u2014  at a convenience store near the Baton Rouge Police Department\u2019s headquarters, are still scarce."
+        ],
+        "tf-idf score": [
+            0.7866342953952329,
+            0.05393148483715201,
+            0.8839754718136441
+        ]
+    },
+    "0.2047205489849829-3-929": {
+        "average clique similarity": 0.2047205489849829,
+        "clique": [
+            "4-  The explanation  h",
+            "3-Long was killed in t",
+            "1-   Long was identifi"
+        ],
+        "median tf-idf score": 0.6202512807883147,
+        "publications": [
+            "New York Post",
+            "Atlantic",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201d The explanation, however, was met with skepticism on social media sites, where many people believed the report was concocted by the police to justify their militarized response to the protests after the death of Mr Sterling.",
+            "Long was killed in the   with police.",
+            "\u2019\u2019 Long was identified as a member of two homegrown hate organizations, with The Wall Street Journal reporting that he was affiliated with the New Freedom Group and MSNBC saying he was linked to the Sovereign Citizens."
+        ],
+        "tf-idf score": [
+            0.7570336833020856,
+            0.6202512807883147,
+            0.5072244518664752
+        ]
+    },
+    "0.2053892613014315-3-13": {
+        "average clique similarity": 0.2053892613014315,
+        "clique": [
+            "2-My family is heartbr",
+            "6-    Hilary Scheinuk ",
+            "4-  Speaking at the ne"
+        ],
+        "median tf-idf score": 0.7494219051864155,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "My family is heartbroken for the officers and their families.",
+            "\u2014   Hilary Scheinuk (@hscheinukphoto) July 17, 2016     We grieve for the families of the officers shot in Baton Rouge.",
+            "\u201d Speaking at the news conference, the police chief here, Carl Dabadie Jr called the shooting \u201csenseless\u201d and asked people to pray for the officers and their families."
+        ],
+        "tf-idf score": [
+            0.24144024421063423,
+            0.7494219051864155,
+            0.808750704395265
+        ]
+    },
+    "0.21047204766093966-3-1349": {
+        "average clique similarity": 0.21047204766093966,
+        "clique": [
+            "3- Common sense needs ",
+            "5-Baton Rouge Mayor Ki",
+            "6-  Baton Rouge Mayor "
+        ],
+        "median tf-idf score": 0.7242170600696166,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cCommon sense needs to prevail,\u201d Mayor Kip Holden said, according to WAFB TV 11:50 a. m. It\u2019s worth pointing out here that the news reports we\u2019re getting from Baton Rouge are preliminary.",
+            "Baton Rouge Mayor Kip Holden spoke with WAFB in a phone interview: \u201dIf this is not a defining moment for us to bridge the divide and come out with a unified voice, then I don\u2019t know what is\u201d.",
+            "\u201d Baton Rouge Mayor Kip Holden said he had spoken to officials from the White House, who offered to assist in any way possible."
+        ],
+        "tf-idf score": [
+            0.7364384020760502,
+            0.5251824232403622,
+            0.7242170600696166
+        ]
+    },
+    "0.21321147831870757-3-1687": {
+        "average clique similarity": 0.21321147831870757,
+        "clique": [
+            "4-The killing of the o",
+            "6-  The shooting Sunda",
+            "1-As the nation reels "
+        ],
+        "median tf-idf score": 1.0790299152438378,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "The killing of the officers on Sunday occurred as hundreds of police officers trained in   tactics braced for protests outside the Republican National Convention in Cleveland.",
+            "\u201d The shooting Sunday illustrated the dangers facing police officers, said Mark Lomax, executive director of the National Tactical Officers Association, pointing to the Dallas attacks that authorities there had attributed to a lone gunman acting as a sort of sniper.",
+            "As the nation reels from the murder of five Dallas cops and the deaths of two black men at the hands of police  \u2014   including one in Baton Rouge  \u2014    on Sunday, killing three, authorities said."
+        ],
+        "tf-idf score": [
+            0.7225765211369194,
+            1.0790299152438378,
+            1.1935681834261962
+        ]
+    },
+    "0.21665413457097735-3-1335": {
+        "average clique similarity": 0.21665413457097735,
+        "clique": [
+            "5-The incident comes a",
+            "4-It was unclear wheth",
+            "6-     President Obama"
+        ],
+        "median tf-idf score": 0.45438197374592937,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "The incident comes after two tense weeks in Baton Rouge, though it\u2019s unclear what the suspect\u2019s motive was.",
+            "It was unclear whether the burglary was connected to Sunday\u2019s shooting.",
+            "\u201d   [President Obama sharply condemns shooting]   Obama noted that it was unclear yet what may have motivated the shooting, he emphatically called it \u201cthe work of cowards who speak for no one."
+        ],
+        "tf-idf score": [
+            0.7289789770552707,
+            0.41607213427169565,
+            0.45438197374592937
+        ]
+    },
+    "0.21685668659536217-4-202": {
+        "average clique similarity": 0.21685668659536217,
+        "clique": [
+            "5-Col  Michael Edmonso",
+            "3-July 18 at 7 23 a  m",
+            "0-    as Gavin Eugene ",
+            "4-Some details about t"
+        ],
+        "median tf-idf score": 0.5009917468521727,
+        "publications": [
+            "Atlantic",
+            "Business Insider",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "Col. Michael Edmonson, the superintendent of the Louisiana State Police, provided this timeline of how the attack unfolded: We have only fragments of information about the suspected shooter, identified to NPR\u2019s Carrie Johnson as    Gavin Eugene Long from Kansas City.",
+            "July 18 at 7:23 a. m. Louisiana State Police on Monday definitively identified the gunman as Gavin Long of Missouri.",
+            "\u2019 \u2019 as Gavin Eugene Long,   a black male from Kansas City, Missouri.",
+            "Some details about the gunman began to emerge late Sunday: Officials identified him as Gavin Long, an   military veteran."
+        ],
+        "tf-idf score": [
+            0.8204380532280978,
+            0.6572728178212451,
+            0.2570219699338313,
+            0.3447106758831004
+        ]
+    },
+    "0.2195271722124744-3-1466": {
+        "average clique similarity": 0.2195271722124744,
+        "clique": [
+            "2-  CNN  A Missouri ma",
+            "3-The nature of Sunday",
+            "6-Specific details abo"
+        ],
+        "median tf-idf score": 1.4691306453113069,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            " (CNN) A Missouri man ambushed and killed three law officers and wounded three others in Baton Rouge on Sunday during a time when police nationwide and in the Louisiana city in particular have been on high alert after five officers were killed in a Dallas ambush July 7.",
+            "The nature of Sunday\u2019s shooting is as yet unclear, but they also come just days after a sniper in Dallas targeted police officers during a protest rally in that city, killing five of them, 11:30 a. m.  A gunman reportedly shot multiple police officers in Baton Rouge, Louisiana, on Sunday.",
+            "Specific details about the shooting and the attacker remained unclear on Sunday, as officials did not say whether they believe the officers were specifically targeted or ambushed in some way."
+        ],
+        "tf-idf score": [
+            1.4941792449428142,
+            1.4691306453113069,
+            0.562447272648859
+        ]
+    },
+    "0.21998568617322622-3-1687": {
+        "average clique similarity": 0.21998568617322622,
+        "clique": [
+            "1- I can only imagine ",
+            "6- With God s help  we",
+            "5-Some things that get"
+        ],
+        "median tf-idf score": 0.07539791682660271,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cI can only imagine things will now get 100 times worse,\u201d she said sadly.",
+            "\u201cWith God\u2019s help, we will get through this,\u201d he continued.",
+            "Some things that get reported by the media will later turn out to be wrong."
+        ],
+        "tf-idf score": [
+            0.24831068431625233,
+            0.021089584566958884,
+            0.07539791682660271
+        ]
+    },
+    "0.22077265677768176-3-1138": {
+        "average clique similarity": 0.22077265677768176,
+        "clique": [
+            "4-The police said a   ",
+            "1-Last week  they arre",
+            "0-      A few days ear"
+        ],
+        "median tf-idf score": 1.0766608629740773,
+        "publications": [
+            "Business Insider",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The police said a    was arrested this month after running from a burglary of the Cash American Pawn Shop in Baton Rouge.",
+            "Last week, they arrested three people who they said plotted to kill cops with guns stolen from a pawn shop.",
+            "\u2019 \u2019   A few days earlier, police arrested people in connection with a   burglary believed to be part of a larger \u201d\u201d to attack officers in Baton Rouge."
+        ],
+        "tf-idf score": [
+            1.106179681934008,
+            0.3813315316463796,
+            1.0766608629740773
+        ]
+    },
+    "0.22174848599601496-3-1200": {
+        "average clique similarity": 0.22174848599601496,
+        "clique": [
+            "2-Police officers who ",
+            "5-The suspect in Baton",
+            "4-Chief Dabadie told r"
+        ],
+        "median tf-idf score": 1.3559037254530628,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "Police officers who responded to Sunday\u2019s shootings killed Long in a gunbattle after the other officers were ambushed, police sources told CNN The murder weapon was an   style   rifle, law enforcement sources told CNN Police have not officially released the names of the victims but one was identified by family members as Officer Montrell Jackson.",
+            "The suspect in Baton Rouge was killed at the scene, and police have not formally announced a name  \u2014   but a law enforcement official told NPR\u2019s Carrie Johnson that the deceased suspect is Gavin Eugene Long.",
+            "Chief Dabadie told reporters at the time that the    had told the police \u201cthat the reason the burglary was being done was to harm police officers."
+        ],
+        "tf-idf score": [
+            1.465596785315095,
+            1.3559037254530628,
+            0.8004535558298694
+        ]
+    },
+    "0.2236265707410999-3-986": {
+        "average clique similarity": 0.2236265707410999,
+        "clique": [
+            "6- It has to stop ",
+            "5-It s going to take u",
+            "4-It doesn t      it h"
+        ],
+        "median tf-idf score": 0.06219069356735655,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201cIt has to stop.",
+            "It\u2019s going to take us in multiple directions.",
+            "It doesn\u2019t  \u2014   it has never worked and it never will."
+        ],
+        "tf-idf score": [
+            0.07888779308318328,
+            0.05026959291595118,
+            0.06219069356735655
+        ]
+    },
+    "0.2271320817247933-3-1030": {
+        "average clique similarity": 0.2271320817247933,
+        "clique": [
+            "5- It s the same area ",
+            "6-During the protests ",
+            "0-      Demonstrators "
+        ],
+        "median tf-idf score": 0.4711085739207074,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201dIt\u2019s the same area where several protests over the past week were met with heavy police response, and hundreds were arrested\u201d.",
+            "During the protests in the city, more than 100 people were arrested, and demonstrators and activist groups have questioned the aggressive response from police.",
+            "\u2019 \u2019   Demonstrators protesting police violence in Baton Rouge were   arrested in large numbers last week following the death of   Sterling."
+        ],
+        "tf-idf score": [
+            0.4109246717656225,
+            0.4711085739207074,
+            0.860356797878722
+        ]
+    },
+    "0.2276959332447974-3-1641": {
+        "average clique similarity": 0.2276959332447974,
+        "clique": [
+            "5-Dabadie told reporte",
+            "2-Police had been on a",
+            "4-It is also about a m"
+        ],
+        "median tf-idf score": 1.1423568584087391,
+        "publications": [
+            "NPR",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "Dabadie told reporters about the two officers from the Baton Rouge Police Department killed in the line of duty: \u201dOne is 41 years old and has just under a year of service.",
+            "Police had been on alert, Since the shooting death of Sterling by Baton Rouge police, the department has worried about  threats against officers.",
+            "It is also about a mile from the Baton Rouge Police Department headquarters, where protesters had held numerous rallies since July 5, when the police here fatally shot Mr Sterling, after a confrontation in front of a convenience store."
+        ],
+        "tf-idf score": [
+            1.161913198600175,
+            1.1423568584087391,
+            0.9590630488023957
+        ]
+    },
+    "0.23566233432840858-3-1003": {
+        "average clique similarity": 0.23566233432840858,
+        "clique": [
+            "4- My father was born ",
+            "5- My brother was a   ",
+            "2-  MY Religion is Jus"
+        ],
+        "median tf-idf score": 0.22128723610611384,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201cMy father was born in 1947.",
+            "\u201dMy brother was a   police officer.",
+            "# MY Religion is Justice\u201d."
+        ],
+        "tf-idf score": [
+            0.22128723610611384,
+            0.6955958776365012,
+            0.023231271942446563
+        ]
+    },
+    "0.23812959162901157-3-49": {
+        "average clique similarity": 0.23812959162901157,
+        "clique": [
+            "6- At this time  our f",
+            "5- This is not going t",
+            "4- We are going to get"
+        ],
+        "median tf-idf score": 0.23965468140510426,
+        "publications": [
+            "New York Times",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cAt this time, our focus is to help identify and bring to justice those who are responsible for this heinous act,\u201d a spokesman said.",
+            "\u201dThis is not going to tarnish this city or this department.",
+            "\u201cWe are going to get through this as a family,\u201d he said, \u201cand we\u2019re going to get through this together."
+        ],
+        "tf-idf score": [
+            0.2979737682068679,
+            0.10844912900971419,
+            0.23965468140510426
+        ]
+    },
+    "0.23838841727987506-3-1687": {
+        "average clique similarity": 0.23838841727987506,
+        "clique": [
+            "2- We are disgusted by",
+            "6-An attack on one of ",
+            "3-Today  on the Lord s"
+        ],
+        "median tf-idf score": 0.7522186340536318,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201dWe are disgusted by the despicable act of violence today that resulted in the shooting deaths of members of the Baton Rouge law enforcement.",
+            "An attack on one of us is an attack on all of us, and the people who carried out this act, the individuals, they do not represent the people of Baton Rouge, or the state of Louisiana.",
+            "Today, on the Lord\u2019s day, all of us stand united in prayer with the people of Baton Rouge, with the police officers who\u2019ve been wounded, and with the grieving families of the fallen."
+        ],
+        "tf-idf score": [
+            0.7522186340536318,
+            0.6457526876444373,
+            1.0487720427576026
+        ]
+    },
+    "0.23882384847803242-3-1412": {
+        "average clique similarity": 0.23882384847803242,
+        "clique": [
+            "3-5 13 p  m  President",
+            "6- This has happened f",
+            "5-We don t know whethe"
+        ],
+        "median tf-idf score": 0.4839513063759516,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "5:13 p. m. President Obama gave brief remarks from the White House on Sunday\u2019s shooting, saying he\u2019s offered state and local officials \u201cthe full support of the federal government.",
+            "\u201cThis has happened far too often,\u201d President Obama said in remarks at the White House on Sunday afternoon.",
+            "We don\u2019t know whether the killer set out to target police officers, or whether he gunned them down as they responded to a call,\u201d President Obama said in afternoon remarks."
+        ],
+        "tf-idf score": [
+            0.4839513063759516,
+            0.45642164034943616,
+            0.7980530816631289
+        ]
+    },
+    "0.23941011553534-3-1687": {
+        "average clique similarity": 0.23941011553534,
+        "clique": [
+            "3- BatonRouge  4 12 p ",
+            "5-At a televised press",
+            "2-At an afternoon news"
+        ],
+        "median tf-idf score": 0.6912288940229381,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "#BatonRouge, 4:12 p. m. Louisiana Governor Mike Bel Edwards and a group of state and local   officials are holding a press conference in Baton Rouge on Sunday\u2019s shooting.",
+            "At a televised press conference, Louisiana officials said six law enforcement officers were hit.",
+            "At an afternoon news conference, local and state authorities, including Louisiana Gov."
+        ],
+        "tf-idf score": [
+            0.9052110871075156,
+            0.6912288940229381,
+            0.27080167910508157
+        ]
+    },
+    "0.24006950353541626-3-1687": {
+        "average clique similarity": 0.24006950353541626,
+        "clique": [
+            "1-In the wake of the c",
+            "2- No talking  just sh",
+            "3-The shooting comes l"
+        ],
+        "median tf-idf score": 0.8998274171955052,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In the wake of the controversial fatal shooting of black Baton Rouge resident Alton Sterling by cops on July 5, Long posted at least three clips about oppression and protests.",
+            "\u2019No talking, just shooting\u2019 The shooting Sunday took place around 8:40 a. m. (9:40 a. m. ET) in the city of about 230, 000 people, already tense after the   police shooting of Sterling, an   man, on July 5.",
+            "The shooting comes less than two weeks after Baton Rouge officers shot and killed Alton Sterling on July 5."
+        ],
+        "tf-idf score": [
+            0.8998274171955052,
+            0.7314303714106185,
+            1.0051809365286521
+        ]
+    },
+    "0.24024815661436572-3-26": {
+        "average clique similarity": 0.24024815661436572,
+        "clique": [
+            "3-Two of the injured o",
+            "1-Another three office",
+            "6-John Bel Edwards sai"
+        ],
+        "median tf-idf score": 0.2582176399918263,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Two of the injured officers had    injuries.",
+            "Another three officers were injured, including one critically.",
+            "John Bel Edwards said he wished he had the words to describe his heartbreak after at least three police officers were killed and several injured in Baton Rouge on July 17."
+        ],
+        "tf-idf score": [
+            0.23863760794905237,
+            0.2582176399918263,
+            1.269077603960161
+        ]
+    },
+    "0.24041014239394629-3-1687": {
+        "average clique similarity": 0.24041014239394629,
+        "clique": [
+            "1-The dead included tw",
+            "6-MORE READING   Baton",
+            "3-Here s a tweet from "
+        ],
+        "median tf-idf score": 1.0804052994444742,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The dead included two Baton Rouge police officers and one East Baton Rouge Parish sheriff\u2019s deputy, according to Sheriff Sid Gautreaux.",
+            "MORE READING:  Baton Rouge police say group stole guns and wanted to shoot officers Why the police in Baton Rouge look like they\u2019re dressed for war The burning question in Dallas: Why here?",
+            "Here\u2019s a tweet from The Advocate newspaper, citing the Baton Rouge Police Department: Along with police officers, Sheriff\u2019s Office deputies may be among those shot in Baton Rouge, BRPD spokesman says."
+        ],
+        "tf-idf score": [
+            1.0804052994444742,
+            1.0296832534787626,
+            1.132376468875031
+        ]
+    },
+    "0.24377776001842097-3-1528": {
+        "average clique similarity": 0.24377776001842097,
+        "clique": [
+            "5- He was everything t",
+            "6- My pastor came up t",
+            "1- If anything happens"
+        ],
+        "median tf-idf score": 0.20005049153767407,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dHe was everything to me\u201d.",
+            "\u201cMy pastor came up to me and asked me to pray the prayer of peace and unity,\u201d Marcelle said.",
+            "\u201cIf anything happens with me\u2002."
+        ],
+        "tf-idf score": [
+            0.20005049153767407,
+            0.25512836728955884,
+            0.007249676209002859
+        ]
+    },
+    "0.24584687986006673-3-90": {
+        "average clique similarity": 0.24584687986006673,
+        "clique": [
+            "0-         Six law enf",
+            "6-At least 3 officer w",
+            "3-At least two Baton R"
+        ],
+        "median tf-idf score": 1.0606304563617348,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u2019  \u2019 \u2019   Six law enforcement officers were shot in Baton Rouge Sunday   morning, and at least three are dead in what police called a   \u201dsenseless\u201d incident and President Barack Obama dubbed a   \u201dcowardly and reprehensible assault\u201d.",
+            "At least 3 officer were killed.",
+            "At least two Baton Rouge police officers are dead after the shooting, The Advocate reported, citing   officials."
+        ],
+        "tf-idf score": [
+            1.352394752473044,
+            0.2832749706493805,
+            1.0606304563617348
+        ]
+    },
+    "0.2488683515413291-3-205": {
+        "average clique similarity": 0.2488683515413291,
+        "clique": [
+            "3-2 55 p  m  In a stat",
+            "4-Just last week  Pres",
+            "6- I condemn  in the s"
+        ],
+        "median tf-idf score": 0.9782238800029639,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "2:55 p. m. In a statement, President Obama strongly condemned the shootings in Baton Rouge.",
+            "Just last week, President Obama was in Dallas for a memorial service, and on Sunday afternoon, he was at the White House, again addressing the nation after an assault on police officers.",
+            "\u201cI condemn, in the strongest sense of the word, the attack on law enforcement in Baton Rouge,\u201d President Obama said in a statement Sunday afternoon."
+        ],
+        "tf-idf score": [
+            0.5827409545665145,
+            1.0196604207310225,
+            0.9782238800029639
+        ]
+    },
+    "0.2514287180626544-3-1687": {
+        "average clique similarity": 0.2514287180626544,
+        "clique": [
+            "4-In one YouTube video",
+            "2-Jackson had posted o",
+            "3-   The incident come"
+        ],
+        "median tf-idf score": 0.9166777947381417,
+        "publications": [
+            "New York Times",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "In one YouTube video, titled, \u201cProtesting, Oppression and How to Deal with Bullies,\u201d the man discusses the killings of   men at the hands of police officers, including the July 5 death here of Alton B Sterling, and he advocates a bloody response instead of the protests that the deaths sparked.",
+            "Jackson had posted on Facebook on July 8  how physically and emotionally drained he had been since protests had erupted in Baton Rouge after the July 5 killing of Alton Sterling by police.",
+            "\u2014  The incident comes less than two weeks after Alton Sterling\u2019s shooting death by Baton Rouge police officers on July 5, sparking both local and national protests."
+        ],
+        "tf-idf score": [
+            0.9166777947381417,
+            0.898166604521433,
+            1.2859279210283587
+        ]
+    },
+    "0.2519708219947115-3-1687": {
+        "average clique similarity": 0.2519708219947115,
+        "clique": [
+            "4- I think anytime tha",
+            "5-He gave his life for",
+            "1-He added that a    s"
+        ],
+        "median tf-idf score": 0.3789727371439005,
+        "publications": [
+            "New York Times",
+            "NPR",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cI think anytime that there\u2019s a loss of life  \u2014   black, white, police officer, otherwise  \u2014   it\u2019s cause for us to take a moment and be sad about that life,\u201d she said.",
+            "He gave his life for his community,\u201d Pitts said.",
+            "He added that a    sheriff\u2019s deputy was \u201cfighting for his life as we speak."
+        ],
+        "tf-idf score": [
+            0.7989364658923768,
+            0.2591544437349074,
+            0.3789727371439005
+        ]
+    },
+    "0.25288584770773975-3-805": {
+        "average clique similarity": 0.25288584770773975,
+        "clique": [
+            "6-  Obama has been cri",
+            "3-Obama has been repea",
+            "0-Local police were cr"
+        ],
+        "median tf-idf score": 0.5673470586895517,
+        "publications": [
+            "Washington Post",
+            "Business Insider",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d Obama has been criticized in the past for his statements about police, which some commentators and politicians have described as too critical of law enforcement.",
+            "Obama has been repeatedly criticized by Republicans in recent weeks for what they see as a lack of leadership, but his statement was clear and unambiguous: We may not yet know the motives for this attack, but I want to be clear: there is no justification for violence against law enforcement.",
+            "Local police were criticized for what has been   described as  to otherwise peaceful demonstrations   in the area."
+        ],
+        "tf-idf score": [
+            0.5673470586895517,
+            0.7166402913600494,
+            0.41241428136150843
+        ]
+    },
+    "0.2538191133424086-3-484": {
+        "average clique similarity": 0.2538191133424086,
+        "clique": [
+            "6-Authorities said the",
+            "2-Under that name  Lon",
+            "3-  State officials of"
+        ],
+        "median tf-idf score": 0.26928032977313926,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Authorities said the active shooter situation is over and one shooter is dead.",
+            "Under that name, Long also tweeted a link to a news story about Dallas shooter Micah Johnson and said the shooter was \u201done of us!",
+            "\u201d State officials offered no details on the dead shooter\u2019s identity or his possible motive."
+        ],
+        "tf-idf score": [
+            0.26928032977313926,
+            0.5833538075660305,
+            0.19918128974927396
+        ]
+    },
+    "0.25579327799742163-3-285": {
+        "average clique similarity": 0.25579327799742163,
+        "clique": [
+            "6-At 8 48 a  m  as eme",
+            "1-Police said Long con",
+            "4-  Around 8 48 a  m  "
+        ],
+        "median tf-idf score": 0.518610888808048,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "Washington Post"
+        ],
+        "sentences": [
+            "At 8:48 a. m. as emergency personnel began staging to treat the wounded, officers engaged the suspect and brought him down, Edmonson said.",
+            "Police said Long continued to shoot at cops as he ran down the road to the   gas station, before officers felled him.",
+            "\u201d Around 8:48 a. m. officers fired at the suspect, killing him, Colonel Edmonson said."
+        ],
+        "tf-idf score": [
+            0.518610888808048,
+            0.8342824010750666,
+            0.5165792748971797
+        ]
+    },
+    "0.260107834163663-3-1687": {
+        "average clique similarity": 0.260107834163663,
+        "clique": [
+            "1-Gerald was a new rec",
+            "2-Law officers Matthew",
+            "3-They are Montrell Ja"
+        ],
+        "median tf-idf score": 0.9213711650969831,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Gerald was a new recruit, having joined the Baton Rouge Police Department in March.",
+            "Law officers Matthew Gerald and Brad Garafola were also killed, according to sources close to the department.",
+            "They are Montrell Jackson, 32, a   veteran of the Baton Rouge Police Department Matthew Gerald, 41, who had been with the department for less than a year and Brad Garafola, 45, a East Baton Rouge Sheriff\u2019s deputy."
+        ],
+        "tf-idf score": [
+            0.9213711650969831,
+            0.5201486243140122,
+            0.9315890880539157
+        ]
+    },
+    "0.2635793227143712-3-185": {
+        "average clique similarity": 0.2635793227143712,
+        "clique": [
+            "6-The attacker in Bato",
+            "5-Brad Garafola  a    ",
+            "4-On Sunday afternoon "
+        ],
+        "median tf-idf score": 1.399038673334416,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "The attacker in Baton Rouge was identified Sunday afternoon as Gavin Long, according to two law enforcement officials familiar with the investigation.",
+            "Brad Garafola, a    deputy with the East Baton Rouge Parish Sheriff\u2019s Office, has been identified as the third police officer killed in the shooting, according to The Associated Press among other media outlets.",
+            "On Sunday afternoon, officials said that two of the slain officers were Baton Rouge city police officers, and that the third was from the Sheriff\u2019s Office."
+        ],
+        "tf-idf score": [
+            1.0649311435348152,
+            1.399038673334416,
+            1.5222559244265064
+        ]
+    },
+    "0.26489574096430285-3-1687": {
+        "average clique similarity": 0.26489574096430285,
+        "clique": [
+            "4-On Sunday  around 8 ",
+            "3-The shootings began ",
+            "6-Edmonson said Sunday"
+        ],
+        "median tf-idf score": 0.7982744321180134,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "On Sunday, around 8:40 a. m. law enforcement officers observed the man, wearing all black and holding a rifle, outside a beauty supply store, the colonel said.",
+            "The shootings began, he said, when officers responded to a report of an armed man wearing black near a convenience store.",
+            "Edmonson said Sunday that officers were contacted about a man \u201ccarrying a weapon, carrying a rifle\u201d at about 8:40 a. m. Police at a convenience store in the area saw the man, who was wearing all black, Edmonson said."
+        ],
+        "tf-idf score": [
+            0.7982744321180134,
+            0.7299184740668068,
+            1.1903798326521318
+        ]
+    },
+    "0.26555018501466776-3-1676": {
+        "average clique similarity": 0.26555018501466776,
+        "clique": [
+            "6-Col  Michael D Edmon",
+            "0-      A Louisiana st",
+            "5-The Louisiana State "
+        ],
+        "median tf-idf score": 1.102498820107093,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Col. Michael D Edmonson of the Louisiana State Police, the agency taking the lead on the investigation, stressed Sunday afternoon that there was no active shooting situation and that police had killed the armed attacker, who died during a shootout with officers.",
+            "\u2019 \u2019   A Louisiana state police official said the gunman   responsible died at the scene.",
+            "The Louisiana State Police is taking the lead, he said, working closely with the sheriff\u2019s office, the Baton Rouge Police Department, and federal partners."
+        ],
+        "tf-idf score": [
+            1.2302175536243356,
+            0.6963602942193761,
+            1.102498820107093
+        ]
+    },
+    "0.26560632283655794-3-212": {
+        "average clique similarity": 0.26560632283655794,
+        "clique": [
+            "3-There is  no other s",
+            "5-At the afternoon pre",
+            "2- There was no talkin"
+        ],
+        "median tf-idf score": 0.7068599487701308,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "There is \u201dno other shooter held up in the Baton Rouge area,\u201d he said.",
+            "At the afternoon press conference, Edmonson said repeatedly that there is no current active shooter situation in Baton Rouge.",
+            "\u201dThere was no talking, just shooting,\u201d Baton Rouge Police Cpl."
+        ],
+        "tf-idf score": [
+            0.6057048716996859,
+            0.7068599487701308,
+            0.9575946889528152
+        ]
+    },
+    "0.2757144638849364-3-1687": {
+        "average clique similarity": 0.2757144638849364,
+        "clique": [
+            "1-  Baton Rouge has be",
+            "4-The night after the ",
+            "5-when a suspect fired"
+        ],
+        "median tf-idf score": 0.7498961197254818,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d Baton Rouge has been shaken by protests since cops shot and killed Sterling, 37, outside a convenience store.",
+            "The night after the police shooting of Mr Sterling, who was selling CDs outside a convenience store here, a black man was killed by the police during a traffic stop in a St. Paul suburb.",
+            "when a suspect fired on officers outside a convenience store."
+        ],
+        "tf-idf score": [
+            0.7498961197254818,
+            0.9241299813946466,
+            0.3259321637091505
+        ]
+    },
+    "0.27624001074178967-3-1687": {
+        "average clique similarity": 0.27624001074178967,
+        "clique": [
+            "5-John Bel Edwards des",
+            "2-Edwards described th",
+            "3-12 14 p  m  Governor"
+        ],
+        "median tf-idf score": 0.24055136187185852,
+        "publications": [
+            "NPR",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "John Bel Edwards described the incident as an \u201dunspeakable tragedy\u201d.",
+            "Edwards described the shooting as an \u201dabsolutely unspeakable heinous attack\u201d.",
+            "12:14 p. m. Governor John Bel Edwards, in a statement, called the shootings \u201cunspeakable and unjustified."
+        ],
+        "tf-idf score": [
+            0.12606469186597954,
+            0.24055136187185852,
+            0.2829785381609375
+        ]
+    },
+    "0.27944399652282925-3-1250": {
+        "average clique similarity": 0.27944399652282925,
+        "clique": [
+            "6- I ve spent a lot of",
+            "5-   in the Baton Roug",
+            "4- I heard a lot of gu"
+        ],
+        "median tf-idf score": 0.2345752046975064,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201cI\u2019ve spent a lot of time with law enforcement this past week.",
+            ".. in the Baton Rouge area, but understand this investigation has a lot of moving parts\u201d.",
+            "\u201cI heard a lot of gunshots  \u2014   a lot."
+        ],
+        "tf-idf score": [
+            0.2345752046975064,
+            0.49593997104452275,
+            0.05441342220415532
+        ]
+    },
+    "0.2798199691002592-4-879": {
+        "average clique similarity": 0.2798199691002592,
+        "clique": [
+            "6- I got up and lead t",
+            "1-They right no wrongs",
+            "3-They right now wrong",
+            "4- Everyone right now "
+        ],
+        "median tf-idf score": 0.15327240192222452,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "New York Post",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201cI got up and lead the prayer, and that was right around the same time that this incident happened.",
+            "They right no wrongs.",
+            "They right now wrongs.",
+            "\u201cEveryone right now focus on words and actions that can unite this country rather than divide it further,\u201d the president said."
+        ],
+        "tf-idf score": [
+            0.33724814295903643,
+            0.02089223297512111,
+            0.02089223297512111,
+            0.28565257086932794
+        ]
+    },
+    "0.28827840709031194-3-1687": {
+        "average clique similarity": 0.28827840709031194,
+        "clique": [
+            "2-President Barack Oba",
+            "1-  Describing Sunday ",
+            "5-In remarks this afte"
+        ],
+        "median tf-idf score": 0.672461880072412,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "President Barack Obama on Sunday condemned the killings and all attacks on law enforcement.",
+            "\u201d Describing Sunday\u2019s shooting and the sniper assault in Dallas, Obama said, \u201cThese are attacks on public servants, on the rule of law, and on civilized society .",
+            "In remarks this afternoon, Obama said, \u201dattacks on police are attacks on all of us and the rule of law that makes society possible\u201d."
+        ],
+        "tf-idf score": [
+            0.3855977492750267,
+            0.672461880072412,
+            0.7081811426952386
+        ]
+    },
+    "0.2887693849625972-3-1687": {
+        "average clique similarity": 0.2887693849625972,
+        "clique": [
+            "2-On Sunday  a man ide",
+            "5-Of those killed  two",
+            "3-Authorities have ide"
+        ],
+        "median tf-idf score": 1.253668393494155,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Atlantic"
+        ],
+        "sentences": [
+            "On Sunday, a man identified as Gavin Long of Kansas City went on a shooting rampage on his 29th birthday that left two police officers and a sheriff\u2019s deputy dead, police sources said.",
+            "Of those killed, two were Baton Rouge city police officers and one was a sheriff\u2019s deputy.",
+            "Authorities have identified those officers who were shot on Sunday."
+        ],
+        "tf-idf score": [
+            1.2722473024166567,
+            1.253668393494155,
+            0.3867568516141844
+        ]
+    },
+    "0.2894027610854042-3-361": {
+        "average clique similarity": 0.2894027610854042,
+        "clique": [
+            "4- I pose no threat to",
+            "3-They advance no caus",
+            "1-They advance no caus"
+        ],
+        "median tf-idf score": 0.013958501425321929,
+        "publications": [
+            "Atlantic",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201cI pose no threat to anyone.",
+            "They advance no cause.",
+            "They advance no causes."
+        ],
+        "tf-idf score": [
+            0.020571801378414512,
+            0.013958501425321929,
+            0.013958501425321929
+        ]
+    },
+    "0.29146016829887017-3-1687": {
+        "average clique similarity": 0.29146016829887017,
+        "clique": [
+            "4-State and local offi",
+            "0-      Three of the o",
+            "6-  The three deaths S"
+        ],
+        "median tf-idf score": 1.0955215677839025,
+        "publications": [
+            "New York Times",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "State and local officials speaking at a news conference here on Sunday afternoon did not address whether the law enforcement officers who were killed and wounded  \u2014   three members of the Baton Rouge Police Department and three deputies from the East Baton Rouge Parish Sheriff\u2019s Office  \u2014   had been lured to the scene.",
+            "\u2019 \u201d   Three of the officers shot were members of the Baton Rouge   Police Department, and three were East Baton Rouge Parish   sheriff\u2019s deputies.",
+            "\u201d The three deaths Sunday in Baton Rouge brought the total number of officers killed in the line of duty to 30 so far this year  \u2014   up from about 16 at this point last year."
+        ],
+        "tf-idf score": [
+            1.6403928602646143,
+            1.0955215677839025,
+            0.8867580063372053
+        ]
+    },
+    "0.29344007177123826-3-1305": {
+        "average clique similarity": 0.29344007177123826,
+        "clique": [
+            "5-And we ask for your ",
+            "3-Our hearts and praye",
+            "6-Our thoughts and pra"
+        ],
+        "median tf-idf score": 0.6555348289008861,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "And we ask for your prayers\u201d.",
+            "Our hearts and prayers are with the fallen and wounded officers, their families, and the entire Baton Rouge community in this extraordinarily difficult time.",
+            "Our thoughts and prayers are with Baton Rouge Police."
+        ],
+        "tf-idf score": [
+            0.015405027878097662,
+            0.7303758019388259,
+            0.6555348289008861
+        ]
+    },
+    "0.2970279532662589-3-254": {
+        "average clique similarity": 0.2970279532662589,
+        "clique": [
+            "3-Not sure how shootin",
+            "4-  The intense protes",
+            "6- That s how this all"
+        ],
+        "median tf-idf score": 0.05720060202936315,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Not sure how shooting started.",
+            "\u201d The intense protests had started to lose steam.",
+            "\u201cThat\u2019s how this all started, with bloodshed."
+        ],
+        "tf-idf score": [
+            0.12306635688228318,
+            0.05720060202936315,
+            0.018609937751229613
+        ]
+    },
+    "0.3002455166094106-3-244": {
+        "average clique similarity": 0.3002455166094106,
+        "clique": [
+            "4-The shooting was the",
+            "6-She said in a statem",
+            "3-There is no place in"
+        ],
+        "median tf-idf score": 0.41068503120963235,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "The shooting was the latest episode in a month of violence and extraordinary racial tension in the country.",
+            "She said in a statement that \u201cthere is no place in the United States for such appalling violence\u201d and strongly condemned the shooting.",
+            "There is no place in the United States for such appalling violence, and I condemn these acts in the strongest possible terms."
+        ],
+        "tf-idf score": [
+            0.41068503120963235,
+            0.46276110780391166,
+            0.15808050612577854
+        ]
+    },
+    "0.3015354266399202-3-1687": {
+        "average clique similarity": 0.3015354266399202,
+        "clique": [
+            "3-12 08 p  m  Two poli",
+            "4-One city police offi",
+            "2-Another wounded depu"
+        ],
+        "median tf-idf score": 0.8831371308631252,
+        "publications": [
+            "Atlantic",
+            "New York Times",
+            "CNN"
+        ],
+        "sentences": [
+            "12:08 p. m. Two police officers and one sheriff\u2019s deputy have been killed, the Baton Rouge Mayor\u2019s Office says.",
+            "One city police officer and two sheriff\u2019s deputies were wounded, including one who was in critical condition.",
+            "Another wounded deputy and police officer have    wounds, law officers said."
+        ],
+        "tf-idf score": [
+            1.0921165493304292,
+            0.8831371308631252,
+            0.8007658421768
+        ]
+    },
+    "0.30224071213300957-3-1687": {
+        "average clique similarity": 0.30224071213300957,
+        "clique": [
+            "1- By 8 45  officers w",
+            "4-Officials initially ",
+            "3-Mike Edmonson  the s"
+        ],
+        "median tf-idf score": 0.9910872662923517,
+        "publications": [
+            "New York Post",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201cBy 8:45, officers were down,\u201d said Louisiana State Police Col. Mike Edmonson.",
+            "Officials initially believed that other people might have been involved in the attack, but the superintendent of the Louisiana State Police, Col. Michael D Edmonson, said at a news conference that it was the act of a lone gunman.",
+            "Mike Edmonson, the superintendent of the Louisiana State Police, said there is no   scenario in Baton Rouge."
+        ],
+        "tf-idf score": [
+            0.8213692391148875,
+            1.1262852061097934,
+            0.9910872662923517
+        ]
+    },
+    "0.30862622220862485-3-462": {
+        "average clique similarity": 0.30862622220862485,
+        "clique": [
+            "4-  The police in Bato",
+            "6-In Baton Rouge  poli",
+            "2-Louisiana State Poli"
+        ],
+        "median tf-idf score": 1.0789335821657524,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201d The police in Baton Rouge had in recent days announced that they were investigating a plot by four people to target police officers, and they cited the threat to explain why their presence at local protests, which had been light at first, had grown heavy.",
+            "In Baton Rouge, police said earlier this week that they responded in that way to protests because they had received a threat to law enforcement officials in the city.",
+            "Louisiana State Police announced last week that they had received threats of plots against Baton Rouge police."
+        ],
+        "tf-idf score": [
+            1.0789335821657524,
+            1.1980701595423022,
+            0.8337313455206061
+        ]
+    },
+    "0.3091330912397681-3-231": {
+        "average clique similarity": 0.3091330912397681,
+        "clique": [
+            "3-11 46 a  m  Baton Ro",
+            "5-Earlier this month  ",
+            "6-His neighborhood  kn"
+        ],
+        "median tf-idf score": 1.4470860302265776,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "11:46 a. m. Baton Rouge has been the scene of massive protests \u2014  some of them violent \u2014  following the killing earlier this month of Alton Sterling, a    black man whose killing by a police officer was captured on video.",
+            "Earlier this month, a man named Alton Sterling was shot dead by police officers in Baton Rouge, and video of the shooting led to days of protests in the city.",
+            "His neighborhood, known as Tara, has been feeling the tension over police shootings since officers fatally shot Alton Sterling earlier this month outside a convenience store."
+        ],
+        "tf-idf score": [
+            1.4470860302265776,
+            1.526947366280622,
+            0.887745463604494
+        ]
+    },
+    "0.3096437630020812-3-864": {
+        "average clique similarity": 0.3096437630020812,
+        "clique": [
+            "1-Gavin Eugene Long  a",
+            "4-He enlisted in his h",
+            "5-He was deployed to I"
+        ],
+        "median tf-idf score": 0.2900072895051399,
+        "publications": [
+            "New York Times",
+            "New York Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Gavin Eugene Long, a   member of the Nation of Islam and former Marine from Kansas City, Mo.",
+            "He enlisted in his hometown, Kansas City, Mo.",
+            "He was deployed to Iraq for six months in   and entered the service in Kansas City, Mo."
+        ],
+        "tf-idf score": [
+            0.2900072895051399,
+            0.08271380207659734,
+            0.3565846327136588
+        ]
+    },
+    "0.3193020329718586-3-84": {
+        "average clique similarity": 0.3193020329718586,
+        "clique": [
+            "2-In YouTube videos po",
+            "6-To me  this is not s",
+            "0-       To me this is"
+        ],
+        "median tf-idf score": 0.2589681999663028,
+        "publications": [
+            "CNN",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "In YouTube videos posted July 8 and 10, reviewed by CNN, Long, using the name \u201dCosmo,\u201d spoke about the need for \u201dfighting back\u201d and what people should say about him \u201dif anything happened to me\u201d.",
+            "To me, this is not so much about gun control as it is about what\u2019s in men\u2019s hearts, and until we come together as a nation, as a people, to heal, as a people, if we don\u2019t do that, and this madness continues, we will surely perish as a people.",
+            "\u201d \u2019   \u201dTo me this is not so much about gun control, as it is about   what\u2019\u2019s in men\u2019\u2019s hearts,\u201d Gautreaux said."
+        ],
+        "tf-idf score": [
+            0.43236957996238323,
+            0.18918513457040315,
+            0.2589681999663028
+        ]
+    },
+    "0.3216692871849753-3-1687": {
+        "average clique similarity": 0.3216692871849753,
+        "clique": [
+            "1-The third victim was",
+            "0-Two of those killed ",
+            "6-Two of the officers "
+        ],
+        "median tf-idf score": 0.7749491828283869,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The third victim was identified as Sheriff\u2019s Deputy Brad Garafola, who was once honored as a \u201cdeputy of the month.",
+            "Two of those killed were from the Baton Rouge   PD, while one was an East Baton Rouge sheriff\u2019s deputy.",
+            "Two of the officers fatally shot were with the Baton Rouge police force, while the third was part of the East Baton Rouge Sheriff\u2019s Office."
+        ],
+        "tf-idf score": [
+            0.3815060292058027,
+            0.7749491828283869,
+            1.23376349773582
+        ]
+    },
+    "0.3292034022860038-5-1687": {
+        "average clique similarity": 0.3292034022860038,
+        "clique": [
+            "4-John Bel Edwards of ",
+            "3-  1 41 p  m  Texas G",
+            "0-John   Bel Edwards s",
+            "6-John Bel Edwards  D ",
+            "2-John Bel Edwards  sa"
+        ],
+        "median tf-idf score": 0.4284973255416756,
+        "publications": [
+            "New York Times",
+            "Atlantic",
+            "Business Insider",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "John Bel Edwards of Louisiana said, \u201cThe violence, the hatred just has to stop.",
+            "\u201d 1:41 p. m. Texas Governor Greg Abbott, whose state saw five police officers killed in a shooting less than two weeks ago, called Louisiana Governor John Bel Edwards to offer his condolences, Texas Tribune\u2019s Patrick Svitek reports.",
+            "John   Bel Edwards said in a statement.",
+            "John Bel Edwards (D) said at the same news conference.",
+            "John Bel Edwards, said Long was thought to be the lone gunman."
+        ],
+        "tf-idf score": [
+            0.4284973255416756,
+            1.003270600268789,
+            0.28091667266990866,
+            0.2892245590435038,
+            0.5861176287889367
+        ]
+    },
+    "0.33139927244651185-3-821": {
+        "average clique similarity": 0.33139927244651185,
+        "clique": [
+            "4-You got to fight bac",
+            "2- You gotta fight bac",
+            "1-Long      a black se"
+        ],
+        "median tf-idf score": 0.09239002516769472,
+        "publications": [
+            "New York Post",
+            "CNN",
+            "New York Times"
+        ],
+        "sentences": [
+            "You got to fight back.",
+            "\u201dYou gotta fight back,\u201d he says on the video.",
+            "Long  \u2014   a black separatist who urged Americans to \u201cfight back\u201d against police in a series of rambling YouTube videos  \u2014   was standing near a   store on Airline Highway, where demonstrations have taken place in recent days."
+        ],
+        "tf-idf score": [
+            0.030101361651619182,
+            0.09239002516769472,
+            0.8657949509699877
+        ]
+    },
+    "0.3315342456183518-3-144": {
+        "average clique similarity": 0.3315342456183518,
+        "clique": [
+            "1- Officers were falli",
+            "4- I heard probably 10",
+            "6- Reuters    Mark Cle"
+        ],
+        "median tf-idf score": 0.2845985266776103,
+        "publications": [
+            "Washington Post",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "\u201cOfficers were falling down and hiding,\u201d  Resident Mark Clement   he heard 10 to 12 gunshots.",
+            "\u201cI heard probably 10 to 12 gunshots go off,\u201d he said.",
+            "(Reuters)   Mark Clements, who lives two blocks behind the nearby Hammond Aire shopping plaza, said he heard 10 to 12 gunshots coming from that direction around 8:40 a. m. He was letting his dogs out in his backyard when he heard the gunfire, followed by sirens and helicopters."
+        ],
+        "tf-idf score": [
+            0.2845985266776103,
+            0.2314478837124431,
+            0.5924549758683797
+        ]
+    },
+    "0.33213646468240193-3-1687": {
+        "average clique similarity": 0.33213646468240193,
+        "clique": [
+            "0-    the policemen ki",
+            "6- What you saw in the",
+            "3-The sheriff s deputy"
+        ],
+        "median tf-idf score": 0.9020086494648795,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u201d \u2019 the policemen killed were identified   as: \u2019 \u2019   Of the East Baton Rouge sheriff\u2019\u2019s deputies, one is critical   condition, \u201dfighting for his life,\u201d Sheriff Sid J Gautreaux   said.",
+            "\u201cWhat you saw in the response was because of the very real and viable threats against law enforcement,\u201d Gautreaux, the sheriff, said last week.",
+            "The sheriff\u2019s deputy who was killed was 44 years old, Sid Gautreaux, the East Baton Rouge sheriff, said."
+        ],
+        "tf-idf score": [
+            0.9020086494648795,
+            0.6776015569649058,
+            1.0366342467675553
+        ]
+    },
+    "0.33414664232324337-3-732": {
+        "average clique similarity": 0.33414664232324337,
+        "clique": [
+            "0-Long was an   who   ",
+            "2-Long  who was   was ",
+            "3-Here s The New York "
+        ],
+        "median tf-idf score": 0.4556200130675069,
+        "publications": [
+            "Business Insider",
+            "CNN",
+            "Atlantic"
+        ],
+        "sentences": [
+            "Long was an   who   served seven months in Iraq and was a data specialist, according   to CNN He was divorced in 2011.",
+            "Long, who was   was a former Marine who spent time in Iraq and was discharged at the rank of sergeant in 2010, according to the U S military.",
+            "Here\u2019s The New York Times: According to military records released by the Marine Corps, Mr Long served as a data network specialist and was a sergeant when he left the Marines in 2010."
+        ],
+        "tf-idf score": [
+            0.4556200130675069,
+            0.4510139982459503,
+            0.5605708512259745
+        ]
+    },
+    "0.33492267305130785-3-1687": {
+        "average clique similarity": 0.33492267305130785,
+        "clique": [
+            "6-The average   total ",
+            "4-According to militar",
+            "5-Long is identified b"
+        ],
+        "median tf-idf score": 0.39772070560623896,
+        "publications": [
+            "Washington Post",
+            "New York Times",
+            "NPR"
+        ],
+        "sentences": [
+            "The average   total, according to FBI data, is about 25.",
+            "According to military records released by the Marine Corps, Mr Long served as a data network specialist and was a sergeant when he left the Marines in 2010.",
+            "Long is identified by the Marine Corps as a \u201dData Network Specialist\u201d and was also stationed in California and Japan."
+        ],
+        "tf-idf score": [
+            0.07047368016858341,
+            0.4962338133097285,
+            0.39772070560623896
+        ]
+    },
+    "0.34703533434734335-3-1496": {
+        "average clique similarity": 0.34703533434734335,
+        "clique": [
+            "1-have been successful",
+            "2-In the July 10 video",
+            "4- One hundred percent"
+        ],
+        "median tf-idf score": 0.26397566115707116,
+        "publications": [
+            "CNN",
+            "New York Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "have been successful through fighting back, through bloodshed.",
+            "In the July 10 video, recorded, he said, in Dallas, he says, \u201dZero have been successful just over simple protesting\u201d.",
+            "\u201cOne hundred percent of revolutions, of victims fighting their oppressors,\u201d he said, \u201chave been successful through fighting back, through bloodshed."
+        ],
+        "tf-idf score": [
+            0.04933032267589263,
+            0.39977386786863595,
+            0.26397566115707116
+        ]
+    },
+    "0.37320085956316595-3-1687": {
+        "average clique similarity": 0.37320085956316595,
+        "clique": [
+            "3-Edmonson also confir",
+            "6-President Obama call",
+            "4-    A gunman fatally"
+        ],
+        "median tf-idf score": 0.888329128616028,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "New York Times"
+        ],
+        "sentences": [
+            "Edmonson also confirmed three officers had died and three were injured.",
+            "President Obama called for unity nationwide following a July 17 shooting in Baton Rouge that left three police officers dead and three others injured.",
+            "\u2014   A gunman fatally shot three law enforcement officers and wounded three others here on Sunday before being killed in a shootout with the police."
+        ],
+        "tf-idf score": [
+            0.2747791192261731,
+            1.1849727786578517,
+            0.888329128616028
+        ]
+    },
+    "0.3780288367096129-3-1687": {
+        "average clique similarity": 0.3780288367096129,
+        "clique": [
+            "5-He urged Americans t",
+            "4- We need to temper o",
+            "3-The officers in Bato"
+        ],
+        "median tf-idf score": 0.31326797244828514,
+        "publications": [
+            "NPR",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "He urged Americans to focus on \u201dwords and actions that can unite this country,\u201d and said \u201dwe need to temper our words and open our hearts  \u2014   all of us\u201d.",
+            "\u201cWe need to temper our words and open our hearts, all of us.",
+            "The officers in Baton Rouge the officers in Dallas \u2014  they were our fellow Americans, part of our community, part of our country, with people who loved and needed them, and who need us now \u2014  all of us \u2014  to be at our best."
+        ],
+        "tf-idf score": [
+            0.31326797244828514,
+            0.06702578424022826,
+            0.7637985227538667
+        ]
+    },
+    "0.38490294358293325-3-967": {
+        "average clique similarity": 0.38490294358293325,
+        "clique": [
+            "3-Long was black and S",
+            "5-Long  who was black ",
+            "6-Sunday was long s 29"
+        ],
+        "median tf-idf score": 0.4757384608506084,
+        "publications": [
+            "NPR",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Long was black and Sunday, the day of the shooting, was his 29th birthday.",
+            "Long, who was black, was a former Marine.",
+            "Sunday was long\u2019s 29th birthday, according to one official."
+        ],
+        "tf-idf score": [
+            0.5823285097786172,
+            0.3615508516752976,
+            0.4757384608506084
+        ]
+    },
+    "0.4075808675569307-3-1687": {
+        "average clique similarity": 0.4075808675569307,
+        "clique": [
+            "3-What we know on Mond",
+            "5-Three law enforcemen",
+            "6-       Three police "
+        ],
+        "median tf-idf score": 0.9722106644649571,
+        "publications": [
+            "Atlantic",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "What we know on Monday:  \u2014  Louisiana State Police have identified the gunman who on Sunday killed three officers and wounded three others as Gavin Long of Missouri.",
+            "Three law enforcement officers were killed and three others were injured in Baton Rouge, La.",
+            "       Three police officers were killed and three others injured in a shooting Sunday morning in Baton Rouge, authorities said."
+        ],
+        "tf-idf score": [
+            0.9722106644649571,
+            0.8091020970829786,
+            1.3428690038176494
+        ]
+    },
+    "0.4106228107774143-3-453": {
+        "average clique similarity": 0.4106228107774143,
+        "clique": [
+            "3-One of the Baton Rou",
+            "5-The other is 32 year",
+            "6-The two Baton Rouge "
+        ],
+        "median tf-idf score": 1.2428524958515976,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "One of the Baton Rouge Police officers killed Sunday was 41 years old the other was 32.",
+            "The other is 32 years old, with 10 years of service\u201d.",
+            "The two Baton Rouge police officers killed were a    with just under a year of service and a    with 10 years of service, while a    officer was shot and wounded, said Carl Dabadie Jr the Baton Rouge police chief."
+        ],
+        "tf-idf score": [
+            1.2428524958515976,
+            0.07951190815805899,
+            1.4756213891550698
+        ]
+    },
+    "0.4182578331859939-3-1687": {
+        "average clique similarity": 0.4182578331859939,
+        "clique": [
+            "6- For the second time",
+            "2-In a written stateme",
+            "0-           Obama  wh"
+        ],
+        "median tf-idf score": 0.5186585348936915,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "\u201cFor the second time in two weeks, police officers who put their lives on the line for ours every day were doing their job when they were killed in a cowardly and reprehensible assault.",
+            "In a written statement earlier in the day, Obama called the Baton Rough shootings a \u201dcowardly and reprehensible assault\u201d.",
+            "\u2019 \u2019  \u2019 \u2019   Obama, who was briefed on the situation as it   unfolded,    what he called a \u201dcowardly and reprehensible assault\u201d in a   statement."
+        ],
+        "tf-idf score": [
+            0.7736251919094698,
+            0.5186585348936915,
+            0.39684386791604453
+        ]
+    },
+    "0.44257635305370174-3-1687": {
+        "average clique similarity": 0.44257635305370174,
+        "clique": [
+            "1-launched the attack ",
+            "0-He appears to have  ",
+            "4-  Sunday was the man"
+        ],
+        "median tf-idf score": 0.30113966851230534,
+        "publications": [
+            "New York Post",
+            "Business Insider",
+            "New York Times"
+        ],
+        "sentences": [
+            "launched the attack on his 29th birthday.",
+            "He appears to have   attacked police on his 29th birthday.",
+            "\u201d Sunday was the man\u2019s 29th birthday."
+        ],
+        "tf-idf score": [
+            0.09463919450453957,
+            0.30113966851230534,
+            0.34039467324983985
+        ]
+    },
+    "0.4436638659526362-3-1687": {
+        "average clique similarity": 0.4436638659526362,
+        "clique": [
+            "0-       This is an un",
+            "4-He said the killings",
+            "3- All of us "
+        ],
+        "median tf-idf score": 0.16762211679042652,
+        "publications": [
+            "Business Insider",
+            "New York Times",
+            "Atlantic"
+        ],
+        "sentences": [
+            "\u2019 \u2019   \u201dThis is an unspeakable and unjustified attack on all of us at a   time when we need unity and healing.",
+            "He said the killings were \u201can attack on all of us.",
+            "\u201cAll of us."
+        ],
+        "tf-idf score": [
+            0.16762211679042652,
+            0.28484239955415425,
+            0.0
+        ]
+    },
+    "0.44964315037628855-3-1687": {
+        "average clique similarity": 0.44964315037628855,
+        "clique": [
+            "6-     In May  Louisia",
+            "2-The gunman also crit",
+            "5-One of the wounded d"
+        ],
+        "median tf-idf score": 0.8508258229765884,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201d   [In May, Louisiana became the first state to make it a hate crime to target police]   East Baton Rouge Parish Sheriff Sid J Gautreaux III said one of his deputies was slain  \u2014   a     \u2014   and two were wounded  \u2014   a    and a   .",
+            "The gunman also critically wounded a  deputy who is \u201dfighting for his life,\u201d said East Baton Rouge Parish Sheriff Sid Gautreaux.",
+            "One of the wounded deputies remains in critical condition, according to East Baton Rouge Sheriff Sid Gautreaux."
+        ],
+        "tf-idf score": [
+            1.3784768953841904,
+            0.8508258229765884,
+            0.6197208934497658
+        ]
+    },
+    "0.4756017275603918-3-561": {
+        "average clique similarity": 0.4756017275603918,
+        "clique": [
+            "6- We re grieving as a",
+            "1-Our community is hur",
+            "5- We re grieving as a"
+        ],
+        "median tf-idf score": 0.38369665995928626,
+        "publications": [
+            "New York Post",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201cWe\u2019re grieving as a law enforcement community,\u201d Gautreaux said.",
+            "Our community is hurting.",
+            "\u201dWe\u2019re grieving as a law enforcement community,\u201d Gautreaux said."
+        ],
+        "tf-idf score": [
+            0.38369665995928626,
+            0.029589575148602117,
+            0.38369665995928626
+        ]
+    },
+    "0.6252572508081028-3-1687": {
+        "average clique similarity": 0.6252572508081028,
+        "clique": [
+            "2- Attacks on police a",
+            "3- Attacks on police a",
+            "6-These are attacks on"
+        ],
+        "median tf-idf score": 0.45767329421423353,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\u201dAttacks on police are an attack on all of us and the rule of law that makes society possible\u201d.",
+            "\u201cAttacks on police are attacks on all of us and the rule of law that makes society possible,\u201d he said.",
+            "These are attacks on public servants, on the rule of law, and on civilized society, and they have to stop."
+        ],
+        "tf-idf score": [
+            0.45767329421423353,
+            0.642209010169262,
+            0.21269738360615098
+        ]
+    },
+    "0.7475420533373965-3-1687": {
+        "average clique similarity": 0.7475420533373965,
+        "clique": [
+            "3- The hatred just has",
+            "6- The violence  the h",
+            "1- The hatred just has"
+        ],
+        "median tf-idf score": 0.19599993046555453,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "New York Post"
+        ],
+        "sentences": [
+            "\u201cThe hatred just has to stop.",
+            "\u201cThe violence, the hatred, just has to stop,\u201d Louisiana Gov.",
+            "\u201cThe hatred just has to stop,\u201d he said."
+        ],
+        "tf-idf score": [
+            0.08774849635134702,
+            0.19599993046555453,
+            0.2722842123063756
+        ]
+    }
+}

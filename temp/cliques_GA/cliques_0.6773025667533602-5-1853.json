@@ -1,0 +1,470 @@
+{
+    "0.17210114075476393-3-190": {
+        "average clique similarity": 0.17210114075476393,
+        "clique": [
+            "4-And while the Justic",
+            "1- The U S State Depar",
+            "2-But the State Depart"
+        ],
+        "median tf-idf score": 1.1455271643082887,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "And while the Justice Department and FBI have been keeping a close hold on information, the probe appears to involve whether any government secrets were compromised and how that came to happen.",
+            " The U S State Department conceded for the first time on Friday that intelligence officials were correct to say that at least 22 emails sent through Hillary Clinton's private server contain some of the government's most sensitive secrets.",
+            "But the State Department had declined to concur with the assessment, allowing Clinton and her supporters to ascribe some concerns about the presence of government secrets in her emails to disputes between agencies."
+        ],
+        "tf-idf score": [
+            0.554003869335142,
+            1.5638267973177256,
+            1.1455271643082887
+        ]
+    },
+    "0.201878175557307-3-34": {
+        "average clique similarity": 0.201878175557307,
+        "clique": [
+            "4-The email issue is o",
+            "2-The finding is likel",
+            "0-But the latest devel"
+        ],
+        "median tf-idf score": 1.1260454911470668,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "The email issue is on the agenda in Congress as well. Iowa Republican Sen. Charles Grassley, who leads the Judiciary Committee, has sent two binders full of letters to Clinton, the State Department and the Justice Department.",
+            "The finding is likely to deepen the political consequences for Clinton of her decision to use a private email account, routed through a server installed in her suburban New York home, and it comes just three days before the Iowa caucuses, as Clinton remains locked in a heated battle with Sen. Bernie Sanders ( .) for the Democratic presidential nomination.",
+            "But the latest developments fueled Republican allegations  --   just three days before the Iowa caucuses  --   that Clinton was \"irresponsible\" in her email use, and that the department she used to lead is still trying to protect her by dragging out the process until after the start of primary contests."
+        ],
+        "tf-idf score": [
+            1.270344140843417,
+            1.1079239701493884,
+            1.1260454911470668
+        ]
+    },
+    "0.2089652502144438-3-124": {
+        "average clique similarity": 0.2089652502144438,
+        "clique": [
+            "2-This flies in the fa",
+            "4- After a process tha",
+            "0- We firmly oppose th"
+        ],
+        "median tf-idf score": 0.6751501826901092,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "This flies in the face of the fact that these emails were unmarked at the time they were sent, and have been called 'innocuous' by certain intelligence officials,\" he said in a statement.",
+            "\"After a process that has been dominated by bureaucratic infighting that has too often played out in public view, the loudest and leakiest participants in this interagency dispute have now prevailed in blocking any release of these emails.",
+            "\"We firmly oppose the complete blocking of the release of these emails,\" he said in a statement. \"This appears to be   run amok."
+        ],
+        "tf-idf score": [
+            0.7762432816738523,
+            0.6751501826901092,
+            0.5751486824090987
+        ]
+    },
+    "0.21348553352387847-3-49": {
+        "average clique similarity": 0.21348553352387847,
+        "clique": [
+            "0-In an interview with",
+            "1-He added that the de",
+            "3-That means they won "
+        ],
+        "median tf-idf score": 1.127875048674043,
+        "publications": [
+            "Talking Points Memo",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "In an interview with NPR, Clinton claimed the latest IG finding doesn't change anything and suggested it was politically motivated. She has claimed that the emails found on her private server and email were \"innocuous\" and never classified at the time.",
+            "He added that the department was now investigating whether the information in them was classified at the time it passed through her private clintonemail. com email account run on a server in her New York home.",
+            "That means they won't be published online with the rest of the documents, even with   boxes. Clinton, the   for the Democratic presidential nomination, has insisted she never sent or received information on her personal email account that was classified at the time."
+        ],
+        "tf-idf score": [
+            1.127875048674043,
+            1.0901187925723395,
+            1.3196228848993328
+        ]
+    },
+    "0.2180438161719868-3-252": {
+        "average clique similarity": 0.2180438161719868,
+        "clique": [
+            "0-But after the State ",
+            "1-But this is the firs",
+            "3-But The Associated P"
+        ],
+        "median tf-idf score": 0.8329211276322699,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "But after the State Department confirmed some emails are so secret they're being withheld in full, Republicans seized on the announcement.",
+            "But this is the first time that entire chains are being withheld. Congressional Republicans have criticized and investigated Clinton for her use of a private email server for her work as a secretary of state from 2009 to 2013.",
+            "But The Associated Press has learned seven email chains are being withheld in full because they contain information deemed to be \"top secret\"."
+        ],
+        "tf-idf score": [
+            0.8329211276322699,
+            1.0769860141813048,
+            0.7294399023607671
+        ]
+    },
+    "0.21849228359495368-3-55": {
+        "average clique similarity": 0.21849228359495368,
+        "clique": [
+            "4-This flies in the fa",
+            "2-Clinton has said non",
+            "0-There were two dumps"
+        ],
+        "median tf-idf score": 0.9732123731959181,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Fox News"
+        ],
+        "sentences": [
+            "This flies in the face of the fact that these emails were unmarked at the time they were sent, and have been called 'innocuous' by certain intelligence officials,\" Clinton spokesman Brian Fallon said.",
+            "Clinton has said none of her emails were marked classified when they were sent.",
+            "There were two dumps totaling 6, 000 in January. While hundreds of these documents were retroactively classified, Fox News first reported that this included emails classified at a level beyond \"top secret. \""
+        ],
+        "tf-idf score": [
+            1.0606614871993363,
+            0.9732123731959181,
+            0.7179618174918562
+        ]
+    },
+    "0.23687769848585508-3-75": {
+        "average clique similarity": 0.23687769848585508,
+        "clique": [
+            "2-An FBI probe of the ",
+            "3-The FBI also is look",
+            "4-The FBI investigatio"
+        ],
+        "median tf-idf score": 0.8350741074484224,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "An FBI probe of the security of Clinton's email setup continues, with Republicans increasingly insisting that the Justice Department take legal action against Clinton for mishandling classified information.",
+            "The FBI also is looking into Clinton's email setup, but has said nothing about the nature of its probe.",
+            "The FBI investigation into Clinton's email has been underway for months now."
+        ],
+        "tf-idf score": [
+            1.0942220153397202,
+            0.8350741074484224,
+            0.7402726550854073
+        ]
+    },
+    "0.24541677582890312-3-227": {
+        "average clique similarity": 0.24541677582890312,
+        "clique": [
+            "2-The inspector genera",
+            "0-A Jan  14 letter fro",
+            "3-They ve backtracked "
+        ],
+        "median tf-idf score": 0.7814753909290155,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The inspector general of the intelligence community has indicated that he believes some of the emails contain \"top secret\" material, the highest level of classification.",
+            "A Jan. 14 letter from Intelligence Community Inspector General I Charles McCullough III to senior lawmakers said a review identified \"several dozen\" additional classified emails    including specific intelligence from \"special access programs (SAP),\" which indicates a level higher than \"top secret. \"",
+            "They've backtracked from the archiving claim, while the AP discovered several phishing attempts on her server connected to Russia. The question of special access programs first surfaced last week, when Charles I McCullough, the inspector general for U S intelligence agencies, cited examples on Clinton's account in a letter to Congress."
+        ],
+        "tf-idf score": [
+            0.7574129313114465,
+            1.0114943339066498,
+            0.7814753909290155
+        ]
+    },
+    "0.24727260338404222-3-93": {
+        "average clique similarity": 0.24727260338404222,
+        "clique": [
+            "1-The Federal Bureau o",
+            "0-Asked Friday whether",
+            "4-The inquiry involves"
+        ],
+        "median tf-idf score": 0.9482457524395776,
+        "publications": [
+            "Reuters",
+            "Fox News",
+            "NPR"
+        ],
+        "sentences": [
+            "The Federal Bureau of Investigation has taken Clinton's server and other computer equipment, but has declined to share details of its inquiries. White House spokesman Josh Earnest downplayed questions about whether Clinton might be prosecuted by the Justice Department. \"That's not something I'm worried about,\" he told reporters.",
+            "Asked Friday whether Clinton would not be indicted, White House Press Secretary Josh Earnest said it does not appear the investigation is headed in that direction. But a law enforcement source close to the DOJ investigation pushed back on those remarks, telling Fox News the investigation is still very much ongoing  --   and a decision has not been made on the matter one way or the other.",
+            "The inquiry involves not just Clinton, but some of her close aides who sent her messages. Clinton recently told reporters that she has not been interviewed by federal agents, but that is something that typically occurs near the end of an investigation."
+        ],
+        "tf-idf score": [
+            0.9482457524395776,
+            1.0133886298256405,
+            0.6469258965539255
+        ]
+    },
+    "0.24978467179635397-3-114": {
+        "average clique similarity": 0.24978467179635397,
+        "clique": [
+            "2-Kirby said the State",
+            "3-Kirby said the State",
+            "0-But he said the Stat"
+        ],
+        "median tf-idf score": 1.1284604212989342,
+        "publications": [
+            "Fox News",
+            "Talking Points Memo",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Kirby said the State Department has not yet made a determination of whether the information was classified at the time it was sent or has become more sensitive due to subsequent events.",
+            "Kirby said the State Department's focus as part of the Freedom of Information Act review of Clinton's emails was on \"whether they need to be classified today\".",
+            "But he said the State Department will look at \"whether they were classified at the time they were sent. \""
+        ],
+        "tf-idf score": [
+            1.1284604212989342,
+            1.4096757896381658,
+            0.7493457744794254
+        ]
+    },
+    "0.24989716432362205-4-2": {
+        "average clique similarity": 0.24989716432362205,
+        "clique": [
+            "0-In a court filing Th",
+            "2-While a judge had or",
+            "1-The department had b",
+            "4-In a   court filing "
+        ],
+        "median tf-idf score": 0.8531093972497332,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Reuters",
+            "Fox News"
+        ],
+        "sentences": [
+            "In a court filing Thursday night, the State Department said it would not make the Jan. 29 release deadline    and about 7, 000 pages still needed to be sent out for \"interagency consultation. \"",
+            "While a judge had ordered the department to release all of the emails by the end of January, lawyers for the department said this week that they would miss the deadline and requested another month.",
+            "The department had been ordered to release all the emails by Friday, but last week asked the court for a   extension.",
+            "In a   court filing this week, authorities said about 7, 000 more pages are not yet ready for release. \"State has moved diligently to process the documents and send them to the appropriate agencies for review, a process that was interrupted by the blizzard that struck Washington, D C,\" the court filing said."
+        ],
+        "tf-idf score": [
+            0.8948618844952277,
+            0.8113569100042386,
+            0.6840112636190214,
+            1.0829354378206122
+        ]
+    },
+    "0.2530805151650368-3-97": {
+        "average clique similarity": 0.2530805151650368,
+        "clique": [
+            "2- And as we have seen",
+            "4-The State Department",
+            "1-Following a   schedu"
+        ],
+        "median tf-idf score": 1.3154338583092502,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Reuters"
+        ],
+        "sentences": [
+            "\"And as we have seen there is a lot . .. [of] interest. But it's something that took time to get done\". In December 2014, Clinton submitted 30, 000 emails to the State Department from her private account  --   adding up to 55, 000 pages of correspondence the department has been slowly making public.",
+            "The State Department has already made public 43, 000 pages of Hillary Clinton's emails, and 1, 000 more pages are supposed to come out Friday evening.",
+            "Following a   schedule, the State Department has already released most of the roughly 30, 000 work emails Clinton returned to the department."
+        ],
+        "tf-idf score": [
+            1.4429962006891508,
+            1.3154338583092502,
+            1.1846643300884943
+        ]
+    },
+    "0.2581198772267821-3-104": {
+        "average clique similarity": 0.2581198772267821,
+        "clique": [
+            "1-Some of her Republic",
+            "4- With even more emai",
+            "0-The agency acknowled"
+        ],
+        "median tf-idf score": 1.1807341384971939,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "Some of her Republican rivals for the presidency, including New Jersey Governor Chris Christie, have called for her prosecution. Reince Priebus, the Republican National Committee's chairman, said in a statement that Clinton had \"put our national security and diplomatic efforts at risk\". The government forbids handling of classified information, which may or may not be marked that way, outside secure   channels, and sometimes prosecutes people who remove it from such channels.",
+            "\"With even more emails on her secret server found to contain 'Top Secret' information, Hillary Clinton has removed all doubt she cannot be trusted with the presidency,\" Republican National Committee Chairman Reince Priebus said in a statement.",
+            "The agency acknowledged these pages had been \"missed\" and not sent out for review earlier. The filing drew Republican complaints. \"The notion that a   process could be hit with 11th hour delays reeks of political favoritism designed to hide the ball from voters on the eve of early state voting,\" Republican National Committee Chairman Reince Priebus said in a statement. \"Voters deserve to know the facts before they cast their ballots, not after. \""
+        ],
+        "tf-idf score": [
+            1.1807341384971939,
+            1.2480609482350422,
+            0.9994030478847284
+        ]
+    },
+    "0.26863711381523003-4-239": {
+        "average clique similarity": 0.26863711381523003,
+        "clique": [
+            "2-       The State Dep",
+            "1-The seven email chai",
+            "3-The State Department",
+            "0-    Hillary Clinton "
+        ],
+        "median tf-idf score": 1.5476324920652824,
+        "publications": [
+            "Reuters",
+            "Washington Post",
+            "Talking Points Memo",
+            "Fox News"
+        ],
+        "sentences": [
+            "       The State Department has concluded there is \"top secret\" material in Hillary Clinton's email correspondence from the time she was secretary of state, indicating that some of her emails will never be released, even in heavily redacted form, because they are too sensitive for the public to view.",
+            "The seven email chains from Clinton's time as secretary of state, amounting to 22 separate messages, will be withheld from the public as a result because the information in them is classified at the highest level as \"top secret,\" State Department spokesman John Kirby said.",
+            "The State Department will release its next batch of emails from Clinton's time as secretary of state later Friday.",
+            "    Hillary Clinton's email headaches grew Friday as the State Department confirmed several emails under review contain information too \"top secret\" to release in any form  --   while at the same time delaying the release of thousands of other pages."
+        ],
+        "tf-idf score": [
+            1.590389186176405,
+            1.7553450208051582,
+            1.1370810911788518,
+            1.5048757979541598
+        ]
+    },
+    "0.27950149516986506-3-161": {
+        "average clique similarity": 0.27950149516986506,
+        "clique": [
+            "1-The Clinton campaign",
+            "4-Clinton s campaign r",
+            "2-Clinton campaign spo"
+        ],
+        "median tf-idf score": 1.106970370110581,
+        "publications": [
+            "NPR",
+            "Reuters",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The Clinton campaign criticized the State Department's decision as the result of \"bureaucratic infighting\" and \"  run amok,\" adding that the emails should be released.",
+            "Clinton's campaign responded that the new roadblock \"appears to be overclassification run amok\" and that it will \"pursue all appropriate avenues to see that her emails are released in a manner consistent with her call last year\".",
+            "Clinton campaign spokesman Brian Fallon called the decision \"  run amok\" and called for the emails to be released publicly despite the State Department's finding."
+        ],
+        "tf-idf score": [
+            1.106970370110581,
+            0.7888868197367336,
+            1.144860383975737
+        ]
+    },
+    "0.3261060825043484-4-76": {
+        "average clique similarity": 0.3261060825043484,
+        "clique": [
+            "1-The State Department",
+            "0-In addition  a spoke",
+            "2-Kirby also said for ",
+            "4-They are not classif"
+        ],
+        "median tf-idf score": 0.9762034295788462,
+        "publications": [
+            "NPR",
+            "Fox News",
+            "Washington Post",
+            "Reuters"
+        ],
+        "sentences": [
+            "The State Department also said it would agree with a request from the White House that Clinton's emails with President Barack Obama, 18 in all, be withheld from public release for several years under the Presidential Records Act.",
+            "In addition, a spokesman said another 18 emails between President Obama and Clinton will be withheld for now  --   but they are \"not classified\" and will be released eventually.",
+            "Kirby also said for the first time that some emails between Clinton and President Obama have been located and will also be withheld from public release.",
+            "They are not classified, Kirby said, and will eventually be released under the Presidential Records Act."
+        ],
+        "tf-idf score": [
+            1.3827142478880707,
+            0.9673439281303571,
+            0.9850629310273354,
+            0.40228706949466564
+        ]
+    },
+    "0.36688928354812694-3-195": {
+        "average clique similarity": 0.36688928354812694,
+        "clique": [
+            "3-The AP reported last",
+            "2-They have remained o",
+            "4-And  in at least one"
+        ],
+        "median tf-idf score": 0.8251924051731471,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Talking Points Memo"
+        ],
+        "sentences": [
+            "The AP reported last August that one focused on a forwarded news article about the classified U S drone program run by the CIA Such operations are widely covered and discussed in the public sphere, including by top U S officials, and the State Department immediately pushed back against McCullough's claim.",
+            "They have remained on the department's unclassified system for years. And, in at least one case, the emails appear to involve information from a published news article,\" he said.",
+            "And, in at least one case, the emails appear to involve information from a published news article\"."
+        ],
+        "tf-idf score": [
+            0.8894469546454683,
+            0.8251924051731471,
+            0.45803630231665865
+        ]
+    },
+    "0.367409437962281-3-16": {
+        "average clique similarity": 0.367409437962281,
+        "clique": [
+            "1-The announcement cam",
+            "4- These documents wer",
+            "0-Meanwhile  State Dep"
+        ],
+        "median tf-idf score": 0.8833331244983573,
+        "publications": [
+            "Fox News",
+            "Reuters",
+            "NPR"
+        ],
+        "sentences": [
+            "The announcement came three days before the Iowa caucuses, when the first votes are cast for the presidential nominations and where Clinton is locked in a tight race with Vermont Senator Bernie Sanders to become the Democratic nominee for the November election. \"These documents were not marked classified at the time that they were sent,\" Kirby said.",
+            "\"These documents were not marked classified at the time they were sent\". Kirby reiterated that he would not comment on the content or subject of the blocked documents. The new revelations come at a particularly politically damaging time  --   just days before the Iowa caucuses on Monday, where the former secretary of state is neck and neck with Vermont Sen. Bernie Sanders.",
+            "Meanwhile, State Department spokesman John Kirby reiterated Friday that the 22 documents in question were \"not marked classified at the time they were sent. \""
+        ],
+        "tf-idf score": [
+            1.0798702679358174,
+            0.8754060076121319,
+            0.8833331244983573
+        ]
+    },
+    "0.37047877852128114-3-252": {
+        "average clique similarity": 0.37047877852128114,
+        "clique": [
+            "3- The documents are b",
+            "2-State Department spo",
+            "4-The documents are be"
+        ],
+        "median tf-idf score": 0.9404522440846191,
+        "publications": [
+            "Talking Points Memo",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "\"The documents are being upgraded at the request of the intelligence community because they contain a category of top secret information,\" State Department spokesman John Kirby told the AP, describing the decision to withhold documents in full as \"not unusual\".",
+            "State Department spokesman John Kirby said the material crosses seven email chains, amounting to 37 pages worth of material.",
+            "The documents are being upgraded at the request of the intelligence community because they contain a category of top secret information,\" State Department spokesman John Kirby said."
+        ],
+        "tf-idf score": [
+            0.9062702663745011,
+            1.0574470437248527,
+            0.9404522440846191
+        ]
+    }
+}

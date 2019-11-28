@@ -1,0 +1,490 @@
+{
+    "0.17054768799685374-3-264": {
+        "average clique similarity": 0.17054768799685374,
+        "clique": [
+            "4- The  defense  attor",
+            "0-Syed s current lawye",
+            "5-But while the failur"
+        ],
+        "median tf-idf score": 0.8869100855789378,
+        "publications": [
+            "Vox",
+            "Guardian",
+            "CNN"
+        ],
+        "sentences": [
+            "\u201dThe (defense) attorney failed to do the simplest thing and just pick up the phone and call this alibi witness and see if she was legitimate,\u201d Brown told CNN\u2019s Jim Sciutto on \u201dNew Day\u201d Friday.",
+            "Syed\u2019s current lawyers argued in court that the data linking his phone to the burial site on the day of Lee\u2019s murder was misleading, because it lacked a cover sheet warning that incoming call data was not reliable.",
+            "But while the failure to call McClain to the stand got the most attention during the podcast, that argument wasn\u2019t what won the day and convinced the Baltimore City Circuit judge to vacate Syed\u2019s convictions."
+        ],
+        "tf-idf score": [
+            0.713759635734232,
+            1.0256463075460684,
+            0.8869100855789378
+        ]
+    },
+    "0.1996234428860688-3-67": {
+        "average clique similarity": 0.1996234428860688,
+        "clique": [
+            "4-Brown told reporters",
+            "3-Announcing the news ",
+            "0-Chaudry celebrated t"
+        ],
+        "median tf-idf score": 0.8905006856524225,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "Brown told reporters that Adnan\u2019s family was speechless on the phone when he shared the news.",
+            "Announcing the news Thursday, attorney Justin Brown tweeted in  : \u201dWE WON A NEW TRIAL FOR ADNAN SYED!",
+            "Chaudry celebrated the news of the new trial on Twitter, writing: \u201cI am shaking with joy, shaking!\u201d  Brown said he has been unable to reach Syed in prison, but expects he has received the news."
+        ],
+        "tf-idf score": [
+            0.463267993670377,
+            0.8905006856524225,
+            1.0072817281351159
+        ]
+    },
+    "0.22294393302940976-3-12": {
+        "average clique similarity": 0.22294393302940976,
+        "clique": [
+            "1-Earlier this year  W",
+            "5-Her reporting turned",
+            "2-But there were sever"
+        ],
+        "median tf-idf score": 0.9924027115563104,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Earlier this year, Welch reopened Syed\u2019s case to allow lawyers to introduce new evidence relating to just two issues: the reliability of cell phone tower evidence used during the original trial and an alibi witness.",
+            "Her reporting turned up new evidence, including cellphone data and an alibi witness, Asia McClain, who wasn\u2019t called to the stand during Syed\u2019s original trial.",
+            "But there were several questions raised about the trial, including the legal representation Syed had received why investigators had not spoken to Asia McLain, a classmate who said she\u2019d been with Syed in the school library at the time of the killing and the reliability of   data used to convict Syed."
+        ],
+        "tf-idf score": [
+            1.261327773067058,
+            0.9711431943330615,
+            0.9924027115563104
+        ]
+    },
+    "0.22579741944387907-3-91": {
+        "average clique similarity": 0.22579741944387907,
+        "clique": [
+            "2- FreeAdnan  Rabia Ch",
+            "0-  After the huge suc",
+            "1-   We are thrilled t"
+        ],
+        "median tf-idf score": 0.8007372254422043,
+        "publications": [
+            "Atlantic",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "#FreeAdnan, Rabia Chaudry, a friend of Syed\u2019s family who spearheaded the campaign to get him a new trial, tweeted: \u201cI am shaking with joy, shaking!",
+            "\u201d After the huge success of Serial, Rabia Chaudry, a family friend of Syed who brought the case to the radio producers, launched her own podcast called Undisclosed, which reported further crucial details.",
+            "\u201d \u201cWe are thrilled that after 17 years Adnan is finally getting the justice he deserves,\u201d Rabia Chaudry, a friend of Syed\u2019s who first brought his case to Koenig\u2019s attention, told The Post in an email."
+        ],
+        "tf-idf score": [
+            0.8007372254422043,
+            0.8261524078192797,
+            0.7552367964878538
+        ]
+    },
+    "0.22996793050046715-3-101": {
+        "average clique similarity": 0.22996793050046715,
+        "clique": [
+            "0-Syed  now 35  had ar",
+            "3-In today s memorandu",
+            "1-Syed s lawyers also "
+        ],
+        "median tf-idf score": 0.8596802761350435,
+        "publications": [
+            "Guardian",
+            "NPR",
+            "Washington Post"
+        ],
+        "sentences": [
+            "Syed, now 35, had argued in Baltimore court that Cristina Gutierrez, his lawyer in the original trial, had provided ineffective counsel and failed to investigate a crucial alibi.",
+            "In today\u2019s memorandum opinion, Welch wrote, \u201dAlthough [Syed\u2019s] trial counsel had notice of the potential alibi witness, neither she nor her staff ever contacted McClain\u201d.",
+            "Syed\u2019s lawyers also argued for a new trial because of his counsel\u2019s failure to contact a potential alibi witness."
+        ],
+        "tf-idf score": [
+            0.8636726608086118,
+            0.8596802761350435,
+            0.8351278943287389
+        ]
+    },
+    "0.23155931154294898-3-32": {
+        "average clique similarity": 0.23155931154294898,
+        "clique": [
+            "2-Updated on June 30 a",
+            "5-Syed s convictions w",
+            "0-Baltimore judge Mart"
+        ],
+        "median tf-idf score": 1.3759026280904811,
+        "publications": [
+            "Atlantic",
+            "Vox",
+            "Guardian"
+        ],
+        "sentences": [
+            "Updated on June 30 at 4:54 p. m. ET, A judge in Baltimore has ordered a new trial for Adnan Syed, the murder convict who was the subject of the Serial, the popular podcast from Chicago Public Radio.",
+            "Syed\u2019s convictions were vacated, meaning he could end up on trial for the murder of his   for a second time, 17 years after the murder occurred and two years after his story spawned the most popular podcast in America.",
+            "Baltimore judge Martin Welch on Thursday granted Syed\u2019s request for a new trial after the   podcast sent thousands of internet sleuths digging through the details of the murder of Hae Min Lee 17 years ago."
+        ],
+        "tf-idf score": [
+            1.4490443484153535,
+            0.8795633159704892,
+            1.3759026280904811
+        ]
+    },
+    "0.24540468859010497-3-109": {
+        "average clique similarity": 0.24540468859010497,
+        "clique": [
+            "4- It is the continued",
+            "3-Attorneys for Syed  ",
+            "5- Adnan Syed  the con"
+        ],
+        "median tf-idf score": 1.4653899469847058,
+        "publications": [
+            "CNN",
+            "Vox",
+            "NPR"
+        ],
+        "sentences": [
+            "\u201dIt is the continued desire of the Attorney General to seek justice in the murder of Hae Min Lee,\u201d The Maryland Office of the Attorney General said in a statement.",
+            "Attorneys for Syed, the key figure in the popular podcast Serial, also want to probe \u2019alleged prosecutorial misconduct.\u2019 \u201dThe new development comes months after the Maryland Court of Special Appeals granted Syed\u2019s request for a review of his case, giving new momentum to his efforts to appeal his 2000 conviction in the murder of Baltimore high school student Hae Min Lee in January of 1999.",
+            " Adnan Syed, the convicted murderer whose story was at the heart of the hit first season of the podcast Serial, had his request for a new trial granted, a judge in Baltimore City Circuit Court decided Thursday."
+        ],
+        "tf-idf score": [
+            0.572452851936291,
+            1.5586175462196838,
+            1.4653899469847058
+        ]
+    },
+    "0.24544868791480448-3-126": {
+        "average clique similarity": 0.24544868791480448,
+        "clique": [
+            "1-It s really hard to ",
+            "3-Earlier this year  W",
+            "0-  Brown quoted Seria"
+        ],
+        "median tf-idf score": 0.7925648371121958,
+        "publications": [
+            "Washington Post",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "It\u2019s really hard to get a new trial, and the improbability of all of this  \u2014   there was a time when this was initially denied,\u201d Syed\u2019s attorney, C Justin Brown, said at a news conference Thursday.",
+            "Earlier this year, Welch heard testimony from Asia McClain, who had written an email to Serial host Sarah Koenig that stated, \u201dAll this time I thought the courts proved it was Adnan that killed her.",
+            "\u201d Brown quoted Serial host Sarah Koenig, saying there was a time when this outcome seemed impossible."
+        ],
+        "tf-idf score": [
+            1.1911795678281816,
+            0.7925648371121958,
+            0.4699824280386338
+        ]
+    },
+    "0.2715548662783125-3-291": {
+        "average clique similarity": 0.2715548662783125,
+        "clique": [
+            "4-As for the cell towe",
+            "0-But Welch did agree ",
+            "2-Judge Welch  in his "
+        ],
+        "median tf-idf score": 0.939587534855821,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Atlantic"
+        ],
+        "sentences": [
+            "As for the cell tower evidence, Welch sided with Syed\u2019s claim that his trial lawyer failed to properly   state witness Abraham Waranowitz on the reliability of cell tower location evidence.",
+            "But Welch did agree that Syed\u2019s attorney should have   a state\u2019s expert witness about the reliability of cell tower data that placed him near the burial site.",
+            "Judge Welch, in his order, cited the failure to   Maryland\u2019s   expert about the technology\u2019s reliability as a factor in ordering a new trial for Syed."
+        ],
+        "tf-idf score": [
+            1.0665226499774305,
+            0.8714472635626784,
+            0.939587534855821
+        ]
+    },
+    "0.2763164447563555-3-145": {
+        "average clique similarity": 0.2763164447563555,
+        "clique": [
+            "1- Reuters    Prosecut",
+            "5-Syed was convicted o",
+            "2-Syed was convicted i"
+        ],
+        "median tf-idf score": 0.7751454224298868,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Vox"
+        ],
+        "sentences": [
+            "(Reuters)   Prosecutors have long maintained that Syed strangled Lee and then buried her body in Baltimore\u2019s Leakin Park in 1999.",
+            "Syed was convicted of murdering Hae Min Lee in 1999, although he, his family, and his friends have always insisted he\u2019s innocent.",
+            "Syed was convicted in 2000 of strangling Hae Min Lee, 18, and burying her body in Baltimore\u2019s Leakin Park."
+        ],
+        "tf-idf score": [
+            0.5975664514438852,
+            0.7751454224298868,
+            0.8206631795758798
+        ]
+    },
+    "0.2831743970568799-3-291": {
+        "average clique similarity": 0.2831743970568799,
+        "clique": [
+            "0-C Justin Brown  Syed",
+            "4-On Thursday  Syed s ",
+            "1-Justin Brown  an att"
+        ],
+        "median tf-idf score": 0.8441138217546502,
+        "publications": [
+            "Guardian",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "C Justin Brown, Syed\u2019s current lawyer, said at a press conference on Thursday that the judge\u2019s order means \u201cthe conviction is erased, it\u2019s gone.",
+            "On Thursday, Syed\u2019s   lawyer, C Justin Brown, shared the news on Twitter.",
+            "Justin Brown, an attorney for \u201dSerial\u201d subject Adnan Syed, comments on a judge\u2019s ruling on June 30 vacating Syed\u2019s murder conviction."
+        ],
+        "tf-idf score": [
+            0.8441138217546502,
+            0.5591584657734004,
+            0.9163062945510406
+        ]
+    },
+    "0.2876176993371977-3-41": {
+        "average clique similarity": 0.2876176993371977,
+        "clique": [
+            "1- Sarah Koenig articu",
+            "4-The Peabody    Seria",
+            "5-Serial host Sarah Ko"
+        ],
+        "median tf-idf score": 0.34346571775703977,
+        "publications": [
+            "Washington Post",
+            "CNN",
+            "Vox"
+        ],
+        "sentences": [
+            "\u201cSarah Koenig articulated it pretty well in \u2018Serial\u2019 when she said this case is just hanging by a string.",
+            "The Peabody   \u201dSerial\u201d podcast is hosted by journalist Sarah Koenig.",
+            "Serial host Sarah Koenig explored his case in the first season of her podcast."
+        ],
+        "tf-idf score": [
+            0.3456022074943292,
+            0.22914565157389463,
+            0.34346571775703977
+        ]
+    },
+    "0.3010254352918555-3-165": {
+        "average clique similarity": 0.3010254352918555,
+        "clique": [
+            "2-Lee s family has lon",
+            "1-  Lee s family also ",
+            "0-Lee s family has mai"
+        ],
+        "median tf-idf score": 0.6374416751355035,
+        "publications": [
+            "Atlantic",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "Lee\u2019s family has long said they believed Syed killed Hae Min Lee.",
+            "\u201d Lee\u2019s family also said new hearings \u201creopened wounds few can imagine.",
+            "Lee\u2019s family has maintained that Syed is guilty, releasing a statement in February saying the proceedings had \u201creopened wounds few can imagine\u201d."
+        ],
+        "tf-idf score": [
+            0.7179272183424501,
+            0.4024870266205158,
+            0.6374416751355035
+        ]
+    },
+    "0.3069522762776845-4-291": {
+        "average clique similarity": 0.3069522762776845,
+        "clique": [
+            "4-Baltimore Circuit Co",
+            "2-  Judge Martin Welch",
+            "1-On Thursday  Baltimo",
+            "3-Baltimore Circuit Co"
+        ],
+        "median tf-idf score": 0.9008478930234143,
+        "publications": [
+            "CNN",
+            "Atlantic",
+            "Washington Post",
+            "NPR"
+        ],
+        "sentences": [
+            "Baltimore Circuit Court Judge Martin Welch vacated Syed\u2019s conviction and ordered a new trial based on claims that Syed\u2019s trial lawyer failed to   the expert witness about the reliability of cell tower location evidence.",
+            "\u201d Judge Martin Welch of the Circuit Court for Baltimore City signed Thursday\u2019s order.",
+            "On Thursday, Baltimore Circuit Judge Martin Welch vacated Syed\u2019s murder conviction, writing in his order that Syed\u2019s former attorney rendered \u201cineffective assistance\u201d by failing to   a state expert about the reliability of cell tower location evidence.",
+            "Baltimore Circuit Court Judge Martin Welch granted the request for a hearing Friday, ordering that it be scheduled sometime in the next 10 days\u201d."
+        ],
+        "tf-idf score": [
+            1.4668037427076908,
+            0.46846197713854504,
+            1.2880883999061408,
+            0.5136073861406878
+        ]
+    },
+    "0.3172890208022547-3-49": {
+        "average clique similarity": 0.3172890208022547,
+        "clique": [
+            "4-The court also consi",
+            "3-One of those request",
+            "0-The judge also disag"
+        ],
+        "median tf-idf score": 0.5924986234104761,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            "The court also considered whether prosecutors withheld potentially exculpatory evidence related to the reliability of the cell tower location evidence.",
+            "One of those requests centered on a trial attorney\u2019s \u201dfailure to contact a potential alibi witness\u201d the other was based on \u201dwithholding potentially exculpatory evidence related to the reliability of cell tower location evidence\u201d.",
+            "The judge also disagreed with Syed\u2019s claims that prosecutors breached their duty by withholding exculpatory evidence."
+        ],
+        "tf-idf score": [
+            0.38555987449190326,
+            0.9086899722075019,
+            0.5924986234104761
+        ]
+    },
+    "0.34358940800518784-3-187": {
+        "average clique similarity": 0.34358940800518784,
+        "clique": [
+            "1-In a 2015 affidavit ",
+            "4-Before his trial  Sy",
+            "3-McClain was also dep"
+        ],
+        "median tf-idf score": 0.9887040276526728,
+        "publications": [
+            "NPR",
+            "Washington Post",
+            "CNN"
+        ],
+        "sentences": [
+            "In a 2015 affidavit, Asia McClain said she remembered talking with Syed in the library at the time prosecutors said Syed killed his former girlfriend.",
+            "Before his trial, Syed gave two letters to his lawyers from McClain in which she said she was with Syed at a library at the time of the murder.",
+            "McClain was also depicted in Serial  \u2014   as NPR\u2019s Andrea Seabrook reported in February, McClain was \u201dthe one who says she saw Adnan Syed in the library at the exact same time that the state said he was out committing a murder\u201d."
+        ],
+        "tf-idf score": [
+            0.6429027630995172,
+            0.9887040276526728,
+            1.1066396814150528
+        ]
+    },
+    "0.3617238852165909-3-291": {
+        "average clique similarity": 0.3617238852165909,
+        "clique": [
+            "4-  CNN  A Baltimore j",
+            "3-Months after he was ",
+            "0-Adnan Syed  whose mu"
+        ],
+        "median tf-idf score": 1.3812017451946579,
+        "publications": [
+            "CNN",
+            "NPR",
+            "Guardian"
+        ],
+        "sentences": [
+            " (CNN) A Baltimore judge has ordered a new trial for Adnan Syed, whose murder conviction was the focus of the first season of the popular \u201dSerial\u201d podcast.",
+            "Months after he was granted a new hearing because of new evidence, Adnan Syed, whose 2000 murder conviction was a key focus of the hit podcast Serial, has been granted a new trial, according to his attorneys.",
+            "Adnan Syed, whose murder case received international attention through the viral podcast Serial, has been granted a new trial, marking a major victory for the Maryland prisoner."
+        ],
+        "tf-idf score": [
+            1.3812017451946579,
+            1.4677831761492897,
+            1.1410878578124886
+        ]
+    },
+    "0.3620099654698246-4-214": {
+        "average clique similarity": 0.3620099654698246,
+        "clique": [
+            "0-Syed has been servin",
+            "4-Syed  35  was servin",
+            "1-Syed  now 35  was se",
+            "3- Now 35  Syed is ser"
+        ],
+        "median tf-idf score": 0.6856641506264227,
+        "publications": [
+            "Washington Post",
+            "Guardian",
+            "NPR",
+            "CNN"
+        ],
+        "sentences": [
+            "Syed has been serving a life sentence since his conviction in 2000 for the murder of Lee, his   from high school.",
+            "Syed, 35, was serving a life sentence in the slaying of his   Hae Min Lee.",
+            "Syed, now 35, was sentenced to life in prison in the 1999 murder of his former girlfriend and fellow Woodlawn High School classmate, Hae Min Lee.",
+            "\u201dNow 35, Syed is serving a life prison term over Lee\u2019s death."
+        ],
+        "tf-idf score": [
+            0.6803328279467029,
+            0.6909954733061424,
+            0.864146387019668,
+            0.46440202885062243
+        ]
+    },
+    "0.36304645062567226-3-287": {
+        "average clique similarity": 0.36304645062567226,
+        "clique": [
+            "1-  Brown said he expe",
+            "0-  Brown said he expe",
+            "4-Brown says the ball "
+        ],
+        "median tf-idf score": 0.3704318407197317,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Guardian"
+        ],
+        "sentences": [
+            "\u201d Brown said he expects the state to appeal the judge\u2019s decision.",
+            "\u201d Brown said he expected the state to appeal the decision.",
+            "Brown says the ball is in the prosecution\u2019s hands, however, as it has about 30 days to appeal or go forward with a new trial."
+        ],
+        "tf-idf score": [
+            0.3704318407197317,
+            0.29248065823615493,
+            0.4897848231995674
+        ]
+    },
+    "0.946318023078932-3-249": {
+        "average clique similarity": 0.946318023078932,
+        "clique": [
+            "4-The State s responsi",
+            "0-The state s responsi",
+            "1- The state s respons"
+        ],
+        "median tf-idf score": 0.27665156910697586,
+        "publications": [
+            "CNN",
+            "Guardian",
+            "Washington Post"
+        ],
+        "sentences": [
+            "The State\u2019s responsibility remains to pursue justice, and to defend what it believes is a valid conviction\u201d.",
+            "The state\u2019s responsibility remains to pursue justice, and to defend what it believes is a valid conviction.",
+            "\u201cThe state\u2019s responsibility remains to pursue justice, and to defend what it believes is a valid conviction,\u201d the statement read."
+        ],
+        "tf-idf score": [
+            0.27665156910697586,
+            0.27665156910697586,
+            0.32058680417410884
+        ]
+    }
+}

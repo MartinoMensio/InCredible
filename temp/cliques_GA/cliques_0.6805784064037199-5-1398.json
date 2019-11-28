@@ -1,0 +1,186 @@
+{
+    "0.27831929181139387-3-38": {
+        "average clique similarity": 0.27831929181139387,
+        "clique": [
+            "2-The decision came be",
+            "0-Even before Lynch s ",
+            "3-    Lynch s decision"
+        ],
+        "median tf-idf score": 1.3556367979943935,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Fox News"
+        ],
+        "sentences": [
+            "The decision came before Comey appears before House lawmakers on Thursday to explain his bombshell decision not to recommend criminal charges against Clinton over her handling of sensitive emails. Republican National Committee Chairman Reince Priebus called Lynch's decision a \"slap in the face\" in a statement late Wednesday.",
+            "Even before Lynch's announcement, Senate Republicans had remarked on the disparity between Comey's statement and his decision not to recommend charges, and they had begun aggressively seeking more information on how the FBI director came to the conclusion that he did.",
+            "\"   Lynch's decision came  FBI Director James Comey said his agency would   not recommend charges against Clinton, the presumptive Democratic   nominee for president. \""
+        ],
+        "tf-idf score": [
+            1.4637652625682707,
+            0.9626939706258667,
+            1.3556367979943935
+        ]
+    },
+    "0.2874802886583552-3-13": {
+        "average clique similarity": 0.2874802886583552,
+        "clique": [
+            "0-The announcement bri",
+            "3-     Our judgment is",
+            "1-Speaking at a press "
+        ],
+        "median tf-idf score": 1.714314366795477,
+        "publications": [
+            "Business Insider",
+            "Washington Post",
+            "Atlantic"
+        ],
+        "sentences": [
+            "The announcement brings to a formal end a probe that for months dogged the presumptive Democratic presidential nominee's campaign, though it is not particularly surprising. On Tuesday, FBI Director James B Comey had said \"no reasonable prosecutor\" would bring a criminal case against Clinton or her staffers, even though investigators found \"evidence of potential violations of the statutes regarding the handling of classified information. \"",
+            "'   \"Our judgment is that no reasonable prosecutor would bring such a   case,\" Comey said. ' '  ' \"   Speaking to concerns that Clinton's private servers could have   been hacked at some point, the director noted that investigators   found no evidence of a breach. \"",
+            "Speaking at a press conference Tuesday, FBI Director James Comey lambasted the presidential candidate as \"extremely careless\" but said \"no reasonable prosecutor\" could bring a criminal case against her. In a message on Twitter shortly after the announcement, Clinton campaign spokesman Brian Fallon said the matter was \"resolved. \""
+        ],
+        "tf-idf score": [
+            1.7374209282816475,
+            1.1839110653725529,
+            1.714314366795477
+        ]
+    },
+    "0.4032482750942026-5-9": {
+        "average clique similarity": 0.4032482750942026,
+        "clique": [
+            "0- U S Attorney Genera",
+            "2- The investigation i",
+            "4-Washington  CNN  Att",
+            "3-         US Attorney",
+            "1-   I want to receive"
+        ],
+        "median tf-idf score": 1.4580105066979168,
+        "publications": [
+            "CNN",
+            "Washington Post",
+            "Business Insider",
+            "Fox News",
+            "Atlantic"
+        ],
+        "sentences": [
+            " U S Attorney General Loretta Lynch on Wednesday confirmed that the investigation into Hillary Clinton's use of a private email server while she was secretary of state will be closed without criminal charges.",
+            " The investigation into Hillary Clinton's private email server will be closed with no criminal charges, Attorney General Loretta Lynch announced Wednesday.",
+            "Washington (CNN) Attorney General Loretta Lynch made it official Wednesday: Hillary Clinton will not be charged for using a personal email server during her tenure as secretary of state, removing a   shadow over her 2016 bid.",
+            "'  ' '   US Attorney General Loretta Lynch on Wednesday said no charges   would be brought against Hillary Clinton for her use of a private   email server as secretary of state, according to Reuters. '",
+            "   I want to receive updates from partners and sponsors. NEWS BRIEF The Justice Department won't pursue criminal charges against presumptive Democratic nominee Hillary Clinton for her use of a private email server while secretary of state, Attorney General Loretta Lynch announced Wednesday."
+        ],
+        "tf-idf score": [
+            1.4958656584919563,
+            1.1906056798407123,
+            1.1750751147186487,
+            1.4580105066979168,
+            1.6618790919293494
+        ]
+    },
+    "0.48121510242291593-3-22": {
+        "average clique similarity": 0.48121510242291593,
+        "clique": [
+            "4- Late this afternoon",
+            "1- Late this afternoon",
+            "0-After Comey recommen"
+        ],
+        "median tf-idf score": 1.9536244763791415,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"Late this afternoon, I met with FBI Director James Comey and career prosecutors and agents who conducted the investigation of Secretary Hillary Clinton's use of a personal email system during her time as secretary of state,\" Lynch said in a statement.",
+            "\"Late this afternoon, I met with FBI Director James Comey and career prosecutors and agents who conducted the investigation of Secretary Hillary Clinton's use of a personal email system during her time as Secretary of State,\" Lynch said in a statement.",
+            "After Comey recommended no charges be filed, spokesman Brian Fallon said in a statement: \"We are pleased that the career officials handling this case have determined that no further action by the Department is appropriate. As the Secretary has long said, it was a mistake to use her personal email and she would not do it again."
+        ],
+        "tf-idf score": [
+            1.9536244763791415,
+            1.9536244763791415,
+            1.3472471481724857
+        ]
+    },
+    "0.6008431689401306-3-34": {
+        "average clique similarity": 0.6008431689401306,
+        "clique": [
+            "4-Clinton s campaign q",
+            "1-With the AG acceptin",
+            "3-     With the AG acc"
+        ],
+        "median tf-idf score": 1.1835154319019863,
+        "publications": [
+            "Atlantic",
+            "CNN",
+            "Business Insider"
+        ],
+        "sentences": [
+            "Clinton's campaign quickly welcomed the news. \"With the AG accepting Director Comey's recommendation, this case is resolved, no matter Republicans' attempts to continue playing politics,\" campaign spokesman Brian Fallon tweeted.",
+            "With the AG accepting Director Comey's recommendation, this case is resolved, no matter Republicans' attempts to continue playing politics, That may be overly optimistic. With Republicans eager to use the scandal as proof of her unfitness for the presidency, the case's closure is unlikely to end the extensive political damage to Clinton.",
+            "'   \"With the AG accepting Director Comey''s recommendation, this case   is resolved, no matter Republicans'' attempts to continue playing   politics,\" Fallon posted. '"
+        ],
+        "tf-idf score": [
+            1.1835154319019863,
+            1.3380264188471465,
+            0.7426900637654315
+        ]
+    },
+    "0.6274496080754738-5-5": {
+        "average clique similarity": 0.6274496080754738,
+        "clique": [
+            "2- I received and acce",
+            "0-I received and accep",
+            "3-I received and accep",
+            "4- I received and acce",
+            "1- I reviewed and acce"
+        ],
+        "median tf-idf score": 1.3158615447804332,
+        "publications": [
+            "Business Insider",
+            "Atlantic",
+            "Washington Post",
+            "CNN",
+            "Fox News"
+        ],
+        "sentences": [
+            "\"I received and accepted their unanimous recommendation that the thorough,   investigation be closed and that no charges be brought against any individuals within the scope of the investigation,\" the statement continued. The decision was largely a formality given Comey's public statement on the case a day earlier, where he recommended against any prosecution. Lynch said last week that she intended to accept whatever recommendations and findings were presented by the FBI and by her career prosecutors.",
+            "I received and accepted their unanimous recommendation that the thorough,   investigation be closed and that no charges be brought against any individuals within the scope of the investigation,\" the attorney general said.",
+            "I received and accepted     their unanimous recommendation that the thorough, yearlong     investigation be closed and that no charges be brought against     any individuals within the scope of the investigation\".   ' \"   Clinton campaign press secretary Brian Fallon was quick to claim   victory  after Lynch's announcement. \"",
+            "\"I received and accepted their unanimous recommendation that the thorough,   investigation be closed and that no charges be brought against any individuals within the scope of the investigation,\" she said.",
+            "\"I reviewed and accepted their unanimous recommendation that the thorough,   investigation be closed and that no charges be brought against any individuals within the scope of the investigation. \" The decision marks the legal end of an extensive probe into whether Clinton intentionally or negligently disclosed classified information on an unsecured system during her time at the State Department."
+        ],
+        "tf-idf score": [
+            1.6618612979260268,
+            0.7953390608739416,
+            1.3158615447804332,
+            0.6969777551898504,
+            1.4066175158728367
+        ]
+    },
+    "0.9349236068356582-3-55": {
+        "average clique similarity": 0.9349236068356582,
+        "clique": [
+            "2- Late this afternoon",
+            "3-       Late this aft",
+            "0- FBI recommends no c"
+        ],
+        "median tf-idf score": 1.7910413843451403,
+        "publications": [
+            "Fox News",
+            "Business Insider",
+            "Washington Post"
+        ],
+        "sentences": [
+            "\"Late this afternoon, I met with FBI Director James Comey and career prosecutors and agents who conducted the investigation of Secretary Hillary Clinton's use of a personal email system during her time as Secretary of State,\" she said.",
+            "'     \"Late this afternoon, I met with FBI Director James Comey and     career prosecutors and agents who conducted the investigation     of Secretary Hillary Clinton''s use of a personal email system     during her time as secretary of state.",
+            "[FBI recommends no criminal charges in Clinton email probe]  \"Late this afternoon, I met with FBI Director James Comey and career prosecutors and agents who conducted the investigation of Secretary Hillary Clinton's use of a personal email system during her time as Secretary of State."
+        ],
+        "tf-idf score": [
+            1.7910413843451403,
+            1.612935126974904,
+            1.7910679426016758
+        ]
+    }
+}
