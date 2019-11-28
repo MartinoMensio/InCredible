@@ -6,6 +6,15 @@ from pathlib import Path
 import functions
 
 st.title('InCredible result inspection')
+st.sidebar.title('Info')
+st.sidebar.info('This is a reproduction of the experiments of the paper '
+    '[Explaining Credibility in News Articles using Cross-Referencing](https://ears2018.github.io/ears18-bountouridis.pdf) '
+    'based on the authors\' [demo](http://fairnews.ewi.tudelft.nl/InCredible/) '
+    'and [source code](https://github.com/dbountouridis/InCredible). ')
+st.sidebar.info('The code for this demo is [here](https://github.com/MartinoMensio/InCredible)')
+st.sidebar.title('Instructions')
+st.sidebar.info('Select a document clique to load: each one represents a different story')
+st.sidebar.info('Select a main source to see the corresponding article')
 
 doc_cliques_input_file = st.text_input('Document cliques input file:', 'Data/dataset.json')
 output_path = st.text_input('Path where the computation results are:', 'temp/cliques_GA/')
